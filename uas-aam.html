@@ -3125,11 +3125,14 @@ function getImplicationSources(article) {
 // hypothesis in the current language at render time (not at fetch time).
 // Seed items keep their hand-written static `implication` string.
 function implicationTextFor(n) {
-  // LLM-generated text is Japanese-only by design (the panel is titled
-  // "Implications for Japan"). In EN mode we still surface the JP text
-  // so the panel isn't empty — the audience is bilingual JP-market
-  // analysts. LLM output is untrusted plain text → escape it.
-  if (n?._llmImpl) return escHtml(n._llmImpl);
+  // LLM-generated text is Japanese-only at the source. In EN mode show
+  // the cached EN translation if we have one; otherwise show the JP
+  // text as a fallback while the async translation lands. LLM output
+  // is untrusted plain text → escape before innerHTML.
+  if (n?._llmImpl) {
+    if (currentLang === 'en' && n._llmImplEn) return escHtml(n._llmImplEn);
+    return escHtml(n._llmImpl);
+  }
   if (n && n._impl) {
     return implicationFor(
       { title: n._impl.title, _feedName: n._impl.feedName },
@@ -3187,6 +3190,43 @@ function refreshBriefImplicationsAsync() {
 
   renderImplSection('🇯🇵', isEn ? 'Domestic' : '国内発', jpItems);
   renderImplSection('🌐', isEn ? 'Overseas → Japan' : '海外発', worldItems);
+
+  // Kick off async EN translation for any displayed implications that
+  // don't yet have a cached translation. Re-renders this panel once at
+  // least one translation lands.
+  if (typeof translateImplicationsIfEn === 'function') {
+    translateImplicationsIfEn([...jpItems, ...worldItems]);
+  }
+}
+
+// Translate AI implications to English when the UI is in EN mode. The
+// generation pipeline only produces JP, so we run a JP→EN pass on the
+// items currently shown in the Brief and re-render when any complete.
+let _implTranslateInFlight = false;
+async function translateImplicationsIfEn(displayed) {
+  if (currentLang !== 'en' || _implTranslateInFlight) return;
+  const targets = (displayed || [])
+    .map(x => x?.n)
+    .filter(n => n && n._llmImpl && !n._llmImplEn);
+  if (!targets.length) return;
+  _implTranslateInFlight = true;
+  try {
+    let changed = false;
+    await Promise.all(targets.map(async (n) => {
+      const en = await translateToEn(n._llmImpl);
+      if (en && en !== n._llmImpl && !JP_CHAR_RE.test(en)) {
+        n._llmImplEn = en;
+        changed = true;
+      }
+    }));
+    if (changed && currentLang === 'en') {
+      // Repaint the implication panel only — the Brief topic list
+      // doesn't depend on these translations.
+      refreshBriefImplicationsAsync();
+    }
+  } finally {
+    _implTranslateInFlight = false;
+  }
 }
 
 function decorateImplLi(li, text, source, article) {
@@ -4159,6 +4199,32 @@ async function translateToJa(text) {
     const translated = data?.responseData?.translatedText;
     if (!translated || translated === text || !JP_CHAR_RE.test(translated)) return text;
     cache[text] = translated;
+    saveTranslateCache(cache);
+    return translated;
+  } catch {
+    return text;
+  }
+}
+
+// JP→EN translation for Brief implications when the UI is in EN mode.
+// Cache keys are prefixed `j2e:` so they don't collide with the en→ja
+// entries written by translateToJa() above.
+async function translateToEn(text) {
+  if (!text || typeof text !== 'string') return '';
+  if (!JP_CHAR_RE.test(text)) return text;  // no Japanese characters → already English
+  const cache = loadTranslateCache();
+  const key = `j2e:${text}`;
+  if (cache[key]) return cache[key];
+  try {
+    const url = `https://api.mymemory.translated.net/get?q=${encodeURIComponent(text.slice(0, 500))}&langpair=ja|en`;
+    const res = await fetch(url);
+    if (!res.ok) return text;
+    const data = await res.json();
+    const translated = data?.responseData?.translatedText;
+    // Reject if MyMemory returned the original or still contains Japanese
+    // characters — caller falls back to JP text.
+    if (!translated || translated === text || JP_CHAR_RE.test(translated)) return text;
+    cache[key] = translated;
     saveTranslateCache(cache);
     return translated;
   } catch {
