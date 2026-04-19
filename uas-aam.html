@@ -1337,26 +1337,13 @@
     .two-col { grid-template-columns: 1fr; }
     .company-grid { grid-template-columns: repeat(2, 1fr); }
     .cta-band { grid-template-columns: 1fr; }
-    nav.nav { display: none; }
+    .nav-toggle { display: inline-flex; margin-left: auto; }
     .usecase-grid { grid-template-columns: repeat(2, 1fr); }
     .charts-row { grid-template-columns: 1fr; }
     .compare { grid-template-columns: 1fr; }
     .compare-vs { padding: 4px; }
     .brief-body { grid-template-columns: 1fr; }
     .brief { padding: 22px; }
-  }
-
-  /* ====== Mobile (iPhone 14 ~390px) — PC view unchanged ====== */
-  @media (max-width: 768px) {
-    body { font-size: 15px; }
-
-    /* Header + hamburger */
-    .top-inner { padding: 10px 16px; gap: 10px; }
-    .brand-name { font-size: 15px; }
-    .nav-toggle { display: inline-flex; margin-left: auto; }
-    .lang { margin-left: 0; padding: 3px; }
-    .lang button { min-height: 44px; padding: 10px 14px; font-size: 13px; }
-    .brand-mark { width: 28px; height: 28px; }
 
     /* Nav as dropdown from the sticky header */
     nav.nav {
@@ -1382,6 +1369,18 @@
       color: var(--text);
     }
     nav.nav a:last-child { border-bottom: 0; }
+  }
+
+  /* ====== Mobile (iPhone 14 ~390px) — PC view unchanged ====== */
+  @media (max-width: 768px) {
+    body { font-size: 15px; }
+
+    /* Header + hamburger */
+    .top-inner { padding: 10px 16px; gap: 10px; }
+    .brand-name { font-size: 15px; }
+    .lang { margin-left: 0; padding: 3px; }
+    .lang button { min-height: 44px; padding: 10px 14px; font-size: 13px; }
+    .brand-mark { width: 28px; height: 28px; }
 
     /* Hero */
     .hero { padding: 32px 16px 24px; }
@@ -2147,8 +2146,8 @@
       </div>
       <h4 data-jp="ラストマイル物流" data-en="Last-mile Logistics">ラストマイル物流</h4>
       <p data-jp="医薬品・生活物資・EC配送の山間地/離島向け" data-en="Medicine, daily goods, e-commerce to mountain / island areas">医薬品・生活物資・EC配送の山間地/離島向け</p>
-      <div class="usecase-metric">42%</div>
-      <div class="usecase-metric-label" data-jp="国内 UAS 実証の比率" data-en="Share of Japan UAS trials">国内 UAS 実証の比率</div>
+      <div class="usecase-metric" data-usecase="logistics">—</div>
+      <div class="usecase-metric-label" data-jp="国内報道シェア" data-en="Share of JP reports">国内報道シェア</div>
     </div>
     <div class="usecase">
       <div class="usecase-icon">
@@ -2159,8 +2158,8 @@
       </div>
       <h4 data-jp="インフラ点検" data-en="Infra Inspection">インフラ点検</h4>
       <p data-jp="橋梁・送電線・プラント・太陽光発電" data-en="Bridges, power lines, plants, solar">橋梁・送電線・プラント・太陽光発電</p>
-      <div class="usecase-metric">28%</div>
-      <div class="usecase-metric-label" data-jp="国内 UAS 実証の比率" data-en="Share of Japan UAS trials">国内 UAS 実証の比率</div>
+      <div class="usecase-metric" data-usecase="inspection">—</div>
+      <div class="usecase-metric-label" data-jp="国内報道シェア" data-en="Share of JP reports">国内報道シェア</div>
     </div>
     <div class="usecase">
       <div class="usecase-icon">
@@ -2171,8 +2170,8 @@
       </div>
       <h4 data-jp="測量・防災" data-en="Survey & Disaster">測量・防災</h4>
       <p data-jp="災害時3Dマッピング・行政向けモニタリング" data-en="Disaster 3D mapping and government monitoring">災害時3Dマッピング・行政向けモニタリング</p>
-      <div class="usecase-metric">18%</div>
-      <div class="usecase-metric-label" data-jp="国内 UAS 実証の比率" data-en="Share of Japan UAS trials">国内 UAS 実証の比率</div>
+      <div class="usecase-metric" data-usecase="survey">—</div>
+      <div class="usecase-metric-label" data-jp="国内報道シェア" data-en="Share of JP reports">国内報道シェア</div>
     </div>
     <div class="usecase">
       <div class="usecase-icon">
@@ -2183,8 +2182,8 @@
       </div>
       <h4 data-jp="旅客輸送(AAM)" data-en="Passenger (AAM)">旅客輸送(AAM)</h4>
       <p data-jp="都市間 eVTOL / 空港アクセス / 観光利用" data-en="Intercity eVTOL / airport access / tourism">都市間 eVTOL / 空港アクセス / 観光利用</p>
-      <div class="usecase-metric" style="color:var(--accent-3)">12%</div>
-      <div class="usecase-metric-label" data-jp="国内 AAM 実証の比率" data-en="Share of Japan AAM trials">国内 AAM 実証の比率</div>
+      <div class="usecase-metric" data-usecase="passenger" style="color:var(--accent-3)">—</div>
+      <div class="usecase-metric-label" data-jp="国内報道シェア" data-en="Share of JP reports">国内報道シェア</div>
     </div>
   </div>
 </section>
@@ -3107,7 +3106,8 @@ function getImplicationSources(article) {
 function implicationTextFor(n) {
   // LLM-generated text is only Japanese; in EN mode fall through to the
   // template so language switching stays clean.
-  if (n?._llmImpl && currentLang === 'jp') return n._llmImpl;
+  // LLM output is untrusted plain text → escape before it hits innerHTML.
+  if (n?._llmImpl && currentLang === 'jp') return escHtml(n._llmImpl);
   if (n && n._impl) {
     return implicationFor(
       { title: n._impl.title, _feedName: n._impl.feedName },
@@ -3298,7 +3298,9 @@ async function refreshLiveNews() {
     // Overlay AI implications from the persistent cache — /api/news
     // doesn't embed them, so without this Brief would fall back to the
     // template whenever live feed wins the race over the static file.
-    const implMap = await loadImplCacheMap();
+    // Force-refresh on each cycle so the 15-min loop picks up newly
+    // committed impl-cache.json entries instead of holding a stale promise.
+    const implMap = await loadImplCacheMap(true);
     const enriched = enrichArticlesWithImplCache(published, implMap);
     if (enriched) console.info(`[live-news] overlaid AI implications on ${enriched}/${published.length} articles`);
 
@@ -3328,6 +3330,7 @@ async function refreshLiveNews() {
     updateArchiveCountUI();
     if (typeof renderCompanies === 'function') renderCompanies(currentCompanyFilter);
     if (typeof renderRegionChart === 'function') renderRegionChart();
+    if (typeof updateUsecaseShares === 'function') updateUsecaseShares();
     console.info(`[live-news] ${liveArticles.length} scored articles (server-side from ${rawCount} raw)`);
   } catch (err) {
     liveStatus = 'failed';
@@ -3556,17 +3559,17 @@ function renderArchive() {
       }
     }
     const regionClass = a.region === 'jp' ? 'jp' : 'world';
-    const title = (a.title || '').replace(/</g, '&lt;');
-    const source = (a.source || '').replace(/</g, '&lt;');
+    const title = escHtml(a.title || '');
+    const source = escHtml(a.source || '');
     const scoreStr = a.score != null ? `${a.score}pt` : '—';
     const aiBadge = a.aiImpl ? `<span class="archive-ai-badge" title="${isEn ? 'AI-generated implication' : 'AI生成の示唆'}">AI</span>` : '';
     const implHtml = (a.implication && a.aiImpl)
-      ? `<div class="archive-impl"><span class="archive-impl-label">${isEn ? 'Implication' : '示唆'}</span>${(a.implication || '').replace(/</g, '&lt;')}</div>`
+      ? `<div class="archive-impl"><span class="archive-impl-label">${isEn ? 'Implication' : '示唆'}</span>${escHtml(a.implication || '')}</div>`
       : '';
     parts.push(`
-      <div class="archive-row${implHtml ? ' has-impl' : ''}" data-href="${a.url}" data-fact-url="${encodeURIComponent(a.url)}">
-        <span class="archive-time">${formatArchiveDate(a.publishedAt || a.firstSeenAt)}</span>
-        <span class="archive-badge ${regionClass}">${a.regionLabel || a.region}</span>
+      <div class="archive-row${implHtml ? ' has-impl' : ''}" data-href="${escHtml(a.url)}" data-fact-url="${encodeURIComponent(a.url)}">
+        <span class="archive-time">${escHtml(formatArchiveDate(a.publishedAt || a.firstSeenAt))}</span>
+        <span class="archive-badge ${regionClass}">${escHtml(a.regionLabel || a.region)}</span>
         <span class="archive-title">${title}${aiBadge}<span class="arc-src"> · ${source}</span></span>
         <span class="archive-score">${scoreStr}</span>
         <button class="fact-btn-inline" type="button" title="${isEn ? 'Fact-check this article' : 'この記事をファクトチェック'}">✓</button>
@@ -3802,24 +3805,24 @@ function openFactCheck(url) {
   const relatedHtml = related.length
     ? related.map(r => {
         const regionClass = r.region === 'jp' ? 'jp' : 'world';
-        const title = (r.title || '').replace(/</g, '&lt;');
-        const source = (r.source || '').replace(/</g, '&lt;');
+        const title = escHtml(r.title || '');
+        const source = escHtml(r.source || '');
         return `
-          <a class="archive-row" href="${r.url}" target="_blank" rel="noopener">
-            <span class="archive-time">${r.publishedAt ? formatArchiveDate(r.publishedAt) : '—'}</span>
-            <span class="archive-badge ${regionClass}">${r.regionLabel || r.region}</span>
+          <a class="archive-row" href="${escHtml(r.url)}" target="_blank" rel="noopener">
+            <span class="archive-time">${r.publishedAt ? escHtml(formatArchiveDate(r.publishedAt)) : '—'}</span>
+            <span class="archive-badge ${regionClass}">${escHtml(r.regionLabel || r.region)}</span>
             <span class="archive-title">${title}<span class="arc-src"> · ${source}</span></span>
-            <span class="archive-score">${isEn ? 'Shared' : '共通語'} ${r.overlap}</span>
+            <span class="archive-score">${isEn ? 'Shared' : '共通語'} ${escHtml(String(r.overlap))}</span>
           </a>`;
       }).join('')
     : `<div class="fact-related-empty">${isEn ? 'No closely related articles found in the archive. Even if the score is high, verification against primary sources is recommended.' : 'アーカイブ内に関連度の高い他記事は見つかりませんでした。スコアが高い場合でも、一次情報での裏取りを推奨します。'}</div>`;
 
   const catsHtml = matched.length
-    ? matched.map(c => `<span class="fact-cat">${c}</span>`).join('')
+    ? matched.map(c => `<span class="fact-cat">${escHtml(c)}</span>`).join('')
     : `<span class="fact-cat none">${isEn ? 'No keyword match' : 'キーワード一致なし'}</span>`;
 
   const diversityHtml = confidence.uniqueDomains.length
-    ? confidence.uniqueDomains.map(d => `<span class="fact-domain">${d || '—'}</span>`).join('')
+    ? confidence.uniqueDomains.map(d => `<span class="fact-domain">${escHtml(d || '—')}</span>`).join('')
     : `<span class="fact-cat none">${isEn ? 'No related-report domains' : '関連報道ドメインなし'}</span>`;
 
   const timelineHtml = timeline && timeline.totalReports > 1
@@ -3832,8 +3835,8 @@ function openFactCheck(url) {
 
   body.innerHTML = `
     <div class="fact-article">
-      <h4>${(article.title || '').replace(/</g, '&lt;')}</h4>
-      <div class="fact-meta">${article.regionLabel || ''} · ${(article.source || '').replace(/</g, '&lt;')} · ${article.publishedAt ? formatTimelineDate(new Date(article.publishedAt)) : ''}</div>
+      <h4>${escHtml(article.title || '')}</h4>
+      <div class="fact-meta">${escHtml(article.regionLabel || '')} · ${escHtml(article.source || '')} · ${article.publishedAt ? escHtml(formatTimelineDate(new Date(article.publishedAt))) : ''}</div>
     </div>
     ${urlNotice}
 
@@ -4131,7 +4134,7 @@ function renderBrief(items) {
 
   const topFive = items.slice(0, 5);
   topFive.forEach((n, i) => {
-    const tagsHtml = n.tags.map(t => `<span class="tag ${tagClass(t)}">${t}</span>`).join('');
+    const tagsHtml = n.tags.map(t => `<span class="tag ${tagClass(t)}">${escHtml(t)}</span>`).join('');
     const age = formatRelativeAge(n);
     const a = document.createElement('a');
     a.className = 'brief-item';
@@ -4141,9 +4144,9 @@ function renderBrief(items) {
     a.innerHTML = `
       <div class="brief-num">${String(i + 1).padStart(2, '0')}</div>
       <div>
-        <h4>${displayTitle(n)}</h4>
+        <h4>${escHtml(displayTitle(n))}</h4>
         <div class="brief-meta">
-          ${tagsHtml}${n.regionLabel} · ${n.source} · ${age}
+          ${tagsHtml}${escHtml(n.regionLabel)} · ${escHtml(n.source)} · ${escHtml(age)}
         </div>
       </div>
       <div class="brief-arrow">→</div>
@@ -4182,7 +4185,7 @@ function renderTicker(items) {
     const label = n.regionLabel.split(' ')[1] || n.region.toUpperCase();
     const raw = displayTitle(n);
     const title = raw.length > 48 ? raw.slice(0, 46) + '…' : raw;
-    return `<a class="ticker-item" href="${n.url}" target="_blank" rel="noopener">${emoji} <b>${label}</b> ${title}</a>`;
+    return `<a class="ticker-item" href="${escHtml(n.url)}" target="_blank" rel="noopener">${escHtml(emoji)} <b>${escHtml(label)}</b> ${escHtml(title)}</a>`;
   });
   // duplicate for seamless loop
   track.innerHTML = heads.join('') + heads.join('');
@@ -4197,7 +4200,7 @@ function renderNews(items) {
     const age = formatRelativeAge(n);
     const thumbClass = THUMB_CLASS_MAP[n.thumb] || 'thumb-1';
     const thumbSvg = THUMB_SVGS[n.thumb] || THUMB_SVGS.document;
-    const tagsHtml = n.tags.map(t => `<span class="tag ${tagClass(t)}">${t}</span>`).join('');
+    const tagsHtml = n.tags.map(t => `<span class="tag ${tagClass(t)}">${escHtml(t)}</span>`).join('');
     const tagsAttr = n.tags.join('|');
 
     // Wrapper holds filter metadata and sits as the grid cell
@@ -4220,11 +4223,11 @@ function renderNews(items) {
       </div>
       <div class="card-head">
         ${tagsHtml}
-        <span class="region">${n.regionLabel}</span>
+        <span class="region">${escHtml(n.regionLabel)}</span>
       </div>
-      <h3>${displayTitle(n)}</h3>
-      <p>${n.desc}</p>
-      <div class="card-foot"><span>Source: ${n.source}</span><span>${age}</span></div>
+      <h3>${escHtml(displayTitle(n))}</h3>
+      <p>${escHtml(n.desc)}</p>
+      <div class="card-foot"><span>Source: ${escHtml(n.source)}</span><span>${escHtml(age)}</span></div>
     `;
 
     const factBtn = document.createElement('button');
@@ -4365,9 +4368,9 @@ function findRelatedForMarker(marker, limit = 3) {
   return scored.slice(0, limit).map(s => s.n);
 }
 
-function escapeHtml(s) {
-  return String(s ?? '').replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
-}
+// Alias to the global escHtml defined above; kept for readability in places
+// that already call escapeHtml().
+const escapeHtml = escHtml;
 
 function renderMapTooltip(marker) {
   const tip = document.getElementById('mapTooltip');
@@ -4549,9 +4552,6 @@ function renderEvents() {
   }
   if (empty) empty.hidden = true;
 
-  const escHtml = s => String(s ?? '').replace(/[&<>"']/g, ch =>
-    ({ '&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;' }[ch]));
-
   list.innerHTML = upcoming.map(ev => {
     const year = parseLocalDate(ev.start).getFullYear();
     const range = formatEventRange(ev.start, ev.end);
@@ -4639,6 +4639,83 @@ function collectRegionChartData() {
     counts[r][c] += 1;
   }
   return counts;
+}
+
+// ==========================================================================
+// Use-case share — derive each bucket's % of classified JP-region reports
+// from live + archive + seed pool, replacing the old hard-coded numbers.
+// ==========================================================================
+const USECASE_KEYWORDS = {
+  logistics: [
+    'delivery', 'drone delivery', 'last-mile', 'last mile', 'parcel', 'package',
+    'e-commerce', 'medical delivery', 'medicine', 'prescription', 'pharmacy',
+    'cargo drone', 'food delivery',
+    '配送', '物流', '宅配', '医薬品配送', '医薬品', '買い物', '離島', '山間', 'ラストマイル',
+  ],
+  inspection: [
+    'inspection', 'bridge inspection', 'power line', 'transmission line', 'pipeline',
+    'solar', 'plant inspection', 'patrol', 'maintenance',
+    '点検', '巡視', '橋梁', '送電線', 'プラント', '太陽光', '保守', '設備点検', 'インフラ点検',
+  ],
+  survey: [
+    'survey', 'mapping', '3d mapping', 'disaster', 'rescue', 'emergency',
+    'search and rescue', 'firefighting', 'wildfire',
+    '測量', 'マッピング', '災害', '防災', '捜索', '救助', '消防', '被災', '緊急',
+  ],
+  passenger: [
+    'evtol', 'air taxi', 'air mobility', 'uam', 'aam', 'passenger',
+    'vertiport', 'skyport', 'expo 2025', 'osaka expo',
+    '空飛ぶクルマ', '空飛ぶ車', 'エアタクシー', '旅客', '万博', '大阪万博', 'eVTOL', '都市間',
+  ],
+};
+
+function classifyUsecase(article) {
+  const text = [article.title, article.desc, article.description]
+    .filter(Boolean).join(' ').toLowerCase();
+  if (!text) return null;
+  for (const [bucket, kws] of Object.entries(USECASE_KEYWORDS)) {
+    if (kws.some(kw => text.includes(kw.toLowerCase()))) return bucket;
+  }
+  return null;
+}
+
+function collectUsecasePool() {
+  const live    = Array.isArray(liveArticles) ? liveArticles : [];
+  const archive = (typeof loadArchive === 'function') ? loadArchive() : [];
+  const seed    = Array.isArray(NEWS_POOL) ? NEWS_POOL : [];
+  const seen = new Set();
+  const out = [];
+  for (const a of [...live, ...archive, ...seed]) {
+    const k = normalizeArchiveUrl(a.url || '') || a.id || a.title;
+    if (!k || seen.has(k)) continue;
+    seen.add(k);
+    out.push(a);
+  }
+  return out;
+}
+
+function updateUsecaseShares() {
+  const nodes = document.querySelectorAll('.usecase-metric[data-usecase]');
+  if (!nodes.length) return;
+  const jpOnly = collectUsecasePool().filter(a => a.region === 'jp');
+  const counts = { logistics: 0, inspection: 0, survey: 0, passenger: 0 };
+  let classified = 0;
+  for (const a of jpOnly) {
+    const b = classifyUsecase(a);
+    if (b && counts[b] !== undefined) { counts[b]++; classified++; }
+  }
+  nodes.forEach(node => {
+    const key = node.dataset.usecase;
+    if (classified < 1) { node.textContent = '—'; return; }
+    const pct = Math.round((counts[key] / classified) * 100);
+    node.textContent = `${pct}%`;
+  });
+  const label = currentLang === 'en'
+    ? `JP reports classified: ${classified} / ${jpOnly.length}`
+    : `国内報道 分類済: ${classified} / ${jpOnly.length}件`;
+  document.querySelectorAll('.usecase .usecase-metric-label').forEach(el => {
+    el.title = label;
+  });
 }
 
 function renderRegionChart() {
@@ -5066,9 +5143,6 @@ function renderCompanies(filter = 'featured') {
 
   const maxScore = list[0]._s.score || 1;
 
-  const escHtml = s => String(s ?? '').replace(/[&<>"']/g, ch =>
-    ({ '&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;' }[ch]));
-
   grid.innerHTML = list.map((c, i) => {
     const s = c._s;
     const hot = s.score >= maxScore * 0.85 && s.mentions >= 2;
@@ -5210,6 +5284,7 @@ function applyLang(lang) {
   if (typeof renderEvents === 'function') renderEvents();
   if (typeof renderRegionChart === 'function') renderRegionChart();
   if (typeof renderFundingChart === 'function') renderFundingChart();
+  if (typeof updateUsecaseShares === 'function') updateUsecaseShares();
   // Re-apply the last live-status text in the new language
   const ls = document.getElementById('liveStatus');
   if (ls && ls.dataset.stateKey && typeof setLiveStatusUI === 'function') {
@@ -5285,6 +5360,7 @@ document.addEventListener('DOMContentLoaded', async () => {
   renderBrief(picked);
   renderNews(picked);
   renderTicker(picked);
+  if (typeof updateUsecaseShares === 'function') updateUsecaseShares();
   setLiveStatusUI('seed', currentLang === 'en' ? 'Initial view' : '初期表示');
 
   // Kick off live RSS pipeline (FAA / EASA / Google News) and refresh every 15 min
