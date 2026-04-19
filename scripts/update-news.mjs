@@ -206,25 +206,47 @@ async function saveImplCache(cache) {
   await writeFile(IMPL_CACHE_PATH, JSON.stringify(pruned, null, 2) + '\n', 'utf8');
 }
 
+const IMPL_SYSTEM_PROMPT = `あなたは日本の UAS / AAM (ドローン・空飛ぶクルマ) 業界アナリストです。
+海外・国内ニュースを読み、「このニュースで日本の何が具体的に変わるか」を短く書いてください。
+
+# 出力ルール
+- 2〜3文、200字以内、1段落。見出し・記号・改行は付けない。
+- ニュース本文にある **固有名詞**(企業・機関・製品・地名・金額・日付) を最低1つ必ず引用する。
+  例: "Joby の FAA Part 135 取得は…"、"DJI Mavic 4 の…"、"eVTOL 商用化を 2025 年に前倒しした Archer の…"
+- 日本側の **具体的な主体・制度** を最低1つ必ず使う。抽象的な「日本の事業者」「規制側」は禁止。
+  - 規制/行政: 航空法レベル4、特定飛行、機体認証、型式認証、国土交通省航空局 (JCAB)、総務省電波部、経産省、NEDO
+  - 産業: SkyDrive、テラドローン、ACSL、JAL、ANA、トヨタ、スズキ、丸紅、住友商事、KDDI、楽天、JAXA、DeNA
+  - 市場・案件: 大阪・関西万博、離島配送、山間地点検、災害対応、インフラ点検、農業、物流ラストワンマイル
+
+# 示唆の型 (ニュース内容に応じて選ぶ。同じ型の繰り返しは禁止)
+ (a) Xの動きは国内の Y規制/議論 に直接波及する
+ (b) X社の事例は日本の競合 Y社 に圧力をかける
+ (c) FAA / EASA の X は JCAB の Y を加速 / 阻害する
+ (d) 遅れる日本が X から学べるのは Y
+ (e) X分野で先行した海外勢が、国内の Y案件 / 実証 に参入する可能性
+
+# 禁止フレーズ (使うと出力が棄却されます)
+- 「同分野の国内対応が問われる」
+- 「〜の鍵となる」
+- 「〜が求められる」を単独で使うこと
+- 「〜という局面になりうる」
+- 全文を「〜の可能性がある」「〜と示唆される」だけで終わらせること
+- 「日本の事業者」「規制側」「国内対応」などの抽象語
+
+# その他
+前置き、自己言及 ("AI として…"、"示唆:") は書かない。本文のみ。`;
+
 async function generateImplicationJp(article) {
   if (!ANTHROPIC_API_KEY) return null;
-  const prompt =
-`あなたは日本の UAS / AAM(ドローン・空飛ぶクルマ)業界アナリストです。
-以下のニュースを読み、日本の事業者・規制当局・利用者にとっての示唆を1〜2文で日本語で書いてください。
-
-制約:
-- 事実の繰り返しではなく、日本側への含意を書く
-- 「〜可能性がある」「〜と見られる」など推論調で可
-- 100字以内、1段落、装飾記号や見出しは付けない
-
-タイトル: ${article.title}
+  const userMessage =
+`タイトル: ${article.title}
 出典: ${article._feedName || article.source || ''}
-概要: ${(article.description || '').slice(0, 400)}
+概要: ${(article.description || '').slice(0, 600)}
 
-示唆:`;
+上記ニュースの、日本の航空行政・産業への具体的な示唆を書いてください。`;
 
   const ctrl = new AbortController();
-  const to = setTimeout(() => ctrl.abort(), 15000);
+  const to = setTimeout(() => ctrl.abort(), 20000);
   try {
     const res = await fetch('https://api.anthropic.com/v1/messages', {
       method: 'POST',
@@ -235,8 +257,9 @@ async function generateImplicationJp(article) {
       },
       body: JSON.stringify({
         model: CLAUDE_MODEL,
-        max_tokens: 220,
-        messages: [{ role: 'user', content: prompt }],
+        max_tokens: 400,
+        system: IMPL_SYSTEM_PROMPT,
+        messages: [{ role: 'user', content: userMessage }],
       }),
       signal: ctrl.signal,
     });
@@ -249,7 +272,19 @@ async function generateImplicationJp(article) {
     const data = await res.json();
     const text = data?.content?.[0]?.text?.trim();
     if (!text) return null;
-    return text.replace(/^示唆[:：]?\s*/, '').replace(/\s+/g, ' ').slice(0, 180);
+    const cleaned = text
+      .replace(/^(示唆|注釈|注記)[:：]?\s*/u, '')
+      .replace(/\s*\n+\s*/g, ' ')
+      .replace(/\s{2,}/g, ' ')
+      .trim();
+    // Reject outputs that still lean on banned stock phrases — fall back to
+    // the HTML-side template so we don't pay for filler text.
+    const banned = /同分野の国内対応が問われる|鍵となる|という局面になりうる/;
+    if (banned.test(cleaned)) {
+      console.warn(`[impl] rejected banned phrase in output: ${cleaned.slice(0, 60)}…`);
+      return null;
+    }
+    return cleaned.slice(0, 260);
   } catch (err) {
     clearTimeout(to);
     console.warn(`[impl] ${err.message}`);
