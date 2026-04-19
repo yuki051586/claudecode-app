@@ -3269,7 +3269,9 @@ async function refreshLiveNews() {
     mergeIntoArchive(liveArticles);
     // Also pull in AI implications from earlier runs so paid-for content
     // stays visible even after the article rotates out of the live feed.
-    seedArchiveFromImplCache();
+    seedArchiveFromImplCache().then(() => {
+      if (typeof renderArchive === 'function') renderArchive();
+    });
     const picked = pickForCurrentWindow();
     renderBrief(picked);
     renderNews(picked);
@@ -3311,8 +3313,15 @@ function saveArchive() {
   catch (e) { console.warn('[archive] save failed', e); }
 }
 
+function normalizeArchiveUrl(url) {
+  if (!url) return '';
+  // Strip query params and trailing slashes so Google News wrappers with
+  // / without ?oc=5 (or hl=, etc.) dedupe against each other.
+  return String(url).split('?')[0].split('#')[0].replace(/\/+$/, '');
+}
+
 function archiveKey(item) {
-  return (item.url || '') + '|' + (item.title || '').slice(0, 80).toLowerCase();
+  return normalizeArchiveUrl(item.url) + '|' + (item.title || '').slice(0, 80).toLowerCase();
 }
 
 function mergeIntoArchive(items) {
@@ -5219,6 +5228,10 @@ document.addEventListener('DOMContentLoaded', async () => {
 
   // Seed archive from NEWS_POOL if empty so the "more news" view is never blank on first visit
   seedArchiveFromPool();
+  // Pull AI implications (from previous paid runs) into the archive before
+  // we first render it. Awaiting here guarantees the archive shows AI
+  // badges / implication blocks on the very first paint.
+  await seedArchiveFromImplCache();
   updateArchiveCountUI();
 
   // Render seed news immediately so the page has content before the fetch resolves
