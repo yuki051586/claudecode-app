@@ -1602,7 +1602,39 @@
 
     /* "次回更新まで" / live pill — shrink the glowing dot on mobile */
     .upd-dot { width: 5px; height: 5px; box-shadow: 0 0 3px var(--ok); }
-    .upd-pill { font-size: 11px; padding: 4px 9px; gap: 5px; margin-left: 6px; }
+    .upd-pill {
+      font-size: 11px; padding: 4px 9px; gap: 5px; margin-left: 0;
+    }
+
+    /* Brief meta row — wrap pills cleanly instead of fighting for one line */
+    .brief-date {
+      flex-wrap: wrap; gap: 6px 8px; font-size: 12px; width: 100%;
+    }
+    .brief-date > svg { flex-shrink: 0; }
+    #liveStatus { min-width: 96px; justify-content: center; }
+
+    /* Ticker — visible separator so the "Live Feed" label doesn't
+       look orphaned while items stream in */
+    .ticker {
+      padding: 10px 0; margin-top: 16px;
+      gap: 0;
+      position: relative; overflow: hidden;
+    }
+    .ticker-label {
+      font-size: 10px;
+      padding: 0 12px 0 14px; margin-right: 12px;
+      border-right: 1px solid var(--border-soft);
+      line-height: 1.2;
+    }
+    .ticker-track { gap: 22px; font-size: 12px; }
+    .ticker-item { padding-right: 0; }
+    /* Fade the right edge so items disappear smoothly on narrow screens */
+    .ticker::after {
+      content: ""; position: absolute; top: 0; right: 0; bottom: 0;
+      width: 28px;
+      background: linear-gradient(90deg, transparent, var(--bg-2));
+      pointer-events: none;
+    }
   }
 </style>
 </head>
