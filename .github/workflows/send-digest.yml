@@ -1,0 +1,44 @@
+name: Weekly digest
+
+on:
+  schedule:
+    # Mon 07:00 JST = Sun 22:00 UTC
+    - cron: '0 22 * * 0'
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: 'Render only, do not dispatch broadcast'
+        required: false
+        default: 'false'
+
+permissions:
+  contents: read
+
+concurrency:
+  group: send-digest
+  cancel-in-progress: false
+
+jobs:
+  send:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Send weekly digest
+        env:
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          RESEND_AUDIENCE_ID: ${{ secrets.RESEND_AUDIENCE_ID }}
+          RESEND_FROM: ${{ secrets.RESEND_FROM }}
+        run: |
+          if [ "${{ github.event.inputs.dry_run }}" = "true" ]; then
+            node scripts/send-digest.mjs --dry-run
+          else
+            node scripts/send-digest.mjs
+          fi

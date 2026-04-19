@@ -571,6 +571,15 @@
   }
   .cta-band h2 { margin: 0 0 10px; font-size: 22px; }
   .cta-band p { margin: 0; color: var(--muted); font-size: 14px; }
+  .sub-wrap { display: flex; flex-direction: column; gap: 10px; }
+  .sub-tabs { display: inline-flex; gap: 4px; background: var(--bg-2); border: 1px solid var(--border); border-radius: 999px; padding: 3px; align-self: flex-start; }
+  .sub-tab {
+    background: transparent; border: 0; color: var(--muted);
+    padding: 6px 14px; border-radius: 999px; font-size: 12px; font-weight: 700;
+    letter-spacing: 0.04em; cursor: pointer; transition: background 0.15s, color 0.15s;
+  }
+  .sub-tab:hover { color: var(--text); }
+  .sub-tab.on { background: var(--accent); color: var(--bg); }
   .sub-form { display: flex; gap: 8px; }
   .sub-form input {
     flex: 1; background: var(--bg-2); border: 1px solid var(--border);
@@ -578,6 +587,11 @@
     font-size: 14px; outline: none;
   }
   .sub-form input:focus { border-color: var(--accent); }
+  .sub-form[data-mode="unsubscribe"] input:focus { border-color: var(--danger); }
+  .sub-form[data-mode="unsubscribe"] .btn-primary {
+    background: linear-gradient(135deg, #ff5a6a, #c2185b); color: #fff;
+  }
+  .sub-hint { font-size: 11px; color: var(--dim); line-height: 1.5; }
 
   /* ====== Footer ====== */
   footer {
@@ -2693,10 +2707,19 @@
     <h2 data-jp="毎週月曜、日本と世界の UAS / AAM を10分で。" data-en="Every Monday — UAS & AAM in 10 minutes.">毎週月曜、日本と世界の UAS / AAM を10分で。</h2>
     <p data-jp="SkyNexus Weekly Brief — 政策動向・資金調達・実証情報を編集者がキュレーション。無料。" data-en="SkyNexus Weekly Brief — Curated policy, funding and pilot-program updates. Free.">SkyNexus Weekly Brief — 政策動向・資金調達・実証情報を編集者がキュレーション。無料。</p>
   </div>
-  <form class="sub-form" id="subForm">
-    <input type="email" placeholder="mail@example.com" required data-jp-placeholder="mail@example.com" data-en-placeholder="your@email.com">
-    <button class="btn btn-primary" type="submit" data-jp="登録する" data-en="Subscribe">登録する</button>
-  </form>
+  <div class="sub-wrap" id="subWrap">
+    <div class="sub-tabs" role="tablist">
+      <button class="sub-tab on" type="button" data-mode="subscribe" data-jp="登録" data-en="Subscribe">登録</button>
+      <button class="sub-tab" type="button" data-mode="unsubscribe" data-jp="配信停止" data-en="Unsubscribe">配信停止</button>
+    </div>
+    <form class="sub-form" id="subForm" data-mode="subscribe">
+      <input type="email" placeholder="mail@example.com" required data-jp-placeholder="mail@example.com" data-en-placeholder="your@email.com">
+      <button class="btn btn-primary" type="submit" data-sub-label data-jp="登録する" data-en="Subscribe">登録する</button>
+    </form>
+    <div class="sub-hint" data-jp="登録時に確認メールをお送りします。いつでもワンクリックで配信停止できます。" data-en="We'll send a confirmation email. Unsubscribe anytime with one click.">
+      登録時に確認メールをお送りします。いつでもワンクリックで配信停止できます。
+    </div>
+  </div>
 </div>
 
 <!-- ====== Fact Check Modal ====== -->
@@ -5632,20 +5655,103 @@ document.addEventListener('DOMContentLoaded', async () => {
     });
   }
 
-  // Subscribe form: toast-style feedback instead of alert
+  // Subscribe / Unsubscribe form
   const subForm = document.getElementById('subForm');
-  if (subForm) {
-    subForm.addEventListener('submit', e => {
+  const subWrap = document.getElementById('subWrap');
+  if (subForm && subWrap) {
+    const submitBtn = subForm.querySelector('button[type="submit"]');
+    const tabs = subWrap.querySelectorAll('.sub-tab');
+    const input = subForm.querySelector('input');
+
+    const labels = {
+      subscribe:   { jp: '登録する',     en: 'Subscribe' },
+      unsubscribe: { jp: '配信停止する', en: 'Unsubscribe' },
+    };
+    const placeholders = {
+      subscribe:   { jp: 'mail@example.com',          en: 'your@email.com' },
+      unsubscribe: { jp: '登録時のメールアドレス',     en: 'your subscribed email' },
+    };
+    const messages = {
+      sending:           { jp: '送信中…',                                            en: 'Submitting…' },
+      ok_subscribed:     { jp: '登録完了。確認メールをお送りしました。次回月曜 7:00 から配信します。', en: 'Subscribed. Check your inbox for a confirmation. First brief next Monday 7:00 JST.' },
+      ok_already:        { jp: '既に登録済みです。確認メールを再送しました。',         en: 'You are already subscribed. We resent the confirmation.' },
+      ok_no_welcome:     { jp: '登録は完了しましたが、確認メールの送信に失敗しました。', en: 'Subscribed, but the confirmation email failed to send.' },
+      ok_unsubscribed:   { jp: '✓ 配信を停止しました。',                              en: '✓ You have been unsubscribed.' },
+      ok_not_found:      { jp: 'このアドレスは登録されていませんでした。',             en: 'This address was not subscribed.' },
+      bad_email:         { jp: 'メールアドレスの形式が正しくありません。',             en: 'Please enter a valid email address.' },
+      server_error:      { jp: '処理に失敗しました。しばらく経ってから再度お試しください。', en: 'Request failed. Please try again shortly.' },
+      network_error:     { jp: 'ネットワークエラー。接続を確認してください。',         en: 'Network error. Please check your connection.' },
+    };
+    const t = (key) => (messages[key] && messages[key][currentLang]) || messages[key]?.jp || key;
+
+    function applyMode(mode) {
+      subForm.dataset.mode = mode;
+      tabs.forEach(b => b.classList.toggle('on', b.dataset.mode === mode));
+      if (submitBtn) {
+        submitBtn.setAttribute('data-jp', labels[mode].jp);
+        submitBtn.setAttribute('data-en', labels[mode].en);
+        submitBtn.textContent = labels[mode][currentLang] || labels[mode].jp;
+      }
+      if (input) {
+        const p = placeholders[mode][currentLang] || placeholders[mode].jp;
+        input.setAttribute('placeholder', p);
+        input.setAttribute('data-jp-placeholder', placeholders[mode].jp);
+        input.setAttribute('data-en-placeholder', placeholders[mode].en);
+      }
+    }
+
+    tabs.forEach(b => b.addEventListener('click', () => applyMode(b.dataset.mode)));
+
+    subForm.addEventListener('submit', async (e) => {
       e.preventDefault();
-      const input = subForm.querySelector('input');
-      const email = input.value.trim();
+      const email = (input?.value || '').trim();
       if (!email) return;
-      const ok = {
-        jp: '登録ありがとうございます! 次回月曜から配信します。',
-        en: 'Thanks! Your first brief arrives next Monday.'
-      };
-      showToast(ok[currentLang] || ok.jp);
-      input.value = '';
+      if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)) {
+        showToast(t('bad_email'));
+        return;
+      }
+
+      const mode = subForm.dataset.mode === 'unsubscribe' ? 'unsubscribe' : 'subscribe';
+      const endpoint = mode === 'unsubscribe' ? '/api/unsubscribe' : '/api/subscribe';
+
+      if (submitBtn) {
+        submitBtn.disabled = true;
+        submitBtn.textContent = t('sending');
+      }
+
+      try {
+        const res = await fetch(endpoint, {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ email }),
+        });
+        let data = null;
+        try { data = await res.json(); } catch { /* non-JSON */ }
+
+        if (!res.ok) {
+          showToast((data && data.error) || t('server_error'));
+        } else {
+          const status = data?.status;
+          if (mode === 'subscribe') {
+            if (status === 'already')             showToast(t('ok_already'));
+            else if (status === 'welcome_failed') showToast(t('ok_no_welcome'));
+            else                                  showToast(t('ok_subscribed'));
+          } else {
+            if (status === 'not_found') showToast(t('ok_not_found'));
+            else                        showToast(t('ok_unsubscribed'));
+          }
+          if (input) input.value = '';
+        }
+      } catch (err) {
+        console.warn('[' + mode + ']', err);
+        showToast(t('network_error'));
+      } finally {
+        if (submitBtn) {
+          submitBtn.disabled = false;
+          submitBtn.textContent = labels[subForm.dataset.mode || 'subscribe'][currentLang]
+            || labels.subscribe.jp;
+        }
+      }
     });
   }
 
