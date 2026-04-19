@@ -220,6 +220,13 @@ export function scoreArticle(article) {
     breakdown.titleBonus = 10;
   }
 
+  // 日本語ソースは英語ソースより reach / trust 乗数で不利になりがちなので
+  // 国内報道にフラットなボーナスを乗せて競争力を確保する
+  if (article._feedRegion === 'jp' || article.region === 'jp') {
+    score += 15;
+    breakdown.jpRegionBonus = 15;
+  }
+
   score = Math.round(score);
 
   return {

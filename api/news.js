@@ -36,6 +36,21 @@ const FEEDS = [
     region: 'jp',
   },
   {
+    name: 'Google News (JP 経済メディア)',
+    url: 'https://news.google.com/rss/search?q=(site:nikkei.com+OR+site:xtech.nikkei.com+OR+site:itmedia.co.jp+OR+site:impress.co.jp+OR+site:toyokeizai.net)+(ドローン+OR+eVTOL+OR+%22空飛ぶクルマ%22+OR+無人航空機)+when:30d&hl=ja&gl=JP&ceid=JP:ja',
+    region: 'jp',
+  },
+  {
+    name: 'Google News (JP ドローン専門)',
+    url: 'https://news.google.com/rss/search?q=(site:drone.jp+OR+site:dronejournal.jp+OR+site:dronetimes.com+OR+%22ドローンジャーナル%22+OR+%22Drone.jp%22)+(ドローン+OR+eVTOL+OR+BVLOS+OR+レベル4+OR+無人航空機+OR+UAS)+when:60d&hl=ja&gl=JP&ceid=JP:ja',
+    region: 'jp',
+  },
+  {
+    name: 'Google News (JP 事業者/実装)',
+    url: 'https://news.google.com/rss/search?q=(ドローン+OR+eVTOL+OR+%22空飛ぶクルマ%22)+(SkyDrive+OR+JAL+OR+ANA+OR+トヨタ+OR+スズキ+OR+丸紅+OR+KDDI+OR+楽天+OR+物流+OR+配送+OR+点検+OR+測量)+when:30d&hl=ja&gl=JP&ceid=JP:ja',
+    region: 'jp',
+  },
+  {
     name: 'ASTM',
     url: 'https://news.google.com/rss/search?q=(site:astm.org+OR+ASTM)+(F3411+OR+F38+OR+UAS+OR+drone+OR+BVLOS)+when:30d&hl=en&gl=US&ceid=US:en',
     region: 'world',
