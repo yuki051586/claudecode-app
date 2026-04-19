@@ -3121,19 +3121,32 @@ function implicationTextFor(n) {
   return n?.implication || '';
 }
 
+// Decide whether an item deserves a slot in the Brief implication panel.
+// We show AI-generated text and hand-written seed entries, but hide the
+// generic template fallback that fires when a live item has no LLM data —
+// the user prefers an empty panel over rows of identical boilerplate.
+function briefImplSourceFor(n) {
+  if (n?._llmImpl && currentLang === 'jp') return 'ai';
+  const hasTs = !!(n?._publishedAt || n?.publishedAt);
+  if (hasTs) return 'tpl';
+  return n?.implication ? 'seed' : null;
+}
+
 function refreshBriefImplicationsAsync() {
   const impl = document.getElementById('briefImpl');
+  const panel = document.querySelector('.brief-impl');
   if (!impl) return;
-  const items = pickForCurrentWindow().slice(0, 5).filter(n => implicationTextFor(n));
-  const lis = impl.querySelectorAll('li');
-  if (!lis.length) return;
 
-  items.slice(0, lis.length).forEach((n, i) => {
-    const li = lis[i];
-    if (!li) return;
-    const hasTs = !!(n._publishedAt || n.publishedAt);
-    const isLlm = !!(n._llmImpl && currentLang === 'jp');
-    const source = isLlm ? 'ai' : (hasTs ? 'tpl' : 'seed');
+  const items = pickForCurrentWindow().slice(0, 5)
+    .map(n => ({ n, source: briefImplSourceFor(n) }))
+    .filter(x => x.source && x.source !== 'tpl')
+    .slice(0, 4);
+
+  impl.innerHTML = '';
+  if (panel) panel.style.display = items.length ? '' : 'none';
+  items.forEach(({ n, source }) => {
+    const li = document.createElement('li');
+    impl.appendChild(li);
     decorateImplLi(li, implicationTextFor(n), source, n);
   });
 }
@@ -4168,16 +4181,9 @@ function renderBrief(items) {
     list.appendChild(a);
   });
 
-  topFive.map(n => ({ n, text: implicationTextFor(n) }))
-    .filter(x => x.text)
-    .slice(0, 4)
-    .forEach(({ text }) => {
-      const li = document.createElement('li');
-      li.innerHTML = text;
-      impl.appendChild(li);
-    });
-
-  // After initial template paint, kick off AI refresh (no-op if key not set)
+  // refreshBriefImplicationsAsync handles both initial paint and the
+  // post-fetch update — it filters out template fallbacks and hides the
+  // whole panel when nothing AI/seed-sourced is available.
   if (typeof refreshBriefImplicationsAsync === 'function') {
     refreshBriefImplicationsAsync();
   }
