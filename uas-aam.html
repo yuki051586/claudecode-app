@@ -1001,10 +1001,23 @@
     display: flex; align-items: center; justify-content: center;
     font-weight: 700; font-size: 13px; flex-shrink: 0;
   }
-  .brief-item:nth-child(2) .brief-num { background: rgba(177,109,255,0.1); color: var(--accent-3); }
-  .brief-item:nth-child(3) .brief-num { background: rgba(74,222,128,0.1); color: var(--ok); }
-  .brief-item:nth-child(4) .brief-num { background: rgba(251,191,36,0.1); color: var(--warn); }
-  .brief-item:nth-child(5) .brief-num { background: rgba(255,90,106,0.1); color: var(--jp); }
+  .brief-item[data-pos="2"] .brief-num { background: rgba(177,109,255,0.1); color: var(--accent-3); }
+  .brief-item[data-pos="3"] .brief-num { background: rgba(74,222,128,0.1); color: var(--ok); }
+  .brief-item[data-pos="4"] .brief-num { background: rgba(251,191,36,0.1); color: var(--warn); }
+  .brief-item[data-pos="5"] .brief-num { background: rgba(255,90,106,0.1); color: var(--jp); }
+  .brief-section {
+    list-style: none;
+    margin: 14px 0 2px;
+    padding: 4px 0 2px;
+    font-size: 11px; font-weight: 700; letter-spacing: 0.08em;
+    color: var(--dim); text-transform: uppercase;
+    display: flex; align-items: center; gap: 8px;
+    border-bottom: 1px dashed var(--border-soft);
+  }
+  .brief-section:first-child { margin-top: 0; }
+  .brief-section .brief-section-badge { font-size: 14px; letter-spacing: 0; }
+  .brief-impl-list li.brief-section { padding-left: 0; }
+  .brief-impl-list li.brief-section::before { display: none; }
   .brief-item h4 { margin: 0 0 4px; font-size: 14px; line-height: 1.4; }
   .brief-item .brief-meta {
     display: flex; align-items: center; gap: 8px;
@@ -3137,18 +3150,38 @@ function refreshBriefImplicationsAsync() {
   const panel = document.querySelector('.brief-impl');
   if (!impl) return;
 
-  const items = pickForCurrentWindow().slice(0, 10)
-    .map(n => ({ n, source: briefImplSourceFor(n) }))
-    .filter(x => x.source && x.source !== 'tpl')
-    .slice(0, 4);
+  const all = pickForCurrentWindow();
+  const isJp = (n) => n.region === 'jp';
+  const candidatesFor = (filterFn) =>
+    all.filter(filterFn)
+       .map(n => ({ n, source: briefImplSourceFor(n) }))
+       .filter(x => x.source && x.source !== 'tpl')
+       .slice(0, 2);
+
+  const jpItems = candidatesFor(isJp);
+  const worldItems = candidatesFor((n) => !isJp(n));
 
   impl.innerHTML = '';
-  if (panel) panel.style.display = items.length ? '' : 'none';
-  items.forEach(({ n, source }) => {
-    const li = document.createElement('li');
-    impl.appendChild(li);
-    decorateImplLi(li, implicationTextFor(n), source, n);
-  });
+  const total = jpItems.length + worldItems.length;
+  if (panel) panel.style.display = total ? '' : 'none';
+  if (!total) return;
+
+  const isEn = currentLang === 'en';
+  const renderImplSection = (badge, label, items) => {
+    if (!items.length) return;
+    const header = document.createElement('li');
+    header.className = 'brief-section';
+    header.innerHTML = `<span class="brief-section-badge">${badge}</span><span class="brief-section-label">${escHtml(label)}</span>`;
+    impl.appendChild(header);
+    items.forEach(({ n, source }) => {
+      const li = document.createElement('li');
+      impl.appendChild(li);
+      decorateImplLi(li, implicationTextFor(n), source, n);
+    });
+  };
+
+  renderImplSection('🇯🇵', isEn ? 'Domestic' : '国内発', jpItems);
+  renderImplSection('🌐', isEn ? 'Overseas → Japan' : '海外発', worldItems);
 }
 
 function decorateImplLi(li, text, source, article) {
@@ -4159,27 +4192,41 @@ function renderBrief(items) {
   list.innerHTML = '';
   impl.innerHTML = '';
 
-  const topItems = items.slice(0, 10);
-  topItems.forEach((n, i) => {
-    const tagsHtml = n.tags.map(t => `<span class="tag ${tagClass(t)}">${escHtml(t)}</span>`).join('');
-    const age = formatRelativeAge(n);
-    const a = document.createElement('a');
-    a.className = 'brief-item';
-    a.href = n.url;
-    a.target = '_blank';
-    a.rel = 'noopener';
-    a.innerHTML = `
-      <div class="brief-num">${String(i + 1).padStart(2, '0')}</div>
-      <div>
-        <h4>${escHtml(displayTitle(n))}</h4>
-        <div class="brief-meta">
-          ${tagsHtml}${escHtml(n.regionLabel)} · ${escHtml(n.source)} · ${escHtml(age)}
+  const isEn = currentLang === 'en';
+  const jpItems = items.filter(n => n.region === 'jp').slice(0, BRIEF_PER_BUCKET);
+  const worldItems = items.filter(n => n.region !== 'jp').slice(0, BRIEF_PER_BUCKET);
+
+  const renderSection = (badge, label, sectionItems) => {
+    if (!sectionItems.length) return;
+    const header = document.createElement('li');
+    header.className = 'brief-section';
+    header.innerHTML = `<span class="brief-section-badge">${badge}</span><span class="brief-section-label">${escHtml(label)}</span>`;
+    list.appendChild(header);
+    sectionItems.forEach((n, i) => {
+      const tagsHtml = n.tags.map(t => `<span class="tag ${tagClass(t)}">${escHtml(t)}</span>`).join('');
+      const age = formatRelativeAge(n);
+      const a = document.createElement('a');
+      a.className = 'brief-item';
+      a.dataset.pos = String(i + 1);
+      a.href = n.url;
+      a.target = '_blank';
+      a.rel = 'noopener';
+      a.innerHTML = `
+        <div class="brief-num">${String(i + 1).padStart(2, '0')}</div>
+        <div>
+          <h4>${escHtml(displayTitle(n))}</h4>
+          <div class="brief-meta">
+            ${tagsHtml}${escHtml(n.regionLabel)} · ${escHtml(n.source)} · ${escHtml(age)}
+          </div>
         </div>
-      </div>
-      <div class="brief-arrow">→</div>
-    `;
-    list.appendChild(a);
-  });
+        <div class="brief-arrow">→</div>
+      `;
+      list.appendChild(a);
+    });
+  };
+
+  renderSection('🇯🇵', isEn ? 'Japan' : '国内', jpItems);
+  renderSection('🌐', isEn ? 'Overseas' : '海外', worldItems);
 
   // refreshBriefImplicationsAsync handles both initial paint and the
   // post-fetch update — it filters out template fallbacks and hides the
@@ -4269,13 +4316,17 @@ function renderNews(items) {
 
 // ------- Pick items for current window --------------------------------
 // Selection rules:
-//   1. Live articles newer than FRESH_DAYS are the primary source.
-//   2. If we have <5 fresh live items, backfill with undated seeds marked
-//      as "参考記事" so the UI is never empty, but never mix stale-dated
-//      live items (older than FRESH_DAYS) into the Brief.
-//   3. NEWS_POOL entries have no publishedAt and are treated as reference
-//      context, not breaking news — they only appear when live feed is thin.
-const BRIEF_TOPIC_LIMIT = 10;
+//   1. Live articles newer than FRESH_DAYS are the primary source. They are
+//      split into JP and overseas buckets and the top 5 of each are taken
+//      separately, so domestic news isn't crowded out by the larger volume
+//      of English-language sources.
+//   2. If a bucket has <5 fresh live items, backfill with undated seeds
+//      from NEWS_POOL filtered to the same bucket so the section is never
+//      empty.
+//   3. The returned array is concatenated [...jp5, ...world5] so other
+//      callers (renderNews, renderTicker, applyNewsFilter, ...) keep
+//      working on a flat list without changes.
+const BRIEF_PER_BUCKET = 5;
 
 function pickForCurrentWindow() {
   const fresh = (Array.isArray(liveArticles) ? liveArticles : [])
@@ -4284,23 +4335,29 @@ function pickForCurrentWindow() {
       return age != null && age <= FRESH_MS;
     });
 
-  // Use the shared score-based ordering for both languages so the top
-  // stories are identical between JP and EN modes. (Previously JP mode
-  // re-sorted JP-region articles to the top, which made the two language
-  // views diverge.)
-  const ordered = fresh;
+  const jpFresh = fresh.filter(a => a.region === 'jp');
+  const worldFresh = fresh.filter(a => a.region !== 'jp');
 
-  if (ordered.length >= 5) {
-    return ordered.slice(0, BRIEF_TOPIC_LIMIT);
-  }
-
-  // Backfill: take whatever fresh live items we have, then pad with seeds
-  // (seeds are reference context, always rotated deterministically)
   const idx = currentWindowIdx();
-  const sortedSeeds = NEWS_POOL.slice().sort((a, b) => b.priority - a.priority);
-  const rotatedSeeds = seededShuffle(sortedSeeds, idx);
-  const needed = Math.max(0, BRIEF_TOPIC_LIMIT - ordered.length);
-  return [...ordered, ...rotatedSeeds.slice(0, needed)];
+  const seedByRegion = (jp) => seededShuffle(
+    NEWS_POOL.filter(s => (s.region === 'jp') === jp)
+             .slice()
+             .sort((a, b) => b.priority - a.priority),
+    idx
+  );
+
+  const fillBucket = (freshItems, seeds) => {
+    if (freshItems.length >= BRIEF_PER_BUCKET) {
+      return freshItems.slice(0, BRIEF_PER_BUCKET);
+    }
+    const need = BRIEF_PER_BUCKET - freshItems.length;
+    return [...freshItems, ...seeds.slice(0, need)];
+  };
+
+  const jpTop = fillBucket(jpFresh, seedByRegion(true));
+  const worldTop = fillBucket(worldFresh, seedByRegion(false));
+
+  return [...jpTop, ...worldTop];
 }
 
 // ------- Update timestamps & countdown --------------------------------
