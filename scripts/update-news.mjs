@@ -22,8 +22,9 @@ const IMPL_CACHE_PATH = resolve(__dirname, '..', 'data', 'impl-cache.json');
 // ── LLM-powered "日本への示唆" generation (Claude Haiku 4.5) ─────────
 // Top N articles get a bespoke one-liner; the rest fall back to the
 // template in uas-aam.html. URLs are cached so we don't re-bill Claude
-// for stories we've already analyzed.
-const IMPL_TARGET_COUNT = 9;
+// for stories we've already analyzed. 15 comfortably covers the Brief
+// (top 5 by pick order) even after region/category filtering.
+const IMPL_TARGET_COUNT = 15;
 const IMPL_CACHE_MAX = 500;
 const ANTHROPIC_API_KEY = process.env.ANTHROPIC_API_KEY;
 const CLAUDE_MODEL = process.env.CLAUDE_IMPL_MODEL || 'claude-haiku-4-5-20251001';

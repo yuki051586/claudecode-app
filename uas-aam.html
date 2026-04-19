@@ -3249,12 +3249,58 @@ async function fetchLiveNewsPayload() {
   return await res.json();
 }
 
+// Build a lookup of {normalizedUrl → jp text} from the server-side LLM
+// cache so we can overlay AI implications onto /api/news results (which
+// are fresh but never enriched by the hourly Action).
+let _implCachePromise = null;
+function loadImplCacheMap(force = false) {
+  if (_implCachePromise && !force) return _implCachePromise;
+  _implCachePromise = (async () => {
+    try {
+      const res = await fetch('data/impl-cache.json', { cache: 'no-cache' });
+      if (!res.ok) return null;
+      const cache = await res.json();
+      const byUrl = new Map();
+      const byTitle = new Map();
+      for (const [url, entry] of Object.entries(cache)) {
+        if (!entry?.jp) continue;
+        const nUrl = normalizeArchiveUrl(entry.url || url);
+        if (nUrl) byUrl.set(nUrl, entry.jp);
+        const t = (entry.title || '').trim().toLowerCase();
+        if (t) byTitle.set(t, entry.jp);
+      }
+      return { byUrl, byTitle };
+    } catch { return null; }
+  })();
+  return _implCachePromise;
+}
+
+function enrichArticlesWithImplCache(articles, map) {
+  if (!map || !Array.isArray(articles)) return 0;
+  let hits = 0;
+  for (const a of articles) {
+    if (a.implication) continue;  // server-side enrichment already set it
+    const byUrl = map.byUrl.get(normalizeArchiveUrl(a.url));
+    const byTitle = !byUrl && a.title ? map.byTitle.get(a.title.trim().toLowerCase()) : null;
+    const jp = byUrl || byTitle;
+    if (jp) { a.implication = jp; hits++; }
+  }
+  return hits;
+}
+
 async function refreshLiveNews() {
   setLiveStatusUI('loading');
   try {
     const data = await fetchLiveNewsPayload();
     const published = Array.isArray(data.articles) ? data.articles : [];
     const rawCount = typeof data.rawCount === 'number' ? data.rawCount : 0;
+
+    // Overlay AI implications from the persistent cache — /api/news
+    // doesn't embed them, so without this Brief would fall back to the
+    // template whenever live feed wins the race over the static file.
+    const implMap = await loadImplCacheMap();
+    const enriched = enrichArticlesWithImplCache(published, implMap);
+    if (enriched) console.info(`[live-news] overlaid AI implications on ${enriched}/${published.length} articles`);
 
     if (published.length === 0) {
       liveStatus = 'failed';
