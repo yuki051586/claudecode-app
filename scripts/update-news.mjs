@@ -22,9 +22,9 @@ const IMPL_CACHE_PATH = resolve(__dirname, '..', 'data', 'impl-cache.json');
 // ── LLM-powered "日本への示唆" generation (Claude Haiku 4.5) ─────────
 // Top N articles get a bespoke one-liner; the rest fall back to the
 // template in uas-aam.html. URLs are cached so we don't re-bill Claude
-// for stories we've already analyzed. 15 comfortably covers the Brief
-// (top 5 by pick order) even after region/category filtering.
-const IMPL_TARGET_COUNT = 15;
+// for stories we've already analyzed. 30 keeps Brief picks covered even
+// when /api/news returns a slightly different ranking than this batch.
+const IMPL_TARGET_COUNT = 30;
 const IMPL_CACHE_MAX = 500;
 const ANTHROPIC_API_KEY = process.env.ANTHROPIC_API_KEY;
 const CLAUDE_MODEL = process.env.CLAUDE_IMPL_MODEL || 'claude-haiku-4-5-20251001';
@@ -207,34 +207,28 @@ async function saveImplCache(cache) {
 }
 
 const IMPL_SYSTEM_PROMPT = `あなたは日本の UAS / AAM (ドローン・空飛ぶクルマ) 業界アナリストです。
-海外・国内ニュースを読み、「このニュースで日本の何が具体的に変わるか」を短く書いてください。
+このニュースが「日本で何を引き起こすか」を、1〜2文・120字以内で簡潔に書いてください。
 
 # 出力ルール
-- 2〜3文、200字以内、1段落。見出し・記号・改行は付けない。
-- ニュース本文にある **固有名詞**(企業・機関・製品・地名・金額・日付) を最低1つ必ず引用する。
-  例: "Joby の FAA Part 135 取得は…"、"DJI Mavic 4 の…"、"eVTOL 商用化を 2025 年に前倒しした Archer の…"
-- 日本側の **具体的な主体・制度** を最低1つ必ず使う。抽象的な「日本の事業者」「規制側」は禁止。
-  - 規制/行政: 航空法レベル4、特定飛行、機体認証、型式認証、国土交通省航空局 (JCAB)、総務省電波部、経産省、NEDO
-  - 産業: SkyDrive、テラドローン、ACSL、JAL、ANA、トヨタ、スズキ、丸紅、住友商事、KDDI、楽天、JAXA、DeNA
-  - 市場・案件: 大阪・関西万博、離島配送、山間地点検、災害対応、インフラ点検、農業、物流ラストワンマイル
+- 必ず1〜2文、合計120字以内、1段落、改行・記号なし
+- ニュース本文の **固有名詞**(企業・機関・製品・地名・金額・日付) を最低1つ引用
+- 日本側の **具体的な主体・制度** を最低1つ使う(抽象語は禁止)
+  - 規制/行政例: 航空法レベル4、機体認証、型式認証、JCAB、NEDO
+  - 産業例: SkyDrive、テラドローン、ACSL、JAL、ANA、KDDI、楽天、JAXA
+  - 案件例: 大阪・関西万博、離島配送、山間地点検、災害対応、インフラ点検
 
-# 示唆の型 (ニュース内容に応じて選ぶ。同じ型の繰り返しは禁止)
- (a) Xの動きは国内の Y規制/議論 に直接波及する
- (b) X社の事例は日本の競合 Y社 に圧力をかける
- (c) FAA / EASA の X は JCAB の Y を加速 / 阻害する
- (d) 遅れる日本が X から学べるのは Y
- (e) X分野で先行した海外勢が、国内の Y案件 / 実証 に参入する可能性
+# 示唆の型 (どれか1つを選ぶ)
+ (a) X の動きが日本の Y規制 に直接波及する
+ (b) X 社の事例が日本の Y社 に圧力をかける
+ (c) FAA / EASA の X が JCAB の Y を加速 / 阻害する
+ (d) X 分野の海外勢が国内の Y案件 に参入する余地
 
-# 禁止フレーズ (使うと出力が棄却されます)
-- 「同分野の国内対応が問われる」
-- 「〜の鍵となる」
-- 「〜が求められる」を単独で使うこと
-- 「〜という局面になりうる」
-- 全文を「〜の可能性がある」「〜と示唆される」だけで終わらせること
+# 禁止フレーズ (使うと出力棄却)
+- 「同分野の国内対応が問われる」「〜の鍵となる」「〜という局面になりうる」
 - 「日本の事業者」「規制側」「国内対応」などの抽象語
 
-# その他
-前置き、自己言及 ("AI として…"、"示唆:") は書かない。本文のみ。`;
+# 文体
+言い切りで簡潔に。「〜可能性がある」「〜と示唆される」を文末で多用しない。前置き・自己言及は書かない。`;
 
 async function generateImplicationJp(article) {
   if (!ANTHROPIC_API_KEY) return null;
@@ -257,7 +251,7 @@ async function generateImplicationJp(article) {
       },
       body: JSON.stringify({
         model: CLAUDE_MODEL,
-        max_tokens: 400,
+        max_tokens: 220,
         system: IMPL_SYSTEM_PROMPT,
         messages: [{ role: 'user', content: userMessage }],
       }),
@@ -284,7 +278,7 @@ async function generateImplicationJp(article) {
       console.warn(`[impl] rejected banned phrase in output: ${cleaned.slice(0, 60)}…`);
       return null;
     }
-    return cleaned.slice(0, 260);
+    return cleaned.slice(0, 160);
   } catch (err) {
     clearTimeout(to);
     console.warn(`[impl] ${err.message}`);
