@@ -9,7 +9,7 @@
 // Run locally: node scripts/update-news.mjs
 // Run in CI:   see .github/workflows/update-data.yml
 
-import { writeFile, mkdir } from 'node:fs/promises';
+import { writeFile, mkdir, readFile } from 'node:fs/promises';
 import { dirname, resolve } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { filterArticles } from '../news_selector.js';
@@ -17,6 +17,16 @@ import { filterArticles } from '../news_selector.js';
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
 const OUT_PATH = resolve(__dirname, '..', 'data', 'live-news.json');
+const IMPL_CACHE_PATH = resolve(__dirname, '..', 'data', 'impl-cache.json');
+
+// ── LLM-powered "日本への示唆" generation (Claude Haiku 4.5) ─────────
+// Top N articles get a bespoke one-liner; the rest fall back to the
+// template in uas-aam.html. URLs are cached so we don't re-bill Claude
+// for stories we've already analyzed.
+const IMPL_TARGET_COUNT = 9;
+const IMPL_CACHE_MAX = 500;
+const ANTHROPIC_API_KEY = process.env.ANTHROPIC_API_KEY;
+const CLAUDE_MODEL = process.env.CLAUDE_IMPL_MODEL || 'claude-haiku-4-5-20251001';
 
 const FEEDS = [
   { name: 'FAA',
@@ -180,6 +190,113 @@ function dedupArticles(articles) {
   });
 }
 
+async function loadImplCache() {
+  try {
+    const raw = await readFile(IMPL_CACHE_PATH, 'utf8');
+    return JSON.parse(raw);
+  } catch { return {}; }
+}
+
+async function saveImplCache(cache) {
+  const entries = Object.entries(cache);
+  entries.sort((a, b) => (b[1]?.ts || 0) - (a[1]?.ts || 0));
+  const pruned = Object.fromEntries(entries.slice(0, IMPL_CACHE_MAX));
+  await mkdir(dirname(IMPL_CACHE_PATH), { recursive: true });
+  await writeFile(IMPL_CACHE_PATH, JSON.stringify(pruned, null, 2) + '\n', 'utf8');
+}
+
+async function generateImplicationJp(article) {
+  if (!ANTHROPIC_API_KEY) return null;
+  const prompt =
+`あなたは日本の UAS / AAM(ドローン・空飛ぶクルマ)業界アナリストです。
+以下のニュースを読み、日本の事業者・規制当局・利用者にとっての示唆を1〜2文で日本語で書いてください。
+
+制約:
+- 事実の繰り返しではなく、日本側への含意を書く
+- 「〜可能性がある」「〜と見られる」など推論調で可
+- 100字以内、1段落、装飾記号や見出しは付けない
+
+タイトル: ${article.title}
+出典: ${article._feedName || article.source || ''}
+概要: ${(article.description || '').slice(0, 400)}
+
+示唆:`;
+
+  const ctrl = new AbortController();
+  const to = setTimeout(() => ctrl.abort(), 15000);
+  try {
+    const res = await fetch('https://api.anthropic.com/v1/messages', {
+      method: 'POST',
+      headers: {
+        'content-type': 'application/json',
+        'x-api-key': ANTHROPIC_API_KEY,
+        'anthropic-version': '2023-06-01',
+      },
+      body: JSON.stringify({
+        model: CLAUDE_MODEL,
+        max_tokens: 220,
+        messages: [{ role: 'user', content: prompt }],
+      }),
+      signal: ctrl.signal,
+    });
+    clearTimeout(to);
+    if (!res.ok) {
+      const body = await res.text().catch(() => '');
+      console.warn(`[impl] HTTP ${res.status}: ${body.slice(0, 180)}`);
+      return null;
+    }
+    const data = await res.json();
+    const text = data?.content?.[0]?.text?.trim();
+    if (!text) return null;
+    return text.replace(/^示唆[:：]?\s*/, '').replace(/\s+/g, ' ').slice(0, 180);
+  } catch (err) {
+    clearTimeout(to);
+    console.warn(`[impl] ${err.message}`);
+    return null;
+  }
+}
+
+async function enrichWithImplications(articles) {
+  if (!ANTHROPIC_API_KEY) {
+    console.log('[impl] ANTHROPIC_API_KEY not set — skipping LLM enrichment');
+    return { hits: 0, misses: 0, fails: 0 };
+  }
+  const cache = await loadImplCache();
+  let hits = 0, misses = 0, fails = 0;
+  for (const a of articles.slice(0, IMPL_TARGET_COUNT)) {
+    const key = a.url || a.title;
+    if (!key) { fails++; continue; }
+    if (cache[key]?.jp) {
+      a.implication = cache[key].jp;
+      hits++;
+      continue;
+    }
+    const generated = await generateImplicationJp(a);
+    if (generated) {
+      a.implication = generated;
+      // Also persist enough metadata that the frontend can show this
+      // article in the archive even after it falls out of the live feed —
+      // that's the whole point of paying for the LLM call.
+      cache[key] = {
+        jp: generated,
+        ts: Date.now(),
+        title: a.title,
+        source: a.source,
+        url: a.url,
+        region: a._feedRegion || null,
+        feedName: a._feedName || null,
+        publishedAt: a.publishedAt,
+      };
+      misses++;
+    } else {
+      fails++;
+    }
+  }
+  await saveImplCache(cache);
+  console.log(`[impl] model=${CLAUDE_MODEL} cache-hit=${hits} api-call=${misses} fail=${fails}`);
+  return { hits, misses, fails };
+}
+
 async function main() {
   const startedAt = Date.now();
   console.log(`[update-news] fetching ${FEEDS.length} feeds...`);
@@ -190,6 +307,8 @@ async function main() {
   const raw = results.filter(Array.isArray).flat();
   const deduped = dedupArticles(raw);
   const { published } = filterArticles(deduped, { minScore: 40, maxResults: 30 });
+
+  await enrichWithImplications(published);
 
   const payload = {
     generatedAt: new Date().toISOString(),

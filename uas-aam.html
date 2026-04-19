@@ -691,6 +691,28 @@
   .archive-badge.world { background: rgba(123,140,255,0.08); color: #a5b1ff; border-color: rgba(123,140,255,0.2); }
   .archive-title { color: var(--text); line-height: 1.4; }
   .archive-title .arc-src { color: var(--dim); font-size: 11px; margin-left: 6px; }
+  .archive-ai-badge {
+    display: inline-block; margin-left: 8px;
+    padding: 1px 7px; border-radius: 999px;
+    font-size: 9px; font-weight: 800; letter-spacing: 0.06em;
+    color: #0b1220; background: linear-gradient(135deg, #ffd36b, #ff5a6a);
+    vertical-align: middle;
+  }
+  .archive-row.has-impl { grid-template-columns: 64px auto 1fr auto auto; }
+  .archive-impl {
+    grid-column: 2 / -1;
+    font-size: 12px; line-height: 1.5;
+    color: var(--muted);
+    padding: 6px 10px; margin-top: 4px;
+    border-left: 2px solid rgba(255,90,106,0.5);
+    background: rgba(255,90,106,0.04);
+    border-radius: 0 6px 6px 0;
+  }
+  .archive-impl-label {
+    display: inline-block; margin-right: 8px;
+    font-size: 10px; font-weight: 700; color: var(--jp);
+    text-transform: uppercase; letter-spacing: 0.08em;
+  }
   .archive-score {
     font-variant-numeric: tabular-nums; font-size: 11px; color: var(--accent);
     font-weight: 600; white-space: nowrap;
@@ -700,6 +722,8 @@
   }
   @media (max-width: 720px) {
     .archive-row { grid-template-columns: 1fr; gap: 6px; }
+    .archive-row.has-impl { grid-template-columns: 1fr; }
+    .archive-impl { grid-column: 1 / -1; }
     .archive-controls input { min-width: 0; flex: 1; }
   }
 
@@ -1025,6 +1049,10 @@
   }
   .impl-source-tag.tpl { color: var(--dim); }
   .impl-source-tag.seed { color: var(--jp); opacity: 0.7; }
+  .impl-source-tag.ai {
+    color: #0b1220; background: linear-gradient(135deg, #ffd36b, #ff5a6a);
+    padding: 1px 6px; border-radius: 999px; font-weight: 700; opacity: 0.95;
+  }
 
   /* Implication source links + check button */
   .impl-text { display: block; }
@@ -3077,6 +3105,9 @@ function getImplicationSources(article) {
 // hypothesis in the current language at render time (not at fetch time).
 // Seed items keep their hand-written static `implication` string.
 function implicationTextFor(n) {
+  // LLM-generated text is only Japanese; in EN mode fall through to the
+  // template so language switching stays clean.
+  if (n?._llmImpl && currentLang === 'jp') return n._llmImpl;
   if (n && n._impl) {
     return implicationFor(
       { title: n._impl.title, _feedName: n._impl.feedName },
@@ -3097,7 +3128,8 @@ function refreshBriefImplicationsAsync() {
     const li = lis[i];
     if (!li) return;
     const hasTs = !!(n._publishedAt || n.publishedAt);
-    const source = hasTs ? 'tpl' : 'seed';
+    const isLlm = !!(n._llmImpl && currentLang === 'jp');
+    const source = isLlm ? 'ai' : (hasTs ? 'tpl' : 'seed');
     decorateImplLi(li, implicationTextFor(n), source, n);
   });
 }
@@ -3106,6 +3138,7 @@ function decorateImplLi(li, text, source, article) {
   const isEn = currentLang === 'en';
   const tag = source === 'seed' ? `<span class="impl-source-tag seed">${isEn ? 'Ref' : '参考'}</span>`
            : source === 'tpl'  ? `<span class="impl-source-tag tpl">${isEn ? 'Template' : 'テンプレ'}</span>`
+           : source === 'ai'   ? `<span class="impl-source-tag ai">${isEn ? 'AI' : 'AI生成'}</span>`
            : '';
   const sources = getImplicationSources(article);
   const srcHtml = sources.length ? `
@@ -3164,7 +3197,11 @@ function mapToNewsItem(article, i) {
     url: article.url,
     thumb: inferThumb(s.categories, article.title),
     priority: Math.min(10, Math.max(1, Math.round(s.score / 12))),
-    implication: implicationFor(article, s),
+    implication: (typeof article.implication === 'string' && article.implication.trim())
+      ? article.implication.trim()
+      : implicationFor(article, s),
+    _llmImpl: (typeof article.implication === 'string' && article.implication.trim())
+      ? article.implication.trim() : null,
     _impl: { title: article.title, feedName: article._feedName, scoring: s },
     _live: true,
     _score: s.score,
@@ -3230,6 +3267,9 @@ async function refreshLiveNews() {
     lastLiveFetchAt = Date.now();
     liveStatus = 'live';
     mergeIntoArchive(liveArticles);
+    // Also pull in AI implications from earlier runs so paid-for content
+    // stays visible even after the article rotates out of the live feed.
+    seedArchiveFromImplCache();
     const picked = pickForCurrentWindow();
     renderBrief(picked);
     renderNews(picked);
@@ -3281,7 +3321,17 @@ function mergeIntoArchive(items) {
   const now = Date.now();
   items.forEach(n => {
     const k = archiveKey(n);
-    if (seen.has(k)) return;  // already archived
+    const existing = seen.has(k) ? seen.get(k) : null;
+    const implication = n._llmImpl || existing?.implication || '';
+    if (existing) {
+      // Upgrade existing entry with a better (LLM) implication if it got one
+      // this round. Everything else stays the same so firstSeenAt is preserved.
+      if (n._llmImpl && !existing.implication) {
+        existing.implication = n._llmImpl;
+        existing.aiImpl = true;
+      }
+      return;
+    }
     seen.set(k, {
       id: n.id,
       title: n.title,
@@ -3299,6 +3349,8 @@ function mergeIntoArchive(items) {
       matchedCategories: n._matchedCategories || [],
       publishedAt: n._publishedAt || new Date(now).toISOString(),
       firstSeenAt: now,
+      implication,
+      aiImpl: !!n._llmImpl,
     });
   });
   // Newest first, cap at ARCHIVE_MAX
@@ -3306,6 +3358,65 @@ function mergeIntoArchive(items) {
     .sort((a, b) => (b.firstSeenAt || 0) - (a.firstSeenAt || 0))
     .slice(0, ARCHIVE_MAX);
   saveArchive();
+}
+
+// Load the server-side LLM implication cache (written by the hourly
+// GitHub Action) and merge its entries into the local archive. This is
+// how articles that paid for an LLM call get persisted across sessions
+// and across the live-feed rotation window.
+async function seedArchiveFromImplCache() {
+  try {
+    const res = await fetch('data/impl-cache.json', { cache: 'no-cache' });
+    if (!res.ok) return;
+    const cache = await res.json();
+    const arch = loadArchive();
+    const seen = new Map(arch.map(a => [archiveKey(a), a]));
+    let added = 0, upgraded = 0;
+    for (const [url, entry] of Object.entries(cache)) {
+      if (!entry?.jp || !entry.title) continue;
+      const item = {
+        url: entry.url || url,
+        title: entry.title,
+      };
+      const k = archiveKey(item);
+      if (seen.has(k)) {
+        const ex = seen.get(k);
+        if (!ex.implication) { ex.implication = entry.jp; ex.aiImpl = true; upgraded++; }
+        continue;
+      }
+      seen.set(k, {
+        id: `arch-ai-${added}`,
+        title: entry.title,
+        desc: '',
+        url: entry.url || url,
+        source: entry.source || entry.feedName || '',
+        region: entry.region || 'world',
+        regionLabel: (entry.region === 'jp') ? 'JP' : (entry.region || 'WORLD').toUpperCase(),
+        category: '',
+        tags: [],
+        thumb: '🤖',
+        score: null,
+        trust: null,
+        trustDomain: null,
+        matchedCategories: [],
+        publishedAt: entry.publishedAt || new Date(entry.ts || Date.now()).toISOString(),
+        firstSeenAt: entry.ts || Date.now(),
+        implication: entry.jp,
+        aiImpl: true,
+      });
+      added++;
+    }
+    archiveCache = [...seen.values()]
+      .sort((a, b) => (b.firstSeenAt || 0) - (a.firstSeenAt || 0))
+      .slice(0, ARCHIVE_MAX);
+    saveArchive();
+    if (added || upgraded) {
+      console.info(`[archive] seeded from impl-cache: +${added} new, ${upgraded} upgraded`);
+      updateArchiveCountUI();
+    }
+  } catch (err) {
+    console.warn('[archive] impl-cache seed failed', err);
+  }
 }
 
 function seedArchiveFromPool() {
@@ -3393,13 +3504,18 @@ function renderArchive() {
     const title = (a.title || '').replace(/</g, '&lt;');
     const source = (a.source || '').replace(/</g, '&lt;');
     const scoreStr = a.score != null ? `${a.score}pt` : '—';
+    const aiBadge = a.aiImpl ? `<span class="archive-ai-badge" title="${isEn ? 'AI-generated implication' : 'AI生成の示唆'}">AI</span>` : '';
+    const implHtml = (a.implication && a.aiImpl)
+      ? `<div class="archive-impl"><span class="archive-impl-label">${isEn ? 'Implication' : '示唆'}</span>${(a.implication || '').replace(/</g, '&lt;')}</div>`
+      : '';
     parts.push(`
-      <div class="archive-row" data-href="${a.url}" data-fact-url="${encodeURIComponent(a.url)}">
+      <div class="archive-row${implHtml ? ' has-impl' : ''}" data-href="${a.url}" data-fact-url="${encodeURIComponent(a.url)}">
         <span class="archive-time">${formatArchiveDate(a.publishedAt || a.firstSeenAt)}</span>
         <span class="archive-badge ${regionClass}">${a.regionLabel || a.region}</span>
-        <span class="archive-title">${title}<span class="arc-src"> · ${source}</span></span>
+        <span class="archive-title">${title}${aiBadge}<span class="arc-src"> · ${source}</span></span>
         <span class="archive-score">${scoreStr}</span>
         <button class="fact-btn-inline" type="button" title="${isEn ? 'Fact-check this article' : 'この記事をファクトチェック'}">✓</button>
+        ${implHtml}
       </div>
     `);
   });

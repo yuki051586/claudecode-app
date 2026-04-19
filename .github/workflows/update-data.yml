@@ -28,16 +28,19 @@ jobs:
           node-version: '20'
 
       - name: Fetch feeds and write data/live-news.json
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: node scripts/update-news.mjs
 
       - name: Commit if changed
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          if git diff --quiet -- data/live-news.json; then
-            echo "No changes to data/live-news.json"
+          git add -- data/live-news.json
+          [ -f data/impl-cache.json ] && git add -- data/impl-cache.json || true
+          if git diff --cached --quiet; then
+            echo "No data changes"
             exit 0
           fi
-          git add data/live-news.json
           git commit -m "chore(data): refresh live-news.json [skip ci]"
           git push
