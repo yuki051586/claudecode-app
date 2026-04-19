@@ -43,4 +43,16 @@ jobs:
             exit 0
           fi
           git commit -m "chore(data): refresh live-news.json [skip ci]"
-          git push
+          # The repo also receives hand-written commits, so another push
+          # may have landed while this run was fetching feeds. Rebase
+          # onto origin/main before pushing, and retry a few times in
+          # case a second push races us during the rebase window.
+          for attempt in 1 2 3; do
+            if git pull --rebase --autostash origin main && git push; then
+              exit 0
+            fi
+            echo "push attempt $attempt failed — refetching and retrying"
+            sleep 3
+          done
+          echo "push failed after 3 attempts" >&2
+          exit 1
