@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-19T10:12:12.402Z",
-  "rawCount": 750,
+  "generatedAt": "2026-04-19T12:04:42.289Z",
+  "rawCount": 736,
   "articles": [
     {
       "title": "FAA Confirms Temporary Airspace Closure Over El Paso, Texas Due to Deployment of Advanced Laser Technology, as U.S. and Mexico Strengthen Joint Counter-Drone Defense Systems to Safeguard National Airspace from Rising UAV Threats",
@@ -97,6 +97,88 @@
       "googleNewsUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaGFTV2c1MDhWcFRCR1hDV1M1WFBBenVXSGVYanJnOGlzX1JNTFBueE5GdHhxRlFlMS1KME1HRFRkTEtKN0ZkanNwb21qQ25mUGt6RG5nR2FELXlXdVA1YTF2UDE4SmRKdHBpSy1tVUttdEVzRzNabHc4SVNNbGtXdWpHYUtfTTZSTGhNVGZFQQ?oc=5",
       "publishedAt": "2026-04-13T21:55:32.000Z",
       "source": "DefenseScoop",
+      "_feedRegion": "us",
+      "_feedName": "FAA",
+      "_scoring": {
+        "score": 77,
+        "categories": [
+          "規制・政策",
+          "事故・事件",
+          "政策・インフラ"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
+          "incident": {
+            "matches": 1,
+            "catScore": 28
+          },
+          "policy": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 0,
+          "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "Former DOJ and FAA Official Michael O’Shea Joins DRONERESPONDERS UNITE Public Safety UAS Training Team",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxPNzJENlJ4N3AwdnE5b0JwRTFLQU5IcFpwM3o0QkdMdkowNFNyLTA0V3lnTDNfWjYwNVprZzBwWmhsX3ZJUEE4RDhCZGVYMFNKblVuTlprWi1fb3NqbGx3c1VwS0MwQ0Z1QlI3NmlodmpWdU1GUm9hVktDY2UzYUFMX3llLV9uUlludllHTzZfblRSaUN6MnFrU05OQXIxR2JCdXZHTC1SSWFrNzItM2hzaW9LTlROajlPaTlMREtUYk9ndWdTYzJjWlJ0WEs1UGNqeFBSbktiVDB2YzlIcEV2TXJmdUR0QTZh?oc=5\" target=\"_blank\">Former DOJ and FAA Official Michael O’Shea Joins DRONERESPONDERS UNITE Public Safety UAS Training Team</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Homeland Security Today</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxPNzJENlJ4N3AwdnE5b0JwRTFLQU5IcFpwM3o0QkdMdkowNFNyLTA0V3lnTDNfWjYwNVprZzBwWmhsX3ZJUEE4RDhCZGVYMFNKblVuTlprWi1fb3NqbGx3c1VwS0MwQ0Z1QlI3NmlodmpWdU1GUm9hVktDY2UzYUFMX3llLV9uUlludllHTzZfblRSaUN6MnFrU05OQXIxR2JCdXZHTC1SSWFrNzItM2hzaW9LTlROajlPaTlMREtUYk9ndWdTYzJjWlJ0WEs1UGNqeFBSbktiVDB2YzlIcEV2TXJmdUR0QTZh?oc=5\" target=\"_blank\">Former DOJ and FAA Official Michael O’Shea Joins DRONERESPONDERS UNITE Public Safety UAS Training Team</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Homeland Security Today</font>",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPNzJENlJ4N3AwdnE5b0JwRTFLQU5IcFpwM3o0QkdMdkowNFNyLTA0V3lnTDNfWjYwNVprZzBwWmhsX3ZJUEE4RDhCZGVYMFNKblVuTlprWi1fb3NqbGx3c1VwS0MwQ0Z1QlI3NmlodmpWdU1GUm9hVktDY2UzYUFMX3llLV9uUlludllHTzZfblRSaUN6MnFrU05OQXIxR2JCdXZHTC1SSWFrNzItM2hzaW9LTlROajlPaTlMREtUYk9ndWdTYzJjWlJ0WEs1UGNqeFBSbktiVDB2YzlIcEV2TXJmdUR0QTZh?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPNzJENlJ4N3AwdnE5b0JwRTFLQU5IcFpwM3o0QkdMdkowNFNyLTA0V3lnTDNfWjYwNVprZzBwWmhsX3ZJUEE4RDhCZGVYMFNKblVuTlprWi1fb3NqbGx3c1VwS0MwQ0Z1QlI3NmlodmpWdU1GUm9hVktDY2UzYUFMX3llLV9uUlludllHTzZfblRSaUN6MnFrU05OQXIxR2JCdXZHTC1SSWFrNzItM2hzaW9LTlROajlPaTlMREtUYk9ndWdTYzJjWlJ0WEs1UGNqeFBSbktiVDB2YzlIcEV2TXJmdUR0QTZh?oc=5",
+      "publishedAt": "2026-04-09T09:17:34.000Z",
+      "source": "Homeland Security Today",
+      "_feedRegion": "us",
+      "_feedName": "FAA",
+      "_scoring": {
+        "score": 77,
+        "categories": [
+          "規制・政策",
+          "事故・事件",
+          "政策・インフラ"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
+          "incident": {
+            "matches": 1,
+            "catScore": 28
+          },
+          "policy": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 0,
+          "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "DRONERESPONDERS Adds Former DOJ and FAA Official to UNITE Public Safety UAS Training Team",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPOEVNclZYNDByVXpQTDlhdVpLTXUwQkVrWnlQQm9JeFdwbWFSdEIwWnpFQ2toM2tOSThrWVR0a09LQjdFcy1yVGtyX184U3U4cHFYd0RwYUMxYVJ3bjJmS2hxZmx3Z0tXMmFKM193NGlyQV9UOUxfU2tralViV1dJTUNjVEd6aHljQzUzX2d1ZzctMkVpZ295ZEVnVkpyVllLbmNvUnlaOHYzd1Bfc2tGTF9JZnZvNUtDR0dNWElOc3U?oc=5\" target=\"_blank\">DRONERESPONDERS Adds Former DOJ and FAA Official to UNITE Public Safety UAS Training Team</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">uasweekly.com</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPOEVNclZYNDByVXpQTDlhdVpLTXUwQkVrWnlQQm9JeFdwbWFSdEIwWnpFQ2toM2tOSThrWVR0a09LQjdFcy1yVGtyX184U3U4cHFYd0RwYUMxYVJ3bjJmS2hxZmx3Z0tXMmFKM193NGlyQV9UOUxfU2tralViV1dJTUNjVEd6aHljQzUzX2d1ZzctMkVpZ295ZEVnVkpyVllLbmNvUnlaOHYzd1Bfc2tGTF9JZnZvNUtDR0dNWElOc3U?oc=5\" target=\"_blank\">DRONERESPONDERS Adds Former DOJ and FAA Official to UNITE Public Safety UAS Training Team</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">uasweekly.com</font>",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPOEVNclZYNDByVXpQTDlhdVpLTXUwQkVrWnlQQm9JeFdwbWFSdEIwWnpFQ2toM2tOSThrWVR0a09LQjdFcy1yVGtyX184U3U4cHFYd0RwYUMxYVJ3bjJmS2hxZmx3Z0tXMmFKM193NGlyQV9UOUxfU2tralViV1dJTUNjVEd6aHljQzUzX2d1ZzctMkVpZ295ZEVnVkpyVllLbmNvUnlaOHYzd1Bfc2tGTF9JZnZvNUtDR0dNWElOc3U?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPOEVNclZYNDByVXpQTDlhdVpLTXUwQkVrWnlQQm9JeFdwbWFSdEIwWnpFQ2toM2tOSThrWVR0a09LQjdFcy1yVGtyX184U3U4cHFYd0RwYUMxYVJ3bjJmS2hxZmx3Z0tXMmFKM193NGlyQV9UOUxfU2tralViV1dJTUNjVEd6aHljQzUzX2d1ZzctMkVpZ295ZEVnVkpyVllLbmNvUnlaOHYzd1Bfc2tGTF9JZnZvNUtDR0dNWElOc3U?oc=5",
+      "publishedAt": "2026-04-08T11:17:13.000Z",
+      "source": "uasweekly.com",
       "_feedRegion": "us",
       "_feedName": "FAA",
       "_scoring": {
@@ -418,47 +500,6 @@
       }
     },
     {
-      "title": "Counter-drone Lasers Approved for Use Along Southern Border by FAA and Pentagon",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVjZSUjZ5eTNDTnVvc3ZuaXd6NUx0OFBZbnBoUDF1LXA1YUdRSlIwTlkzV2FUZmsyQ3dES0dKdGgtMWt1WldDZmUzZEdaa2ZiaXBtaVA3RHQ5Z1JJcG9HN3EwcGdxNXJPdHA1OU5UbWtBX01hQVA3aGpVQWxoWlFMa3pJUWdCcWM1b3RoUE9qcnFvZ0VubXEzQkdOUmdlZGRvUm9SSjNEamFuRWhDc3ZIZkFiV2dmdFJEbHk5SU85UmJ6VjJSSTZUQdIBzgFBVV95cUxQc2ttRnREOVV0SHJISkJWRllNRnRFOHNia2JSdjRTR1hTZTRGc3RtWm9rR1Byc0dGZ0htMTJZcGdmeXpLR18td2lVZmNveERVdFBsR3hZV0d1djZzTHJVQjBBV2dLUVpfTEt5VmprODA0WEpCU3c0cGM3MWhSM1Eya2Y5OFpvR2hkVUFVeDdUOHVTTTRXNzNMSFhjN0RHcElJX3dpeER0WFB3SEdYTi1jMzBOY0k4dC1YOGNBVURZSTNmRFdnM0t5Tl9QXzlHZw?oc=5\" target=\"_blank\">Counter-drone Lasers Approved for Use Along Southern Border by FAA and Pentagon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LatestLY</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVjZSUjZ5eTNDTnVvc3ZuaXd6NUx0OFBZbnBoUDF1LXA1YUdRSlIwTlkzV2FUZmsyQ3dES0dKdGgtMWt1WldDZmUzZEdaa2ZiaXBtaVA3RHQ5Z1JJcG9HN3EwcGdxNXJPdHA1OU5UbWtBX01hQVA3aGpVQWxoWlFMa3pJUWdCcWM1b3RoUE9qcnFvZ0VubXEzQkdOUmdlZGRvUm9SSjNEamFuRWhDc3ZIZkFiV2dmdFJEbHk5SU85UmJ6VjJSSTZUQdIBzgFBVV95cUxQc2ttRnREOVV0SHJISkJWRllNRnRFOHNia2JSdjRTR1hTZTRGc3RtWm9rR1Byc0dGZ0htMTJZcGdmeXpLR18td2lVZmNveERVdFBsR3hZV0d1djZzTHJVQjBBV2dLUVpfTEt5VmprODA0WEpCU3c0cGM3MWhSM1Eya2Y5OFpvR2hkVUFVeDdUOHVTTTRXNzNMSFhjN0RHcElJX3dpeER0WFB3SEdYTi1jMzBOY0k4dC1YOGNBVURZSTNmRFdnM0t5Tl9QXzlHZw?oc=5\" target=\"_blank\">Counter-drone Lasers Approved for Use Along Southern Border by FAA and Pentagon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LatestLY</font>",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVjZSUjZ5eTNDTnVvc3ZuaXd6NUx0OFBZbnBoUDF1LXA1YUdRSlIwTlkzV2FUZmsyQ3dES0dKdGgtMWt1WldDZmUzZEdaa2ZiaXBtaVA3RHQ5Z1JJcG9HN3EwcGdxNXJPdHA1OU5UbWtBX01hQVA3aGpVQWxoWlFMa3pJUWdCcWM1b3RoUE9qcnFvZ0VubXEzQkdOUmdlZGRvUm9SSjNEamFuRWhDc3ZIZkFiV2dmdFJEbHk5SU85UmJ6VjJSSTZUQdIBzgFBVV95cUxQc2ttRnREOVV0SHJISkJWRllNRnRFOHNia2JSdjRTR1hTZTRGc3RtWm9rR1Byc0dGZ0htMTJZcGdmeXpLR18td2lVZmNveERVdFBsR3hZV0d1djZzTHJVQjBBV2dLUVpfTEt5VmprODA0WEpCU3c0cGM3MWhSM1Eya2Y5OFpvR2hkVUFVeDdUOHVTTTRXNzNMSFhjN0RHcElJX3dpeER0WFB3SEdYTi1jMzBOY0k4dC1YOGNBVURZSTNmRFdnM0t5Tl9QXzlHZw?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVjZSUjZ5eTNDTnVvc3ZuaXd6NUx0OFBZbnBoUDF1LXA1YUdRSlIwTlkzV2FUZmsyQ3dES0dKdGgtMWt1WldDZmUzZEdaa2ZiaXBtaVA3RHQ5Z1JJcG9HN3EwcGdxNXJPdHA1OU5UbWtBX01hQVA3aGpVQWxoWlFMa3pJUWdCcWM1b3RoUE9qcnFvZ0VubXEzQkdOUmdlZGRvUm9SSjNEamFuRWhDc3ZIZkFiV2dmdFJEbHk5SU85UmJ6VjJSSTZUQdIBzgFBVV95cUxQc2ttRnREOVV0SHJISkJWRllNRnRFOHNia2JSdjRTR1hTZTRGc3RtWm9rR1Byc0dGZ0htMTJZcGdmeXpLR18td2lVZmNveERVdFBsR3hZV0d1djZzTHJVQjBBV2dLUVpfTEt5VmprODA0WEpCU3c0cGM3MWhSM1Eya2Y5OFpvR2hkVUFVeDdUOHVTTTRXNzNMSFhjN0RHcElJX3dpeER0WFB3SEdYTi1jMzBOY0k4dC1YOGNBVURZSTNmRFdnM0t5Tl9QXzlHZw?oc=5",
-      "publishedAt": "2026-04-10T20:55:14.000Z",
-      "source": "LatestLY",
-      "_feedRegion": "us",
-      "_feedName": "FAA",
-      "_scoring": {
-        "score": 71,
-        "categories": [
-          "規制・政策",
-          "技術・製品",
-          "市場・資金"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 1,
-            "catScore": 32
-          },
-          "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "market": {
-            "matches": 1,
-            "catScore": 20
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 0,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
       "title": "クウェートの空港を狙ったドローン攻撃、燃料タンクが炎上：航空局",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE1ZSXlWNzRnOUdFeGhGRUZGVGtOd09RbGxJZ2czY054T2Z0TEtwQl8xdWtrVmN5TnB5cGxHcy0zbkJLbU1hdnppSmU1d0RMRDFGcGxaSkN0bTR2NTRlSFFyNGxMeWlPNXVodE9J?oc=5\" target=\"_blank\">クウェートの空港を狙ったドローン攻撃、燃料タンクが炎上：航空局</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">arabnews.jp</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE1ZSXlWNzRnOUdFeGhGRUZGVGtOd09RbGxJZ2czY054T2Z0TEtwQl8xdWtrVmN5TnB5cGxHcy0zbkJLbU1hdnppSmU1d0RMRDFGcGxaSkN0bTR2NTRlSFFyNGxMeWlPNXVodE9J?oc=5\" target=\"_blank\">クウェートの空港を狙ったドローン攻撃、燃料タンクが炎上：航空局</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">arabnews.jp</font>",
@@ -537,42 +578,6 @@
       }
     },
     {
-      "title": "FAA lifts El Paso airspace restriction after drone threat 'neutralized'",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMihAJBVV95cUxNeVliTGxwQ1RMb2k3U3FCazVDd1NZNGlLTDk2UWFCNllPLWdURUVRWUZIa1hPSV9ESTJFSmFVaDBkNjcya1RtbGdMWU1oUHNPSmVCdldHUm1VNWp2WmJOblJmajN1V0xIalRaRzMtTG51VE41V1JtZ2hsblYwSHVxQTFNbG1HZ2Z2MTV0SEF1WThrVHhrWDFSVGNvMDRTbGF2ejR5TVRoMWNLZEhKOG5FbjVzMHFudFlwY1BBd1BEM2JBX3RJMWxuWFBOTjZwcWZqZWFOUUdmTXNGMnR3bGVSVmxYaUFVX0JTdWdyNUloR25ZTUVkY3RReUJSUW1NbEtnOS1jYQ?oc=5\" target=\"_blank\">FAA lifts El Paso airspace restriction after drone threat 'neutralized'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMihAJBVV95cUxNeVliTGxwQ1RMb2k3U3FCazVDd1NZNGlLTDk2UWFCNllPLWdURUVRWUZIa1hPSV9ESTJFSmFVaDBkNjcya1RtbGdMWU1oUHNPSmVCdldHUm1VNWp2WmJOblJmajN1V0xIalRaRzMtTG51VE41V1JtZ2hsblYwSHVxQTFNbG1HZ2Z2MTV0SEF1WThrVHhrWDFSVGNvMDRTbGF2ejR5TVRoMWNLZEhKOG5FbjVzMHFudFlwY1BBd1BEM2JBX3RJMWxuWFBOTjZwcWZqZWFOUUdmTXNGMnR3bGVSVmxYaUFVX0JTdWdyNUloR25ZTUVkY3RReUJSUW1NbEtnOS1jYQ?oc=5\" target=\"_blank\">FAA lifts El Paso airspace restriction after drone threat 'neutralized'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
-      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNeVliTGxwQ1RMb2k3U3FCazVDd1NZNGlLTDk2UWFCNllPLWdURUVRWUZIa1hPSV9ESTJFSmFVaDBkNjcya1RtbGdMWU1oUHNPSmVCdldHUm1VNWp2WmJOblJmajN1V0xIalRaRzMtTG51VE41V1JtZ2hsblYwSHVxQTFNbG1HZ2Z2MTV0SEF1WThrVHhrWDFSVGNvMDRTbGF2ejR5TVRoMWNLZEhKOG5FbjVzMHFudFlwY1BBd1BEM2JBX3RJMWxuWFBOTjZwcWZqZWFOUUdmTXNGMnR3bGVSVmxYaUFVX0JTdWdyNUloR25ZTUVkY3RReUJSUW1NbEtnOS1jYQ?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNeVliTGxwQ1RMb2k3U3FCazVDd1NZNGlLTDk2UWFCNllPLWdURUVRWUZIa1hPSV9ESTJFSmFVaDBkNjcya1RtbGdMWU1oUHNPSmVCdldHUm1VNWp2WmJOblJmajN1V0xIalRaRzMtTG51VE41V1JtZ2hsblYwSHVxQTFNbG1HZ2Z2MTV0SEF1WThrVHhrWDFSVGNvMDRTbGF2ejR5TVRoMWNLZEhKOG5FbjVzMHFudFlwY1BBd1BEM2JBX3RJMWxuWFBOTjZwcWZqZWFOUUdmTXNGMnR3bGVSVmxYaUFVX0JTdWdyNUloR25ZTUVkY3RReUJSUW1NbEtnOS1jYQ?oc=5",
-      "publishedAt": "2026-04-19T02:37:42.000Z",
-      "source": "MSN",
-      "_feedRegion": "us",
-      "_feedName": "FAA",
-      "_scoring": {
-        "score": 67,
-        "categories": [
-          "規制・政策",
-          "市場・資金"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 1,
-            "catScore": 32
-          },
-          "market": {
-            "matches": 1,
-            "catScore": 20
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 15,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
       "title": "外壁調査を「赤外線×ドローン×打診」で最適配分 コンステックら3社が共同開発",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE1YbkdyekFPdU5xWEVSaUNJelQ5NUtJTlZ0WTd5RUY0MXBnQXRuZGF3ZDJfeU00dXc1NUtUSmFwSEFWNVBKQTcwLTNUa0ZQNi1Sd0hnUlFNdGdQNWs?oc=5\" target=\"_blank\">外壁調査を「赤外線×ドローン×打診」で最適配分 コンステックら3社が共同開発</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DRONE.jp</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE1YbkdyekFPdU5xWEVSaUNJelQ5NUtJTlZ0WTd5RUY0MXBnQXRuZGF3ZDJfeU00dXc1NUtUSmFwSEFWNVBKQTcwLTNUa0ZQNi1Sd0hnUlFNdGdQNWs?oc=5\" target=\"_blank\">外壁調査を「赤外線×ドローン×打診」で最適配分 コンステックら3社が共同開発</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DRONE.jp</font>",
@@ -607,7 +612,9 @@
           "jpRegionBonus": 15
         },
         "pass": true
-      }
+      },
+      "implication": "コンステックら3社が赤外線カメラ搭載ドローンと打診検査を組み合わせた外壁調査システムを共同開発したことで、建築物点検業務においてドローン活用の効率化事例が蓄積され、国土交通省航空局(JCAB)のレベル3認可申請時に民間提出データとしての説…",
+      "implicationVerified": true
     },
     {
       "title": "【自治体インフラ点検実態調査】4割以上の職員が点検継続は困難 ドローンやAI活用は8割が有効視も導入を阻む職員の不安が浮き彫りに～東京都大田区のデジタル技術活用をセミナーで紹介～",
@@ -642,42 +649,6 @@
           "freshness": 0,
           "titleBonus": 10,
           "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "FAA and Pentagon clear anti-drone lasers for use after safety incidents",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOakN0YWZsUU9qbE5lcUFMVHQtVEFvaVVHbFVoRlNXLXF6NUo3WXdjMnRZUFlyV21ySFR1NVhsakQtbzJLbnJmc0F4T0xTRzZWSllKUDZ0QVFvOU9WNnhTQVAyREJ1RXY1WllKYmxra2plTmlUbnFYRm9GdWdpNzBnN2tya2Y2eXhNTjZ4TElUakJCRk9CV3liTzdmUl9sMXFGY1RqdDNmbW56SGEzYkZYLWR3ZklJdG5y?oc=5\" target=\"_blank\">FAA and Pentagon clear anti-drone lasers for use after safety incidents</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOakN0YWZsUU9qbE5lcUFMVHQtVEFvaVVHbFVoRlNXLXF6NUo3WXdjMnRZUFlyV21ySFR1NVhsakQtbzJLbnJmc0F4T0xTRzZWSllKUDZ0QVFvOU9WNnhTQVAyREJ1RXY1WllKYmxra2plTmlUbnFYRm9GdWdpNzBnN2tya2Y2eXhNTjZ4TElUakJCRk9CV3liTzdmUl9sMXFGY1RqdDNmbW56SGEzYkZYLWR3ZklJdG5y?oc=5\" target=\"_blank\">FAA and Pentagon clear anti-drone lasers for use after safety incidents</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOakN0YWZsUU9qbE5lcUFMVHQtVEFvaVVHbFVoRlNXLXF6NUo3WXdjMnRZUFlyV21ySFR1NVhsakQtbzJLbnJmc0F4T0xTRzZWSllKUDZ0QVFvOU9WNnhTQVAyREJ1RXY1WllKYmxra2plTmlUbnFYRm9GdWdpNzBnN2tya2Y2eXhNTjZ4TElUakJCRk9CV3liTzdmUl9sMXFGY1RqdDNmbW56SGEzYkZYLWR3ZklJdG5y?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOakN0YWZsUU9qbE5lcUFMVHQtVEFvaVVHbFVoRlNXLXF6NUo3WXdjMnRZUFlyV21ySFR1NVhsakQtbzJLbnJmc0F4T0xTRzZWSllKUDZ0QVFvOU9WNnhTQVAyREJ1RXY1WllKYmxra2plTmlUbnFYRm9GdWdpNzBnN2tya2Y2eXhNTjZ4TElUakJCRk9CV3liTzdmUl9sMXFGY1RqdDNmbW56SGEzYkZYLWR3ZklJdG5y?oc=5",
-      "publishedAt": "2026-04-16T22:31:34.000Z",
-      "source": "MSN",
-      "_feedRegion": "us",
-      "_feedName": "FAA",
-      "_scoring": {
-        "score": 66,
-        "categories": [
-          "規制・政策",
-          "事故・事件"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 1,
-            "catScore": 32
-          },
-          "incident": {
-            "matches": 2,
-            "catScore": 35
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 2,
-          "titleBonus": 10
         },
         "pass": true
       }
@@ -793,7 +764,9 @@
           "jpRegionBonus": 15
         },
         "pass": true
-      }
+      },
+      "implication": "イームズロボティクスとSkyportsの提携はドローン配送の商用化モデルを示すが、日本でJCABが求める航空法レベル4の有人地帯目視外飛行認証基準とは異なる運用体系である可能性が高く、SkyDriveやテラドローンといった国内事業者が目指…",
+      "implicationVerified": true
     },
     {
       "title": "プロドローン、純国産ドローンを開発 主要部品の材料も国内調達",
@@ -1155,6 +1128,38 @@
           },
           "freshness": 5,
           "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "360°＆４Kマイクロドローン点検技術「性能評価」と「社会実装」で評価獲得 ～ 国土交通省カタログ掲載 ～",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE1ZcW5jcDhtWVJsOVVtQmloN2dzVjR3TkhITEVvdE56LXAydGRlUVBOTmREaVZuT0NUMjcyZElPVTQtLTR6NVJ6VzB6ME8zOUt6SEEtOS1wb3JDQUd4cmdlamI3WmwteVAxenc?oc=5\" target=\"_blank\">360°＆４Kマイクロドローン点検技術「性能評価」と「社会実装」で評価獲得 ～ 国土交通省カタログ掲載 ～</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR TIMES</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE1ZcW5jcDhtWVJsOVVtQmloN2dzVjR3TkhITEVvdE56LXAydGRlUVBOTmREaVZuT0NUMjcyZElPVTQtLTR6NVJ6VzB6ME8zOUt6SEEtOS1wb3JDQUd4cmdlamI3WmwteVAxenc?oc=5\" target=\"_blank\">360°＆４Kマイクロドローン点検技術「性能評価」と「社会実装」で評価獲得 ～ 国土交通省カタログ掲載 ～</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR TIMES</font>",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ZcW5jcDhtWVJsOVVtQmloN2dzVjR3TkhITEVvdE56LXAydGRlUVBOTmREaVZuT0NUMjcyZElPVTQtLTR6NVJ6VzB6ME8zOUt6SEEtOS1wb3JDQUd4cmdlamI3WmwteVAxenc?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ZcW5jcDhtWVJsOVVtQmloN2dzVjR3TkhITEVvdE56LXAydGRlUVBOTmREaVZuT0NUMjcyZElPVTQtLTR6NVJ6VzB6ME8zOUt6SEEtOS1wb3JDQUd4cmdlamI3WmwteVAxenc?oc=5",
+      "publishedAt": "2026-04-17T00:30:01.000Z",
+      "source": "PR TIMES",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP 政策/実証)",
+      "_scoring": {
+        "score": 53,
+        "categories": [
+          "規制・政策"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 2,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
         },
         "pass": true
       }
