@@ -2675,16 +2675,41 @@ const CAT_TO_TAG = {
   '事故・事件': '安全', '政策・インフラ': 'インフラ', '標準化': '標準化',
 };
 
+// Pull organization / technology keywords out of the title so the generated
+// hypothesis references the specific topic instead of a fixed boilerplate.
+const IMPL_ORG_RE = /\b(FAA|EASA|JCAB|ICAO|CAAC|DGCA|ANAC|CAA|MLIT|ASTM|ISO|EUROCAE|RTCA|3GPP|NASA|DOT)\b/i;
+const IMPL_TECH_RE = /\b(eVTOL|BVLOS|UTM|U-space|Remote\s*ID|vertiport|air\s*taxi|drone|UAS|UAV|UAM|AAM)\b/i;
+const IMPL_TECH_JP_RE = /(eVTOL|BVLOS|UTM|U-space|リモートID|Remote\s*ID|バーティポート|空飛ぶクルマ|エアタクシー|ドローン|UAS|UAV|UAM|AAM|無人航空機)/i;
+
 function implicationFor(article, scoring) {
   const prio = priorityLabel(scoring.score);
   const isEn = currentLang === 'en';
   const prioLabel = isEn
     ? ({ critical: 'critical', high: 'high', medium: 'medium', low: 'low' }[prio] || 'medium')
     : ({ critical: '最重要', high: '高', medium: '中', low: '低' }[prio] || '中');
-  const cats = scoring.categories.join(' / ') || (isEn ? 'general' : '一般');
-  return isEn
-    ? `<b>Score ${scoring.score} (${prioLabel})</b> — Potential signal in ${cats} (via ${article._feedName}). Japan operators may face <b>similar domestic questions</b>.`
-    : `<b>スコア ${scoring.score} (${prioLabel})</b> — ${cats} のシグナルとなる可能性があるか(${article._feedName} 経由)。日本の事業者にも <b>同分野の国内対応</b> が問われる局面となりうるのではないか。`;
+
+  const title = String(article?.title || '');
+  const cats = Array.isArray(scoring?.categories) ? scoring.categories : [];
+  const primaryCat = cats[0] || '';
+  const catsStr = cats.join(' / ') || (isEn ? 'general' : '一般');
+  const orgMatch = title.match(IMPL_ORG_RE);
+  const techMatch = title.match(isEn ? IMPL_TECH_RE : IMPL_TECH_JP_RE) || title.match(IMPL_TECH_RE);
+  const org = orgMatch ? orgMatch[0].toUpperCase() : null;
+  const tech = techMatch ? techMatch[0] : null;
+  const subject = [org, tech].filter(Boolean).join(' / ');
+
+  if (isEn) {
+    const head = subject
+      ? `<b>${subject}</b> signal (score ${scoring.score} · ${prioLabel})`
+      : `<b>Score ${scoring.score} (${prioLabel})</b> — potential signal in <b>${catsStr}</b>`;
+    const focus = primaryCat || 'this area';
+    return `${head} — as <b>${focus}</b> moves abroad, Japan operators may need to <b>align domestic posture</b> around the same issue.`;
+  }
+  const head = subject
+    ? `<b>${subject}</b> 関連のシグナル (スコア ${scoring.score}・${prioLabel})`
+    : `<b>スコア ${scoring.score} (${prioLabel})</b> — <b>${catsStr}</b> のシグナルとなる可能性`;
+  const focus = primaryCat || '当該分野';
+  return `${head} — 海外で <b>${focus}</b> が動く中、日本の事業者・規制側も <b>同分野の国内対応</b> が問われる局面となりうるのではないか。`;
 }
 
 // ------- Implication decoration: sources + external-search verify -------
@@ -2707,10 +2732,23 @@ function getImplicationSources(article) {
   return [];
 }
 
+// Live items carry raw scoring data on `_impl` so we can re-generate the
+// hypothesis in the current language at render time (not at fetch time).
+// Seed items keep their hand-written static `implication` string.
+function implicationTextFor(n) {
+  if (n && n._impl) {
+    return implicationFor(
+      { title: n._impl.title, _feedName: n._impl.feedName },
+      n._impl.scoring || {}
+    );
+  }
+  return n?.implication || '';
+}
+
 function refreshBriefImplicationsAsync() {
   const impl = document.getElementById('briefImpl');
   if (!impl) return;
-  const items = pickForCurrentWindow().slice(0, 5).filter(n => n.implication);
+  const items = pickForCurrentWindow().slice(0, 5).filter(n => implicationTextFor(n));
   const lis = impl.querySelectorAll('li');
   if (!lis.length) return;
 
@@ -2719,7 +2757,7 @@ function refreshBriefImplicationsAsync() {
     if (!li) return;
     const hasTs = !!(n._publishedAt || n.publishedAt);
     const source = hasTs ? 'tpl' : 'seed';
-    decorateImplLi(li, n.implication, source, n);
+    decorateImplLi(li, implicationTextFor(n), source, n);
   });
 }
 
@@ -2786,6 +2824,7 @@ function mapToNewsItem(article, i) {
     thumb: inferThumb(s.categories, article.title),
     priority: Math.min(10, Math.max(1, Math.round(s.score / 12))),
     implication: implicationFor(article, s),
+    _impl: { title: article.title, feedName: article._feedName, scoring: s },
     _live: true,
     _score: s.score,
     _publishedAt: article.publishedAt,
@@ -3534,11 +3573,14 @@ function renderBrief(items) {
     list.appendChild(a);
   });
 
-  topFive.filter(n => n.implication).slice(0, 4).forEach(n => {
-    const li = document.createElement('li');
-    li.innerHTML = n.implication;
-    impl.appendChild(li);
-  });
+  topFive.map(n => ({ n, text: implicationTextFor(n) }))
+    .filter(x => x.text)
+    .slice(0, 4)
+    .forEach(({ text }) => {
+      const li = document.createElement('li');
+      li.innerHTML = text;
+      impl.appendChild(li);
+    });
 
   // After initial template paint, kick off AI refresh (no-op if key not set)
   if (typeof refreshBriefImplicationsAsync === 'function') {
@@ -3632,8 +3674,15 @@ function pickForCurrentWindow() {
       return age != null && age <= FRESH_MS;
     });
 
-  if (fresh.length >= 5) {
-    return fresh.slice(0, 9);
+  // In JP mode, surface Japanese-region articles to the top of the Brief so
+  // the "今週の主要トピック" section reads in Japanese. World-region items
+  // still appear afterwards so global signal isn't lost.
+  const ordered = currentLang === 'jp'
+    ? fresh.slice().sort((a, b) => (b.region === 'jp' ? 1 : 0) - (a.region === 'jp' ? 1 : 0))
+    : fresh;
+
+  if (ordered.length >= 5) {
+    return ordered.slice(0, 9);
   }
 
   // Backfill: take whatever fresh live items we have, then pad with seeds
@@ -3641,8 +3690,8 @@ function pickForCurrentWindow() {
   const idx = currentWindowIdx();
   const sortedSeeds = NEWS_POOL.slice().sort((a, b) => b.priority - a.priority);
   const rotatedSeeds = seededShuffle(sortedSeeds, idx);
-  const needed = Math.max(0, 9 - fresh.length);
-  return [...fresh, ...rotatedSeeds.slice(0, needed)];
+  const needed = Math.max(0, 9 - ordered.length);
+  return [...ordered, ...rotatedSeeds.slice(0, needed)];
 }
 
 // ------- Update timestamps & countdown --------------------------------

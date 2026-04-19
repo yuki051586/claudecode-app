@@ -16,7 +16,8 @@ const KEYWORDS = {
   required: [
     'uas', 'uav', 'aam', 'evtol', 'uam', 'drone', 'unmanned',
     'air taxi', 'air mobility', 'vertiport', 'vtol', 'autonomy',
-    'urban air', 'advanced air', '無人航空', 'ドローン', '空飛ぶ車',
+    'urban air', 'advanced air',
+    '無人航空', 'ドローン', '空飛ぶクルマ', '空飛ぶ車', 'エアタクシー', '垂直離着陸',
   ],
 
   // カテゴリ別キーワードとスコア加算値
@@ -28,7 +29,8 @@ const KEYWORDS = {
         'faa', 'easa', 'icao', 'jcab', 'part 107', 'part 135',
         'bvlos', 'type certificate', 'airworthiness', 'certification',
         'waiver', 'regulation', 'rule', 'rulemaking', 'ntia',
-        '国土交通省', '航空法', '型式認証', '規制',
+        '国土交通省', '国交省', '航空局', '航空法', '型式認証', '規制',
+        'レベル4', '特定飛行', '機体認証', '操縦ライセンス',
       ],
     },
     technology: {
@@ -38,7 +40,7 @@ const KEYWORDS = {
         'prototype', 'launch', 'flight test', 'maiden flight', 'battery',
         'autonomy', 'detect and avoid', 'daa', 'utm', 'u-space',
         'payload', 'sensor', 'lidar', 'hydrogen', 'hybrid propulsion',
-        '試験飛行', '量産', '開発', '認証取得',
+        '試験飛行', '実証飛行', '実証実験', '量産', '開発', '認証取得', '初飛行',
       ],
     },
     market: {
@@ -48,7 +50,7 @@ const KEYWORDS = {
         'funding', 'series', 'ipo', 'spac', 'acquisition', 'merger',
         'partnership', 'contract', 'order', 'revenue', 'valuation',
         'investment', 'venture', 'billion', 'million',
-        '資金調達', '契約', '買収', '出資', 'シリーズ',
+        '資金調達', '契約', '買収', '出資', 'シリーズ', '提携', '業務提携', '上場', '調達',
       ],
     },
     incident: {
@@ -84,6 +86,7 @@ const SOURCE_TRUST = {
   'icao.int':         1.5,
   'nasa.gov':         1.4,
   'ntsb.gov':         1.4,
+  'mlit.go.jp':       1.5,
   // 専門メディア
   'avweb.com':        1.3,
   'ainonline.com':    1.3,
@@ -93,6 +96,19 @@ const SOURCE_TRUST = {
   'dronelife.com':    1.2,
   'uasmagazine.com':  1.2,
   'suasnews.com':     1.2,
+  // 日本メディア
+  'nikkei.com':       1.2,
+  'asahi.com':        1.1,
+  'mainichi.jp':      1.1,
+  'yomiuri.co.jp':    1.1,
+  'nhk.or.jp':        1.2,
+  'nhk.jp':           1.2,
+  'jiji.com':         1.1,
+  'kyodonews.net':    1.1,
+  'sankei.com':       1.0,
+  'itmedia.co.jp':    1.1,
+  'impress.co.jp':    1.0,
+  'drone.jp':         1.1,
   // 一般メディア
   'reuters.com':      1.1,
   'bloomberg.com':    1.1,
@@ -210,7 +226,7 @@ export function scoreArticle(article) {
     score,
     categories: hitCategories,
     breakdown,
-    pass: score >= 60,  // 閾値: 60点以上で掲載
+    pass: score > 0,  // フィルタ自体は minScore で判定 — pass は単に「必須キーワードを通過した」サイン
   };
 }
 

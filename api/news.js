@@ -31,6 +31,11 @@ const FEEDS = [
     region: 'jp',
   },
   {
+    name: 'Google News (JP 政策/実証)',
+    url: 'https://news.google.com/rss/search?q=(ドローン+OR+無人航空機+OR+%22空飛ぶクルマ%22+OR+eVTOL)+(国交省+OR+航空局+OR+JCAB+OR+レベル4+OR+特定飛行+OR+実証+OR+資金調達+OR+提携)+when:30d&hl=ja&gl=JP&ceid=JP:ja',
+    region: 'jp',
+  },
+  {
     name: 'ASTM',
     url: 'https://news.google.com/rss/search?q=(site:astm.org+OR+ASTM)+(F3411+OR+F38+OR+UAS+OR+drone+OR+BVLOS)+when:30d&hl=en&gl=US&ceid=US:en',
     region: 'world',
