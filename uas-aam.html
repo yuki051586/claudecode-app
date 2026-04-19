@@ -1066,6 +1066,10 @@
     color: #0b1220; background: linear-gradient(135deg, #ffd36b, #ff5a6a);
     padding: 1px 6px; border-radius: 999px; font-weight: 700; opacity: 0.95;
   }
+  .impl-source-tag.ai.verified {
+    color: #0b1220; background: linear-gradient(135deg, #6ee7b7, #34d399);
+    cursor: help;
+  }
 
   /* Implication source links + check button */
   .impl-text { display: block; }
@@ -1951,9 +1955,9 @@
         <div class="brief-impl-box">
           <ul class="brief-impl-list" id="briefImpl"></ul>
           <div class="brief-impl-foot"
-               data-jp="※ 本項は確定的な結論ではなく、ニュースから導かれる仮説・問いです。事実として断定せず「〜か」「〜可能性」と表現しています。シード記事の示唆は編集部が手動で更新。各仮説の ✓ 検証 ボタンで外部検索を開けます。投資・政策判断の推奨ではありません。"
-               data-en="※ These are working hypotheses / open questions drawn from the news, not definitive conclusions. Seed hypotheses are updated manually by the editors. Use the ✓ verify button to open an external web search. Not investment or policy advice.">
-            ※ 本項は確定的な結論ではなく、ニュースから導かれる仮説・問いです。事実として断定せず「〜か」「〜可能性」と表現しています。シード記事の示唆は編集部が手動で更新。各仮説の ✓ 検証 ボタンで外部検索を開けます。投資・政策判断の推奨ではありません。
+               data-jp="※ AI生成の示唆は Claude Haiku が記事から仮説を生成し、同モデルで事実性チェック (固有制度の誤用・記事に無い断定の検出) を通過したものに「✓ AI検証済」を付与しています。ただしAIによる検証であり完全ではありません — 重要な意思決定では各仮説の ✓ 検証 ボタンで外部ソースを必ず確認してください。シード記事の示唆は編集部が手動で更新。投資・政策判断の推奨ではありません。"
+               data-en="※ AI-generated implications are first written by Claude Haiku, then audited by the same model for fabricated facts and misuse of Japanese regulatory terms — entries that pass get a ✓ AI verified tag. This is still an AI-only check; for important decisions, always cross-check with the ✓ verify button. Seed entries are curated manually. Not investment or policy advice.">
+            ※ AI生成の示唆は Claude Haiku が記事から仮説を生成し、同モデルで事実性チェック (固有制度の誤用・記事に無い断定の検出) を通過したものに「✓ AI検証済」を付与しています。ただしAIによる検証であり完全ではありません — 重要な意思決定では各仮説の ✓ 検証 ボタンで外部ソースを必ず確認してください。シード記事の示唆は編集部が手動で更新。投資・政策判断の推奨ではありません。
           </div>
         </div>
       </div>
@@ -3186,9 +3190,15 @@ function refreshBriefImplicationsAsync() {
 
 function decorateImplLi(li, text, source, article) {
   const isEn = currentLang === 'en';
+  const aiVerified = source === 'ai' && !!article?._llmVerified;
+  const aiLabel = source === 'ai'
+    ? (aiVerified ? (isEn ? '✓ AI verified' : '✓ AI検証済')
+                  : (isEn ? 'AI'            : 'AI生成'))
+    : '';
+  const aiClass = aiVerified ? 'ai verified' : 'ai';
   const tag = source === 'seed' ? `<span class="impl-source-tag seed">${isEn ? 'Ref' : '参考'}</span>`
            : source === 'tpl'  ? `<span class="impl-source-tag tpl">${isEn ? 'Template' : 'テンプレ'}</span>`
-           : source === 'ai'   ? `<span class="impl-source-tag ai">${isEn ? 'AI' : 'AI生成'}</span>`
+           : source === 'ai'   ? `<span class="impl-source-tag ${aiClass}" title="${isEn ? 'Generated and fact-checked by Claude Haiku' : 'Claude Haiku が生成 → 同モデルで事実性チェック済み'}">${aiLabel}</span>`
            : '';
   const sources = getImplicationSources(article);
   const srcHtml = sources.length ? `
@@ -3253,6 +3263,7 @@ function mapToNewsItem(article, i) {
       : implicationFor(article, s),
     _llmImpl: (typeof article.implication === 'string' && article.implication.trim())
       ? article.implication.trim() : null,
+    _llmVerified: !!article.implicationVerified,
     _impl: { title: article.title, feedName: article._feedName, scoring: s },
     _live: true,
     _score: s.score,
@@ -3460,6 +3471,7 @@ function mergeIntoArchive(items) {
       firstSeenAt: now,
       implication,
       aiImpl: !!n._llmImpl,
+      aiVerified: !!n._llmVerified,
     });
   });
   // Newest first, cap at ARCHIVE_MAX
