@@ -1,0 +1,12 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "cleanUrls": true,
+  "rewrites": [
+    { "source": "/", "destination": "/uas-aam.html" }
+  ],
+  "functions": {
+    "api/news.js": {
+      "maxDuration": 15
+    }
+  }
+}

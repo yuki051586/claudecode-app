@@ -1,0 +1,10 @@
+{
+  "name": "skynexus-dashboard",
+  "version": "1.0.0",
+  "private": true,
+  "description": "UAS/AAM news intelligence dashboard — static HTML + Vercel serverless news API",
+  "type": "module",
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

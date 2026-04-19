@@ -1,0 +1,110 @@
+[
+  {
+    "id": "aero-2026",
+    "name": "AERO Friedrichshafen 2026",
+    "start": "2026-04-22",
+    "end": "2026-04-25",
+    "url": "https://www.aero-expo.com/",
+    "loc": { "flag": "🇩🇪", "city": "Friedrichshafen" },
+    "desc": {
+      "jp": "欧州最大級の航空総合展・eVTOLゾーン拡大",
+      "en": "Major European general-aviation show with expanded eVTOL zone"
+    }
+  },
+  {
+    "id": "xponential-2026",
+    "name": "XPONENTIAL 2026 (AUVSI)",
+    "start": "2026-05-11",
+    "end": "2026-05-14",
+    "url": "https://www.xponential.org/",
+    "loc": { "flag": "🇺🇸", "city": "Detroit" },
+    "desc": {
+      "jp": "AUVSI主催 — 無人/自律システム業界の旗艦展",
+      "en": "AUVSI's flagship uncrewed / autonomous systems show"
+    }
+  },
+  {
+    "id": "wdc-2026",
+    "name": "World Drone Congress 2026",
+    "start": "2026-05-21",
+    "end": "2026-05-23",
+    "url": "https://www.wuavf.org/2025/10/2026-world-drone-congress/",
+    "loc": { "flag": "🇨🇳", "city": "Shenzhen" },
+    "desc": {
+      "jp": "深圳・低空経済(Low-Altitude Economy)をテーマとする第10回世界UAV会議",
+      "en": "10th World UAV Congress in Shenzhen, theme: Low-Altitude Economy"
+    }
+  },
+  {
+    "id": "japan-drone-2026",
+    "name": { "jp": "Japan Drone 2026 / 第10回", "en": "Japan Drone 2026 (10th)" },
+    "start": "2026-06-03",
+    "end": "2026-06-05",
+    "url": "https://ssl.japan-drone.com/en_la/",
+    "loc": { "flag": "🇯🇵", "city": { "jp": "千葉", "en": "Chiba" } },
+    "desc": {
+      "jp": "幕張メッセ — 国内最大のUAS/AAM展(JUIDA共催)",
+      "en": "Makuhari Messe — Japan's largest UAS/AAM expo (co-hosted by JUIDA)"
+    }
+  },
+  {
+    "id": "farnborough-2026",
+    "name": "Farnborough International Airshow 2026",
+    "start": "2026-07-20",
+    "end": "2026-07-24",
+    "url": "https://www.farnboroughairshow.com/fia2026/",
+    "loc": { "flag": "🇬🇧", "city": "Farnborough" },
+    "desc": {
+      "jp": "英国・隔年開催 — 防衛/商用航空/AAMの総合ショー",
+      "en": "UK biennial — defense, commercial aerospace and AAM showcase"
+    }
+  },
+  {
+    "id": "cuav-2026",
+    "name": "Commercial UAV Expo 2026",
+    "start": "2026-09-01",
+    "end": "2026-09-03",
+    "url": "https://www.expouav.com/",
+    "loc": { "flag": "🇺🇸", "city": "Las Vegas" },
+    "desc": {
+      "jp": "北米最大の商用ドローン展 — Caesars Forum開催",
+      "en": "North America's largest commercial drone show — Caesars Forum"
+    }
+  },
+  {
+    "id": "up-summit-2026",
+    "name": "UP.Summit 2026",
+    "start": "2026-10-11",
+    "end": "2026-10-14",
+    "url": "https://up.partners/summit/",
+    "loc": { "flag": "🇺🇸", "city": "Bentonville" },
+    "desc": {
+      "jp": "UP.Partners主催・招待制の次世代モビリティ/AAMサミット",
+      "en": "Invite-only mobility & AAM summit hosted by UP.Partners"
+    }
+  },
+  {
+    "id": "european-rotors-2026",
+    "name": "European Rotors 2026",
+    "start": "2026-11-30",
+    "end": "2026-12-03",
+    "url": "https://europeanrotors.eu/",
+    "loc": { "flag": "🇫🇷", "city": "Lyon" },
+    "desc": {
+      "jp": "EASA/EHA共催 — 回転翼・AAM統合会議(Eurexpo Lyon)",
+      "en": "EASA/EHA co-hosted rotary & AAM conference (Eurexpo Lyon)"
+    }
+  },
+  {
+    "id": "icao-aam-2026",
+    "name": "ICAO AAM Symposium 2026",
+    "start": "2026-12-01",
+    "end": "2026-12-03",
+    "url": "https://www.icao.int/events/second-advanced-air-mobility-symposium-aam-2026",
+    "loc": { "flag": "🇹🇭", "city": "Bangkok" },
+    "desc": {
+      "jp": "ICAO主催・第2回AAMシンポジウム — 国際規格化の本命会合",
+      "en": "ICAO's 2nd AAM Symposium — key venue for global standardization"
+    }
+  }
+]
