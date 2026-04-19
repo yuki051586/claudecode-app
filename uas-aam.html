@@ -1031,6 +1031,10 @@
     background: var(--jp); box-shadow: 0 0 8px rgba(255,90,106,0.5);
   }
   .brief-impl-list li b { color: var(--jp); }
+  .brief-impl-list li.brief-impl-placeholder {
+    padding-left: 0; color: var(--muted); font-size: 12px; line-height: 1.6; font-style: italic;
+  }
+  .brief-impl-list li.brief-impl-placeholder::before { display: none; }
   .brief-impl-foot {
     margin-top: 14px; padding-top: 14px;
     border-top: 1px dashed rgba(255,90,106,0.2);
@@ -3061,10 +3065,19 @@ function refreshBriefImplicationsAsync() {
 
   impl.innerHTML = '';
   const total = jpItems.length + worldItems.length;
-  if (panel) panel.style.display = total ? '' : 'none';
-  if (!total) return;
+  if (panel) panel.style.display = '';
 
   const isEn = currentLang === 'en';
+  if (!total) {
+    const placeholder = document.createElement('li');
+    placeholder.className = 'brief-impl-placeholder';
+    placeholder.textContent = isEn
+      ? 'AI implications are preparing — they will appear here once the next enrichment pass runs.'
+      : 'AI生成の示唆を準備中です。次回のエンリッチメント実行後に表示されます。';
+    impl.appendChild(placeholder);
+    return;
+  }
+
   const renderImplSection = (badge, label, items) => {
     if (!items.length) return;
     const header = document.createElement('li');
