@@ -3534,10 +3534,19 @@ function renderArchive() {
     (a.source || '').toLowerCase().includes(q) ||
     (a.tags || []).some(t => t.toLowerCase().includes(q))
   );
+  // Sort by the same timestamp the row actually displays (publishedAt with
+  // firstSeenAt as a fallback) so the dropdown labels match what the user
+  // sees, and so day separators stay monotonic instead of repeating.
+  const itemTime = (a) => {
+    const t = a.publishedAt ? Date.parse(a.publishedAt) : NaN;
+    return Number.isFinite(t) ? t : (a.firstSeenAt || 0);
+  };
   items.sort((a, b) => {
-    if (sort === 'date-asc')   return (a.firstSeenAt || 0) - (b.firstSeenAt || 0);
-    if (sort === 'score-desc') return (b.score || 0) - (a.score || 0);
-    return (b.firstSeenAt || 0) - (a.firstSeenAt || 0);
+    if (sort === 'date-asc')   return itemTime(a) - itemTime(b);
+    if (sort === 'score-desc') return (b.score || 0) - (a.score || 0)
+                                   || itemTime(b) - itemTime(a);
+    // default: date-desc (newest first)
+    return itemTime(b) - itemTime(a);
   });
 
   const total = loadArchive().length;
