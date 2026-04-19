@@ -229,40 +229,6 @@
     .flyer { opacity: 0.25; }
   }
 
-  /* ====== Stats Strip ====== */
-  .stats {
-    max-width: 1280px; margin: 24px auto 0;
-    padding: 0 24px;
-    display: grid; grid-template-columns: repeat(4, 1fr); gap: 16px;
-  }
-  .stat {
-    background: linear-gradient(180deg, var(--panel), var(--bg-2));
-    border: 1px solid var(--border-soft); border-radius: 14px;
-    padding: 20px 22px;
-    position: relative; overflow: hidden;
-  }
-  .stat::before {
-    content: ""; position: absolute; top: 0; left: 0; right: 0; height: 2px;
-    background: linear-gradient(90deg, var(--accent), transparent);
-  }
-  .stat-head { display: flex; align-items: center; gap: 10px; }
-  .stat-icon {
-    width: 36px; height: 36px; border-radius: 10px;
-    background: rgba(79,209,255,0.1); border: 1px solid rgba(79,209,255,0.2);
-    display: flex; align-items: center; justify-content: center;
-    color: var(--accent); flex-shrink: 0;
-  }
-  .stat-icon.p2 { background: rgba(177,109,255,0.1); border-color: rgba(177,109,255,0.2); color: var(--accent-3); }
-  .stat-icon.p3 { background: rgba(74,222,128,0.1); border-color: rgba(74,222,128,0.2); color: var(--ok); }
-  .stat-icon.p4 { background: rgba(251,191,36,0.1); border-color: rgba(251,191,36,0.2); color: var(--warn); }
-  .stat-label { font-size: 11px; color: var(--muted); text-transform: uppercase; letter-spacing: 0.08em; }
-  .stat-val { font-size: 26px; font-weight: 700; margin: 6px 0 4px; }
-  .stat-delta { font-size: 12px; color: var(--ok); }
-  .stat-delta.down { color: var(--danger); }
-  .stat-spark { height: 32px; margin-top: 8px; }
-  .stat-spark path { fill: none; stroke: var(--accent); stroke-width: 1.8; }
-  .stat-spark .fill { fill: url(#sparkFill); stroke: none; opacity: 0.3; }
-
   /* ====== Sections ====== */
   section {
     max-width: 1280px; margin: 64px auto 0;
@@ -983,7 +949,7 @@
   }
   .brief-sub-note { color: var(--dim); font-size: 11px; font-weight: 400; letter-spacing: normal; text-transform: none; margin-left: 6px; }
   .brief-actions { display: flex; gap: 8px; }
-  .brief-body { display: grid; grid-template-columns: 1.4fr 1fr; gap: 28px; }
+  .brief-body { display: grid; grid-template-columns: minmax(0, 1.4fr) minmax(280px, 1fr); gap: 24px; }
 
   .brief-summary h3, .brief-impl h3 {
     margin: 0 0 14px; font-size: 13px; letter-spacing: 0.1em;
@@ -1363,7 +1329,6 @@
     .hero-grid { grid-template-columns: 1fr; }
     .hero-visual { max-width: 320px; margin: 0 auto; }
     h1.hero-title { font-size: 32px; }
-    .stats { grid-template-columns: repeat(2, 1fr); }
     .news-grid { grid-template-columns: 1fr; }
     .two-col { grid-template-columns: 1fr; }
     .company-grid { grid-template-columns: repeat(2, 1fr); }
@@ -1373,7 +1338,7 @@
     .charts-row { grid-template-columns: 1fr; }
     .compare { grid-template-columns: 1fr; }
     .compare-vs { padding: 4px; }
-    .brief-body { grid-template-columns: 1fr; }
+    .brief-body { grid-template-columns: minmax(0, 1fr) minmax(260px, 0.85fr); gap: 20px; }
     .brief { padding: 22px; }
 
     /* Nav as dropdown from the sticky header */
@@ -1426,14 +1391,6 @@
     .sec-head h2 { font-size: 20px; }
     .sec-head p { font-size: 13px; }
 
-    /* Stats — 2 cols */
-    .stats { padding: 0 16px; grid-template-columns: repeat(2, 1fr); gap: 12px; }
-    .stat { padding: 16px 14px; }
-    .stat-val { font-size: 22px; }
-    .stat-label { font-size: 11px; }
-    .stat-delta { font-size: 12px; }
-    .stat-icon { width: 32px; height: 32px; }
-
     /* Filter tabs — horizontally scrollable on mobile */
     .filter-tabs {
       max-width: 100%;
@@ -1465,7 +1422,7 @@
     .brief-head { flex-direction: column; align-items: flex-start; gap: 10px; }
     .brief-title { gap: 10px; flex-wrap: wrap; }
     .brief-title h2 { font-size: 18px; }
-    .brief-body { gap: 20px; }
+    .brief-body { grid-template-columns: 1fr; gap: 20px; }
     .brief-item { padding: 12px; gap: 10px; }
     .brief-item h4 { font-size: 15px; line-height: 1.45; }
     .brief-impl-box { padding: 16px 14px; }
@@ -1976,96 +1933,6 @@
         </div>
       </div>
     </div>
-  </div>
-</div>
-
-<!-- ====== Stats ====== -->
-<svg width="0" height="0" style="position:absolute">
-  <defs>
-    <linearGradient id="sparkFill" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#4fd1ff" stop-opacity="0.4"/>
-      <stop offset="100%" stop-color="#4fd1ff" stop-opacity="0"/>
-    </linearGradient>
-    <linearGradient id="sparkFill2" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#b16dff" stop-opacity="0.4"/>
-      <stop offset="100%" stop-color="#b16dff" stop-opacity="0"/>
-    </linearGradient>
-  </defs>
-</svg>
-<div class="stats">
-  <div class="stat">
-    <div class="stat-head">
-      <div class="stat-icon">
-        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-          <path d="M3 21h18M5 21V10l7-5 7 5v11M9 21v-6h6v6"/>
-        </svg>
-      </div>
-      <div>
-        <div class="stat-label" data-jp="追跡事業者" data-en="Tracked Operators">追跡事業者</div>
-        <div class="stat-val">1,284</div>
-      </div>
-    </div>
-    <div class="stat-delta" data-jp="▲ 68 (今月) · 46カ国" data-en="▲ 68 (this month) · 46 countries">▲ 68 (今月) · 46カ国</div>
-    <svg class="stat-spark" viewBox="0 0 100 32" preserveAspectRatio="none">
-      <path class="fill" d="M0,22 L10,20 L20,18 L30,16 L40,14 L50,13 L60,10 L70,8 L80,6 L90,5 L100,4 L100,32 L0,32 Z"/>
-      <path d="M0,22 L10,20 L20,18 L30,16 L40,14 L50,13 L60,10 L70,8 L80,6 L90,5 L100,4"/>
-    </svg>
-  </div>
-  <div class="stat">
-    <div class="stat-head">
-      <div class="stat-icon p2">
-        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-          <circle cx="12" cy="12" r="9"/>
-          <path d="M3 12h18M12 3c2.5 3 2.5 15 0 18M12 3c-2.5 3-2.5 15 0 18"/>
-        </svg>
-      </div>
-      <div>
-        <div class="stat-label" data-jp="グローバル実証" data-en="Global Trials">グローバル実証</div>
-        <div class="stat-val">3,712</div>
-      </div>
-    </div>
-    <div class="stat-delta" data-jp="▲ 142 (今月) · 過去12ヶ月" data-en="▲ 142 (this month) · past 12 months">▲ 142 (今月) · 過去12ヶ月</div>
-    <svg class="stat-spark" viewBox="0 0 100 32" preserveAspectRatio="none">
-      <path class="fill" style="fill:url(#sparkFill2)" d="M0,25 L10,24 L20,20 L30,22 L40,18 L50,16 L60,12 L70,10 L80,7 L90,6 L100,3 L100,32 L0,32 Z"/>
-      <path style="stroke:#b16dff" d="M0,25 L10,24 L20,20 L30,22 L40,18 L50,16 L60,12 L70,10 L80,7 L90,6 L100,3"/>
-    </svg>
-  </div>
-  <div class="stat">
-    <div class="stat-head">
-      <div class="stat-icon p3">
-        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-          <path d="M12 2v20M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"/>
-        </svg>
-      </div>
-      <div>
-        <div class="stat-label" data-jp="累計資金調達" data-en="Total Funding">累計資金調達</div>
-        <div class="stat-val">$24.8B</div>
-      </div>
-    </div>
-    <div class="stat-delta" data-jp="▲ $1.2B (Q1) · 287件" data-en="▲ $1.2B (Q1) · 287 deals">▲ $1.2B (Q1) · 287件</div>
-    <svg class="stat-spark" viewBox="0 0 100 32" preserveAspectRatio="none">
-      <path class="fill" d="M0,28 L10,26 L20,24 L30,18 L40,20 L50,14 L60,10 L70,11 L80,6 L90,4 L100,2 L100,32 L0,32 Z"/>
-      <path style="stroke:#4ade80" d="M0,28 L10,26 L20,24 L30,18 L40,20 L50,14 L60,10 L70,11 L80,6 L90,4 L100,2"/>
-    </svg>
-  </div>
-  <div class="stat">
-    <div class="stat-head">
-      <div class="stat-icon p4">
-        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-          <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/>
-          <path d="M14 2v6h6M9 13h6M9 17h6M9 9h1"/>
-        </svg>
-      </div>
-      <div>
-        <div class="stat-label" data-jp="規制ドキュメント" data-en="Regulation Docs">規制ドキュメント</div>
-        <div class="stat-val">512</div>
-      </div>
-    </div>
-    <div class="stat-delta" data-jp="▲ 18 (今月) · 46カ国/地域" data-en="▲ 18 (this month) · 46 regions">▲ 18 (今月) · 46カ国/地域</div>
-    <svg class="stat-spark" viewBox="0 0 100 32" preserveAspectRatio="none">
-      <path class="fill" d="M0,20 L10,22 L20,18 L30,19 L40,15 L50,16 L60,12 L70,10 L80,8 L90,7 L100,5 L100,32 L0,32 Z"/>
-      <path style="stroke:#fbbf24" d="M0,20 L10,22 L20,18 L30,19 L40,15 L50,16 L60,12 L70,10 L80,8 L90,7 L100,5"/>
-    </svg>
   </div>
 </div>
 
