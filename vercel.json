@@ -2,7 +2,7 @@
   "$schema": "https://openapi.vercel.sh/vercel.json",
   "cleanUrls": true,
   "rewrites": [
-    { "source": "/", "destination": "/uas-aam.html" }
+    { "source": "/", "destination": "/uas-aam" }
   ],
   "functions": {
     "api/news.js": {
