@@ -3125,10 +3125,11 @@ function getImplicationSources(article) {
 // hypothesis in the current language at render time (not at fetch time).
 // Seed items keep their hand-written static `implication` string.
 function implicationTextFor(n) {
-  // LLM-generated text is only Japanese; in EN mode fall through to the
-  // template so language switching stays clean.
-  // LLM output is untrusted plain text → escape before it hits innerHTML.
-  if (n?._llmImpl && currentLang === 'jp') return escHtml(n._llmImpl);
+  // LLM-generated text is Japanese-only by design (the panel is titled
+  // "Implications for Japan"). In EN mode we still surface the JP text
+  // so the panel isn't empty — the audience is bilingual JP-market
+  // analysts. LLM output is untrusted plain text → escape it.
+  if (n?._llmImpl) return escHtml(n._llmImpl);
   if (n && n._impl) {
     return implicationFor(
       { title: n._impl.title, _feedName: n._impl.feedName },
@@ -3143,7 +3144,7 @@ function implicationTextFor(n) {
 // generic template fallback that fires when a live item has no LLM data —
 // the user prefers an empty panel over rows of identical boilerplate.
 function briefImplSourceFor(n) {
-  if (n?._llmImpl && currentLang === 'jp') return 'ai';
+  if (n?._llmImpl) return 'ai';
   const hasTs = !!(n?._publishedAt || n?.publishedAt);
   if (hasTs) return 'tpl';
   return n?.implication ? 'seed' : null;
