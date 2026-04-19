@@ -3137,7 +3137,7 @@ function refreshBriefImplicationsAsync() {
   const panel = document.querySelector('.brief-impl');
   if (!impl) return;
 
-  const items = pickForCurrentWindow().slice(0, 5)
+  const items = pickForCurrentWindow().slice(0, 10)
     .map(n => ({ n, source: briefImplSourceFor(n) }))
     .filter(x => x.source && x.source !== 'tpl')
     .slice(0, 4);
@@ -4125,7 +4125,7 @@ async function translateToJa(text) {
 // translated. No-op if lang != JP or everything is already Japanese.
 async function translateVisibleIfJp() {
   if (currentLang !== 'jp') return;
-  const items = pickForCurrentWindow().slice(0, 9);
+  const items = pickForCurrentWindow().slice(0, 10);
   const pending = items.filter(n => n.title && !JP_CHAR_RE.test(n.title) && !n.titleJa);
   if (!pending.length) return;
   let changed = false;
@@ -4159,8 +4159,8 @@ function renderBrief(items) {
   list.innerHTML = '';
   impl.innerHTML = '';
 
-  const topFive = items.slice(0, 5);
-  topFive.forEach((n, i) => {
+  const topItems = items.slice(0, 10);
+  topItems.forEach((n, i) => {
     const tagsHtml = n.tags.map(t => `<span class="tag ${tagClass(t)}">${escHtml(t)}</span>`).join('');
     const age = formatRelativeAge(n);
     const a = document.createElement('a');
@@ -4275,6 +4275,8 @@ function renderNews(items) {
 //      live items (older than FRESH_DAYS) into the Brief.
 //   3. NEWS_POOL entries have no publishedAt and are treated as reference
 //      context, not breaking news — they only appear when live feed is thin.
+const BRIEF_TOPIC_LIMIT = 10;
+
 function pickForCurrentWindow() {
   const fresh = (Array.isArray(liveArticles) ? liveArticles : [])
     .filter(a => {
@@ -4282,15 +4284,14 @@ function pickForCurrentWindow() {
       return age != null && age <= FRESH_MS;
     });
 
-  // In JP mode, surface Japanese-region articles to the top of the Brief so
-  // the "今週の主要トピック" section reads in Japanese. World-region items
-  // still appear afterwards so global signal isn't lost.
-  const ordered = currentLang === 'jp'
-    ? fresh.slice().sort((a, b) => (b.region === 'jp' ? 1 : 0) - (a.region === 'jp' ? 1 : 0))
-    : fresh;
+  // Use the shared score-based ordering for both languages so the top
+  // stories are identical between JP and EN modes. (Previously JP mode
+  // re-sorted JP-region articles to the top, which made the two language
+  // views diverge.)
+  const ordered = fresh;
 
   if (ordered.length >= 5) {
-    return ordered.slice(0, 9);
+    return ordered.slice(0, BRIEF_TOPIC_LIMIT);
   }
 
   // Backfill: take whatever fresh live items we have, then pad with seeds
@@ -4298,7 +4299,7 @@ function pickForCurrentWindow() {
   const idx = currentWindowIdx();
   const sortedSeeds = NEWS_POOL.slice().sort((a, b) => b.priority - a.priority);
   const rotatedSeeds = seededShuffle(sortedSeeds, idx);
-  const needed = Math.max(0, 9 - ordered.length);
+  const needed = Math.max(0, BRIEF_TOPIC_LIMIT - ordered.length);
   return [...ordered, ...rotatedSeeds.slice(0, needed)];
 }
 
