@@ -32,12 +32,12 @@ const FEEDS = [
   },
   {
     name: 'ASTM',
-    url: 'https://www.astm.org/rss/recent_standards.xml',
+    url: 'https://news.google.com/rss/search?q=(site:astm.org+OR+ASTM)+(F3411+OR+F38+OR+UAS+OR+drone+OR+BVLOS)+when:30d&hl=en&gl=US&ceid=US:en',
     region: 'world',
   },
   {
     name: 'ISO TC20/SC16',
-    url: 'https://www.iso.org/rss/tc/tc_21395.xml',
+    url: 'https://news.google.com/rss/search?q=(site:iso.org+OR+%22ISO+21895%22+OR+%22ISO+23629%22)+(UAS+OR+UAV+OR+drone+OR+unmanned)+when:30d&hl=en&gl=US&ceid=US:en',
     region: 'world',
   },
   {
