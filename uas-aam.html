@@ -3544,6 +3544,72 @@ function tagClass(t) {
   return 'biz';
 }
 
+// ------- Translation (EN → JA for JP mode) ----------------------------
+// Uses MyMemory public translation API (CORS-enabled, no key).
+// Results cached in localStorage so repeat visits don't re-translate.
+const TRANSLATE_CACHE_KEY = 'uas_aam_translate_ja_v1';
+const JP_CHAR_RE = /[\u3040-\u309F\u30A0-\u30FF\u4E00-\u9FAF]/;
+
+function loadTranslateCache() {
+  try { return JSON.parse(localStorage.getItem(TRANSLATE_CACHE_KEY) || '{}'); }
+  catch { return {}; }
+}
+function saveTranslateCache(cache) {
+  try { localStorage.setItem(TRANSLATE_CACHE_KEY, JSON.stringify(cache)); } catch {}
+}
+
+async function translateToJa(text) {
+  if (!text || typeof text !== 'string') return '';
+  if (JP_CHAR_RE.test(text)) return text;  // already Japanese
+  const cache = loadTranslateCache();
+  if (cache[text]) return cache[text];
+  try {
+    const url = `https://api.mymemory.translated.net/get?q=${encodeURIComponent(text.slice(0, 500))}&langpair=en|ja`;
+    const res = await fetch(url);
+    if (!res.ok) return text;
+    const data = await res.json();
+    const translated = data?.responseData?.translatedText;
+    if (!translated || translated === text || !JP_CHAR_RE.test(translated)) return text;
+    cache[text] = translated;
+    saveTranslateCache(cache);
+    return translated;
+  } catch {
+    return text;
+  }
+}
+
+// Translate the titles of articles that are about to be shown so JP mode
+// doesn't leak English headlines. Re-renders when at least one title was
+// translated. No-op if lang != JP or everything is already Japanese.
+async function translateVisibleIfJp() {
+  if (currentLang !== 'jp') return;
+  const items = pickForCurrentWindow().slice(0, 9);
+  const pending = items.filter(n => n.title && !JP_CHAR_RE.test(n.title) && !n.titleJa);
+  if (!pending.length) return;
+  let changed = false;
+  await Promise.all(pending.map(async (n) => {
+    const ja = await translateToJa(n.title);
+    if (ja && ja !== n.title && JP_CHAR_RE.test(ja)) {
+      n.titleJa = ja;
+      changed = true;
+    }
+  }));
+  if (changed) {
+    const picked = pickForCurrentWindow();
+    renderBrief(picked);
+    renderNews(picked);
+    renderTicker(picked);
+    const activeBtn = document.querySelector('#newsFilter button.on');
+    if (activeBtn && typeof applyNewsFilter === 'function') {
+      applyNewsFilter(activeBtn.dataset.filter || 'all');
+    }
+  }
+}
+
+function displayTitle(n) {
+  return (currentLang === 'jp' && n && n.titleJa) ? n.titleJa : (n && n.title) || '';
+}
+
 // ------- Render Brief --------------------------------------------------
 function renderBrief(items) {
   const list = document.getElementById('briefList');
@@ -3563,7 +3629,7 @@ function renderBrief(items) {
     a.innerHTML = `
       <div class="brief-num">${String(i + 1).padStart(2, '0')}</div>
       <div>
-        <h4>${n.title}</h4>
+        <h4>${displayTitle(n)}</h4>
         <div class="brief-meta">
           ${tagsHtml}${n.regionLabel} · ${n.source} · ${age}
         </div>
@@ -3586,6 +3652,12 @@ function renderBrief(items) {
   if (typeof refreshBriefImplicationsAsync === 'function') {
     refreshBriefImplicationsAsync();
   }
+  // Kick off English→Japanese translation for any remaining titles.
+  // Cached in localStorage so repeat visits don't re-translate; safe to
+  // call on every render because the guard returns fast when up-to-date.
+  if (typeof translateVisibleIfJp === 'function') {
+    translateVisibleIfJp();
+  }
 }
 
 // ------- Render Ticker ------------------------------------------------
@@ -3596,7 +3668,8 @@ function renderTicker(items) {
   const heads = items.slice(0, 7).map(n => {
     const emoji = n.regionLabel.split(' ')[0];
     const label = n.regionLabel.split(' ')[1] || n.region.toUpperCase();
-    const title = n.title.length > 48 ? n.title.slice(0, 46) + '…' : n.title;
+    const raw = displayTitle(n);
+    const title = raw.length > 48 ? raw.slice(0, 46) + '…' : raw;
     return `<a class="ticker-item" href="${n.url}" target="_blank" rel="noopener">${emoji} <b>${label}</b> ${title}</a>`;
   });
   // duplicate for seamless loop
@@ -3637,7 +3710,7 @@ function renderNews(items) {
         ${tagsHtml}
         <span class="region">${n.regionLabel}</span>
       </div>
-      <h3>${n.title}</h3>
+      <h3>${displayTitle(n)}</h3>
       <p>${n.desc}</p>
       <div class="card-foot"><span>Source: ${n.source}</span><span>${age}</span></div>
     `;
