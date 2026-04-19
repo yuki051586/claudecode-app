@@ -3180,8 +3180,9 @@ function mapToNewsItem(article, i) {
   const catInfo = inferCategory(s.categories, article.title);
   const scoreTags = s.categories.map(c => CAT_TO_TAG[c] || c).filter(Boolean);
   const tags = [...new Set([...catInfo.tagBase, ...scoreTags])].slice(0, 3);
-  const desc = (article.description && article.description.length > 20)
-    ? (article.description.length > 180 ? article.description.slice(0, 178) + '…' : article.description)
+  const rawDesc = stripHtml(article.description || '');
+  const desc = (rawDesc.length > 20)
+    ? (rawDesc.length > 180 ? rawDesc.slice(0, 178) + '…' : rawDesc)
     : `${article.source} より。`;
   const trustMult = s.breakdown?.sourceTrust?.multiplier ?? null;
   const trustDomain = s.breakdown?.sourceTrust?.domain ?? safeDomain(article.url);
