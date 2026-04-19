@@ -4363,11 +4363,16 @@ function findRelatedForMarker(marker, limit = 3) {
     if (!key || seen.has(key)) continue;
     seen.add(key);
     const hay = `${n.title || ''} ${n.desc || ''} ${n.source || ''}`.toLowerCase();
-    let hits = 0;
-    for (const k of kws) if (k && hay.includes(k)) hits += 2;
-    if (region === 'jp' && n.region === 'jp') hits += 3;
+    // Require at least one keyword hit so a Shanghai marker never picks up
+    // an FAA story just because both happen to be region:'world'. Region
+    // alignment is only used as a tie-breaker on top of keyword evidence.
+    let kwHits = 0;
+    for (const k of kws) if (k && hay.includes(k)) kwHits++;
+    if (kwHits === 0) continue;
+    let hits = kwHits * 2;
+    if (region === 'jp'    && n.region === 'jp')    hits += 3;
     if (region === 'world' && n.region === 'world') hits += 1;
-    if (hits > 0) scored.push({ n, hits });
+    scored.push({ n, hits });
   }
   scored.sort((a, b) => b.hits - a.hits || (b.n._score || 0) - (a.n._score || 0));
   return scored.slice(0, limit).map(s => s.n);
