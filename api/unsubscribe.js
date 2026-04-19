@@ -74,15 +74,18 @@ export default async function handler(req, res) {
     return res.status(400).json({ error: 'メールアドレスの形式が正しくありません' });
   }
 
-  const apiKey = process.env.RESEND_API_KEY;
-  const audienceId = process.env.RESEND_AUDIENCE_ID;
-  if (!apiKey || !audienceId) {
-    console.error('[unsubscribe] missing RESEND_API_KEY or RESEND_AUDIENCE_ID');
+  const apiKey = (process.env.RESEND_API_KEY || '').trim();
+  const audienceId = (process.env.RESEND_AUDIENCE_ID || '').trim();
+  const missing = [];
+  if (!apiKey) missing.push('RESEND_API_KEY');
+  if (!audienceId) missing.push('RESEND_AUDIENCE_ID');
+  if (missing.length) {
+    console.error('[unsubscribe] missing env vars:', missing.join(', '));
     if (req.method === 'GET') {
       res.setHeader('Content-Type', 'text/html; charset=utf-8');
-      return res.status(500).send(plainHtml('サーバー設定エラー', 'しばらく経ってから再度お試しください。'));
+      return res.status(500).send(plainHtml('サーバー設定エラー', `不足: ${escapeHtml(missing.join(', '))}<br>Vercel の Environment Variables を確認してください。`));
     }
-    return res.status(500).json({ error: 'サーバー設定エラー' });
+    return res.status(500).json({ error: 'サーバー設定エラー', missing });
   }
 
   let result;

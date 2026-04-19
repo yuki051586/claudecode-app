@@ -27,13 +27,66 @@ function readJsonBody(req) {
   return null;
 }
 
+function envDiagnostics() {
+  const apiKeyRaw = process.env.RESEND_API_KEY;
+  const audienceIdRaw = process.env.RESEND_AUDIENCE_ID;
+  const fromRaw = process.env.RESEND_FROM;
+  const apiKey = (apiKeyRaw || '').trim();
+  const audienceId = (audienceIdRaw || '').trim();
+  const fromAddr = (fromRaw || '').trim() || 'SkyNexus <onboarding@resend.dev>';
+
+  const missing = [];
+  if (!apiKey) missing.push('RESEND_API_KEY');
+  if (!audienceId) missing.push('RESEND_AUDIENCE_ID');
+
+  const warnings = [];
+  if (apiKeyRaw && apiKeyRaw !== apiKey) warnings.push('RESEND_API_KEY has surrounding whitespace');
+  if (audienceIdRaw && audienceIdRaw !== audienceId) warnings.push('RESEND_AUDIENCE_ID has surrounding whitespace');
+  if (apiKey && !apiKey.startsWith('re_')) warnings.push('RESEND_API_KEY does not start with "re_" — verify it is a real Resend key');
+  if (audienceId && !/^[0-9a-f-]{36}$/i.test(audienceId)) warnings.push('RESEND_AUDIENCE_ID is not a UUID format');
+  if (fromRaw && !/<[^>]+@[^>]+>/.test(fromRaw) && !/^[^\s@]+@[^\s@]+$/.test(fromRaw)) warnings.push('RESEND_FROM is not in "Name <email@domain>" or "email@domain" form');
+
+  return {
+    apiKey, audienceId, fromAddr,
+    missing,
+    warnings,
+    presence: {
+      RESEND_API_KEY: !!apiKeyRaw,
+      RESEND_AUDIENCE_ID: !!audienceIdRaw,
+      RESEND_FROM: !!fromRaw,
+    },
+    fromIsResendDev: /onboarding@resend\.dev/i.test(fromAddr),
+    nodeEnv: process.env.VERCEL_ENV || process.env.NODE_ENV || 'unknown',
+    region: process.env.VERCEL_REGION || null,
+  };
+}
+
 export default async function handler(req, res) {
   // CORS for same-origin fetch (harmless for /api on same vercel app)
   res.setHeader('Access-Control-Allow-Origin', '*');
-  res.setHeader('Access-Control-Allow-Methods', 'POST, OPTIONS');
+  res.setHeader('Access-Control-Allow-Methods', 'POST, GET, OPTIONS');
   res.setHeader('Access-Control-Allow-Headers', 'Content-Type');
 
   if (req.method === 'OPTIONS') return res.status(204).end();
+
+  // Diagnostic endpoint: GET /api/subscribe?diag=1
+  // Returns booleans only — does NOT leak the secret values.
+  if (req.method === 'GET') {
+    const diag = envDiagnostics();
+    return res.status(200).json({
+      ok: diag.missing.length === 0,
+      env: diag.presence,
+      missing: diag.missing,
+      warnings: diag.warnings,
+      fromIsResendDev: diag.fromIsResendDev,
+      vercelEnv: diag.nodeEnv,
+      region: diag.region,
+      hint: diag.missing.length > 0
+        ? 'Vercel → Settings → Environment Variables で対象キーを確認し、Production にチェックを入れて Redeploy してください。'
+        : 'env vars are loaded — POST {email} to subscribe.',
+    });
+  }
+
   if (req.method !== 'POST') {
     return res.status(405).json({ error: 'Method not allowed' });
   }
@@ -50,13 +103,20 @@ export default async function handler(req, res) {
     return res.status(400).json({ error: 'メールアドレスの形式が正しくありません' });
   }
 
-  const apiKey = process.env.RESEND_API_KEY;
-  const audienceId = process.env.RESEND_AUDIENCE_ID;
-  const fromAddr = process.env.RESEND_FROM || 'SkyNexus <onboarding@resend.dev>';
+  const diag = envDiagnostics();
+  const { apiKey, audienceId, fromAddr } = diag;
 
-  if (!apiKey || !audienceId) {
-    console.error('[subscribe] missing RESEND_API_KEY or RESEND_AUDIENCE_ID');
-    return res.status(500).json({ error: 'サーバー設定エラー' });
+  if (diag.missing.length > 0) {
+    console.error('[subscribe] missing env vars:', diag.missing.join(', '));
+    if (diag.warnings.length) console.error('[subscribe] warnings:', diag.warnings.join(' | '));
+    return res.status(500).json({
+      error: 'サーバー設定エラー',
+      missing: diag.missing,
+      hint: 'GET /api/subscribe で詳細を確認できます',
+    });
+  }
+  if (diag.warnings.length) {
+    console.warn('[subscribe] env warnings:', diag.warnings.join(' | '));
   }
 
   // ── 1. Add to audience ──────────────────────────────────
