@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-22T19:58:13.533Z",
-  "rawCount": 735,
+  "generatedAt": "2026-04-22T22:36:12.642Z",
+  "rawCount": 728,
   "articles": [
     {
       "title": "FAA Confirms Temporary Airspace Closure Over El Paso, Texas Due to Deployment of Advanced Laser Technology, as U.S. and Mexico Strengthen Joint Counter-Drone Defense Systems to Safeguard National Airspace from Rising UAV Threats",
@@ -43,6 +43,47 @@
             "multiplier": 0.8
           },
           "freshness": 0,
+          "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "DeSantis launches state funding for vertiports, with eyes on the future of flying cabs",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNcnFHQ3NnbVFWV0NfOWJTS3VtblpjYWNiYU5WYW9ZOHZTdFgwTUFNaFVaVVg0VDg5eHF2bEdHTTV0YmVsdXFMbzJFdTd6NHUzaXdIWVdkaWxuMzd0XzNsdENkcmU0WnNRaUJmVlRZM2cxNGMzVnNvandxTlh4WkVabDhWWUNQc2FYQjZ1aUZNdkJVRjc4clV3ZQ?oc=5\" target=\"_blank\">DeSantis launches state funding for vertiports, with eyes on the future of flying cabs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WUSF</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNcnFHQ3NnbVFWV0NfOWJTS3VtblpjYWNiYU5WYW9ZOHZTdFgwTUFNaFVaVVg0VDg5eHF2bEdHTTV0YmVsdXFMbzJFdTd6NHUzaXdIWVdkaWxuMzd0XzNsdENkcmU0WnNRaUJmVlRZM2cxNGMzVnNvandxTlh4WkVabDhWWUNQc2FYQjZ1aUZNdkJVRjc4clV3ZQ?oc=5\" target=\"_blank\">DeSantis launches state funding for vertiports, with eyes on the future of flying cabs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WUSF</font>",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcnFHQ3NnbVFWV0NfOWJTS3VtblpjYWNiYU5WYW9ZOHZTdFgwTUFNaFVaVVg0VDg5eHF2bEdHTTV0YmVsdXFMbzJFdTd6NHUzaXdIWVdkaWxuMzd0XzNsdENkcmU0WnNRaUJmVlRZM2cxNGMzVnNvandxTlh4WkVabDhWWUNQc2FYQjZ1aUZNdkJVRjc4clV3ZQ?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcnFHQ3NnbVFWV0NfOWJTS3VtblpjYWNiYU5WYW9ZOHZTdFgwTUFNaFVaVVg0VDg5eHF2bEdHTTV0YmVsdXFMbzJFdTd6NHUzaXdIWVdkaWxuMzd0XzNsdENkcmU0WnNRaUJmVlRZM2cxNGMzVnNvandxTlh4WkVabDhWWUNQc2FYQjZ1aUZNdkJVRjc4clV3ZQ?oc=5",
+      "publishedAt": "2026-04-22T09:00:00.000Z",
+      "source": "WUSF",
+      "_feedRegion": "global",
+      "_feedName": "Google News (Global)",
+      "_scoring": {
+        "score": 78,
+        "categories": [
+          "技術・製品",
+          "市場・資金",
+          "政策・インフラ"
+        ],
+        "breakdown": {
+          "required": true,
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "market": {
+            "matches": 2,
+            "catScore": 25
+          },
+          "policy": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 10,
           "titleBonus": 10
         },
         "pass": true
@@ -130,7 +171,9 @@
           "titleBonus": 10
         },
         "pass": true
-      }
+      },
+      "implication": "FAA出身の公安ドローン訓練官がDRONERESPONDERS UNITEに参画する動きは、米国の公安UAS運用基準が急速に体系化される信号であり、JCAB傘下の公安機関向けドローン認証制度や運用ガイドラインの早期整備圧力となる可能性があ…",
+      "implicationVerified": true
     },
     {
       "title": "FAA launches DETER programme to speed up enforcement of drone rules",
@@ -217,42 +260,6 @@
       },
       "implication": "米国防総省とFAAがレーザー対ドローンシステムの安全性評価を完了した動きは、JCABが航空法レベル4運用時の周辺空域安全基準を策定する際に、対ドローン技術の干渉リスク評価を求める波及を招く可能性がある。",
       "implicationVerified": true
-    },
-    {
-      "title": "FAA launches quick-settlement path for drone rule breakers",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE1HX3hCTlZIX3RKa1ZUUkFPam05dXA3Q2lMalpJZC16SlZYelY0TFhVY3JXbWVRTVlrMmpIbzN2aV9NX3pBeXB1cTU5ZjVLR0dic2VyMThUMW4ycmgxZlhzYW5OcUcxSFFRUGc?oc=5\" target=\"_blank\">FAA launches quick-settlement path for drone rule breakers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DroneDJ</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE1HX3hCTlZIX3RKa1ZUUkFPam05dXA3Q2lMalpJZC16SlZYelY0TFhVY3JXbWVRTVlrMmpIbzN2aV9NX3pBeXB1cTU5ZjVLR0dic2VyMThUMW4ycmgxZlhzYW5OcUcxSFFRUGc?oc=5\" target=\"_blank\">FAA launches quick-settlement path for drone rule breakers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DroneDJ</font>",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1HX3hCTlZIX3RKa1ZUUkFPam05dXA3Q2lMalpJZC16SlZYelY0TFhVY3JXbWVRTVlrMmpIbzN2aV9NX3pBeXB1cTU5ZjVLR0dic2VyMThUMW4ycmgxZlhzYW5OcUcxSFFRUGc?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1HX3hCTlZIX3RKa1ZUUkFPam05dXA3Q2lMalpJZC16SlZYelY0TFhVY3JXbWVRTVlrMmpIbzN2aV9NX3pBeXB1cTU5ZjVLR0dic2VyMThUMW4ycmgxZlhzYW5OcUcxSFFRUGc?oc=5",
-      "publishedAt": "2026-04-22T09:27:00.000Z",
-      "source": "DroneDJ",
-      "_feedRegion": "us",
-      "_feedName": "FAA",
-      "_scoring": {
-        "score": 76,
-        "categories": [
-          "規制・政策",
-          "技術・製品"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 2,
-            "catScore": 40
-          },
-          "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 15,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
     },
     {
       "title": "FAA confirms safety of anti-drone lasers following Texas airspace closures",
@@ -373,12 +380,12 @@
     },
     {
       "title": "FAA Approves Anti-Drone Laser for Southern Border Despite February Incident Where Party Balloon Was Mistaken for Cartel Craft",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQYWt6Vlk5X2xrTUlXOThjek1SVTFocTZ0ck1HdVMzTzRoYk5QRWNZbkJ6aGFlcUFLdFpxWTMwYl96M1lLbFdSNzJlS1VwVTFTdklLYTVNNlFlNlJvcEJMREhVS0FKMjNvMGJVSEJ0aHppNXJhM2F4ajRUMDFWSk9SRmRZX05adENCR2pQZGVDXy1RLWdoNHdNWHB4dENCUWlnb0FsdkVTemtmdlVaQ0w1MklGMjJiclo1Q0s4QVdOc0lZM0JGOVE4OA?oc=5\" target=\"_blank\">FAA Approves Anti-Drone Laser for Southern Border Despite February Incident Where Party Balloon Was Mistaken for Cartel Craft</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Latin Times</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQYWt6Vlk5X2xrTUlXOThjek1SVTFocTZ0ck1HdVMzTzRoYk5QRWNZbkJ6aGFlcUFLdFpxWTMwYl96M1lLbFdSNzJlS1VwVTFTdklLYTVNNlFlNlJvcEJMREhVS0FKMjNvMGJVSEJ0aHppNXJhM2F4ajRUMDFWSk9SRmRZX05adENCR2pQZGVDXy1RLWdoNHdNWHB4dENCUWlnb0FsdkVTemtmdlVaQ0w1MklGMjJiclo1Q0s4QVdOc0lZM0JGOVE4OA?oc=5\" target=\"_blank\">FAA Approves Anti-Drone Laser for Southern Border Despite February Incident Where Party Balloon Was Mistaken for Cartel Craft</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Latin Times</font>",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQYWt6Vlk5X2xrTUlXOThjek1SVTFocTZ0ck1HdVMzTzRoYk5QRWNZbkJ6aGFlcUFLdFpxWTMwYl96M1lLbFdSNzJlS1VwVTFTdklLYTVNNlFlNlJvcEJMREhVS0FKMjNvMGJVSEJ0aHppNXJhM2F4ajRUMDFWSk9SRmRZX05adENCR2pQZGVDXy1RLWdoNHdNWHB4dENCUWlnb0FsdkVTemtmdlVaQ0w1MklGMjJiclo1Q0s4QVdOc0lZM0JGOVE4OA?oc=5\" target=\"_blank\">FAA Approves Anti-Drone Laser for Southern Border Despite February Incident Where Party Balloon Was Mistaken for Cartel Craft</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">latintimes.com</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQYWt6Vlk5X2xrTUlXOThjek1SVTFocTZ0ck1HdVMzTzRoYk5QRWNZbkJ6aGFlcUFLdFpxWTMwYl96M1lLbFdSNzJlS1VwVTFTdklLYTVNNlFlNlJvcEJMREhVS0FKMjNvMGJVSEJ0aHppNXJhM2F4ajRUMDFWSk9SRmRZX05adENCR2pQZGVDXy1RLWdoNHdNWHB4dENCUWlnb0FsdkVTemtmdlVaQ0w1MklGMjJiclo1Q0s4QVdOc0lZM0JGOVE4OA?oc=5\" target=\"_blank\">FAA Approves Anti-Drone Laser for Southern Border Despite February Incident Where Party Balloon Was Mistaken for Cartel Craft</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">latintimes.com</font>",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQYWt6Vlk5X2xrTUlXOThjek1SVTFocTZ0ck1HdVMzTzRoYk5QRWNZbkJ6aGFlcUFLdFpxWTMwYl96M1lLbFdSNzJlS1VwVTFTdklLYTVNNlFlNlJvcEJMREhVS0FKMjNvMGJVSEJ0aHppNXJhM2F4ajRUMDFWSk9SRmRZX05adENCR2pQZGVDXy1RLWdoNHdNWHB4dENCUWlnb0FsdkVTemtmdlVaQ0w1MklGMjJiclo1Q0s4QVdOc0lZM0JGOVE4OA?oc=5",
       "googleNewsUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQYWt6Vlk5X2xrTUlXOThjek1SVTFocTZ0ck1HdVMzTzRoYk5QRWNZbkJ6aGFlcUFLdFpxWTMwYl96M1lLbFdSNzJlS1VwVTFTdklLYTVNNlFlNlJvcEJMREhVS0FKMjNvMGJVSEJ0aHppNXJhM2F4ajRUMDFWSk9SRmRZX05adENCR2pQZGVDXy1RLWdoNHdNWHB4dENCUWlnb0FsdkVTemtmdlVaQ0w1MklGMjJiclo1Q0s4QVdOc0lZM0JGOVE4OA?oc=5",
       "publishedAt": "2026-04-14T17:22:56.000Z",
-      "source": "Latin Times",
+      "source": "latintimes.com",
       "_feedRegion": "us",
       "_feedName": "FAA",
       "_scoring": {
@@ -456,17 +463,17 @@
       }
     },
     {
-      "title": "Florida Gov. DeSantis launches state funding for vertiports for aerial commutes",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUFVJOGViR1YwSjRGSkY5dkNseUlnNWx1MWhrRW92Vld4QXlwVG9qbGZ3VUs3SF9UU2J6dFhpWnJhcFRyUWFUMjZoblhOLVBmRDA5TVRicE5XWWpwR3RsXzYzcmY1elAxQkpHeXZQRGU1UXpRcnhMdkxBbjA3Yk5RcU1SWFNXNWl5TGpQUUZyVTdQOE11UmJDSHdCN0dUSlNUTGJpX01zYWJqWFdLT0tEQTlTMER5SnZfQzFmaGxzdXnSAcgBQVVfeXFMTzEwN2FxMmtGdHBGVDNVZ0RlMUlMbE5CNW9rWWhHQm53OEZQSFZMeWkyQ0FETmNJSW54dVhHLUlLR2FCd3k0akRjOVFlTWVQOTJDU3ZFbzdHUnpwVXJ5a09iSzgyQ2pBRUt3WEZhSnJXZG1IMU5SUFRGdW5tb2l3MVFTU2JOcGtRdFotYkZlOHhjQ2FXdlpITk5seEVvcHl5MHU4NmVIbXVLQmY4ajBqdEVMRWVldmUydUVscEh2bEdVclF3bnVobGY?oc=5\" target=\"_blank\">Florida Gov. DeSantis launches state funding for vertiports for aerial commutes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC 6 South Florida</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUFVJOGViR1YwSjRGSkY5dkNseUlnNWx1MWhrRW92Vld4QXlwVG9qbGZ3VUs3SF9UU2J6dFhpWnJhcFRyUWFUMjZoblhOLVBmRDA5TVRicE5XWWpwR3RsXzYzcmY1elAxQkpHeXZQRGU1UXpRcnhMdkxBbjA3Yk5RcU1SWFNXNWl5TGpQUUZyVTdQOE11UmJDSHdCN0dUSlNUTGJpX01zYWJqWFdLT0tEQTlTMER5SnZfQzFmaGxzdXnSAcgBQVVfeXFMTzEwN2FxMmtGdHBGVDNVZ0RlMUlMbE5CNW9rWWhHQm53OEZQSFZMeWkyQ0FETmNJSW54dVhHLUlLR2FCd3k0akRjOVFlTWVQOTJDU3ZFbzdHUnpwVXJ5a09iSzgyQ2pBRUt3WEZhSnJXZG1IMU5SUFRGdW5tb2l3MVFTU2JOcGtRdFotYkZlOHhjQ2FXdlpITk5seEVvcHl5MHU4NmVIbXVLQmY4ajBqdEVMRWVldmUydUVscEh2bEdVclF3bnVobGY?oc=5\" target=\"_blank\">Florida Gov. DeSantis launches state funding for vertiports for aerial commutes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC 6 South Florida</font>",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUFVJOGViR1YwSjRGSkY5dkNseUlnNWx1MWhrRW92Vld4QXlwVG9qbGZ3VUs3SF9UU2J6dFhpWnJhcFRyUWFUMjZoblhOLVBmRDA5TVRicE5XWWpwR3RsXzYzcmY1elAxQkpHeXZQRGU1UXpRcnhMdkxBbjA3Yk5RcU1SWFNXNWl5TGpQUUZyVTdQOE11UmJDSHdCN0dUSlNUTGJpX01zYWJqWFdLT0tEQTlTMER5SnZfQzFmaGxzdXnSAcgBQVVfeXFMTzEwN2FxMmtGdHBGVDNVZ0RlMUlMbE5CNW9rWWhHQm53OEZQSFZMeWkyQ0FETmNJSW54dVhHLUlLR2FCd3k0akRjOVFlTWVQOTJDU3ZFbzdHUnpwVXJ5a09iSzgyQ2pBRUt3WEZhSnJXZG1IMU5SUFRGdW5tb2l3MVFTU2JOcGtRdFotYkZlOHhjQ2FXdlpITk5seEVvcHl5MHU4NmVIbXVLQmY4ajBqdEVMRWVldmUydUVscEh2bEdVclF3bnVobGY?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUFVJOGViR1YwSjRGSkY5dkNseUlnNWx1MWhrRW92Vld4QXlwVG9qbGZ3VUs3SF9UU2J6dFhpWnJhcFRyUWFUMjZoblhOLVBmRDA5TVRicE5XWWpwR3RsXzYzcmY1elAxQkpHeXZQRGU1UXpRcnhMdkxBbjA3Yk5RcU1SWFNXNWl5TGpQUUZyVTdQOE11UmJDSHdCN0dUSlNUTGJpX01zYWJqWFdLT0tEQTlTMER5SnZfQzFmaGxzdXnSAcgBQVVfeXFMTzEwN2FxMmtGdHBGVDNVZ0RlMUlMbE5CNW9rWWhHQm53OEZQSFZMeWkyQ0FETmNJSW54dVhHLUlLR2FCd3k0akRjOVFlTWVQOTJDU3ZFbzdHUnpwVXJ5a09iSzgyQ2pBRUt3WEZhSnJXZG1IMU5SUFRGdW5tb2l3MVFTU2JOcGtRdFotYkZlOHhjQ2FXdlpITk5seEVvcHl5MHU4NmVIbXVLQmY4ajBqdEVMRWVldmUydUVscEh2bEdVclF3bnVobGY?oc=5",
-      "publishedAt": "2026-04-21T14:13:14.000Z",
-      "source": "NBC 6 South Florida",
+      "title": "New Counter-UAS Marketplace Accelerates Defense Purchases With $13M in Initial Orders",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxPaXVNS2R6d3RsT2hrY0NUQ2oxWnB1YkpwNkRmcmJzY212MWFpbmZpMmFsWlZ2M2JtQXZPOGVVck9GcHpCakYyZDB3RTVUTmhHaW1jOEliSTl3UUg3NmVkQWVOOHNWNTZ6cURnYVo3aXZaemw5UEthSXpKOC0wNWQ5V1YtZHJNd2FYTjd6aHFjVU04Ync3NlhCVHRLX0p3MjFpLTRsWU5lMURsOW90d3lNS0VzMmEzMGF3TGdCOG1JMFVpS1RLeFBoSGM4WXM0QTlfeDFyS05sRXkwWDNHQlk3Mg?oc=5\" target=\"_blank\">New Counter-UAS Marketplace Accelerates Defense Purchases With $13M in Initial Orders</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Homeland Security Today</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxPaXVNS2R6d3RsT2hrY0NUQ2oxWnB1YkpwNkRmcmJzY212MWFpbmZpMmFsWlZ2M2JtQXZPOGVVck9GcHpCakYyZDB3RTVUTmhHaW1jOEliSTl3UUg3NmVkQWVOOHNWNTZ6cURnYVo3aXZaemw5UEthSXpKOC0wNWQ5V1YtZHJNd2FYTjd6aHFjVU04Ync3NlhCVHRLX0p3MjFpLTRsWU5lMURsOW90d3lNS0VzMmEzMGF3TGdCOG1JMFVpS1RLeFBoSGM4WXM0QTlfeDFyS05sRXkwWDNHQlk3Mg?oc=5\" target=\"_blank\">New Counter-UAS Marketplace Accelerates Defense Purchases With $13M in Initial Orders</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Homeland Security Today</font>",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPaXVNS2R6d3RsT2hrY0NUQ2oxWnB1YkpwNkRmcmJzY212MWFpbmZpMmFsWlZ2M2JtQXZPOGVVck9GcHpCakYyZDB3RTVUTmhHaW1jOEliSTl3UUg3NmVkQWVOOHNWNTZ6cURnYVo3aXZaemw5UEthSXpKOC0wNWQ5V1YtZHJNd2FYTjd6aHFjVU04Ync3NlhCVHRLX0p3MjFpLTRsWU5lMURsOW90d3lNS0VzMmEzMGF3TGdCOG1JMFVpS1RLeFBoSGM4WXM0QTlfeDFyS05sRXkwWDNHQlk3Mg?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPaXVNS2R6d3RsT2hrY0NUQ2oxWnB1YkpwNkRmcmJzY212MWFpbmZpMmFsWlZ2M2JtQXZPOGVVck9GcHpCakYyZDB3RTVUTmhHaW1jOEliSTl3UUg3NmVkQWVOOHNWNTZ6cURnYVo3aXZaemw5UEthSXpKOC0wNWQ5V1YtZHJNd2FYTjd6aHFjVU04Ync3NlhCVHRLX0p3MjFpLTRsWU5lMURsOW90d3lNS0VzMmEzMGF3TGdCOG1JMFVpS1RLeFBoSGM4WXM0QTlfeDFyS05sRXkwWDNHQlk3Mg?oc=5",
+      "publishedAt": "2026-04-22T10:01:27.000Z",
+      "source": "Homeland Security Today",
       "_feedRegion": "global",
       "_feedName": "Google News (Global)",
       "_scoring": {
-        "score": 73,
+        "score": 74,
         "categories": [
           "技術・製品",
           "市場・資金",
@@ -479,8 +486,8 @@
             "catScore": 24
           },
           "market": {
-            "matches": 2,
-            "catScore": 25
+            "matches": 1,
+            "catScore": 20
           },
           "policy": {
             "matches": 1,
@@ -490,7 +497,7 @@
             "domain": "news.google.com",
             "multiplier": 0.8
           },
-          "freshness": 5,
+          "freshness": 10,
           "titleBonus": 10
         },
         "pass": true
@@ -655,41 +662,36 @@
       }
     },
     {
-      "title": "FAA says proper use of anti-drone lasers that prompted Texas airspace closures is safe for flights",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMijwJBVV95cUxPby1yRkM0N2EtOFFSeDJCc05fVTNHNm9yQld6SWxMVE5VUkktaFFBVGV2TlR1dEozSlI0S3JJVW1ZQkdPSFp5M2VIOS15dWg2WWk5eHhjVmF5TnBmVlRubzVQZWhIZDczV2MwN1h4TGd5OXJNRlhXU2JDcmU1MGxBR3ZmTFhDOUZxNVFQYkhVTHQ2MVpBbnRfVlROWUwyOEx2UkJ4dExqeVZnVEpFeHpyX2ZaQjJtbmpQTnB0S204RHhnQUI1dEYwVmFDd21hUS1IdWRtTUg3UGdIUV80MTRoNUFsZUtMWHduRDN0cUdFVlRpRWVsc3plcTVTNy13TnZaeWpuem5IZVRrdjZ6U3E4?oc=5\" target=\"_blank\">FAA says proper use of anti-drone lasers that prompted Texas airspace closures is safe for flights</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Santa Fe New Mexican</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMijwJBVV95cUxPby1yRkM0N2EtOFFSeDJCc05fVTNHNm9yQld6SWxMVE5VUkktaFFBVGV2TlR1dEozSlI0S3JJVW1ZQkdPSFp5M2VIOS15dWg2WWk5eHhjVmF5TnBmVlRubzVQZWhIZDczV2MwN1h4TGd5OXJNRlhXU2JDcmU1MGxBR3ZmTFhDOUZxNVFQYkhVTHQ2MVpBbnRfVlROWUwyOEx2UkJ4dExqeVZnVEpFeHpyX2ZaQjJtbmpQTnB0S204RHhnQUI1dEYwVmFDd21hUS1IdWRtTUg3UGdIUV80MTRoNUFsZUtMWHduRDN0cUdFVlRpRWVsc3plcTVTNy13TnZaeWpuem5IZVRrdjZ6U3E4?oc=5\" target=\"_blank\">FAA says proper use of anti-drone lasers that prompted Texas airspace closures is safe for flights</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Santa Fe New Mexican</font>",
-      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPby1yRkM0N2EtOFFSeDJCc05fVTNHNm9yQld6SWxMVE5VUkktaFFBVGV2TlR1dEozSlI0S3JJVW1ZQkdPSFp5M2VIOS15dWg2WWk5eHhjVmF5TnBmVlRubzVQZWhIZDczV2MwN1h4TGd5OXJNRlhXU2JDcmU1MGxBR3ZmTFhDOUZxNVFQYkhVTHQ2MVpBbnRfVlROWUwyOEx2UkJ4dExqeVZnVEpFeHpyX2ZaQjJtbmpQTnB0S204RHhnQUI1dEYwVmFDd21hUS1IdWRtTUg3UGdIUV80MTRoNUFsZUtMWHduRDN0cUdFVlRpRWVsc3plcTVTNy13TnZaeWpuem5IZVRrdjZ6U3E4?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPby1yRkM0N2EtOFFSeDJCc05fVTNHNm9yQld6SWxMVE5VUkktaFFBVGV2TlR1dEozSlI0S3JJVW1ZQkdPSFp5M2VIOS15dWg2WWk5eHhjVmF5TnBmVlRubzVQZWhIZDczV2MwN1h4TGd5OXJNRlhXU2JDcmU1MGxBR3ZmTFhDOUZxNVFQYkhVTHQ2MVpBbnRfVlROWUwyOEx2UkJ4dExqeVZnVEpFeHpyX2ZaQjJtbmpQTnB0S204RHhnQUI1dEYwVmFDd21hUS1IdWRtTUg3UGdIUV80MTRoNUFsZUtMWHduRDN0cUdFVlRpRWVsc3plcTVTNy13TnZaeWpuem5IZVRrdjZ6U3E4?oc=5",
-      "publishedAt": "2026-04-10T22:26:00.000Z",
-      "source": "Santa Fe New Mexican",
+      "title": "FAA launches quick-settlement path for drone rule breakers",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE1HX3hCTlZIX3RKa1ZUUkFPam05dXA3Q2lMalpJZC16SlZYelY0TFhVY3JXbWVRTVlrMmpIbzN2aV9NX3pBeXB1cTU5ZjVLR0dic2VyMThUMW4ycmgxZlhzYW5OcUcxSFFRUGc?oc=5\" target=\"_blank\">FAA launches quick-settlement path for drone rule breakers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DroneDJ</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE1HX3hCTlZIX3RKa1ZUUkFPam05dXA3Q2lMalpJZC16SlZYelY0TFhVY3JXbWVRTVlrMmpIbzN2aV9NX3pBeXB1cTU5ZjVLR0dic2VyMThUMW4ycmgxZlhzYW5OcUcxSFFRUGc?oc=5\" target=\"_blank\">FAA launches quick-settlement path for drone rule breakers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DroneDJ</font>",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1HX3hCTlZIX3RKa1ZUUkFPam05dXA3Q2lMalpJZC16SlZYelY0TFhVY3JXbWVRTVlrMmpIbzN2aV9NX3pBeXB1cTU5ZjVLR0dic2VyMThUMW4ycmgxZlhzYW5OcUcxSFFRUGc?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1HX3hCTlZIX3RKa1ZUUkFPam05dXA3Q2lMalpJZC16SlZYelY0TFhVY3JXbWVRTVlrMmpIbzN2aV9NX3pBeXB1cTU5ZjVLR0dic2VyMThUMW4ycmgxZlhzYW5OcUcxSFFRUGc?oc=5",
+      "publishedAt": "2026-04-22T09:27:00.000Z",
+      "source": "DroneDJ",
       "_feedRegion": "us",
       "_feedName": "FAA",
       "_scoring": {
         "score": 71,
         "categories": [
           "規制・政策",
-          "技術・製品",
-          "市場・資金"
+          "技術・製品"
         ],
         "breakdown": {
           "required": true,
           "regulation": {
-            "matches": 1,
-            "catScore": 32
+            "matches": 2,
+            "catScore": 40
           },
           "technology": {
             "matches": 1,
             "catScore": 24
           },
-          "market": {
-            "matches": 1,
-            "catScore": 20
-          },
           "sourceTrust": {
             "domain": "news.google.com",
             "multiplier": 0.8
           },
-          "freshness": 0,
+          "freshness": 10,
           "titleBonus": 10
         },
         "pass": true
@@ -777,48 +779,9 @@
           "titleBonus": 10
         },
         "pass": true
-      }
-    },
-    {
-      "title": "Counter-drone Lasers Approved for Use Along Southern Border by FAA and Pentagon",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVjZSUjZ5eTNDTnVvc3ZuaXd6NUx0OFBZbnBoUDF1LXA1YUdRSlIwTlkzV2FUZmsyQ3dES0dKdGgtMWt1WldDZmUzZEdaa2ZiaXBtaVA3RHQ5Z1JJcG9HN3EwcGdxNXJPdHA1OU5UbWtBX01hQVA3aGpVQWxoWlFMa3pJUWdCcWM1b3RoUE9qcnFvZ0VubXEzQkdOUmdlZGRvUm9SSjNEamFuRWhDc3ZIZkFiV2dmdFJEbHk5SU85UmJ6VjJSSTZUQdIBzgFBVV95cUxQc2ttRnREOVV0SHJISkJWRllNRnRFOHNia2JSdjRTR1hTZTRGc3RtWm9rR1Byc0dGZ0htMTJZcGdmeXpLR18td2lVZmNveERVdFBsR3hZV0d1djZzTHJVQjBBV2dLUVpfTEt5VmprODA0WEpCU3c0cGM3MWhSM1Eya2Y5OFpvR2hkVUFVeDdUOHVTTTRXNzNMSFhjN0RHcElJX3dpeER0WFB3SEdYTi1jMzBOY0k4dC1YOGNBVURZSTNmRFdnM0t5Tl9QXzlHZw?oc=5\" target=\"_blank\">Counter-drone Lasers Approved for Use Along Southern Border by FAA and Pentagon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LatestLY</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVjZSUjZ5eTNDTnVvc3ZuaXd6NUx0OFBZbnBoUDF1LXA1YUdRSlIwTlkzV2FUZmsyQ3dES0dKdGgtMWt1WldDZmUzZEdaa2ZiaXBtaVA3RHQ5Z1JJcG9HN3EwcGdxNXJPdHA1OU5UbWtBX01hQVA3aGpVQWxoWlFMa3pJUWdCcWM1b3RoUE9qcnFvZ0VubXEzQkdOUmdlZGRvUm9SSjNEamFuRWhDc3ZIZkFiV2dmdFJEbHk5SU85UmJ6VjJSSTZUQdIBzgFBVV95cUxQc2ttRnREOVV0SHJISkJWRllNRnRFOHNia2JSdjRTR1hTZTRGc3RtWm9rR1Byc0dGZ0htMTJZcGdmeXpLR18td2lVZmNveERVdFBsR3hZV0d1djZzTHJVQjBBV2dLUVpfTEt5VmprODA0WEpCU3c0cGM3MWhSM1Eya2Y5OFpvR2hkVUFVeDdUOHVTTTRXNzNMSFhjN0RHcElJX3dpeER0WFB3SEdYTi1jMzBOY0k4dC1YOGNBVURZSTNmRFdnM0t5Tl9QXzlHZw?oc=5\" target=\"_blank\">Counter-drone Lasers Approved for Use Along Southern Border by FAA and Pentagon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LatestLY</font>",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVjZSUjZ5eTNDTnVvc3ZuaXd6NUx0OFBZbnBoUDF1LXA1YUdRSlIwTlkzV2FUZmsyQ3dES0dKdGgtMWt1WldDZmUzZEdaa2ZiaXBtaVA3RHQ5Z1JJcG9HN3EwcGdxNXJPdHA1OU5UbWtBX01hQVA3aGpVQWxoWlFMa3pJUWdCcWM1b3RoUE9qcnFvZ0VubXEzQkdOUmdlZGRvUm9SSjNEamFuRWhDc3ZIZkFiV2dmdFJEbHk5SU85UmJ6VjJSSTZUQdIBzgFBVV95cUxQc2ttRnREOVV0SHJISkJWRllNRnRFOHNia2JSdjRTR1hTZTRGc3RtWm9rR1Byc0dGZ0htMTJZcGdmeXpLR18td2lVZmNveERVdFBsR3hZV0d1djZzTHJVQjBBV2dLUVpfTEt5VmprODA0WEpCU3c0cGM3MWhSM1Eya2Y5OFpvR2hkVUFVeDdUOHVTTTRXNzNMSFhjN0RHcElJX3dpeER0WFB3SEdYTi1jMzBOY0k4dC1YOGNBVURZSTNmRFdnM0t5Tl9QXzlHZw?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVjZSUjZ5eTNDTnVvc3ZuaXd6NUx0OFBZbnBoUDF1LXA1YUdRSlIwTlkzV2FUZmsyQ3dES0dKdGgtMWt1WldDZmUzZEdaa2ZiaXBtaVA3RHQ5Z1JJcG9HN3EwcGdxNXJPdHA1OU5UbWtBX01hQVA3aGpVQWxoWlFMa3pJUWdCcWM1b3RoUE9qcnFvZ0VubXEzQkdOUmdlZGRvUm9SSjNEamFuRWhDc3ZIZkFiV2dmdFJEbHk5SU85UmJ6VjJSSTZUQdIBzgFBVV95cUxQc2ttRnREOVV0SHJISkJWRllNRnRFOHNia2JSdjRTR1hTZTRGc3RtWm9rR1Byc0dGZ0htMTJZcGdmeXpLR18td2lVZmNveERVdFBsR3hZV0d1djZzTHJVQjBBV2dLUVpfTEt5VmprODA0WEpCU3c0cGM3MWhSM1Eya2Y5OFpvR2hkVUFVeDdUOHVTTTRXNzNMSFhjN0RHcElJX3dpeER0WFB3SEdYTi1jMzBOY0k4dC1YOGNBVURZSTNmRFdnM0t5Tl9QXzlHZw?oc=5",
-      "publishedAt": "2026-04-10T20:55:14.000Z",
-      "source": "LatestLY",
-      "_feedRegion": "us",
-      "_feedName": "FAA",
-      "_scoring": {
-        "score": 71,
-        "categories": [
-          "規制・政策",
-          "技術・製品",
-          "市場・資金"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 1,
-            "catScore": 32
-          },
-          "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "market": {
-            "matches": 1,
-            "catScore": 20
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 0,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
+      },
+      "implication": "FAAがエルパソ上空での高出力レーザーシステムの運用をドローン対策目的で認可したことで、JCABも防衛・警察用途の対ドローン技術導入時に商用航空との共存基準を明文化する圧力を受ける可能性がある。",
+      "implicationVerified": true
     },
     {
       "title": "クウェートの空港を狙ったドローン攻撃、燃料タンクが炎上：航空局",
@@ -1039,7 +1002,9 @@
           "jpRegionBonus": 15
         },
         "pass": true
-      }
+      },
+      "implication": "東京都大田区の実装事例が示すドローン・AI点検の職員受容性の低さは、JCAB航空法レベル4認可後の自治体インフラ点検案件における人材育成・運用体制構築が単なる規制クリアではなく、現場の不安解消が実用化の律速段階であることを浮き彫りにし、テ…",
+      "implicationVerified": true
     },
     {
       "title": "Dubai vertiport reaches technical completion ahead of air taxi launch",
@@ -1085,26 +1050,31 @@
       "implicationVerified": true
     },
     {
-      "title": "Florida’s Ron DeSantis signs bill to state-fund vertiport developments",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQm9qMlZ3cUE5cnN2c2tnV1BabmYzS0p0QUFKOXMweTZjczhKMk9YYy1WNGZyTnN2U2lPWVNkRUdlWTlYYWNGOElPczdMclEwc216RERpb1dxVFN6OXhjRTdwR1M3ZUJla1B0b3Y5dDliRGVHLWdnOWxOX1JZZTMwNVBGZzc5ZWR0M2VJNTJha3NGTVBIeGxVRjdyakNIYWxWZjBHLXpRb1c4bUYxblZPYkNVSXpPczlORWJFeGlIR1A?oc=5\" target=\"_blank\">Florida’s Ron DeSantis signs bill to state-fund vertiport developments</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQm9qMlZ3cUE5cnN2c2tnV1BabmYzS0p0QUFKOXMweTZjczhKMk9YYy1WNGZyTnN2U2lPWVNkRUdlWTlYYWNGOElPczdMclEwc216RERpb1dxVFN6OXhjRTdwR1M3ZUJla1B0b3Y5dDliRGVHLWdnOWxOX1JZZTMwNVBGZzc5ZWR0M2VJNTJha3NGTVBIeGxVRjdyakNIYWxWZjBHLXpRb1c4bUYxblZPYkNVSXpPczlORWJFeGlIR1A?oc=5\" target=\"_blank\">Florida’s Ron DeSantis signs bill to state-fund vertiport developments</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQm9qMlZ3cUE5cnN2c2tnV1BabmYzS0p0QUFKOXMweTZjczhKMk9YYy1WNGZyTnN2U2lPWVNkRUdlWTlYYWNGOElPczdMclEwc216RERpb1dxVFN6OXhjRTdwR1M3ZUJla1B0b3Y5dDliRGVHLWdnOWxOX1JZZTMwNVBGZzc5ZWR0M2VJNTJha3NGTVBIeGxVRjdyakNIYWxWZjBHLXpRb1c4bUYxblZPYkNVSXpPczlORWJFeGlIR1A?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQm9qMlZ3cUE5cnN2c2tnV1BabmYzS0p0QUFKOXMweTZjczhKMk9YYy1WNGZyTnN2U2lPWVNkRUdlWTlYYWNGOElPczdMclEwc216RERpb1dxVFN6OXhjRTdwR1M3ZUJla1B0b3Y5dDliRGVHLWdnOWxOX1JZZTMwNVBGZzc5ZWR0M2VJNTJha3NGTVBIeGxVRjdyakNIYWxWZjBHLXpRb1c4bUYxblZPYkNVSXpPczlORWJFeGlIR1A?oc=5",
-      "publishedAt": "2026-04-22T10:34:34.000Z",
-      "source": "Unmanned airspace",
+      "title": "Dubai vertiport reaches completion ahead of 2026 air taxi launch",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxORHRzbVlObzRweV9KSm1SUkpvbEtla1QxTjYtdl9Wd2tIeXJheWdZSTdRc1E0SHQ5cmxib3B2STR4NXZwU2VwbzJOMHZWMGJvVU43RUNXYjBEX2N6QW1uU25ZSUlucEVuUHA1c1hMUG9wQ0xMUmhsejR3WU45STluVHJxaU9YZmxHX1FNSmcxbkVEVlVQY1NNaFF3?oc=5\" target=\"_blank\">Dubai vertiport reaches completion ahead of 2026 air taxi launch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Zag Daily</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxORHRzbVlObzRweV9KSm1SUkpvbEtla1QxTjYtdl9Wd2tIeXJheWdZSTdRc1E0SHQ5cmxib3B2STR4NXZwU2VwbzJOMHZWMGJvVU43RUNXYjBEX2N6QW1uU25ZSUlucEVuUHA1c1hMUG9wQ0xMUmhsejR3WU45STluVHJxaU9YZmxHX1FNSmcxbkVEVlVQY1NNaFF3?oc=5\" target=\"_blank\">Dubai vertiport reaches completion ahead of 2026 air taxi launch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Zag Daily</font>",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORHRzbVlObzRweV9KSm1SUkpvbEtla1QxTjYtdl9Wd2tIeXJheWdZSTdRc1E0SHQ5cmxib3B2STR4NXZwU2VwbzJOMHZWMGJvVU43RUNXYjBEX2N6QW1uU25ZSUlucEVuUHA1c1hMUG9wQ0xMUmhsejR3WU45STluVHJxaU9YZmxHX1FNSmcxbkVEVlVQY1NNaFF3?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORHRzbVlObzRweV9KSm1SUkpvbEtla1QxTjYtdl9Wd2tIeXJheWdZSTdRc1E0SHQ5cmxib3B2STR4NXZwU2VwbzJOMHZWMGJvVU43RUNXYjBEX2N6QW1uU25ZSUlucEVuUHA1c1hMUG9wQ0xMUmhsejR3WU45STluVHJxaU9YZmxHX1FNSmcxbkVEVlVQY1NNaFF3?oc=5",
+      "publishedAt": "2026-04-17T16:23:34.000Z",
+      "source": "Zag Daily",
       "_feedRegion": "global",
       "_feedName": "Google News (Global)",
       "_scoring": {
         "score": 64,
         "categories": [
+          "技術・製品",
           "市場・資金",
           "政策・インフラ"
         ],
         "breakdown": {
           "required": true,
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
           "market": {
-            "matches": 2,
-            "catScore": 25
+            "matches": 1,
+            "catScore": 20
           },
           "policy": {
             "matches": 1,
@@ -1114,11 +1084,13 @@
             "domain": "news.google.com",
             "multiplier": 0.8
           },
-          "freshness": 15,
+          "freshness": 0,
           "titleBonus": 10
         },
         "pass": true
-      }
+      },
+      "implication": "ドバイの2026年エアタクシ運航開始に向けたバーティポート完成は、JCAB傘下の機体認証および航空法レベル4の運用基準整備を急速化させる国際競争圧力となり、大阪・関西万博での都市エアモビリティ実装を目指すSkyDriveなど国内事業者の認…",
+      "implicationVerified": true
     },
     {
       "title": "テラドローン－買い気配 迎撃ドローン開発のウクライナ企業と資本業務提携(トレーダーズ・ウェブ)",
@@ -1195,6 +1167,45 @@
         "pass": true
       },
       "implication": "FAA の eVTOL 認証タイムラインの長期化が評価指標化する動きは、JCAB による航空法レベル4型式認証の基準作成・運用の透明性と予測可能性を高める圧力となり、国内 SkyDrive などの事業化計画の妥当性評価を左右する。",
+      "implicationVerified": true
+    },
+    {
+      "title": "金沢工大開発の大型物流ドローン、福井空港で初の飛行実証 「50kg・50km」想定で運用、ドローンキャンパス講師が操縦支援",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TaDFpTWgxX1Q4UW1OOEpiZDNPenBPOWZGTUlaUFdxd1RaNjVMUHhzRE13STR1dDFKMk84M1FfN3RSWnQtVG1VYTE1T2IxUGFsTW1hMHNhUWV6V2M?oc=5\" target=\"_blank\">金沢工大開発の大型物流ドローン、福井空港で初の飛行実証 「50kg・50km」想定で運用、ドローンキャンパス講師が操縦支援</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DRONE.jp</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TaDFpTWgxX1Q4UW1OOEpiZDNPenBPOWZGTUlaUFdxd1RaNjVMUHhzRE13STR1dDFKMk84M1FfN3RSWnQtVG1VYTE1T2IxUGFsTW1hMHNhUWV6V2M?oc=5\" target=\"_blank\">金沢工大開発の大型物流ドローン、福井空港で初の飛行実証 「50kg・50km」想定で運用、ドローンキャンパス講師が操縦支援</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DRONE.jp</font>",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TaDFpTWgxX1Q4UW1OOEpiZDNPenBPOWZGTUlaUFdxd1RaNjVMUHhzRE13STR1dDFKMk84M1FfN3RSWnQtVG1VYTE1T2IxUGFsTW1hMHNhUWV6V2M?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TaDFpTWgxX1Q4UW1OOEpiZDNPenBPOWZGTUlaUFdxd1RaNjVMUHhzRE13STR1dDFKMk84M1FfN3RSWnQtVG1VYTE1T2IxUGFsTW1hMHNhUWV6V2M?oc=5",
+      "publishedAt": "2026-03-23T07:00:00.000Z",
+      "source": "DRONE.jp",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP ドローン専門)",
+      "_scoring": {
+        "score": 63,
+        "categories": [
+          "技術・製品",
+          "政策・インフラ"
+        ],
+        "breakdown": {
+          "required": true,
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "policy": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 0,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      },
+      "implication": "金沢工大の50kg積載・50km航続ドローンが福井空港での実証を開始したことは、JCAB航空法レベル4認可に向けた地方空港活用の先例となり、同様の大型物流機開発を進めるSkyDriveやテラドローンなど国内事業者に対して地域パートナーシッ…",
       "implicationVerified": true
     }
   ],
