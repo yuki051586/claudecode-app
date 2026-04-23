@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-23T10:59:31.966Z",
-  "rawCount": 743,
+  "generatedAt": "2026-04-23T16:56:26.857Z",
+  "rawCount": 704,
   "articles": [
     {
       "title": "FAA Confirms Temporary Airspace Closure Over El Paso, Texas Due to Deployment of Advanced Laser Technology, as U.S. and Mexico Strengthen Joint Counter-Drone Defense Systems to Safeguard National Airspace from Rising UAV Threats",
@@ -59,7 +59,7 @@
       "_feedRegion": "jp",
       "_feedName": "Google News (JP)",
       "_scoring": {
-        "score": 85,
+        "score": 80,
         "categories": [
           "規制・政策",
           "技術・製品"
@@ -78,52 +78,13 @@
             "domain": "news.google.com",
             "multiplier": 0.8
           },
-          "freshness": 15,
+          "freshness": 10,
           "titleBonus": 10,
           "jpRegionBonus": 15
         },
         "pass": true
       },
       "implication": "SkyDriveが国交省からADO認定を取得したことで、空飛ぶクルマの型式認証申請に向けた設計・試験段階の自社実施が可能になり、JCAB直轄の負担軽減と開発スケジュール短縮が進む一方、同認定取得を目指すテラドローンやACSLといった国内競…",
-      "implicationVerified": true
-    },
-    {
-      "title": "国産ドローン量産へ新興の参入促す 新たな安保3文書に基盤整備方針",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE9DSzBXd1JscGFHRTlIXzJJX3dEclV6WVpLa3I5aGFFNDFGd3RhWXd6Ry1rNWhNdVlIY0VIdnozdTJfMTI3WlEzbEhYdXE1TlZ6Y0JhRXZMZTc3Ulh1Sk9meFMwcEUwczZHVkJOaw?oc=5\" target=\"_blank\">国産ドローン量産へ新興の参入促す 新たな安保3文書に基盤整備方針</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE9DSzBXd1JscGFHRTlIXzJJX3dEclV6WVpLa3I5aGFFNDFGd3RhWXd6Ry1rNWhNdVlIY0VIdnozdTJfMTI3WlEzbEhYdXE1TlZ6Y0JhRXZMZTc3Ulh1Sk9meFMwcEUwczZHVkJOaw?oc=5\" target=\"_blank\">国産ドローン量産へ新興の参入促す 新たな安保3文書に基盤整備方針</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9DSzBXd1JscGFHRTlIXzJJX3dEclV6WVpLa3I5aGFFNDFGd3RhWXd6Ry1rNWhNdVlIY0VIdnozdTJfMTI3WlEzbEhYdXE1TlZ6Y0JhRXZMZTc3Ulh1Sk9meFMwcEUwczZHVkJOaw?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9DSzBXd1JscGFHRTlIXzJJX3dEclV6WVpLa3I5aGFFNDFGd3RhWXd6Ry1rNWhNdVlIY0VIdnozdTJfMTI3WlEzbEhYdXE1TlZ6Y0JhRXZMZTc3Ulh1Sk9meFMwcEUwczZHVkJOaw?oc=5",
-      "publishedAt": "2026-04-23T02:40:00.000Z",
-      "source": "日本経済新聞",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP)",
-      "_scoring": {
-        "score": 78,
-        "categories": [
-          "技術・製品",
-          "政策・インフラ"
-        ],
-        "breakdown": {
-          "required": true,
-          "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "policy": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 15,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      },
-      "implication": "安保3文書に基づく国産ドローン量産基盤整備方針は、JCAB による機体認証プロセスの簡素化または並行審査導入を促し、SkyDrive や ACSL といった既存事業者と新興参入企業の競争環境を同時に構築する圧力となる。",
       "implicationVerified": true
     },
     {
@@ -167,49 +128,6 @@
         "pass": true
       },
       "implication": "ペンタゴンとFAAが対ドローンレーザーの安全協定を締結した動きは、JCABが進める航空法レベル4の有人地帯目視外飛行実装時に、低高度空域での干渉リスク管理の制度設計を急速に具体化させる圧力となり、大阪・関西万博などの大規模イベント警備で米…",
-      "implicationVerified": true
-    },
-    {
-      "title": "FAA launches DETER programme to speed up enforcement of drone rules",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQMXduZFloVVR2eDl6c3VhcE1fMGJoZWc1MTlqOWVvY3VpSmQwSnZhVXVvREdGX25FeVFHUXFLRTJtUk54RWM3VWl2UGpUdmktU1hpd013RTJCSTB2a2tMOHhBWXV1OS1ON3dNNDc1Q05zN2JLWG1ZRFJHNURyQWgtZzkwRUlnZDBPeWZ4LUNOT3dLTVQwVjcxekRhUVVrSEZJa2x1N0laNmVoejUzbjNrQ0V2Ri02aVE?oc=5\" target=\"_blank\">FAA launches DETER programme to speed up enforcement of drone rules</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQMXduZFloVVR2eDl6c3VhcE1fMGJoZWc1MTlqOWVvY3VpSmQwSnZhVXVvREdGX25FeVFHUXFLRTJtUk54RWM3VWl2UGpUdmktU1hpd013RTJCSTB2a2tMOHhBWXV1OS1ON3dNNDc1Q05zN2JLWG1ZRFJHNURyQWgtZzkwRUlnZDBPeWZ4LUNOT3dLTVQwVjcxekRhUVVrSEZJa2x1N0laNmVoejUzbjNrQ0V2Ri02aVE?oc=5\" target=\"_blank\">FAA launches DETER programme to speed up enforcement of drone rules</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMXduZFloVVR2eDl6c3VhcE1fMGJoZWc1MTlqOWVvY3VpSmQwSnZhVXVvREdGX25FeVFHUXFLRTJtUk54RWM3VWl2UGpUdmktU1hpd013RTJCSTB2a2tMOHhBWXV1OS1ON3dNNDc1Q05zN2JLWG1ZRFJHNURyQWgtZzkwRUlnZDBPeWZ4LUNOT3dLTVQwVjcxekRhUVVrSEZJa2x1N0laNmVoejUzbjNrQ0V2Ri02aVE?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMXduZFloVVR2eDl6c3VhcE1fMGJoZWc1MTlqOWVvY3VpSmQwSnZhVXVvREdGX25FeVFHUXFLRTJtUk54RWM3VWl2UGpUdmktU1hpd013RTJCSTB2a2tMOHhBWXV1OS1ON3dNNDc1Q05zN2JLWG1ZRFJHNURyQWgtZzkwRUlnZDBPeWZ4LUNOT3dLTVQwVjcxekRhUVVrSEZJa2x1N0laNmVoejUzbjNrQ0V2Ri02aVE?oc=5",
-      "publishedAt": "2026-04-16T18:37:27.000Z",
-      "source": "Unmanned airspace",
-      "_feedRegion": "us",
-      "_feedName": "FAA",
-      "_scoring": {
-        "score": 77,
-        "categories": [
-          "規制・政策",
-          "技術・製品",
-          "市場・資金"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 2,
-            "catScore": 40
-          },
-          "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "market": {
-            "matches": 1,
-            "catScore": 20
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 0,
-          "titleBonus": 10
-        },
-        "pass": true
-      },
-      "implication": "FAA のDETER プログラムによる無人航空機ルール違反の迅速な取り締まり強化は、JCAB が航空法レベル4の本格運用開始に向けて違反事案への対応体制を整備する際の行政モデルとなり、国内ドローン事業者への規制遵守インセンティブ強化を促す。",
       "implicationVerified": true
     },
     {
@@ -287,6 +205,82 @@
           },
           "freshness": 15,
           "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "DJIの新カメラドローンシリーズ「Lito」 10bit D-Log M記録や前向きLiDARなど搭載",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE96OUN3ZWswVS0wdUhWWU9ScGRDM3NDSDBraGhwOEp5V2FjbkFJNm51ZEFNLS1McVh2eEY1bjdFS0pIZE9VSnItOWxJVFRybWV3U3o3TzdXc1NDOG1NbXZCb2tFYw?oc=5\" target=\"_blank\">DJIの新カメラドローンシリーズ「Lito」 10bit D-Log M記録や前向きLiDARなど搭載</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">デジカメ Watch</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE96OUN3ZWswVS0wdUhWWU9ScGRDM3NDSDBraGhwOEp5V2FjbkFJNm51ZEFNLS1McVh2eEY1bjdFS0pIZE9VSnItOWxJVFRybWV3U3o3TzdXc1NDOG1NbXZCb2tFYw?oc=5\" target=\"_blank\">DJIの新カメラドローンシリーズ「Lito」 10bit D-Log M記録や前向きLiDARなど搭載</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">デジカメ Watch</font>",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE96OUN3ZWswVS0wdUhWWU9ScGRDM3NDSDBraGhwOEp5V2FjbkFJNm51ZEFNLS1McVh2eEY1bjdFS0pIZE9VSnItOWxJVFRybWV3U3o3TzdXc1NDOG1NbXZCb2tFYw?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE96OUN3ZWswVS0wdUhWWU9ScGRDM3NDSDBraGhwOEp5V2FjbkFJNm51ZEFNLS1McVh2eEY1bjdFS0pIZE9VSnItOWxJVFRybWV3U3o3TzdXc1NDOG1NbXZCb2tFYw?oc=5",
+      "publishedAt": "2026-04-23T12:00:00.000Z",
+      "source": "デジカメ Watch",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP 経済メディア)",
+      "_scoring": {
+        "score": 75,
+        "categories": [
+          "技術・製品",
+          "市場・資金"
+        ],
+        "breakdown": {
+          "required": true,
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "market": {
+            "matches": 1,
+            "catScore": 20
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 15,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      },
+      "implication": "DJIの新型ドローン「Lito」シリーズが10bit D-Log M記録と前向きLiDARを搭載することで、国土交通省航空局による機体認証の対象機が高機能化し、JCABの安全基準審査項目の拡張を促す可能性がある。",
+      "implicationVerified": true
+    },
+    {
+      "title": "DJI、初心者向け新ドローン「Lito」シリーズ発表 全方向障害物検知やLiDAR搭載で安全性を強化 4万7520円から - ITmedia PC USER",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE9WZmVWakdScEgyZWtvZk9yYmZ3dVFDWmpPVEVIOEV2QnVBT3hIXzhqWHcwTlpfMTdDTjR3UnFVVFg5RTFrTlRyZDJFWTk2c0xXa3NYcGU2Sm1QQVNsck1NVW5oYlR3TExtSUo0Ykt1MNIBaEFVX3lxTE1kdGJIelllcldfX3pVUnhNTUJISUxGM3JVNDJRdi11eHl0LUU0b1RTbE1iMjVrRktZeEZVWDRnR2M2Mm8yV3JUbExfWXhSX0NUVjlCcEE5SGNiamRyYktjSGlOOHNXdnRr?oc=5\" target=\"_blank\">DJI、初心者向け新ドローン「Lito」シリーズ発表 全方向障害物検知やLiDAR搭載で安全性を強化 4万7520円から - ITmedia PC USER</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ITmedia</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE9WZmVWakdScEgyZWtvZk9yYmZ3dVFDWmpPVEVIOEV2QnVBT3hIXzhqWHcwTlpfMTdDTjR3UnFVVFg5RTFrTlRyZDJFWTk2c0xXa3NYcGU2Sm1QQVNsck1NVW5oYlR3TExtSUo0Ykt1MNIBaEFVX3lxTE1kdGJIelllcldfX3pVUnhNTUJISUxGM3JVNDJRdi11eHl0LUU0b1RTbE1iMjVrRktZeEZVWDRnR2M2Mm8yV3JUbExfWXhSX0NUVjlCcEE5SGNiamRyYktjSGlOOHNXdnRr?oc=5\" target=\"_blank\">DJI、初心者向け新ドローン「Lito」シリーズ発表 全方向障害物検知やLiDAR搭載で安全性を強化 4万7520円から - ITmedia PC USER</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ITmedia</font>",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9WZmVWakdScEgyZWtvZk9yYmZ3dVFDWmpPVEVIOEV2QnVBT3hIXzhqWHcwTlpfMTdDTjR3UnFVVFg5RTFrTlRyZDJFWTk2c0xXa3NYcGU2Sm1QQVNsck1NVW5oYlR3TExtSUo0Ykt1MNIBaEFVX3lxTE1kdGJIelllcldfX3pVUnhNTUJISUxGM3JVNDJRdi11eHl0LUU0b1RTbE1iMjVrRktZeEZVWDRnR2M2Mm8yV3JUbExfWXhSX0NUVjlCcEE5SGNiamRyYktjSGlOOHNXdnRr?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9WZmVWakdScEgyZWtvZk9yYmZ3dVFDWmpPVEVIOEV2QnVBT3hIXzhqWHcwTlpfMTdDTjR3UnFVVFg5RTFrTlRyZDJFWTk2c0xXa3NYcGU2Sm1QQVNsck1NVW5oYlR3TExtSUo0Ykt1MNIBaEFVX3lxTE1kdGJIelllcldfX3pVUnhNTUJISUxGM3JVNDJRdi11eHl0LUU0b1RTbE1iMjVrRktZeEZVWDRnR2M2Mm8yV3JUbExfWXhSX0NUVjlCcEE5SGNiamRyYktjSGlOOHNXdnRr?oc=5",
+      "publishedAt": "2026-04-23T12:00:00.000Z",
+      "source": "ITmedia",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP 経済メディア)",
+      "_scoring": {
+        "score": 75,
+        "categories": [
+          "技術・製品",
+          "市場・資金"
+        ],
+        "breakdown": {
+          "required": true,
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "market": {
+            "matches": 1,
+            "catScore": 20
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 15,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
         },
         "pass": true
       }
@@ -499,13 +493,52 @@
       }
     },
     {
+      "title": "国産ドローン量産へ新興の参入促す 新たな安保3文書に基盤整備方針",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE9DSzBXd1JscGFHRTlIXzJJX3dEclV6WVpLa3I5aGFFNDFGd3RhWXd6Ry1rNWhNdVlIY0VIdnozdTJfMTI3WlEzbEhYdXE1TlZ6Y0JhRXZMZTc3Ulh1Sk9meFMwcEUwczZHVkJOaw?oc=5\" target=\"_blank\">国産ドローン量産へ新興の参入促す 新たな安保3文書に基盤整備方針</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE9DSzBXd1JscGFHRTlIXzJJX3dEclV6WVpLa3I5aGFFNDFGd3RhWXd6Ry1rNWhNdVlIY0VIdnozdTJfMTI3WlEzbEhYdXE1TlZ6Y0JhRXZMZTc3Ulh1Sk9meFMwcEUwczZHVkJOaw?oc=5\" target=\"_blank\">国産ドローン量産へ新興の参入促す 新たな安保3文書に基盤整備方針</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9DSzBXd1JscGFHRTlIXzJJX3dEclV6WVpLa3I5aGFFNDFGd3RhWXd6Ry1rNWhNdVlIY0VIdnozdTJfMTI3WlEzbEhYdXE1TlZ6Y0JhRXZMZTc3Ulh1Sk9meFMwcEUwczZHVkJOaw?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9DSzBXd1JscGFHRTlIXzJJX3dEclV6WVpLa3I5aGFFNDFGd3RhWXd6Ry1rNWhNdVlIY0VIdnozdTJfMTI3WlEzbEhYdXE1TlZ6Y0JhRXZMZTc3Ulh1Sk9meFMwcEUwczZHVkJOaw?oc=5",
+      "publishedAt": "2026-04-23T02:40:00.000Z",
+      "source": "日本経済新聞",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP)",
+      "_scoring": {
+        "score": 73,
+        "categories": [
+          "技術・製品",
+          "政策・インフラ"
+        ],
+        "breakdown": {
+          "required": true,
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "policy": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 10,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      },
+      "implication": "安保3文書に基づく国産ドローン量産基盤整備方針は、JCAB による機体認証プロセスの簡素化または並行審査導入を促し、SkyDrive や ACSL といった既存事業者と新興参入企業の競争環境を同時に構築する圧力となる。",
+      "implicationVerified": true
+    },
+    {
       "title": "国土交通省「下水道応用研究」に採択 旭テクノロジー、ドローン×LiDARで下水道点検のDXを推進",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFBJQUJZallvZW5YbmFwTlJjSGhHSlZQa3hvcUptS0xlUVUtUGZUY2huQ0lvLV9URUVsZHQxbVB1Y0VFLS05VUpTekJKRmtVUGF5X1B6WFBrQlRGdkt3YjJEVHF2V3ZvMWc4RXc?oc=5\" target=\"_blank\">国土交通省「下水道応用研究」に採択 旭テクノロジー、ドローン×LiDARで下水道点検のDXを推進</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR TIMES</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFBJQUJZallvZW5YbmFwTlJjSGhHSlZQa3hvcUptS0xlUVUtUGZUY2huQ0lvLV9URUVsZHQxbVB1Y0VFLS05VUpTekJKRmtVUGF5X1B6WFBrQlRGdkt3YjJEVHF2V3ZvMWc4RXc?oc=5\" target=\"_blank\">国土交通省「下水道応用研究」に採択 旭テクノロジー、ドローン×LiDARで下水道点検のDXを推進</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR TIMES</font>",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBJQUJZallvZW5YbmFwTlJjSGhHSlZQa3hvcUptS0xlUVUtUGZUY2huQ0lvLV9URUVsZHQxbVB1Y0VFLS05VUpTekJKRmtVUGF5X1B6WFBrQlRGdkt3YjJEVHF2V3ZvMWc4RXc?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBJQUJZallvZW5YbmFwTlJjSGhHSlZQa3hvcUptS0xlUVUtUGZUY2huQ0lvLV9URUVsZHQxbVB1Y0VFLS05VUpTekJKRmtVUGF5X1B6WFBrQlRGdkt3YjJEVHF2V3ZvMWc4RXc?oc=5",
-      "publishedAt": "2026-04-21T01:00:16.000Z",
-      "source": "PR TIMES",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE5xNUJzb24tbGtKd2JjVFhzYUJJcUlva0NibmdzOGVDdnRYQTFuWUxwSzFWWUdzWU9OTWNDWWVJVnUyaHZXcE41UERJdVlhdk1nWFlWWVNYWVRCN21wYjBGTENjV3MxMFBsLVNDSklZRQ?oc=5\" target=\"_blank\">国土交通省「下水道応用研究」に採択 旭テクノロジー、ドローン×LiDARで下水道点検のDXを推進</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">神戸新聞</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE5xNUJzb24tbGtKd2JjVFhzYUJJcUlva0NibmdzOGVDdnRYQTFuWUxwSzFWWUdzWU9OTWNDWWVJVnUyaHZXcE41UERJdVlhdk1nWFlWWVNYWVRCN21wYjBGTENjV3MxMFBsLVNDSklZRQ?oc=5\" target=\"_blank\">国土交通省「下水道応用研究」に採択 旭テクノロジー、ドローン×LiDARで下水道点検のDXを推進</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">神戸新聞</font>",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5xNUJzb24tbGtKd2JjVFhzYUJJcUlva0NibmdzOGVDdnRYQTFuWUxwSzFWWUdzWU9OTWNDWWVJVnUyaHZXcE41UERJdVlhdk1nWFlWWVNYWVRCN21wYjBGTENjV3MxMFBsLVNDSklZRQ?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5xNUJzb24tbGtKd2JjVFhzYUJJcUlva0NibmdzOGVDdnRYQTFuWUxwSzFWWUdzWU9OTWNDWWVJVnUyaHZXcE41UERJdVlhdk1nWFlWWVNYWVRCN21wYjBGTENjV3MxMFBsLVNDSklZRQ?oc=5",
+      "publishedAt": "2026-04-21T01:00:00.000Z",
+      "source": "神戸新聞",
       "_feedRegion": "jp",
       "_feedName": "Google News (JP 政策/実証)",
       "_scoring": {
@@ -745,21 +778,20 @@
       "implicationVerified": true
     },
     {
-      "title": "Counter-drone Lasers Approved for Use Along Southern Border by FAA and Pentagon",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVjZSUjZ5eTNDTnVvc3ZuaXd6NUx0OFBZbnBoUDF1LXA1YUdRSlIwTlkzV2FUZmsyQ3dES0dKdGgtMWt1WldDZmUzZEdaa2ZiaXBtaVA3RHQ5Z1JJcG9HN3EwcGdxNXJPdHA1OU5UbWtBX01hQVA3aGpVQWxoWlFMa3pJUWdCcWM1b3RoUE9qcnFvZ0VubXEzQkdOUmdlZGRvUm9SSjNEamFuRWhDc3ZIZkFiV2dmdFJEbHk5SU85UmJ6VjJSSTZUQdIBzgFBVV95cUxQc2ttRnREOVV0SHJISkJWRllNRnRFOHNia2JSdjRTR1hTZTRGc3RtWm9rR1Byc0dGZ0htMTJZcGdmeXpLR18td2lVZmNveERVdFBsR3hZV0d1djZzTHJVQjBBV2dLUVpfTEt5VmprODA0WEpCU3c0cGM3MWhSM1Eya2Y5OFpvR2hkVUFVeDdUOHVTTTRXNzNMSFhjN0RHcElJX3dpeER0WFB3SEdYTi1jMzBOY0k4dC1YOGNBVURZSTNmRFdnM0t5Tl9QXzlHZw?oc=5\" target=\"_blank\">Counter-drone Lasers Approved for Use Along Southern Border by FAA and Pentagon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LatestLY</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVjZSUjZ5eTNDTnVvc3ZuaXd6NUx0OFBZbnBoUDF1LXA1YUdRSlIwTlkzV2FUZmsyQ3dES0dKdGgtMWt1WldDZmUzZEdaa2ZiaXBtaVA3RHQ5Z1JJcG9HN3EwcGdxNXJPdHA1OU5UbWtBX01hQVA3aGpVQWxoWlFMa3pJUWdCcWM1b3RoUE9qcnFvZ0VubXEzQkdOUmdlZGRvUm9SSjNEamFuRWhDc3ZIZkFiV2dmdFJEbHk5SU85UmJ6VjJSSTZUQdIBzgFBVV95cUxQc2ttRnREOVV0SHJISkJWRllNRnRFOHNia2JSdjRTR1hTZTRGc3RtWm9rR1Byc0dGZ0htMTJZcGdmeXpLR18td2lVZmNveERVdFBsR3hZV0d1djZzTHJVQjBBV2dLUVpfTEt5VmprODA0WEpCU3c0cGM3MWhSM1Eya2Y5OFpvR2hkVUFVeDdUOHVTTTRXNzNMSFhjN0RHcElJX3dpeER0WFB3SEdYTi1jMzBOY0k4dC1YOGNBVURZSTNmRFdnM0t5Tl9QXzlHZw?oc=5\" target=\"_blank\">Counter-drone Lasers Approved for Use Along Southern Border by FAA and Pentagon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LatestLY</font>",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVjZSUjZ5eTNDTnVvc3ZuaXd6NUx0OFBZbnBoUDF1LXA1YUdRSlIwTlkzV2FUZmsyQ3dES0dKdGgtMWt1WldDZmUzZEdaa2ZiaXBtaVA3RHQ5Z1JJcG9HN3EwcGdxNXJPdHA1OU5UbWtBX01hQVA3aGpVQWxoWlFMa3pJUWdCcWM1b3RoUE9qcnFvZ0VubXEzQkdOUmdlZGRvUm9SSjNEamFuRWhDc3ZIZkFiV2dmdFJEbHk5SU85UmJ6VjJSSTZUQdIBzgFBVV95cUxQc2ttRnREOVV0SHJISkJWRllNRnRFOHNia2JSdjRTR1hTZTRGc3RtWm9rR1Byc0dGZ0htMTJZcGdmeXpLR18td2lVZmNveERVdFBsR3hZV0d1djZzTHJVQjBBV2dLUVpfTEt5VmprODA0WEpCU3c0cGM3MWhSM1Eya2Y5OFpvR2hkVUFVeDdUOHVTTTRXNzNMSFhjN0RHcElJX3dpeER0WFB3SEdYTi1jMzBOY0k4dC1YOGNBVURZSTNmRFdnM0t5Tl9QXzlHZw?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVjZSUjZ5eTNDTnVvc3ZuaXd6NUx0OFBZbnBoUDF1LXA1YUdRSlIwTlkzV2FUZmsyQ3dES0dKdGgtMWt1WldDZmUzZEdaa2ZiaXBtaVA3RHQ5Z1JJcG9HN3EwcGdxNXJPdHA1OU5UbWtBX01hQVA3aGpVQWxoWlFMa3pJUWdCcWM1b3RoUE9qcnFvZ0VubXEzQkdOUmdlZGRvUm9SSjNEamFuRWhDc3ZIZkFiV2dmdFJEbHk5SU85UmJ6VjJSSTZUQdIBzgFBVV95cUxQc2ttRnREOVV0SHJISkJWRllNRnRFOHNia2JSdjRTR1hTZTRGc3RtWm9rR1Byc0dGZ0htMTJZcGdmeXpLR18td2lVZmNveERVdFBsR3hZV0d1djZzTHJVQjBBV2dLUVpfTEt5VmprODA0WEpCU3c0cGM3MWhSM1Eya2Y5OFpvR2hkVUFVeDdUOHVTTTRXNzNMSFhjN0RHcElJX3dpeER0WFB3SEdYTi1jMzBOY0k4dC1YOGNBVURZSTNmRFdnM0t5Tl9QXzlHZw?oc=5",
-      "publishedAt": "2026-04-10T20:55:14.000Z",
-      "source": "LatestLY",
-      "_feedRegion": "us",
-      "_feedName": "FAA",
+      "title": "Why standardised environmental rules for delivery drones matter and how you can help shape them",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxQLUlCMUFJTHBiSHFrZDhBX3IxY0pKMk42THNCcFZXRmFwMm10UnIxZnhvckxqNm1kcXRkMF91bFdhMFNVbHFEZE9fdlVuMjlNTTczdWRodi0zZVBkYl9PbkoxMkJHV1RPQ1pVT3hRZnRqWUlpa1BLX05NZG53d3ppQ2tuQnVuYnl3eG43TU1jY0R3OWUxUUVxWFFKM2hnblRRVU42YklucjlXMEpDWlIxQ0d1WUE5azJNMk5CWV9VZzIteC1sbkFYcTVWMFBNd2tnR2ZINm9uNlRFVmFnODVxb2RFMzQxMkozX19ZemNvRQ?oc=5\" target=\"_blank\">Why standardised environmental rules for delivery drones matter and how you can help shape them</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ricardo.com</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxQLUlCMUFJTHBiSHFrZDhBX3IxY0pKMk42THNCcFZXRmFwMm10UnIxZnhvckxqNm1kcXRkMF91bFdhMFNVbHFEZE9fdlVuMjlNTTczdWRodi0zZVBkYl9PbkoxMkJHV1RPQ1pVT3hRZnRqWUlpa1BLX05NZG53d3ppQ2tuQnVuYnl3eG43TU1jY0R3OWUxUUVxWFFKM2hnblRRVU42YklucjlXMEpDWlIxQ0d1WUE5azJNMk5CWV9VZzIteC1sbkFYcTVWMFBNd2tnR2ZINm9uNlRFVmFnODVxb2RFMzQxMkozX19ZemNvRQ?oc=5\" target=\"_blank\">Why standardised environmental rules for delivery drones matter and how you can help shape them</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ricardo.com</font>",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQLUlCMUFJTHBiSHFrZDhBX3IxY0pKMk42THNCcFZXRmFwMm10UnIxZnhvckxqNm1kcXRkMF91bFdhMFNVbHFEZE9fdlVuMjlNTTczdWRodi0zZVBkYl9PbkoxMkJHV1RPQ1pVT3hRZnRqWUlpa1BLX05NZG53d3ppQ2tuQnVuYnl3eG43TU1jY0R3OWUxUUVxWFFKM2hnblRRVU42YklucjlXMEpDWlIxQ0d1WUE5azJNMk5CWV9VZzIteC1sbkFYcTVWMFBNd2tnR2ZINm9uNlRFVmFnODVxb2RFMzQxMkozX19ZemNvRQ?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQLUlCMUFJTHBiSHFrZDhBX3IxY0pKMk42THNCcFZXRmFwMm10UnIxZnhvckxqNm1kcXRkMF91bFdhMFNVbHFEZE9fdlVuMjlNTTczdWRodi0zZVBkYl9PbkoxMkJHV1RPQ1pVT3hRZnRqWUlpa1BLX05NZG53d3ppQ2tuQnVuYnl3eG43TU1jY0R3OWUxUUVxWFFKM2hnblRRVU42YklucjlXMEpDWlIxQ0d1WUE5azJNMk5CWV9VZzIteC1sbkFYcTVWMFBNd2tnR2ZINm9uNlRFVmFnODVxb2RFMzQxMkozX19ZemNvRQ?oc=5",
+      "publishedAt": "2026-04-23T13:11:11.000Z",
+      "source": "ricardo.com",
+      "_feedRegion": "eu",
+      "_feedName": "EASA",
       "_scoring": {
-        "score": 71,
+        "score": 70,
         "categories": [
           "規制・政策",
-          "技術・製品",
-          "市場・資金"
+          "政策・インフラ"
         ],
         "breakdown": {
           "required": true,
@@ -767,19 +799,15 @@
             "matches": 1,
             "catScore": 32
           },
-          "technology": {
+          "policy": {
             "matches": 1,
             "catScore": 24
-          },
-          "market": {
-            "matches": 1,
-            "catScore": 20
           },
           "sourceTrust": {
             "domain": "news.google.com",
             "multiplier": 0.8
           },
-          "freshness": 0,
+          "freshness": 15,
           "titleBonus": 10
         },
         "pass": true
@@ -1016,81 +1044,6 @@
       "implicationVerified": true
     },
     {
-      "title": "八戸市のNTT鉄塔 ドローンで点検調査「異常なし」",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE9HcHIwSm9Qa2lWMGpZejFLOEEwdW0zQTdJTjlVeEZNZnpTV1BOeVVVcHBMRkhNQXJJOTlZdFE2eVZtWDFVVkRRUXJIcVpqdDd1TFYybkJmVHA?oc=5\" target=\"_blank\">八戸市のNTT鉄塔 ドローンで点検調査「異常なし」</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABA青森朝日放送</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE9HcHIwSm9Qa2lWMGpZejFLOEEwdW0zQTdJTjlVeEZNZnpTV1BOeVVVcHBMRkhNQXJJOTlZdFE2eVZtWDFVVkRRUXJIcVpqdDd1TFYybkJmVHA?oc=5\" target=\"_blank\">八戸市のNTT鉄塔 ドローンで点検調査「異常なし」</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABA青森朝日放送</font>",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9HcHIwSm9Qa2lWMGpZejFLOEEwdW0zQTdJTjlVeEZNZnpTV1BOeVVVcHBMRkhNQXJJOTlZdFE2eVZtWDFVVkRRUXJIcVpqdDd1TFYybkJmVHA?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9HcHIwSm9Qa2lWMGpZejFLOEEwdW0zQTdJTjlVeEZNZnpTV1BOeVVVcHBMRkhNQXJJOTlZdFE2eVZtWDFVVkRRUXJIcVpqdDd1TFYybkJmVHA?oc=5",
-      "publishedAt": "2026-04-23T09:45:00.000Z",
-      "source": "ABA青森朝日放送",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP 事業者/実装)",
-      "_scoring": {
-        "score": 67,
-        "categories": [
-          "事故・事件"
-        ],
-        "breakdown": {
-          "required": true,
-          "incident": {
-            "matches": 1,
-            "catScore": 28
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 20,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "Dubai vertiport reaches technical completion ahead of air taxi launch",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxPeE1zQ2txU1ZFLVFBTTc4V1hBbWlaQmkzOWNxcVUzaHIzMXBKSDFFOUdjNGl5VTlKNkFXMXdkSFJva3NqdGdNTEF0Mkx6OWlEWWdpV1BSM3dMT2UyYjFzU2h1UlEwNmd6R3BjaUVzODhHRVBLRi05dHVUYk9UUXJqZjJhenpqZG53dGJ3WThQZjFlWjJsR2dsM3dQVldBbzJKM0R5SGFsTUhJNWhaWUZ0MXZTUEsyQ1k4b09ydFlKWnIxbm5WRE0yZ2JIbFZGOHBLM1RXRUJqT0NiTkQw?oc=5\" target=\"_blank\">Dubai vertiport reaches technical completion ahead of air taxi launch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Passenger Terminal Today</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxPeE1zQ2txU1ZFLVFBTTc4V1hBbWlaQmkzOWNxcVUzaHIzMXBKSDFFOUdjNGl5VTlKNkFXMXdkSFJva3NqdGdNTEF0Mkx6OWlEWWdpV1BSM3dMT2UyYjFzU2h1UlEwNmd6R3BjaUVzODhHRVBLRi05dHVUYk9UUXJqZjJhenpqZG53dGJ3WThQZjFlWjJsR2dsM3dQVldBbzJKM0R5SGFsTUhJNWhaWUZ0MXZTUEsyQ1k4b09ydFlKWnIxbm5WRE0yZ2JIbFZGOHBLM1RXRUJqT0NiTkQw?oc=5\" target=\"_blank\">Dubai vertiport reaches technical completion ahead of air taxi launch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Passenger Terminal Today</font>",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPeE1zQ2txU1ZFLVFBTTc4V1hBbWlaQmkzOWNxcVUzaHIzMXBKSDFFOUdjNGl5VTlKNkFXMXdkSFJva3NqdGdNTEF0Mkx6OWlEWWdpV1BSM3dMT2UyYjFzU2h1UlEwNmd6R3BjaUVzODhHRVBLRi05dHVUYk9UUXJqZjJhenpqZG53dGJ3WThQZjFlWjJsR2dsM3dQVldBbzJKM0R5SGFsTUhJNWhaWUZ0MXZTUEsyQ1k4b09ydFlKWnIxbm5WRE0yZ2JIbFZGOHBLM1RXRUJqT0NiTkQw?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPeE1zQ2txU1ZFLVFBTTc4V1hBbWlaQmkzOWNxcVUzaHIzMXBKSDFFOUdjNGl5VTlKNkFXMXdkSFJva3NqdGdNTEF0Mkx6OWlEWWdpV1BSM3dMT2UyYjFzU2h1UlEwNmd6R3BjaUVzODhHRVBLRi05dHVUYk9UUXJqZjJhenpqZG53dGJ3WThQZjFlWjJsR2dsM3dQVldBbzJKM0R5SGFsTUhJNWhaWUZ0MXZTUEsyQ1k4b09ydFlKWnIxbm5WRE0yZ2JIbFZGOHBLM1RXRUJqT0NiTkQw?oc=5",
-      "publishedAt": "2026-04-20T13:35:02.000Z",
-      "source": "Passenger Terminal Today",
-      "_feedRegion": "global",
-      "_feedName": "Google News (Global)",
-      "_scoring": {
-        "score": 66,
-        "categories": [
-          "技術・製品",
-          "市場・資金",
-          "政策・インフラ"
-        ],
-        "breakdown": {
-          "required": true,
-          "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "market": {
-            "matches": 1,
-            "catScore": 20
-          },
-          "policy": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 2,
-          "titleBonus": 10
-        },
-        "pass": true
-      },
-      "implication": "ドバイのバーティポート技術完成は、JCAB航空法レベル4認可を目指す大阪・関西万博での空飛ぶクルマ実装に向けて、海外先行事例による運用モデルの圧力をSkyDriveなど国内事業者にかける。",
-      "implicationVerified": true
-    },
-    {
       "title": "Prodroneが資金調達、名大連携でドローン開発強化",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE1RTlFGVjNncm9fNHBfa0lSdzRlWS1NaXhnZk1XUVBYeWN4eFdoS3QyTE9rMkROWkFkdHJReFZfN0hwamhaWGtETA?oc=5\" target=\"_blank\">Prodroneが資金調達、名大連携でドローン開発強化</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LOGISTICS TODAY</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE1RTlFGVjNncm9fNHBfa0lSdzRlWS1NaXhnZk1XUVBYeWN4eFdoS3QyTE9rMkROWkFkdHJReFZfN0hwamhaWGtETA?oc=5\" target=\"_blank\">Prodroneが資金調達、名大連携でドローン開発強化</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LOGISTICS TODAY</font>",
@@ -1128,6 +1081,42 @@
       },
       "implication": "Prodroneが名古屋大学との連携で産業用ドローン開発を強化することは、JCAB審査対象の大型自動操縦機体の型式認証取得競争を加速させ、テラドローンやACSLといった既認証事業者との機能差別化圧力を高める。",
       "implicationVerified": true
+    },
+    {
+      "title": "Reuben Brothers Unveil Joby Vertiport at Century Plaza",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQVnM2RGNQWmpReVZnQjBvV0otOW5XTlUwSENEdy1tclJSMXZDWDdfWklFZ0hSRzZhU0p1ZFp1Si0yaTdOR1BscXJJbW1Ec3ctaXZxUWNXU0tXMDM5amF0UE5qY0RMNkVxWlhwalFMUzFDRXNkMWpuT0d3U2czVzU1enVFVkJCbXZsdXlDMEhqeDRGQQ?oc=5\" target=\"_blank\">Reuben Brothers Unveil Joby Vertiport at Century Plaza</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Joby Aviation</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQVnM2RGNQWmpReVZnQjBvV0otOW5XTlUwSENEdy1tclJSMXZDWDdfWklFZ0hSRzZhU0p1ZFp1Si0yaTdOR1BscXJJbW1Ec3ctaXZxUWNXU0tXMDM5amF0UE5qY0RMNkVxWlhwalFMUzFDRXNkMWpuT0d3U2czVzU1enVFVkJCbXZsdXlDMEhqeDRGQQ?oc=5\" target=\"_blank\">Reuben Brothers Unveil Joby Vertiport at Century Plaza</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Joby Aviation</font>",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVnM2RGNQWmpReVZnQjBvV0otOW5XTlUwSENEdy1tclJSMXZDWDdfWklFZ0hSRzZhU0p1ZFp1Si0yaTdOR1BscXJJbW1Ec3ctaXZxUWNXU0tXMDM5amF0UE5qY0RMNkVxWlhwalFMUzFDRXNkMWpuT0d3U2czVzU1enVFVkJCbXZsdXlDMEhqeDRGQQ?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVnM2RGNQWmpReVZnQjBvV0otOW5XTlUwSENEdy1tclJSMXZDWDdfWklFZ0hSRzZhU0p1ZFp1Si0yaTdOR1BscXJJbW1Ec3ctaXZxUWNXU0tXMDM5amF0UE5qY0RMNkVxWlhwalFMUzFDRXNkMWpuT0d3U2czVzU1enVFVkJCbXZsdXlDMEhqeDRGQQ?oc=5",
+      "publishedAt": "2026-04-23T14:12:36.000Z",
+      "source": "Joby Aviation",
+      "_feedRegion": "global",
+      "_feedName": "Google News (Global)",
+      "_scoring": {
+        "score": 65,
+        "categories": [
+          "市場・資金",
+          "政策・インフラ"
+        ],
+        "breakdown": {
+          "required": true,
+          "market": {
+            "matches": 1,
+            "catScore": 20
+          },
+          "policy": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 20,
+          "titleBonus": 10
+        },
+        "pass": true
+      }
     },
     {
       "title": "イームズロボティクス×Skyports、ドローンエアライン事業で戦略提携—日本発のAPAC物流インフラ構築へ",
