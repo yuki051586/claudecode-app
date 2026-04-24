@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-24T18:06:24.654Z",
-  "rawCount": 714,
+  "generatedAt": "2026-04-24T21:35:48.931Z",
+  "rawCount": 750,
   "articles": [
     {
       "title": "FAA Confirms Temporary Airspace Closure Over El Paso, Texas Due to Deployment of Advanced Laser Technology, as U.S. and Mexico Strengthen Joint Counter-Drone Defense Systems to Safeguard National Airspace from Rising UAV Threats",
@@ -132,6 +132,49 @@
         "pass": true
       },
       "implication": "ペンタゴンとFAAが対ドローンレーザーの安全協定を締結した動きは、JCABが進める航空法レベル4の有人地帯目視外飛行実装時に、低高度空域での干渉リスク管理の制度設計を急速に具体化させる圧力となり、大阪・関西万博などの大規模イベント警備で米…",
+      "implicationVerified": true
+    },
+    {
+      "title": "FAA launches DETER programme to speed up enforcement of drone rules",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQMXduZFloVVR2eDl6c3VhcE1fMGJoZWc1MTlqOWVvY3VpSmQwSnZhVXVvREdGX25FeVFHUXFLRTJtUk54RWM3VWl2UGpUdmktU1hpd013RTJCSTB2a2tMOHhBWXV1OS1ON3dNNDc1Q05zN2JLWG1ZRFJHNURyQWgtZzkwRUlnZDBPeWZ4LUNOT3dLTVQwVjcxekRhUVVrSEZJa2x1N0laNmVoejUzbjNrQ0V2Ri02aVE?oc=5\" target=\"_blank\">FAA launches DETER programme to speed up enforcement of drone rules</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQMXduZFloVVR2eDl6c3VhcE1fMGJoZWc1MTlqOWVvY3VpSmQwSnZhVXVvREdGX25FeVFHUXFLRTJtUk54RWM3VWl2UGpUdmktU1hpd013RTJCSTB2a2tMOHhBWXV1OS1ON3dNNDc1Q05zN2JLWG1ZRFJHNURyQWgtZzkwRUlnZDBPeWZ4LUNOT3dLTVQwVjcxekRhUVVrSEZJa2x1N0laNmVoejUzbjNrQ0V2Ri02aVE?oc=5\" target=\"_blank\">FAA launches DETER programme to speed up enforcement of drone rules</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMXduZFloVVR2eDl6c3VhcE1fMGJoZWc1MTlqOWVvY3VpSmQwSnZhVXVvREdGX25FeVFHUXFLRTJtUk54RWM3VWl2UGpUdmktU1hpd013RTJCSTB2a2tMOHhBWXV1OS1ON3dNNDc1Q05zN2JLWG1ZRFJHNURyQWgtZzkwRUlnZDBPeWZ4LUNOT3dLTVQwVjcxekRhUVVrSEZJa2x1N0laNmVoejUzbjNrQ0V2Ri02aVE?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMXduZFloVVR2eDl6c3VhcE1fMGJoZWc1MTlqOWVvY3VpSmQwSnZhVXVvREdGX25FeVFHUXFLRTJtUk54RWM3VWl2UGpUdmktU1hpd013RTJCSTB2a2tMOHhBWXV1OS1ON3dNNDc1Q05zN2JLWG1ZRFJHNURyQWgtZzkwRUlnZDBPeWZ4LUNOT3dLTVQwVjcxekRhUVVrSEZJa2x1N0laNmVoejUzbjNrQ0V2Ri02aVE?oc=5",
+      "publishedAt": "2026-04-16T18:37:27.000Z",
+      "source": "Unmanned airspace",
+      "_feedRegion": "us",
+      "_feedName": "FAA",
+      "_scoring": {
+        "score": 77,
+        "categories": [
+          "規制・政策",
+          "技術・製品",
+          "市場・資金"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 2,
+            "catScore": 40
+          },
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "market": {
+            "matches": 1,
+            "catScore": 20
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 0,
+          "titleBonus": 10
+        },
+        "pass": true
+      },
+      "implication": "FAA のDETER プログラムによる無人航空機ルール違反の迅速な取り締まり強化は、JCAB が航空法レベル4の本格運用開始に向けて違反事案への対応体制を整備する際の行政モデルとなり、国内ドローン事業者への規制遵守インセンティブ強化を促す。",
       "implicationVerified": true
     },
     {
@@ -419,7 +462,9 @@
           "titleBonus": 10
         },
         "pass": true
-      }
+      },
+      "implication": "FAA が反ドローンレーザーの安全性を確認したことは、JCAB が航空法レベル4の実装に向けた安全基準策定時に、米国の先行事例を参考にする余地を示唆する。",
+      "implicationVerified": true
     },
     {
       "title": "FAA Confirms Safety of Anti-Drone Lasers Amid Texas Airspace Closures",
@@ -457,42 +502,6 @@
             "multiplier": 0.8
           },
           "freshness": 0,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "DRONERESPONDERS Celebrates National Drone Safety Day, Recognizes UAS Work by FAA to Support America’s First",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxOOTc2REVmN0VnZTJiT29GZk5GYXdoRGhmS1Nhb0RpS0ZKR1RxRGNmZlBrSVlpZG11UmROcm1pclhhUGFNTGZXLW5tS0RweTRldW1jWDhhM3gzdGpobERsSl9xZjVETHFzV01Ec3hiel9IcHFJQWdNcXNXbWN6MU5fbUlMaHduX0JGRW1hNlJva1dWZHpoWnZYMHJMX1ZmYlpFMFU4R01fMzJhZ3Z0U3VBN00xQkRiODVjdTM3cnMyUTZTQ3E2V0k3MTQwUVB4RlJ4TDEtb1ZQOHo4VkNvdEV5b3dSM0d1Zk5ScTlpTzduc0pXUXhjekHSAfYBQVVfeXFMTjk3NkRFZjdFZ2UyYk9vRmZORmF3aERoZktTYW9EaUtGSkdUcURjZmZQa0lZaWRtdVJkTnJtaXJYYVBhTUxmVy1ubUtEcHk0ZXVtY1g4YTN4M3RqaGxEbEpfcWY1RExxc1dNRHN4YnpfSHBxSUFnTXFzV21jejFOX21JTGh3bl9CRkVtYTZSb2tXVmR6aFp2WDByTF9WZmJaRTBVOEdNXzMyYWd2dFN1QTdNMUJEYjg1Y3UzN3JzMlE2U0NxNldJNzE0MFFQeEZSeEwxLW9WUDh6OFZDb3RFeW93UjNHdWZOUnE5aU83bnNKV1F4Y3pB?oc=5\" target=\"_blank\">DRONERESPONDERS Celebrates National Drone Safety Day, Recognizes UAS Work by FAA to Support America’s First</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">EIN News</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxOOTc2REVmN0VnZTJiT29GZk5GYXdoRGhmS1Nhb0RpS0ZKR1RxRGNmZlBrSVlpZG11UmROcm1pclhhUGFNTGZXLW5tS0RweTRldW1jWDhhM3gzdGpobERsSl9xZjVETHFzV01Ec3hiel9IcHFJQWdNcXNXbWN6MU5fbUlMaHduX0JGRW1hNlJva1dWZHpoWnZYMHJMX1ZmYlpFMFU4R01fMzJhZ3Z0U3VBN00xQkRiODVjdTM3cnMyUTZTQ3E2V0k3MTQwUVB4RlJ4TDEtb1ZQOHo4VkNvdEV5b3dSM0d1Zk5ScTlpTzduc0pXUXhjekHSAfYBQVVfeXFMTjk3NkRFZjdFZ2UyYk9vRmZORmF3aERoZktTYW9EaUtGSkdUcURjZmZQa0lZaWRtdVJkTnJtaXJYYVBhTUxmVy1ubUtEcHk0ZXVtY1g4YTN4M3RqaGxEbEpfcWY1RExxc1dNRHN4YnpfSHBxSUFnTXFzV21jejFOX21JTGh3bl9CRkVtYTZSb2tXVmR6aFp2WDByTF9WZmJaRTBVOEdNXzMyYWd2dFN1QTdNMUJEYjg1Y3UzN3JzMlE2U0NxNldJNzE0MFFQeEZSeEwxLW9WUDh6OFZDb3RFeW93UjNHdWZOUnE5aU83bnNKV1F4Y3pB?oc=5\" target=\"_blank\">DRONERESPONDERS Celebrates National Drone Safety Day, Recognizes UAS Work by FAA to Support America’s First</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">EIN News</font>",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOOTc2REVmN0VnZTJiT29GZk5GYXdoRGhmS1Nhb0RpS0ZKR1RxRGNmZlBrSVlpZG11UmROcm1pclhhUGFNTGZXLW5tS0RweTRldW1jWDhhM3gzdGpobERsSl9xZjVETHFzV01Ec3hiel9IcHFJQWdNcXNXbWN6MU5fbUlMaHduX0JGRW1hNlJva1dWZHpoWnZYMHJMX1ZmYlpFMFU4R01fMzJhZ3Z0U3VBN00xQkRiODVjdTM3cnMyUTZTQ3E2V0k3MTQwUVB4RlJ4TDEtb1ZQOHo4VkNvdEV5b3dSM0d1Zk5ScTlpTzduc0pXUXhjekHSAfYBQVVfeXFMTjk3NkRFZjdFZ2UyYk9vRmZORmF3aERoZktTYW9EaUtGSkdUcURjZmZQa0lZaWRtdVJkTnJtaXJYYVBhTUxmVy1ubUtEcHk0ZXVtY1g4YTN4M3RqaGxEbEpfcWY1RExxc1dNRHN4YnpfSHBxSUFnTXFzV21jejFOX21JTGh3bl9CRkVtYTZSb2tXVmR6aFp2WDByTF9WZmJaRTBVOEdNXzMyYWd2dFN1QTdNMUJEYjg1Y3UzN3JzMlE2U0NxNldJNzE0MFFQeEZSeEwxLW9WUDh6OFZDb3RFeW93UjNHdWZOUnE5aU83bnNKV1F4Y3pB?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOOTc2REVmN0VnZTJiT29GZk5GYXdoRGhmS1Nhb0RpS0ZKR1RxRGNmZlBrSVlpZG11UmROcm1pclhhUGFNTGZXLW5tS0RweTRldW1jWDhhM3gzdGpobERsSl9xZjVETHFzV01Ec3hiel9IcHFJQWdNcXNXbWN6MU5fbUlMaHduX0JGRW1hNlJva1dWZHpoWnZYMHJMX1ZmYlpFMFU4R01fMzJhZ3Z0U3VBN00xQkRiODVjdTM3cnMyUTZTQ3E2V0k3MTQwUVB4RlJ4TDEtb1ZQOHo4VkNvdEV5b3dSM0d1Zk5ScTlpTzduc0pXUXhjekHSAfYBQVVfeXFMTjk3NkRFZjdFZ2UyYk9vRmZORmF3aERoZktTYW9EaUtGSkdUcURjZmZQa0lZaWRtdVJkTnJtaXJYYVBhTUxmVy1ubUtEcHk0ZXVtY1g4YTN4M3RqaGxEbEpfcWY1RExxc1dNRHN4YnpfSHBxSUFnTXFzV21jejFOX21JTGh3bl9CRkVtYTZSb2tXVmR6aFp2WDByTF9WZmJaRTBVOEdNXzMyYWd2dFN1QTdNMUJEYjg1Y3UzN3JzMlE2U0NxNldJNzE0MFFQeEZSeEwxLW9WUDh6OFZDb3RFeW93UjNHdWZOUnE5aU83bnNKV1F4Y3pB?oc=5",
-      "publishedAt": "2026-04-24T06:53:10.000Z",
-      "source": "EIN News",
-      "_feedRegion": "us",
-      "_feedName": "FAA",
-      "_scoring": {
-        "score": 73,
-        "categories": [
-          "規制・政策",
-          "事故・事件"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 1,
-            "catScore": 32
-          },
-          "incident": {
-            "matches": 1,
-            "catScore": 28
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 15,
           "titleBonus": 10
         },
         "pass": true
@@ -745,45 +754,6 @@
       }
     },
     {
-      "title": "イームズロボティクスと英Skyportsが提携、ドローンエアライン事業展開へ",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE5tV2tEcHVJOFVZajE2WWJvb2cxVkt1Q0N1aHhtQVJCN3JlVmk0WXVlZHJtNFdIQzNPNENsUGJrSVJZZm90N3JKYTdXNnpDMk9SWVAtUW40QkJEVng0S1lyWG5IQW1CaG5UMmc?oc=5\" target=\"_blank\">イームズロボティクスと英Skyportsが提携、ドローンエアライン事業展開へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ドローンジャーナル</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE5tV2tEcHVJOFVZajE2WWJvb2cxVkt1Q0N1aHhtQVJCN3JlVmk0WXVlZHJtNFdIQzNPNENsUGJrSVJZZm90N3JKYTdXNnpDMk9SWVAtUW40QkJEVng0S1lyWG5IQW1CaG5UMmc?oc=5\" target=\"_blank\">イームズロボティクスと英Skyportsが提携、ドローンエアライン事業展開へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ドローンジャーナル</font>",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5tV2tEcHVJOFVZajE2WWJvb2cxVkt1Q0N1aHhtQVJCN3JlVmk0WXVlZHJtNFdIQzNPNENsUGJrSVJZZm90N3JKYTdXNnpDMk9SWVAtUW40QkJEVng0S1lyWG5IQW1CaG5UMmc?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5tV2tEcHVJOFVZajE2WWJvb2cxVkt1Q0N1aHhtQVJCN3JlVmk0WXVlZHJtNFdIQzNPNENsUGJrSVJZZm90N3JKYTdXNnpDMk9SWVAtUW40QkJEVng0S1lyWG5IQW1CaG5UMmc?oc=5",
-      "publishedAt": "2026-04-23T21:35:00.000Z",
-      "source": "ドローンジャーナル",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP 政策/実証)",
-      "_scoring": {
-        "score": 70,
-        "categories": [
-          "市場・資金",
-          "政策・インフラ"
-        ],
-        "breakdown": {
-          "required": true,
-          "market": {
-            "matches": 1,
-            "catScore": 20
-          },
-          "policy": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 10,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      },
-      "implication": "イームズロボティクスと英Skyportsの提携によるドローンエアライン事業は、JCABが航空法レベル4の運用基準策定を急ぐ必要性を浮き彫りにし、大阪・関西万博での有人地帯目視外飛行実証を控える国内事業者への国際競争圧力となる。",
-      "implicationVerified": true
-    },
-    {
       "title": "クウェートの空港を狙ったドローン攻撃、燃料タンクが炎上：航空局",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE1ZSXlWNzRnOUdFeGhGRUZGVGtOd09RbGxJZ2czY054T2Z0TEtwQl8xdWtrVmN5TnB5cGxHcy0zbkJLbU1hdnppSmU1d0RMRDFGcGxaSkN0bTR2NTRlSFFyNGxMeWlPNXVodE9J?oc=5\" target=\"_blank\">クウェートの空港を狙ったドローン攻撃、燃料タンクが炎上：航空局</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">arabnews.jp</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE1ZSXlWNzRnOUdFeGhGRUZGVGtOd09RbGxJZ2czY054T2Z0TEtwQl8xdWtrVmN5TnB5cGxHcy0zbkJLbU1hdnppSmU1d0RMRDFGcGxaSkN0bTR2NTRlSFFyNGxMeWlPNXVodE9J?oc=5\" target=\"_blank\">クウェートの空港を狙ったドローン攻撃、燃料タンクが炎上：航空局</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">arabnews.jp</font>",
@@ -818,7 +788,9 @@
           "jpRegionBonus": 15
         },
         "pass": true
-      }
+      },
+      "implication": "クウェート空港への無人機攻撃による燃料施設被害は、JCABの航空法レベル4実装時における空港周辺の検査・運用制限基準を厳格化する圧力となり、大阪・関西万博など重要インフラ周辺でのドローン運用許可審査の強化につながる。",
+      "implicationVerified": true
     },
     {
       "title": "国土交通省「下水道応用研究」に採択 旭テクノロジー、ドローン×LiDARで下水道点検のDXを推進",
@@ -1167,6 +1139,45 @@
         },
         "pass": true
       }
+    },
+    {
+      "title": "イームズロボティクスと英Skyportsが提携、ドローンエアライン事業展開へ",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE5tV2tEcHVJOFVZajE2WWJvb2cxVkt1Q0N1aHhtQVJCN3JlVmk0WXVlZHJtNFdIQzNPNENsUGJrSVJZZm90N3JKYTdXNnpDMk9SWVAtUW40QkJEVng0S1lyWG5IQW1CaG5UMmc?oc=5\" target=\"_blank\">イームズロボティクスと英Skyportsが提携、ドローンエアライン事業展開へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ドローンジャーナル</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE5tV2tEcHVJOFVZajE2WWJvb2cxVkt1Q0N1aHhtQVJCN3JlVmk0WXVlZHJtNFdIQzNPNENsUGJrSVJZZm90N3JKYTdXNnpDMk9SWVAtUW40QkJEVng0S1lyWG5IQW1CaG5UMmc?oc=5\" target=\"_blank\">イームズロボティクスと英Skyportsが提携、ドローンエアライン事業展開へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ドローンジャーナル</font>",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5tV2tEcHVJOFVZajE2WWJvb2cxVkt1Q0N1aHhtQVJCN3JlVmk0WXVlZHJtNFdIQzNPNENsUGJrSVJZZm90N3JKYTdXNnpDMk9SWVAtUW40QkJEVng0S1lyWG5IQW1CaG5UMmc?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5tV2tEcHVJOFVZajE2WWJvb2cxVkt1Q0N1aHhtQVJCN3JlVmk0WXVlZHJtNFdIQzNPNENsUGJrSVJZZm90N3JKYTdXNnpDMk9SWVAtUW40QkJEVng0S1lyWG5IQW1CaG5UMmc?oc=5",
+      "publishedAt": "2026-04-23T21:35:00.000Z",
+      "source": "ドローンジャーナル",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP 政策/実証)",
+      "_scoring": {
+        "score": 65,
+        "categories": [
+          "市場・資金",
+          "政策・インフラ"
+        ],
+        "breakdown": {
+          "required": true,
+          "market": {
+            "matches": 1,
+            "catScore": 20
+          },
+          "policy": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 5,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      },
+      "implication": "イームズロボティクスと英Skyportsの提携によるドローンエアライン事業は、JCABが航空法レベル4の運用基準策定を急ぐ必要性を浮き彫りにし、大阪・関西万博での有人地帯目視外飛行実証を控える国内事業者への国際競争圧力となる。",
+      "implicationVerified": true
     },
     {
       "title": "イームズロボティクス×Skyports、ドローンエアライン事業で戦略提携—日本発のAPAC物流インフラ構築へ",
