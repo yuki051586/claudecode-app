@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-24T10:57:06.560Z",
-  "rawCount": 753,
+  "generatedAt": "2026-04-24T15:50:38.834Z",
+  "rawCount": 749,
   "articles": [
     {
       "title": "FAA Confirms Temporary Airspace Closure Over El Paso, Texas Due to Deployment of Advanced Laser Technology, as U.S. and Mexico Strengthen Joint Counter-Drone Defense Systems to Safeguard National Airspace from Rising UAV Threats",
@@ -59,7 +59,7 @@
       "_feedRegion": "global",
       "_feedName": "Google News (Global)",
       "_scoring": {
-        "score": 86,
+        "score": 81,
         "categories": [
           "規制・政策",
           "市場・資金",
@@ -83,11 +83,13 @@
             "domain": "news.google.com",
             "multiplier": 0.8
           },
-          "freshness": 15,
+          "freshness": 10,
           "titleBonus": 10
         },
         "pass": true
-      }
+      },
+      "implication": "Jobyが米国の住宅地隣接型ヘリポート(Century Plaza Vertiport)の実現に向け投資家に具体的ビジョンを示したことは、JCAB(国土交通省航空局)が検討中の航空法レベル4の有人地帯目視外飛行認可基準に対して、都市型eV…",
+      "implicationVerified": true
     },
     {
       "title": "Pentagon, FAA sign safety agreement over counter-drone laser",
@@ -184,7 +186,7 @@
       "publishedAt": "2026-04-23T02:18:58.000Z",
       "source": "ドローンジャーナル",
       "_feedRegion": "jp",
-      "_feedName": "Google News (JP)",
+      "_feedName": "Google News (JP 政策/実証)",
       "_scoring": {
         "score": 75,
         "categories": [
@@ -777,7 +779,9 @@
           "jpRegionBonus": 15
         },
         "pass": true
-      }
+      },
+      "implication": "イームズロボティクスと英Skyportsの提携によるドローンエアライン事業は、JCABが航空法レベル4の運用基準策定を急ぐ必要性を浮き彫りにし、大阪・関西万博での有人地帯目視外飛行実証を控える国内事業者への国際競争圧力となる。",
+      "implicationVerified": true
     },
     {
       "title": "クウェートの空港を狙ったドローン攻撃、燃料タンクが炎上：航空局",
@@ -889,84 +893,6 @@
         },
         "pass": true
       }
-    },
-    {
-      "title": "DJIの新カメラドローンシリーズ「Lito」 10bit D-Log M記録や前向きLiDARなど搭載",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE96OUN3ZWswVS0wdUhWWU9ScGRDM3NDSDBraGhwOEp5V2FjbkFJNm51ZEFNLS1McVh2eEY1bjdFS0pIZE9VSnItOWxJVFRybWV3U3o3TzdXc1NDOG1NbXZCb2tFYw?oc=5\" target=\"_blank\">DJIの新カメラドローンシリーズ「Lito」 10bit D-Log M記録や前向きLiDARなど搭載</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">デジカメ Watch</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE96OUN3ZWswVS0wdUhWWU9ScGRDM3NDSDBraGhwOEp5V2FjbkFJNm51ZEFNLS1McVh2eEY1bjdFS0pIZE9VSnItOWxJVFRybWV3U3o3TzdXc1NDOG1NbXZCb2tFYw?oc=5\" target=\"_blank\">DJIの新カメラドローンシリーズ「Lito」 10bit D-Log M記録や前向きLiDARなど搭載</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">デジカメ Watch</font>",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE96OUN3ZWswVS0wdUhWWU9ScGRDM3NDSDBraGhwOEp5V2FjbkFJNm51ZEFNLS1McVh2eEY1bjdFS0pIZE9VSnItOWxJVFRybWV3U3o3TzdXc1NDOG1NbXZCb2tFYw?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE96OUN3ZWswVS0wdUhWWU9ScGRDM3NDSDBraGhwOEp5V2FjbkFJNm51ZEFNLS1McVh2eEY1bjdFS0pIZE9VSnItOWxJVFRybWV3U3o3TzdXc1NDOG1NbXZCb2tFYw?oc=5",
-      "publishedAt": "2026-04-23T12:00:00.000Z",
-      "source": "デジカメ Watch",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP 経済メディア)",
-      "_scoring": {
-        "score": 70,
-        "categories": [
-          "技術・製品",
-          "市場・資金"
-        ],
-        "breakdown": {
-          "required": true,
-          "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "market": {
-            "matches": 1,
-            "catScore": 20
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 10,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      },
-      "implication": "DJIの新型ドローン「Lito」シリーズが10bit D-Log M記録と前向きLiDARを搭載することで、国土交通省航空局による機体認証の対象機が高機能化し、JCABの安全基準審査項目の拡張を促す可能性がある。",
-      "implicationVerified": true
-    },
-    {
-      "title": "DJI、初心者向け新ドローン「Lito」シリーズ発表 全方向障害物検知やLiDAR搭載で安全性を強化 4万7520円から - ITmedia PC USER",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE9WZmVWakdScEgyZWtvZk9yYmZ3dVFDWmpPVEVIOEV2QnVBT3hIXzhqWHcwTlpfMTdDTjR3UnFVVFg5RTFrTlRyZDJFWTk2c0xXa3NYcGU2Sm1QQVNsck1NVW5oYlR3TExtSUo0Ykt1MNIBaEFVX3lxTE1kdGJIelllcldfX3pVUnhNTUJISUxGM3JVNDJRdi11eHl0LUU0b1RTbE1iMjVrRktZeEZVWDRnR2M2Mm8yV3JUbExfWXhSX0NUVjlCcEE5SGNiamRyYktjSGlOOHNXdnRr?oc=5\" target=\"_blank\">DJI、初心者向け新ドローン「Lito」シリーズ発表 全方向障害物検知やLiDAR搭載で安全性を強化 4万7520円から - ITmedia PC USER</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ITmedia</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE9WZmVWakdScEgyZWtvZk9yYmZ3dVFDWmpPVEVIOEV2QnVBT3hIXzhqWHcwTlpfMTdDTjR3UnFVVFg5RTFrTlRyZDJFWTk2c0xXa3NYcGU2Sm1QQVNsck1NVW5oYlR3TExtSUo0Ykt1MNIBaEFVX3lxTE1kdGJIelllcldfX3pVUnhNTUJISUxGM3JVNDJRdi11eHl0LUU0b1RTbE1iMjVrRktZeEZVWDRnR2M2Mm8yV3JUbExfWXhSX0NUVjlCcEE5SGNiamRyYktjSGlOOHNXdnRr?oc=5\" target=\"_blank\">DJI、初心者向け新ドローン「Lito」シリーズ発表 全方向障害物検知やLiDAR搭載で安全性を強化 4万7520円から - ITmedia PC USER</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ITmedia</font>",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9WZmVWakdScEgyZWtvZk9yYmZ3dVFDWmpPVEVIOEV2QnVBT3hIXzhqWHcwTlpfMTdDTjR3UnFVVFg5RTFrTlRyZDJFWTk2c0xXa3NYcGU2Sm1QQVNsck1NVW5oYlR3TExtSUo0Ykt1MNIBaEFVX3lxTE1kdGJIelllcldfX3pVUnhNTUJISUxGM3JVNDJRdi11eHl0LUU0b1RTbE1iMjVrRktZeEZVWDRnR2M2Mm8yV3JUbExfWXhSX0NUVjlCcEE5SGNiamRyYktjSGlOOHNXdnRr?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9WZmVWakdScEgyZWtvZk9yYmZ3dVFDWmpPVEVIOEV2QnVBT3hIXzhqWHcwTlpfMTdDTjR3UnFVVFg5RTFrTlRyZDJFWTk2c0xXa3NYcGU2Sm1QQVNsck1NVW5oYlR3TExtSUo0Ykt1MNIBaEFVX3lxTE1kdGJIelllcldfX3pVUnhNTUJISUxGM3JVNDJRdi11eHl0LUU0b1RTbE1iMjVrRktZeEZVWDRnR2M2Mm8yV3JUbExfWXhSX0NUVjlCcEE5SGNiamRyYktjSGlOOHNXdnRr?oc=5",
-      "publishedAt": "2026-04-23T12:00:00.000Z",
-      "source": "ITmedia",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP 経済メディア)",
-      "_scoring": {
-        "score": 70,
-        "categories": [
-          "技術・製品",
-          "市場・資金"
-        ],
-        "breakdown": {
-          "required": true,
-          "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "market": {
-            "matches": 1,
-            "catScore": 20
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 10,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      },
-      "implication": "DJIの「Lito」シリーズが全方向障害物検知とLiDAR搭載で4万7520円という低価格帯で安全性を強化することは、JCAB航空法レベル4申請時に求められる機体安全性の基準値上昇圧力となり、SkyDriveやACSLといった国内ドローン…",
-      "implicationVerified": true
     },
     {
       "title": "国土交通省「下水道応用研究」に採択 旭テクノロジー、ドローン×LiDARで下水道点検のDXを推進［旭テクノロジー］",
@@ -1202,6 +1128,82 @@
         },
         "pass": true
       }
+    },
+    {
+      "title": "レベル3.5飛行の安全対策、B&PLUSがAIによるドローン自動停止技術を開発",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFBSemFweDd6NmJZTFFkSGM1SUhZa2xTTXoyWUxCQ19JdjlNSmRDODI3aDNnSXFpVVpBNUNDNjZJOXVia0lVZGZTM1ZaVHVrdGV1VjlWM0p5V0xYSkYzRktYaExBSHB0YVFvM0E?oc=5\" target=\"_blank\">レベル3.5飛行の安全対策、B&PLUSがAIによるドローン自動停止技術を開発</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ドローンジャーナル</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFBSemFweDd6NmJZTFFkSGM1SUhZa2xTTXoyWUxCQ19JdjlNSmRDODI3aDNnSXFpVVpBNUNDNjZJOXVia0lVZGZTM1ZaVHVrdGV1VjlWM0p5V0xYSkYzRktYaExBSHB0YVFvM0E?oc=5\" target=\"_blank\">レベル3.5飛行の安全対策、B&PLUSがAIによるドローン自動停止技術を開発</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ドローンジャーナル</font>",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBSemFweDd6NmJZTFFkSGM1SUhZa2xTTXoyWUxCQ19JdjlNSmRDODI3aDNnSXFpVVpBNUNDNjZJOXVia0lVZGZTM1ZaVHVrdGV1VjlWM0p5V0xYSkYzRktYaExBSHB0YVFvM0E?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBSemFweDd6NmJZTFFkSGM1SUhZa2xTTXoyWUxCQ19JdjlNSmRDODI3aDNnSXFpVVpBNUNDNjZJOXVia0lVZGZTM1ZaVHVrdGV1VjlWM0p5V0xYSkYzRktYaExBSHB0YVFvM0E?oc=5",
+      "publishedAt": "2026-04-22T07:54:55.000Z",
+      "source": "ドローンジャーナル",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP)",
+      "_scoring": {
+        "score": 65,
+        "categories": [
+          "技術・製品",
+          "政策・インフラ"
+        ],
+        "breakdown": {
+          "required": true,
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "policy": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 2,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "DJIの新カメラドローンシリーズ「Lito」 10bit D-Log M記録や前向きLiDARなど搭載",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE96OUN3ZWswVS0wdUhWWU9ScGRDM3NDSDBraGhwOEp5V2FjbkFJNm51ZEFNLS1McVh2eEY1bjdFS0pIZE9VSnItOWxJVFRybWV3U3o3TzdXc1NDOG1NbXZCb2tFYw?oc=5\" target=\"_blank\">DJIの新カメラドローンシリーズ「Lito」 10bit D-Log M記録や前向きLiDARなど搭載</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">デジカメ Watch</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE96OUN3ZWswVS0wdUhWWU9ScGRDM3NDSDBraGhwOEp5V2FjbkFJNm51ZEFNLS1McVh2eEY1bjdFS0pIZE9VSnItOWxJVFRybWV3U3o3TzdXc1NDOG1NbXZCb2tFYw?oc=5\" target=\"_blank\">DJIの新カメラドローンシリーズ「Lito」 10bit D-Log M記録や前向きLiDARなど搭載</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">デジカメ Watch</font>",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE96OUN3ZWswVS0wdUhWWU9ScGRDM3NDSDBraGhwOEp5V2FjbkFJNm51ZEFNLS1McVh2eEY1bjdFS0pIZE9VSnItOWxJVFRybWV3U3o3TzdXc1NDOG1NbXZCb2tFYw?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE96OUN3ZWswVS0wdUhWWU9ScGRDM3NDSDBraGhwOEp5V2FjbkFJNm51ZEFNLS1McVh2eEY1bjdFS0pIZE9VSnItOWxJVFRybWV3U3o3TzdXc1NDOG1NbXZCb2tFYw?oc=5",
+      "publishedAt": "2026-04-23T12:00:00.000Z",
+      "source": "デジカメ Watch",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP)",
+      "_scoring": {
+        "score": 65,
+        "categories": [
+          "技術・製品",
+          "市場・資金"
+        ],
+        "breakdown": {
+          "required": true,
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "market": {
+            "matches": 1,
+            "catScore": 20
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 5,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      },
+      "implication": "DJIの新型ドローン「Lito」シリーズが10bit D-Log M記録と前向きLiDARを搭載することで、国土交通省航空局による機体認証の対象機が高機能化し、JCABの安全基準審査項目の拡張を促す可能性がある。",
+      "implicationVerified": true
     }
   ],
   "errors": []
