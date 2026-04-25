@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-25T21:56:02.159Z",
-  "rawCount": 717,
+  "generatedAt": "2026-04-25T23:59:24.548Z",
+  "rawCount": 750,
   "articles": [
     {
       "title": "FAA Confirms Temporary Airspace Closure Over El Paso, Texas Due to Deployment of Advanced Laser Technology, as U.S. and Mexico Strengthen Joint Counter-Drone Defense Systems to Safeguard National Airspace from Rising UAV Threats",
@@ -263,7 +263,7 @@
       "publishedAt": "2026-04-23T02:18:58.000Z",
       "source": "ドローンジャーナル",
       "_feedRegion": "jp",
-      "_feedName": "Google News (JP 政策/実証)",
+      "_feedName": "Google News (JP)",
       "_scoring": {
         "score": 72,
         "categories": [
@@ -776,6 +776,38 @@
       "implicationVerified": true
     },
     {
+      "title": "「空飛ぶクルマ」開発の一翼担う…SCSK、車載システム開発の技術と知見生かす",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiQkFVX3lxTE5jamRCQmJJbE5iaFVCWkhISmNJd0NyenJYeHBqelpoNU01b1E1NE9oQXFiT0s1YXVpbW1kaWJ1TDl3QQ?oc=5\" target=\"_blank\">「空飛ぶクルマ」開発の一翼担う…SCSK、車載システム開発の技術と知見生かす</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ニュースイッチ by 日刊工業新聞社</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiQkFVX3lxTE5jamRCQmJJbE5iaFVCWkhISmNJd0NyenJYeHBqelpoNU01b1E1NE9oQXFiT0s1YXVpbW1kaWJ1TDl3QQ?oc=5\" target=\"_blank\">「空飛ぶクルマ」開発の一翼担う…SCSK、車載システム開発の技術と知見生かす</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ニュースイッチ by 日刊工業新聞社</font>",
+      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5jamRCQmJJbE5iaFVCWkhISmNJd0NyenJYeHBqelpoNU01b1E1NE9oQXFiT0s1YXVpbW1kaWJ1TDl3QQ?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5jamRCQmJJbE5iaFVCWkhISmNJd0NyenJYeHBqelpoNU01b1E1NE9oQXFiT0s1YXVpbW1kaWJ1TDl3QQ?oc=5",
+      "publishedAt": "2026-04-25T21:02:15.000Z",
+      "source": "ニュースイッチ by 日刊工業新聞社",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP)",
+      "_scoring": {
+        "score": 64,
+        "categories": [
+          "技術・製品"
+        ],
+        "breakdown": {
+          "required": true,
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 20,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
       "title": "テラドローン－買い気配 迎撃ドローン開発のウクライナ企業と資本業務提携(トレーダーズ・ウェブ)",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxONlNyUEFNdGxGZHJjQzlqM2lKRFB1Q0xSQzA5eWUzSlAzYl9JbDdZOGpLdTZvZ0M1cUNEc3NuX2MxRC03S2p0SmFuVFNlWXV2NDQwYlhzMW03dlRFSm5FUF9sYnFEOVZ5a1E3dWhlQjZJNEhOZmNnd1MzMmNMeWNkb29hMW11aDA?oc=5\" target=\"_blank\">テラドローン－買い気配 迎撃ドローン開発のウクライナ企業と資本業務提携(トレーダーズ・ウェブ)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ファイナンス</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxONlNyUEFNdGxGZHJjQzlqM2lKRFB1Q0xSQzA5eWUzSlAzYl9JbDdZOGpLdTZvZ0M1cUNEc3NuX2MxRC03S2p0SmFuVFNlWXV2NDQwYlhzMW03dlRFSm5FUF9sYnFEOVZ5a1E3dWhlQjZJNEhOZmNnd1MzMmNMeWNkb29hMW11aDA?oc=5\" target=\"_blank\">テラドローン－買い気配 迎撃ドローン開発のウクライナ企業と資本業務提携(トレーダーズ・ウェブ)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ファイナンス</font>",
@@ -967,6 +999,45 @@
       }
     },
     {
+      "title": "DJIの新カメラドローンシリーズ「Lito」 10bit D-Log M記録や前向きLiDARなど搭載",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE96OUN3ZWswVS0wdUhWWU9ScGRDM3NDSDBraGhwOEp5V2FjbkFJNm51ZEFNLS1McVh2eEY1bjdFS0pIZE9VSnItOWxJVFRybWV3U3o3TzdXc1NDOG1NbXZCb2tFYw?oc=5\" target=\"_blank\">DJIの新カメラドローンシリーズ「Lito」 10bit D-Log M記録や前向きLiDARなど搭載</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">デジカメ Watch</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE96OUN3ZWswVS0wdUhWWU9ScGRDM3NDSDBraGhwOEp5V2FjbkFJNm51ZEFNLS1McVh2eEY1bjdFS0pIZE9VSnItOWxJVFRybWV3U3o3TzdXc1NDOG1NbXZCb2tFYw?oc=5\" target=\"_blank\">DJIの新カメラドローンシリーズ「Lito」 10bit D-Log M記録や前向きLiDARなど搭載</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">デジカメ Watch</font>",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE96OUN3ZWswVS0wdUhWWU9ScGRDM3NDSDBraGhwOEp5V2FjbkFJNm51ZEFNLS1McVh2eEY1bjdFS0pIZE9VSnItOWxJVFRybWV3U3o3TzdXc1NDOG1NbXZCb2tFYw?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE96OUN3ZWswVS0wdUhWWU9ScGRDM3NDSDBraGhwOEp5V2FjbkFJNm51ZEFNLS1McVh2eEY1bjdFS0pIZE9VSnItOWxJVFRybWV3U3o3TzdXc1NDOG1NbXZCb2tFYw?oc=5",
+      "publishedAt": "2026-04-23T12:00:00.000Z",
+      "source": "デジカメ Watch",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP)",
+      "_scoring": {
+        "score": 62,
+        "categories": [
+          "技術・製品",
+          "市場・資金"
+        ],
+        "breakdown": {
+          "required": true,
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "market": {
+            "matches": 1,
+            "catScore": 20
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 2,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      },
+      "implication": "DJIの新型ドローン「Lito」シリーズが10bit D-Log M記録と前向きLiDARを搭載することで、国土交通省航空局による機体認証の対象機が高機能化し、JCABの安全基準審査項目の拡張を促す可能性がある。",
+      "implicationVerified": true
+    },
+    {
       "title": "イームズロボティクスと英Skyportsが提携、ドローンエアライン事業展開へ",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE5tV2tEcHVJOFVZajE2WWJvb2cxVkt1Q0N1aHhtQVJCN3JlVmk0WXVlZHJtNFdIQzNPNENsUGJrSVJZZm90N3JKYTdXNnpDMk9SWVAtUW40QkJEVng0S1lyWG5IQW1CaG5UMmc?oc=5\" target=\"_blank\">イームズロボティクスと英Skyportsが提携、ドローンエアライン事業展開へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ドローンジャーナル</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE5tV2tEcHVJOFVZajE2WWJvb2cxVkt1Q0N1aHhtQVJCN3JlVmk0WXVlZHJtNFdIQzNPNENsUGJrSVJZZm90N3JKYTdXNnpDMk9SWVAtUW40QkJEVng0S1lyWG5IQW1CaG5UMmc?oc=5\" target=\"_blank\">イームズロボティクスと英Skyportsが提携、ドローンエアライン事業展開へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ドローンジャーナル</font>",
@@ -1084,45 +1155,6 @@
       "implicationVerified": true
     },
     {
-      "title": "DJIの新カメラドローンシリーズ「Lito」 10bit D-Log M記録や前向きLiDARなど搭載",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE96OUN3ZWswVS0wdUhWWU9ScGRDM3NDSDBraGhwOEp5V2FjbkFJNm51ZEFNLS1McVh2eEY1bjdFS0pIZE9VSnItOWxJVFRybWV3U3o3TzdXc1NDOG1NbXZCb2tFYw?oc=5\" target=\"_blank\">DJIの新カメラドローンシリーズ「Lito」 10bit D-Log M記録や前向きLiDARなど搭載</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">デジカメ Watch</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE96OUN3ZWswVS0wdUhWWU9ScGRDM3NDSDBraGhwOEp5V2FjbkFJNm51ZEFNLS1McVh2eEY1bjdFS0pIZE9VSnItOWxJVFRybWV3U3o3TzdXc1NDOG1NbXZCb2tFYw?oc=5\" target=\"_blank\">DJIの新カメラドローンシリーズ「Lito」 10bit D-Log M記録や前向きLiDARなど搭載</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">デジカメ Watch</font>",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE96OUN3ZWswVS0wdUhWWU9ScGRDM3NDSDBraGhwOEp5V2FjbkFJNm51ZEFNLS1McVh2eEY1bjdFS0pIZE9VSnItOWxJVFRybWV3U3o3TzdXc1NDOG1NbXZCb2tFYw?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE96OUN3ZWswVS0wdUhWWU9ScGRDM3NDSDBraGhwOEp5V2FjbkFJNm51ZEFNLS1McVh2eEY1bjdFS0pIZE9VSnItOWxJVFRybWV3U3o3TzdXc1NDOG1NbXZCb2tFYw?oc=5",
-      "publishedAt": "2026-04-23T12:00:00.000Z",
-      "source": "デジカメ Watch",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP 経済メディア)",
-      "_scoring": {
-        "score": 62,
-        "categories": [
-          "技術・製品",
-          "市場・資金"
-        ],
-        "breakdown": {
-          "required": true,
-          "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "market": {
-            "matches": 1,
-            "catScore": 20
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 2,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      },
-      "implication": "DJIの新型ドローン「Lito」シリーズが10bit D-Log M記録と前向きLiDARを搭載することで、国土交通省航空局による機体認証の対象機が高機能化し、JCABの安全基準審査項目の拡張を促す可能性がある。",
-      "implicationVerified": true
-    },
-    {
       "title": "Is Joby Aviation (JOBY) Embedding Vertiports in Luxury Housing to Strengthen Its Urban Network Advantage?",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNTV92SUpIak5nb1Z6UFAwcWNpSlZSeF9yd1VqSkZWMVNkTW1FVVlvWXVZVlR4WU1wT29uUkN4bV9GNFV1a2xDWjdSRkNVUGFsMHdqZ0ZwTHptdEpfWk16dldsMWtGNTJRS3l2bUNXZ1VrUjVMZTV3OGFCTDNpaUdEX3dDbzFSQUg1Ml9GMHdETE1YUFo3cVhtYmtQRDJoZmVFcEEzSGlFaG1NMVYwMDl6eGhITGE5U0FQR0ZFOUpKb0dtdjFKV0lYbjJubG1ocnJZOHfSAdcBQVVfeXFMTUVZdUJnQllHX2lYRTF5UjVrbERtOW5jQ3VqSVhieFhVZVpCUnY4M3lJbWp3ZlhlaFNLNGJpMGlrVXkxNTRFZktpRkpIbzhMQU9ISVRlUlp4Wktlam9lN3hILTJhcnYxZTR1TU1WWEFYVEJNSVFwZWlMZGZXNXdoR3hHdjNVYkwxLURJb2VPU3lDc0FiSFVNeVhacmdyT3dhTlMwNXYxZHQxU2VybDRWdEFiejd5cGZoa1FQdmNpb0I2ZUNIUDF3ZHVrdmxvMmQwOWZHNmYxVU0?oc=5\" target=\"_blank\">Is Joby Aviation (JOBY) Embedding Vertiports in Luxury Housing to Strengthen Its Urban Network Advantage?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">simplywall.st</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNTV92SUpIak5nb1Z6UFAwcWNpSlZSeF9yd1VqSkZWMVNkTW1FVVlvWXVZVlR4WU1wT29uUkN4bV9GNFV1a2xDWjdSRkNVUGFsMHdqZ0ZwTHptdEpfWk16dldsMWtGNTJRS3l2bUNXZ1VrUjVMZTV3OGFCTDNpaUdEX3dDbzFSQUg1Ml9GMHdETE1YUFo3cVhtYmtQRDJoZmVFcEEzSGlFaG1NMVYwMDl6eGhITGE5U0FQR0ZFOUpKb0dtdjFKV0lYbjJubG1ocnJZOHfSAdcBQVVfeXFMTUVZdUJnQllHX2lYRTF5UjVrbERtOW5jQ3VqSVhieFhVZVpCUnY4M3lJbWp3ZlhlaFNLNGJpMGlrVXkxNTRFZktpRkpIbzhMQU9ISVRlUlp4Wktlam9lN3hILTJhcnYxZTR1TU1WWEFYVEJNSVFwZWlMZGZXNXdoR3hHdjNVYkwxLURJb2VPU3lDc0FiSFVNeVhacmdyT3dhTlMwNXYxZHQxU2VybDRWdEFiejd5cGZoa1FQdmNpb0I2ZUNIUDF3ZHVrdmxvMmQwOWZHNmYxVU0?oc=5\" target=\"_blank\">Is Joby Aviation (JOBY) Embedding Vertiports in Luxury Housing to Strengthen Its Urban Network Advantage?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">simplywall.st</font>",
@@ -1157,45 +1189,6 @@
         },
         "pass": true
       }
-    },
-    {
-      "title": "テラドローンがウクライナ企業に出資 迎撃ドローンの量産体制構築を加速",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1rN0N0YkhWZWxVdEdBYjVrQUg1TzVQcnlUbHRyZTltSV9mcDZzOEN2bmpnYUU0TktaTF9xWGxndnJCVGhiTi1CU3NjOHNFMTJOLXYzNWpVak1pdXFZNXZsZy1RTWlpM28?oc=5\" target=\"_blank\">テラドローンがウクライナ企業に出資 迎撃ドローンの量産体制構築を加速</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日経ビジネス電子版</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1rN0N0YkhWZWxVdEdBYjVrQUg1TzVQcnlUbHRyZTltSV9mcDZzOEN2bmpnYUU0TktaTF9xWGxndnJCVGhiTi1CU3NjOHNFMTJOLXYzNWpVak1pdXFZNXZsZy1RTWlpM28?oc=5\" target=\"_blank\">テラドローンがウクライナ企業に出資 迎撃ドローンの量産体制構築を加速</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日経ビジネス電子版</font>",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1rN0N0YkhWZWxVdEdBYjVrQUg1TzVQcnlUbHRyZTltSV9mcDZzOEN2bmpnYUU0TktaTF9xWGxndnJCVGhiTi1CU3NjOHNFMTJOLXYzNWpVak1pdXFZNXZsZy1RTWlpM28?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1rN0N0YkhWZWxVdEdBYjVrQUg1TzVQcnlUbHRyZTltSV9mcDZzOEN2bmpnYUU0TktaTF9xWGxndnJCVGhiTi1CU3NjOHNFMTJOLXYzNWpVak1pdXFZNXZsZy1RTWlpM28?oc=5",
-      "publishedAt": "2026-04-15T07:00:00.000Z",
-      "source": "日経ビジネス電子版",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP)",
-      "_scoring": {
-        "score": 60,
-        "categories": [
-          "技術・製品",
-          "市場・資金"
-        ],
-        "breakdown": {
-          "required": true,
-          "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "market": {
-            "matches": 1,
-            "catScore": 20
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 0,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      },
-      "implication": "テラドローンがウクライナの迎撃ドローン企業への出資により、日本国内では防衛用途のドローン技術確保が経済安全保障上の課題として浮上し、JCAB管轄外の防衛分野での機体開発・運用体制の整備が防衛省主導で加速する可能性がある。",
-      "implicationVerified": true
     }
   ],
   "errors": []
