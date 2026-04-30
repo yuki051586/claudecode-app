@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-30T09:26:44.657Z",
-  "rawCount": 725,
+  "generatedAt": "2026-04-30T15:58:59.466Z",
+  "rawCount": 710,
   "articles": [
     {
       "title": "Travel Safety Warning as United Airlines Flight Encounters Drone Near San Diego, FAA Probes Incident That Highlights Rising Threat to Security and Commercial Passengers’ Safety in Busy Airspace",
@@ -13,7 +13,7 @@
       "_feedRegion": "us",
       "_feedName": "FAA",
       "_scoring": {
-        "score": 100,
+        "score": 95,
         "categories": [
           "規制・政策",
           "市場・資金",
@@ -37,7 +37,7 @@
             "domain": "news.google.com",
             "multiplier": 0.8
           },
-          "freshness": 20,
+          "freshness": 15,
           "titleBonus": 10
         },
         "pass": true
@@ -95,7 +95,7 @@
       "_feedRegion": "us",
       "_feedName": "FAA",
       "_scoring": {
-        "score": 86,
+        "score": 81,
         "categories": [
           "規制・政策",
           "市場・資金",
@@ -114,6 +114,42 @@
           "policy": {
             "matches": 1,
             "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 10,
+          "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "Possible drone incident over San Diego sparks FAA investigation",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFA4aGNQZVNmaE9oaDFCVnVDVklnSEVNLXVJNDllNl9oZjdvaG91SWZ5ZE1hMURlM3Uxd3EwSEFwS3ZKT2tnRk9keGZfQWVybllrTmY1ZzhB?oc=5\" target=\"_blank\">Possible drone incident over San Diego sparks FAA investigation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox News</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFA4aGNQZVNmaE9oaDFCVnVDVklnSEVNLXVJNDllNl9oZjdvaG91SWZ5ZE1hMURlM3Uxd3EwSEFwS3ZKT2tnRk9keGZfQWVybllrTmY1ZzhB?oc=5\" target=\"_blank\">Possible drone incident over San Diego sparks FAA investigation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox News</font>",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA4aGNQZVNmaE9oaDFCVnVDVklnSEVNLXVJNDllNl9oZjdvaG91SWZ5ZE1hMURlM3Uxd3EwSEFwS3ZKT2tnRk9keGZfQWVybllrTmY1ZzhB?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA4aGNQZVNmaE9oaDFCVnVDVklnSEVNLXVJNDllNl9oZjdvaG91SWZ5ZE1hMURlM3Uxd3EwSEFwS3ZKT2tnRk9keGZfQWVybllrTmY1ZzhB?oc=5",
+      "publishedAt": "2026-04-30T11:35:43.000Z",
+      "source": "Fox News",
+      "_feedRegion": "us",
+      "_feedName": "FAA",
+      "_scoring": {
+        "score": 79,
+        "categories": [
+          "規制・政策",
+          "事故・事件"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
+          "incident": {
+            "matches": 2,
+            "catScore": 35
           },
           "sourceTrust": {
             "domain": "news.google.com",
@@ -167,42 +203,41 @@
       }
     },
     {
-      "title": "United airline's pilot reports drone strike, triggers FAA investigation near San Diego",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxPaWR0b1Z1RUUyWmNJUHRCM3V5WHBsenJPZzV5UENPVVZIOEQ3c1UzTmFQNWNXaDVwNU9QU19UaENiUXhPZ1pPeWZfWjh6dFZEY25qcUFva2xoRnhIbXRnbm5WMENGZDBqU2ZHcjVjTUhpSW5IRXZibUY3QVJwSXNIUGxlczZJaHhUM3NRLU00WEY3RWpqQU9RS1JMRzg4MjZzWVVSR25LT2I5YjJQVkdONG9TamJYLW5LYnc2OWRwY3dEMjJNNWFFSUVWbTRxeWVFSE5lN3hJRnlpa3ViN2x30gHkAUFVX3lxTE9zMlM5QjRsdk1EWS16enBfODRlXzAtNjhQLWhJWHU4TXNkNkw3Y0pON3VuVG0wVXpjam1xNXAtRFVBNzhKc1lZd254QVphTTd4VEhUM0gzWUstVF94V0lkZjRiTTdDZXlkR01uTkQtT295M1dsQzVTYjg3Rk5xYm5qWlhiTWktaEY1d2Z2V3pVa0pISzd4VDBrTDJBQzJ1RjdIWFhxSlJZU0YwLTVGZjlRc1FUNXlVamdmQ0lmR1ZTTjVPWDRhZDdsbUVCZF9ualo2dlM4eXdCdVZuUXd3RHg0OGRFNA?oc=5\" target=\"_blank\">United airline's pilot reports drone strike, triggers FAA investigation near San Diego</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economic Times</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxPaWR0b1Z1RUUyWmNJUHRCM3V5WHBsenJPZzV5UENPVVZIOEQ3c1UzTmFQNWNXaDVwNU9QU19UaENiUXhPZ1pPeWZfWjh6dFZEY25qcUFva2xoRnhIbXRnbm5WMENGZDBqU2ZHcjVjTUhpSW5IRXZibUY3QVJwSXNIUGxlczZJaHhUM3NRLU00WEY3RWpqQU9RS1JMRzg4MjZzWVVSR25LT2I5YjJQVkdONG9TamJYLW5LYnc2OWRwY3dEMjJNNWFFSUVWbTRxeWVFSE5lN3hJRnlpa3ViN2x30gHkAUFVX3lxTE9zMlM5QjRsdk1EWS16enBfODRlXzAtNjhQLWhJWHU4TXNkNkw3Y0pON3VuVG0wVXpjam1xNXAtRFVBNzhKc1lZd254QVphTTd4VEhUM0gzWUstVF94V0lkZjRiTTdDZXlkR01uTkQtT295M1dsQzVTYjg3Rk5xYm5qWlhiTWktaEY1d2Z2V3pVa0pISzd4VDBrTDJBQzJ1RjdIWFhxSlJZU0YwLTVGZjlRc1FUNXlVamdmQ0lmR1ZTTjVPWDRhZDdsbUVCZF9ualo2dlM4eXdCdVZuUXd3RHg0OGRFNA?oc=5\" target=\"_blank\">United airline's pilot reports drone strike, triggers FAA investigation near San Diego</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economic Times</font>",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPaWR0b1Z1RUUyWmNJUHRCM3V5WHBsenJPZzV5UENPVVZIOEQ3c1UzTmFQNWNXaDVwNU9QU19UaENiUXhPZ1pPeWZfWjh6dFZEY25qcUFva2xoRnhIbXRnbm5WMENGZDBqU2ZHcjVjTUhpSW5IRXZibUY3QVJwSXNIUGxlczZJaHhUM3NRLU00WEY3RWpqQU9RS1JMRzg4MjZzWVVSR25LT2I5YjJQVkdONG9TamJYLW5LYnc2OWRwY3dEMjJNNWFFSUVWbTRxeWVFSE5lN3hJRnlpa3ViN2x30gHkAUFVX3lxTE9zMlM5QjRsdk1EWS16enBfODRlXzAtNjhQLWhJWHU4TXNkNkw3Y0pON3VuVG0wVXpjam1xNXAtRFVBNzhKc1lZd254QVphTTd4VEhUM0gzWUstVF94V0lkZjRiTTdDZXlkR01uTkQtT295M1dsQzVTYjg3Rk5xYm5qWlhiTWktaEY1d2Z2V3pVa0pISzd4VDBrTDJBQzJ1RjdIWFhxSlJZU0YwLTVGZjlRc1FUNXlVamdmQ0lmR1ZTTjVPWDRhZDdsbUVCZF9ualo2dlM4eXdCdVZuUXd3RHg0OGRFNA?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPaWR0b1Z1RUUyWmNJUHRCM3V5WHBsenJPZzV5UENPVVZIOEQ3c1UzTmFQNWNXaDVwNU9QU19UaENiUXhPZ1pPeWZfWjh6dFZEY25qcUFva2xoRnhIbXRnbm5WMENGZDBqU2ZHcjVjTUhpSW5IRXZibUY3QVJwSXNIUGxlczZJaHhUM3NRLU00WEY3RWpqQU9RS1JMRzg4MjZzWVVSR25LT2I5YjJQVkdONG9TamJYLW5LYnc2OWRwY3dEMjJNNWFFSUVWbTRxeWVFSE5lN3hJRnlpa3ViN2x30gHkAUFVX3lxTE9zMlM5QjRsdk1EWS16enBfODRlXzAtNjhQLWhJWHU4TXNkNkw3Y0pON3VuVG0wVXpjam1xNXAtRFVBNzhKc1lZd254QVphTTd4VEhUM0gzWUstVF94V0lkZjRiTTdDZXlkR01uTkQtT295M1dsQzVTYjg3Rk5xYm5qWlhiTWktaEY1d2Z2V3pVa0pISzd4VDBrTDJBQzJ1RjdIWFhxSlJZU0YwLTVGZjlRc1FUNXlVamdmQ0lmR1ZTTjVPWDRhZDdsbUVCZF9ualo2dlM4eXdCdVZuUXd3RHg0OGRFNA?oc=5",
-      "publishedAt": "2026-04-30T03:04:28.000Z",
-      "source": "The Economic Times",
-      "_feedRegion": "us",
-      "_feedName": "FAA",
+      "title": "JISDAとClearProc、国産ドローン部品の米国展開に向けた調達・コンプライアンス基盤に関する戦略的連携を開始［JISDA］",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE1HeHNSMXRnU0FmdEFjQ3BHYVFndFVTdjJiWExHbFZPNjhzY2JMbmNqNTA2dWhJc2JSU1BRaHlKS1F0MG8wY3hpS3BSQkt6LXBLWXVQbUdKdENOcDh3bEhSREdGa0dOdUd1eEpDdjhocXVxTUJ6am9ZWDZZYVM?oc=5\" target=\"_blank\">JISDAとClearProc、国産ドローン部品の米国展開に向けた調達・コンプライアンス基盤に関する戦略的連携を開始［JISDA］</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE1HeHNSMXRnU0FmdEFjQ3BHYVFndFVTdjJiWExHbFZPNjhzY2JMbmNqNTA2dWhJc2JSU1BRaHlKS1F0MG8wY3hpS3BSQkt6LXBLWXVQbUdKdENOcDh3bEhSREdGa0dOdUd1eEpDdjhocXVxTUJ6am9ZWDZZYVM?oc=5\" target=\"_blank\">JISDAとClearProc、国産ドローン部品の米国展開に向けた調達・コンプライアンス基盤に関する戦略的連携を開始［JISDA］</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1HeHNSMXRnU0FmdEFjQ3BHYVFndFVTdjJiWExHbFZPNjhzY2JMbmNqNTA2dWhJc2JSU1BRaHlKS1F0MG8wY3hpS3BSQkt6LXBLWXVQbUdKdENOcDh3bEhSREdGa0dOdUd1eEpDdjhocXVxTUJ6am9ZWDZZYVM?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1HeHNSMXRnU0FmdEFjQ3BHYVFndFVTdjJiWExHbFZPNjhzY2JMbmNqNTA2dWhJc2JSU1BRaHlKS1F0MG8wY3hpS3BSQkt6LXBLWXVQbUdKdENOcDh3bEhSREdGa0dOdUd1eEpDdjhocXVxTUJ6am9ZWDZZYVM?oc=5",
+      "publishedAt": "2026-04-30T10:02:20.000Z",
+      "source": "日本経済新聞",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP 経済メディア)",
       "_scoring": {
-        "score": 73,
+        "score": 75,
         "categories": [
-          "規制・政策",
-          "事故・事件"
+          "市場・資金",
+          "政策・インフラ"
         ],
         "breakdown": {
           "required": true,
-          "regulation": {
+          "market": {
             "matches": 1,
-            "catScore": 32
+            "catScore": 20
           },
-          "incident": {
+          "policy": {
             "matches": 1,
-            "catScore": 28
+            "catScore": 24
           },
           "sourceTrust": {
             "domain": "news.google.com",
             "multiplier": 0.8
           },
           "freshness": 15,
-          "titleBonus": 10
+          "titleBonus": 10,
+          "jpRegionBonus": 15
         },
         "pass": true
-      },
-      "implication": "United航空のパイロットがサンディエゴ近郊でドローン衝突を報告したFAA調査は、有人航空機との衝突リスク管理を焦点化させ、JCABが航空法レベル4運用許可時に低高度飛行空域との分離要件をより厳格化する圧力につながる可能性が高い。",
-      "implicationVerified": true
+      }
     },
     {
       "title": "FAA green lights military use of laser drone-zapping weaponry in US airspace",
@@ -215,7 +250,7 @@
       "_feedRegion": "us",
       "_feedName": "FAA",
       "_scoring": {
-        "score": 73,
+        "score": 71,
         "categories": [
           "規制・政策",
           "市場・資金",
@@ -239,7 +274,7 @@
             "domain": "news.google.com",
             "multiplier": 0.8
           },
-          "freshness": 2,
+          "freshness": 0,
           "titleBonus": 10
         },
         "pass": true
@@ -247,16 +282,16 @@
     },
     {
       "title": "FAA again closes Texas airspace after military shoots down CBP drone, lawmakers say",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMivANBVV95cUxQQ01CWW13QWJZbFZyby1JYTNtbXAtQm1kbVFaejlzUFlwdzh4ZDB2ZTdFWEoyWUo1WGhDR1M3aTVVTk9OOXZkbzNtSjFRb2ZuaXUwM21HZ0VxbHFGSWlJd0VCdlAxQUhIV1AwWUhURk1aTDJUemVVRW5JRmZPVmlHQmkybVBYbDJUTGZzUXVNNjhWaUo1V19OVlkwMXdFZGszUVNnemNDOFItWkRMNzhCMGtsVldudk81UUs3QjhqcXlmbkU4M0dtU0hXNW43MTJIWWZhaDZqcC1xZWdQRzRlYlhGSlEzcEg4UnM2Sk5lQVJURUhUUjBTc2p2UWhQODJwN05OWmpTLTBUWlpSTEl5UXJjNjBLNlkyODl4d185ckVRMjVEU3pnaVN5VUFpMERfdTVHTmIzQnBZU2trSmNRQTFxWjY1SWV2NWxscnhFU2lmV2pKU0tUblR2clBVUlhKenpMMTZzaEttanVqZTd3VGtRMEl0UWp4N2x2VVgwdmg5RENCZVJCRlZfa3VDRjVMUnoybGpRYmxwVHJ2LVY3S0M3TFFDQVZyb2IzeHAxckRqQXNxMTFoczZPT1o?oc=5\" target=\"_blank\">FAA again closes Texas airspace after military shoots down CBP drone, lawmakers say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMivANBVV95cUxQQ01CWW13QWJZbFZyby1JYTNtbXAtQm1kbVFaejlzUFlwdzh4ZDB2ZTdFWEoyWUo1WGhDR1M3aTVVTk9OOXZkbzNtSjFRb2ZuaXUwM21HZ0VxbHFGSWlJd0VCdlAxQUhIV1AwWUhURk1aTDJUemVVRW5JRmZPVmlHQmkybVBYbDJUTGZzUXVNNjhWaUo1V19OVlkwMXdFZGszUVNnemNDOFItWkRMNzhCMGtsVldudk81UUs3QjhqcXlmbkU4M0dtU0hXNW43MTJIWWZhaDZqcC1xZWdQRzRlYlhGSlEzcEg4UnM2Sk5lQVJURUhUUjBTc2p2UWhQODJwN05OWmpTLTBUWlpSTEl5UXJjNjBLNlkyODl4d185ckVRMjVEU3pnaVN5VUFpMERfdTVHTmIzQnBZU2trSmNRQTFxWjY1SWV2NWxscnhFU2lmV2pKU0tUblR2clBVUlhKenpMMTZzaEttanVqZTd3VGtRMEl0UWp4N2x2VVgwdmg5RENCZVJCRlZfa3VDRjVMUnoybGpRYmxwVHJ2LVY3S0M3TFFDQVZyb2IzeHAxckRqQXNxMTFoczZPT1o?oc=5\" target=\"_blank\">FAA again closes Texas airspace after military shoots down CBP drone, lawmakers say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
-      "url": "https://news.google.com/rss/articles/CBMivANBVV95cUxQQ01CWW13QWJZbFZyby1JYTNtbXAtQm1kbVFaejlzUFlwdzh4ZDB2ZTdFWEoyWUo1WGhDR1M3aTVVTk9OOXZkbzNtSjFRb2ZuaXUwM21HZ0VxbHFGSWlJd0VCdlAxQUhIV1AwWUhURk1aTDJUemVVRW5JRmZPVmlHQmkybVBYbDJUTGZzUXVNNjhWaUo1V19OVlkwMXdFZGszUVNnemNDOFItWkRMNzhCMGtsVldudk81UUs3QjhqcXlmbkU4M0dtU0hXNW43MTJIWWZhaDZqcC1xZWdQRzRlYlhGSlEzcEg4UnM2Sk5lQVJURUhUUjBTc2p2UWhQODJwN05OWmpTLTBUWlpSTEl5UXJjNjBLNlkyODl4d185ckVRMjVEU3pnaVN5VUFpMERfdTVHTmIzQnBZU2trSmNRQTFxWjY1SWV2NWxscnhFU2lmV2pKU0tUblR2clBVUlhKenpMMTZzaEttanVqZTd3VGtRMEl0UWp4N2x2VVgwdmg5RENCZVJCRlZfa3VDRjVMUnoybGpRYmxwVHJ2LVY3S0M3TFFDQVZyb2IzeHAxckRqQXNxMTFoczZPT1o?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMivANBVV95cUxQQ01CWW13QWJZbFZyby1JYTNtbXAtQm1kbVFaejlzUFlwdzh4ZDB2ZTdFWEoyWUo1WGhDR1M3aTVVTk9OOXZkbzNtSjFRb2ZuaXUwM21HZ0VxbHFGSWlJd0VCdlAxQUhIV1AwWUhURk1aTDJUemVVRW5JRmZPVmlHQmkybVBYbDJUTGZzUXVNNjhWaUo1V19OVlkwMXdFZGszUVNnemNDOFItWkRMNzhCMGtsVldudk81UUs3QjhqcXlmbkU4M0dtU0hXNW43MTJIWWZhaDZqcC1xZWdQRzRlYlhGSlEzcEg4UnM2Sk5lQVJURUhUUjBTc2p2UWhQODJwN05OWmpTLTBUWlpSTEl5UXJjNjBLNlkyODl4d185ckVRMjVEU3pnaVN5VUFpMERfdTVHTmIzQnBZU2trSmNRQTFxWjY1SWV2NWxscnhFU2lmV2pKU0tUblR2clBVUlhKenpMMTZzaEttanVqZTd3VGtRMEl0UWp4N2x2VVgwdmg5RENCZVJCRlZfa3VDRjVMUnoybGpRYmxwVHJ2LVY3S0M3TFFDQVZyb2IzeHAxckRqQXNxMTFoczZPT1o?oc=5",
-      "publishedAt": "2026-04-27T18:33:45.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMinwNBVV95cUxOMGxEZEFBUGlzQ3Q3LTA1dUh0WXhhX2VENDlZMG5zUFVTU0RURS1XOGNSWGJpU0RBeWtSS2hOOGlvbC1VT3ZCWl9UVDByM2RKSVZ1YVphOGZhbnJ1S2NnVWVJZTVLTHhWdUJwRDBOMmhRVzdJeEpfR19EX2NqVTZBZUlxdmJ3T0ZCS0hjanpmNGJQZEQ3WnBFRkhlbUhsTUpVS1pmYkJ4VFNSLUlYN1JMUlFCVHFwa000SlctdFJ1Q0hpSHNjMGtDS0FqMmtuMG1sWnVScHQ0MXBNSU9JMFJqZkRDcWtlUDBUWHVnZk0tQWQ4UENuQlVRQjczVHN6dkcxTkpCdTBldzhHaXUzYmJXYnJwYkJLWUJHWl9YdHJFemduaWhWRkhsbTFsSC1xdE04OElsX3dEcDY4Z0JldUtRRFc1eWhySnlmcEdyUG9qTW1Ld2h2cjVpcDhTeG00U2g1RzJFdVdPblNEb0J1MWhXOThvY3JHVVR0dndFbTRrQjhDTFAyYjktQml5d3RKQUtZcFAxSDQ1cHAwc0t1RXlV?oc=5\" target=\"_blank\">FAA again closes Texas airspace after military shoots down CBP drone, lawmakers say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMinwNBVV95cUxOMGxEZEFBUGlzQ3Q3LTA1dUh0WXhhX2VENDlZMG5zUFVTU0RURS1XOGNSWGJpU0RBeWtSS2hOOGlvbC1VT3ZCWl9UVDByM2RKSVZ1YVphOGZhbnJ1S2NnVWVJZTVLTHhWdUJwRDBOMmhRVzdJeEpfR19EX2NqVTZBZUlxdmJ3T0ZCS0hjanpmNGJQZEQ3WnBFRkhlbUhsTUpVS1pmYkJ4VFNSLUlYN1JMUlFCVHFwa000SlctdFJ1Q0hpSHNjMGtDS0FqMmtuMG1sWnVScHQ0MXBNSU9JMFJqZkRDcWtlUDBUWHVnZk0tQWQ4UENuQlVRQjczVHN6dkcxTkpCdTBldzhHaXUzYmJXYnJwYkJLWUJHWl9YdHJFemduaWhWRkhsbTFsSC1xdE04OElsX3dEcDY4Z0JldUtRRFc1eWhySnlmcEdyUG9qTW1Ld2h2cjVpcDhTeG00U2g1RzJFdVdPblNEb0J1MWhXOThvY3JHVVR0dndFbTRrQjhDTFAyYjktQml5d3RKQUtZcFAxSDQ1cHAwc0t1RXlV?oc=5\" target=\"_blank\">FAA again closes Texas airspace after military shoots down CBP drone, lawmakers say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+      "url": "https://news.google.com/rss/articles/CBMinwNBVV95cUxOMGxEZEFBUGlzQ3Q3LTA1dUh0WXhhX2VENDlZMG5zUFVTU0RURS1XOGNSWGJpU0RBeWtSS2hOOGlvbC1VT3ZCWl9UVDByM2RKSVZ1YVphOGZhbnJ1S2NnVWVJZTVLTHhWdUJwRDBOMmhRVzdJeEpfR19EX2NqVTZBZUlxdmJ3T0ZCS0hjanpmNGJQZEQ3WnBFRkhlbUhsTUpVS1pmYkJ4VFNSLUlYN1JMUlFCVHFwa000SlctdFJ1Q0hpSHNjMGtDS0FqMmtuMG1sWnVScHQ0MXBNSU9JMFJqZkRDcWtlUDBUWHVnZk0tQWQ4UENuQlVRQjczVHN6dkcxTkpCdTBldzhHaXUzYmJXYnJwYkJLWUJHWl9YdHJFemduaWhWRkhsbTFsSC1xdE04OElsX3dEcDY4Z0JldUtRRFc1eWhySnlmcEdyUG9qTW1Ld2h2cjVpcDhTeG00U2g1RzJFdVdPblNEb0J1MWhXOThvY3JHVVR0dndFbTRrQjhDTFAyYjktQml5d3RKQUtZcFAxSDQ1cHAwc0t1RXlV?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMinwNBVV95cUxOMGxEZEFBUGlzQ3Q3LTA1dUh0WXhhX2VENDlZMG5zUFVTU0RURS1XOGNSWGJpU0RBeWtSS2hOOGlvbC1VT3ZCWl9UVDByM2RKSVZ1YVphOGZhbnJ1S2NnVWVJZTVLTHhWdUJwRDBOMmhRVzdJeEpfR19EX2NqVTZBZUlxdmJ3T0ZCS0hjanpmNGJQZEQ3WnBFRkhlbUhsTUpVS1pmYkJ4VFNSLUlYN1JMUlFCVHFwa000SlctdFJ1Q0hpSHNjMGtDS0FqMmtuMG1sWnVScHQ0MXBNSU9JMFJqZkRDcWtlUDBUWHVnZk0tQWQ4UENuQlVRQjczVHN6dkcxTkpCdTBldzhHaXUzYmJXYnJwYkJLWUJHWl9YdHJFemduaWhWRkhsbTFsSC1xdE04OElsX3dEcDY4Z0JldUtRRFc1eWhySnlmcEdyUG9qTW1Ld2h2cjVpcDhTeG00U2g1RzJFdVdPblNEb0J1MWhXOThvY3JHVVR0dndFbTRrQjhDTFAyYjktQml5d3RKQUtZcFAxSDQ1cHAwc0t1RXlV?oc=5",
+      "publishedAt": "2026-04-26T08:33:12.000Z",
       "source": "MSN",
       "_feedRegion": "us",
       "_feedName": "FAA",
       "_scoring": {
-        "score": 73,
+        "score": 71,
         "categories": [
           "規制・政策",
           "市場・資金",
@@ -280,92 +315,20 @@
             "domain": "news.google.com",
             "multiplier": 0.8
           },
-          "freshness": 2,
+          "freshness": 0,
           "titleBonus": 10
         },
         "pass": true
       }
     },
     {
-      "title": "San Francisco International United Airlines pilot reports drone strike on approach to San Diego International Airport, FAA says",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZEJ0eE5wdHlidDFCbVpsV3FlZ0xYTkpSMjdxQTNJdDdWMFhqc0JUYk01OGJrRGtrSkloTVFFcFdkOW1UZ3RRSFYtYkV0d240UGp5Y1d5bkJXRXZXOFkxZzJROVpVM1NKN0U0Q3NWeVo4Ujd4MU1qdzRoTG16aWt2WU8xb3VlWnlfaVMwU0xpWWljb3NHczJJeXhWSTd5TnBFR0xQYjA0emZ6bGxvajdXY1J6a1ZGalg5dmc3ZmxkZmZjWmJyZUJyTG9xOGdwUmdKdWNOV9IB2gFBVV95cUxOa3kwc3J4bDdDNDNPNnlWb0VjdDNBYzgxZ0wyZUd0eXFvazM5aV9ubFhDcjdPTjF0MEtZelhpVUxjRHpFNGxfaHkxaEY4QlBVdW53eWNNNXNmemlqWFZmSHplbE54ZkFIdWo3c2gybm5GMVZiMGhLalJaUjJ1MUlXVGZwZmNNOUZEWkVHLWFvVS0zQTJxNjJBUlhFWkxOaTkxRjgybjNNcktfcllGUk5kdXZuT2FDV1ZWTHlfYmN2NU9GdDR6UDItLWhMdk1JQzlDRG92R29Jb2lDZw?oc=5\" target=\"_blank\">San Francisco International United Airlines pilot reports drone strike on approach to San Diego International Airport, FAA says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC7 San Francisco</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZEJ0eE5wdHlidDFCbVpsV3FlZ0xYTkpSMjdxQTNJdDdWMFhqc0JUYk01OGJrRGtrSkloTVFFcFdkOW1UZ3RRSFYtYkV0d240UGp5Y1d5bkJXRXZXOFkxZzJROVpVM1NKN0U0Q3NWeVo4Ujd4MU1qdzRoTG16aWt2WU8xb3VlWnlfaVMwU0xpWWljb3NHczJJeXhWSTd5TnBFR0xQYjA0emZ6bGxvajdXY1J6a1ZGalg5dmc3ZmxkZmZjWmJyZUJyTG9xOGdwUmdKdWNOV9IB2gFBVV95cUxOa3kwc3J4bDdDNDNPNnlWb0VjdDNBYzgxZ0wyZUd0eXFvazM5aV9ubFhDcjdPTjF0MEtZelhpVUxjRHpFNGxfaHkxaEY4QlBVdW53eWNNNXNmemlqWFZmSHplbE54ZkFIdWo3c2gybm5GMVZiMGhLalJaUjJ1MUlXVGZwZmNNOUZEWkVHLWFvVS0zQTJxNjJBUlhFWkxOaTkxRjgybjNNcktfcllGUk5kdXZuT2FDV1ZWTHlfYmN2NU9GdDR6UDItLWhMdk1JQzlDRG92R29Jb2lDZw?oc=5\" target=\"_blank\">San Francisco International United Airlines pilot reports drone strike on approach to San Diego International Airport, FAA says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC7 San Francisco</font>",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZEJ0eE5wdHlidDFCbVpsV3FlZ0xYTkpSMjdxQTNJdDdWMFhqc0JUYk01OGJrRGtrSkloTVFFcFdkOW1UZ3RRSFYtYkV0d240UGp5Y1d5bkJXRXZXOFkxZzJROVpVM1NKN0U0Q3NWeVo4Ujd4MU1qdzRoTG16aWt2WU8xb3VlWnlfaVMwU0xpWWljb3NHczJJeXhWSTd5TnBFR0xQYjA0emZ6bGxvajdXY1J6a1ZGalg5dmc3ZmxkZmZjWmJyZUJyTG9xOGdwUmdKdWNOV9IB2gFBVV95cUxOa3kwc3J4bDdDNDNPNnlWb0VjdDNBYzgxZ0wyZUd0eXFvazM5aV9ubFhDcjdPTjF0MEtZelhpVUxjRHpFNGxfaHkxaEY4QlBVdW53eWNNNXNmemlqWFZmSHplbE54ZkFIdWo3c2gybm5GMVZiMGhLalJaUjJ1MUlXVGZwZmNNOUZEWkVHLWFvVS0zQTJxNjJBUlhFWkxOaTkxRjgybjNNcktfcllGUk5kdXZuT2FDV1ZWTHlfYmN2NU9GdDR6UDItLWhMdk1JQzlDRG92R29Jb2lDZw?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZEJ0eE5wdHlidDFCbVpsV3FlZ0xYTkpSMjdxQTNJdDdWMFhqc0JUYk01OGJrRGtrSkloTVFFcFdkOW1UZ3RRSFYtYkV0d240UGp5Y1d5bkJXRXZXOFkxZzJROVpVM1NKN0U0Q3NWeVo4Ujd4MU1qdzRoTG16aWt2WU8xb3VlWnlfaVMwU0xpWWljb3NHczJJeXhWSTd5TnBFR0xQYjA0emZ6bGxvajdXY1J6a1ZGalg5dmc3ZmxkZmZjWmJyZUJyTG9xOGdwUmdKdWNOV9IB2gFBVV95cUxOa3kwc3J4bDdDNDNPNnlWb0VjdDNBYzgxZ0wyZUd0eXFvazM5aV9ubFhDcjdPTjF0MEtZelhpVUxjRHpFNGxfaHkxaEY4QlBVdW53eWNNNXNmemlqWFZmSHplbE54ZkFIdWo3c2gybm5GMVZiMGhLalJaUjJ1MUlXVGZwZmNNOUZEWkVHLWFvVS0zQTJxNjJBUlhFWkxOaTkxRjgybjNNcktfcllGUk5kdXZuT2FDV1ZWTHlfYmN2NU9GdDR6UDItLWhMdk1JQzlDRG92R29Jb2lDZw?oc=5",
-      "publishedAt": "2026-04-30T01:30:19.000Z",
-      "source": "ABC7 San Francisco",
-      "_feedRegion": "us",
-      "_feedName": "FAA",
-      "_scoring": {
-        "score": 70,
-        "categories": [
-          "規制・政策",
-          "政策・インフラ"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 1,
-            "catScore": 32
-          },
-          "policy": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 15,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "UWF Students Partner with MIT to Evaluate Northwest Florida’s Potential as UAS Manufacturing Hub | Newswise",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPLTNPVWFZUmdYZUc2aDlLaW5yYjZiOEhxUkNqQzYtZWZ5anM5YVNMalRZUXZRMmt6cEJfbWp6SEQ5Z1YyUnM0TkM2cnhZWi1RWXFFT0dHVFEtNnR6Wkd0N1J6N0hOanVna3R0LTBsdl90QmFNZlh6UDJBRHE4bk9SX0U3YVBmTHNiSnZFYUcxakJLbDZXY21rM0FoZmVlYnVTRjVLTFI3OWFsWUxubW1QdjA2YnhCSlY0YzZJLUxOdnJDR2xCN3ZUbTlB0gHKAUFVX3lxTE8tM09VYVlSZ1hlRzZoOUtpbnJiNmI4SHFSQ2pDNi1lZnlqczlhU0xqVFlRdlEya3pwQl9tanpIRDlnVjJSczROQzZyeFlaLVFZcUVPR0dUUS02dHpaR3Q3Uno3SE5qdWdrdHQtMGx2X3RCYU1mWHpQMkFEcThuT1JfRTdhUGZMc2JKdkVhRzFqQktsNldjbWszQWhmZWVidVNGNUtMUjc5YWxZTG5tbVB2MDZieEJKVjRjNkktTE52ckNHbEI3dlRtOUE?oc=5\" target=\"_blank\">UWF Students Partner with MIT to Evaluate Northwest Florida’s Potential as UAS Manufacturing Hub | Newswise</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Newswise</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPLTNPVWFZUmdYZUc2aDlLaW5yYjZiOEhxUkNqQzYtZWZ5anM5YVNMalRZUXZRMmt6cEJfbWp6SEQ5Z1YyUnM0TkM2cnhZWi1RWXFFT0dHVFEtNnR6Wkd0N1J6N0hOanVna3R0LTBsdl90QmFNZlh6UDJBRHE4bk9SX0U3YVBmTHNiSnZFYUcxakJLbDZXY21rM0FoZmVlYnVTRjVLTFI3OWFsWUxubW1QdjA2YnhCSlY0YzZJLUxOdnJDR2xCN3ZUbTlB0gHKAUFVX3lxTE8tM09VYVlSZ1hlRzZoOUtpbnJiNmI4SHFSQ2pDNi1lZnlqczlhU0xqVFlRdlEya3pwQl9tanpIRDlnVjJSczROQzZyeFlaLVFZcUVPR0dUUS02dHpaR3Q3Uno3SE5qdWdrdHQtMGx2X3RCYU1mWHpQMkFEcThuT1JfRTdhUGZMc2JKdkVhRzFqQktsNldjbWszQWhmZWVidVNGNUtMUjc5YWxZTG5tbVB2MDZieEJKVjRjNkktTE52ckNHbEI3dlRtOUE?oc=5\" target=\"_blank\">UWF Students Partner with MIT to Evaluate Northwest Florida’s Potential as UAS Manufacturing Hub | Newswise</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Newswise</font>",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPLTNPVWFZUmdYZUc2aDlLaW5yYjZiOEhxUkNqQzYtZWZ5anM5YVNMalRZUXZRMmt6cEJfbWp6SEQ5Z1YyUnM0TkM2cnhZWi1RWXFFT0dHVFEtNnR6Wkd0N1J6N0hOanVna3R0LTBsdl90QmFNZlh6UDJBRHE4bk9SX0U3YVBmTHNiSnZFYUcxakJLbDZXY21rM0FoZmVlYnVTRjVLTFI3OWFsWUxubW1QdjA2YnhCSlY0YzZJLUxOdnJDR2xCN3ZUbTlB0gHKAUFVX3lxTE8tM09VYVlSZ1hlRzZoOUtpbnJiNmI4SHFSQ2pDNi1lZnlqczlhU0xqVFlRdlEya3pwQl9tanpIRDlnVjJSczROQzZyeFlaLVFZcUVPR0dUUS02dHpaR3Q3Uno3SE5qdWdrdHQtMGx2X3RCYU1mWHpQMkFEcThuT1JfRTdhUGZMc2JKdkVhRzFqQktsNldjbWszQWhmZWVidVNGNUtMUjc5YWxZTG5tbVB2MDZieEJKVjRjNkktTE52ckNHbEI3dlRtOUE?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPLTNPVWFZUmdYZUc2aDlLaW5yYjZiOEhxUkNqQzYtZWZ5anM5YVNMalRZUXZRMmt6cEJfbWp6SEQ5Z1YyUnM0TkM2cnhZWi1RWXFFT0dHVFEtNnR6Wkd0N1J6N0hOanVna3R0LTBsdl90QmFNZlh6UDJBRHE4bk9SX0U3YVBmTHNiSnZFYUcxakJLbDZXY21rM0FoZmVlYnVTRjVLTFI3OWFsWUxubW1QdjA2YnhCSlY0YzZJLUxOdnJDR2xCN3ZUbTlB0gHKAUFVX3lxTE8tM09VYVlSZ1hlRzZoOUtpbnJiNmI4SHFSQ2pDNi1lZnlqczlhU0xqVFlRdlEya3pwQl9tanpIRDlnVjJSczROQzZyeFlaLVFZcUVPR0dUUS02dHpaR3Q3Uno3SE5qdWdrdHQtMGx2X3RCYU1mWHpQMkFEcThuT1JfRTdhUGZMc2JKdkVhRzFqQktsNldjbWszQWhmZWVidVNGNUtMUjc5YWxZTG5tbVB2MDZieEJKVjRjNkktTE52ckNHbEI3dlRtOUE?oc=5",
-      "publishedAt": "2026-04-30T00:30:00.000Z",
-      "source": "Newswise",
-      "_feedRegion": "global",
-      "_feedName": "Google News (Global)",
-      "_scoring": {
-        "score": 70,
-        "categories": [
-          "規制・政策",
-          "技術・製品"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 1,
-            "catScore": 32
-          },
-          "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 15,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "SkyDrive、空飛ぶクルマ開発企業として国交省より「航空機設計検査認定事業場（ADO）」を取得",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFBNcVVrOWRRRURqQzNMUHJaWHRtOXdLdGxROUlGOVpIczY5MGtFMGliSWhVRWVMMm9VckR4VGZBX0VySzJ0V21zVDNXUGJ4TnJ6ekdudHJ5cExDd1IycU4wQnotSUZ0WU1FWEE?oc=5\" target=\"_blank\">SkyDrive、空飛ぶクルマ開発企業として国交省より「航空機設計検査認定事業場（ADO）」を取得</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ドローンジャーナル</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFBNcVVrOWRRRURqQzNMUHJaWHRtOXdLdGxROUlGOVpIczY5MGtFMGliSWhVRWVMMm9VckR4VGZBX0VySzJ0V21zVDNXUGJ4TnJ6ekdudHJ5cExDd1IycU4wQnotSUZ0WU1FWEE?oc=5\" target=\"_blank\">SkyDrive、空飛ぶクルマ開発企業として国交省より「航空機設計検査認定事業場（ADO）」を取得</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ドローンジャーナル</font>",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBNcVVrOWRRRURqQzNMUHJaWHRtOXdLdGxROUlGOVpIczY5MGtFMGliSWhVRWVMMm9VckR4VGZBX0VySzJ0V21zVDNXUGJ4TnJ6ekdudHJ5cExDd1IycU4wQnotSUZ0WU1FWEE?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBNcVVrOWRRRURqQzNMUHJaWHRtOXdLdGxROUlGOVpIczY5MGtFMGliSWhVRWVMMm9VckR4VGZBX0VySzJ0V21zVDNXUGJ4TnJ6ekdudHJ5cExDd1IycU4wQnotSUZ0WU1FWEE?oc=5",
-      "publishedAt": "2026-04-23T02:18:58.000Z",
-      "source": "ドローンジャーナル",
+      "title": "国内初！空飛ぶクルマ開発企業として国土交通省より「航空機設計検査認定事業場（ADO）」を取得",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFB6X1FZT0swOFdvRExZaXdhVDR0STVVS1MxOG4wcnJTYzhINlNObjJraVozcm1zcXpKbTJSLURIdHVXYVptZEtfdGdLakVLd3JvZDJLVk54cTJyaWNrejRIemV6RGZLMmsySUE?oc=5\" target=\"_blank\">国内初！空飛ぶクルマ開発企業として国土交通省より「航空機設計検査認定事業場（ADO）」を取得</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR TIMES</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFB6X1FZT0swOFdvRExZaXdhVDR0STVVS1MxOG4wcnJTYzhINlNObjJraVozcm1zcXpKbTJSLURIdHVXYVptZEtfdGdLakVLd3JvZDJLVk54cTJyaWNrejRIemV6RGZLMmsySUE?oc=5\" target=\"_blank\">国内初！空飛ぶクルマ開発企業として国土交通省より「航空機設計検査認定事業場（ADO）」を取得</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR TIMES</font>",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB6X1FZT0swOFdvRExZaXdhVDR0STVVS1MxOG4wcnJTYzhINlNObjJraVozcm1zcXpKbTJSLURIdHVXYVptZEtfdGdLakVLd3JvZDJLVk54cTJyaWNrejRIemV6RGZLMmsySUE?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB6X1FZT0swOFdvRExZaXdhVDR0STVVS1MxOG4wcnJTYzhINlNObjJraVozcm1zcXpKbTJSLURIdHVXYVptZEtfdGdLakVLd3JvZDJLVk54cTJyaWNrejRIemV6RGZLMmsySUE?oc=5",
+      "publishedAt": "2026-04-20T07:00:00.000Z",
+      "source": "PR TIMES",
       "_feedRegion": "jp",
       "_feedName": "Google News (JP)",
       "_scoring": {
@@ -394,17 +357,17 @@
         },
         "pass": true
       },
-      "implication": "SkyDriveが国交省からADO認定を取得したことで、空飛ぶクルマの型式認証申請に向けた設計・試験段階の自社実施が可能になり、JCAB直轄の負担軽減と開発スケジュール短縮が進む一方、同認定取得を目指すテラドローンやACSLといった国内競…",
+      "implication": "国内初のADO取得は、空飛ぶクルマ企業が型式認証申請の前提となる設計検査権を自社で実施できる段階に進んだことを意味し、JCAB による個別審査負担の軽減と並行して、SkyDriveなど他の開発企業も同等の認定取得を求める圧力が高まる。",
       "implicationVerified": true
     },
     {
-      "title": "国内初！空飛ぶクルマ開発企業として国土交通省より「航空機設計検査認定事業場（ADO）」を取得",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFB6X1FZT0swOFdvRExZaXdhVDR0STVVS1MxOG4wcnJTYzhINlNObjJraVozcm1zcXpKbTJSLURIdHVXYVptZEtfdGdLakVLd3JvZDJLVk54cTJyaWNrejRIemV6RGZLMmsySUE?oc=5\" target=\"_blank\">国内初！空飛ぶクルマ開発企業として国土交通省より「航空機設計検査認定事業場（ADO）」を取得</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR TIMES</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFB6X1FZT0swOFdvRExZaXdhVDR0STVVS1MxOG4wcnJTYzhINlNObjJraVozcm1zcXpKbTJSLURIdHVXYVptZEtfdGdLakVLd3JvZDJLVk54cTJyaWNrejRIemV6RGZLMmsySUE?oc=5\" target=\"_blank\">国内初！空飛ぶクルマ開発企業として国土交通省より「航空機設計検査認定事業場（ADO）」を取得</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR TIMES</font>",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB6X1FZT0swOFdvRExZaXdhVDR0STVVS1MxOG4wcnJTYzhINlNObjJraVozcm1zcXpKbTJSLURIdHVXYVptZEtfdGdLakVLd3JvZDJLVk54cTJyaWNrejRIemV6RGZLMmsySUE?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB6X1FZT0swOFdvRExZaXdhVDR0STVVS1MxOG4wcnJTYzhINlNObjJraVozcm1zcXpKbTJSLURIdHVXYVptZEtfdGdLakVLd3JvZDJLVk54cTJyaWNrejRIemV6RGZLMmsySUE?oc=5",
-      "publishedAt": "2026-04-20T02:00:02.000Z",
-      "source": "PR TIMES",
+      "title": "SkyDrive、空飛ぶクルマ開発企業として国交省より「航空機設計検査認定事業場（ADO）」を取得",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFBNcVVrOWRRRURqQzNMUHJaWHRtOXdLdGxROUlGOVpIczY5MGtFMGliSWhVRWVMMm9VckR4VGZBX0VySzJ0V21zVDNXUGJ4TnJ6ekdudHJ5cExDd1IycU4wQnotSUZ0WU1FWEE?oc=5\" target=\"_blank\">SkyDrive、空飛ぶクルマ開発企業として国交省より「航空機設計検査認定事業場（ADO）」を取得</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ドローンジャーナル</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFBNcVVrOWRRRURqQzNMUHJaWHRtOXdLdGxROUlGOVpIczY5MGtFMGliSWhVRWVMMm9VckR4VGZBX0VySzJ0V21zVDNXUGJ4TnJ6ekdudHJ5cExDd1IycU4wQnotSUZ0WU1FWEE?oc=5\" target=\"_blank\">SkyDrive、空飛ぶクルマ開発企業として国交省より「航空機設計検査認定事業場（ADO）」を取得</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ドローンジャーナル</font>",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBNcVVrOWRRRURqQzNMUHJaWHRtOXdLdGxROUlGOVpIczY5MGtFMGliSWhVRWVMMm9VckR4VGZBX0VySzJ0V21zVDNXUGJ4TnJ6ekdudHJ5cExDd1IycU4wQnotSUZ0WU1FWEE?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBNcVVrOWRRRURqQzNMUHJaWHRtOXdLdGxROUlGOVpIczY5MGtFMGliSWhVRWVMMm9VckR4VGZBX0VySzJ0V21zVDNXUGJ4TnJ6ekdudHJ5cExDd1IycU4wQnotSUZ0WU1FWEE?oc=5",
+      "publishedAt": "2026-04-23T02:18:58.000Z",
+      "source": "ドローンジャーナル",
       "_feedRegion": "jp",
       "_feedName": "Google News (JP 政策/実証)",
       "_scoring": {
@@ -433,7 +396,7 @@
         },
         "pass": true
       },
-      "implication": "国内初のADO取得は、空飛ぶクルマ企業が型式認証申請の前提となる設計検査権を自社で実施できる段階に進んだことを意味し、JCAB による個別審査負担の軽減と並行して、SkyDriveなど他の開発企業も同等の認定取得を求める圧力が高まる。",
+      "implication": "SkyDriveが国交省からADO認定を取得したことで、空飛ぶクルマの型式認証申請に向けた設計・試験段階の自社実施が可能になり、JCAB直轄の負担軽減と開発スケジュール短縮が進む一方、同認定取得を目指すテラドローンやACSLといった国内競…",
       "implicationVerified": true
     },
     {
@@ -554,6 +517,44 @@
       "implicationVerified": true
     },
     {
+      "title": "United airline's pilot reports drone strike, triggers FAA investigation near San Diego",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxPaWR0b1Z1RUUyWmNJUHRCM3V5WHBsenJPZzV5UENPVVZIOEQ3c1UzTmFQNWNXaDVwNU9QU19UaENiUXhPZ1pPeWZfWjh6dFZEY25qcUFva2xoRnhIbXRnbm5WMENGZDBqU2ZHcjVjTUhpSW5IRXZibUY3QVJwSXNIUGxlczZJaHhUM3NRLU00WEY3RWpqQU9RS1JMRzg4MjZzWVVSR25LT2I5YjJQVkdONG9TamJYLW5LYnc2OWRwY3dEMjJNNWFFSUVWbTRxeWVFSE5lN3hJRnlpa3ViN2x30gHkAUFVX3lxTE9zMlM5QjRsdk1EWS16enBfODRlXzAtNjhQLWhJWHU4TXNkNkw3Y0pON3VuVG0wVXpjam1xNXAtRFVBNzhKc1lZd254QVphTTd4VEhUM0gzWUstVF94V0lkZjRiTTdDZXlkR01uTkQtT295M1dsQzVTYjg3Rk5xYm5qWlhiTWktaEY1d2Z2V3pVa0pISzd4VDBrTDJBQzJ1RjdIWFhxSlJZU0YwLTVGZjlRc1FUNXlVamdmQ0lmR1ZTTjVPWDRhZDdsbUVCZF9ualo2dlM4eXdCdVZuUXd3RHg0OGRFNA?oc=5\" target=\"_blank\">United airline's pilot reports drone strike, triggers FAA investigation near San Diego</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economic Times</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxPaWR0b1Z1RUUyWmNJUHRCM3V5WHBsenJPZzV5UENPVVZIOEQ3c1UzTmFQNWNXaDVwNU9QU19UaENiUXhPZ1pPeWZfWjh6dFZEY25qcUFva2xoRnhIbXRnbm5WMENGZDBqU2ZHcjVjTUhpSW5IRXZibUY3QVJwSXNIUGxlczZJaHhUM3NRLU00WEY3RWpqQU9RS1JMRzg4MjZzWVVSR25LT2I5YjJQVkdONG9TamJYLW5LYnc2OWRwY3dEMjJNNWFFSUVWbTRxeWVFSE5lN3hJRnlpa3ViN2x30gHkAUFVX3lxTE9zMlM5QjRsdk1EWS16enBfODRlXzAtNjhQLWhJWHU4TXNkNkw3Y0pON3VuVG0wVXpjam1xNXAtRFVBNzhKc1lZd254QVphTTd4VEhUM0gzWUstVF94V0lkZjRiTTdDZXlkR01uTkQtT295M1dsQzVTYjg3Rk5xYm5qWlhiTWktaEY1d2Z2V3pVa0pISzd4VDBrTDJBQzJ1RjdIWFhxSlJZU0YwLTVGZjlRc1FUNXlVamdmQ0lmR1ZTTjVPWDRhZDdsbUVCZF9ualo2dlM4eXdCdVZuUXd3RHg0OGRFNA?oc=5\" target=\"_blank\">United airline's pilot reports drone strike, triggers FAA investigation near San Diego</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economic Times</font>",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPaWR0b1Z1RUUyWmNJUHRCM3V5WHBsenJPZzV5UENPVVZIOEQ3c1UzTmFQNWNXaDVwNU9QU19UaENiUXhPZ1pPeWZfWjh6dFZEY25qcUFva2xoRnhIbXRnbm5WMENGZDBqU2ZHcjVjTUhpSW5IRXZibUY3QVJwSXNIUGxlczZJaHhUM3NRLU00WEY3RWpqQU9RS1JMRzg4MjZzWVVSR25LT2I5YjJQVkdONG9TamJYLW5LYnc2OWRwY3dEMjJNNWFFSUVWbTRxeWVFSE5lN3hJRnlpa3ViN2x30gHkAUFVX3lxTE9zMlM5QjRsdk1EWS16enBfODRlXzAtNjhQLWhJWHU4TXNkNkw3Y0pON3VuVG0wVXpjam1xNXAtRFVBNzhKc1lZd254QVphTTd4VEhUM0gzWUstVF94V0lkZjRiTTdDZXlkR01uTkQtT295M1dsQzVTYjg3Rk5xYm5qWlhiTWktaEY1d2Z2V3pVa0pISzd4VDBrTDJBQzJ1RjdIWFhxSlJZU0YwLTVGZjlRc1FUNXlVamdmQ0lmR1ZTTjVPWDRhZDdsbUVCZF9ualo2dlM4eXdCdVZuUXd3RHg0OGRFNA?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPaWR0b1Z1RUUyWmNJUHRCM3V5WHBsenJPZzV5UENPVVZIOEQ3c1UzTmFQNWNXaDVwNU9QU19UaENiUXhPZ1pPeWZfWjh6dFZEY25qcUFva2xoRnhIbXRnbm5WMENGZDBqU2ZHcjVjTUhpSW5IRXZibUY3QVJwSXNIUGxlczZJaHhUM3NRLU00WEY3RWpqQU9RS1JMRzg4MjZzWVVSR25LT2I5YjJQVkdONG9TamJYLW5LYnc2OWRwY3dEMjJNNWFFSUVWbTRxeWVFSE5lN3hJRnlpa3ViN2x30gHkAUFVX3lxTE9zMlM5QjRsdk1EWS16enBfODRlXzAtNjhQLWhJWHU4TXNkNkw3Y0pON3VuVG0wVXpjam1xNXAtRFVBNzhKc1lZd254QVphTTd4VEhUM0gzWUstVF94V0lkZjRiTTdDZXlkR01uTkQtT295M1dsQzVTYjg3Rk5xYm5qWlhiTWktaEY1d2Z2V3pVa0pISzd4VDBrTDJBQzJ1RjdIWFhxSlJZU0YwLTVGZjlRc1FUNXlVamdmQ0lmR1ZTTjVPWDRhZDdsbUVCZF9ualo2dlM4eXdCdVZuUXd3RHg0OGRFNA?oc=5",
+      "publishedAt": "2026-04-30T03:04:28.000Z",
+      "source": "The Economic Times",
+      "_feedRegion": "us",
+      "_feedName": "FAA",
+      "_scoring": {
+        "score": 68,
+        "categories": [
+          "規制・政策",
+          "事故・事件"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
+          "incident": {
+            "matches": 1,
+            "catScore": 28
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 10,
+          "titleBonus": 10
+        },
+        "pass": true
+      },
+      "implication": "United航空のパイロットがサンディエゴ近郊でドローン衝突を報告したFAA調査は、有人航空機との衝突リスク管理を焦点化させ、JCABが航空法レベル4運用許可時に低高度飛行空域との分離要件をより厳格化する圧力につながる可能性が高い。",
+      "implicationVerified": true
+    },
+    {
       "title": "Pentagon, FAA to test anti-drone lasers in New Mexico after incidents",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMi5gJBVV95cUxPUWpnMWZtQUtzYUJJZzZyRFgtTjlYTS1JemFtQzA2TFVZUWxINjJPZkdBNFpGTzFWYTd3Z1M4VDBNS1BVbHdSUGpLN2pCSzFZQkNydFFEOFZ0c0pWSFlKYnA0UHcxSVI1aF8xUzNQclNpZy1mZVBxNXJxcmduSkxXR1pkSWgyR3ZMdTdkekhLd01oaG82Z195QnJ5WmF1TVQwS014Z0VEX1ZXaXhhQS01ZFhxSlBoeFpIQktjMFBMa0p0enZZLVpyUWxXZHBzYXBMU3ZHdEIycnd3VWpaMnBtY3VSMnhwMWo1X21yVVFfZzNPZnpuOWNjc0lVUlpuUGZzMm9RNGdyMi05MmJIRlN1R1dGR21hTEdPd3F3QV9OTjdEejBTU1RlaTVNZkhrY3hTRXd6OS1WbDljdUdORWQ3NU53N1hLc0ZLb3R3emV3ekZhcTJMQXpHQVEwVDhpTGNaOE9IYkxB?oc=5\" target=\"_blank\">Pentagon, FAA to test anti-drone lasers in New Mexico after incidents</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMi5gJBVV95cUxPUWpnMWZtQUtzYUJJZzZyRFgtTjlYTS1JemFtQzA2TFVZUWxINjJPZkdBNFpGTzFWYTd3Z1M4VDBNS1BVbHdSUGpLN2pCSzFZQkNydFFEOFZ0c0pWSFlKYnA0UHcxSVI1aF8xUzNQclNpZy1mZVBxNXJxcmduSkxXR1pkSWgyR3ZMdTdkekhLd01oaG82Z195QnJ5WmF1TVQwS014Z0VEX1ZXaXhhQS01ZFhxSlBoeFpIQktjMFBMa0p0enZZLVpyUWxXZHBzYXBMU3ZHdEIycnd3VWpaMnBtY3VSMnhwMWo1X21yVVFfZzNPZnpuOWNjc0lVUlpuUGZzMm9RNGdyMi05MmJIRlN1R1dGR21hTEdPd3F3QV9OTjdEejBTU1RlaTVNZkhrY3hTRXd6OS1WbDljdUdORWQ3NU53N1hLc0ZLb3R3emV3ekZhcTJMQXpHQVEwVDhpTGNaOE9IYkxB?oc=5\" target=\"_blank\">Pentagon, FAA to test anti-drone lasers in New Mexico after incidents</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
@@ -629,26 +630,26 @@
       "implicationVerified": true
     },
     {
-      "title": "【自治体インフラ点検実態調査】4割以上の職員が点検継続は困難 ドローンやAI活用は8割が有効視も導入を阻む職員の不安が浮き彫りに～東京都大田区のデジタル技術活用をセミナーで紹介～ | キヤノンマーケティングジャパン株式会社のプレスリリース",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFBaTkxMc0RidG9Gc3ppUTlEcWZ6dDd3WDRSY1ZFaUVYcm9ZdVRzZ21hM005WnVGa2Fsa1VLQlFMSnZ1QUNDcmdpbG5CbEhSRlA3WWlpbm1LSEsyRWVoQjRfN2M5bkw0UHFzenc?oc=5\" target=\"_blank\">【自治体インフラ点検実態調査】4割以上の職員が点検継続は困難 ドローンやAI活用は8割が有効視も導入を阻む職員の不安が浮き彫りに～東京都大田区のデジタル技術活用をセミナーで紹介～ | キヤノンマーケティングジャパン株式会社のプレスリリース</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR TIMES</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFBaTkxMc0RidG9Gc3ppUTlEcWZ6dDd3WDRSY1ZFaUVYcm9ZdVRzZ21hM005WnVGa2Fsa1VLQlFMSnZ1QUNDcmdpbG5CbEhSRlA3WWlpbm1LSEsyRWVoQjRfN2M5bkw0UHFzenc?oc=5\" target=\"_blank\">【自治体インフラ点検実態調査】4割以上の職員が点検継続は困難 ドローンやAI活用は8割が有効視も導入を阻む職員の不安が浮き彫りに～東京都大田区のデジタル技術活用をセミナーで紹介～ | キヤノンマーケティングジャパン株式会社のプレスリリース</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR TIMES</font>",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBaTkxMc0RidG9Gc3ppUTlEcWZ6dDd3WDRSY1ZFaUVYcm9ZdVRzZ21hM005WnVGa2Fsa1VLQlFMSnZ1QUNDcmdpbG5CbEhSRlA3WWlpbm1LSEsyRWVoQjRfN2M5bkw0UHFzenc?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBaTkxMc0RidG9Gc3ppUTlEcWZ6dDd3WDRSY1ZFaUVYcm9ZdVRzZ21hM005WnVGa2Fsa1VLQlFMSnZ1QUNDcmdpbG5CbEhSRlA3WWlpbm1LSEsyRWVoQjRfN2M5bkw0UHFzenc?oc=5",
-      "publishedAt": "2026-04-08T07:00:00.000Z",
-      "source": "PR TIMES",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP 事業者/実装)",
+      "title": "San Francisco International United Airlines pilot reports drone strike on approach to San Diego International Airport, FAA says",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZEJ0eE5wdHlidDFCbVpsV3FlZ0xYTkpSMjdxQTNJdDdWMFhqc0JUYk01OGJrRGtrSkloTVFFcFdkOW1UZ3RRSFYtYkV0d240UGp5Y1d5bkJXRXZXOFkxZzJROVpVM1NKN0U0Q3NWeVo4Ujd4MU1qdzRoTG16aWt2WU8xb3VlWnlfaVMwU0xpWWljb3NHczJJeXhWSTd5TnBFR0xQYjA0emZ6bGxvajdXY1J6a1ZGalg5dmc3ZmxkZmZjWmJyZUJyTG9xOGdwUmdKdWNOV9IB2gFBVV95cUxOa3kwc3J4bDdDNDNPNnlWb0VjdDNBYzgxZ0wyZUd0eXFvazM5aV9ubFhDcjdPTjF0MEtZelhpVUxjRHpFNGxfaHkxaEY4QlBVdW53eWNNNXNmemlqWFZmSHplbE54ZkFIdWo3c2gybm5GMVZiMGhLalJaUjJ1MUlXVGZwZmNNOUZEWkVHLWFvVS0zQTJxNjJBUlhFWkxOaTkxRjgybjNNcktfcllGUk5kdXZuT2FDV1ZWTHlfYmN2NU9GdDR6UDItLWhMdk1JQzlDRG92R29Jb2lDZw?oc=5\" target=\"_blank\">San Francisco International United Airlines pilot reports drone strike on approach to San Diego International Airport, FAA says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC7 San Francisco</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZEJ0eE5wdHlidDFCbVpsV3FlZ0xYTkpSMjdxQTNJdDdWMFhqc0JUYk01OGJrRGtrSkloTVFFcFdkOW1UZ3RRSFYtYkV0d240UGp5Y1d5bkJXRXZXOFkxZzJROVpVM1NKN0U0Q3NWeVo4Ujd4MU1qdzRoTG16aWt2WU8xb3VlWnlfaVMwU0xpWWljb3NHczJJeXhWSTd5TnBFR0xQYjA0emZ6bGxvajdXY1J6a1ZGalg5dmc3ZmxkZmZjWmJyZUJyTG9xOGdwUmdKdWNOV9IB2gFBVV95cUxOa3kwc3J4bDdDNDNPNnlWb0VjdDNBYzgxZ0wyZUd0eXFvazM5aV9ubFhDcjdPTjF0MEtZelhpVUxjRHpFNGxfaHkxaEY4QlBVdW53eWNNNXNmemlqWFZmSHplbE54ZkFIdWo3c2gybm5GMVZiMGhLalJaUjJ1MUlXVGZwZmNNOUZEWkVHLWFvVS0zQTJxNjJBUlhFWkxOaTkxRjgybjNNcktfcllGUk5kdXZuT2FDV1ZWTHlfYmN2NU9GdDR6UDItLWhMdk1JQzlDRG92R29Jb2lDZw?oc=5\" target=\"_blank\">San Francisco International United Airlines pilot reports drone strike on approach to San Diego International Airport, FAA says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC7 San Francisco</font>",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZEJ0eE5wdHlidDFCbVpsV3FlZ0xYTkpSMjdxQTNJdDdWMFhqc0JUYk01OGJrRGtrSkloTVFFcFdkOW1UZ3RRSFYtYkV0d240UGp5Y1d5bkJXRXZXOFkxZzJROVpVM1NKN0U0Q3NWeVo4Ujd4MU1qdzRoTG16aWt2WU8xb3VlWnlfaVMwU0xpWWljb3NHczJJeXhWSTd5TnBFR0xQYjA0emZ6bGxvajdXY1J6a1ZGalg5dmc3ZmxkZmZjWmJyZUJyTG9xOGdwUmdKdWNOV9IB2gFBVV95cUxOa3kwc3J4bDdDNDNPNnlWb0VjdDNBYzgxZ0wyZUd0eXFvazM5aV9ubFhDcjdPTjF0MEtZelhpVUxjRHpFNGxfaHkxaEY4QlBVdW53eWNNNXNmemlqWFZmSHplbE54ZkFIdWo3c2gybm5GMVZiMGhLalJaUjJ1MUlXVGZwZmNNOUZEWkVHLWFvVS0zQTJxNjJBUlhFWkxOaTkxRjgybjNNcktfcllGUk5kdXZuT2FDV1ZWTHlfYmN2NU9GdDR6UDItLWhMdk1JQzlDRG92R29Jb2lDZw?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZEJ0eE5wdHlidDFCbVpsV3FlZ0xYTkpSMjdxQTNJdDdWMFhqc0JUYk01OGJrRGtrSkloTVFFcFdkOW1UZ3RRSFYtYkV0d240UGp5Y1d5bkJXRXZXOFkxZzJROVpVM1NKN0U0Q3NWeVo4Ujd4MU1qdzRoTG16aWt2WU8xb3VlWnlfaVMwU0xpWWljb3NHczJJeXhWSTd5TnBFR0xQYjA0emZ6bGxvajdXY1J6a1ZGalg5dmc3ZmxkZmZjWmJyZUJyTG9xOGdwUmdKdWNOV9IB2gFBVV95cUxOa3kwc3J4bDdDNDNPNnlWb0VjdDNBYzgxZ0wyZUd0eXFvazM5aV9ubFhDcjdPTjF0MEtZelhpVUxjRHpFNGxfaHkxaEY4QlBVdW53eWNNNXNmemlqWFZmSHplbE54ZkFIdWo3c2gybm5GMVZiMGhLalJaUjJ1MUlXVGZwZmNNOUZEWkVHLWFvVS0zQTJxNjJBUlhFWkxOaTkxRjgybjNNcktfcllGUk5kdXZuT2FDV1ZWTHlfYmN2NU9GdDR6UDItLWhMdk1JQzlDRG92R29Jb2lDZw?oc=5",
+      "publishedAt": "2026-04-30T01:30:19.000Z",
+      "source": "ABC7 San Francisco",
+      "_feedRegion": "us",
+      "_feedName": "FAA",
       "_scoring": {
-        "score": 67,
+        "score": 65,
         "categories": [
-          "事故・事件",
+          "規制・政策",
           "政策・インフラ"
         ],
         "breakdown": {
           "required": true,
-          "incident": {
+          "regulation": {
             "matches": 1,
-            "catScore": 28
+            "catScore": 32
           },
           "policy": {
             "matches": 1,
@@ -658,14 +659,11 @@
             "domain": "news.google.com",
             "multiplier": 0.8
           },
-          "freshness": 0,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
+          "freshness": 10,
+          "titleBonus": 10
         },
         "pass": true
-      },
-      "implication": "東京都大田区の実装事例が示すドローン・AI点検の職員受容性の低さは、JCAB航空法レベル4認可後の自治体インフラ点検案件における人材育成・運用体制構築が単なる規制クリアではなく、現場の不安解消が実用化の律速段階であることを浮き彫りにし、テ…",
-      "implicationVerified": true
+      }
     },
     {
       "title": "FAA Investigates Mid-Air Drone Encounter Near San Diego Airport",
@@ -704,12 +702,48 @@
       }
     },
     {
+      "title": "UWF Students Partner with MIT to Evaluate Northwest Florida’s Potential as UAS Manufacturing Hub | Newswise",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPLTNPVWFZUmdYZUc2aDlLaW5yYjZiOEhxUkNqQzYtZWZ5anM5YVNMalRZUXZRMmt6cEJfbWp6SEQ5Z1YyUnM0TkM2cnhZWi1RWXFFT0dHVFEtNnR6Wkd0N1J6N0hOanVna3R0LTBsdl90QmFNZlh6UDJBRHE4bk9SX0U3YVBmTHNiSnZFYUcxakJLbDZXY21rM0FoZmVlYnVTRjVLTFI3OWFsWUxubW1QdjA2YnhCSlY0YzZJLUxOdnJDR2xCN3ZUbTlB0gHKAUFVX3lxTE8tM09VYVlSZ1hlRzZoOUtpbnJiNmI4SHFSQ2pDNi1lZnlqczlhU0xqVFlRdlEya3pwQl9tanpIRDlnVjJSczROQzZyeFlaLVFZcUVPR0dUUS02dHpaR3Q3Uno3SE5qdWdrdHQtMGx2X3RCYU1mWHpQMkFEcThuT1JfRTdhUGZMc2JKdkVhRzFqQktsNldjbWszQWhmZWVidVNGNUtMUjc5YWxZTG5tbVB2MDZieEJKVjRjNkktTE52ckNHbEI3dlRtOUE?oc=5\" target=\"_blank\">UWF Students Partner with MIT to Evaluate Northwest Florida’s Potential as UAS Manufacturing Hub | Newswise</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Newswise</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPLTNPVWFZUmdYZUc2aDlLaW5yYjZiOEhxUkNqQzYtZWZ5anM5YVNMalRZUXZRMmt6cEJfbWp6SEQ5Z1YyUnM0TkM2cnhZWi1RWXFFT0dHVFEtNnR6Wkd0N1J6N0hOanVna3R0LTBsdl90QmFNZlh6UDJBRHE4bk9SX0U3YVBmTHNiSnZFYUcxakJLbDZXY21rM0FoZmVlYnVTRjVLTFI3OWFsWUxubW1QdjA2YnhCSlY0YzZJLUxOdnJDR2xCN3ZUbTlB0gHKAUFVX3lxTE8tM09VYVlSZ1hlRzZoOUtpbnJiNmI4SHFSQ2pDNi1lZnlqczlhU0xqVFlRdlEya3pwQl9tanpIRDlnVjJSczROQzZyeFlaLVFZcUVPR0dUUS02dHpaR3Q3Uno3SE5qdWdrdHQtMGx2X3RCYU1mWHpQMkFEcThuT1JfRTdhUGZMc2JKdkVhRzFqQktsNldjbWszQWhmZWVidVNGNUtMUjc5YWxZTG5tbVB2MDZieEJKVjRjNkktTE52ckNHbEI3dlRtOUE?oc=5\" target=\"_blank\">UWF Students Partner with MIT to Evaluate Northwest Florida’s Potential as UAS Manufacturing Hub | Newswise</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Newswise</font>",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPLTNPVWFZUmdYZUc2aDlLaW5yYjZiOEhxUkNqQzYtZWZ5anM5YVNMalRZUXZRMmt6cEJfbWp6SEQ5Z1YyUnM0TkM2cnhZWi1RWXFFT0dHVFEtNnR6Wkd0N1J6N0hOanVna3R0LTBsdl90QmFNZlh6UDJBRHE4bk9SX0U3YVBmTHNiSnZFYUcxakJLbDZXY21rM0FoZmVlYnVTRjVLTFI3OWFsWUxubW1QdjA2YnhCSlY0YzZJLUxOdnJDR2xCN3ZUbTlB0gHKAUFVX3lxTE8tM09VYVlSZ1hlRzZoOUtpbnJiNmI4SHFSQ2pDNi1lZnlqczlhU0xqVFlRdlEya3pwQl9tanpIRDlnVjJSczROQzZyeFlaLVFZcUVPR0dUUS02dHpaR3Q3Uno3SE5qdWdrdHQtMGx2X3RCYU1mWHpQMkFEcThuT1JfRTdhUGZMc2JKdkVhRzFqQktsNldjbWszQWhmZWVidVNGNUtMUjc5YWxZTG5tbVB2MDZieEJKVjRjNkktTE52ckNHbEI3dlRtOUE?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPLTNPVWFZUmdYZUc2aDlLaW5yYjZiOEhxUkNqQzYtZWZ5anM5YVNMalRZUXZRMmt6cEJfbWp6SEQ5Z1YyUnM0TkM2cnhZWi1RWXFFT0dHVFEtNnR6Wkd0N1J6N0hOanVna3R0LTBsdl90QmFNZlh6UDJBRHE4bk9SX0U3YVBmTHNiSnZFYUcxakJLbDZXY21rM0FoZmVlYnVTRjVLTFI3OWFsWUxubW1QdjA2YnhCSlY0YzZJLUxOdnJDR2xCN3ZUbTlB0gHKAUFVX3lxTE8tM09VYVlSZ1hlRzZoOUtpbnJiNmI4SHFSQ2pDNi1lZnlqczlhU0xqVFlRdlEya3pwQl9tanpIRDlnVjJSczROQzZyeFlaLVFZcUVPR0dUUS02dHpaR3Q3Uno3SE5qdWdrdHQtMGx2X3RCYU1mWHpQMkFEcThuT1JfRTdhUGZMc2JKdkVhRzFqQktsNldjbWszQWhmZWVidVNGNUtMUjc5YWxZTG5tbVB2MDZieEJKVjRjNkktTE52ckNHbEI3dlRtOUE?oc=5",
+      "publishedAt": "2026-04-30T00:30:00.000Z",
+      "source": "Newswise",
+      "_feedRegion": "global",
+      "_feedName": "Google News (Global)",
+      "_scoring": {
+        "score": 65,
+        "categories": [
+          "規制・政策",
+          "技術・製品"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 10,
+          "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
       "title": "テラドローン、ウクライナ企業に出資 2社目、迎撃機を量産",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPU1Y4R19MMldUSU5BSlhxa1ZQaTZWbThETGpqZ0tPbFpROHNDQkVINWxmeUFMYzhXMDJfbVRtUjNVZ0dQZV9WaU9zTWNNNHYtWVdzcGlSTkFNWkZzYzRHcHBQeXYtS1BiNDc5TnVteVdlaU1PQ0NBcExrYlpDcnFOVDVNNkVRTWczQVZudm9BcVFDS2JkbXVndzZ3UllLWUlvUjV1em5VQmo?oc=5\" target=\"_blank\">テラドローン、ウクライナ企業に出資 2社目、迎撃機を量産</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPU1Y4R19MMldUSU5BSlhxa1ZQaTZWbThETGpqZ0tPbFpROHNDQkVINWxmeUFMYzhXMDJfbVRtUjNVZ0dQZV9WaU9zTWNNNHYtWVdzcGlSTkFNWkZzYzRHcHBQeXYtS1BiNDc5TnVteVdlaU1PQ0NBcExrYlpDcnFOVDVNNkVRTWczQVZudm9BcVFDS2JkbXVndzZ3UllLWUlvUjV1em5VQmo?oc=5\" target=\"_blank\">テラドローン、ウクライナ企業に出資 2社目、迎撃機を量産</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPU1Y4R19MMldUSU5BSlhxa1ZQaTZWbThETGpqZ0tPbFpROHNDQkVINWxmeUFMYzhXMDJfbVRtUjNVZ0dQZV9WaU9zTWNNNHYtWVdzcGlSTkFNWkZzYzRHcHBQeXYtS1BiNDc5TnVteVdlaU1PQ0NBcExrYlpDcnFOVDVNNkVRTWczQVZudm9BcVFDS2JkbXVndzZ3UllLWUlvUjV1em5VQmo?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPU1Y4R19MMldUSU5BSlhxa1ZQaTZWbThETGpqZ0tPbFpROHNDQkVINWxmeUFMYzhXMDJfbVRtUjNVZ0dQZV9WaU9zTWNNNHYtWVdzcGlSTkFNWkZzYzRHcHBQeXYtS1BiNDc5TnVteVdlaU1PQ0NBcExrYlpDcnFOVDVNNkVRTWczQVZudm9BcVFDS2JkbXVndzZ3UllLWUlvUjV1em5VQmo?oc=5",
-      "publishedAt": "2026-04-28T17:11:21.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNQXJqaFY0a2Q1MTBnTndvRUh5VDVlUlR4bEVMSjRfLWVjT3NZdkRsMlZIcE9YNmtzaE9ybUNIaU5Jc3U0NkxiNGFKVmNhZEl4Tlg2bkpvVFNqcnFlOHpGTmVYTG5fWFVXclhXRWJNRWlfdTNwS1pPRFBrdC1nczRTWmZ3Z0h3OFRUdnNHSW5Gd0YyQlh4Z2VETHJ3ckRUdVppVlE?oc=5\" target=\"_blank\">テラドローン、ウクライナ企業に出資 2社目、迎撃機を量産</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNQXJqaFY0a2Q1MTBnTndvRUh5VDVlUlR4bEVMSjRfLWVjT3NZdkRsMlZIcE9YNmtzaE9ybUNIaU5Jc3U0NkxiNGFKVmNhZEl4Tlg2bkpvVFNqcnFlOHpGTmVYTG5fWFVXclhXRWJNRWlfdTNwS1pPRFBrdC1nczRTWmZ3Z0h3OFRUdnNHSW5Gd0YyQlh4Z2VETHJ3ckRUdVppVlE?oc=5\" target=\"_blank\">テラドローン、ウクライナ企業に出資 2社目、迎撃機を量産</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQXJqaFY0a2Q1MTBnTndvRUh5VDVlUlR4bEVMSjRfLWVjT3NZdkRsMlZIcE9YNmtzaE9ybUNIaU5Jc3U0NkxiNGFKVmNhZEl4Tlg2bkpvVFNqcnFlOHpGTmVYTG5fWFVXclhXRWJNRWlfdTNwS1pPRFBrdC1nczRTWmZ3Z0h3OFRUdnNHSW5Gd0YyQlh4Z2VETHJ3ckRUdVppVlE?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQXJqaFY0a2Q1MTBnTndvRUh5VDVlUlR4bEVMSjRfLWVjT3NZdkRsMlZIcE9YNmtzaE9ybUNIaU5Jc3U0NkxiNGFKVmNhZEl4Tlg2bkpvVFNqcnFlOHpGTmVYTG5fWFVXclhXRWJNRWlfdTNwS1pPRFBrdC1nczRTWmZ3Z0h3OFRUdnNHSW5Gd0YyQlh4Z2VETHJ3ckRUdVppVlE?oc=5",
+      "publishedAt": "2026-04-28T19:18:45.000Z",
       "source": "日本経済新聞",
       "_feedRegion": "jp",
       "_feedName": "Google News (JP 経済メディア)",
@@ -863,7 +897,7 @@
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFBSemFweDd6NmJZTFFkSGM1SUhZa2xTTXoyWUxCQ19JdjlNSmRDODI3aDNnSXFpVVpBNUNDNjZJOXVia0lVZGZTM1ZaVHVrdGV1VjlWM0p5V0xYSkYzRktYaExBSHB0YVFvM0E?oc=5\" target=\"_blank\">レベル3.5飛行の安全対策、B&PLUSがAIによるドローン自動停止技術を開発</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ドローンジャーナル</font>",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBSemFweDd6NmJZTFFkSGM1SUhZa2xTTXoyWUxCQ19JdjlNSmRDODI3aDNnSXFpVVpBNUNDNjZJOXVia0lVZGZTM1ZaVHVrdGV1VjlWM0p5V0xYSkYzRktYaExBSHB0YVFvM0E?oc=5",
       "googleNewsUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBSemFweDd6NmJZTFFkSGM1SUhZa2xTTXoyWUxCQ19JdjlNSmRDODI3aDNnSXFpVVpBNUNDNjZJOXVia0lVZGZTM1ZaVHVrdGV1VjlWM0p5V0xYSkYzRktYaExBSHB0YVFvM0E?oc=5",
-      "publishedAt": "2026-04-22T07:54:55.000Z",
+      "publishedAt": "2026-04-22T07:00:00.000Z",
       "source": "ドローンジャーナル",
       "_feedRegion": "jp",
       "_feedName": "Google News (JP)",
@@ -971,50 +1005,14 @@
     },
     {
       "title": "CBP shot down party balloons with anti-drone tech before FAA closed El Paso airspace, sources say",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMipgNBVV95cUxQZG92a01VWW9wZWV2U3pnX0FfZmlGUUVXaU9SUDNtZ0FjZ1pCZkJGU29lNGJwN3RTMnNqUzJaOXBxTUZJNTBKVlNVTGRMUXBrWUtfeXJKX2tYOHlPR05yd04wMnlpYTBYclhVX0YtdGFsZm50RDZ4Q1NSbkp1UkdmV1FTYWN4RGU3OVJPTkZ3eFlYQ21uS1lORU1Yb0NlWVZTWXZJQ2V1Wmx0OTJESjQtNGE5U1RfTm9KbEZOdTQyeXN0alJyc1pYSWVLQUY4bnVPcmxUSHljWGR0UTJRa3lrSUN2ZU5kVTZfMXI0TWI5V3o0aHZuRlVWdjhHOXFIODVNcUwydVVjb3lfb0VJYWRGdVJfNVZXcG51MjNEUWVJRkwzcEFWaDVabC1ZWXJJZXZoMFZuSkROT29Wdzk1WDdSUzJVaDRUVFFiX2JQTE1qaUNRS2dEVEE0dVJFcWdhUU9hcHpxTDZvbE5zSG1PdUxuUHhvV1RGdzNxU2pIZU1uSHJObHVpT2plRDVpNDQ4RmpYTnN3MHk3Ty1MTmt5T3VVOHhZZ3p4Zw?oc=5\" target=\"_blank\">CBP shot down party balloons with anti-drone tech before FAA closed El Paso airspace, sources say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMipgNBVV95cUxQZG92a01VWW9wZWV2U3pnX0FfZmlGUUVXaU9SUDNtZ0FjZ1pCZkJGU29lNGJwN3RTMnNqUzJaOXBxTUZJNTBKVlNVTGRMUXBrWUtfeXJKX2tYOHlPR05yd04wMnlpYTBYclhVX0YtdGFsZm50RDZ4Q1NSbkp1UkdmV1FTYWN4RGU3OVJPTkZ3eFlYQ21uS1lORU1Yb0NlWVZTWXZJQ2V1Wmx0OTJESjQtNGE5U1RfTm9KbEZOdTQyeXN0alJyc1pYSWVLQUY4bnVPcmxUSHljWGR0UTJRa3lrSUN2ZU5kVTZfMXI0TWI5V3o0aHZuRlVWdjhHOXFIODVNcUwydVVjb3lfb0VJYWRGdVJfNVZXcG51MjNEUWVJRkwzcEFWaDVabC1ZWXJJZXZoMFZuSkROT29Wdzk1WDdSUzJVaDRUVFFiX2JQTE1qaUNRS2dEVEE0dVJFcWdhUU9hcHpxTDZvbE5zSG1PdUxuUHhvV1RGdzNxU2pIZU1uSHJObHVpT2plRDVpNDQ4RmpYTnN3MHk3Ty1MTmt5T3VVOHhZZ3p4Zw?oc=5\" target=\"_blank\">CBP shot down party balloons with anti-drone tech before FAA closed El Paso airspace, sources say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
-      "url": "https://news.google.com/rss/articles/CBMipgNBVV95cUxQZG92a01VWW9wZWV2U3pnX0FfZmlGUUVXaU9SUDNtZ0FjZ1pCZkJGU29lNGJwN3RTMnNqUzJaOXBxTUZJNTBKVlNVTGRMUXBrWUtfeXJKX2tYOHlPR05yd04wMnlpYTBYclhVX0YtdGFsZm50RDZ4Q1NSbkp1UkdmV1FTYWN4RGU3OVJPTkZ3eFlYQ21uS1lORU1Yb0NlWVZTWXZJQ2V1Wmx0OTJESjQtNGE5U1RfTm9KbEZOdTQyeXN0alJyc1pYSWVLQUY4bnVPcmxUSHljWGR0UTJRa3lrSUN2ZU5kVTZfMXI0TWI5V3o0aHZuRlVWdjhHOXFIODVNcUwydVVjb3lfb0VJYWRGdVJfNVZXcG51MjNEUWVJRkwzcEFWaDVabC1ZWXJJZXZoMFZuSkROT29Wdzk1WDdSUzJVaDRUVFFiX2JQTE1qaUNRS2dEVEE0dVJFcWdhUU9hcHpxTDZvbE5zSG1PdUxuUHhvV1RGdzNxU2pIZU1uSHJObHVpT2plRDVpNDQ4RmpYTnN3MHk3Ty1MTmt5T3VVOHhZZ3p4Zw?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMipgNBVV95cUxQZG92a01VWW9wZWV2U3pnX0FfZmlGUUVXaU9SUDNtZ0FjZ1pCZkJGU29lNGJwN3RTMnNqUzJaOXBxTUZJNTBKVlNVTGRMUXBrWUtfeXJKX2tYOHlPR05yd04wMnlpYTBYclhVX0YtdGFsZm50RDZ4Q1NSbkp1UkdmV1FTYWN4RGU3OVJPTkZ3eFlYQ21uS1lORU1Yb0NlWVZTWXZJQ2V1Wmx0OTJESjQtNGE5U1RfTm9KbEZOdTQyeXN0alJyc1pYSWVLQUY4bnVPcmxUSHljWGR0UTJRa3lrSUN2ZU5kVTZfMXI0TWI5V3o0aHZuRlVWdjhHOXFIODVNcUwydVVjb3lfb0VJYWRGdVJfNVZXcG51MjNEUWVJRkwzcEFWaDVabC1ZWXJJZXZoMFZuSkROT29Wdzk1WDdSUzJVaDRUVFFiX2JQTE1qaUNRS2dEVEE0dVJFcWdhUU9hcHpxTDZvbE5zSG1PdUxuUHhvV1RGdzNxU2pIZU1uSHJObHVpT2plRDVpNDQ4RmpYTnN3MHk3Ty1MTmt5T3VVOHhZZ3p4Zw?oc=5",
-      "publishedAt": "2026-04-29T19:58:10.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMijgNBVV95cUxNR29vMmR6RHVkblJtb1NxMGJhVGZ4aFpjVEVGX3VZSW13c1BXU0lfblFEQm1pZmZSWm5PQW1IRFE5WUlRRk4wU2hIRlBRa3pmWnpabXVXcnpIUjJPUTZQUS0wQzZsUnlNUnJzczBVd2g3UHhxZFRhRjRiaFczLXJhQVRGckwzMXFkQy13WVJ0LS1yU1YxZVpnY3BoSUt3cWJCNWUxUE40cUl0aEJBb01QNHd6SUtYSGQ1aUJCYnZjbFFvMWN2eFBZXzFETHJ3SThnWUg5RlBEVS1VQ3pNU1A4RjZHYjBpd1RhbnNpYU40Z0JMRmsxQ0E4aDMyZWtqUDhTRW5ZbDRmSVVzbnpEbmRoWWxGUm5nV0VUZlRnNVo2R3ZuaGc4Y1lrM3V3cnBRMlNhRmNiVmNubldjNWFiR3BPUVpsbi03c1h6ZUJ4NUVKMzd0eVdzQ3VfY2F3SmRadjRidGpWLUtDOEZKWExGMGlQZ193RWRVLURGNUFQQmVNRzV6ZThiX1NsVEZtU240UQ?oc=5\" target=\"_blank\">CBP shot down party balloons with anti-drone tech before FAA closed El Paso airspace, sources say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMijgNBVV95cUxNR29vMmR6RHVkblJtb1NxMGJhVGZ4aFpjVEVGX3VZSW13c1BXU0lfblFEQm1pZmZSWm5PQW1IRFE5WUlRRk4wU2hIRlBRa3pmWnpabXVXcnpIUjJPUTZQUS0wQzZsUnlNUnJzczBVd2g3UHhxZFRhRjRiaFczLXJhQVRGckwzMXFkQy13WVJ0LS1yU1YxZVpnY3BoSUt3cWJCNWUxUE40cUl0aEJBb01QNHd6SUtYSGQ1aUJCYnZjbFFvMWN2eFBZXzFETHJ3SThnWUg5RlBEVS1VQ3pNU1A4RjZHYjBpd1RhbnNpYU40Z0JMRmsxQ0E4aDMyZWtqUDhTRW5ZbDRmSVVzbnpEbmRoWWxGUm5nV0VUZlRnNVo2R3ZuaGc4Y1lrM3V3cnBRMlNhRmNiVmNubldjNWFiR3BPUVpsbi03c1h6ZUJ4NUVKMzd0eVdzQ3VfY2F3SmRadjRidGpWLUtDOEZKWExGMGlQZ193RWRVLURGNUFQQmVNRzV6ZThiX1NsVEZtU240UQ?oc=5\" target=\"_blank\">CBP shot down party balloons with anti-drone tech before FAA closed El Paso airspace, sources say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+      "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxNR29vMmR6RHVkblJtb1NxMGJhVGZ4aFpjVEVGX3VZSW13c1BXU0lfblFEQm1pZmZSWm5PQW1IRFE5WUlRRk4wU2hIRlBRa3pmWnpabXVXcnpIUjJPUTZQUS0wQzZsUnlNUnJzczBVd2g3UHhxZFRhRjRiaFczLXJhQVRGckwzMXFkQy13WVJ0LS1yU1YxZVpnY3BoSUt3cWJCNWUxUE40cUl0aEJBb01QNHd6SUtYSGQ1aUJCYnZjbFFvMWN2eFBZXzFETHJ3SThnWUg5RlBEVS1VQ3pNU1A4RjZHYjBpd1RhbnNpYU40Z0JMRmsxQ0E4aDMyZWtqUDhTRW5ZbDRmSVVzbnpEbmRoWWxGUm5nV0VUZlRnNVo2R3ZuaGc4Y1lrM3V3cnBRMlNhRmNiVmNubldjNWFiR3BPUVpsbi03c1h6ZUJ4NUVKMzd0eVdzQ3VfY2F3SmRadjRidGpWLUtDOEZKWExGMGlQZ193RWRVLURGNUFQQmVNRzV6ZThiX1NsVEZtU240UQ?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMijgNBVV95cUxNR29vMmR6RHVkblJtb1NxMGJhVGZ4aFpjVEVGX3VZSW13c1BXU0lfblFEQm1pZmZSWm5PQW1IRFE5WUlRRk4wU2hIRlBRa3pmWnpabXVXcnpIUjJPUTZQUS0wQzZsUnlNUnJzczBVd2g3UHhxZFRhRjRiaFczLXJhQVRGckwzMXFkQy13WVJ0LS1yU1YxZVpnY3BoSUt3cWJCNWUxUE40cUl0aEJBb01QNHd6SUtYSGQ1aUJCYnZjbFFvMWN2eFBZXzFETHJ3SThnWUg5RlBEVS1VQ3pNU1A4RjZHYjBpd1RhbnNpYU40Z0JMRmsxQ0E4aDMyZWtqUDhTRW5ZbDRmSVVzbnpEbmRoWWxGUm5nV0VUZlRnNVo2R3ZuaGc4Y1lrM3V3cnBRMlNhRmNiVmNubldjNWFiR3BPUVpsbi03c1h6ZUJ4NUVKMzd0eVdzQ3VfY2F3SmRadjRidGpWLUtDOEZKWExGMGlQZ193RWRVLURGNUFQQmVNRzV6ZThiX1NsVEZtU240UQ?oc=5",
+      "publishedAt": "2026-04-29T20:37:59.000Z",
       "source": "MSN",
       "_feedRegion": "us",
       "_feedName": "FAA",
-      "_scoring": {
-        "score": 62,
-        "categories": [
-          "規制・政策",
-          "市場・資金"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 1,
-            "catScore": 32
-          },
-          "market": {
-            "matches": 1,
-            "catScore": 20
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 10,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "ACHR vs. EVTL: Which eVTOL Stock Offers Stronger Growth Potential?",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPLXgtTk5fRTlYeE5sU3VfYWliZmdzSkVmd0JaSThSYkpHU1lpaTB5cjdFUjV6el9UN1FLYVNua0JnTjE5dUpjODBaU3BQTnNvY3ROOXl3Zy1vMnpBVDZEQUhQV1lHUWUwZjRnWFV2RkMwRmQ1elFGN1FEZ1k4ZVhIaS1QeEMyQWN6aW5mR2xtWkN0WGVOa1pwRk5fRDRmaTNRYUo0cHRUaw?oc=5\" target=\"_blank\">ACHR vs. EVTL: Which eVTOL Stock Offers Stronger Growth Potential?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Zacks Investment Research</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPLXgtTk5fRTlYeE5sU3VfYWliZmdzSkVmd0JaSThSYkpHU1lpaTB5cjdFUjV6el9UN1FLYVNua0JnTjE5dUpjODBaU3BQTnNvY3ROOXl3Zy1vMnpBVDZEQUhQV1lHUWUwZjRnWFV2RkMwRmQ1elFGN1FEZ1k4ZVhIaS1QeEMyQWN6aW5mR2xtWkN0WGVOa1pwRk5fRDRmaTNRYUo0cHRUaw?oc=5\" target=\"_blank\">ACHR vs. EVTL: Which eVTOL Stock Offers Stronger Growth Potential?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Zacks Investment Research</font>",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPLXgtTk5fRTlYeE5sU3VfYWliZmdzSkVmd0JaSThSYkpHU1lpaTB5cjdFUjV6el9UN1FLYVNua0JnTjE5dUpjODBaU3BQTnNvY3ROOXl3Zy1vMnpBVDZEQUhQV1lHUWUwZjRnWFV2RkMwRmQ1elFGN1FEZ1k4ZVhIaS1QeEMyQWN6aW5mR2xtWkN0WGVOa1pwRk5fRDRmaTNRYUo0cHRUaw?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPLXgtTk5fRTlYeE5sU3VfYWliZmdzSkVmd0JaSThSYkpHU1lpaTB5cjdFUjV6el9UN1FLYVNua0JnTjE5dUpjODBaU3BQTnNvY3ROOXl3Zy1vMnpBVDZEQUhQV1lHUWUwZjRnWFV2RkMwRmQ1elFGN1FEZ1k4ZVhIaS1QeEMyQWN6aW5mR2xtWkN0WGVOa1pwRk5fRDRmaTNRYUo0cHRUaw?oc=5",
-      "publishedAt": "2026-04-29T14:51:37.000Z",
-      "source": "Zacks Investment Research",
-      "_feedRegion": "global",
-      "_feedName": "Google News (Global)",
       "_scoring": {
         "score": 62,
         "categories": [
@@ -1123,7 +1121,7 @@
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE1HX3hCTlZIX3RKa1ZUUkFPam05dXA3Q2lMalpJZC16SlZYelY0TFhVY3JXbWVRTVlrMmpIbzN2aV9NX3pBeXB1cTU5ZjVLR0dic2VyMThUMW4ycmgxZlhzYW5OcUcxSFFRUGc?oc=5\" target=\"_blank\">FAA launches quick-settlement path for drone rule breakers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DroneDJ</font>",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1HX3hCTlZIX3RKa1ZUUkFPam05dXA3Q2lMalpJZC16SlZYelY0TFhVY3JXbWVRTVlrMmpIbzN2aV9NX3pBeXB1cTU5ZjVLR0dic2VyMThUMW4ycmgxZlhzYW5OcUcxSFFRUGc?oc=5",
       "googleNewsUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1HX3hCTlZIX3RKa1ZUUkFPam05dXA3Q2lMalpJZC16SlZYelY0TFhVY3JXbWVRTVlrMmpIbzN2aV9NX3pBeXB1cTU5ZjVLR0dic2VyMThUMW4ycmgxZlhzYW5OcUcxSFFRUGc?oc=5",
-      "publishedAt": "2026-04-23T06:27:00.000Z",
+      "publishedAt": "2026-04-22T07:00:00.000Z",
       "source": "DroneDJ",
       "_feedRegion": "us",
       "_feedName": "FAA",
