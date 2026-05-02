@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-02T07:13:31.326Z",
-  "rawCount": 693,
+  "generatedAt": "2026-05-02T10:38:39.231Z",
+  "rawCount": 671,
   "articles": [
     {
       "title": "Travel Safety Warning as United Airlines Flight Encounters Drone Near San Diego, FAA Probes Incident That Highlights Rising Threat to Security and Commercial Passengers’ Safety in Busy Airspace",
@@ -13,7 +13,7 @@
       "_feedRegion": "us",
       "_feedName": "FAA",
       "_scoring": {
-        "score": 85,
+        "score": 82,
         "categories": [
           "規制・政策",
           "市場・資金",
@@ -37,7 +37,7 @@
             "domain": "news.google.com",
             "multiplier": 0.8
           },
-          "freshness": 5,
+          "freshness": 2,
           "titleBonus": 10
         },
         "pass": true
@@ -130,78 +130,36 @@
       "implicationVerified": true
     },
     {
-      "title": "NEDO「デジタルライフライン整備事業／ドローン航路の実証」インドネシア東ジャワ州においてドローン航路の海外展開可能性に関する調査・実証を実施、国際共同研究・政策支援コンソーシアムの設立へ",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE03ajJBM0RVaExoSV9RRHhhdWQtNjFIRkFfRVQxeVlBOVFmT0V3cUFXcjVISHBoWTFYaXRLTmE2dDRNdW1QY0JZLWVmUFFpZVFHU2VKOWx5aTZEN3NhOVI3R01MYWw3Tk9yR0E?oc=5\" target=\"_blank\">NEDO「デジタルライフライン整備事業／ドローン航路の実証」インドネシア東ジャワ州においてドローン航路の海外展開可能性に関する調査・実証を実施、国際共同研究・政策支援コンソーシアムの設立へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR TIMES</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE03ajJBM0RVaExoSV9RRHhhdWQtNjFIRkFfRVQxeVlBOVFmT0V3cUFXcjVISHBoWTFYaXRLTmE2dDRNdW1QY0JZLWVmUFFpZVFHU2VKOWx5aTZEN3NhOVI3R01MYWw3Tk9yR0E?oc=5\" target=\"_blank\">NEDO「デジタルライフライン整備事業／ドローン航路の実証」インドネシア東ジャワ州においてドローン航路の海外展開可能性に関する調査・実証を実施、国際共同研究・政策支援コンソーシアムの設立へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR TIMES</font>",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE03ajJBM0RVaExoSV9RRHhhdWQtNjFIRkFfRVQxeVlBOVFmT0V3cUFXcjVISHBoWTFYaXRLTmE2dDRNdW1QY0JZLWVmUFFpZVFHU2VKOWx5aTZEN3NhOVI3R01MYWw3Tk9yR0E?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE03ajJBM0RVaExoSV9RRHhhdWQtNjFIRkFfRVQxeVlBOVFmT0V3cUFXcjVISHBoWTFYaXRLTmE2dDRNdW1QY0JZLWVmUFFpZVFHU2VKOWx5aTZEN3NhOVI3R01MYWw3Tk9yR0E?oc=5",
-      "publishedAt": "2026-05-01T07:30:01.000Z",
-      "source": "PR TIMES",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP 政策/実証)",
-      "_scoring": {
-        "score": 77,
-        "categories": [
-          "事故・事件",
-          "政策・インフラ"
-        ],
-        "breakdown": {
-          "required": true,
-          "incident": {
-            "matches": 1,
-            "catScore": 28
-          },
-          "policy": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 10,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "FAA affirms safety of anti-drone lasers following Texas airspace closures",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi6wJBVV95cUxPUXVCYnVLQmd4X19GMmh6R2FkaGtJX1JfZEdRYWJQeUxyQ0pjbVVmb2o0UDFra2doRUVWWGRwZWRGazdYaXZfV003b1lPbldyaEd4YXNwc2NBVTZLWTJPMXFIakpqWDVkYjVCRF9OR0dubWZ6ZTNRZjhaMmdlb2w5Q003YjQ2TGJKY2g1dHhNZzVCMUhINGhycW05dlJfT3FGOHdBanBaUnRtZDZvSlp2blB0aDF1WG01eUFrdm1ZS2JEM2gxUzd4QmFmekJHVnd3Y0diajdwcVNOb081T1dxX2tJYjktM2M4X3otMUlsT0l0Tkt3TTAtbWVIa0pGR3M0RVJtc2VYQnpLc3ZUSm5tLXZ6Z3I4WHFjZFN5X0UweEdBY1FJNkgyZDk5d1N1TWxBb2tBeGpZWTJDcGxDQ05Vanh4RzVQeXBMR3pWcDhRR1VZZng4SzdIUEFyOVc2ZHA1dGtwVFlBQWxjOFE?oc=5\" target=\"_blank\">FAA affirms safety of anti-drone lasers following Texas airspace closures</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMi6wJBVV95cUxPUXVCYnVLQmd4X19GMmh6R2FkaGtJX1JfZEdRYWJQeUxyQ0pjbVVmb2o0UDFra2doRUVWWGRwZWRGazdYaXZfV003b1lPbldyaEd4YXNwc2NBVTZLWTJPMXFIakpqWDVkYjVCRF9OR0dubWZ6ZTNRZjhaMmdlb2w5Q003YjQ2TGJKY2g1dHhNZzVCMUhINGhycW05dlJfT3FGOHdBanBaUnRtZDZvSlp2blB0aDF1WG01eUFrdm1ZS2JEM2gxUzd4QmFmekJHVnd3Y0diajdwcVNOb081T1dxX2tJYjktM2M4X3otMUlsT0l0Tkt3TTAtbWVIa0pGR3M0RVJtc2VYQnpLc3ZUSm5tLXZ6Z3I4WHFjZFN5X0UweEdBY1FJNkgyZDk5d1N1TWxBb2tBeGpZWTJDcGxDQ05Vanh4RzVQeXBMR3pWcDhRR1VZZng4SzdIUEFyOVc2ZHA1dGtwVFlBQWxjOFE?oc=5\" target=\"_blank\">FAA affirms safety of anti-drone lasers following Texas airspace closures</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
-      "url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxPUXVCYnVLQmd4X19GMmh6R2FkaGtJX1JfZEdRYWJQeUxyQ0pjbVVmb2o0UDFra2doRUVWWGRwZWRGazdYaXZfV003b1lPbldyaEd4YXNwc2NBVTZLWTJPMXFIakpqWDVkYjVCRF9OR0dubWZ6ZTNRZjhaMmdlb2w5Q003YjQ2TGJKY2g1dHhNZzVCMUhINGhycW05dlJfT3FGOHdBanBaUnRtZDZvSlp2blB0aDF1WG01eUFrdm1ZS2JEM2gxUzd4QmFmekJHVnd3Y0diajdwcVNOb081T1dxX2tJYjktM2M4X3otMUlsT0l0Tkt3TTAtbWVIa0pGR3M0RVJtc2VYQnpLc3ZUSm5tLXZ6Z3I4WHFjZFN5X0UweEdBY1FJNkgyZDk5d1N1TWxBb2tBeGpZWTJDcGxDQ05Vanh4RzVQeXBMR3pWcDhRR1VZZng4SzdIUEFyOVc2ZHA1dGtwVFlBQWxjOFE?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxPUXVCYnVLQmd4X19GMmh6R2FkaGtJX1JfZEdRYWJQeUxyQ0pjbVVmb2o0UDFra2doRUVWWGRwZWRGazdYaXZfV003b1lPbldyaEd4YXNwc2NBVTZLWTJPMXFIakpqWDVkYjVCRF9OR0dubWZ6ZTNRZjhaMmdlb2w5Q003YjQ2TGJKY2g1dHhNZzVCMUhINGhycW05dlJfT3FGOHdBanBaUnRtZDZvSlp2blB0aDF1WG01eUFrdm1ZS2JEM2gxUzd4QmFmekJHVnd3Y0diajdwcVNOb081T1dxX2tJYjktM2M4X3otMUlsT0l0Tkt3TTAtbWVIa0pGR3M0RVJtc2VYQnpLc3ZUSm5tLXZ6Z3I4WHFjZFN5X0UweEdBY1FJNkgyZDk5d1N1TWxBb2tBeGpZWTJDcGxDQ05Vanh4RzVQeXBMR3pWcDhRR1VZZng4SzdIUEFyOVc2ZHA1dGtwVFlBQWxjOFE?oc=5",
-      "publishedAt": "2026-04-28T19:21:05.000Z",
-      "source": "MSN",
+      "title": "Reliable Robotics Pursues FAA Certification for Network-Agnostic UAS Datalink System",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPcmRRbExlV0FDZ3BRbDc1MXhmckM2LVpBNzJWSTFyMW1ydXRiQmpQcnJwTFpmUXpIajh1UkJ3REc5NTBDQV9pVGlDdmdBT3ZOeUFGNlNoUkk4bTcxaldERzRnSXRmWU1FWkF2bXI1OTNpUU5BcWlLeTQ0ZWwyaUpvaFVYTGVpdGVvX0huSWdyWktuTGFxWUlLaENxTkc3cFBlRUY4NFphLWo5YWJKQWpIYk5wdk5JNzJlcmNBVXItQnhKem00?oc=5\" target=\"_blank\">Reliable Robotics Pursues FAA Certification for Network-Agnostic UAS Datalink System</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SpaceWar.com</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPcmRRbExlV0FDZ3BRbDc1MXhmckM2LVpBNzJWSTFyMW1ydXRiQmpQcnJwTFpmUXpIajh1UkJ3REc5NTBDQV9pVGlDdmdBT3ZOeUFGNlNoUkk4bTcxaldERzRnSXRmWU1FWkF2bXI1OTNpUU5BcWlLeTQ0ZWwyaUpvaFVYTGVpdGVvX0huSWdyWktuTGFxWUlLaENxTkc3cFBlRUY4NFphLWo5YWJKQWpIYk5wdk5JNzJlcmNBVXItQnhKem00?oc=5\" target=\"_blank\">Reliable Robotics Pursues FAA Certification for Network-Agnostic UAS Datalink System</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SpaceWar.com</font>",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcmRRbExlV0FDZ3BRbDc1MXhmckM2LVpBNzJWSTFyMW1ydXRiQmpQcnJwTFpmUXpIajh1UkJ3REc5NTBDQV9pVGlDdmdBT3ZOeUFGNlNoUkk4bTcxaldERzRnSXRmWU1FWkF2bXI1OTNpUU5BcWlLeTQ0ZWwyaUpvaFVYTGVpdGVvX0huSWdyWktuTGFxWUlLaENxTkc3cFBlRUY4NFphLWo5YWJKQWpIYk5wdk5JNzJlcmNBVXItQnhKem00?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcmRRbExlV0FDZ3BRbDc1MXhmckM2LVpBNzJWSTFyMW1ydXRiQmpQcnJwTFpmUXpIajh1UkJ3REc5NTBDQV9pVGlDdmdBT3ZOeUFGNlNoUkk4bTcxaldERzRnSXRmWU1FWkF2bXI1OTNpUU5BcWlLeTQ0ZWwyaUpvaFVYTGVpdGVvX0huSWdyWktuTGFxWUlLaENxTkc3cFBlRUY4NFphLWo5YWJKQWpIYk5wdk5JNzJlcmNBVXItQnhKem00?oc=5",
+      "publishedAt": "2026-05-02T09:01:59.000Z",
+      "source": "SpaceWar.com",
       "_feedRegion": "us",
       "_feedName": "FAA",
       "_scoring": {
-        "score": 74,
+        "score": 78,
         "categories": [
           "規制・政策",
-          "市場・資金",
-          "事故・事件"
+          "市場・資金"
         ],
         "breakdown": {
           "required": true,
           "regulation": {
-            "matches": 1,
-            "catScore": 32
+            "matches": 2,
+            "catScore": 40
           },
           "market": {
             "matches": 1,
             "catScore": 20
           },
-          "incident": {
-            "matches": 1,
-            "catScore": 28
-          },
           "sourceTrust": {
             "domain": "news.google.com",
             "multiplier": 0.8
           },
-          "freshness": 0,
+          "freshness": 20,
           "titleBonus": 10
         },
         "pass": true
@@ -244,6 +202,43 @@
           },
           "freshness": 2,
           "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "NEDO「デジタルライフライン整備事業／ドローン航路の実証」インドネシア東ジャワ州においてドローン航路の海外展開可能性に関する調査・実証を実施、国際共同研究・政策支援コンソーシアムの設立へ",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE03ajJBM0RVaExoSV9RRHhhdWQtNjFIRkFfRVQxeVlBOVFmT0V3cUFXcjVISHBoWTFYaXRLTmE2dDRNdW1QY0JZLWVmUFFpZVFHU2VKOWx5aTZEN3NhOVI3R01MYWw3Tk9yR0E?oc=5\" target=\"_blank\">NEDO「デジタルライフライン整備事業／ドローン航路の実証」インドネシア東ジャワ州においてドローン航路の海外展開可能性に関する調査・実証を実施、国際共同研究・政策支援コンソーシアムの設立へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR TIMES</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE03ajJBM0RVaExoSV9RRHhhdWQtNjFIRkFfRVQxeVlBOVFmT0V3cUFXcjVISHBoWTFYaXRLTmE2dDRNdW1QY0JZLWVmUFFpZVFHU2VKOWx5aTZEN3NhOVI3R01MYWw3Tk9yR0E?oc=5\" target=\"_blank\">NEDO「デジタルライフライン整備事業／ドローン航路の実証」インドネシア東ジャワ州においてドローン航路の海外展開可能性に関する調査・実証を実施、国際共同研究・政策支援コンソーシアムの設立へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR TIMES</font>",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE03ajJBM0RVaExoSV9RRHhhdWQtNjFIRkFfRVQxeVlBOVFmT0V3cUFXcjVISHBoWTFYaXRLTmE2dDRNdW1QY0JZLWVmUFFpZVFHU2VKOWx5aTZEN3NhOVI3R01MYWw3Tk9yR0E?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE03ajJBM0RVaExoSV9RRHhhdWQtNjFIRkFfRVQxeVlBOVFmT0V3cUFXcjVISHBoWTFYaXRLTmE2dDRNdW1QY0JZLWVmUFFpZVFHU2VKOWx5aTZEN3NhOVI3R01MYWw3Tk9yR0E?oc=5",
+      "publishedAt": "2026-05-01T07:30:01.000Z",
+      "source": "PR TIMES",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP 政策/実証)",
+      "_scoring": {
+        "score": 72,
+        "categories": [
+          "事故・事件",
+          "政策・インフラ"
+        ],
+        "breakdown": {
+          "required": true,
+          "incident": {
+            "matches": 1,
+            "catScore": 28
+          },
+          "policy": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 5,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
         },
         "pass": true
       }
@@ -516,45 +511,6 @@
       "implicationVerified": true
     },
     {
-      "title": "【自治体インフラ点検実態調査】4割以上の職員が点検継続は困難 ドローンやAI活用は8割が有効視も導入を阻む職員の不安が浮き彫りに～東京都大田区のデジタル技術活用をセミナーで紹介～ | キヤノンマーケティングジャパン株式会社のプレスリリース",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFBaTkxMc0RidG9Gc3ppUTlEcWZ6dDd3WDRSY1ZFaUVYcm9ZdVRzZ21hM005WnVGa2Fsa1VLQlFMSnZ1QUNDcmdpbG5CbEhSRlA3WWlpbm1LSEsyRWVoQjRfN2M5bkw0UHFzenc?oc=5\" target=\"_blank\">【自治体インフラ点検実態調査】4割以上の職員が点検継続は困難 ドローンやAI活用は8割が有効視も導入を阻む職員の不安が浮き彫りに～東京都大田区のデジタル技術活用をセミナーで紹介～ | キヤノンマーケティングジャパン株式会社のプレスリリース</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR TIMES</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFBaTkxMc0RidG9Gc3ppUTlEcWZ6dDd3WDRSY1ZFaUVYcm9ZdVRzZ21hM005WnVGa2Fsa1VLQlFMSnZ1QUNDcmdpbG5CbEhSRlA3WWlpbm1LSEsyRWVoQjRfN2M5bkw0UHFzenc?oc=5\" target=\"_blank\">【自治体インフラ点検実態調査】4割以上の職員が点検継続は困難 ドローンやAI活用は8割が有効視も導入を阻む職員の不安が浮き彫りに～東京都大田区のデジタル技術活用をセミナーで紹介～ | キヤノンマーケティングジャパン株式会社のプレスリリース</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR TIMES</font>",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBaTkxMc0RidG9Gc3ppUTlEcWZ6dDd3WDRSY1ZFaUVYcm9ZdVRzZ21hM005WnVGa2Fsa1VLQlFMSnZ1QUNDcmdpbG5CbEhSRlA3WWlpbm1LSEsyRWVoQjRfN2M5bkw0UHFzenc?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBaTkxMc0RidG9Gc3ppUTlEcWZ6dDd3WDRSY1ZFaUVYcm9ZdVRzZ21hM005WnVGa2Fsa1VLQlFMSnZ1QUNDcmdpbG5CbEhSRlA3WWlpbm1LSEsyRWVoQjRfN2M5bkw0UHFzenc?oc=5",
-      "publishedAt": "2026-04-08T07:00:00.000Z",
-      "source": "PR TIMES",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP 事業者/実装)",
-      "_scoring": {
-        "score": 67,
-        "categories": [
-          "事故・事件",
-          "政策・インフラ"
-        ],
-        "breakdown": {
-          "required": true,
-          "incident": {
-            "matches": 1,
-            "catScore": 28
-          },
-          "policy": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 0,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      },
-      "implication": "東京都大田区の実装事例が示すドローン・AI点検の職員受容性の低さは、JCAB航空法レベル4認可後の自治体インフラ点検案件における人材育成・運用体制構築が単なる規制クリアではなく、現場の不安解消が実用化の律速段階であることを浮き彫りにし、テ…",
-      "implicationVerified": true
-    },
-    {
       "title": "Prodroneが資金調達、名大連携でドローン開発強化",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE1RTlFGVjNncm9fNHBfa0lSdzRlWS1NaXhnZk1XUVBYeWN4eFdoS3QyTE9rMkROWkFkdHJReFZfN0hwamhaWGtETA?oc=5\" target=\"_blank\">Prodroneが資金調達、名大連携でドローン開発強化</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LOGISTICS TODAY</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE1RTlFGVjNncm9fNHBfa0lSdzRlWS1NaXhnZk1XUVBYeWN4eFdoS3QyTE9rMkROWkFkdHJReFZfN0hwamhaWGtETA?oc=5\" target=\"_blank\">Prodroneが資金調達、名大連携でドローン開発強化</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LOGISTICS TODAY</font>",
@@ -742,6 +698,81 @@
         "pass": true
       },
       "implication": "金沢工大の50kg積載・50km航続ドローンが福井空港での実証を開始したことは、JCAB航空法レベル4認可に向けた地方空港活用の先例となり、同様の大型物流機開発を進めるSkyDriveやテラドローンなど国内事業者に対して地域パートナーシッ…",
+      "implicationVerified": true
+    },
+    {
+      "title": "FAA says proper use of anti-drone lasers that prompted Texas airspace closures is safe for flights - morning-times.com",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiigJBVV95cUxPRDgxU3d3WWFyZFJtdzRKMUxtQmZfbTVSbWlBRFcyam5hLWZHX3BwUGV5REFLVUg1b1NRcnR4SjVhaXdGQUc5QVJVMEZrOHVzSmp0R2FoUEVzbXdhY1hxcWpaQi13bWNsbUIzcUIwLXNwVmFhSGFnd3dnZlpCNTBHLXZXWUYzSnp3MFR4ZXFVMmRDbS1GZXAyYk9WcUVuQkxOdnE3VjJ2ZEM5blo5QWlYeUNVLXFiZWNPU0ttSUYyZ1ZyRDJxQW5WRnliMjBlVy1JYXpWV1B4NU1OZE5YTU13V3JkcGJWZjZNN3BHVWpTajVadkExTVZuSlFzb2lseEFlTmRnMFY4NDlfZw?oc=5\" target=\"_blank\">FAA says proper use of anti-drone lasers that prompted Texas airspace closures is safe for flights</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">morning-times.com</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiigJBVV95cUxPRDgxU3d3WWFyZFJtdzRKMUxtQmZfbTVSbWlBRFcyam5hLWZHX3BwUGV5REFLVUg1b1NRcnR4SjVhaXdGQUc5QVJVMEZrOHVzSmp0R2FoUEVzbXdhY1hxcWpaQi13bWNsbUIzcUIwLXNwVmFhSGFnd3dnZlpCNTBHLXZXWUYzSnp3MFR4ZXFVMmRDbS1GZXAyYk9WcUVuQkxOdnE3VjJ2ZEM5blo5QWlYeUNVLXFiZWNPU0ttSUYyZ1ZyRDJxQW5WRnliMjBlVy1JYXpWV1B4NU1OZE5YTU13V3JkcGJWZjZNN3BHVWpTajVadkExTVZuSlFzb2lseEFlTmRnMFY4NDlfZw?oc=5\" target=\"_blank\">FAA says proper use of anti-drone lasers that prompted Texas airspace closures is safe for flights</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">morning-times.com</font>",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPRDgxU3d3WWFyZFJtdzRKMUxtQmZfbTVSbWlBRFcyam5hLWZHX3BwUGV5REFLVUg1b1NRcnR4SjVhaXdGQUc5QVJVMEZrOHVzSmp0R2FoUEVzbXdhY1hxcWpaQi13bWNsbUIzcUIwLXNwVmFhSGFnd3dnZlpCNTBHLXZXWUYzSnp3MFR4ZXFVMmRDbS1GZXAyYk9WcUVuQkxOdnE3VjJ2ZEM5blo5QWlYeUNVLXFiZWNPU0ttSUYyZ1ZyRDJxQW5WRnliMjBlVy1JYXpWV1B4NU1OZE5YTU13V3JkcGJWZjZNN3BHVWpTajVadkExTVZuSlFzb2lseEFlTmRnMFY4NDlfZw?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPRDgxU3d3WWFyZFJtdzRKMUxtQmZfbTVSbWlBRFcyam5hLWZHX3BwUGV5REFLVUg1b1NRcnR4SjVhaXdGQUc5QVJVMEZrOHVzSmp0R2FoUEVzbXdhY1hxcWpaQi13bWNsbUIzcUIwLXNwVmFhSGFnd3dnZlpCNTBHLXZXWUYzSnp3MFR4ZXFVMmRDbS1GZXAyYk9WcUVuQkxOdnE3VjJ2ZEM5blo5QWlYeUNVLXFiZWNPU0ttSUYyZ1ZyRDJxQW5WRnliMjBlVy1JYXpWV1B4NU1OZE5YTU13V3JkcGJWZjZNN3BHVWpTajVadkExTVZuSlFzb2lseEFlTmRnMFY4NDlfZw?oc=5",
+      "publishedAt": "2026-05-01T22:34:51.000Z",
+      "source": "morning-times.com",
+      "_feedRegion": "us",
+      "_feedName": "FAA",
+      "_scoring": {
+        "score": 62,
+        "categories": [
+          "規制・政策",
+          "市場・資金"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
+          "market": {
+            "matches": 1,
+            "catScore": 20
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 10,
+          "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "JISDAとClearProc、国産ドローン部品の米国展開に向けた調達・コンプライアンス基盤に関する戦略的連携を開始［JISDA］",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE1HeHNSMXRnU0FmdEFjQ3BHYVFndFVTdjJiWExHbFZPNjhzY2JMbmNqNTA2dWhJc2JSU1BRaHlKS1F0MG8wY3hpS3BSQkt6LXBLWXVQbUdKdENOcDh3bEhSREdGa0dOdUd1eEpDdjhocXVxTUJ6am9ZWDZZYVM?oc=5\" target=\"_blank\">JISDAとClearProc、国産ドローン部品の米国展開に向けた調達・コンプライアンス基盤に関する戦略的連携を開始［JISDA］</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE1HeHNSMXRnU0FmdEFjQ3BHYVFndFVTdjJiWExHbFZPNjhzY2JMbmNqNTA2dWhJc2JSU1BRaHlKS1F0MG8wY3hpS3BSQkt6LXBLWXVQbUdKdENOcDh3bEhSREdGa0dOdUd1eEpDdjhocXVxTUJ6am9ZWDZZYVM?oc=5\" target=\"_blank\">JISDAとClearProc、国産ドローン部品の米国展開に向けた調達・コンプライアンス基盤に関する戦略的連携を開始［JISDA］</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1HeHNSMXRnU0FmdEFjQ3BHYVFndFVTdjJiWExHbFZPNjhzY2JMbmNqNTA2dWhJc2JSU1BRaHlKS1F0MG8wY3hpS3BSQkt6LXBLWXVQbUdKdENOcDh3bEhSREdGa0dOdUd1eEpDdjhocXVxTUJ6am9ZWDZZYVM?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1HeHNSMXRnU0FmdEFjQ3BHYVFndFVTdjJiWExHbFZPNjhzY2JMbmNqNTA2dWhJc2JSU1BRaHlKS1F0MG8wY3hpS3BSQkt6LXBLWXVQbUdKdENOcDh3bEhSREdGa0dOdUd1eEpDdjhocXVxTUJ6am9ZWDZZYVM?oc=5",
+      "publishedAt": "2026-04-30T10:02:20.000Z",
+      "source": "日本経済新聞",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP 経済メディア)",
+      "_scoring": {
+        "score": 62,
+        "categories": [
+          "市場・資金",
+          "政策・インフラ"
+        ],
+        "breakdown": {
+          "required": true,
+          "market": {
+            "matches": 1,
+            "catScore": 20
+          },
+          "policy": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 2,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      },
+      "implication": "JISDA傘下の部品メーカーがClearProcと組み米国展開を進めることで、国内ドローン製造業者がFAA認証取得時に必要とする部品サプライチェーン管理の整備が加速し、SkyDriveやテラドローンなど大阪・関西万博での実証を目指す国内事…",
       "implicationVerified": true
     },
     {
@@ -1125,42 +1156,6 @@
       },
       "implication": "FAA の eVTOL 認証タイムラインの長期化が評価指標化する動きは、JCAB による航空法レベル4型式認証の基準作成・運用の透明性と予測可能性を高める圧力となり、国内 SkyDrive などの事業化計画の妥当性評価を左右する。",
       "implicationVerified": true
-    },
-    {
-      "title": "San Francisco International United Airlines pilot reports drone strike on approach to San Diego International Airport, FAA says",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZEJ0eE5wdHlidDFCbVpsV3FlZ0xYTkpSMjdxQTNJdDdWMFhqc0JUYk01OGJrRGtrSkloTVFFcFdkOW1UZ3RRSFYtYkV0d240UGp5Y1d5bkJXRXZXOFkxZzJROVpVM1NKN0U0Q3NWeVo4Ujd4MU1qdzRoTG16aWt2WU8xb3VlWnlfaVMwU0xpWWljb3NHczJJeXhWSTd5TnBFR0xQYjA0emZ6bGxvajdXY1J6a1ZGalg5dmc3ZmxkZmZjWmJyZUJyTG9xOGdwUmdKdWNOV9IB2gFBVV95cUxOa3kwc3J4bDdDNDNPNnlWb0VjdDNBYzgxZ0wyZUd0eXFvazM5aV9ubFhDcjdPTjF0MEtZelhpVUxjRHpFNGxfaHkxaEY4QlBVdW53eWNNNXNmemlqWFZmSHplbE54ZkFIdWo3c2gybm5GMVZiMGhLalJaUjJ1MUlXVGZwZmNNOUZEWkVHLWFvVS0zQTJxNjJBUlhFWkxOaTkxRjgybjNNcktfcllGUk5kdXZuT2FDV1ZWTHlfYmN2NU9GdDR6UDItLWhMdk1JQzlDRG92R29Jb2lDZw?oc=5\" target=\"_blank\">San Francisco International United Airlines pilot reports drone strike on approach to San Diego International Airport, FAA says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC7 San Francisco</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZEJ0eE5wdHlidDFCbVpsV3FlZ0xYTkpSMjdxQTNJdDdWMFhqc0JUYk01OGJrRGtrSkloTVFFcFdkOW1UZ3RRSFYtYkV0d240UGp5Y1d5bkJXRXZXOFkxZzJROVpVM1NKN0U0Q3NWeVo4Ujd4MU1qdzRoTG16aWt2WU8xb3VlWnlfaVMwU0xpWWljb3NHczJJeXhWSTd5TnBFR0xQYjA0emZ6bGxvajdXY1J6a1ZGalg5dmc3ZmxkZmZjWmJyZUJyTG9xOGdwUmdKdWNOV9IB2gFBVV95cUxOa3kwc3J4bDdDNDNPNnlWb0VjdDNBYzgxZ0wyZUd0eXFvazM5aV9ubFhDcjdPTjF0MEtZelhpVUxjRHpFNGxfaHkxaEY4QlBVdW53eWNNNXNmemlqWFZmSHplbE54ZkFIdWo3c2gybm5GMVZiMGhLalJaUjJ1MUlXVGZwZmNNOUZEWkVHLWFvVS0zQTJxNjJBUlhFWkxOaTkxRjgybjNNcktfcllGUk5kdXZuT2FDV1ZWTHlfYmN2NU9GdDR6UDItLWhMdk1JQzlDRG92R29Jb2lDZw?oc=5\" target=\"_blank\">San Francisco International United Airlines pilot reports drone strike on approach to San Diego International Airport, FAA says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC7 San Francisco</font>",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZEJ0eE5wdHlidDFCbVpsV3FlZ0xYTkpSMjdxQTNJdDdWMFhqc0JUYk01OGJrRGtrSkloTVFFcFdkOW1UZ3RRSFYtYkV0d240UGp5Y1d5bkJXRXZXOFkxZzJROVpVM1NKN0U0Q3NWeVo4Ujd4MU1qdzRoTG16aWt2WU8xb3VlWnlfaVMwU0xpWWljb3NHczJJeXhWSTd5TnBFR0xQYjA0emZ6bGxvajdXY1J6a1ZGalg5dmc3ZmxkZmZjWmJyZUJyTG9xOGdwUmdKdWNOV9IB2gFBVV95cUxOa3kwc3J4bDdDNDNPNnlWb0VjdDNBYzgxZ0wyZUd0eXFvazM5aV9ubFhDcjdPTjF0MEtZelhpVUxjRHpFNGxfaHkxaEY4QlBVdW53eWNNNXNmemlqWFZmSHplbE54ZkFIdWo3c2gybm5GMVZiMGhLalJaUjJ1MUlXVGZwZmNNOUZEWkVHLWFvVS0zQTJxNjJBUlhFWkxOaTkxRjgybjNNcktfcllGUk5kdXZuT2FDV1ZWTHlfYmN2NU9GdDR6UDItLWhMdk1JQzlDRG92R29Jb2lDZw?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZEJ0eE5wdHlidDFCbVpsV3FlZ0xYTkpSMjdxQTNJdDdWMFhqc0JUYk01OGJrRGtrSkloTVFFcFdkOW1UZ3RRSFYtYkV0d240UGp5Y1d5bkJXRXZXOFkxZzJROVpVM1NKN0U0Q3NWeVo4Ujd4MU1qdzRoTG16aWt2WU8xb3VlWnlfaVMwU0xpWWljb3NHczJJeXhWSTd5TnBFR0xQYjA0emZ6bGxvajdXY1J6a1ZGalg5dmc3ZmxkZmZjWmJyZUJyTG9xOGdwUmdKdWNOV9IB2gFBVV95cUxOa3kwc3J4bDdDNDNPNnlWb0VjdDNBYzgxZ0wyZUd0eXFvazM5aV9ubFhDcjdPTjF0MEtZelhpVUxjRHpFNGxfaHkxaEY4QlBVdW53eWNNNXNmemlqWFZmSHplbE54ZkFIdWo3c2gybm5GMVZiMGhLalJaUjJ1MUlXVGZwZmNNOUZEWkVHLWFvVS0zQTJxNjJBUlhFWkxOaTkxRjgybjNNcktfcllGUk5kdXZuT2FDV1ZWTHlfYmN2NU9GdDR6UDItLWhMdk1JQzlDRG92R29Jb2lDZw?oc=5",
-      "publishedAt": "2026-04-30T01:30:19.000Z",
-      "source": "ABC7 San Francisco",
-      "_feedRegion": "us",
-      "_feedName": "FAA",
-      "_scoring": {
-        "score": 57,
-        "categories": [
-          "規制・政策",
-          "政策・インフラ"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 1,
-            "catScore": 32
-          },
-          "policy": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 2,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
     }
   ],
   "errors": []
