@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-08T07:06:59.311Z",
-  "rawCount": 691,
+  "generatedAt": "2026-05-08T12:16:31.528Z",
+  "rawCount": 701,
   "articles": [
     {
       "title": "eVTOL Firm Targets $115 Million Revenue and FAA Certification",
@@ -13,7 +13,7 @@
       "_feedRegion": "us",
       "_feedName": "FAA",
       "_scoring": {
-        "score": 96,
+        "score": 91,
         "categories": [
           "規制・政策",
           "市場・資金",
@@ -37,7 +37,7 @@
             "domain": "news.google.com",
             "multiplier": 0.8
           },
-          "freshness": 15,
+          "freshness": 10,
           "titleBonus": 10
         },
         "pass": true
@@ -68,6 +68,43 @@
           "incident": {
             "matches": 1,
             "catScore": 28
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 15,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "旭テクノロジー、ドローン×LiDARによる下水道点検が国交省「下水道応用研究」に採択",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9sZnJER0RLSEpDdHJORzBZZno2b0RoWW53eTRYdnNRVUI3Mm52b3hNSnd2U3JkWVNadzBCSl9ncHJUbEFqTHI1RGFCaWVJRXI4QWtEU1ROTnBVOTdOVXlSMmxELWdaeWpvWnc?oc=5\" target=\"_blank\">旭テクノロジー、ドローン×LiDARによる下水道点検が国交省「下水道応用研究」に採択</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ドローンジャーナル</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9sZnJER0RLSEpDdHJORzBZZno2b0RoWW53eTRYdnNRVUI3Mm52b3hNSnd2U3JkWVNadzBCSl9ncHJUbEFqTHI1RGFCaWVJRXI4QWtEU1ROTnBVOTdOVXlSMmxELWdaeWpvWnc?oc=5\" target=\"_blank\">旭テクノロジー、ドローン×LiDARによる下水道点検が国交省「下水道応用研究」に採択</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ドローンジャーナル</font>",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9sZnJER0RLSEpDdHJORzBZZno2b0RoWW53eTRYdnNRVUI3Mm52b3hNSnd2U3JkWVNadzBCSl9ncHJUbEFqTHI1RGFCaWVJRXI4QWtEU1ROTnBVOTdOVXlSMmxELWdaeWpvWnc?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9sZnJER0RLSEpDdHJORzBZZno2b0RoWW53eTRYdnNRVUI3Mm52b3hNSnd2U3JkWVNadzBCSl9ncHJUbEFqTHI1RGFCaWVJRXI4QWtEU1ROTnBVOTdOVXlSMmxELWdaeWpvWnc?oc=5",
+      "publishedAt": "2026-05-08T02:13:51.000Z",
+      "source": "ドローンジャーナル",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP 政策/実証)",
+      "_scoring": {
+        "score": 85,
+        "categories": [
+          "規制・政策",
+          "技術・製品"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
+          "technology": {
+            "matches": 1,
+            "catScore": 24
           },
           "sourceTrust": {
             "domain": "news.google.com",
@@ -118,19 +155,20 @@
       }
     },
     {
-      "title": "令和8年度「地域復興実用化開発等促進事業費補助金」に採択 中山間地域における物流・災害対応を支えるドローン開発と地域上空Wifi網構築インフラの実用化を推進［manisonias］",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFBuMmJwam83TGlxbWVNTHpMWDdKVkpxNFNXbGRRWHFabjEyRTVLZ0Z6SG1kd2JxaFpaTWs5b1ZSRHJGV202SGVPOUJtUU9tVU5yblVsUFdXQUF1V1F0TG1qWFpBbWR0Y0MtcUlBcVBEYUZuSUN1ZjZzNlcxaXI?oc=5\" target=\"_blank\">令和8年度「地域復興実用化開発等促進事業費補助金」に採択 中山間地域における物流・災害対応を支えるドローン開発と地域上空Wifi網構築インフラの実用化を推進［manisonias］</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFBuMmJwam83TGlxbWVNTHpMWDdKVkpxNFNXbGRRWHFabjEyRTVLZ0Z6SG1kd2JxaFpaTWs5b1ZSRHJGV202SGVPOUJtUU9tVU5yblVsUFdXQUF1V1F0TG1qWFpBbWR0Y0MtcUlBcVBEYUZuSUN1ZjZzNlcxaXI?oc=5\" target=\"_blank\">令和8年度「地域復興実用化開発等促進事業費補助金」に採択 中山間地域における物流・災害対応を支えるドローン開発と地域上空Wifi網構築インフラの実用化を推進［manisonias］</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBuMmJwam83TGlxbWVNTHpMWDdKVkpxNFNXbGRRWHFabjEyRTVLZ0Z6SG1kd2JxaFpaTWs5b1ZSRHJGV202SGVPOUJtUU9tVU5yblVsUFdXQUF1V1F0TG1qWFpBbWR0Y0MtcUlBcVBEYUZuSUN1ZjZzNlcxaXI?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBuMmJwam83TGlxbWVNTHpMWDdKVkpxNFNXbGRRWHFabjEyRTVLZ0Z6SG1kd2JxaFpaTWs5b1ZSRHJGV202SGVPOUJtUU9tVU5yblVsUFdXQUF1V1F0TG1qWFpBbWR0Y0MtcUlBcVBEYUZuSUN1ZjZzNlcxaXI?oc=5",
-      "publishedAt": "2026-05-08T04:54:54.000Z",
-      "source": "日本経済新聞",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP 経済メディア)",
+      "title": "Japan’s first eVTOL Vertiport Consortium launches in Osaka in collaboration with SkyDrive Inc",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNR2VQM2JxQS1fNU1hS1dOa0lMUEc0SFFEb19IbWVRSmVIUVhsQ2JIRG45cl9VTHJpRWRUYWRYYkhRY01sdnpTNS1DMUQybnR4aUc1WjJYSTJLamRlblNOc2sxU3pVWTdDM1V4TVRaV21pc1kwNzR3YlFMTUlwWXdfRjR3ZWQ1RmZLYTRoV0VrdUtxMFRmSUtPNGN5UXBfNWc3U3lILXdMTmxmd0dWU1A5dWZaeFh0ZUpKcEgyYVFVRmp0WEU?oc=5\" target=\"_blank\">Japan’s first eVTOL Vertiport Consortium launches in Osaka in collaboration with SkyDrive Inc</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Regional Gateway</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNR2VQM2JxQS1fNU1hS1dOa0lMUEc0SFFEb19IbWVRSmVIUVhsQ2JIRG45cl9VTHJpRWRUYWRYYkhRY01sdnpTNS1DMUQybnR4aUc1WjJYSTJLamRlblNOc2sxU3pVWTdDM1V4TVRaV21pc1kwNzR3YlFMTUlwWXdfRjR3ZWQ1RmZLYTRoV0VrdUtxMFRmSUtPNGN5UXBfNWc3U3lILXdMTmxmd0dWU1A5dWZaeFh0ZUpKcEgyYVFVRmp0WEU?oc=5\" target=\"_blank\">Japan’s first eVTOL Vertiport Consortium launches in Osaka in collaboration with SkyDrive Inc</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Regional Gateway</font>",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNR2VQM2JxQS1fNU1hS1dOa0lMUEc0SFFEb19IbWVRSmVIUVhsQ2JIRG45cl9VTHJpRWRUYWRYYkhRY01sdnpTNS1DMUQybnR4aUc1WjJYSTJLamRlblNOc2sxU3pVWTdDM1V4TVRaV21pc1kwNzR3YlFMTUlwWXdfRjR3ZWQ1RmZLYTRoV0VrdUtxMFRmSUtPNGN5UXBfNWc3U3lILXdMTmxmd0dWU1A5dWZaeFh0ZUpKcEgyYVFVRmp0WEU?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNR2VQM2JxQS1fNU1hS1dOa0lMUEc0SFFEb19IbWVRSmVIUVhsQ2JIRG45cl9VTHJpRWRUYWRYYkhRY01sdnpTNS1DMUQybnR4aUc1WjJYSTJLamRlblNOc2sxU3pVWTdDM1V4TVRaV21pc1kwNzR3YlFMTUlwWXdfRjR3ZWQ1RmZLYTRoV0VrdUtxMFRmSUtPNGN5UXBfNWc3U3lILXdMTmxmd0dWU1A5dWZaeFh0ZUpKcEgyYVFVRmp0WEU?oc=5",
+      "publishedAt": "2026-05-08T11:00:23.000Z",
+      "source": "Regional Gateway",
+      "_feedRegion": "global",
+      "_feedName": "Google News (Global)",
       "_scoring": {
-        "score": 83,
+        "score": 84,
         "categories": [
           "技術・製品",
+          "市場・資金",
           "政策・インフラ"
         ],
         "breakdown": {
@@ -138,6 +176,10 @@
           "technology": {
             "matches": 1,
             "catScore": 24
+          },
+          "market": {
+            "matches": 1,
+            "catScore": 20
           },
           "policy": {
             "matches": 1,
@@ -148,8 +190,7 @@
             "multiplier": 0.8
           },
           "freshness": 20,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
+          "titleBonus": 10
         },
         "pass": true
       }
@@ -236,6 +277,43 @@
       "implicationVerified": true
     },
     {
+      "title": "令和8年度「地域復興実用化開発等促進事業費補助金」に採択 中山間地域における物流・災害対応を支えるドローン開発と地域上空Wifi網構築インフラの実用化を推進［manisonias］",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFBuMmJwam83TGlxbWVNTHpMWDdKVkpxNFNXbGRRWHFabjEyRTVLZ0Z6SG1kd2JxaFpaTWs5b1ZSRHJGV202SGVPOUJtUU9tVU5yblVsUFdXQUF1V1F0TG1qWFpBbWR0Y0MtcUlBcVBEYUZuSUN1ZjZzNlcxaXI?oc=5\" target=\"_blank\">令和8年度「地域復興実用化開発等促進事業費補助金」に採択 中山間地域における物流・災害対応を支えるドローン開発と地域上空Wifi網構築インフラの実用化を推進［manisonias］</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFBuMmJwam83TGlxbWVNTHpMWDdKVkpxNFNXbGRRWHFabjEyRTVLZ0Z6SG1kd2JxaFpaTWs5b1ZSRHJGV202SGVPOUJtUU9tVU5yblVsUFdXQUF1V1F0TG1qWFpBbWR0Y0MtcUlBcVBEYUZuSUN1ZjZzNlcxaXI?oc=5\" target=\"_blank\">令和8年度「地域復興実用化開発等促進事業費補助金」に採択 中山間地域における物流・災害対応を支えるドローン開発と地域上空Wifi網構築インフラの実用化を推進［manisonias］</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBuMmJwam83TGlxbWVNTHpMWDdKVkpxNFNXbGRRWHFabjEyRTVLZ0Z6SG1kd2JxaFpaTWs5b1ZSRHJGV202SGVPOUJtUU9tVU5yblVsUFdXQUF1V1F0TG1qWFpBbWR0Y0MtcUlBcVBEYUZuSUN1ZjZzNlcxaXI?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBuMmJwam83TGlxbWVNTHpMWDdKVkpxNFNXbGRRWHFabjEyRTVLZ0Z6SG1kd2JxaFpaTWs5b1ZSRHJGV202SGVPOUJtUU9tVU5yblVsUFdXQUF1V1F0TG1qWFpBbWR0Y0MtcUlBcVBEYUZuSUN1ZjZzNlcxaXI?oc=5",
+      "publishedAt": "2026-05-08T04:54:54.000Z",
+      "source": "日本経済新聞",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP 経済メディア)",
+      "_scoring": {
+        "score": 78,
+        "categories": [
+          "技術・製品",
+          "政策・インフラ"
+        ],
+        "breakdown": {
+          "required": true,
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "policy": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 15,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
       "title": "United Airlines UA1980 Drone Strike Shock Near San Diego International Airport at 3000ft Raises FAA Safety Alarm Over Illegal Drone Threat, Latest Update is Here",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiswJBVV95cUxNaGF4c1FlSkpLeHlWZkYzWVR3Q2Z2OXBIYTlfU0xQeUwyWE1lTEpyazdMbS1TU01fX25uejJCSEliR29jMkNXNHVPcW9XYzZCMExybDJabzJyNU5IVFhWNmdhbm1WeTJJaDNLOUl0bDZnUVRsUkpNNTlseFB3aDdMcXFDdGkwZWVLMlo1alpmY2l6NGhEX1pMblRtYVBKMmlMbEpNRlp0VzY0UVJjaVhNSkhOSXpDU3NjLWJjRDd1NkFITXcwR0xxRmo5cHp2YUZEMXV6ZjNhNVBqUVdNNHNiY0RucFdlQ0ZNT2tGWElvSmFHOWN0SE9EWklRZ09MdUxRZkZwNmpQX041S0stYm5SOU9xOU9MZDdhRFk2NVc5dWdhSGtOeVk5WjE1SUxsekIwLV80?oc=5\" target=\"_blank\">United Airlines UA1980 Drone Strike Shock Near San Diego International Airport at 3000ft Raises FAA Safety Alarm Over Illegal Drone Threat, Latest Update is Here</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Travel And Tour World</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiswJBVV95cUxNaGF4c1FlSkpLeHlWZkYzWVR3Q2Z2OXBIYTlfU0xQeUwyWE1lTEpyazdMbS1TU01fX25uejJCSEliR29jMkNXNHVPcW9XYzZCMExybDJabzJyNU5IVFhWNmdhbm1WeTJJaDNLOUl0bDZnUVRsUkpNNTlseFB3aDdMcXFDdGkwZWVLMlo1alpmY2l6NGhEX1pMblRtYVBKMmlMbEpNRlp0VzY0UVJjaVhNSkhOSXpDU3NjLWJjRDd1NkFITXcwR0xxRmo5cHp2YUZEMXV6ZjNhNVBqUVdNNHNiY0RucFdlQ0ZNT2tGWElvSmFHOWN0SE9EWklRZ09MdUxRZkZwNmpQX041S0stYm5SOU9xOU9MZDdhRFk2NVc5dWdhSGtOeVk5WjE1SUxsekIwLV80?oc=5\" target=\"_blank\">United Airlines UA1980 Drone Strike Shock Near San Diego International Airport at 3000ft Raises FAA Safety Alarm Over Illegal Drone Threat, Latest Update is Here</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Travel And Tour World</font>",
@@ -287,7 +365,7 @@
       "_feedRegion": "global",
       "_feedName": "Google News (Global)",
       "_scoring": {
-        "score": 74,
+        "score": 72,
         "categories": [
           "市場・資金",
           "事故・事件",
@@ -311,7 +389,7 @@
             "domain": "news.google.com",
             "multiplier": 0.8
           },
-          "freshness": 2,
+          "freshness": 0,
           "titleBonus": 10
         },
         "pass": true
@@ -320,50 +398,12 @@
       "implicationVerified": true
     },
     {
-      "title": "US Weighs Tighter Drone Rules for Critical Infrastructure",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQT0R5elJQWnlUbGs1VTlrX2RXVHBlbTk3Y1JQT3NDVVhHQjJvemFldTZTSTV6VTB0bEx5WmduLXJONW9hQXpvLXhrSmpBaGFuU0JzdlFNdTltQU5CbVlkNmtqUkFweFFsLVNaMDFUaTlDam1xd0xqUXJMay13bHZVbmdlTWtVcVg0aWtuYnhLNWxMT1N5UjlGdkIwSE8?oc=5\" target=\"_blank\">US Weighs Tighter Drone Rules for Critical Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mexico Business News</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQT0R5elJQWnlUbGs1VTlrX2RXVHBlbTk3Y1JQT3NDVVhHQjJvemFldTZTSTV6VTB0bEx5WmduLXJONW9hQXpvLXhrSmpBaGFuU0JzdlFNdTltQU5CbVlkNmtqUkFweFFsLVNaMDFUaTlDam1xd0xqUXJMay13bHZVbmdlTWtVcVg0aWtuYnhLNWxMT1N5UjlGdkIwSE8?oc=5\" target=\"_blank\">US Weighs Tighter Drone Rules for Critical Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mexico Business News</font>",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQT0R5elJQWnlUbGs1VTlrX2RXVHBlbTk3Y1JQT3NDVVhHQjJvemFldTZTSTV6VTB0bEx5WmduLXJONW9hQXpvLXhrSmpBaGFuU0JzdlFNdTltQU5CbVlkNmtqUkFweFFsLVNaMDFUaTlDam1xd0xqUXJMay13bHZVbmdlTWtVcVg0aWtuYnhLNWxMT1N5UjlGdkIwSE8?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQT0R5elJQWnlUbGs1VTlrX2RXVHBlbTk3Y1JQT3NDVVhHQjJvemFldTZTSTV6VTB0bEx5WmduLXJONW9hQXpvLXhrSmpBaGFuU0JzdlFNdTltQU5CbVlkNmtqUkFweFFsLVNaMDFUaTlDam1xd0xqUXJMay13bHZVbmdlTWtVcVg0aWtuYnhLNWxMT1N5UjlGdkIwSE8?oc=5",
-      "publishedAt": "2026-05-07T22:38:50.000Z",
-      "source": "Mexico Business News",
-      "_feedRegion": "us",
-      "_feedName": "FAA",
-      "_scoring": {
-        "score": 70,
-        "categories": [
-          "規制・政策",
-          "政策・インフラ"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 1,
-            "catScore": 32
-          },
-          "policy": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 15,
-          "titleBonus": 10
-        },
-        "pass": true
-      },
-      "implication": "FAAが重要インフラ周辺のドローン運用規制を強化する動きは、JCAB航空法レベル4認可の基準厳格化圧力となり、SkyDriveやテラドローンなど国内事業者が重要施設点検や災害対応での目視外飛行許可取得時に追加的な安全証明を求められる可能性…",
-      "implicationVerified": true
-    },
-    {
       "title": "AV LOCUST Laser Completes Counter-Drone Test with Pentagon, FAA",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE9CcDJyOXJfTDdnMnJWZHIyYVFnMUxhZ2NZa2lxMk9EeTRaUjl6Ri1LTWxZTzNlb0tfdEtONW1GbXhGLWtnd01FZTBHX21NRnBtX192VndycHhDUld1YmVwY05WMm9iaDdTTk9VUTk5Z1NjMEXSAXNBVV95cUxPQnAycjlyX0w3ZzJyVmRyMmFRZzFMYWdjWWtpcTJPRHk0WlI5ekYtS01sWU8zZW9LX3RLTjVtRm14Ri1rZ3dNRWUwR19tTUZwbV9fdlZ3cnB4Q1JXdWJlcGNOVjJvYmg3U05PVVE5OWdTYzBF?oc=5\" target=\"_blank\">AV LOCUST Laser Completes Counter-Drone Test with Pentagon, FAA</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Defense Post</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE9CcDJyOXJfTDdnMnJWZHIyYVFnMUxhZ2NZa2lxMk9EeTRaUjl6Ri1LTWxZTzNlb0tfdEtONW1GbXhGLWtnd01FZTBHX21NRnBtX192VndycHhDUld1YmVwY05WMm9iaDdTTk9VUTk5Z1NjMEXSAXNBVV95cUxPQnAycjlyX0w3ZzJyVmRyMmFRZzFMYWdjWWtpcTJPRHk0WlI5ekYtS01sWU8zZW9LX3RLTjVtRm14Ri1rZ3dNRWUwR19tTUZwbV9fdlZ3cnB4Q1JXdWJlcGNOVjJvYmg3U05PVVE5OWdTYzBF?oc=5\" target=\"_blank\">AV LOCUST Laser Completes Counter-Drone Test with Pentagon, FAA</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Defense Post</font>",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9CcDJyOXJfTDdnMnJWZHIyYVFnMUxhZ2NZa2lxMk9EeTRaUjl6Ri1LTWxZTzNlb0tfdEtONW1GbXhGLWtnd01FZTBHX21NRnBtX192VndycHhDUld1YmVwY05WMm9iaDdTTk9VUTk5Z1NjMEXSAXNBVV95cUxPQnAycjlyX0w3ZzJyVmRyMmFRZzFMYWdjWWtpcTJPRHk0WlI5ekYtS01sWU8zZW9LX3RLTjVtRm14Ri1rZ3dNRWUwR19tTUZwbV9fdlZ3cnB4Q1JXdWJlcGNOVjJvYmg3U05PVVE5OWdTYzBF?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9CcDJyOXJfTDdnMnJWZHIyYVFnMUxhZ2NZa2lxMk9EeTRaUjl6Ri1LTWxZTzNlb0tfdEtONW1GbXhGLWtnd01FZTBHX21NRnBtX192VndycHhDUld1YmVwY05WMm9iaDdTTk9VUTk5Z1NjMEXSAXNBVV95cUxPQnAycjlyX0w3ZzJyVmRyMmFRZzFMYWdjWWtpcTJPRHk0WlI5ekYtS01sWU8zZW9LX3RLTjVtRm14Ri1rZ3dNRWUwR19tTUZwbV9fdlZ3cnB4Q1JXdWJlcGNOVjJvYmg3U05PVVE5OWdTYzBF?oc=5",
-      "publishedAt": "2026-05-08T03:31:37.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTFBpNkRZdWc2T0w5dW8yUndVdHN1V0N3eTBUNjJ5dExpOUdvSzBhTFVWeDE0RGExVnp3dzRLc05Qb2k2ZWFta3p3OU9SVENCLW9mcnZRR1pDeGowNkFoU2RpRGtkcWtUUEYyajRSdElR0gFzQVVfeXFMT0JwMnI5cl9MN2cyclZkcjJhUWcxTGFnY1lraXEyT0R5NFpSOXpGLUtNbFlPM2VvS190S041bUZteEYta2d3TUVlMEdfbU1GcG1fX3ZWd3JweENSV3ViZXBjTlYyb2JoN1NOT1VROTlnU2MwRQ?oc=5\" target=\"_blank\">AV LOCUST Laser Completes Counter-Drone Test with Pentagon, FAA</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Defense Post</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTFBpNkRZdWc2T0w5dW8yUndVdHN1V0N3eTBUNjJ5dExpOUdvSzBhTFVWeDE0RGExVnp3dzRLc05Qb2k2ZWFta3p3OU9SVENCLW9mcnZRR1pDeGowNkFoU2RpRGtkcWtUUEYyajRSdElR0gFzQVVfeXFMT0JwMnI5cl9MN2cyclZkcjJhUWcxTGFnY1lraXEyT0R5NFpSOXpGLUtNbFlPM2VvS190S041bUZteEYta2d3TUVlMEdfbU1GcG1fX3ZWd3JweENSV3ViZXBjTlYyb2JoN1NOT1VROTlnU2MwRQ?oc=5\" target=\"_blank\">AV LOCUST Laser Completes Counter-Drone Test with Pentagon, FAA</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Defense Post</font>",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBpNkRZdWc2T0w5dW8yUndVdHN1V0N3eTBUNjJ5dExpOUdvSzBhTFVWeDE0RGExVnp3dzRLc05Qb2k2ZWFta3p3OU9SVENCLW9mcnZRR1pDeGowNkFoU2RpRGtkcWtUUEYyajRSdElR0gFzQVVfeXFMT0JwMnI5cl9MN2cyclZkcjJhUWcxTGFnY1lraXEyT0R5NFpSOXpGLUtNbFlPM2VvS190S041bUZteEYta2d3TUVlMEdfbU1GcG1fX3ZWd3JweENSV3ViZXBjTlYyb2JoN1NOT1VROTlnU2MwRQ?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBpNkRZdWc2T0w5dW8yUndVdHN1V0N3eTBUNjJ5dExpOUdvSzBhTFVWeDE0RGExVnp3dzRLc05Qb2k2ZWFta3p3OU9SVENCLW9mcnZRR1pDeGowNkFoU2RpRGtkcWtUUEYyajRSdElR0gFzQVVfeXFMT0JwMnI5cl9MN2cyclZkcjJhUWcxTGFnY1lraXEyT0R5NFpSOXpGLUtNbFlPM2VvS190S041bUZteEYta2d3TUVlMEdfbU1GcG1fX3ZWd3JweENSV3ViZXBjTlYyb2JoN1NOT1VROTlnU2MwRQ?oc=5",
+      "publishedAt": "2026-05-08T03:31:34.000Z",
       "source": "The Defense Post",
       "_feedRegion": "us",
       "_feedName": "FAA",
@@ -472,6 +512,45 @@
       "implicationVerified": true
     },
     {
+      "title": "国土交通省「下水道応用研究」に採択 旭テクノロジー、ドローン×LiDARで下水道点検のDXを推進",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFBJQUJZallvZW5YbmFwTlJjSGhHSlZQa3hvcUptS0xlUVUtUGZUY2huQ0lvLV9URUVsZHQxbVB1Y0VFLS05VUpTekJKRmtVUGF5X1B6WFBrQlRGdkt3YjJEVHF2V3ZvMWc4RXc?oc=5\" target=\"_blank\">国土交通省「下水道応用研究」に採択 旭テクノロジー、ドローン×LiDARで下水道点検のDXを推進</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR TIMES</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFBJQUJZallvZW5YbmFwTlJjSGhHSlZQa3hvcUptS0xlUVUtUGZUY2huQ0lvLV9URUVsZHQxbVB1Y0VFLS05VUpTekJKRmtVUGF5X1B6WFBrQlRGdkt3YjJEVHF2V3ZvMWc4RXc?oc=5\" target=\"_blank\">国土交通省「下水道応用研究」に採択 旭テクノロジー、ドローン×LiDARで下水道点検のDXを推進</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR TIMES</font>",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBJQUJZallvZW5YbmFwTlJjSGhHSlZQa3hvcUptS0xlUVUtUGZUY2huQ0lvLV9URUVsZHQxbVB1Y0VFLS05VUpTekJKRmtVUGF5X1B6WFBrQlRGdkt3YjJEVHF2V3ZvMWc4RXc?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBJQUJZallvZW5YbmFwTlJjSGhHSlZQa3hvcUptS0xlUVUtUGZUY2huQ0lvLV9URUVsZHQxbVB1Y0VFLS05VUpTekJKRmtVUGF5X1B6WFBrQlRGdkt3YjJEVHF2V3ZvMWc4RXc?oc=5",
+      "publishedAt": "2026-04-21T07:00:00.000Z",
+      "source": "PR TIMES",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP 政策/実証)",
+      "_scoring": {
+        "score": 70,
+        "categories": [
+          "規制・政策",
+          "技術・製品"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 0,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      },
+      "implication": "旭テクノロジーの国土交通省下水道応用研究採択は、下水道点検という既存インフラ保全分野でドローン×LiDARの実装を進める案件であり、航空法レベル4への段階的な移行を見据えた自治体・公共事業者向けの実証基盤となり、JCAB機体認証の取得を前…",
+      "implicationVerified": true
+    },
+    {
       "title": "SkyDrive、空飛ぶクルマ開発企業として国交省より「航空機設計検査認定事業場（ADO）」を取得 | チバテレ＋プラス",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE9na19nTmR5bjg5RGhpSXJDX2FGYWhrMmwyNFo5REJ4Q1RmSFVnSHpoZDBKNmtGOTRyMXBGYlM1cFZwbUtaRDRBZy1nX1hoSmpfTV8zamhzTTlJeEpuNWo40gFkQVVfeXFMTnZ4V1h6RktEay1TLUVWc2hNNkFhZGw5dGdIRmJrZXdnc2ZiSFJXbW5ORnpXU3NORXBhYVRwc1c0ZFlVV0EzWUxUa2NRbmx5Wk93aTNYSDV2cDdWRVNPVnlUcHh2bA?oc=5\" target=\"_blank\">SkyDrive、空飛ぶクルマ開発企業として国交省より「航空機設計検査認定事業場（ADO）」を取得 | チバテレ＋プラス</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">千葉テレビ放送</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE9na19nTmR5bjg5RGhpSXJDX2FGYWhrMmwyNFo5REJ4Q1RmSFVnSHpoZDBKNmtGOTRyMXBGYlM1cFZwbUtaRDRBZy1nX1hoSmpfTV8zamhzTTlJeEpuNWo40gFkQVVfeXFMTnZ4V1h6RktEay1TLUVWc2hNNkFhZGw5dGdIRmJrZXdnc2ZiSFJXbW5ORnpXU3NORXBhYVRwc1c0ZFlVV0EzWUxUa2NRbmx5Wk93aTNYSDV2cDdWRVNPVnlUcHh2bA?oc=5\" target=\"_blank\">SkyDrive、空飛ぶクルマ開発企業として国交省より「航空機設計検査認定事業場（ADO）」を取得 | チバテレ＋プラス</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">千葉テレビ放送</font>",
@@ -509,47 +588,6 @@
       },
       "implication": "SkyDriveが国交省からADO認定を取得したことで、JCAB による型式認証手続きが実質的に進み、日本の空飛ぶクルマが国内初の耐空性基準適合証取得に向けて具体的に動き始める。",
       "implicationVerified": true
-    },
-    {
-      "title": "Skyportz launches Aeroberm to solve the eVTOL landing challenge",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPUXk1bGZSQ1BUWnVPNWlBQ1V4TDJXTGxhMmZHeUNMaHpwcG13Ylg3QlIzZDE0M1VKbC1PTF8zUGdGUXA2MXhCU0dKeExtNnZjTHJXamtJZmtnMmFEaTFLQnAtdWdNdkhqX1VQSm9iN0FzWExGdERaMHZmZmtWSGJTMVhtelNxdw?oc=5\" target=\"_blank\">Skyportz launches Aeroberm to solve the eVTOL landing challenge</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aerospace Global News</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPUXk1bGZSQ1BUWnVPNWlBQ1V4TDJXTGxhMmZHeUNMaHpwcG13Ylg3QlIzZDE0M1VKbC1PTF8zUGdGUXA2MXhCU0dKeExtNnZjTHJXamtJZmtnMmFEaTFLQnAtdWdNdkhqX1VQSm9iN0FzWExGdERaMHZmZmtWSGJTMVhtelNxdw?oc=5\" target=\"_blank\">Skyportz launches Aeroberm to solve the eVTOL landing challenge</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aerospace Global News</font>",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUXk1bGZSQ1BUWnVPNWlBQ1V4TDJXTGxhMmZHeUNMaHpwcG13Ylg3QlIzZDE0M1VKbC1PTF8zUGdGUXA2MXhCU0dKeExtNnZjTHJXamtJZmtnMmFEaTFLQnAtdWdNdkhqX1VQSm9iN0FzWExGdERaMHZmZmtWSGJTMVhtelNxdw?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUXk1bGZSQ1BUWnVPNWlBQ1V4TDJXTGxhMmZHeUNMaHpwcG13Ylg3QlIzZDE0M1VKbC1PTF8zUGdGUXA2MXhCU0dKeExtNnZjTHJXamtJZmtnMmFEaTFLQnAtdWdNdkhqX1VQSm9iN0FzWExGdERaMHZmZmtWSGJTMVhtelNxdw?oc=5",
-      "publishedAt": "2026-05-06T10:48:01.000Z",
-      "source": "Aerospace Global News",
-      "_feedRegion": "global",
-      "_feedName": "Google News (Global)",
-      "_scoring": {
-        "score": 69,
-        "categories": [
-          "技術・製品",
-          "市場・資金",
-          "政策・インフラ"
-        ],
-        "breakdown": {
-          "required": true,
-          "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "market": {
-            "matches": 1,
-            "catScore": 20
-          },
-          "policy": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 5,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
     },
     {
       "title": "NEDO「デジタルライフライン整備事業／ドローン航路の実証」インドネシア東ジャワ州においてドローン航路の海外展開可能性に関する調査・実証を実施、国際共同研究・政策支援コンソーシアムの設立へ",
@@ -591,45 +629,6 @@
       "implicationVerified": true
     },
     {
-      "title": "貨物ドローン調査レポート：市場規模、シェア、動向、予測2026-2032",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE9Pc0F1ZmRReW5GUU43bUtmUkJMWVlVUmZMc0VQYVYtQ3pXWjliNzBEaGVnem5mZHBRMV9hYkNoU0pSR283Mk1DT2VCNVJGdw?oc=5\" target=\"_blank\">貨物ドローン調査レポート：市場規模、シェア、動向、予測2026-2032</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">アットプレス</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE9Pc0F1ZmRReW5GUU43bUtmUkJMWVlVUmZMc0VQYVYtQ3pXWjliNzBEaGVnem5mZHBRMV9hYkNoU0pSR283Mk1DT2VCNVJGdw?oc=5\" target=\"_blank\">貨物ドローン調査レポート：市場規模、シェア、動向、予測2026-2032</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">アットプレス</font>",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9Pc0F1ZmRReW5GUU43bUtmUkJMWVlVUmZMc0VQYVYtQ3pXWjliNzBEaGVnem5mZHBRMV9hYkNoU0pSR283Mk1DT2VCNVJGdw?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9Pc0F1ZmRReW5GUU43bUtmUkJMWVlVUmZMc0VQYVYtQ3pXWjliNzBEaGVnem5mZHBRMV9hYkNoU0pSR283Mk1DT2VCNVJGdw?oc=5",
-      "publishedAt": "2026-04-28T08:28:00.000Z",
-      "source": "アットプレス",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP 事業者/実装)",
-      "_scoring": {
-        "score": 67,
-        "categories": [
-          "技術・製品",
-          "事故・事件"
-        ],
-        "breakdown": {
-          "required": true,
-          "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "incident": {
-            "matches": 1,
-            "catScore": 28
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 0,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      },
-      "implication": "申し訳ございません。ご提供いただいたリンクが市場調査レポートの予告記事のみで、具体的な企業名、事業内容、実装地域、導入時期などの本文情報が示されていません。",
-      "implicationVerified": true
-    },
-    {
       "title": "FAA Publishes Proposed Rule for Drone Restrictions Around Critical Infrastructure",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOMVBrUVJpcWJCYUJkelVxSG1MWjJCd0o4dklvemNXUlBGRFBTeFZ4VjdEaklWZDVEd2RITFR0bTh6UWxocmNDM19fVzlIc1lvTmQxQ05NZVpYbWlzc0pwRWpLRlpZVk9wLTNmR3VWVm9RbndXOWxFWTRURjNUSFpOcnR5blV5YzBCWEY0V0RGNjY4cDM1VHotVmdlZFA0bm40YXFlWm1jMWlzaFBnSURaT3g4VmZoQQ?oc=5\" target=\"_blank\">FAA Publishes Proposed Rule for Drone Restrictions Around Critical Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dronelife</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOMVBrUVJpcWJCYUJkelVxSG1MWjJCd0o4dklvemNXUlBGRFBTeFZ4VjdEaklWZDVEd2RITFR0bTh6UWxocmNDM19fVzlIc1lvTmQxQ05NZVpYbWlzc0pwRWpLRlpZVk9wLTNmR3VWVm9RbndXOWxFWTRURjNUSFpOcnR5blV5YzBCWEY0V0RGNjY4cDM1VHotVmdlZFA0bm40YXFlWm1jMWlzaFBnSURaT3g4VmZoQQ?oc=5\" target=\"_blank\">FAA Publishes Proposed Rule for Drone Restrictions Around Critical Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dronelife</font>",
@@ -668,13 +667,54 @@
       "implicationVerified": true
     },
     {
-      "title": "FAA Releases Section 2209 NPRM, Two-Tier Framework for Drone Restrictions Around Critical Infrastructure",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNanpkMjJFWjhtY2dKR2owM1NrM0ZZdjNDbEdQcnZISGp6X3VTNjhxdkRvRTJzRTJXVl9UaUY5RkNjRFV2X2YtbUwxTl9HVFNGd002cjVRbXN0VTFvenJldnVINDZjeEtHUmtGMlVaQ0xBeThmbTJYMTVSaU5wdHh5elYtX2FneUhyQ1FRQW9BbHY1aGY1aWM1R1RlWF9wZFFTa0RWQkc2VExBV1RDY2VGMVRjd3dReU94aVFJSmJhVENhYkhYNEUzeFBna2JxVFRZc0NUSg?oc=5\" target=\"_blank\">FAA Releases Section 2209 NPRM, Two-Tier Framework for Drone Restrictions Around Critical Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Inside Unmanned Systems</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNanpkMjJFWjhtY2dKR2owM1NrM0ZZdjNDbEdQcnZISGp6X3VTNjhxdkRvRTJzRTJXVl9UaUY5RkNjRFV2X2YtbUwxTl9HVFNGd002cjVRbXN0VTFvenJldnVINDZjeEtHUmtGMlVaQ0xBeThmbTJYMTVSaU5wdHh5elYtX2FneUhyQ1FRQW9BbHY1aGY1aWM1R1RlWF9wZFFTa0RWQkc2VExBV1RDY2VGMVRjd3dReU94aVFJSmJhVENhYkhYNEUzeFBna2JxVFRZc0NUSg?oc=5\" target=\"_blank\">FAA Releases Section 2209 NPRM, Two-Tier Framework for Drone Restrictions Around Critical Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Inside Unmanned Systems</font>",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNanpkMjJFWjhtY2dKR2owM1NrM0ZZdjNDbEdQcnZISGp6X3VTNjhxdkRvRTJzRTJXVl9UaUY5RkNjRFV2X2YtbUwxTl9HVFNGd002cjVRbXN0VTFvenJldnVINDZjeEtHUmtGMlVaQ0xBeThmbTJYMTVSaU5wdHh5elYtX2FneUhyQ1FRQW9BbHY1aGY1aWM1R1RlWF9wZFFTa0RWQkc2VExBV1RDY2VGMVRjd3dReU94aVFJSmJhVENhYkhYNEUzeFBna2JxVFRZc0NUSg?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNanpkMjJFWjhtY2dKR2owM1NrM0ZZdjNDbEdQcnZISGp6X3VTNjhxdkRvRTJzRTJXVl9UaUY5RkNjRFV2X2YtbUwxTl9HVFNGd002cjVRbXN0VTFvenJldnVINDZjeEtHUmtGMlVaQ0xBeThmbTJYMTVSaU5wdHh5elYtX2FneUhyQ1FRQW9BbHY1aGY1aWM1R1RlWF9wZFFTa0RWQkc2VExBV1RDY2VGMVRjd3dReU94aVFJSmJhVENhYkhYNEUzeFBna2JxVFRZc0NUSg?oc=5",
-      "publishedAt": "2026-05-07T08:02:34.000Z",
-      "source": "Inside Unmanned Systems",
+      "title": "Skyportz launches Aeroberm to solve the eVTOL landing challenge",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPUXk1bGZSQ1BUWnVPNWlBQ1V4TDJXTGxhMmZHeUNMaHpwcG13Ylg3QlIzZDE0M1VKbC1PTF8zUGdGUXA2MXhCU0dKeExtNnZjTHJXamtJZmtnMmFEaTFLQnAtdWdNdkhqX1VQSm9iN0FzWExGdERaMHZmZmtWSGJTMVhtelNxdw?oc=5\" target=\"_blank\">Skyportz launches Aeroberm to solve the eVTOL landing challenge</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aerospace Global News</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPUXk1bGZSQ1BUWnVPNWlBQ1V4TDJXTGxhMmZHeUNMaHpwcG13Ylg3QlIzZDE0M1VKbC1PTF8zUGdGUXA2MXhCU0dKeExtNnZjTHJXamtJZmtnMmFEaTFLQnAtdWdNdkhqX1VQSm9iN0FzWExGdERaMHZmZmtWSGJTMVhtelNxdw?oc=5\" target=\"_blank\">Skyportz launches Aeroberm to solve the eVTOL landing challenge</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aerospace Global News</font>",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUXk1bGZSQ1BUWnVPNWlBQ1V4TDJXTGxhMmZHeUNMaHpwcG13Ylg3QlIzZDE0M1VKbC1PTF8zUGdGUXA2MXhCU0dKeExtNnZjTHJXamtJZmtnMmFEaTFLQnAtdWdNdkhqX1VQSm9iN0FzWExGdERaMHZmZmtWSGJTMVhtelNxdw?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUXk1bGZSQ1BUWnVPNWlBQ1V4TDJXTGxhMmZHeUNMaHpwcG13Ylg3QlIzZDE0M1VKbC1PTF8zUGdGUXA2MXhCU0dKeExtNnZjTHJXamtJZmtnMmFEaTFLQnAtdWdNdkhqX1VQSm9iN0FzWExGdERaMHZmZmtWSGJTMVhtelNxdw?oc=5",
+      "publishedAt": "2026-05-06T10:48:01.000Z",
+      "source": "Aerospace Global News",
+      "_feedRegion": "global",
+      "_feedName": "Google News (Global)",
+      "_scoring": {
+        "score": 66,
+        "categories": [
+          "技術・製品",
+          "市場・資金",
+          "政策・インフラ"
+        ],
+        "breakdown": {
+          "required": true,
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "market": {
+            "matches": 1,
+            "catScore": 20
+          },
+          "policy": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 2,
+          "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "US Weighs Tighter Drone Rules for Critical Infrastructure",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQT0R5elJQWnlUbGs1VTlrX2RXVHBlbTk3Y1JQT3NDVVhHQjJvemFldTZTSTV6VTB0bEx5WmduLXJONW9hQXpvLXhrSmpBaGFuU0JzdlFNdTltQU5CbVlkNmtqUkFweFFsLVNaMDFUaTlDam1xd0xqUXJMay13bHZVbmdlTWtVcVg0aWtuYnhLNWxMT1N5UjlGdkIwSE8?oc=5\" target=\"_blank\">US Weighs Tighter Drone Rules for Critical Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mexico Business News</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQT0R5elJQWnlUbGs1VTlrX2RXVHBlbTk3Y1JQT3NDVVhHQjJvemFldTZTSTV6VTB0bEx5WmduLXJONW9hQXpvLXhrSmpBaGFuU0JzdlFNdTltQU5CbVlkNmtqUkFweFFsLVNaMDFUaTlDam1xd0xqUXJMay13bHZVbmdlTWtVcVg0aWtuYnhLNWxMT1N5UjlGdkIwSE8?oc=5\" target=\"_blank\">US Weighs Tighter Drone Rules for Critical Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mexico Business News</font>",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQT0R5elJQWnlUbGs1VTlrX2RXVHBlbTk3Y1JQT3NDVVhHQjJvemFldTZTSTV6VTB0bEx5WmduLXJONW9hQXpvLXhrSmpBaGFuU0JzdlFNdTltQU5CbVlkNmtqUkFweFFsLVNaMDFUaTlDam1xd0xqUXJMay13bHZVbmdlTWtVcVg0aWtuYnhLNWxMT1N5UjlGdkIwSE8?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQT0R5elJQWnlUbGs1VTlrX2RXVHBlbTk3Y1JQT3NDVVhHQjJvemFldTZTSTV6VTB0bEx5WmduLXJONW9hQXpvLXhrSmpBaGFuU0JzdlFNdTltQU5CbVlkNmtqUkFweFFsLVNaMDFUaTlDam1xd0xqUXJMay13bHZVbmdlTWtVcVg0aWtuYnhLNWxMT1N5UjlGdkIwSE8?oc=5",
+      "publishedAt": "2026-05-07T22:38:50.000Z",
+      "source": "Mexico Business News",
       "_feedRegion": "us",
       "_feedName": "FAA",
       "_scoring": {
@@ -701,7 +741,9 @@
           "titleBonus": 10
         },
         "pass": true
-      }
+      },
+      "implication": "FAAが重要インフラ周辺のドローン運用規制を強化する動きは、JCAB航空法レベル4認可の基準厳格化圧力となり、SkyDriveやテラドローンなど国内事業者が重要施設点検や災害対応での目視外飛行許可取得時に追加的な安全証明を求められる可能性…",
+      "implicationVerified": true
     },
     {
       "title": "Possible drone incident over San Diego sparks FAA investigation",
@@ -851,42 +893,6 @@
       },
       "implication": "DARPAの自律型UASスワーム開発が進む中、JCABは航空法レベル4の有人地帯目視外飛行基準を複数機体の群制御に対応させる必要があり、SkyDriveなど国内AAM企業の自律化要件がより厳格化する圧力を受ける。",
       "implicationVerified": true
-    },
-    {
-      "title": "Cramer Announces Grand Forks Air Force Base Selected for Advance Counter-Drone Defense Pilot Program",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxNZkloN2FUNTZXNElMRHI5cUFDbWxyZlFsVVdCOTFIc2hoY0JLVEtzelZ2dUJmSEl2RVMtMlpKbTdSU1M3RklMYm1fOUhVcFNva0c3bVpmeWRWNmY0M1kwWENoYml4Q2ZXYmZBaWlOQ00xelcxZER1LUEwUjBSeWkxaGpVZ08tVDRCNW5PMWFzbkN5LWlaZlc2S2ZpdnJtRUtmVFZMNnJKMWh1LTlRN3AxcWxjNU1LYjhzV2Z0dFN2NkItSGplRnpybjBaOWRhcUNuRko2emxJVEI2TFZ4U3J2c1o3RU9LQQ?oc=5\" target=\"_blank\">Cramer Announces Grand Forks Air Force Base Selected for Advance Counter-Drone Defense Pilot Program</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Senator Kevin Cramer (.gov)</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxNZkloN2FUNTZXNElMRHI5cUFDbWxyZlFsVVdCOTFIc2hoY0JLVEtzelZ2dUJmSEl2RVMtMlpKbTdSU1M3RklMYm1fOUhVcFNva0c3bVpmeWRWNmY0M1kwWENoYml4Q2ZXYmZBaWlOQ00xelcxZER1LUEwUjBSeWkxaGpVZ08tVDRCNW5PMWFzbkN5LWlaZlc2S2ZpdnJtRUtmVFZMNnJKMWh1LTlRN3AxcWxjNU1LYjhzV2Z0dFN2NkItSGplRnpybjBaOWRhcUNuRko2emxJVEI2TFZ4U3J2c1o3RU9LQQ?oc=5\" target=\"_blank\">Cramer Announces Grand Forks Air Force Base Selected for Advance Counter-Drone Defense Pilot Program</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Senator Kevin Cramer (.gov)</font>",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNZkloN2FUNTZXNElMRHI5cUFDbWxyZlFsVVdCOTFIc2hoY0JLVEtzelZ2dUJmSEl2RVMtMlpKbTdSU1M3RklMYm1fOUhVcFNva0c3bVpmeWRWNmY0M1kwWENoYml4Q2ZXYmZBaWlOQ00xelcxZER1LUEwUjBSeWkxaGpVZ08tVDRCNW5PMWFzbkN5LWlaZlc2S2ZpdnJtRUtmVFZMNnJKMWh1LTlRN3AxcWxjNU1LYjhzV2Z0dFN2NkItSGplRnpybjBaOWRhcUNuRko2emxJVEI2TFZ4U3J2c1o3RU9LQQ?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNZkloN2FUNTZXNElMRHI5cUFDbWxyZlFsVVdCOTFIc2hoY0JLVEtzelZ2dUJmSEl2RVMtMlpKbTdSU1M3RklMYm1fOUhVcFNva0c3bVpmeWRWNmY0M1kwWENoYml4Q2ZXYmZBaWlOQ00xelcxZER1LUEwUjBSeWkxaGpVZ08tVDRCNW5PMWFzbkN5LWlaZlc2S2ZpdnJtRUtmVFZMNnJKMWh1LTlRN3AxcWxjNU1LYjhzV2Z0dFN2NkItSGplRnpybjBaOWRhcUNuRko2emxJVEI2TFZ4U3J2c1o3RU9LQQ?oc=5",
-      "publishedAt": "2026-05-07T22:34:35.000Z",
-      "source": "Senator Kevin Cramer (.gov)",
-      "_feedRegion": "global",
-      "_feedName": "Google News (Global)",
-      "_scoring": {
-        "score": 63,
-        "categories": [
-          "技術・製品",
-          "政策・インフラ"
-        ],
-        "breakdown": {
-          "required": true,
-          "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "policy": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 15,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
     },
     {
       "title": "金沢工大開発の大型物流ドローン、福井空港で初の飛行実証 「50kg・50km」想定で運用、ドローンキャンパス講師が操縦支援",
@@ -1112,13 +1118,13 @@
       }
     },
     {
-      "title": "FAA Proposes Drone‑Free Zones For Critical Infrastructure",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPdE9iYkRBUUJmQ2l6amY2b3VIbFJSQ080WnVGUzBGR3Bld09qaTYydnF4cWlkR0duYng5X2wzUzdEeHg1T0IzbVh3WThSa0EwWl82Wm5zNGF3U1JaTnl0QTQ2a2lueVdRQ3h5aUJxb2xvaGdTbGNMcUlNOWx6MGg4ZGV6dVJKOVc5NmRybDVFa2J0SE0?oc=5\" target=\"_blank\">FAA Proposes Drone‑Free Zones For Critical Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hoodline</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPdE9iYkRBUUJmQ2l6amY2b3VIbFJSQ080WnVGUzBGR3Bld09qaTYydnF4cWlkR0duYng5X2wzUzdEeHg1T0IzbVh3WThSa0EwWl82Wm5zNGF3U1JaTnl0QTQ2a2lueVdRQ3h5aUJxb2xvaGdTbGNMcUlNOWx6MGg4ZGV6dVJKOVc5NmRybDVFa2J0SE0?oc=5\" target=\"_blank\">FAA Proposes Drone‑Free Zones For Critical Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hoodline</font>",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdE9iYkRBUUJmQ2l6amY2b3VIbFJSQ080WnVGUzBGR3Bld09qaTYydnF4cWlkR0duYng5X2wzUzdEeHg1T0IzbVh3WThSa0EwWl82Wm5zNGF3U1JaTnl0QTQ2a2lueVdRQ3h5aUJxb2xvaGdTbGNMcUlNOWx6MGg4ZGV6dVJKOVc5NmRybDVFa2J0SE0?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdE9iYkRBUUJmQ2l6amY2b3VIbFJSQ080WnVGUzBGR3Bld09qaTYydnF4cWlkR0duYng5X2wzUzdEeHg1T0IzbVh3WThSa0EwWl82Wm5zNGF3U1JaTnl0QTQ2a2lueVdRQ3h5aUJxb2xvaGdTbGNMcUlNOWx6MGg4ZGV6dVJKOVc5NmRybDVFa2J0SE0?oc=5",
-      "publishedAt": "2026-05-06T14:47:08.000Z",
-      "source": "Hoodline",
+      "title": "FAA Releases Section 2209 NPRM, Two-Tier Framework for Drone Restrictions Around Critical Infrastructure",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNanpkMjJFWjhtY2dKR2owM1NrM0ZZdjNDbEdQcnZISGp6X3VTNjhxdkRvRTJzRTJXVl9UaUY5RkNjRFV2X2YtbUwxTl9HVFNGd002cjVRbXN0VTFvenJldnVINDZjeEtHUmtGMlVaQ0xBeThmbTJYMTVSaU5wdHh5elYtX2FneUhyQ1FRQW9BbHY1aGY1aWM1R1RlWF9wZFFTa0RWQkc2VExBV1RDY2VGMVRjd3dReU94aVFJSmJhVENhYkhYNEUzeFBna2JxVFRZc0NUSg?oc=5\" target=\"_blank\">FAA Releases Section 2209 NPRM, Two-Tier Framework for Drone Restrictions Around Critical Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Inside Unmanned Systems</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNanpkMjJFWjhtY2dKR2owM1NrM0ZZdjNDbEdQcnZISGp6X3VTNjhxdkRvRTJzRTJXVl9UaUY5RkNjRFV2X2YtbUwxTl9HVFNGd002cjVRbXN0VTFvenJldnVINDZjeEtHUmtGMlVaQ0xBeThmbTJYMTVSaU5wdHh5elYtX2FneUhyQ1FRQW9BbHY1aGY1aWM1R1RlWF9wZFFTa0RWQkc2VExBV1RDY2VGMVRjd3dReU94aVFJSmJhVENhYkhYNEUzeFBna2JxVFRZc0NUSg?oc=5\" target=\"_blank\">FAA Releases Section 2209 NPRM, Two-Tier Framework for Drone Restrictions Around Critical Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Inside Unmanned Systems</font>",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNanpkMjJFWjhtY2dKR2owM1NrM0ZZdjNDbEdQcnZISGp6X3VTNjhxdkRvRTJzRTJXVl9UaUY5RkNjRFV2X2YtbUwxTl9HVFNGd002cjVRbXN0VTFvenJldnVINDZjeEtHUmtGMlVaQ0xBeThmbTJYMTVSaU5wdHh5elYtX2FneUhyQ1FRQW9BbHY1aGY1aWM1R1RlWF9wZFFTa0RWQkc2VExBV1RDY2VGMVRjd3dReU94aVFJSmJhVENhYkhYNEUzeFBna2JxVFRZc0NUSg?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNanpkMjJFWjhtY2dKR2owM1NrM0ZZdjNDbEdQcnZISGp6X3VTNjhxdkRvRTJzRTJXVl9UaUY5RkNjRFV2X2YtbUwxTl9HVFNGd002cjVRbXN0VTFvenJldnVINDZjeEtHUmtGMlVaQ0xBeThmbTJYMTVSaU5wdHh5elYtX2FneUhyQ1FRQW9BbHY1aGY1aWM1R1RlWF9wZFFTa0RWQkc2VExBV1RDY2VGMVRjd3dReU94aVFJSmJhVENhYkhYNEUzeFBna2JxVFRZc0NUSg?oc=5",
+      "publishedAt": "2026-05-07T08:02:34.000Z",
+      "source": "Inside Unmanned Systems",
       "_feedRegion": "us",
       "_feedName": "FAA",
       "_scoring": {
@@ -1145,9 +1151,7 @@
           "titleBonus": 10
         },
         "pass": true
-      },
-      "implication": "FAAが重要インフラ上空のドローン禁止区域を提案する動きは、JCAB航空法レベル4運用の許可基準を厳格化させる圧力となり、大阪・関西万博など公共施設周辺での目視外飛行実験の事前協議要件が強化される可能性を示唆する。",
-      "implicationVerified": true
+      }
     }
   ],
   "errors": []
