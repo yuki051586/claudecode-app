@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-12T17:21:13.454Z",
-  "rawCount": 627,
+  "generatedAt": "2026-05-12T22:37:38.543Z",
+  "rawCount": 728,
   "articles": [
     {
       "title": "eVTOL Firm Targets $115 Million Revenue and FAA Certification",
@@ -128,6 +128,43 @@
       }
     },
     {
+      "title": "ダイナミックマップ、ドローン測量買収 デジタルインフラ整備",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5GeDBlc0h4aHBqOGYtU0RhelU2YVZWU2lOZWZGLWpDSmlXX0ttR2pibDlUZUxsVUNmT1dCV3FGajBMY0FOTmtzdkJncFZjX0JxWFNqMmpCR3hjeHc?oc=5\" target=\"_blank\">ダイナミックマップ、ドローン測量買収 デジタルインフラ整備</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日刊工業新聞</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5GeDBlc0h4aHBqOGYtU0RhelU2YVZWU2lOZWZGLWpDSmlXX0ttR2pibDlUZUxsVUNmT1dCV3FGajBMY0FOTmtzdkJncFZjX0JxWFNqMmpCR3hjeHc?oc=5\" target=\"_blank\">ダイナミックマップ、ドローン測量買収 デジタルインフラ整備</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日刊工業新聞</font>",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5GeDBlc0h4aHBqOGYtU0RhelU2YVZWU2lOZWZGLWpDSmlXX0ttR2pibDlUZUxsVUNmT1dCV3FGajBMY0FOTmtzdkJncFZjX0JxWFNqMmpCR3hjeHc?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5GeDBlc0h4aHBqOGYtU0RhelU2YVZWU2lOZWZGLWpDSmlXX0ttR2pibDlUZUxsVUNmT1dCV3FGajBMY0FOTmtzdkJncFZjX0JxWFNqMmpCR3hjeHc?oc=5",
+      "publishedAt": "2026-05-12T01:52:30.000Z",
+      "source": "日刊工業新聞",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP 事業者/実装)",
+      "_scoring": {
+        "score": 75,
+        "categories": [
+          "市場・資金",
+          "政策・インフラ"
+        ],
+        "breakdown": {
+          "required": true,
+          "market": {
+            "matches": 1,
+            "catScore": 20
+          },
+          "policy": {
+            "matches": 2,
+            "catScore": 30
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 10,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
       "title": "Position, navigation, open compute module for small UAS showing at Xponential 2026",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPZGRlMHktTVBORmtDY2pPZ1N0eXdKMHlzVDRpS2xucDhtOVk5bWFzMS1lZWNRcXFETnItbENGSEhfOHV3ek81ZVgwdUp3SFg1T21Nb2NnT1kyY2t1QXRUSFVOQ0lDMUhIM1doQ01jMGhnUU4ySV9ucnVsX09NNVFiN2stQlE5b3c2RFlmLXEtZ2RUR3Y3V3JLenZwaGd4WHozLUIyd2M0cXpWU2pnbmNjSzdzcUpvQTJ4V3pEUXMyWHlDNmtYRUE?oc=5\" target=\"_blank\">Position, navigation, open compute module for small UAS showing at Xponential 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Military Embedded Systems</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPZGRlMHktTVBORmtDY2pPZ1N0eXdKMHlzVDRpS2xucDhtOVk5bWFzMS1lZWNRcXFETnItbENGSEhfOHV3ek81ZVgwdUp3SFg1T21Nb2NnT1kyY2t1QXRUSFVOQ0lDMUhIM1doQ01jMGhnUU4ySV9ucnVsX09NNVFiN2stQlE5b3c2RFlmLXEtZ2RUR3Y3V3JLenZwaGd4WHozLUIyd2M0cXpWU2pnbmNjSzdzcUpvQTJ4V3pEUXMyWHlDNmtYRUE?oc=5\" target=\"_blank\">Position, navigation, open compute module for small UAS showing at Xponential 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Military Embedded Systems</font>",
@@ -138,7 +175,7 @@
       "_feedRegion": "global",
       "_feedName": "Google News (Global)",
       "_scoring": {
-        "score": 75,
+        "score": 70,
         "categories": [
           "規制・政策",
           "政策・インフラ"
@@ -157,7 +194,7 @@
             "domain": "news.google.com",
             "multiplier": 0.8
           },
-          "freshness": 20,
+          "freshness": 15,
           "titleBonus": 10
         },
         "pass": true
@@ -430,42 +467,6 @@
           },
           "freshness": 5,
           "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "GMO AIR、空港でヒューマノイドロボット活用の実証実験を開始",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9hdHc3TUtfZmNYZVphV1Z3V0R6Y2FLZ19VS29pRUo0Q0RPSWNqZkpPc1RRMExTZmpJS2p6MUwySEFLWV91Q29fbXFyT2wzdEdVaFRINWxrUVpnYzV4ckRiazg1dEg3UWxtaGVvN2cwc2lCUF9ja0Fucw?oc=5\" target=\"_blank\">GMO AIR、空港でヒューマノイドロボット活用の実証実験を開始</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ドローンジャーナル</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9hdHc3TUtfZmNYZVphV1Z3V0R6Y2FLZ19VS29pRUo0Q0RPSWNqZkpPc1RRMExTZmpJS2p6MUwySEFLWV91Q29fbXFyT2wzdEdVaFRINWxrUVpnYzV4ckRiazg1dEg3UWxtaGVvN2cwc2lCUF9ja0Fucw?oc=5\" target=\"_blank\">GMO AIR、空港でヒューマノイドロボット活用の実証実験を開始</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ドローンジャーナル</font>",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9hdHc3TUtfZmNYZVphV1Z3V0R6Y2FLZ19VS29pRUo0Q0RPSWNqZkpPc1RRMExTZmpJS2p6MUwySEFLWV91Q29fbXFyT2wzdEdVaFRINWxrUVpnYzV4ckRiazg1dEg3UWxtaGVvN2cwc2lCUF9ja0Fucw?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9hdHc3TUtfZmNYZVphV1Z3V0R6Y2FLZ19VS29pRUo0Q0RPSWNqZkpPc1RRMExTZmpJS2p6MUwySEFLWV91Q29fbXFyT2wzdEdVaFRINWxrUVpnYzV4ckRiazg1dEg3UWxtaGVvN2cwc2lCUF9ja0Fucw?oc=5",
-      "publishedAt": "2026-05-12T06:36:19.000Z",
-      "source": "ドローンジャーナル",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP 経済メディア)",
-      "_scoring": {
-        "score": 68,
-        "categories": [
-          "技術・製品",
-          "政策・インフラ"
-        ],
-        "breakdown": {
-          "required": true,
-          "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "policy": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 15,
-          "jpRegionBonus": 15
         },
         "pass": true
       }
@@ -854,13 +855,13 @@
       "implicationVerified": true
     },
     {
-      "title": "令和8年度「地域復興実用化開発等促進事業費補助金」に採択 中山間地域における物流・災害対応を支えるドローン開発と地域上空Wifi網構築インフラの実用化を推進［manisonias］",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFBuMmJwam83TGlxbWVNTHpMWDdKVkpxNFNXbGRRWHFabjEyRTVLZ0Z6SG1kd2JxaFpaTWs5b1ZSRHJGV202SGVPOUJtUU9tVU5yblVsUFdXQUF1V1F0TG1qWFpBbWR0Y0MtcUlBcVBEYUZuSUN1ZjZzNlcxaXI?oc=5\" target=\"_blank\">令和8年度「地域復興実用化開発等促進事業費補助金」に採択 中山間地域における物流・災害対応を支えるドローン開発と地域上空Wifi網構築インフラの実用化を推進［manisonias］</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFBuMmJwam83TGlxbWVNTHpMWDdKVkpxNFNXbGRRWHFabjEyRTVLZ0Z6SG1kd2JxaFpaTWs5b1ZSRHJGV202SGVPOUJtUU9tVU5yblVsUFdXQUF1V1F0TG1qWFpBbWR0Y0MtcUlBcVBEYUZuSUN1ZjZzNlcxaXI?oc=5\" target=\"_blank\">令和8年度「地域復興実用化開発等促進事業費補助金」に採択 中山間地域における物流・災害対応を支えるドローン開発と地域上空Wifi網構築インフラの実用化を推進［manisonias］</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBuMmJwam83TGlxbWVNTHpMWDdKVkpxNFNXbGRRWHFabjEyRTVLZ0Z6SG1kd2JxaFpaTWs5b1ZSRHJGV202SGVPOUJtUU9tVU5yblVsUFdXQUF1V1F0TG1qWFpBbWR0Y0MtcUlBcVBEYUZuSUN1ZjZzNlcxaXI?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBuMmJwam83TGlxbWVNTHpMWDdKVkpxNFNXbGRRWHFabjEyRTVLZ0Z6SG1kd2JxaFpaTWs5b1ZSRHJGV202SGVPOUJtUU9tVU5yblVsUFdXQUF1V1F0TG1qWFpBbWR0Y0MtcUlBcVBEYUZuSUN1ZjZzNlcxaXI?oc=5",
-      "publishedAt": "2026-05-08T04:54:54.000Z",
-      "source": "日本経済新聞",
+      "title": "GMO AIR、空港でヒューマノイドロボット活用の実証実験を開始",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9hdHc3TUtfZmNYZVphV1Z3V0R6Y2FLZ19VS29pRUo0Q0RPSWNqZkpPc1RRMExTZmpJS2p6MUwySEFLWV91Q29fbXFyT2wzdEdVaFRINWxrUVpnYzV4ckRiazg1dEg3UWxtaGVvN2cwc2lCUF9ja0Fucw?oc=5\" target=\"_blank\">GMO AIR、空港でヒューマノイドロボット活用の実証実験を開始</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ドローンジャーナル</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9hdHc3TUtfZmNYZVphV1Z3V0R6Y2FLZ19VS29pRUo0Q0RPSWNqZkpPc1RRMExTZmpJS2p6MUwySEFLWV91Q29fbXFyT2wzdEdVaFRINWxrUVpnYzV4ckRiazg1dEg3UWxtaGVvN2cwc2lCUF9ja0Fucw?oc=5\" target=\"_blank\">GMO AIR、空港でヒューマノイドロボット活用の実証実験を開始</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ドローンジャーナル</font>",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9hdHc3TUtfZmNYZVphV1Z3V0R6Y2FLZ19VS29pRUo0Q0RPSWNqZkpPc1RRMExTZmpJS2p6MUwySEFLWV91Q29fbXFyT2wzdEdVaFRINWxrUVpnYzV4ckRiazg1dEg3UWxtaGVvN2cwc2lCUF9ja0Fucw?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9hdHc3TUtfZmNYZVphV1Z3V0R6Y2FLZ19VS29pRUo0Q0RPSWNqZkpPc1RRMExTZmpJS2p6MUwySEFLWV91Q29fbXFyT2wzdEdVaFRINWxrUVpnYzV4ckRiazg1dEg3UWxtaGVvN2cwc2lCUF9ja0Fucw?oc=5",
+      "publishedAt": "2026-05-12T06:36:19.000Z",
+      "source": "ドローンジャーナル",
       "_feedRegion": "jp",
       "_feedName": "Google News (JP 経済メディア)",
       "_scoring": {
@@ -883,8 +884,7 @@
             "domain": "news.google.com",
             "multiplier": 0.8
           },
-          "freshness": 0,
-          "titleBonus": 10,
+          "freshness": 10,
           "jpRegionBonus": 15
         },
         "pass": true
@@ -968,36 +968,36 @@
       "implicationVerified": true
     },
     {
-      "title": "Rheinmetall, Telekom plan to launch mobile network-based C-UAS technologies",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE11cUx3clNfVS1SbUhYdHZtVTN2RUhVMVYwTUlsdFl4VDFIVjY2WG9TbGlrcFpQVjNOcU9zV0RiTUZNUUNDSnpGN2hHUG13STBTdl9qQ3IwT3gtRG5xU1ZUdi1wNXpLNEZyNlU5UkZJVDMzbUN6a0Q2aldJRjUwQQ?oc=5\" target=\"_blank\">Rheinmetall, Telekom plan to launch mobile network-based C-UAS technologies</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE11cUx3clNfVS1SbUhYdHZtVTN2RUhVMVYwTUlsdFl4VDFIVjY2WG9TbGlrcFpQVjNOcU9zV0RiTUZNUUNDSnpGN2hHUG13STBTdl9qQ3IwT3gtRG5xU1ZUdi1wNXpLNEZyNlU5UkZJVDMzbUN6a0Q2aldJRjUwQQ?oc=5\" target=\"_blank\">Rheinmetall, Telekom plan to launch mobile network-based C-UAS technologies</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE11cUx3clNfVS1SbUhYdHZtVTN2RUhVMVYwTUlsdFl4VDFIVjY2WG9TbGlrcFpQVjNOcU9zV0RiTUZNUUNDSnpGN2hHUG13STBTdl9qQ3IwT3gtRG5xU1ZUdi1wNXpLNEZyNlU5UkZJVDMzbUN6a0Q2aldJRjUwQQ?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTE11cUx3clNfVS1SbUhYdHZtVTN2RUhVMVYwTUlsdFl4VDFIVjY2WG9TbGlrcFpQVjNOcU9zV0RiTUZNUUNDSnpGN2hHUG13STBTdl9qQ3IwT3gtRG5xU1ZUdi1wNXpLNEZyNlU5UkZJVDMzbUN6a0Q2aldJRjUwQQ?oc=5",
-      "publishedAt": "2026-05-12T10:23:24.000Z",
-      "source": "Unmanned airspace",
+      "title": "Joby stock records best day in three months after first NYC air taxi test but retail is awaiting an FAA license",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiywNBVV95cUxNVV9kTFRFN1A3NXkxS3l3S0xRdmNMQXhVYy1LMnZGZnlxdm1VOHdMUHdQS2ZPTmVJcDhhckxHdmhPeWxzdVpsRmktajgwcDJxUmttTTlyNnU5d2I0TUxKTHFWUmJqNW16NTQwWWhXRzNCM0tMeVBkLXMySG4tVTlfTURYdm8zMFM4LVNTZ2lfdGd0cGFCd3FRQmZjOVEtcGxmYXZyRlJFVUtmV1E2SWpuZzVBTUNXSXJmZ1c3dFoyc3g2OWc2VDRGY0xFSGRONWpHR2VGR0ZiUFJGWDhVeWxOREkzdDZwUGpfa2pQZXZ3VVhIZndrM3ZScUdEWVdZcDVUUkhZblg5Y3NQdVdwdUtuM3QyNjd2bUg1UzRfWnZaVkloaVJScllqQTZiaWNhMVBOX25fNWo4LWVOSFhMeUxXTDJIdlYxYnc4SEdfQWdEWFAwU0N3M3pvZHgtbUNIVFY5Z21fanVtWktXN1M3OTFSd3d3WGJPeTBPN250LWhNb0ZoQ25fTGxfQmlZa0xucE5NcmRvVTdQVmx3bXBqOF9XcjAxOGVGOTZCRXdWQWNSUF9RclUtUmJXVW1ucGpHeHZ2WXM1LVlueF9lSVk?oc=5\" target=\"_blank\">Joby stock records best day in three months after first NYC air taxi test but retail is awaiting an FAA license</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiywNBVV95cUxNVV9kTFRFN1A3NXkxS3l3S0xRdmNMQXhVYy1LMnZGZnlxdm1VOHdMUHdQS2ZPTmVJcDhhckxHdmhPeWxzdVpsRmktajgwcDJxUmttTTlyNnU5d2I0TUxKTHFWUmJqNW16NTQwWWhXRzNCM0tMeVBkLXMySG4tVTlfTURYdm8zMFM4LVNTZ2lfdGd0cGFCd3FRQmZjOVEtcGxmYXZyRlJFVUtmV1E2SWpuZzVBTUNXSXJmZ1c3dFoyc3g2OWc2VDRGY0xFSGRONWpHR2VGR0ZiUFJGWDhVeWxOREkzdDZwUGpfa2pQZXZ3VVhIZndrM3ZScUdEWVdZcDVUUkhZblg5Y3NQdVdwdUtuM3QyNjd2bUg1UzRfWnZaVkloaVJScllqQTZiaWNhMVBOX25fNWo4LWVOSFhMeUxXTDJIdlYxYnc4SEdfQWdEWFAwU0N3M3pvZHgtbUNIVFY5Z21fanVtWktXN1M3OTFSd3d3WGJPeTBPN250LWhNb0ZoQ25fTGxfQmlZa0xucE5NcmRvVTdQVmx3bXBqOF9XcjAxOGVGOTZCRXdWQWNSUF9RclUtUmJXVW1ucGpHeHZ2WXM1LVlueF9lSVk?oc=5\" target=\"_blank\">Joby stock records best day in three months after first NYC air taxi test but retail is awaiting an FAA license</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+      "url": "https://news.google.com/rss/articles/CBMiywNBVV95cUxNVV9kTFRFN1A3NXkxS3l3S0xRdmNMQXhVYy1LMnZGZnlxdm1VOHdMUHdQS2ZPTmVJcDhhckxHdmhPeWxzdVpsRmktajgwcDJxUmttTTlyNnU5d2I0TUxKTHFWUmJqNW16NTQwWWhXRzNCM0tMeVBkLXMySG4tVTlfTURYdm8zMFM4LVNTZ2lfdGd0cGFCd3FRQmZjOVEtcGxmYXZyRlJFVUtmV1E2SWpuZzVBTUNXSXJmZ1c3dFoyc3g2OWc2VDRGY0xFSGRONWpHR2VGR0ZiUFJGWDhVeWxOREkzdDZwUGpfa2pQZXZ3VVhIZndrM3ZScUdEWVdZcDVUUkhZblg5Y3NQdVdwdUtuM3QyNjd2bUg1UzRfWnZaVkloaVJScllqQTZiaWNhMVBOX25fNWo4LWVOSFhMeUxXTDJIdlYxYnc4SEdfQWdEWFAwU0N3M3pvZHgtbUNIVFY5Z21fanVtWktXN1M3OTFSd3d3WGJPeTBPN250LWhNb0ZoQ25fTGxfQmlZa0xucE5NcmRvVTdQVmx3bXBqOF9XcjAxOGVGOTZCRXdWQWNSUF9RclUtUmJXVW1ucGpHeHZ2WXM1LVlueF9lSVk?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiywNBVV95cUxNVV9kTFRFN1A3NXkxS3l3S0xRdmNMQXhVYy1LMnZGZnlxdm1VOHdMUHdQS2ZPTmVJcDhhckxHdmhPeWxzdVpsRmktajgwcDJxUmttTTlyNnU5d2I0TUxKTHFWUmJqNW16NTQwWWhXRzNCM0tMeVBkLXMySG4tVTlfTURYdm8zMFM4LVNTZ2lfdGd0cGFCd3FRQmZjOVEtcGxmYXZyRlJFVUtmV1E2SWpuZzVBTUNXSXJmZ1c3dFoyc3g2OWc2VDRGY0xFSGRONWpHR2VGR0ZiUFJGWDhVeWxOREkzdDZwUGpfa2pQZXZ3VVhIZndrM3ZScUdEWVdZcDVUUkhZblg5Y3NQdVdwdUtuM3QyNjd2bUg1UzRfWnZaVkloaVJScllqQTZiaWNhMVBOX25fNWo4LWVOSFhMeUxXTDJIdlYxYnc4SEdfQWdEWFAwU0N3M3pvZHgtbUNIVFY5Z21fanVtWktXN1M3OTFSd3d3WGJPeTBPN250LWhNb0ZoQ25fTGxfQmlZa0xucE5NcmRvVTdQVmx3bXBqOF9XcjAxOGVGOTZCRXdWQWNSUF9RclUtUmJXVW1ucGpHeHZ2WXM1LVlueF9lSVk?oc=5",
+      "publishedAt": "2026-05-11T10:38:19.000Z",
+      "source": "MSN",
       "_feedRegion": "global",
       "_feedName": "Google News (Global)",
       "_scoring": {
         "score": 60,
         "categories": [
-          "技術・製品",
-          "市場・資金"
+          "規制・政策",
+          "技術・製品"
         ],
         "breakdown": {
           "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
           "technology": {
             "matches": 1,
             "catScore": 24
-          },
-          "market": {
-            "matches": 1,
-            "catScore": 20
           },
           "sourceTrust": {
             "domain": "news.google.com",
             "multiplier": 0.8
           },
-          "freshness": 15,
+          "freshness": 5,
           "titleBonus": 10
         },
         "pass": true
@@ -1079,68 +1079,80 @@
       "implicationVerified": true
     },
     {
-      "title": "ドローン防空システム、独通信・防衛大手が共同開発",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE4tZi1TNzgyakNOa3l1WWtPUEJfcmlhVE1pMDhvVzlnZmVObUtpYVV5ajRfNjVMbmdMbmRMUVhuUHR2dmxaWVdvV01uT1M5cDhGOHdSRldXU2FjYjMzTE1ZLXBQTlhaN0g2WHZLNg?oc=5\" target=\"_blank\">ドローン防空システム、独通信・防衛大手が共同開発</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE4tZi1TNzgyakNOa3l1WWtPUEJfcmlhVE1pMDhvVzlnZmVObUtpYVV5ajRfNjVMbmdMbmRMUVhuUHR2dmxaWVdvV01uT1M5cDhGOHdSRldXU2FjYjMzTE1ZLXBQTlhaN0g2WHZLNg?oc=5\" target=\"_blank\">ドローン防空システム、独通信・防衛大手が共同開発</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4tZi1TNzgyakNOa3l1WWtPUEJfcmlhVE1pMDhvVzlnZmVObUtpYVV5ajRfNjVMbmdMbmRMUVhuUHR2dmxaWVdvV01uT1M5cDhGOHdSRldXU2FjYjMzTE1ZLXBQTlhaN0g2WHZLNg?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4tZi1TNzgyakNOa3l1WWtPUEJfcmlhVE1pMDhvVzlnZmVObUtpYVV5ajRfNjVMbmdMbmRMUVhuUHR2dmxaWVdvV01uT1M5cDhGOHdSRldXU2FjYjMzTE1ZLXBQTlhaN0g2WHZLNg?oc=5",
-      "publishedAt": "2026-05-12T08:31:03.000Z",
-      "source": "日本経済新聞",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP 経済メディア)",
+      "title": "FAA investigates near crash between a drone and jet",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeFpMSEJLZThKR1hVYk10Q0Jjc1NJY2prUXFCTElxWktTYnhYbXdOb1d0S1dBUmdFbHYtdDhwVGdkdGpIQlVGdjN5SGhRUDVuVjNpWDlRMUVTOXJfejkxcFZHMTl5WlB6anE1dDVUcDZrc1dIdS1hQ0ZvRFo0aDNVNG9heGcxemlRbkQxMjhISDU1NklFSkx6d2wtdHZPd2J5MHUxSXNxS2hib2RMMzNyNUNBNXFaNlRYRVREZ3cxbk00ZFU?oc=5\" target=\"_blank\">FAA investigates near crash between a drone and jet</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">kens5.com</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeFpMSEJLZThKR1hVYk10Q0Jjc1NJY2prUXFCTElxWktTYnhYbXdOb1d0S1dBUmdFbHYtdDhwVGdkdGpIQlVGdjN5SGhRUDVuVjNpWDlRMUVTOXJfejkxcFZHMTl5WlB6anE1dDVUcDZrc1dIdS1hQ0ZvRFo0aDNVNG9heGcxemlRbkQxMjhISDU1NklFSkx6d2wtdHZPd2J5MHUxSXNxS2hib2RMMzNyNUNBNXFaNlRYRVREZ3cxbk00ZFU?oc=5\" target=\"_blank\">FAA investigates near crash between a drone and jet</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">kens5.com</font>",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeFpMSEJLZThKR1hVYk10Q0Jjc1NJY2prUXFCTElxWktTYnhYbXdOb1d0S1dBUmdFbHYtdDhwVGdkdGpIQlVGdjN5SGhRUDVuVjNpWDlRMUVTOXJfejkxcFZHMTl5WlB6anE1dDVUcDZrc1dIdS1hQ0ZvRFo0aDNVNG9heGcxemlRbkQxMjhISDU1NklFSkx6d2wtdHZPd2J5MHUxSXNxS2hib2RMMzNyNUNBNXFaNlRYRVREZ3cxbk00ZFU?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeFpMSEJLZThKR1hVYk10Q0Jjc1NJY2prUXFCTElxWktTYnhYbXdOb1d0S1dBUmdFbHYtdDhwVGdkdGpIQlVGdjN5SGhRUDVuVjNpWDlRMUVTOXJfejkxcFZHMTl5WlB6anE1dDVUcDZrc1dIdS1hQ0ZvRFo0aDNVNG9heGcxemlRbkQxMjhISDU1NklFSkx6d2wtdHZPd2J5MHUxSXNxS2hib2RMMzNyNUNBNXFaNlRYRVREZ3cxbk00ZFU?oc=5",
+      "publishedAt": "2026-04-30T07:00:00.000Z",
+      "source": "kens5.com",
+      "_feedRegion": "us",
+      "_feedName": "FAA",
       "_scoring": {
-        "score": 59,
+        "score": 58,
         "categories": [
-          "技術・製品"
+          "規制・政策",
+          "事故・事件"
         ],
         "breakdown": {
           "required": true,
-          "technology": {
+          "regulation": {
             "matches": 1,
-            "catScore": 24
+            "catScore": 32
+          },
+          "incident": {
+            "matches": 1,
+            "catScore": 28
           },
           "sourceTrust": {
             "domain": "news.google.com",
             "multiplier": 0.8
           },
-          "freshness": 15,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
+          "freshness": 0,
+          "titleBonus": 10
         },
         "pass": true
-      }
+      },
+      "implication": "FAAのドローン・航空機接近事案調査は、航空法レベル4運用を進めるJCABに対し、有人航空機との共有空域での回避基準と検出・通報制度の整備を加速させる圧力となる。",
+      "implicationVerified": true
     },
     {
-      "title": "Ｌｉｂｅｒａｗａｒｅ[218A]：「JR東日本グループ ドローンDX CHAMPIONSHIP 2026」（６月７日（日））開催決定のお知らせ 2026年5月12日(適時開示) ：日経会社情報DIGITAL",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOSGhPLUtwRGZRYTNXWkFlc1dubGlQSkhDXzlfbmktVnFmbHk1eFNmVm51SlpJb2tEV3otU29RQWx4QlZ5OEJJWHNIOGx6Vkg1MmtmWDNUUXV3NE9vV3FOR2F4RGVBZmpvaDZHVFZWRkl1eDd1OHlKNGFZc0dQelVZTlFNclhSUFYtek1KZ2N4bmpJYzFWOEkwLVhHSGh1a18wOU8tYmZENFJ1bzlFTm1VcnhPSkk5NkhDODFkTFJKRDQ0ZDFRUE53cjFTM2s?oc=5\" target=\"_blank\">Ｌｉｂｅｒａｗａｒｅ[218A]：「JR東日本グループ ドローンDX CHAMPIONSHIP 2026」（６月７日（日））開催決定のお知らせ 2026年5月12日(適時開示) ：日経会社情報DIGITAL</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOSGhPLUtwRGZRYTNXWkFlc1dubGlQSkhDXzlfbmktVnFmbHk1eFNmVm51SlpJb2tEV3otU29RQWx4QlZ5OEJJWHNIOGx6Vkg1MmtmWDNUUXV3NE9vV3FOR2F4RGVBZmpvaDZHVFZWRkl1eDd1OHlKNGFZc0dQelVZTlFNclhSUFYtek1KZ2N4bmpJYzFWOEkwLVhHSGh1a18wOU8tYmZENFJ1bzlFTm1VcnhPSkk5NkhDODFkTFJKRDQ0ZDFRUE53cjFTM2s?oc=5\" target=\"_blank\">Ｌｉｂｅｒａｗａｒｅ[218A]：「JR東日本グループ ドローンDX CHAMPIONSHIP 2026」（６月７日（日））開催決定のお知らせ 2026年5月12日(適時開示) ：日経会社情報DIGITAL</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSGhPLUtwRGZRYTNXWkFlc1dubGlQSkhDXzlfbmktVnFmbHk1eFNmVm51SlpJb2tEV3otU29RQWx4QlZ5OEJJWHNIOGx6Vkg1MmtmWDNUUXV3NE9vV3FOR2F4RGVBZmpvaDZHVFZWRkl1eDd1OHlKNGFZc0dQelVZTlFNclhSUFYtek1KZ2N4bmpJYzFWOEkwLVhHSGh1a18wOU8tYmZENFJ1bzlFTm1VcnhPSkk5NkhDODFkTFJKRDQ0ZDFRUE53cjFTM2s?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSGhPLUtwRGZRYTNXWkFlc1dubGlQSkhDXzlfbmktVnFmbHk1eFNmVm51SlpJb2tEV3otU29RQWx4QlZ5OEJJWHNIOGx6Vkg1MmtmWDNUUXV3NE9vV3FOR2F4RGVBZmpvaDZHVFZWRkl1eDd1OHlKNGFZc0dQelVZTlFNclhSUFYtek1KZ2N4bmpJYzFWOEkwLVhHSGh1a18wOU8tYmZENFJ1bzlFTm1VcnhPSkk5NkhDODFkTFJKRDQ0ZDFRUE53cjFTM2s?oc=5",
-      "publishedAt": "2026-05-12T06:00:00.000Z",
-      "source": "日本経済新聞",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP 経済メディア)",
+      "title": "United airline's pilot reports drone strike, triggers FAA investigation near San Diego",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxPaWR0b1Z1RUUyWmNJUHRCM3V5WHBsenJPZzV5UENPVVZIOEQ3c1UzTmFQNWNXaDVwNU9QU19UaENiUXhPZ1pPeWZfWjh6dFZEY25qcUFva2xoRnhIbXRnbm5WMENGZDBqU2ZHcjVjTUhpSW5IRXZibUY3QVJwSXNIUGxlczZJaHhUM3NRLU00WEY3RWpqQU9RS1JMRzg4MjZzWVVSR25LT2I5YjJQVkdONG9TamJYLW5LYnc2OWRwY3dEMjJNNWFFSUVWbTRxeWVFSE5lN3hJRnlpa3ViN2x30gHkAUFVX3lxTE9zMlM5QjRsdk1EWS16enBfODRlXzAtNjhQLWhJWHU4TXNkNkw3Y0pON3VuVG0wVXpjam1xNXAtRFVBNzhKc1lZd254QVphTTd4VEhUM0gzWUstVF94V0lkZjRiTTdDZXlkR01uTkQtT295M1dsQzVTYjg3Rk5xYm5qWlhiTWktaEY1d2Z2V3pVa0pISzd4VDBrTDJBQzJ1RjdIWFhxSlJZU0YwLTVGZjlRc1FUNXlVamdmQ0lmR1ZTTjVPWDRhZDdsbUVCZF9ualo2dlM4eXdCdVZuUXd3RHg0OGRFNA?oc=5\" target=\"_blank\">United airline's pilot reports drone strike, triggers FAA investigation near San Diego</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economic Times</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxPaWR0b1Z1RUUyWmNJUHRCM3V5WHBsenJPZzV5UENPVVZIOEQ3c1UzTmFQNWNXaDVwNU9QU19UaENiUXhPZ1pPeWZfWjh6dFZEY25qcUFva2xoRnhIbXRnbm5WMENGZDBqU2ZHcjVjTUhpSW5IRXZibUY3QVJwSXNIUGxlczZJaHhUM3NRLU00WEY3RWpqQU9RS1JMRzg4MjZzWVVSR25LT2I5YjJQVkdONG9TamJYLW5LYnc2OWRwY3dEMjJNNWFFSUVWbTRxeWVFSE5lN3hJRnlpa3ViN2x30gHkAUFVX3lxTE9zMlM5QjRsdk1EWS16enBfODRlXzAtNjhQLWhJWHU4TXNkNkw3Y0pON3VuVG0wVXpjam1xNXAtRFVBNzhKc1lZd254QVphTTd4VEhUM0gzWUstVF94V0lkZjRiTTdDZXlkR01uTkQtT295M1dsQzVTYjg3Rk5xYm5qWlhiTWktaEY1d2Z2V3pVa0pISzd4VDBrTDJBQzJ1RjdIWFhxSlJZU0YwLTVGZjlRc1FUNXlVamdmQ0lmR1ZTTjVPWDRhZDdsbUVCZF9ualo2dlM4eXdCdVZuUXd3RHg0OGRFNA?oc=5\" target=\"_blank\">United airline's pilot reports drone strike, triggers FAA investigation near San Diego</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economic Times</font>",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPaWR0b1Z1RUUyWmNJUHRCM3V5WHBsenJPZzV5UENPVVZIOEQ3c1UzTmFQNWNXaDVwNU9QU19UaENiUXhPZ1pPeWZfWjh6dFZEY25qcUFva2xoRnhIbXRnbm5WMENGZDBqU2ZHcjVjTUhpSW5IRXZibUY3QVJwSXNIUGxlczZJaHhUM3NRLU00WEY3RWpqQU9RS1JMRzg4MjZzWVVSR25LT2I5YjJQVkdONG9TamJYLW5LYnc2OWRwY3dEMjJNNWFFSUVWbTRxeWVFSE5lN3hJRnlpa3ViN2x30gHkAUFVX3lxTE9zMlM5QjRsdk1EWS16enBfODRlXzAtNjhQLWhJWHU4TXNkNkw3Y0pON3VuVG0wVXpjam1xNXAtRFVBNzhKc1lZd254QVphTTd4VEhUM0gzWUstVF94V0lkZjRiTTdDZXlkR01uTkQtT295M1dsQzVTYjg3Rk5xYm5qWlhiTWktaEY1d2Z2V3pVa0pISzd4VDBrTDJBQzJ1RjdIWFhxSlJZU0YwLTVGZjlRc1FUNXlVamdmQ0lmR1ZTTjVPWDRhZDdsbUVCZF9ualo2dlM4eXdCdVZuUXd3RHg0OGRFNA?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPaWR0b1Z1RUUyWmNJUHRCM3V5WHBsenJPZzV5UENPVVZIOEQ3c1UzTmFQNWNXaDVwNU9QU19UaENiUXhPZ1pPeWZfWjh6dFZEY25qcUFva2xoRnhIbXRnbm5WMENGZDBqU2ZHcjVjTUhpSW5IRXZibUY3QVJwSXNIUGxlczZJaHhUM3NRLU00WEY3RWpqQU9RS1JMRzg4MjZzWVVSR25LT2I5YjJQVkdONG9TamJYLW5LYnc2OWRwY3dEMjJNNWFFSUVWbTRxeWVFSE5lN3hJRnlpa3ViN2x30gHkAUFVX3lxTE9zMlM5QjRsdk1EWS16enBfODRlXzAtNjhQLWhJWHU4TXNkNkw3Y0pON3VuVG0wVXpjam1xNXAtRFVBNzhKc1lZd254QVphTTd4VEhUM0gzWUstVF94V0lkZjRiTTdDZXlkR01uTkQtT295M1dsQzVTYjg3Rk5xYm5qWlhiTWktaEY1d2Z2V3pVa0pISzd4VDBrTDJBQzJ1RjdIWFhxSlJZU0YwLTVGZjlRc1FUNXlVamdmQ0lmR1ZTTjVPWDRhZDdsbUVCZF9ualo2dlM4eXdCdVZuUXd3RHg0OGRFNA?oc=5",
+      "publishedAt": "2026-04-30T07:00:00.000Z",
+      "source": "The Economic Times",
+      "_feedRegion": "us",
+      "_feedName": "FAA",
       "_scoring": {
-        "score": 59,
+        "score": 58,
         "categories": [
-          "政策・インフラ"
+          "規制・政策",
+          "事故・事件"
         ],
         "breakdown": {
           "required": true,
-          "policy": {
+          "regulation": {
             "matches": 1,
-            "catScore": 24
+            "catScore": 32
+          },
+          "incident": {
+            "matches": 1,
+            "catScore": 28
           },
           "sourceTrust": {
             "domain": "news.google.com",
             "multiplier": 0.8
           },
-          "freshness": 15,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
+          "freshness": 0,
+          "titleBonus": 10
         },
         "pass": true
-      }
+      },
+      "implication": "United航空のパイロットがサンディエゴ近郊でドローン衝突を報告したFAA調査は、有人航空機との衝突リスク管理を焦点化させ、JCABが航空法レベル4運用許可時に低高度飛行空域との分離要件をより厳格化する圧力につながる可能性が高い。",
+      "implicationVerified": true
     }
   ],
   "errors": []
