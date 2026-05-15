@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-14T21:55:33.271Z",
-  "rawCount": 710,
+  "generatedAt": "2026-05-15T08:31:09.056Z",
+  "rawCount": 736,
   "articles": [
     {
       "title": "Choctaw ROTC's aerospace program produces 5 FAA-certified drone pilots, 15 safety certifications in breakout year",
@@ -13,7 +13,7 @@
       "_feedRegion": "us",
       "_feedName": "FAA",
       "_scoring": {
-        "score": 85,
+        "score": 82,
         "categories": [
           "規制・政策",
           "市場・資金",
@@ -37,7 +37,7 @@
             "domain": "news.google.com",
             "multiplier": 0.8
           },
-          "freshness": 5,
+          "freshness": 2,
           "titleBonus": 10
         },
         "pass": true
@@ -54,7 +54,7 @@
       "_feedRegion": "jp",
       "_feedName": "Google News (JP 政策/実証)",
       "_scoring": {
-        "score": 85,
+        "score": 80,
         "categories": [
           "規制・政策",
           "政策・インフラ"
@@ -73,7 +73,44 @@
             "domain": "news.google.com",
             "multiplier": 0.8
           },
-          "freshness": 10,
+          "freshness": 5,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "北京で「史上最も厳しい」ドローン規制が開始 政府側は「死刑」にまで言及 背景にイランの戦闘も",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE4ya3pfamhHbUtMVjdIN0RiQVFhSURMVkxxT3ZaYkV3YjBzX094YjY1SXltZlkyS05YdEZqRVlPLURqRXk2bDlLaWhvcFRLZVYxazJn?oc=5\" target=\"_blank\">北京で「史上最も厳しい」ドローン規制が開始 政府側は「死刑」にまで言及 背景にイランの戦闘も</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">東京新聞デジタル</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE4ya3pfamhHbUtMVjdIN0RiQVFhSURMVkxxT3ZaYkV3YjBzX094YjY1SXltZlkyS05YdEZqRVlPLURqRXk2bDlLaWhvcFRLZVYxazJn?oc=5\" target=\"_blank\">北京で「史上最も厳しい」ドローン規制が開始 政府側は「死刑」にまで言及 背景にイランの戦闘も</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">東京新聞デジタル</font>",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4ya3pfamhHbUtMVjdIN0RiQVFhSURMVkxxT3ZaYkV3YjBzX094YjY1SXltZlkyS05YdEZqRVlPLURqRXk2bDlLaWhvcFRLZVYxazJn?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4ya3pfamhHbUtMVjdIN0RiQVFhSURMVkxxT3ZaYkV3YjBzX094YjY1SXltZlkyS05YdEZqRVlPLURqRXk2bDlLaWhvcFRLZVYxazJn?oc=5",
+      "publishedAt": "2026-05-14T07:00:00.000Z",
+      "source": "東京新聞デジタル",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP)",
+      "_scoring": {
+        "score": 75,
+        "categories": [
+          "規制・政策",
+          "技術・製品"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 5,
           "titleBonus": 10,
           "jpRegionBonus": 15
         },
@@ -86,12 +123,12 @@
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxONVA1ZXZ5TnNkTHhUYWVoVTBxeW9jZWhMSW14NkwxX1FsRUJJTHVfeU1KQkMyZGN6S0RPaWE4RFBXZ2JqV1BfeFlJUmhQMDdDd0lHRjNYTkJ5Q2FSWTRCV015VzhtNjlVaC1OSmdMWkkyR2lDVG01SUJ3S0Q0R1hGaWwyUnZBLUFYb3FIY2JQZHhsZURNeC1aOFVoZlhpOUdWU184WXJEOGFmZlJUTFg4U1ZyS2NaY2dHRE9hdk5nQmdyU2c?oc=5\" target=\"_blank\">No-Fly Zones for Drones: FAA Proposes New Rules Over Critical Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Crowell & Moring LLP</font>",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONVA1ZXZ5TnNkTHhUYWVoVTBxeW9jZWhMSW14NkwxX1FsRUJJTHVfeU1KQkMyZGN6S0RPaWE4RFBXZ2JqV1BfeFlJUmhQMDdDd0lHRjNYTkJ5Q2FSWTRCV015VzhtNjlVaC1OSmdMWkkyR2lDVG01SUJ3S0Q0R1hGaWwyUnZBLUFYb3FIY2JQZHhsZURNeC1aOFVoZlhpOUdWU184WXJEOGFmZlJUTFg4U1ZyS2NaY2dHRE9hdk5nQmdyU2c?oc=5",
       "googleNewsUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONVA1ZXZ5TnNkTHhUYWVoVTBxeW9jZWhMSW14NkwxX1FsRUJJTHVfeU1KQkMyZGN6S0RPaWE4RFBXZ2JqV1BfeFlJUmhQMDdDd0lHRjNYTkJ5Q2FSWTRCV015VzhtNjlVaC1OSmdMWkkyR2lDVG01SUJ3S0Q0R1hGaWwyUnZBLUFYb3FIY2JQZHhsZURNeC1aOFVoZlhpOUdWU184WXJEOGFmZlJUTFg4U1ZyS2NaY2dHRE9hdk5nQmdyU2c?oc=5",
-      "publishedAt": "2026-05-14T20:03:45.000Z",
+      "publishedAt": "2026-05-14T20:06:34.000Z",
       "source": "Crowell & Moring LLP",
       "_feedRegion": "us",
       "_feedName": "FAA",
       "_scoring": {
-        "score": 81,
+        "score": 71,
         "categories": [
           "規制・政策",
           "政策・インフラ"
@@ -105,91 +142,13 @@
           "policy": {
             "matches": 1,
             "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 20,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "eVTOL Firm Targets $115 Million Revenue and FAA Certification",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE0xRUdBc1ZNX0NDTzJORkdEejdxUDdlQWZHWkZ4Q3dISjBheDVUaTl2TTRmOFNoalI3TDRES1gtbVlrOFRlN09CN1NfVnVVQ2ZubmZrcEZKT2JLMFdOeXVTM0U4bWhLamtmaWFrUjh6NjhzVHgtQTJBYmNRX0RjMTg?oc=5\" target=\"_blank\">eVTOL Firm Targets $115 Million Revenue and FAA Certification</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">HarianBasis.co</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE0xRUdBc1ZNX0NDTzJORkdEejdxUDdlQWZHWkZ4Q3dISjBheDVUaTl2TTRmOFNoalI3TDRES1gtbVlrOFRlN09CN1NfVnVVQ2ZubmZrcEZKT2JLMFdOeXVTM0U4bWhLamtmaWFrUjh6NjhzVHgtQTJBYmNRX0RjMTg?oc=5\" target=\"_blank\">eVTOL Firm Targets $115 Million Revenue and FAA Certification</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">HarianBasis.co</font>",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0xRUdBc1ZNX0NDTzJORkdEejdxUDdlQWZHWkZ4Q3dISjBheDVUaTl2TTRmOFNoalI3TDRES1gtbVlrOFRlN09CN1NfVnVVQ2ZubmZrcEZKT2JLMFdOeXVTM0U4bWhLamtmaWFrUjh6NjhzVHgtQTJBYmNRX0RjMTg?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0xRUdBc1ZNX0NDTzJORkdEejdxUDdlQWZHWkZ4Q3dISjBheDVUaTl2TTRmOFNoalI3TDRES1gtbVlrOFRlN09CN1NfVnVVQ2ZubmZrcEZKT2JLMFdOeXVTM0U4bWhLamtmaWFrUjh6NjhzVHgtQTJBYmNRX0RjMTg?oc=5",
-      "publishedAt": "2026-05-07T20:36:41.000Z",
-      "source": "HarianBasis.co",
-      "_feedRegion": "us",
-      "_feedName": "FAA",
-      "_scoring": {
-        "score": 81,
-        "categories": [
-          "規制・政策",
-          "市場・資金",
-          "政策・インフラ"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 2,
-            "catScore": 40
-          },
-          "market": {
-            "matches": 2,
-            "catScore": 25
-          },
-          "policy": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 0,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "点群取得からCIM構築まで一気通貫。ミラテクドローンと技術開発コンサルタントが業務提携 - digital-construction.jp",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE56N2hUT1d5eFlncFNaQWxZZHJPclRNbjVXNnFwMmtPbHVCUjVuaDhDS2Nkam1HU1djVmhQNGc1VkRrX1FObzNwOWtHNEpQZmc2VG9J?oc=5\" target=\"_blank\">点群取得からCIM構築まで一気通貫。ミラテクドローンと技術開発コンサルタントが業務提携</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">digital-construction.jp</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE56N2hUT1d5eFlncFNaQWxZZHJPclRNbjVXNnFwMmtPbHVCUjVuaDhDS2Nkam1HU1djVmhQNGc1VkRrX1FObzNwOWtHNEpQZmc2VG9J?oc=5\" target=\"_blank\">点群取得からCIM構築まで一気通貫。ミラテクドローンと技術開発コンサルタントが業務提携</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">digital-construction.jp</font>",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE56N2hUT1d5eFlncFNaQWxZZHJPclRNbjVXNnFwMmtPbHVCUjVuaDhDS2Nkam1HU1djVmhQNGc1VkRrX1FObzNwOWtHNEpQZmc2VG9J?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE56N2hUT1d5eFlncFNaQWxZZHJPclRNbjVXNnFwMmtPbHVCUjVuaDhDS2Nkam1HU1djVmhQNGc1VkRrX1FObzNwOWtHNEpQZmc2VG9J?oc=5",
-      "publishedAt": "2026-05-14T00:04:18.000Z",
-      "source": "digital-construction.jp",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP 政策/実証)",
-      "_scoring": {
-        "score": 74,
-        "categories": [
-          "技術・製品",
-          "市場・資金"
-        ],
-        "breakdown": {
-          "required": true,
-          "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "market": {
-            "matches": 2,
-            "catScore": 25
           },
           "sourceTrust": {
             "domain": "news.google.com",
             "multiplier": 0.8
           },
           "freshness": 10,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
+          "titleBonus": 10
         },
         "pass": true
       }
@@ -425,13 +384,13 @@
       }
     },
     {
-      "title": "【点群データ取得からCIM構築まで一気通貫】ミラテクドローンと技術開発コンサルタントが業務提携し、次世代測量ソリューシ",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE5LNjFNUzhXRUxldWU4WnlQX29IT2gzTkJVMUVpQW1lZWRzRlFSZk16WW1MR1lYSVZPUVhRS2FqSWN2X3NqS1NRaG5IZG4wMTd2b0lVMg?oc=5\" target=\"_blank\">【点群データ取得からCIM構築まで一気通貫】ミラテクドローンと技術開発コンサルタントが業務提携し、次世代測量ソリューシ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ニコニコニュース</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE5LNjFNUzhXRUxldWU4WnlQX29IT2gzTkJVMUVpQW1lZWRzRlFSZk16WW1MR1lYSVZPUVhRS2FqSWN2X3NqS1NRaG5IZG4wMTd2b0lVMg?oc=5\" target=\"_blank\">【点群データ取得からCIM構築まで一気通貫】ミラテクドローンと技術開発コンサルタントが業務提携し、次世代測量ソリューシ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ニコニコニュース</font>",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5LNjFNUzhXRUxldWU4WnlQX29IT2gzTkJVMUVpQW1lZWRzRlFSZk16WW1MR1lYSVZPUVhRS2FqSWN2X3NqS1NRaG5IZG4wMTd2b0lVMg?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5LNjFNUzhXRUxldWU4WnlQX29IT2gzTkJVMUVpQW1lZWRzRlFSZk16WW1MR1lYSVZPUVhRS2FqSWN2X3NqS1NRaG5IZG4wMTd2b0lVMg?oc=5",
-      "publishedAt": "2026-05-13T04:15:23.000Z",
-      "source": "ニコニコニュース",
+      "title": "点群取得からCIM構築まで一気通貫。ミラテクドローンと技術開発コンサルタントが業務提携 - digital-construction.jp",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE56N2hUT1d5eFlncFNaQWxZZHJPclRNbjVXNnFwMmtPbHVCUjVuaDhDS2Nkam1HU1djVmhQNGc1VkRrX1FObzNwOWtHNEpQZmc2VG9J?oc=5\" target=\"_blank\">点群取得からCIM構築まで一気通貫。ミラテクドローンと技術開発コンサルタントが業務提携</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">digital-construction.jp</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE56N2hUT1d5eFlncFNaQWxZZHJPclRNbjVXNnFwMmtPbHVCUjVuaDhDS2Nkam1HU1djVmhQNGc1VkRrX1FObzNwOWtHNEpQZmc2VG9J?oc=5\" target=\"_blank\">点群取得からCIM構築まで一気通貫。ミラテクドローンと技術開発コンサルタントが業務提携</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">digital-construction.jp</font>",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE56N2hUT1d5eFlncFNaQWxZZHJPclRNbjVXNnFwMmtPbHVCUjVuaDhDS2Nkam1HU1djVmhQNGc1VkRrX1FObzNwOWtHNEpQZmc2VG9J?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE56N2hUT1d5eFlncFNaQWxZZHJPclRNbjVXNnFwMmtPbHVCUjVuaDhDS2Nkam1HU1djVmhQNGc1VkRrX1FObzNwOWtHNEpQZmc2VG9J?oc=5",
+      "publishedAt": "2026-05-14T00:04:18.000Z",
+      "source": "digital-construction.jp",
       "_feedRegion": "jp",
       "_feedName": "Google News (JP 政策/実証)",
       "_scoring": {
@@ -501,124 +460,49 @@
       "implicationVerified": true
     },
     {
-      "title": "NTTイードローン、AIを活用した鉄道高架橋クラック調査の実証実験",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFAwLXRYSnVlTEtPNzlFcFc3cTBnSW9xM3Y0NzVSaG1TTnJqd0JyLWJtald1S1F2UWwtYUg4NlpNZENQYjhzZ0MySW05SmJOaEhRODBrbzlfb2JtakNjY0JhZDZyNURJeXBZOHc?oc=5\" target=\"_blank\">NTTイードローン、AIを活用した鉄道高架橋クラック調査の実証実験</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ドローンジャーナル</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFAwLXRYSnVlTEtPNzlFcFc3cTBnSW9xM3Y0NzVSaG1TTnJqd0JyLWJtald1S1F2UWwtYUg4NlpNZENQYjhzZ0MySW05SmJOaEhRODBrbzlfb2JtakNjY0JhZDZyNURJeXBZOHc?oc=5\" target=\"_blank\">NTTイードローン、AIを活用した鉄道高架橋クラック調査の実証実験</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ドローンジャーナル</font>",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAwLXRYSnVlTEtPNzlFcFc3cTBnSW9xM3Y0NzVSaG1TTnJqd0JyLWJtald1S1F2UWwtYUg4NlpNZENQYjhzZ0MySW05SmJOaEhRODBrbzlfb2JtakNjY0JhZDZyNURJeXBZOHc?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAwLXRYSnVlTEtPNzlFcFc3cTBnSW9xM3Y0NzVSaG1TTnJqd0JyLWJtald1S1F2UWwtYUg4NlpNZENQYjhzZ0MySW05SmJOaEhRODBrbzlfb2JtakNjY0JhZDZyNURJeXBZOHc?oc=5",
-      "publishedAt": "2026-05-08T02:14:15.000Z",
-      "source": "ドローンジャーナル",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP 経済メディア)",
-      "_scoring": {
-        "score": 67,
-        "categories": [
-          "技術・製品",
-          "事故・事件"
-        ],
-        "breakdown": {
-          "required": true,
-          "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "incident": {
-            "matches": 1,
-            "catScore": 28
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 0,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "DJI、型式認証取得前製造の同一製品の機体認証に対応",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9zbEZOZ1kzbXZ0U3FSOUxRX0JOc3ZVNnJ6c3ozOF9aeTk3UEhnZ2pmc3o1UWZkTzdtaUNaTG83Z3RQTjJjTy1LWHZhYXpuSEFvUkk2TW5oVUl2WllXMTJHV29KekQ5MWlEYXc?oc=5\" target=\"_blank\">DJI、型式認証取得前製造の同一製品の機体認証に対応</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ドローンジャーナル</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9zbEZOZ1kzbXZ0U3FSOUxRX0JOc3ZVNnJ6c3ozOF9aeTk3UEhnZ2pmc3o1UWZkTzdtaUNaTG83Z3RQTjJjTy1LWHZhYXpuSEFvUkk2TW5oVUl2WllXMTJHV29KekQ5MWlEYXc?oc=5\" target=\"_blank\">DJI、型式認証取得前製造の同一製品の機体認証に対応</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ドローンジャーナル</font>",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9zbEZOZ1kzbXZ0U3FSOUxRX0JOc3ZVNnJ6c3ozOF9aeTk3UEhnZ2pmc3o1UWZkTzdtaUNaTG83Z3RQTjJjTy1LWHZhYXpuSEFvUkk2TW5oVUl2WllXMTJHV29KekQ5MWlEYXc?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9zbEZOZ1kzbXZ0U3FSOUxRX0JOc3ZVNnJ6c3ozOF9aeTk3UEhnZ2pmc3o1UWZkTzdtaUNaTG83Z3RQTjJjTy1LWHZhYXpuSEFvUkk2TW5oVUl2WllXMTJHV29KekQ5MWlEYXc?oc=5",
-      "publishedAt": "2026-05-08T03:30:12.000Z",
-      "source": "ドローンジャーナル",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP 経済メディア)",
-      "_scoring": {
-        "score": 66,
-        "categories": [
-          "規制・政策",
-          "技術・製品"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 2,
-            "catScore": 40
-          },
-          "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 0,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "イームズロボティクス×Skyports、ドローンエアライン事業で戦略提携—日本発のAPAC物流インフラ構築へ",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE15TFF5Smd6V2V5OXpuVWk2blNvQktYUFVMZzVJLWNjeldINDMwMnVQcl9MbU5ZV3VFeTVMZFNBZTBrR1EtSnlDT3ZyVE03RkdLN2p4ZWEwSU1PVUFq?oc=5\" target=\"_blank\">イームズロボティクス×Skyports、ドローンエアライン事業で戦略提携—日本発のAPAC物流インフラ構築へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">innovaTopia</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE15TFF5Smd6V2V5OXpuVWk2blNvQktYUFVMZzVJLWNjeldINDMwMnVQcl9MbU5ZV3VFeTVMZFNBZTBrR1EtSnlDT3ZyVE03RkdLN2p4ZWEwSU1PVUFq?oc=5\" target=\"_blank\">イームズロボティクス×Skyports、ドローンエアライン事業で戦略提携—日本発のAPAC物流インフラ構築へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">innovaTopia</font>",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE15TFF5Smd6V2V5OXpuVWk2blNvQktYUFVMZzVJLWNjeldINDMwMnVQcl9MbU5ZV3VFeTVMZFNBZTBrR1EtSnlDT3ZyVE03RkdLN2p4ZWEwSU1PVUFq?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE15TFF5Smd6V2V5OXpuVWk2blNvQktYUFVMZzVJLWNjeldINDMwMnVQcl9MbU5ZV3VFeTVMZFNBZTBrR1EtSnlDT3ZyVE03RkdLN2p4ZWEwSU1PVUFq?oc=5",
-      "publishedAt": "2026-04-20T07:00:00.000Z",
-      "source": "innovaTopia",
+      "title": "【点群データ取得からCIM構築まで一気通貫】ミラテクドローンと技術開発コンサルタントが業務提携し、次世代測量ソリューシ",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE5LNjFNUzhXRUxldWU4WnlQX29IT2gzTkJVMUVpQW1lZWRzRlFSZk16WW1MR1lYSVZPUVhRS2FqSWN2X3NqS1NRaG5IZG4wMTd2b0lVMg?oc=5\" target=\"_blank\">【点群データ取得からCIM構築まで一気通貫】ミラテクドローンと技術開発コンサルタントが業務提携し、次世代測量ソリューシ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ニコニコニュース</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE5LNjFNUzhXRUxldWU4WnlQX29IT2gzTkJVMUVpQW1lZWRzRlFSZk16WW1MR1lYSVZPUVhRS2FqSWN2X3NqS1NRaG5IZG4wMTd2b0lVMg?oc=5\" target=\"_blank\">【点群データ取得からCIM構築まで一気通貫】ミラテクドローンと技術開発コンサルタントが業務提携し、次世代測量ソリューシ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ニコニコニュース</font>",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5LNjFNUzhXRUxldWU4WnlQX29IT2gzTkJVMUVpQW1lZWRzRlFSZk16WW1MR1lYSVZPUVhRS2FqSWN2X3NqS1NRaG5IZG4wMTd2b0lVMg?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5LNjFNUzhXRUxldWU4WnlQX29IT2gzTkJVMUVpQW1lZWRzRlFSZk16WW1MR1lYSVZPUVhRS2FqSWN2X3NqS1NRaG5IZG4wMTd2b0lVMg?oc=5",
+      "publishedAt": "2026-05-13T04:15:23.000Z",
+      "source": "ニコニコニュース",
       "_feedRegion": "jp",
       "_feedName": "Google News (JP 政策/実証)",
       "_scoring": {
-        "score": 65,
+        "score": 66,
         "categories": [
-          "市場・資金",
-          "政策・インフラ"
+          "技術・製品",
+          "市場・資金"
         ],
         "breakdown": {
           "required": true,
-          "market": {
+          "technology": {
             "matches": 1,
-            "catScore": 20
+            "catScore": 24
           },
-          "policy": {
+          "market": {
             "matches": 2,
-            "catScore": 30
+            "catScore": 25
           },
           "sourceTrust": {
             "domain": "news.google.com",
             "multiplier": 0.8
           },
-          "freshness": 0,
+          "freshness": 2,
           "titleBonus": 10,
           "jpRegionBonus": 15
         },
         "pass": true
-      },
-      "implication": "イームズロボティクスとSkyportsの戦略提携は、APAC地域での大規模なドローン物流インフラ構築を狙うもので、JCAB機体認証取得を前提とした日本発のネットワーク展開が進みやすくなり、大阪・関西万博や離島配送などの既存国内案件で海外オ…",
-      "implicationVerified": true
+      }
     },
     {
       "title": "ダイナミックマップ、ドローン測量買収 デジタルインフラ整備",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE1xU3FUQkhhUlRzV0RST1l1RWxRN0pvNjFnbnUybXpoQmdnM21QNnBEZ1A3MzNOY2RvNVk4NXExT3lKbUE3eEFKTXpYbTh3ZkNjVnRET25qS0FzbjFKdkJNbzdmd1o4RUE4bW5pT3M3OUVwYjdIMmVDTlNFWQ?oc=5\" target=\"_blank\">ダイナミックマップ、ドローン測量買収 デジタルインフラ整備</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日刊工業新聞</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE1xU3FUQkhhUlRzV0RST1l1RWxRN0pvNjFnbnUybXpoQmdnM21QNnBEZ1A3MzNOY2RvNVk4NXExT3lKbUE3eEFKTXpYbTh3ZkNjVnRET25qS0FzbjFKdkJNbzdmd1o4RUE4bW5pT3M3OUVwYjdIMmVDTlNFWQ?oc=5\" target=\"_blank\">ダイナミックマップ、ドローン測量買収 デジタルインフラ整備</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日刊工業新聞</font>",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1xU3FUQkhhUlRzV0RST1l1RWxRN0pvNjFnbnUybXpoQmdnM21QNnBEZ1A3MzNOY2RvNVk4NXExT3lKbUE3eEFKTXpYbTh3ZkNjVnRET25qS0FzbjFKdkJNbzdmd1o4RUE4bW5pT3M3OUVwYjdIMmVDTlNFWQ?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1xU3FUQkhhUlRzV0RST1l1RWxRN0pvNjFnbnUybXpoQmdnM21QNnBEZ1A3MzNOY2RvNVk4NXExT3lKbUE3eEFKTXpYbTh3ZkNjVnRET25qS0FzbjFKdkJNbzdmd1o4RUE4bW5pT3M3OUVwYjdIMmVDTlNFWQ?oc=5",
-      "publishedAt": "2026-05-11T21:11:15.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE5xNXBkS0hkVEZBOXU5REl5VDJoMU1hUjducG5Yc0xSNkI0M3ZCOGtYZjBjcG9zTXRoY3pua3g1bTNsSWxaSkdWa3Z3U2NxZ25yNUVEQjl4X0pOVGZ6c2RlR1A1MXJ6STJUcjg5Tl81Y251NUU5?oc=5\" target=\"_blank\">ダイナミックマップ、ドローン測量買収 デジタルインフラ整備</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日刊工業新聞</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE5xNXBkS0hkVEZBOXU5REl5VDJoMU1hUjducG5Yc0xSNkI0M3ZCOGtYZjBjcG9zTXRoY3pua3g1bTNsSWxaSkdWa3Z3U2NxZ25yNUVEQjl4X0pOVGZ6c2RlR1A1MXJ6STJUcjg5Tl81Y251NUU5?oc=5\" target=\"_blank\">ダイナミックマップ、ドローン測量買収 デジタルインフラ整備</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日刊工業新聞</font>",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5xNXBkS0hkVEZBOXU5REl5VDJoMU1hUjducG5Yc0xSNkI0M3ZCOGtYZjBjcG9zTXRoY3pua3g1bTNsSWxaSkdWa3Z3U2NxZ25yNUVEQjl4X0pOVGZ6c2RlR1A1MXJ6STJUcjg5Tl81Y251NUU5?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5xNXBkS0hkVEZBOXU5REl5VDJoMU1hUjducG5Yc0xSNkI0M3ZCOGtYZjBjcG9zTXRoY3pua3g1bTNsSWxaSkdWa3Z3U2NxZ25yNUVEQjl4X0pOVGZ6c2RlR1A1MXJ6STJUcjg5Tl81Y251NUU5?oc=5",
+      "publishedAt": "2026-05-11T20:00:00.000Z",
       "source": "日刊工業新聞",
       "_feedRegion": "jp",
       "_feedName": "Google News (JP 事業者/実装)",
@@ -848,72 +732,43 @@
       "implicationVerified": true
     },
     {
-      "title": "テラドローン、防衛装備庁より国産ドローン300式を1.15億円で受注",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBFMDlhRDZ2QlNkai1nc3hnQkhrOGx5UXJVbTd5ZE9EMXpFdHRvNzM0c1h2YWk0ZmxkNWRDYlhpOXl2NnB0dFl0YVJRTTg1T0p6NFBCZDhWNXYxQlRKMXVvYXB4X09DZ2VXT21RUlE3V3FBMk9NYURRcA?oc=5\" target=\"_blank\">テラドローン、防衛装備庁より国産ドローン300式を1.15億円で受注</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ドローンジャーナル</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBFMDlhRDZ2QlNkai1nc3hnQkhrOGx5UXJVbTd5ZE9EMXpFdHRvNzM0c1h2YWk0ZmxkNWRDYlhpOXl2NnB0dFl0YVJRTTg1T0p6NFBCZDhWNXYxQlRKMXVvYXB4X09DZ2VXT21RUlE3V3FBMk9NYURRcA?oc=5\" target=\"_blank\">テラドローン、防衛装備庁より国産ドローン300式を1.15億円で受注</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ドローンジャーナル</font>",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBFMDlhRDZ2QlNkai1nc3hnQkhrOGx5UXJVbTd5ZE9EMXpFdHRvNzM0c1h2YWk0ZmxkNWRDYlhpOXl2NnB0dFl0YVJRTTg1T0p6NFBCZDhWNXYxQlRKMXVvYXB4X09DZ2VXT21RUlE3V3FBMk9NYURRcA?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBFMDlhRDZ2QlNkai1nc3hnQkhrOGx5UXJVbTd5ZE9EMXpFdHRvNzM0c1h2YWk0ZmxkNWRDYlhpOXl2NnB0dFl0YVJRTTg1T0p6NFBCZDhWNXYxQlRKMXVvYXB4X09DZ2VXT21RUlE3V3FBMk9NYURRcA?oc=5",
-      "publishedAt": "2026-05-13T23:38:09.000Z",
+      "title": "イームズロボティクスと英Skyportsが提携、ドローンエアライン事業展開へ",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE5tV2tEcHVJOFVZajE2WWJvb2cxVkt1Q0N1aHhtQVJCN3JlVmk0WXVlZHJtNFdIQzNPNENsUGJrSVJZZm90N3JKYTdXNnpDMk9SWVAtUW40QkJEVng0S1lyWG5IQW1CaG5UMmc?oc=5\" target=\"_blank\">イームズロボティクスと英Skyportsが提携、ドローンエアライン事業展開へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ドローンジャーナル</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE5tV2tEcHVJOFVZajE2WWJvb2cxVkt1Q0N1aHhtQVJCN3JlVmk0WXVlZHJtNFdIQzNPNENsUGJrSVJZZm90N3JKYTdXNnpDMk9SWVAtUW40QkJEVng0S1lyWG5IQW1CaG5UMmc?oc=5\" target=\"_blank\">イームズロボティクスと英Skyportsが提携、ドローンエアライン事業展開へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ドローンジャーナル</font>",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5tV2tEcHVJOFVZajE2WWJvb2cxVkt1Q0N1aHhtQVJCN3JlVmk0WXVlZHJtNFdIQzNPNENsUGJrSVJZZm90N3JKYTdXNnpDMk9SWVAtUW40QkJEVng0S1lyWG5IQW1CaG5UMmc?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5tV2tEcHVJOFVZajE2WWJvb2cxVkt1Q0N1aHhtQVJCN3JlVmk0WXVlZHJtNFdIQzNPNENsUGJrSVJZZm90N3JKYTdXNnpDMk9SWVAtUW40QkJEVng0S1lyWG5IQW1CaG5UMmc?oc=5",
+      "publishedAt": "2026-04-24T07:00:00.000Z",
       "source": "ドローンジャーナル",
       "_feedRegion": "jp",
-      "_feedName": "Google News (JP 経済メディア)",
-      "_scoring": {
-        "score": 61,
-        "categories": [
-          "規制・政策"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 1,
-            "catScore": 32
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 10,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "UAV Navigation launches C-UAS interceptor drone autopilot",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQzNmLUhSUU03RnR2aUtJdFYzMHNtZUNzVnM0UjBKOC11elEycmFTbHpyVTdxeng4U0FUeG04RWtUYjBOU0ZyclFhYzNQbkNBVEJqcW1Ra1JnNHJ5VV83T3ZXbm1seDFPUmo5Qk1qWmVXYjB3T0JiUWRVYUQ1UnVlTk1GR1ZfR1NWTGgxOXM4Z1NNaThUenFlMlQ2VWZnUVFLa3ZiZ1RKMmNTdllERjh4eDFzcC0zMUIwQXl4NFB6eGp5dTQ?oc=5\" target=\"_blank\">UAV Navigation launches C-UAS interceptor drone autopilot</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQzNmLUhSUU03RnR2aUtJdFYzMHNtZUNzVnM0UjBKOC11elEycmFTbHpyVTdxeng4U0FUeG04RWtUYjBOU0ZyclFhYzNQbkNBVEJqcW1Ra1JnNHJ5VV83T3ZXbm1seDFPUmo5Qk1qWmVXYjB3T0JiUWRVYUQ1UnVlTk1GR1ZfR1NWTGgxOXM4Z1NNaThUenFlMlQ2VWZnUVFLa3ZiZ1RKMmNTdllERjh4eDFzcC0zMUIwQXl4NFB6eGp5dTQ?oc=5\" target=\"_blank\">UAV Navigation launches C-UAS interceptor drone autopilot</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQzNmLUhSUU03RnR2aUtJdFYzMHNtZUNzVnM0UjBKOC11elEycmFTbHpyVTdxeng4U0FUeG04RWtUYjBOU0ZyclFhYzNQbkNBVEJqcW1Ra1JnNHJ5VV83T3ZXbm1seDFPUmo5Qk1qWmVXYjB3T0JiUWRVYUQ1UnVlTk1GR1ZfR1NWTGgxOXM4Z1NNaThUenFlMlQ2VWZnUVFLa3ZiZ1RKMmNTdllERjh4eDFzcC0zMUIwQXl4NFB6eGp5dTQ?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQzNmLUhSUU03RnR2aUtJdFYzMHNtZUNzVnM0UjBKOC11elEycmFTbHpyVTdxeng4U0FUeG04RWtUYjBOU0ZyclFhYzNQbkNBVEJqcW1Ra1JnNHJ5VV83T3ZXbm1seDFPUmo5Qk1qWmVXYjB3T0JiUWRVYUQ1UnVlTk1GR1ZfR1NWTGgxOXM4Z1NNaThUenFlMlQ2VWZnUVFLa3ZiZ1RKMmNTdllERjh4eDFzcC0zMUIwQXl4NFB6eGp5dTQ?oc=5",
-      "publishedAt": "2026-05-14T12:22:13.000Z",
-      "source": "Unmanned airspace",
-      "_feedRegion": "global",
-      "_feedName": "Google News (Global)",
+      "_feedName": "Google News (JP 政策/実証)",
       "_scoring": {
         "score": 60,
         "categories": [
-          "技術・製品",
-          "市場・資金"
+          "市場・資金",
+          "政策・インフラ"
         ],
         "breakdown": {
           "required": true,
-          "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
           "market": {
             "matches": 1,
             "catScore": 20
           },
+          "policy": {
+            "matches": 1,
+            "catScore": 24
+          },
           "sourceTrust": {
             "domain": "news.google.com",
             "multiplier": 0.8
           },
-          "freshness": 15,
-          "titleBonus": 10
+          "freshness": 0,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
         },
         "pass": true
-      }
+      },
+      "implication": "イームズロボティクスと英Skyportsの提携によるドローンエアライン事業は、JCABが航空法レベル4の運用基準策定を急ぐ必要性を浮き彫りにし、大阪・関西万博での有人地帯目視外飛行実証を控える国内事業者への国際競争圧力となる。",
+      "implicationVerified": true
     },
     {
       "title": "イームズロボティクスとSkyportsが手を組み、ドローンエアライン事業を加速する戦略的提携",
@@ -985,6 +840,166 @@
             "multiplier": 0.8
           },
           "freshness": 0,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "「空飛ぶロボカメ」と「IP回線中継ドローン」を開発 | NHK | 日本放送協会のプレスリリース",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE54WWZ2YXYwbWxCMjFHTUhHbDNhdDJGQi1zdzNJMUhra3BuYktyZ3pvdVUwT1dORmZyYjZrRDVibklURmhnSXFseVhVbmVrVUg0S1lWVFUtSWkyR3BkSUVaQ3BWVS1vLTFkYnc?oc=5\" target=\"_blank\">「空飛ぶロボカメ」と「IP回線中継ドローン」を開発 | NHK | 日本放送協会のプレスリリース</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR TIMES</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE54WWZ2YXYwbWxCMjFHTUhHbDNhdDJGQi1zdzNJMUhra3BuYktyZ3pvdVUwT1dORmZyYjZrRDVibklURmhnSXFseVhVbmVrVUg0S1lWVFUtSWkyR3BkSUVaQ3BWVS1vLTFkYnc?oc=5\" target=\"_blank\">「空飛ぶロボカメ」と「IP回線中継ドローン」を開発 | NHK | 日本放送協会のプレスリリース</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR TIMES</font>",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE54WWZ2YXYwbWxCMjFHTUhHbDNhdDJGQi1zdzNJMUhra3BuYktyZ3pvdVUwT1dORmZyYjZrRDVibklURmhnSXFseVhVbmVrVUg0S1lWVFUtSWkyR3BkSUVaQ3BWVS1vLTFkYnc?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE54WWZ2YXYwbWxCMjFHTUhHbDNhdDJGQi1zdzNJMUhra3BuYktyZ3pvdVUwT1dORmZyYjZrRDVibklURmhnSXFseVhVbmVrVUg0S1lWVFUtSWkyR3BkSUVaQ3BWVS1vLTFkYnc?oc=5",
+      "publishedAt": "2026-05-15T04:20:19.000Z",
+      "source": "PR TIMES",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP)",
+      "_scoring": {
+        "score": 59,
+        "categories": [
+          "技術・製品"
+        ],
+        "breakdown": {
+          "required": true,
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 15,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "孤立地域へ医療物資を配送 ドローン実証実験 カメラやウインチ搭載 三重・志摩市（三重テレビ放送）",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBmVkktd2ZJeW9rdjRrdGw4M0tMaWVfTlY1N281NnNxejRIR0VfOEJud1pTbjQwVU9XWUVRX210LTJGYlN2MnhyQTNwN1NWTHZKeUc0cEcxOHJOdmIzR2k3b0dTLTBiYVVYN3RsUjlzcHR4Snp5S1kyMVFRRVk4OGc?oc=5\" target=\"_blank\">孤立地域へ医療物資を配送 ドローン実証実験 カメラやウインチ搭載 三重・志摩市（三重テレビ放送）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBmVkktd2ZJeW9rdjRrdGw4M0tMaWVfTlY1N281NnNxejRIR0VfOEJud1pTbjQwVU9XWUVRX210LTJGYlN2MnhyQTNwN1NWTHZKeUc0cEcxOHJOdmIzR2k3b0dTLTBiYVVYN3RsUjlzcHR4Snp5S1kyMVFRRVk4OGc?oc=5\" target=\"_blank\">孤立地域へ医療物資を配送 ドローン実証実験 カメラやウインチ搭載 三重・志摩市（三重テレビ放送）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBmVkktd2ZJeW9rdjRrdGw4M0tMaWVfTlY1N281NnNxejRIR0VfOEJud1pTbjQwVU9XWUVRX210LTJGYlN2MnhyQTNwN1NWTHZKeUc0cEcxOHJOdmIzR2k3b0dTLTBiYVVYN3RsUjlzcHR4Snp5S1kyMVFRRVk4OGc?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBmVkktd2ZJeW9rdjRrdGw4M0tMaWVfTlY1N281NnNxejRIR0VfOEJud1pTbjQwVU9XWUVRX210LTJGYlN2MnhyQTNwN1NWTHZKeUc0cEcxOHJOdmIzR2k3b0dTLTBiYVVYN3RsUjlzcHR4Snp5S1kyMVFRRVk4OGc?oc=5",
+      "publishedAt": "2026-05-15T01:30:27.000Z",
+      "source": "Yahoo!ニュース",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP 政策/実証)",
+      "_scoring": {
+        "score": 59,
+        "categories": [
+          "技術・製品"
+        ],
+        "breakdown": {
+          "required": true,
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 15,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "孤立の被災地に ドローンで医薬品届ける実証実験 三重 志摩",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ndUtBeEtOOFRXbUZrUUFWTVdGQ3NnU3VPMmIwWU80XzVCbjNJcWNoNjlYT2Juai1rOFYxb2tQOThpUzNyZk9pSXRUOExSeTFMam1sVlRNRFA?oc=5\" target=\"_blank\">孤立の被災地に ドローンで医薬品届ける実証実験 三重 志摩</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NHKニュース</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ndUtBeEtOOFRXbUZrUUFWTVdGQ3NnU3VPMmIwWU80XzVCbjNJcWNoNjlYT2Juai1rOFYxb2tQOThpUzNyZk9pSXRUOExSeTFMam1sVlRNRFA?oc=5\" target=\"_blank\">孤立の被災地に ドローンで医薬品届ける実証実験 三重 志摩</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NHKニュース</font>",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ndUtBeEtOOFRXbUZrUUFWTVdGQ3NnU3VPMmIwWU80XzVCbjNJcWNoNjlYT2Juai1rOFYxb2tQOThpUzNyZk9pSXRUOExSeTFMam1sVlRNRFA?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ndUtBeEtOOFRXbUZrUUFWTVdGQ3NnU3VPMmIwWU80XzVCbjNJcWNoNjlYT2Juai1rOFYxb2tQOThpUzNyZk9pSXRUOExSeTFMam1sVlRNRFA?oc=5",
+      "publishedAt": "2026-05-14T21:53:00.000Z",
+      "source": "NHKニュース",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP 政策/実証)",
+      "_scoring": {
+        "score": 59,
+        "categories": [
+          "技術・製品"
+        ],
+        "breakdown": {
+          "required": true,
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 15,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "孤立地域へ医療物資を配送 ドローン実証実験 カメラやウインチ搭載",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTFBmbFpzRkRzTnVLMHlWdnFxamoyU0FYT3FHMC12RjUtaGFWenRmRVQ0eEtMb2tQbnRUc3g2WGIzeWRSSUttS05ncUhqeHg4a1hiSTdUOGprZFVDOUtQcmZPSlVqcFBoR0o4dllwcDVQQmFMM0N1aU1DMDRGbw?oc=5\" target=\"_blank\">孤立地域へ医療物資を配送 ドローン実証実験 カメラやウインチ搭載</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">au Webポータル</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTFBmbFpzRkRzTnVLMHlWdnFxamoyU0FYT3FHMC12RjUtaGFWenRmRVQ0eEtMb2tQbnRUc3g2WGIzeWRSSUttS05ncUhqeHg4a1hiSTdUOGprZFVDOUtQcmZPSlVqcFBoR0o4dllwcDVQQmFMM0N1aU1DMDRGbw?oc=5\" target=\"_blank\">孤立地域へ医療物資を配送 ドローン実証実験 カメラやウインチ搭載</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">au Webポータル</font>",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBmbFpzRkRzTnVLMHlWdnFxamoyU0FYT3FHMC12RjUtaGFWenRmRVQ0eEtMb2tQbnRUc3g2WGIzeWRSSUttS05ncUhqeHg4a1hiSTdUOGprZFVDOUtQcmZPSlVqcFBoR0o4dllwcDVQQmFMM0N1aU1DMDRGbw?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBmbFpzRkRzTnVLMHlWdnFxamoyU0FYT3FHMC12RjUtaGFWenRmRVQ0eEtMb2tQbnRUc3g2WGIzeWRSSUttS05ncUhqeHg4a1hiSTdUOGprZFVDOUtQcmZPSlVqcFBoR0o4dllwcDVQQmFMM0N1aU1DMDRGbw?oc=5",
+      "publishedAt": "2026-05-15T00:41:00.000Z",
+      "source": "au Webポータル",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP 政策/実証)",
+      "_scoring": {
+        "score": 59,
+        "categories": [
+          "技術・製品"
+        ],
+        "breakdown": {
+          "required": true,
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 15,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "孤立地域へ医療物資を配送 ドローン実証実験 カメラやウインチ搭載 (2026年5月15日掲載)",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFBQdzNZMWQyaW1wS2N2V2lYcWlWQkRHZDVlNm9QWVNKZ2xDVkhJTGZOZHU3NFZoSzVYQ2g5b2NPcnJLa09ZWTNwRGZfeGdwQU9nd0dLVVJzTm9kY0E2dHc?oc=5\" target=\"_blank\">孤立地域へ医療物資を配送 ドローン実証実験 カメラやウインチ搭載 (2026年5月15日掲載)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ライブドアニュース</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFBQdzNZMWQyaW1wS2N2V2lYcWlWQkRHZDVlNm9QWVNKZ2xDVkhJTGZOZHU3NFZoSzVYQ2g5b2NPcnJLa09ZWTNwRGZfeGdwQU9nd0dLVVJzTm9kY0E2dHc?oc=5\" target=\"_blank\">孤立地域へ医療物資を配送 ドローン実証実験 カメラやウインチ搭載 (2026年5月15日掲載)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ライブドアニュース</font>",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBQdzNZMWQyaW1wS2N2V2lYcWlWQkRHZDVlNm9QWVNKZ2xDVkhJTGZOZHU3NFZoSzVYQ2g5b2NPcnJLa09ZWTNwRGZfeGdwQU9nd0dLVVJzTm9kY0E2dHc?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBQdzNZMWQyaW1wS2N2V2lYcWlWQkRHZDVlNm9QWVNKZ2xDVkhJTGZOZHU3NFZoSzVYQ2g5b2NPcnJLa09ZWTNwRGZfeGdwQU9nd0dLVVJzTm9kY0E2dHc?oc=5",
+      "publishedAt": "2026-05-15T00:41:52.000Z",
+      "source": "ライブドアニュース",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP 政策/実証)",
+      "_scoring": {
+        "score": 59,
+        "categories": [
+          "技術・製品"
+        ],
+        "breakdown": {
+          "required": true,
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 15,
           "titleBonus": 10,
           "jpRegionBonus": 15
         },
@@ -1096,37 +1111,6 @@
             "multiplier": 0.8
           },
           "freshness": 0,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "Brain injury screening at penitentiary, dead cattle citations, drone operations FAA data",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi6gJBVV95cUxNSXUxbzEyZ05tQTk5eWwzVWd0WnNkQUpLZnYzbmV2bjQtR2NLdkNsQW9Tcm92d1llZlRNc1dLbEVtdHdMc3hDYUVJQ2Q3UFRqUDdHRFZqb0gtTU9lTHRXNFg3N1VzQWJIOGpma0FsaktwbV9feS05OFhnMzB4RVJ0cnROdDd3Tk4xREs2bzdPcGVvVzlYM1RpeFQ1S0drWWZWWjM2NXBVTTVHcmlWRnJFaWpjUXktMk1Od24tQ184dS1jVkhKb3V3MmVOTFlSbUdlUG8zRHJ4M2NJRFRCNmY3bFQ0ZWlqSnlaU0pPWW01Wlg3T0xoRUZKSGZRRklFdzlTOUNXdDQ1MU1PMWtEY1ZsM1lERm1HU3Q2dGtfQk9HYmVWUzhGcXgtRE9uV2xXWlRYWUJYZnZsc05PYk9zVE5ZaHU3VklnRjhtNXp2X2FObjBsak81X2xwanNvZnVoblhSOGx1VERWVzlOdw?oc=5\" target=\"_blank\">Brain injury screening at penitentiary, dead cattle citations, drone operations FAA data</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMi6gJBVV95cUxNSXUxbzEyZ05tQTk5eWwzVWd0WnNkQUpLZnYzbmV2bjQtR2NLdkNsQW9Tcm92d1llZlRNc1dLbEVtdHdMc3hDYUVJQ2Q3UFRqUDdHRFZqb0gtTU9lTHRXNFg3N1VzQWJIOGpma0FsaktwbV9feS05OFhnMzB4RVJ0cnROdDd3Tk4xREs2bzdPcGVvVzlYM1RpeFQ1S0drWWZWWjM2NXBVTTVHcmlWRnJFaWpjUXktMk1Od24tQ184dS1jVkhKb3V3MmVOTFlSbUdlUG8zRHJ4M2NJRFRCNmY3bFQ0ZWlqSnlaU0pPWW01Wlg3T0xoRUZKSGZRRklFdzlTOUNXdDQ1MU1PMWtEY1ZsM1lERm1HU3Q2dGtfQk9HYmVWUzhGcXgtRE9uV2xXWlRYWUJYZnZsc05PYk9zVE5ZaHU3VklnRjhtNXp2X2FObjBsak81X2xwanNvZnVoblhSOGx1VERWVzlOdw?oc=5\" target=\"_blank\">Brain injury screening at penitentiary, dead cattle citations, drone operations FAA data</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
-      "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxNSXUxbzEyZ05tQTk5eWwzVWd0WnNkQUpLZnYzbmV2bjQtR2NLdkNsQW9Tcm92d1llZlRNc1dLbEVtdHdMc3hDYUVJQ2Q3UFRqUDdHRFZqb0gtTU9lTHRXNFg3N1VzQWJIOGpma0FsaktwbV9feS05OFhnMzB4RVJ0cnROdDd3Tk4xREs2bzdPcGVvVzlYM1RpeFQ1S0drWWZWWjM2NXBVTTVHcmlWRnJFaWpjUXktMk1Od24tQ184dS1jVkhKb3V3MmVOTFlSbUdlUG8zRHJ4M2NJRFRCNmY3bFQ0ZWlqSnlaU0pPWW01Wlg3T0xoRUZKSGZRRklFdzlTOUNXdDQ1MU1PMWtEY1ZsM1lERm1HU3Q2dGtfQk9HYmVWUzhGcXgtRE9uV2xXWlRYWUJYZnZsc05PYk9zVE5ZaHU3VklnRjhtNXp2X2FObjBsak81X2xwanNvZnVoblhSOGx1VERWVzlOdw?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxNSXUxbzEyZ05tQTk5eWwzVWd0WnNkQUpLZnYzbmV2bjQtR2NLdkNsQW9Tcm92d1llZlRNc1dLbEVtdHdMc3hDYUVJQ2Q3UFRqUDdHRFZqb0gtTU9lTHRXNFg3N1VzQWJIOGpma0FsaktwbV9feS05OFhnMzB4RVJ0cnROdDd3Tk4xREs2bzdPcGVvVzlYM1RpeFQ1S0drWWZWWjM2NXBVTTVHcmlWRnJFaWpjUXktMk1Od24tQ184dS1jVkhKb3V3MmVOTFlSbUdlUG8zRHJ4M2NJRFRCNmY3bFQ0ZWlqSnlaU0pPWW01Wlg3T0xoRUZKSGZRRklFdzlTOUNXdDQ1MU1PMWtEY1ZsM1lERm1HU3Q2dGtfQk9HYmVWUzhGcXgtRE9uV2xXWlRYWUJYZnZsc05PYk9zVE5ZaHU3VklnRjhtNXp2X2FObjBsak81X2xwanNvZnVoblhSOGx1VERWVzlOdw?oc=5",
-      "publishedAt": "2026-05-14T15:12:50.000Z",
-      "source": "MSN",
-      "_feedRegion": "us",
-      "_feedName": "FAA",
-      "_scoring": {
-        "score": 57,
-        "categories": [
-          "規制・政策"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 2,
-            "catScore": 40
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 15,
           "titleBonus": 10
         },
         "pass": true
