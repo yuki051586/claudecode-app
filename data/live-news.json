@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-16T08:21:42.575Z",
-  "rawCount": 724,
+  "generatedAt": "2026-05-16T12:06:39.799Z",
+  "rawCount": 735,
   "articles": [
     {
       "title": "FAA and DoD Are Building the Rules for Drones Operating Near Sensitive Airspace",
@@ -10,47 +10,6 @@
       "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8tN200eFBOU3piM2pIM1RWWWdYQXNRY3JNX1ItUS1FTjhnd0wzRFd1WExGcVRMUnllcUlaSWpOMlRZTEw0UzFuRDQ1UmlqaTRpVHdVYWs1WTdMODlHZFo2RXRiSE1ldTdJNjRzUWFKNDVfS05LS3c?oc=5",
       "publishedAt": "2026-05-15T14:46:25.000Z",
       "source": "Dronelife",
-      "_feedRegion": "us",
-      "_feedName": "FAA",
-      "_scoring": {
-        "score": 87,
-        "categories": [
-          "規制・政策",
-          "市場・資金",
-          "政策・インフラ"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 2,
-            "catScore": 40
-          },
-          "market": {
-            "matches": 1,
-            "catScore": 20
-          },
-          "policy": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 10,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "FCC Extends Foreign Drone Firmware Waiver to 2029, FAA Locks Down World Cup Airspace, Pierce Aerospace Builds Remote ID Network for NASA",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOYTVueWZvUWVVYUtoTnYxN1ROWVI3U1RDS1FIdjl2V1VqTjZJQTltdU1CS2VRMkFpVjlfTWxDRXRpN1owTUkzb1A3emJyVzlNRTJzZ0JSV2JrYzduYmxoR0Jaclpub2pRVTlXaXVGTkZURXVjNlN1ZjVGZWU2TGhsYw?oc=5\" target=\"_blank\">FCC Extends Foreign Drone Firmware Waiver to 2029, FAA Locks Down World Cup Airspace, Pierce Aerospace Builds Remote ID Network for NASA</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DroneXL.co</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOYTVueWZvUWVVYUtoTnYxN1ROWVI3U1RDS1FIdjl2V1VqTjZJQTltdU1CS2VRMkFpVjlfTWxDRXRpN1owTUkzb1A3emJyVzlNRTJzZ0JSV2JrYzduYmxoR0Jaclpub2pRVTlXaXVGTkZURXVjNlN1ZjVGZWU2TGhsYw?oc=5\" target=\"_blank\">FCC Extends Foreign Drone Firmware Waiver to 2029, FAA Locks Down World Cup Airspace, Pierce Aerospace Builds Remote ID Network for NASA</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DroneXL.co</font>",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYTVueWZvUWVVYUtoTnYxN1ROWVI3U1RDS1FIdjl2V1VqTjZJQTltdU1CS2VRMkFpVjlfTWxDRXRpN1owTUkzb1A3emJyVzlNRTJzZ0JSV2JrYzduYmxoR0Jaclpub2pRVTlXaXVGTkZURXVjNlN1ZjVGZWU2TGhsYw?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYTVueWZvUWVVYUtoTnYxN1ROWVI3U1RDS1FIdjl2V1VqTjZJQTltdU1CS2VRMkFpVjlfTWxDRXRpN1owTUkzb1A3emJyVzlNRTJzZ0JSV2JrYzduYmxoR0Jaclpub2pRVTlXaXVGTkZURXVjNlN1ZjVGZWU2TGhsYw?oc=5",
-      "publishedAt": "2026-05-15T12:00:29.000Z",
-      "source": "DroneXL.co",
       "_feedRegion": "us",
       "_feedName": "FAA",
       "_scoring": {
@@ -114,6 +73,47 @@
           "incident": {
             "matches": 1,
             "catScore": 28
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 5,
+          "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "FCC Extends Foreign Drone Firmware Waiver to 2029, FAA Locks Down World Cup Airspace, Pierce Aerospace Builds Remote ID Network for NASA",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOYTVueWZvUWVVYUtoTnYxN1ROWVI3U1RDS1FIdjl2V1VqTjZJQTltdU1CS2VRMkFpVjlfTWxDRXRpN1owTUkzb1A3emJyVzlNRTJzZ0JSV2JrYzduYmxoR0Jaclpub2pRVTlXaXVGTkZURXVjNlN1ZjVGZWU2TGhsYw?oc=5\" target=\"_blank\">FCC Extends Foreign Drone Firmware Waiver to 2029, FAA Locks Down World Cup Airspace, Pierce Aerospace Builds Remote ID Network for NASA</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DroneXL.co</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOYTVueWZvUWVVYUtoTnYxN1ROWVI3U1RDS1FIdjl2V1VqTjZJQTltdU1CS2VRMkFpVjlfTWxDRXRpN1owTUkzb1A3emJyVzlNRTJzZ0JSV2JrYzduYmxoR0Jaclpub2pRVTlXaXVGTkZURXVjNlN1ZjVGZWU2TGhsYw?oc=5\" target=\"_blank\">FCC Extends Foreign Drone Firmware Waiver to 2029, FAA Locks Down World Cup Airspace, Pierce Aerospace Builds Remote ID Network for NASA</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DroneXL.co</font>",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYTVueWZvUWVVYUtoTnYxN1ROWVI3U1RDS1FIdjl2V1VqTjZJQTltdU1CS2VRMkFpVjlfTWxDRXRpN1owTUkzb1A3emJyVzlNRTJzZ0JSV2JrYzduYmxoR0Jaclpub2pRVTlXaXVGTkZURXVjNlN1ZjVGZWU2TGhsYw?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYTVueWZvUWVVYUtoTnYxN1ROWVI3U1RDS1FIdjl2V1VqTjZJQTltdU1CS2VRMkFpVjlfTWxDRXRpN1owTUkzb1A3emJyVzlNRTJzZ0JSV2JrYzduYmxoR0Jaclpub2pRVTlXaXVGTkZURXVjNlN1ZjVGZWU2TGhsYw?oc=5",
+      "publishedAt": "2026-05-15T12:00:29.000Z",
+      "source": "DroneXL.co",
+      "_feedRegion": "us",
+      "_feedName": "FAA",
+      "_scoring": {
+        "score": 82,
+        "categories": [
+          "規制・政策",
+          "市場・資金",
+          "政策・インフラ"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 2,
+            "catScore": 40
+          },
+          "market": {
+            "matches": 1,
+            "catScore": 20
+          },
+          "policy": {
+            "matches": 1,
+            "catScore": 24
           },
           "sourceTrust": {
             "domain": "news.google.com",
@@ -1039,38 +1039,6 @@
       }
     },
     {
-      "title": "ドローンで医療品配送 志摩で損保ジャパン実証実験 三重（伊勢新聞）",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBVdE5aOVcycVhnejBxWG1vUndNN1dsZDdGMWJwaTZwOHNHNEI5TmlROFNJT2kySXlLMG9pbzh6ODlISVRXc0NGcWtUV0d2cEc2X3JBdGFqdVE0eG5iMU1QSm9vTnZQUDk3UFdYOWs5RkpReUMwaVVGMGdCTmQyRjQ?oc=5\" target=\"_blank\">ドローンで医療品配送 志摩で損保ジャパン実証実験 三重（伊勢新聞）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBVdE5aOVcycVhnejBxWG1vUndNN1dsZDdGMWJwaTZwOHNHNEI5TmlROFNJT2kySXlLMG9pbzh6ODlISVRXc0NGcWtUV0d2cEc2X3JBdGFqdVE0eG5iMU1QSm9vTnZQUDk3UFdYOWs5RkpReUMwaVVGMGdCTmQyRjQ?oc=5\" target=\"_blank\">ドローンで医療品配送 志摩で損保ジャパン実証実験 三重（伊勢新聞）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBVdE5aOVcycVhnejBxWG1vUndNN1dsZDdGMWJwaTZwOHNHNEI5TmlROFNJT2kySXlLMG9pbzh6ODlISVRXc0NGcWtUV0d2cEc2X3JBdGFqdVE0eG5iMU1QSm9vTnZQUDk3UFdYOWs5RkpReUMwaVVGMGdCTmQyRjQ?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBVdE5aOVcycVhnejBxWG1vUndNN1dsZDdGMWJwaTZwOHNHNEI5TmlROFNJT2kySXlLMG9pbzh6ODlISVRXc0NGcWtUV0d2cEc2X3JBdGFqdVE0eG5iMU1QSm9vTnZQUDk3UFdYOWs5RkpReUMwaVVGMGdCTmQyRjQ?oc=5",
-      "publishedAt": "2026-05-15T23:07:01.000Z",
-      "source": "Yahoo!ニュース",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP 政策/実証)",
-      "_scoring": {
-        "score": 59,
-        "categories": [
-          "技術・製品"
-        ],
-        "breakdown": {
-          "required": true,
-          "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 15,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
       "title": "ドローンで医療品配送 志摩で損保ジャパン実証実験 三重",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE5KbWVPbjMyeXVPWmNyZDQyWFJsS3U4OS1LQnNFT1FJakRyOVVVcC1xQ3UybXlncHJyTmFkTy1NYThJa0VyandBdGZqYw?oc=5\" target=\"_blank\">ドローンで医療品配送 志摩で損保ジャパン実証実験 三重</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">47NEWS</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE5KbWVPbjMyeXVPWmNyZDQyWFJsS3U4OS1LQnNFT1FJakRyOVVVcC1xQ3UybXlncHJyTmFkTy1NYThJa0VyandBdGZqYw?oc=5\" target=\"_blank\">ドローンで医療品配送 志摩で損保ジャパン実証実験 三重</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">47NEWS</font>",
@@ -1139,6 +1107,42 @@
       },
       "implication": "FAA が FIFA ワールドカップ 2026 で No Drone Zone を設置する動きは、大阪・関西万博を控える JCAB に対し、大規模イベント周辺での無人航空機通報・立入禁止制度の法制化圧力を示唆する。",
       "implicationVerified": true
+    },
+    {
+      "title": "United airline's pilot reports drone strike, triggers FAA investigation near San Diego",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPRVlyelZlaWV6Vl9jeFN4MDkxS1lPSjlWREJiLXlCM25ENVFWMXNETFpDOWVvcjdUaXM2TnJvZVJ5VkJNSWJEbV9kZTVoR1p1QkU1V002NEdoQzkwNzU2TFBfd2RlOTVIRUtPUldfaXhhc1hpd3B1VWU4WmU2YTVneXlGd2xyQktNRXdrZ0tfbDZBeVR5TmxfSkVIWjVOTDJYZGd4dGcwTUE1S25qQnJVdmQxalJNaEI4NHNzU0ozTmNDV04yZng3N2RLWFJtZw?oc=5\" target=\"_blank\">United airline's pilot reports drone strike, triggers FAA investigation near San Diego</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPRVlyelZlaWV6Vl9jeFN4MDkxS1lPSjlWREJiLXlCM25ENVFWMXNETFpDOWVvcjdUaXM2TnJvZVJ5VkJNSWJEbV9kZTVoR1p1QkU1V002NEdoQzkwNzU2TFBfd2RlOTVIRUtPUldfaXhhc1hpd3B1VWU4WmU2YTVneXlGd2xyQktNRXdrZ0tfbDZBeVR5TmxfSkVIWjVOTDJYZGd4dGcwTUE1S25qQnJVdmQxalJNaEI4NHNzU0ozTmNDV04yZng3N2RLWFJtZw?oc=5\" target=\"_blank\">United airline's pilot reports drone strike, triggers FAA investigation near San Diego</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPRVlyelZlaWV6Vl9jeFN4MDkxS1lPSjlWREJiLXlCM25ENVFWMXNETFpDOWVvcjdUaXM2TnJvZVJ5VkJNSWJEbV9kZTVoR1p1QkU1V002NEdoQzkwNzU2TFBfd2RlOTVIRUtPUldfaXhhc1hpd3B1VWU4WmU2YTVneXlGd2xyQktNRXdrZ0tfbDZBeVR5TmxfSkVIWjVOTDJYZGd4dGcwTUE1S25qQnJVdmQxalJNaEI4NHNzU0ozTmNDV04yZng3N2RLWFJtZw?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPRVlyelZlaWV6Vl9jeFN4MDkxS1lPSjlWREJiLXlCM25ENVFWMXNETFpDOWVvcjdUaXM2TnJvZVJ5VkJNSWJEbV9kZTVoR1p1QkU1V002NEdoQzkwNzU2TFBfd2RlOTVIRUtPUldfaXhhc1hpd3B1VWU4WmU2YTVneXlGd2xyQktNRXdrZ0tfbDZBeVR5TmxfSkVIWjVOTDJYZGd4dGcwTUE1S25qQnJVdmQxalJNaEI4NHNzU0ozTmNDV04yZng3N2RLWFJtZw?oc=5",
+      "publishedAt": "2026-05-04T04:11:03.000Z",
+      "source": "MSN",
+      "_feedRegion": "us",
+      "_feedName": "FAA",
+      "_scoring": {
+        "score": 58,
+        "categories": [
+          "規制・政策",
+          "事故・事件"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
+          "incident": {
+            "matches": 1,
+            "catScore": 28
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 0,
+          "titleBonus": 10
+        },
+        "pass": true
+      }
     }
   ],
   "errors": []
