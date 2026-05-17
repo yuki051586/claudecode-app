@@ -1,48 +1,7 @@
 {
-  "generatedAt": "2026-05-17T12:05:58.220Z",
-  "rawCount": 686,
+  "generatedAt": "2026-05-17T16:16:48.270Z",
+  "rawCount": 711,
   "articles": [
-    {
-      "title": "FAA and DoD Are Building the Rules for Drones Operating Near Sensitive Airspace",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE8tN200eFBOU3piM2pIM1RWWWdYQXNRY3JNX1ItUS1FTjhnd0wzRFd1WExGcVRMUnllcUlaSWpOMlRZTEw0UzFuRDQ1UmlqaTRpVHdVYWs1WTdMODlHZFo2RXRiSE1ldTdJNjRzUWFKNDVfS05LS3c?oc=5\" target=\"_blank\">FAA and DoD Are Building the Rules for Drones Operating Near Sensitive Airspace</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dronelife</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE8tN200eFBOU3piM2pIM1RWWWdYQXNRY3JNX1ItUS1FTjhnd0wzRFd1WExGcVRMUnllcUlaSWpOMlRZTEw0UzFuRDQ1UmlqaTRpVHdVYWs1WTdMODlHZFo2RXRiSE1ldTdJNjRzUWFKNDVfS05LS3c?oc=5\" target=\"_blank\">FAA and DoD Are Building the Rules for Drones Operating Near Sensitive Airspace</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dronelife</font>",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8tN200eFBOU3piM2pIM1RWWWdYQXNRY3JNX1ItUS1FTjhnd0wzRFd1WExGcVRMUnllcUlaSWpOMlRZTEw0UzFuRDQ1UmlqaTRpVHdVYWs1WTdMODlHZFo2RXRiSE1ldTdJNjRzUWFKNDVfS05LS3c?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8tN200eFBOU3piM2pIM1RWWWdYQXNRY3JNX1ItUS1FTjhnd0wzRFd1WExGcVRMUnllcUlaSWpOMlRZTEw0UzFuRDQ1UmlqaTRpVHdVYWs1WTdMODlHZFo2RXRiSE1ldTdJNjRzUWFKNDVfS05LS3c?oc=5",
-      "publishedAt": "2026-05-15T14:46:25.000Z",
-      "source": "Dronelife",
-      "_feedRegion": "us",
-      "_feedName": "FAA",
-      "_scoring": {
-        "score": 82,
-        "categories": [
-          "規制・政策",
-          "市場・資金",
-          "政策・インフラ"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 2,
-            "catScore": 40
-          },
-          "market": {
-            "matches": 1,
-            "catScore": 20
-          },
-          "policy": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 5,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
     {
       "title": "Choctaw ROTC's aerospace program produces 5 FAA-certified drone pilots, 15 safety certifications in breakout year",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcTR1ZE9fSmxIUEZQUzZoeU1Xc1VvOVFSblRCSVNWV3gtVXl1RWZ0bFpPbWZmaWROQWE2eFFkdjhyRWd4Rk5LLTlQNjlzb05uS1BfU01BTWRyM0NyMUxfN0hjOGRzZ3VyUW41ZjNqODNMdTdfV2Y1VW9PVDJZVnQ0YTJyUlNDOUdYZ0p2WTZZT0lMVVRaZGVfS0d5NHBLWExjUVhBOGM1cUszU2hnNkg3WTc1c0NMaXhqakFfUGFmcnRSb1NSTGNIeEFma282djJVUmc?oc=5\" target=\"_blank\">Choctaw ROTC's aerospace program produces 5 FAA-certified drone pilots, 15 safety certifications in breakout year</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Get The Coast</font>",
@@ -54,7 +13,7 @@
       "_feedRegion": "us",
       "_feedName": "FAA",
       "_scoring": {
-        "score": 82,
+        "score": 80,
         "categories": [
           "規制・政策",
           "市場・資金",
@@ -73,6 +32,47 @@
           "incident": {
             "matches": 1,
             "catScore": 28
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 0,
+          "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "FAA and DoD Are Building the Rules for Drones Operating Near Sensitive Airspace",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE8tN200eFBOU3piM2pIM1RWWWdYQXNRY3JNX1ItUS1FTjhnd0wzRFd1WExGcVRMUnllcUlaSWpOMlRZTEw0UzFuRDQ1UmlqaTRpVHdVYWs1WTdMODlHZFo2RXRiSE1ldTdJNjRzUWFKNDVfS05LS3c?oc=5\" target=\"_blank\">FAA and DoD Are Building the Rules for Drones Operating Near Sensitive Airspace</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dronelife</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE8tN200eFBOU3piM2pIM1RWWWdYQXNRY3JNX1ItUS1FTjhnd0wzRFd1WExGcVRMUnllcUlaSWpOMlRZTEw0UzFuRDQ1UmlqaTRpVHdVYWs1WTdMODlHZFo2RXRiSE1ldTdJNjRzUWFKNDVfS05LS3c?oc=5\" target=\"_blank\">FAA and DoD Are Building the Rules for Drones Operating Near Sensitive Airspace</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dronelife</font>",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8tN200eFBOU3piM2pIM1RWWWdYQXNRY3JNX1ItUS1FTjhnd0wzRFd1WExGcVRMUnllcUlaSWpOMlRZTEw0UzFuRDQ1UmlqaTRpVHdVYWs1WTdMODlHZFo2RXRiSE1ldTdJNjRzUWFKNDVfS05LS3c?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8tN200eFBOU3piM2pIM1RWWWdYQXNRY3JNX1ItUS1FTjhnd0wzRFd1WExGcVRMUnllcUlaSWpOMlRZTEw0UzFuRDQ1UmlqaTRpVHdVYWs1WTdMODlHZFo2RXRiSE1ldTdJNjRzUWFKNDVfS05LS3c?oc=5",
+      "publishedAt": "2026-05-15T14:46:25.000Z",
+      "source": "Dronelife",
+      "_feedRegion": "us",
+      "_feedName": "FAA",
+      "_scoring": {
+        "score": 79,
+        "categories": [
+          "規制・政策",
+          "市場・資金",
+          "政策・インフラ"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 2,
+            "catScore": 40
+          },
+          "market": {
+            "matches": 1,
+            "catScore": 20
+          },
+          "policy": {
+            "matches": 1,
+            "catScore": 24
           },
           "sourceTrust": {
             "domain": "news.google.com",
@@ -127,16 +127,16 @@
     },
     {
       "title": "FAA Proposes New Drone Restrictions Around Critical Infrastructure Sites",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYU1LQ1ZxV0pvd0d2ZS1HT2N2a0diRkx3UDNheDVKMXpYUERCdEpoRi0zcmMxOHpXbEkwOVRrSWo2b2I0a1NQdkF5OW1tbHE5WHJPQ1prMGRTcE0wdVByQ3UwZmEzOUtYU2FnUnJxX21ieDQyOTZyUTlHdkpma2hfQ2F6MHdBVWVsRDRYMkZGNUZudURrMU5lNGkzS2VsOHFlNXlVOWowZUpPaHJKS1Jld1hUZndlMXhmaVdnanA3a19tQQ?oc=5\" target=\"_blank\">FAA Proposes New Drone Restrictions Around Critical Infrastructure Sites</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Trending Now Infrastructure</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYU1LQ1ZxV0pvd0d2ZS1HT2N2a0diRkx3UDNheDVKMXpYUERCdEpoRi0zcmMxOHpXbEkwOVRrSWo2b2I0a1NQdkF5OW1tbHE5WHJPQ1prMGRTcE0wdVByQ3UwZmEzOUtYU2FnUnJxX21ieDQyOTZyUTlHdkpma2hfQ2F6MHdBVWVsRDRYMkZGNUZudURrMU5lNGkzS2VsOHFlNXlVOWowZUpPaHJKS1Jld1hUZndlMXhmaVdnanA3a19tQQ?oc=5\" target=\"_blank\">FAA Proposes New Drone Restrictions Around Critical Infrastructure Sites</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Trending Now Infrastructure</font>",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYU1LQ1ZxV0pvd0d2ZS1HT2N2a0diRkx3UDNheDVKMXpYUERCdEpoRi0zcmMxOHpXbEkwOVRrSWo2b2I0a1NQdkF5OW1tbHE5WHJPQ1prMGRTcE0wdVByQ3UwZmEzOUtYU2FnUnJxX21ieDQyOTZyUTlHdkpma2hfQ2F6MHdBVWVsRDRYMkZGNUZudURrMU5lNGkzS2VsOHFlNXlVOWowZUpPaHJKS1Jld1hUZndlMXhmaVdnanA3a19tQQ?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYU1LQ1ZxV0pvd0d2ZS1HT2N2a0diRkx3UDNheDVKMXpYUERCdEpoRi0zcmMxOHpXbEkwOVRrSWo2b2I0a1NQdkF5OW1tbHE5WHJPQ1prMGRTcE0wdVByQ3UwZmEzOUtYU2FnUnJxX21ieDQyOTZyUTlHdkpma2hfQ2F6MHdBVWVsRDRYMkZGNUZudURrMU5lNGkzS2VsOHFlNXlVOWowZUpPaHJKS1Jld1hUZndlMXhmaVdnanA3a19tQQ?oc=5",
-      "publishedAt": "2026-05-17T09:42:24.000Z",
-      "source": "Trending Now Infrastructure",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSndNSEJOaU9RdkVpU3VvTzR3QUE2SXdjdzlLVlozdHYwVW14cFhvcm1OTlZVbVJtWWh5dnRxSWcxTzJQLWJ6TFBjaDZkWWJIajJTVVJPZVlRUG9PUGlUcWVxLVM4eld0MHNyUS1Gckp3SEJLM2dxM2Z0RWJRcGR0ZEFNbXdtVW1RS3hjTjE3OTVMWndkMDRTbjZBS3BSN3M4N1hSN2N6ZTZKazdFMnN6X0ExWXJHa3l6eHYxdlhBWVE?oc=5\" target=\"_blank\">FAA Proposes New Drone Restrictions Around Critical Infrastructure Sites</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Presidential Prayer Team</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSndNSEJOaU9RdkVpU3VvTzR3QUE2SXdjdzlLVlozdHYwVW14cFhvcm1OTlZVbVJtWWh5dnRxSWcxTzJQLWJ6TFBjaDZkWWJIajJTVVJPZVlRUG9PUGlUcWVxLVM4eld0MHNyUS1Gckp3SEJLM2dxM2Z0RWJRcGR0ZEFNbXdtVW1RS3hjTjE3OTVMWndkMDRTbjZBS3BSN3M4N1hSN2N6ZTZKazdFMnN6X0ExWXJHa3l6eHYxdlhBWVE?oc=5\" target=\"_blank\">FAA Proposes New Drone Restrictions Around Critical Infrastructure Sites</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Presidential Prayer Team</font>",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSndNSEJOaU9RdkVpU3VvTzR3QUE2SXdjdzlLVlozdHYwVW14cFhvcm1OTlZVbVJtWWh5dnRxSWcxTzJQLWJ6TFBjaDZkWWJIajJTVVJPZVlRUG9PUGlUcWVxLVM4eld0MHNyUS1Gckp3SEJLM2dxM2Z0RWJRcGR0ZEFNbXdtVW1RS3hjTjE3OTVMWndkMDRTbjZBS3BSN3M4N1hSN2N6ZTZKazdFMnN6X0ExWXJHa3l6eHYxdlhBWVE?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSndNSEJOaU9RdkVpU3VvTzR3QUE2SXdjdzlLVlozdHYwVW14cFhvcm1OTlZVbVJtWWh5dnRxSWcxTzJQLWJ6TFBjaDZkWWJIajJTVVJPZVlRUG9PUGlUcWVxLVM4eld0MHNyUS1Gckp3SEJLM2dxM2Z0RWJRcGR0ZEFNbXdtVW1RS3hjTjE3OTVMWndkMDRTbjZBS3BSN3M4N1hSN2N6ZTZKazdFMnN6X0ExWXJHa3l6eHYxdlhBWVE?oc=5",
+      "publishedAt": "2026-05-17T08:30:00.000Z",
+      "source": "The Presidential Prayer Team",
       "_feedRegion": "us",
       "_feedName": "FAA",
       "_scoring": {
-        "score": 75,
+        "score": 76,
         "categories": [
           "規制・政策",
           "政策・インフラ"
@@ -144,8 +144,8 @@
         "breakdown": {
           "required": true,
           "regulation": {
-            "matches": 1,
-            "catScore": 32
+            "matches": 2,
+            "catScore": 40
           },
           "policy": {
             "matches": 1,
@@ -155,7 +155,7 @@
             "domain": "news.google.com",
             "multiplier": 0.8
           },
-          "freshness": 20,
+          "freshness": 15,
           "titleBonus": 10
         },
         "pass": true
@@ -770,6 +770,43 @@
       }
     },
     {
+      "title": "【点群データ取得からCIM構築まで一気通貫】ミラテクドローンと技術開発コンサルタントが業務提携し、次世代測量ソリューシ",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE5LNjFNUzhXRUxldWU4WnlQX29IT2gzTkJVMUVpQW1lZWRzRlFSZk16WW1MR1lYSVZPUVhRS2FqSWN2X3NqS1NRaG5IZG4wMTd2b0lVMg?oc=5\" target=\"_blank\">【点群データ取得からCIM構築まで一気通貫】ミラテクドローンと技術開発コンサルタントが業務提携し、次世代測量ソリューシ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ニコニコニュース</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE5LNjFNUzhXRUxldWU4WnlQX29IT2gzTkJVMUVpQW1lZWRzRlFSZk16WW1MR1lYSVZPUVhRS2FqSWN2X3NqS1NRaG5IZG4wMTd2b0lVMg?oc=5\" target=\"_blank\">【点群データ取得からCIM構築まで一気通貫】ミラテクドローンと技術開発コンサルタントが業務提携し、次世代測量ソリューシ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ニコニコニュース</font>",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5LNjFNUzhXRUxldWU4WnlQX29IT2gzTkJVMUVpQW1lZWRzRlFSZk16WW1MR1lYSVZPUVhRS2FqSWN2X3NqS1NRaG5IZG4wMTd2b0lVMg?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5LNjFNUzhXRUxldWU4WnlQX29IT2gzTkJVMUVpQW1lZWRzRlFSZk16WW1MR1lYSVZPUVhRS2FqSWN2X3NqS1NRaG5IZG4wMTd2b0lVMg?oc=5",
+      "publishedAt": "2026-05-13T04:15:23.000Z",
+      "source": "ニコニコニュース",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP 政策/実証)",
+      "_scoring": {
+        "score": 64,
+        "categories": [
+          "技術・製品",
+          "市場・資金"
+        ],
+        "breakdown": {
+          "required": true,
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "market": {
+            "matches": 2,
+            "catScore": 25
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 0,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
       "title": "No-Fly Zones for Drones: FAA Proposes New Rules Over Critical Infrastructure",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxONVA1ZXZ5TnNkTHhUYWVoVTBxeW9jZWhMSW14NkwxX1FsRUJJTHVfeU1KQkMyZGN6S0RPaWE4RFBXZ2JqV1BfeFlJUmhQMDdDd0lHRjNYTkJ5Q2FSWTRCV015VzhtNjlVaC1OSmdMWkkyR2lDVG01SUJ3S0Q0R1hGaWwyUnZBLUFYb3FIY2JQZHhsZURNeC1aOFVoZlhpOUdWU184WXJEOGFmZlJUTFg4U1ZyS2NaY2dHRE9hdk5nQmdyU2c?oc=5\" target=\"_blank\">No-Fly Zones for Drones: FAA Proposes New Rules Over Critical Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Crowell & Moring LLP</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxONVA1ZXZ5TnNkTHhUYWVoVTBxeW9jZWhMSW14NkwxX1FsRUJJTHVfeU1KQkMyZGN6S0RPaWE4RFBXZ2JqV1BfeFlJUmhQMDdDd0lHRjNYTkJ5Q2FSWTRCV015VzhtNjlVaC1OSmdMWkkyR2lDVG01SUJ3S0Q0R1hGaWwyUnZBLUFYb3FIY2JQZHhsZURNeC1aOFVoZlhpOUdWU184WXJEOGFmZlJUTFg4U1ZyS2NaY2dHRE9hdk5nQmdyU2c?oc=5\" target=\"_blank\">No-Fly Zones for Drones: FAA Proposes New Rules Over Critical Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Crowell & Moring LLP</font>",
@@ -843,42 +880,6 @@
       },
       "implication": "金沢工大の50kg積載・50km航続ドローンが福井空港での実証を開始したことは、JCAB航空法レベル4認可に向けた地方空港活用の先例となり、同様の大型物流機開発を進めるSkyDriveやテラドローンなど国内事業者に対して地域パートナーシッ…",
       "implicationVerified": true
-    },
-    {
-      "title": "DSPA Urges FAA To Use Section 2209 NPRM To Preempt 25 State Drone Airspace Laws",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE55eEJsNkpYYmVKU3ZDZ2dqVnY2ekVPaHpBVTlWbVFHSm14Ukp4VS0yQkxXcGlwTldwU1VTYlFwUDVyNDVCamU3SE4wWHo2Wm9UckhlaF8yeFdxbGhYd1RNcTBaRnlBNFhPUW4zV1RENndOMHZxYkkyc28tcEM?oc=5\" target=\"_blank\">DSPA Urges FAA To Use Section 2209 NPRM To Preempt 25 State Drone Airspace Laws</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DroneXL.co</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE55eEJsNkpYYmVKU3ZDZ2dqVnY2ekVPaHpBVTlWbVFHSm14Ukp4VS0yQkxXcGlwTldwU1VTYlFwUDVyNDVCamU3SE4wWHo2Wm9UckhlaF8yeFdxbGhYd1RNcTBaRnlBNFhPUW4zV1RENndOMHZxYkkyc28tcEM?oc=5\" target=\"_blank\">DSPA Urges FAA To Use Section 2209 NPRM To Preempt 25 State Drone Airspace Laws</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DroneXL.co</font>",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE55eEJsNkpYYmVKU3ZDZ2dqVnY2ekVPaHpBVTlWbVFHSm14Ukp4VS0yQkxXcGlwTldwU1VTYlFwUDVyNDVCamU3SE4wWHo2Wm9UckhlaF8yeFdxbGhYd1RNcTBaRnlBNFhPUW4zV1RENndOMHZxYkkyc28tcEM?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMifEFVX3lxTE55eEJsNkpYYmVKU3ZDZ2dqVnY2ekVPaHpBVTlWbVFHSm14Ukp4VS0yQkxXcGlwTldwU1VTYlFwUDVyNDVCamU3SE4wWHo2Wm9UckhlaF8yeFdxbGhYd1RNcTBaRnlBNFhPUW4zV1RENndOMHZxYkkyc28tcEM?oc=5",
-      "publishedAt": "2026-05-16T15:30:02.000Z",
-      "source": "DroneXL.co",
-      "_feedRegion": "us",
-      "_feedName": "FAA",
-      "_scoring": {
-        "score": 62,
-        "categories": [
-          "規制・政策",
-          "市場・資金"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 1,
-            "catScore": 32
-          },
-          "market": {
-            "matches": 1,
-            "catScore": 20
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 10,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
     },
     {
       "title": "FAA Publishes Proposed Rule for Drone Restrictions Around Critical Infrastructure",
@@ -1067,49 +1068,13 @@
       }
     },
     {
-      "title": "US FAA unveils 'No Drone Zone' safety plan for FIFA World Cup 2026",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxQb3hlRmRodlFxbEFOUTB3SV9BenhTN0xRY1FjWjA1dGMxckYyZTNHbnhCZ0pzUmxxRU84SU0zYW5HVm8tWnFCVElhRUhpWmI5b1UwUDQ0N3IyZUZNZ0IwUU9UNlc4LUwyWmZFUVdGWWtXenkyY3hmdkhibTR3ZzZiYVY3VzM0VTBPQlFoT0lPeVUzRVlTcDlPYWdPNk1yWFphWE1lYnR4aDF0d0xJVXhiSW80eFg2LVRfWXBWc2Y2NWhERHhYNy1LMUZGeG1nUjNGNjhoazVKOE5PbDItd2ZRcUNxd2g?oc=5\" target=\"_blank\">US FAA unveils 'No Drone Zone' safety plan for FIFA World Cup 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dailyhunt</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxQb3hlRmRodlFxbEFOUTB3SV9BenhTN0xRY1FjWjA1dGMxckYyZTNHbnhCZ0pzUmxxRU84SU0zYW5HVm8tWnFCVElhRUhpWmI5b1UwUDQ0N3IyZUZNZ0IwUU9UNlc4LUwyWmZFUVdGWWtXenkyY3hmdkhibTR3ZzZiYVY3VzM0VTBPQlFoT0lPeVUzRVlTcDlPYWdPNk1yWFphWE1lYnR4aDF0d0xJVXhiSW80eFg2LVRfWXBWc2Y2NWhERHhYNy1LMUZGeG1nUjNGNjhoazVKOE5PbDItd2ZRcUNxd2g?oc=5\" target=\"_blank\">US FAA unveils 'No Drone Zone' safety plan for FIFA World Cup 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dailyhunt</font>",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQb3hlRmRodlFxbEFOUTB3SV9BenhTN0xRY1FjWjA1dGMxckYyZTNHbnhCZ0pzUmxxRU84SU0zYW5HVm8tWnFCVElhRUhpWmI5b1UwUDQ0N3IyZUZNZ0IwUU9UNlc4LUwyWmZFUVdGWWtXenkyY3hmdkhibTR3ZzZiYVY3VzM0VTBPQlFoT0lPeVUzRVlTcDlPYWdPNk1yWFphWE1lYnR4aDF0d0xJVXhiSW80eFg2LVRfWXBWc2Y2NWhERHhYNy1LMUZGeG1nUjNGNjhoazVKOE5PbDItd2ZRcUNxd2g?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQb3hlRmRodlFxbEFOUTB3SV9BenhTN0xRY1FjWjA1dGMxckYyZTNHbnhCZ0pzUmxxRU84SU0zYW5HVm8tWnFCVElhRUhpWmI5b1UwUDQ0N3IyZUZNZ0IwUU9UNlc4LUwyWmZFUVdGWWtXenkyY3hmdkhibTR3ZzZiYVY3VzM0VTBPQlFoT0lPeVUzRVlTcDlPYWdPNk1yWFphWE1lYnR4aDF0d0xJVXhiSW80eFg2LVRfWXBWc2Y2NWhERHhYNy1LMUZGeG1nUjNGNjhoazVKOE5PbDItd2ZRcUNxd2g?oc=5",
-      "publishedAt": "2026-05-03T18:59:17.000Z",
-      "source": "Dailyhunt",
-      "_feedRegion": "us",
-      "_feedName": "FAA",
-      "_scoring": {
-        "score": 58,
-        "categories": [
-          "規制・政策",
-          "事故・事件"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 1,
-            "catScore": 32
-          },
-          "incident": {
-            "matches": 1,
-            "catScore": 28
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 0,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "Could anti-drone systems wind up in DC-area airspace after FAA-Pentagon agreement?",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxPdVVtWFM4MGhWaGZOaXluN2FxOHg3Y3FPRFlfeFZ1WGdicktFWTVaQWlXVURHcExnajJTWGpaRTloWWlvMGl0eTJvaTczUVM2OW5KZU5COHBaLXZlUVVFVnhhYlEzSGpEaE1ob0Y5ZENjVEdITVlvY0FDNVZFVHdYWlpZb3k4S2FDdE5yaGhnNmUwTUROS2t1VnZyeE12SUFEQVN0cDVBQnVyY2duZTJid2VXNTJFSWFjclVRZGdUQUZrdzBjcjJNMDM5OG9nUXBMTXV6ZUZPYW9fYlBRZ3hXVGRnU3RWSDBmdjREc2dR?oc=5\" target=\"_blank\">Could anti-drone systems wind up in DC-area airspace after FAA-Pentagon agreement?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxPdVVtWFM4MGhWaGZOaXluN2FxOHg3Y3FPRFlfeFZ1WGdicktFWTVaQWlXVURHcExnajJTWGpaRTloWWlvMGl0eTJvaTczUVM2OW5KZU5COHBaLXZlUVVFVnhhYlEzSGpEaE1ob0Y5ZENjVEdITVlvY0FDNVZFVHdYWlpZb3k4S2FDdE5yaGhnNmUwTUROS2t1VnZyeE12SUFEQVN0cDVBQnVyY2duZTJid2VXNTJFSWFjclVRZGdUQUZrdzBjcjJNMDM5OG9nUXBMTXV6ZUZPYW9fYlBRZ3hXVGRnU3RWSDBmdjREc2dR?oc=5\" target=\"_blank\">Could anti-drone systems wind up in DC-area airspace after FAA-Pentagon agreement?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPdVVtWFM4MGhWaGZOaXluN2FxOHg3Y3FPRFlfeFZ1WGdicktFWTVaQWlXVURHcExnajJTWGpaRTloWWlvMGl0eTJvaTczUVM2OW5KZU5COHBaLXZlUVVFVnhhYlEzSGpEaE1ob0Y5ZENjVEdITVlvY0FDNVZFVHdYWlpZb3k4S2FDdE5yaGhnNmUwTUROS2t1VnZyeE12SUFEQVN0cDVBQnVyY2duZTJid2VXNTJFSWFjclVRZGdUQUZrdzBjcjJNMDM5OG9nUXBMTXV6ZUZPYW9fYlBRZ3hXVGRnU3RWSDBmdjREc2dR?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPdVVtWFM4MGhWaGZOaXluN2FxOHg3Y3FPRFlfeFZ1WGdicktFWTVaQWlXVURHcExnajJTWGpaRTloWWlvMGl0eTJvaTczUVM2OW5KZU5COHBaLXZlUVVFVnhhYlEzSGpEaE1ob0Y5ZENjVEdITVlvY0FDNVZFVHdYWlpZb3k4S2FDdE5yaGhnNmUwTUROS2t1VnZyeE12SUFEQVN0cDVBQnVyY2duZTJid2VXNTJFSWFjclVRZGdUQUZrdzBjcjJNMDM5OG9nUXBMTXV6ZUZPYW9fYlBRZ3hXVGRnU3RWSDBmdjREc2dR?oc=5",
-      "publishedAt": "2026-05-15T14:56:50.000Z",
-      "source": "MSN",
+      "title": "DSPA Urges FAA To Use Section 2209 NPRM To Preempt 25 State Drone Airspace Laws",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE55eEJsNkpYYmVKU3ZDZ2dqVnY2ekVPaHpBVTlWbVFHSm14Ukp4VS0yQkxXcGlwTldwU1VTYlFwUDVyNDVCamU3SE4wWHo2Wm9UckhlaF8yeFdxbGhYd1RNcTBaRnlBNFhPUW4zV1RENndOMHZxYkkyc28tcEM?oc=5\" target=\"_blank\">DSPA Urges FAA To Use Section 2209 NPRM To Preempt 25 State Drone Airspace Laws</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DroneXL.co</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE55eEJsNkpYYmVKU3ZDZ2dqVnY2ekVPaHpBVTlWbVFHSm14Ukp4VS0yQkxXcGlwTldwU1VTYlFwUDVyNDVCamU3SE4wWHo2Wm9UckhlaF8yeFdxbGhYd1RNcTBaRnlBNFhPUW4zV1RENndOMHZxYkkyc28tcEM?oc=5\" target=\"_blank\">DSPA Urges FAA To Use Section 2209 NPRM To Preempt 25 State Drone Airspace Laws</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DroneXL.co</font>",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE55eEJsNkpYYmVKU3ZDZ2dqVnY2ekVPaHpBVTlWbVFHSm14Ukp4VS0yQkxXcGlwTldwU1VTYlFwUDVyNDVCamU3SE4wWHo2Wm9UckhlaF8yeFdxbGhYd1RNcTBaRnlBNFhPUW4zV1RENndOMHZxYkkyc28tcEM?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMifEFVX3lxTE55eEJsNkpYYmVKU3ZDZ2dqVnY2ekVPaHpBVTlWbVFHSm14Ukp4VS0yQkxXcGlwTldwU1VTYlFwUDVyNDVCamU3SE4wWHo2Wm9UckhlaF8yeFdxbGhYd1RNcTBaRnlBNFhPUW4zV1RENndOMHZxYkkyc28tcEM?oc=5",
+      "publishedAt": "2026-05-16T15:30:02.000Z",
+      "source": "DroneXL.co",
       "_feedRegion": "us",
       "_feedName": "FAA",
       "_scoring": {
@@ -1133,6 +1098,42 @@
             "multiplier": 0.8
           },
           "freshness": 5,
+          "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "FAA Releases Long-Awaited NPRM for Drone Restrictions Around Critical Infrastructure",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQZ2EtR0FyMm03c3M0aktvTWRpZ3ZWdVRLTHVxdG9BZmV5dGotTTc4eDBwdDBhcG81czVrenVMbWcwUjdlUi1QVGhyT3dzWnV4X3RWdDJVd3ptcXM4VWg4bk9GbXV4d1VwM3U5MHpZZWppWG5RVlR3X2x3ME5yY2lrZTBGSGZYalE0T093bk44N1VfQndTUENn?oc=5\" target=\"_blank\">FAA Releases Long-Awaited NPRM for Drone Restrictions Around Critical Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Commercial UAV News</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQZ2EtR0FyMm03c3M0aktvTWRpZ3ZWdVRLTHVxdG9BZmV5dGotTTc4eDBwdDBhcG81czVrenVMbWcwUjdlUi1QVGhyT3dzWnV4X3RWdDJVd3ptcXM4VWg4bk9GbXV4d1VwM3U5MHpZZWppWG5RVlR3X2x3ME5yY2lrZTBGSGZYalE0T093bk44N1VfQndTUENn?oc=5\" target=\"_blank\">FAA Releases Long-Awaited NPRM for Drone Restrictions Around Critical Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Commercial UAV News</font>",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZ2EtR0FyMm03c3M0aktvTWRpZ3ZWdVRLTHVxdG9BZmV5dGotTTc4eDBwdDBhcG81czVrenVMbWcwUjdlUi1QVGhyT3dzWnV4X3RWdDJVd3ptcXM4VWg4bk9GbXV4d1VwM3U5MHpZZWppWG5RVlR3X2x3ME5yY2lrZTBGSGZYalE0T093bk44N1VfQndTUENn?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZ2EtR0FyMm03c3M0aktvTWRpZ3ZWdVRLTHVxdG9BZmV5dGotTTc4eDBwdDBhcG81czVrenVMbWcwUjdlUi1QVGhyT3dzWnV4X3RWdDJVd3ptcXM4VWg4bk9GbXV4d1VwM3U5MHpZZWppWG5RVlR3X2x3ME5yY2lrZTBGSGZYalE0T093bk44N1VfQndTUENn?oc=5",
+      "publishedAt": "2026-05-06T16:04:09.000Z",
+      "source": "Commercial UAV News",
+      "_feedRegion": "us",
+      "_feedName": "FAA",
+      "_scoring": {
+        "score": 55,
+        "categories": [
+          "規制・政策",
+          "政策・インフラ"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
+          "policy": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 0,
           "titleBonus": 10
         },
         "pass": true
