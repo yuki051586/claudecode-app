@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-20T16:29:07.348Z",
-  "rawCount": 723,
+  "generatedAt": "2026-05-20T19:29:53.409Z",
+  "rawCount": 672,
   "articles": [
     {
       "title": "FAA expands drone oversight and operational access for public safety agencies",
@@ -91,6 +91,43 @@
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA1ZEV5Y1hfMDBrdXFlc1hrSElGQ2pTLW1RTndvLWI1dUZORWNNUjBpT2ZpSjlsUEhWU2VPVXlCWXNNMnJoR2pQMmJJQUxkZW1lU3BjM2ZnSzR6MDNsbUJVR1N0YkR2MHVqUmc?oc=5",
       "googleNewsUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA1ZEV5Y1hfMDBrdXFlc1hrSElGQ2pTLW1RTndvLWI1dUZORWNNUjBpT2ZpSjlsUEhWU2VPVXlCWXNNMnJoR2pQMmJJQUxkZW1lU3BjM2ZnSzR6MDNsbUJVR1N0YkR2MHVqUmc?oc=5",
       "publishedAt": "2026-05-20T07:45:00.000Z",
+      "source": "日本経済新聞",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP 経済メディア)",
+      "_scoring": {
+        "score": 82,
+        "categories": [
+          "事故・事件",
+          "政策・インフラ"
+        ],
+        "breakdown": {
+          "required": true,
+          "incident": {
+            "matches": 1,
+            "catScore": 28
+          },
+          "policy": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 15,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "2026 年 5 月 20 日 各 位 インフラ点検調査用水中ドローン「FF2」販売開始のお知らせ 株式会社 NJS",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOY2ZrZ05Xc1JwdXFTX1ZfUVVtLTBWcTktZlRBSklPbDhVSVVXeldKN05DbXk2VF83TGZBWHotc3dSX2VWV2d3RFl1a2Nkek8tYnBYRi0xRnlsYzRIcHkza3BIallHM0Q3dVZTX09MZ2VSRy1BVEFrcTNyNEF4WXE4cFNNbThxTWdHaEpJc09NYkZUYVNoSzZXaFhFNnc?oc=5\" target=\"_blank\">2026 年 5 月 20 日 各 位 インフラ点検調査用水中ドローン「FF2」販売開始のお知らせ 株式会社 NJS</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOY2ZrZ05Xc1JwdXFTX1ZfUVVtLTBWcTktZlRBSklPbDhVSVVXeldKN05DbXk2VF83TGZBWHotc3dSX2VWV2d3RFl1a2Nkek8tYnBYRi0xRnlsYzRIcHkza3BIallHM0Q3dVZTX09MZ2VSRy1BVEFrcTNyNEF4WXE4cFNNbThxTWdHaEpJc09NYkZUYVNoSzZXaFhFNnc?oc=5\" target=\"_blank\">2026 年 5 月 20 日 各 位 インフラ点検調査用水中ドローン「FF2」販売開始のお知らせ 株式会社 NJS</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOY2ZrZ05Xc1JwdXFTX1ZfUVVtLTBWcTktZlRBSklPbDhVSVVXeldKN05DbXk2VF83TGZBWHotc3dSX2VWV2d3RFl1a2Nkek8tYnBYRi0xRnlsYzRIcHkza3BIallHM0Q3dVZTX09MZ2VSRy1BVEFrcTNyNEF4WXE4cFNNbThxTWdHaEpJc09NYkZUYVNoSzZXaFhFNnc?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOY2ZrZ05Xc1JwdXFTX1ZfUVVtLTBWcTktZlRBSklPbDhVSVVXeldKN05DbXk2VF83TGZBWHotc3dSX2VWV2d3RFl1a2Nkek8tYnBYRi0xRnlsYzRIcHkza3BIallHM0Q3dVZTX09MZ2VSRy1BVEFrcTNyNEF4WXE4cFNNbThxTWdHaEpJc09NYkZUYVNoSzZXaFhFNnc?oc=5",
+      "publishedAt": "2026-05-20T08:45:22.000Z",
       "source": "日本経済新聞",
       "_feedRegion": "jp",
       "_feedName": "Google News (JP 経済メディア)",
@@ -652,38 +689,6 @@
       }
     },
     {
-      "title": "リトアニア、ドローン侵犯警報で住民避難 空港・鉄道が一時停止",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQcUdsMmF1d3BxLUVKbmh2S1lUQ1UwZ1NSU3J3cll0N09zOU1kTnRhN0ZINnM2VWpnbHVsTjN4WEswMjhxY0JSenZyV3J6T0YyZXJfZ0M4LTNDVjgxVmt1eWxnX19xaVZ4dGNzZzM2MXI0S2FzWUhuNnlhZFZKM3pFNQ?oc=5\" target=\"_blank\">リトアニア、ドローン侵犯警報で住民避難 空港・鉄道が一時停止</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQcUdsMmF1d3BxLUVKbmh2S1lUQ1UwZ1NSU3J3cll0N09zOU1kTnRhN0ZINnM2VWpnbHVsTjN4WEswMjhxY0JSenZyV3J6T0YyZXJfZ0M4LTNDVjgxVmt1eWxnX19xaVZ4dGNzZzM2MXI0S2FzWUhuNnlhZFZKM3pFNQ?oc=5\" target=\"_blank\">リトアニア、ドローン侵犯警報で住民避難 空港・鉄道が一時停止</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcUdsMmF1d3BxLUVKbmh2S1lUQ1UwZ1NSU3J3cll0N09zOU1kTnRhN0ZINnM2VWpnbHVsTjN4WEswMjhxY0JSenZyV3J6T0YyZXJfZ0M4LTNDVjgxVmt1eWxnX19xaVZ4dGNzZzM2MXI0S2FzWUhuNnlhZFZKM3pFNQ?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcUdsMmF1d3BxLUVKbmh2S1lUQ1UwZ1NSU3J3cll0N09zOU1kTnRhN0ZINnM2VWpnbHVsTjN4WEswMjhxY0JSenZyV3J6T0YyZXJfZ0M4LTNDVjgxVmt1eWxnX19xaVZ4dGNzZzM2MXI0S2FzWUhuNnlhZFZKM3pFNQ?oc=5",
-      "publishedAt": "2026-05-20T14:57:21.000Z",
-      "source": "Reuters",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP)",
-      "_scoring": {
-        "score": 64,
-        "categories": [
-          "政策・インフラ"
-        ],
-        "breakdown": {
-          "required": true,
-          "policy": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 20,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
       "title": "Prodroneが資金調達、名大連携でドローン開発強化 - logi-today.com",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE1RTlFGVjNncm9fNHBfa0lSdzRlWS1NaXhnZk1XUVBYeWN4eFdoS3QyTE9rMkROWkFkdHJReFZfN0hwamhaWGtETA?oc=5\" target=\"_blank\">Prodroneが資金調達、名大連携でドローン開発強化</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">logi-today.com</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE1RTlFGVjNncm9fNHBfa0lSdzRlWS1NaXhnZk1XUVBYeWN4eFdoS3QyTE9rMkROWkFkdHJReFZfN0hwamhaWGtETA?oc=5\" target=\"_blank\">Prodroneが資金調達、名大連携でドローン開発強化</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">logi-today.com</font>",
@@ -721,41 +726,6 @@
       },
       "implication": "Prodroneが名古屋大学との連携で産業用ドローン開発を強化することは、JCAB審査対象の大型自動操縦機体の型式認証取得競争を加速させ、テラドローンやACSLといった既認証事業者との機能差別化圧力を高める。",
       "implicationVerified": true
-    },
-    {
-      "title": "EASA and Eurocontrol outline electronic conspicuity use cases to integrate crewed and uncrewed traffic",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxON2dIRVh4bVRrN1dfM2VBYnpHYWpTN1lwQzRaUzBmMU5zdTJjMF9nbTdMdTJJUVNMcEJuT0lZWkdhTjVkU1dXMXFjQnlrN19uc1VDY3l4OGw4dm5fWmpRamFNb2NwZE9nYmdPcmpCQlNyVlJfaHhtUm0zajdKN3FXNGktWnFuRWM2Si05VlJtWXlnRXdpX1NDbW51dEJzWDRsV1RtM3I5WTUwZWo4Rm1BVVhsd2pLTnVuUVlEWk9jdTN2WG01MHZMaTRPSmNnSFN1czMyaWJ1SnVoaVZBZDZRRFVzc3liUQ?oc=5\" target=\"_blank\">EASA and Eurocontrol outline electronic conspicuity use cases to integrate crewed and uncrewed traffic</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxON2dIRVh4bVRrN1dfM2VBYnpHYWpTN1lwQzRaUzBmMU5zdTJjMF9nbTdMdTJJUVNMcEJuT0lZWkdhTjVkU1dXMXFjQnlrN19uc1VDY3l4OGw4dm5fWmpRamFNb2NwZE9nYmdPcmpCQlNyVlJfaHhtUm0zajdKN3FXNGktWnFuRWM2Si05VlJtWXlnRXdpX1NDbW51dEJzWDRsV1RtM3I5WTUwZWo4Rm1BVVhsd2pLTnVuUVlEWk9jdTN2WG01MHZMaTRPSmNnSFN1czMyaWJ1SnVoaVZBZDZRRFVzc3liUQ?oc=5\" target=\"_blank\">EASA and Eurocontrol outline electronic conspicuity use cases to integrate crewed and uncrewed traffic</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxON2dIRVh4bVRrN1dfM2VBYnpHYWpTN1lwQzRaUzBmMU5zdTJjMF9nbTdMdTJJUVNMcEJuT0lZWkdhTjVkU1dXMXFjQnlrN19uc1VDY3l4OGw4dm5fWmpRamFNb2NwZE9nYmdPcmpCQlNyVlJfaHhtUm0zajdKN3FXNGktWnFuRWM2Si05VlJtWXlnRXdpX1NDbW51dEJzWDRsV1RtM3I5WTUwZWo4Rm1BVVhsd2pLTnVuUVlEWk9jdTN2WG01MHZMaTRPSmNnSFN1czMyaWJ1SnVoaVZBZDZRRFVzc3liUQ?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxON2dIRVh4bVRrN1dfM2VBYnpHYWpTN1lwQzRaUzBmMU5zdTJjMF9nbTdMdTJJUVNMcEJuT0lZWkdhTjVkU1dXMXFjQnlrN19uc1VDY3l4OGw4dm5fWmpRamFNb2NwZE9nYmdPcmpCQlNyVlJfaHhtUm0zajdKN3FXNGktWnFuRWM2Si05VlJtWXlnRXdpX1NDbW51dEJzWDRsV1RtM3I5WTUwZWo4Rm1BVVhsd2pLTnVuUVlEWk9jdTN2WG01MHZMaTRPSmNnSFN1czMyaWJ1SnVoaVZBZDZRRFVzc3liUQ?oc=5",
-      "publishedAt": "2026-05-20T16:20:24.000Z",
-      "source": "Unmanned airspace",
-      "_feedRegion": "eu",
-      "_feedName": "EASA",
-      "_scoring": {
-        "score": 62,
-        "categories": [
-          "規制・政策",
-          "市場・資金"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 1,
-            "catScore": 32
-          },
-          "market": {
-            "matches": 1,
-            "catScore": 20
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 20
-        },
-        "pass": true
-      }
     },
     {
       "title": "No-Fly Zones for Drones: FAA Proposes New Rules Over Critical Infrastructure",
@@ -905,23 +875,23 @@
       "implicationVerified": true
     },
     {
-      "title": "ドローンを活用した大型船舶からの物資輸送の実証実験を神戸港で実施",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE9IZ2ZmRmdMc3pEMGxFUVpDMzBvVkhCU085N3pXZC1yQ19rRkI0WkxiVllQYUpHWVNFd19BYTh2VWJWdG1ZYU1iRGZEenB2NmJ6NnVyOVY4anBGZkVY?oc=5\" target=\"_blank\">ドローンを活用した大型船舶からの物資輸送の実証実験を神戸港で実施</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ソフトバンク</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE9IZ2ZmRmdMc3pEMGxFUVpDMzBvVkhCU085N3pXZC1yQ19rRkI0WkxiVllQYUpHWVNFd19BYTh2VWJWdG1ZYU1iRGZEenB2NmJ6NnVyOVY4anBGZkVY?oc=5\" target=\"_blank\">ドローンを活用した大型船舶からの物資輸送の実証実験を神戸港で実施</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ソフトバンク</font>",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9IZ2ZmRmdMc3pEMGxFUVpDMzBvVkhCU085N3pXZC1yQ19rRkI0WkxiVllQYUpHWVNFd19BYTh2VWJWdG1ZYU1iRGZEenB2NmJ6NnVyOVY4anBGZkVY?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9IZ2ZmRmdMc3pEMGxFUVpDMzBvVkhCU085N3pXZC1yQ19rRkI0WkxiVllQYUpHWVNFd19BYTh2VWJWdG1ZYU1iRGZEenB2NmJ6NnVyOVY4anBGZkVY?oc=5",
-      "publishedAt": "2026-05-20T06:58:59.000Z",
-      "source": "ソフトバンク",
+      "title": "リトアニア、ドローン侵犯警報で住民避難 空港・鉄道が一時停止",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQcUdsMmF1d3BxLUVKbmh2S1lUQ1UwZ1NSU3J3cll0N09zOU1kTnRhN0ZINnM2VWpnbHVsTjN4WEswMjhxY0JSenZyV3J6T0YyZXJfZ0M4LTNDVjgxVmt1eWxnX19xaVZ4dGNzZzM2MXI0S2FzWUhuNnlhZFZKM3pFNQ?oc=5\" target=\"_blank\">リトアニア、ドローン侵犯警報で住民避難 空港・鉄道が一時停止</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQcUdsMmF1d3BxLUVKbmh2S1lUQ1UwZ1NSU3J3cll0N09zOU1kTnRhN0ZINnM2VWpnbHVsTjN4WEswMjhxY0JSenZyV3J6T0YyZXJfZ0M4LTNDVjgxVmt1eWxnX19xaVZ4dGNzZzM2MXI0S2FzWUhuNnlhZFZKM3pFNQ?oc=5\" target=\"_blank\">リトアニア、ドローン侵犯警報で住民避難 空港・鉄道が一時停止</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcUdsMmF1d3BxLUVKbmh2S1lUQ1UwZ1NSU3J3cll0N09zOU1kTnRhN0ZINnM2VWpnbHVsTjN4WEswMjhxY0JSenZyV3J6T0YyZXJfZ0M4LTNDVjgxVmt1eWxnX19xaVZ4dGNzZzM2MXI0S2FzWUhuNnlhZFZKM3pFNQ?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcUdsMmF1d3BxLUVKbmh2S1lUQ1UwZ1NSU3J3cll0N09zOU1kTnRhN0ZINnM2VWpnbHVsTjN4WEswMjhxY0JSenZyV3J6T0YyZXJfZ0M4LTNDVjgxVmt1eWxnX19xaVZ4dGNzZzM2MXI0S2FzWUhuNnlhZFZKM3pFNQ?oc=5",
+      "publishedAt": "2026-05-20T14:57:21.000Z",
+      "source": "Reuters",
       "_feedRegion": "jp",
       "_feedName": "Google News (JP)",
       "_scoring": {
         "score": 59,
         "categories": [
-          "技術・製品"
+          "政策・インフラ"
         ],
         "breakdown": {
           "required": true,
-          "technology": {
+          "policy": {
             "matches": 1,
             "catScore": 24
           },
@@ -1064,6 +1034,41 @@
           },
           "freshness": 0,
           "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "EASA and Eurocontrol outline electronic conspicuity use cases to integrate crewed and uncrewed traffic",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxON2dIRVh4bVRrN1dfM2VBYnpHYWpTN1lwQzRaUzBmMU5zdTJjMF9nbTdMdTJJUVNMcEJuT0lZWkdhTjVkU1dXMXFjQnlrN19uc1VDY3l4OGw4dm5fWmpRamFNb2NwZE9nYmdPcmpCQlNyVlJfaHhtUm0zajdKN3FXNGktWnFuRWM2Si05VlJtWXlnRXdpX1NDbW51dEJzWDRsV1RtM3I5WTUwZWo4Rm1BVVhsd2pLTnVuUVlEWk9jdTN2WG01MHZMaTRPSmNnSFN1czMyaWJ1SnVoaVZBZDZRRFVzc3liUQ?oc=5\" target=\"_blank\">EASA and Eurocontrol outline electronic conspicuity use cases to integrate crewed and uncrewed traffic</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxON2dIRVh4bVRrN1dfM2VBYnpHYWpTN1lwQzRaUzBmMU5zdTJjMF9nbTdMdTJJUVNMcEJuT0lZWkdhTjVkU1dXMXFjQnlrN19uc1VDY3l4OGw4dm5fWmpRamFNb2NwZE9nYmdPcmpCQlNyVlJfaHhtUm0zajdKN3FXNGktWnFuRWM2Si05VlJtWXlnRXdpX1NDbW51dEJzWDRsV1RtM3I5WTUwZWo4Rm1BVVhsd2pLTnVuUVlEWk9jdTN2WG01MHZMaTRPSmNnSFN1czMyaWJ1SnVoaVZBZDZRRFVzc3liUQ?oc=5\" target=\"_blank\">EASA and Eurocontrol outline electronic conspicuity use cases to integrate crewed and uncrewed traffic</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxON2dIRVh4bVRrN1dfM2VBYnpHYWpTN1lwQzRaUzBmMU5zdTJjMF9nbTdMdTJJUVNMcEJuT0lZWkdhTjVkU1dXMXFjQnlrN19uc1VDY3l4OGw4dm5fWmpRamFNb2NwZE9nYmdPcmpCQlNyVlJfaHhtUm0zajdKN3FXNGktWnFuRWM2Si05VlJtWXlnRXdpX1NDbW51dEJzWDRsV1RtM3I5WTUwZWo4Rm1BVVhsd2pLTnVuUVlEWk9jdTN2WG01MHZMaTRPSmNnSFN1czMyaWJ1SnVoaVZBZDZRRFVzc3liUQ?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxON2dIRVh4bVRrN1dfM2VBYnpHYWpTN1lwQzRaUzBmMU5zdTJjMF9nbTdMdTJJUVNMcEJuT0lZWkdhTjVkU1dXMXFjQnlrN19uc1VDY3l4OGw4dm5fWmpRamFNb2NwZE9nYmdPcmpCQlNyVlJfaHhtUm0zajdKN3FXNGktWnFuRWM2Si05VlJtWXlnRXdpX1NDbW51dEJzWDRsV1RtM3I5WTUwZWo4Rm1BVVhsd2pLTnVuUVlEWk9jdTN2WG01MHZMaTRPSmNnSFN1czMyaWJ1SnVoaVZBZDZRRFVzc3liUQ?oc=5",
+      "publishedAt": "2026-05-20T16:20:24.000Z",
+      "source": "Unmanned airspace",
+      "_feedRegion": "eu",
+      "_feedName": "EASA",
+      "_scoring": {
+        "score": 57,
+        "categories": [
+          "規制・政策",
+          "市場・資金"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
+          "market": {
+            "matches": 1,
+            "catScore": 20
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 15
         },
         "pass": true
       }
