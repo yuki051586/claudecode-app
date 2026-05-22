@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-22T17:11:38.010Z",
-  "rawCount": 685,
+  "generatedAt": "2026-05-22T19:54:55.565Z",
+  "rawCount": 726,
   "articles": [
     {
       "title": "Choctaw ROTC's aerospace program produces 5 FAA-certified drone pilots, 15 safety certifications in breakout year",
@@ -802,6 +802,42 @@
       }
     },
     {
+      "title": "Connecticut Amazon Drone Delivery Awaits FAA Approval",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPb29RZHlBNGhqdTRsUXRxRWtENGt0dU1WbnQxSDAxdjBMRDU5elJfZzRSWjl2ZmpzNmwtbEctTi1rMl80cjBZRDNwemZqZFZGcTBCS2JId2oyNERmZmx2Zi1ISFBpWTJSY19wamtIcVh4azZoM2ZJQzFvZmQ3M20xUTEwdmo0bTJSS2t2STg1OA?oc=5\" target=\"_blank\">Connecticut Amazon Drone Delivery Awaits FAA Approval</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">govtech.com</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPb29RZHlBNGhqdTRsUXRxRWtENGt0dU1WbnQxSDAxdjBMRDU5elJfZzRSWjl2ZmpzNmwtbEctTi1rMl80cjBZRDNwemZqZFZGcTBCS2JId2oyNERmZmx2Zi1ISFBpWTJSY19wamtIcVh4azZoM2ZJQzFvZmQ3M20xUTEwdmo0bTJSS2t2STg1OA?oc=5\" target=\"_blank\">Connecticut Amazon Drone Delivery Awaits FAA Approval</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">govtech.com</font>",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPb29RZHlBNGhqdTRsUXRxRWtENGt0dU1WbnQxSDAxdjBMRDU5elJfZzRSWjl2ZmpzNmwtbEctTi1rMl80cjBZRDNwemZqZFZGcTBCS2JId2oyNERmZmx2Zi1ISFBpWTJSY19wamtIcVh4azZoM2ZJQzFvZmQ3M20xUTEwdmo0bTJSS2t2STg1OA?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPb29RZHlBNGhqdTRsUXRxRWtENGt0dU1WbnQxSDAxdjBMRDU5elJfZzRSWjl2ZmpzNmwtbEctTi1rMl80cjBZRDNwemZqZFZGcTBCS2JId2oyNERmZmx2Zi1ISFBpWTJSY19wamtIcVh4azZoM2ZJQzFvZmQ3M20xUTEwdmo0bTJSS2t2STg1OA?oc=5",
+      "publishedAt": "2026-05-19T21:45:24.000Z",
+      "source": "govtech.com",
+      "_feedRegion": "us",
+      "_feedName": "FAA",
+      "_scoring": {
+        "score": 57,
+        "categories": [
+          "規制・政策",
+          "政策・インフラ"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
+          "policy": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 2,
+          "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
       "title": "Joby Aviation Nears Air Taxi Launch As FAA Progress Meets Partner Plans",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxObDl6Nm0yS2J0bnZTMnpISTluQzRETnJMQkNrUkhCSTVqNkFtQlpRbUt1a28tNWt4SGNZcFNzUmhyX2dGNzFXd2Z5aWVrMWpPUEw2ZlhiRjRCY2RjdnBVMDRTVDRKNnJKVjhZVWpYNVYzYk5KZnNjNVpKbU5najJzVnF0N2ZRbGdkd1NKQWZFdXZ4ZGpuMEdmNw?oc=5\" target=\"_blank\">Joby Aviation Nears Air Taxi Launch As FAA Progress Meets Partner Plans</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxObDl6Nm0yS2J0bnZTMnpISTluQzRETnJMQkNrUkhCSTVqNkFtQlpRbUt1a28tNWt4SGNZcFNzUmhyX2dGNzFXd2Z5aWVrMWpPUEw2ZlhiRjRCY2RjdnBVMDRTVDRKNnJKVjhZVWpYNVYzYk5KZnNjNVpKbU5najJzVnF0N2ZRbGdkd1NKQWZFdXZ4ZGpuMEdmNw?oc=5\" target=\"_blank\">Joby Aviation Nears Air Taxi Launch As FAA Progress Meets Partner Plans</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
@@ -904,42 +940,6 @@
             "multiplier": 0.8
           },
           "freshness": 15
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "Amazon drone delivery is coming to Connecticut, if FAA signs off",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPeThBalZwWWQ4SFJReWxHN0ZCOXpqc21XckJ6eFJqZk5CVEpOTU15MHVndWk2U0dyVVZuXzU5Y3BBN0NkaWpBNWg1M2hnazg1RlFJdmdzNFB1UzJJVjNSYTduSjZBeVJGVTBYSWlZSUplczA5S3FKZ3BHUkVYV2JOQmlXUURha0ZqUDlUYlV1UXM4ay0taml4eGUzV1I?oc=5\" target=\"_blank\">Amazon drone delivery is coming to Connecticut, if FAA signs off</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CT Insider</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPeThBalZwWWQ4SFJReWxHN0ZCOXpqc21XckJ6eFJqZk5CVEpOTU15MHVndWk2U0dyVVZuXzU5Y3BBN0NkaWpBNWg1M2hnazg1RlFJdmdzNFB1UzJJVjNSYTduSjZBeVJGVTBYSWlZSUplczA5S3FKZ3BHUkVYV2JOQmlXUURha0ZqUDlUYlV1UXM4ay0taml4eGUzV1I?oc=5\" target=\"_blank\">Amazon drone delivery is coming to Connecticut, if FAA signs off</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CT Insider</font>",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPeThBalZwWWQ4SFJReWxHN0ZCOXpqc21XckJ6eFJqZk5CVEpOTU15MHVndWk2U0dyVVZuXzU5Y3BBN0NkaWpBNWg1M2hnazg1RlFJdmdzNFB1UzJJVjNSYTduSjZBeVJGVTBYSWlZSUplczA5S3FKZ3BHUkVYV2JOQmlXUURha0ZqUDlUYlV1UXM4ay0taml4eGUzV1I?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPeThBalZwWWQ4SFJReWxHN0ZCOXpqc21XckJ6eFJqZk5CVEpOTU15MHVndWk2U0dyVVZuXzU5Y3BBN0NkaWpBNWg1M2hnazg1RlFJdmdzNFB1UzJJVjNSYTduSjZBeVJGVTBYSWlZSUplczA5S3FKZ3BHUkVYV2JOQmlXUURha0ZqUDlUYlV1UXM4ay0taml4eGUzV1I?oc=5",
-      "publishedAt": "2026-05-18T19:35:39.000Z",
-      "source": "CT Insider",
-      "_feedRegion": "us",
-      "_feedName": "FAA",
-      "_scoring": {
-        "score": 55,
-        "categories": [
-          "規制・政策",
-          "政策・インフラ"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 1,
-            "catScore": 32
-          },
-          "policy": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 0,
-          "titleBonus": 10
         },
         "pass": true
       }
