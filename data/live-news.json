@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-24T18:00:45.286Z",
-  "rawCount": 635,
+  "generatedAt": "2026-05-24T20:10:00.688Z",
+  "rawCount": 638,
   "articles": [
     {
       "title": "Choctaw ROTC's aerospace program produces 5 FAA-certified drone pilots, 15 safety certifications in breakout year",
@@ -191,6 +191,43 @@
           "policy": {
             "matches": 2,
             "catScore": 30
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 0,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "北京で「史上最も厳しい」ドローン規制が開始 政府側は「死刑」にまで言及 背景にイランの戦闘も",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE4ya3pfamhHbUtMVjdIN0RiQVFhSURMVkxxT3ZaYkV3YjBzX094YjY1SXltZlkyS05YdEZqRVlPLURqRXk2bDlLaWhvcFRLZVYxazJn?oc=5\" target=\"_blank\">北京で「史上最も厳しい」ドローン規制が開始 政府側は「死刑」にまで言及 背景にイランの戦闘も</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">東京新聞デジタル</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE4ya3pfamhHbUtMVjdIN0RiQVFhSURMVkxxT3ZaYkV3YjBzX094YjY1SXltZlkyS05YdEZqRVlPLURqRXk2bDlLaWhvcFRLZVYxazJn?oc=5\" target=\"_blank\">北京で「史上最も厳しい」ドローン規制が開始 政府側は「死刑」にまで言及 背景にイランの戦闘も</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">東京新聞デジタル</font>",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4ya3pfamhHbUtMVjdIN0RiQVFhSURMVkxxT3ZaYkV3YjBzX094YjY1SXltZlkyS05YdEZqRVlPLURqRXk2bDlLaWhvcFRLZVYxazJn?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4ya3pfamhHbUtMVjdIN0RiQVFhSURMVkxxT3ZaYkV3YjBzX094YjY1SXltZlkyS05YdEZqRVlPLURqRXk2bDlLaWhvcFRLZVYxazJn?oc=5",
+      "publishedAt": "2026-05-14T07:00:00.000Z",
+      "source": "東京新聞デジタル",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP)",
+      "_scoring": {
+        "score": 70,
+        "categories": [
+          "規制・政策",
+          "技術・製品"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
+          "technology": {
+            "matches": 1,
+            "catScore": 24
           },
           "sourceTrust": {
             "domain": "news.google.com",
@@ -620,6 +657,43 @@
       "implicationVerified": true
     },
     {
+      "title": "テラドローン、防衛装備庁向け国産UAV300式を受注 契約額は1億1543万4000円",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE1sLXdKNlJIcU1kWkhidGNIM3NfSG9nTXoyTzNpTnJhOU03ZmRUbTlDODVVWmlya1o5UVlzOGM3N0RyR2VtRFN6aFlQT0d1TjcwM3hqMS00V0pwM0E?oc=5\" target=\"_blank\">テラドローン、防衛装備庁向け国産UAV300式を受注 契約額は1億1543万4000円</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DRONE.jp</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE1sLXdKNlJIcU1kWkhidGNIM3NfSG9nTXoyTzNpTnJhOU03ZmRUbTlDODVVWmlya1o5UVlzOGM3N0RyR2VtRFN6aFlQT0d1TjcwM3hqMS00V0pwM0E?oc=5\" target=\"_blank\">テラドローン、防衛装備庁向け国産UAV300式を受注 契約額は1億1543万4000円</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DRONE.jp</font>",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1sLXdKNlJIcU1kWkhidGNIM3NfSG9nTXoyTzNpTnJhOU03ZmRUbTlDODVVWmlya1o5UVlzOGM3N0RyR2VtRFN6aFlQT0d1TjcwM3hqMS00V0pwM0E?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1sLXdKNlJIcU1kWkhidGNIM3NfSG9nTXoyTzNpTnJhOU03ZmRUbTlDODVVWmlya1o5UVlzOGM3N0RyR2VtRFN6aFlQT0d1TjcwM3hqMS00V0pwM0E?oc=5",
+      "publishedAt": "2026-05-11T08:25:51.000Z",
+      "source": "DRONE.jp",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP ドローン専門)",
+      "_scoring": {
+        "score": 60,
+        "categories": [
+          "市場・資金",
+          "政策・インフラ"
+        ],
+        "breakdown": {
+          "required": true,
+          "market": {
+            "matches": 1,
+            "catScore": 20
+          },
+          "policy": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 0,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
       "title": "Drone Test Stand Market Growth Forecast to 2035 Amid Rising Drone Safety Regulations - News and Statistics",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZU1ITmwtMnJWWTBaXy1qNEhadThZVjN5b1dvU0Q4b3RubU5YOHhha3MtWVNYaVhkb0hjTk1zY0xGSG9zdFZGT0R4QWlKRWhrSVBnSVczeHk4dGhpVTZ6ZlZMTEVrMl9EWU9la3o4STlQS2FXNTZZQm1Zdll6QTRtX25QNmFQT01nSUVLVl9BS1JSTi14Qld5MWtoaHdkZHNnbHQ3SUcyTVdJTlVfdFcwUTJyN0JaYm8wTi1Xa21NenI0clluMzBPZUJJU2o0OXRo?oc=5\" target=\"_blank\">Drone Test Stand Market Growth Forecast to 2035 Amid Rising Drone Safety Regulations - News and Statistics</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IndexBox</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZU1ITmwtMnJWWTBaXy1qNEhadThZVjN5b1dvU0Q4b3RubU5YOHhha3MtWVNYaVhkb0hjTk1zY0xGSG9zdFZGT0R4QWlKRWhrSVBnSVczeHk4dGhpVTZ6ZlZMTEVrMl9EWU9la3o4STlQS2FXNTZZQm1Zdll6QTRtX25QNmFQT01nSUVLVl9BS1JSTi14Qld5MWtoaHdkZHNnbHQ3SUcyTVdJTlVfdFcwUTJyN0JaYm8wTi1Xa21NenI0clluMzBPZUJJU2o0OXRo?oc=5\" target=\"_blank\">Drone Test Stand Market Growth Forecast to 2035 Amid Rising Drone Safety Regulations - News and Statistics</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IndexBox</font>",
@@ -758,78 +832,6 @@
             "multiplier": 0.8
           },
           "freshness": 0,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "Air taxi takes off: Archer Aviation stock soars 13% on major FAA milestone, 2026 launch optimism",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxNclMybzE1LXVqc2hKbU1qSmZzTU1ZSTZKZVJOdTRid3Nna2szT0hDaWU5ZUJGR05DRmhDN3V4SWthUGFRbVNOYU5BTWwtZVlxR29ndV9hTU1YUXBkdEROYkRtVlhMUVd5MkFkckdVVTBLeWU4dklPN3FUc3c3ZVhhc1dlX3RPUXltSlV1VHQxNi1QVUU5VGYzOUJkRE94UmFPc0hxTk5YR09udG51S2hUeGlQNTM5TVNpeXEwd3Rnb2toV000Vi1kTEhhZ2NqS1BMSTNfUFRiYjcwcm03?oc=5\" target=\"_blank\">Air taxi takes off: Archer Aviation stock soars 13% on major FAA milestone, 2026 launch optimism</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Gulf News</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxNclMybzE1LXVqc2hKbU1qSmZzTU1ZSTZKZVJOdTRid3Nna2szT0hDaWU5ZUJGR05DRmhDN3V4SWthUGFRbVNOYU5BTWwtZVlxR29ndV9hTU1YUXBkdEROYkRtVlhMUVd5MkFkckdVVTBLeWU4dklPN3FUc3c3ZVhhc1dlX3RPUXltSlV1VHQxNi1QVUU5VGYzOUJkRE94UmFPc0hxTk5YR09udG51S2hUeGlQNTM5TVNpeXEwd3Rnb2toV000Vi1kTEhhZ2NqS1BMSTNfUFRiYjcwcm03?oc=5\" target=\"_blank\">Air taxi takes off: Archer Aviation stock soars 13% on major FAA milestone, 2026 launch optimism</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Gulf News</font>",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNclMybzE1LXVqc2hKbU1qSmZzTU1ZSTZKZVJOdTRid3Nna2szT0hDaWU5ZUJGR05DRmhDN3V4SWthUGFRbVNOYU5BTWwtZVlxR29ndV9hTU1YUXBkdEROYkRtVlhMUVd5MkFkckdVVTBLeWU4dklPN3FUc3c3ZVhhc1dlX3RPUXltSlV1VHQxNi1QVUU5VGYzOUJkRE94UmFPc0hxTk5YR09udG51S2hUeGlQNTM5TVNpeXEwd3Rnb2toV000Vi1kTEhhZ2NqS1BMSTNfUFRiYjcwcm03?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNclMybzE1LXVqc2hKbU1qSmZzTU1ZSTZKZVJOdTRid3Nna2szT0hDaWU5ZUJGR05DRmhDN3V4SWthUGFRbVNOYU5BTWwtZVlxR29ndV9hTU1YUXBkdEROYkRtVlhMUVd5MkFkckdVVTBLeWU4dklPN3FUc3c3ZVhhc1dlX3RPUXltSlV1VHQxNi1QVUU5VGYzOUJkRE94UmFPc0hxTk5YR09udG51S2hUeGlQNTM5TVNpeXEwd3Rnb2toV000Vi1kTEhhZ2NqS1BMSTNfUFRiYjcwcm03?oc=5",
-      "publishedAt": "2026-05-13T07:00:00.000Z",
-      "source": "Gulf News",
-      "_feedRegion": "us",
-      "_feedName": "FAA",
-      "_scoring": {
-        "score": 55,
-        "categories": [
-          "規制・政策",
-          "技術・製品"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 1,
-            "catScore": 32
-          },
-          "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 0,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "Kazakhstan Eyes Air Taxi Future with Six Vertiports Planned by 2028",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQWFkZDJRbDU1Y0dHRW5zRTJ4QVFxbzVCZFBmY2x6TG1NTVZPeUZkRTF6eXAyLV92NW1icldfaWo0Rk12aWtSR3g1T1Q1LUZqMWtkSUNtcnB2WWQ2d09TMmRQQlZnTlN2U3hoN3pnYU9mMEJCY3hMMW96T09fQlR4TWxVYWxEQ2xoT1B5czZ2Q0E3SnRjb2swVTNSUGhIR3dJWmZDSm1wOWhQM0E3aEMwZE56SEV0S21S?oc=5\" target=\"_blank\">Kazakhstan Eyes Air Taxi Future with Six Vertiports Planned by 2028</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Caspian News</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQWFkZDJRbDU1Y0dHRW5zRTJ4QVFxbzVCZFBmY2x6TG1NTVZPeUZkRTF6eXAyLV92NW1icldfaWo0Rk12aWtSR3g1T1Q1LUZqMWtkSUNtcnB2WWQ2d09TMmRQQlZnTlN2U3hoN3pnYU9mMEJCY3hMMW96T09fQlR4TWxVYWxEQ2xoT1B5czZ2Q0E3SnRjb2swVTNSUGhIR3dJWmZDSm1wOWhQM0E3aEMwZE56SEV0S21S?oc=5\" target=\"_blank\">Kazakhstan Eyes Air Taxi Future with Six Vertiports Planned by 2028</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Caspian News</font>",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQWFkZDJRbDU1Y0dHRW5zRTJ4QVFxbzVCZFBmY2x6TG1NTVZPeUZkRTF6eXAyLV92NW1icldfaWo0Rk12aWtSR3g1T1Q1LUZqMWtkSUNtcnB2WWQ2d09TMmRQQlZnTlN2U3hoN3pnYU9mMEJCY3hMMW96T09fQlR4TWxVYWxEQ2xoT1B5czZ2Q0E3SnRjb2swVTNSUGhIR3dJWmZDSm1wOWhQM0E3aEMwZE56SEV0S21S?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQWFkZDJRbDU1Y0dHRW5zRTJ4QVFxbzVCZFBmY2x6TG1NTVZPeUZkRTF6eXAyLV92NW1icldfaWo0Rk12aWtSR3g1T1Q1LUZqMWtkSUNtcnB2WWQ2d09TMmRQQlZnTlN2U3hoN3pnYU9mMEJCY3hMMW96T09fQlR4TWxVYWxEQ2xoT1B5czZ2Q0E3SnRjb2swVTNSUGhIR3dJWmZDSm1wOWhQM0E3aEMwZE56SEV0S21S?oc=5",
-      "publishedAt": "2026-05-23T19:42:57.000Z",
-      "source": "Caspian News",
-      "_feedRegion": "global",
-      "_feedName": "Google News (Global)",
-      "_scoring": {
-        "score": 55,
-        "categories": [
-          "市場・資金",
-          "政策・インフラ"
-        ],
-        "breakdown": {
-          "required": true,
-          "market": {
-            "matches": 1,
-            "catScore": 20
-          },
-          "policy": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 10,
           "titleBonus": 10
         },
         "pass": true
@@ -976,38 +978,6 @@
       }
     },
     {
-      "title": "コメの収穫量アップにGPSとドローン活用 福島・南相馬で実証事業スタート 津波と原発事故で被災した水田はよみがえるか",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFBPMTFQTDRsUzhTNlhfNzY0ZFZfbElKN1gyS0JMMkliTGlhR09JaFlkVU1QRmtwdHoxSEJpV2U3eFF2S2R0WUI4R2JzbFM1b0lRNzQ2bzhycGlMQmx5OVp0RQ?oc=5\" target=\"_blank\">コメの収穫量アップにGPSとドローン活用 福島・南相馬で実証事業スタート 津波と原発事故で被災した水田はよみがえるか</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">河北新報オンライン</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFBPMTFQTDRsUzhTNlhfNzY0ZFZfbElKN1gyS0JMMkliTGlhR09JaFlkVU1QRmtwdHoxSEJpV2U3eFF2S2R0WUI4R2JzbFM1b0lRNzQ2bzhycGlMQmx5OVp0RQ?oc=5\" target=\"_blank\">コメの収穫量アップにGPSとドローン活用 福島・南相馬で実証事業スタート 津波と原発事故で被災した水田はよみがえるか</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">河北新報オンライン</font>",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBPMTFQTDRsUzhTNlhfNzY0ZFZfbElKN1gyS0JMMkliTGlhR09JaFlkVU1QRmtwdHoxSEJpV2U3eFF2S2R0WUI4R2JzbFM1b0lRNzQ2bzhycGlMQmx5OVp0RQ?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBPMTFQTDRsUzhTNlhfNzY0ZFZfbElKN1gyS0JMMkliTGlhR09JaFlkVU1QRmtwdHoxSEJpV2U3eFF2S2R0WUI4R2JzbFM1b0lRNzQ2bzhycGlMQmx5OVp0RQ?oc=5",
-      "publishedAt": "2026-05-22T20:00:00.000Z",
-      "source": "河北新報オンライン",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP 政策/実証)",
-      "_scoring": {
-        "score": 52,
-        "categories": [
-          "事故・事件"
-        ],
-        "breakdown": {
-          "required": true,
-          "incident": {
-            "matches": 1,
-            "catScore": 28
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 5,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
       "title": "Why Joby Aviation (JOBY) Is Up 5.4% After Manhattan eVTOL Demo Flights And FAA Test Progress",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSlVla0FoTXpiLTk5c2c0eW5tcTM5alVYSXpEZ1FDVFMzdXl2aWtBR2FkZnFrUUhHVUtRLXJLRnpJTk8ybTdtTy1BUFZ6S1hkdkpZOElwVmJBR1p1MVlzbGRCbk84LU15R2d0d0h2d0RobjB4aTc2OG5sUmtsblJrbXBpc1ZqVm5fclEtZThFOWYxeFByUTI3LW9ReDFjaVU2RkpUZFRkbWN5MEgxcHF0bkRjR1hUaTFhZzJRLXcxY0s2ZHNHdHhYVnVZVTZ0TGZiamfSAdcBQVVfeXFMT3ZiUmlGUkVaY2R2T0xVbmdlM1RrcU5wTjRJUlZVaDhnQ2hjT2hIN1pLYXpYaDUyVnBJa21vbkg4eWpNLVBQOHhZYlMyYlQzUEVZSXJwSnN6RHFwNmF2Z2pkT2lHU2lweFd1TEF3aWtjMHRIVWN1aVl5aS1nT2c2eGNIeFI0YWhXNmF2SWd2MlMwb0h4Ti1kNXEyOTVIazh0azZLc2NNVTdjZzNYOFV4X1Y5SmMzbDVDR0Q4OGZzNWVScEx2d3JUMDFOV0JkR3VHR2RJcjNEX00?oc=5\" target=\"_blank\">Why Joby Aviation (JOBY) Is Up 5.4% After Manhattan eVTOL Demo Flights And FAA Test Progress</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">simplywall.st</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSlVla0FoTXpiLTk5c2c0eW5tcTM5alVYSXpEZ1FDVFMzdXl2aWtBR2FkZnFrUUhHVUtRLXJLRnpJTk8ybTdtTy1BUFZ6S1hkdkpZOElwVmJBR1p1MVlzbGRCbk84LU15R2d0d0h2d0RobjB4aTc2OG5sUmtsblJrbXBpc1ZqVm5fclEtZThFOWYxeFByUTI3LW9ReDFjaVU2RkpUZFRkbWN5MEgxcHF0bkRjR1hUaTFhZzJRLXcxY0s2ZHNHdHhYVnVZVTZ0TGZiamfSAdcBQVVfeXFMT3ZiUmlGUkVaY2R2T0xVbmdlM1RrcU5wTjRJUlZVaDhnQ2hjT2hIN1pLYXpYaDUyVnBJa21vbkg4eWpNLVBQOHhZYlMyYlQzUEVZSXJwSnN6RHFwNmF2Z2pkT2lHU2lweFd1TEF3aWtjMHRIVWN1aVl5aS1nT2c2eGNIeFI0YWhXNmF2SWd2MlMwb0h4Ti1kNXEyOTVIazh0azZLc2NNVTdjZzNYOFV4X1Y5SmMzbDVDR0Q4OGZzNWVScEx2d3JUMDFOV0JkR3VHR2RJcjNEX00?oc=5\" target=\"_blank\">Why Joby Aviation (JOBY) Is Up 5.4% After Manhattan eVTOL Demo Flights And FAA Test Progress</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">simplywall.st</font>",
@@ -1015,37 +985,6 @@
       "googleNewsUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSlVla0FoTXpiLTk5c2c0eW5tcTM5alVYSXpEZ1FDVFMzdXl2aWtBR2FkZnFrUUhHVUtRLXJLRnpJTk8ybTdtTy1BUFZ6S1hkdkpZOElwVmJBR1p1MVlzbGRCbk84LU15R2d0d0h2d0RobjB4aTc2OG5sUmtsblJrbXBpc1ZqVm5fclEtZThFOWYxeFByUTI3LW9ReDFjaVU2RkpUZFRkbWN5MEgxcHF0bkRjR1hUaTFhZzJRLXcxY0s2ZHNHdHhYVnVZVTZ0TGZiamfSAdcBQVVfeXFMT3ZiUmlGUkVaY2R2T0xVbmdlM1RrcU5wTjRJUlZVaDhnQ2hjT2hIN1pLYXpYaDUyVnBJa21vbkg4eWpNLVBQOHhZYlMyYlQzUEVZSXJwSnN6RHFwNmF2Z2pkT2lHU2lweFd1TEF3aWtjMHRIVWN1aVl5aS1nT2c2eGNIeFI0YWhXNmF2SWd2MlMwb0h4Ti1kNXEyOTVIazh0azZLc2NNVTdjZzNYOFV4X1Y5SmMzbDVDR0Q4OGZzNWVScEx2d3JUMDFOV0JkR3VHR2RJcjNEX00?oc=5",
       "publishedAt": "2026-05-24T08:34:34.000Z",
       "source": "simplywall.st",
-      "_feedRegion": "us",
-      "_feedName": "FAA",
-      "_scoring": {
-        "score": 51,
-        "categories": [
-          "規制・政策"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 1,
-            "catScore": 32
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 15,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "Pentagon and FAA agree to conduct anti-drone laser tests in New Mexico",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi5wJBVV95cUxPNkN5bGdFRzBZUlQxOGpuTE1LTkI5bUk3eGdLbjhURjVpVFU3THdsdjM1V1BQYWxNZVBNTmdXOFZWZklEZW5uVHVUbnpJRTItU0VQbVAwMDl5RUZnVXJpLTZIVzhoeThnOWc2UWJHRGd5Z0dIOS02dkU1TW9JWU42ZzMxX3pKWXB4dXNBTmFvdWJpX01qNXk3OUdLcEc1M3RmdlQxdGFfcnhSUDNrMmEzXy04N3JSSVVyMnpaUFpESTdBeXFVRTNfR2h3OWx3ME8xSWZySnBNdU1CbUtRT3AtZFd3TnZEM1p6UGlBa1YxYkRJdm8yVGk3NnlnUG5tVVpPektPTHhnakJnc3FLZXhpR0pjd21HZGVDRzZRX0U2V2tvQWtVQVdVZ0VzM216SGRBOFpEa0FheG9XNmd1RFZsYnIxTU9CdDhHNTd3ZHNaWkVCeG44LXdKaVpVLUQtMjZReVJTWVhsbw?oc=5\" target=\"_blank\">Pentagon and FAA agree to conduct anti-drone laser tests in New Mexico</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMi5wJBVV95cUxPNkN5bGdFRzBZUlQxOGpuTE1LTkI5bUk3eGdLbjhURjVpVFU3THdsdjM1V1BQYWxNZVBNTmdXOFZWZklEZW5uVHVUbnpJRTItU0VQbVAwMDl5RUZnVXJpLTZIVzhoeThnOWc2UWJHRGd5Z0dIOS02dkU1TW9JWU42ZzMxX3pKWXB4dXNBTmFvdWJpX01qNXk3OUdLcEc1M3RmdlQxdGFfcnhSUDNrMmEzXy04N3JSSVVyMnpaUFpESTdBeXFVRTNfR2h3OWx3ME8xSWZySnBNdU1CbUtRT3AtZFd3TnZEM1p6UGlBa1YxYkRJdm8yVGk3NnlnUG5tVVpPektPTHhnakJnc3FLZXhpR0pjd21HZGVDRzZRX0U2V2tvQWtVQVdVZ0VzM216SGRBOFpEa0FheG9XNmd1RFZsYnIxTU9CdDhHNTd3ZHNaWkVCeG44LXdKaVpVLUQtMjZReVJTWVhsbw?oc=5\" target=\"_blank\">Pentagon and FAA agree to conduct anti-drone laser tests in New Mexico</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
-      "url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxPNkN5bGdFRzBZUlQxOGpuTE1LTkI5bUk3eGdLbjhURjVpVFU3THdsdjM1V1BQYWxNZVBNTmdXOFZWZklEZW5uVHVUbnpJRTItU0VQbVAwMDl5RUZnVXJpLTZIVzhoeThnOWc2UWJHRGd5Z0dIOS02dkU1TW9JWU42ZzMxX3pKWXB4dXNBTmFvdWJpX01qNXk3OUdLcEc1M3RmdlQxdGFfcnhSUDNrMmEzXy04N3JSSVVyMnpaUFpESTdBeXFVRTNfR2h3OWx3ME8xSWZySnBNdU1CbUtRT3AtZFd3TnZEM1p6UGlBa1YxYkRJdm8yVGk3NnlnUG5tVVpPektPTHhnakJnc3FLZXhpR0pjd21HZGVDRzZRX0U2V2tvQWtVQVdVZ0VzM216SGRBOFpEa0FheG9XNmd1RFZsYnIxTU9CdDhHNTd3ZHNaWkVCeG44LXdKaVpVLUQtMjZReVJTWVhsbw?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxPNkN5bGdFRzBZUlQxOGpuTE1LTkI5bUk3eGdLbjhURjVpVFU3THdsdjM1V1BQYWxNZVBNTmdXOFZWZklEZW5uVHVUbnpJRTItU0VQbVAwMDl5RUZnVXJpLTZIVzhoeThnOWc2UWJHRGd5Z0dIOS02dkU1TW9JWU42ZzMxX3pKWXB4dXNBTmFvdWJpX01qNXk3OUdLcEc1M3RmdlQxdGFfcnhSUDNrMmEzXy04N3JSSVVyMnpaUFpESTdBeXFVRTNfR2h3OWx3ME8xSWZySnBNdU1CbUtRT3AtZFd3TnZEM1p6UGlBa1YxYkRJdm8yVGk3NnlnUG5tVVpPektPTHhnakJnc3FLZXhpR0pjd21HZGVDRzZRX0U2V2tvQWtVQVdVZ0VzM216SGRBOFpEa0FheG9XNmd1RFZsYnIxTU9CdDhHNTd3ZHNaWkVCeG44LXdKaVpVLUQtMjZReVJTWVhsbw?oc=5",
-      "publishedAt": "2026-05-24T07:31:10.000Z",
-      "source": "MSN",
       "_feedRegion": "us",
       "_feedName": "FAA",
       "_scoring": {
@@ -1079,6 +1018,70 @@
       "source": "KSBニュース",
       "_feedRegion": "jp",
       "_feedName": "Google News (JP 政策/実証)",
+      "_scoring": {
+        "score": 51,
+        "categories": [
+          "規制・政策"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 0,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "太陽光発電所の銅線盗難を防止、AI監視×ドローン×警備手配の危機管理サービス：警備DX",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE5zcVBveVV1VWVnbmtReDFkaVZhY2h1QVFaaWZZblcwc0hES2pWOUJrTlFyZFA4WU05Vl9yMFdUdE5jcXViV2RNUzV2NC1Zd2RaYVBaclg5UFpKV1BrQzdmWnBkX0tMSE9VYjlSbg?oc=5\" target=\"_blank\">太陽光発電所の銅線盗難を防止、AI監視×ドローン×警備手配の危機管理サービス：警備DX</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ITmedia</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE5zcVBveVV1VWVnbmtReDFkaVZhY2h1QVFaaWZZblcwc0hES2pWOUJrTlFyZFA4WU05Vl9yMFdUdE5jcXViV2RNUzV2NC1Zd2RaYVBaclg5UFpKV1BrQzdmWnBkX0tMSE9VYjlSbg?oc=5\" target=\"_blank\">太陽光発電所の銅線盗難を防止、AI監視×ドローン×警備手配の危機管理サービス：警備DX</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ITmedia</font>",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5zcVBveVV1VWVnbmtReDFkaVZhY2h1QVFaaWZZblcwc0hES2pWOUJrTlFyZFA4WU05Vl9yMFdUdE5jcXViV2RNUzV2NC1Zd2RaYVBaclg5UFpKV1BrQzdmWnBkX0tMSE9VYjlSbg?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5zcVBveVV1VWVnbmtReDFkaVZhY2h1QVFaaWZZblcwc0hES2pWOUJrTlFyZFA4WU05Vl9yMFdUdE5jcXViV2RNUzV2NC1Zd2RaYVBaclg5UFpKV1BrQzdmWnBkX0tMSE9VYjlSbg?oc=5",
+      "publishedAt": "2026-05-19T11:00:00.000Z",
+      "source": "ITmedia",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP 経済メディア)",
+      "_scoring": {
+        "score": 51,
+        "categories": [
+          "規制・政策"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 0,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "ドローンも活用 梅雨を前に国道の「のり面」を点検 国交省岡山国道事務所（KSB瀬戸内海放送）",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFB2cF9oLUctMzV5cVZrQmpkSVB4TW1ZbVR0TGVuYjg2azZieWFOeUxnT21KUXZJWW5rNDdNY2Rtd1EzOUMySnk0YVpfajdnanhJcTl3MXkzVV85a0l2M3l3VlJyZHlFYW9kdlcyNmxBWXhVQ3dHc01hX2FaWExISjg?oc=5\" target=\"_blank\">ドローンも活用 梅雨を前に国道の「のり面」を点検 国交省岡山国道事務所（KSB瀬戸内海放送）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFB2cF9oLUctMzV5cVZrQmpkSVB4TW1ZbVR0TGVuYjg2azZieWFOeUxnT21KUXZJWW5rNDdNY2Rtd1EzOUMySnk0YVpfajdnanhJcTl3MXkzVV85a0l2M3l3VlJyZHlFYW9kdlcyNmxBWXhVQ3dHc01hX2FaWExISjg?oc=5\" target=\"_blank\">ドローンも活用 梅雨を前に国道の「のり面」を点検 国交省岡山国道事務所（KSB瀬戸内海放送）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB2cF9oLUctMzV5cVZrQmpkSVB4TW1ZbVR0TGVuYjg2azZieWFOeUxnT21KUXZJWW5rNDdNY2Rtd1EzOUMySnk0YVpfajdnanhJcTl3MXkzVV85a0l2M3l3VlJyZHlFYW9kdlcyNmxBWXhVQ3dHc01hX2FaWExISjg?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB2cF9oLUctMzV5cVZrQmpkSVB4TW1ZbVR0TGVuYjg2azZieWFOeUxnT21KUXZJWW5rNDdNY2Rtd1EzOUMySnk0YVpfajdnanhJcTl3MXkzVV85a0l2M3l3VlJyZHlFYW9kdlcyNmxBWXhVQ3dHc01hX2FaWExISjg?oc=5",
+      "publishedAt": "2026-05-19T07:04:51.000Z",
+      "source": "Yahoo!ニュース",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP 事業者/実装)",
       "_scoring": {
         "score": 51,
         "categories": [
