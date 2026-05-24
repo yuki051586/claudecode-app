@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-24T10:44:13.614Z",
-  "rawCount": 632,
+  "generatedAt": "2026-05-24T12:03:07.948Z",
+  "rawCount": 634,
   "articles": [
     {
       "title": "Choctaw ROTC's aerospace program produces 5 FAA-certified drone pilots, 15 safety certifications in breakout year",
@@ -191,43 +191,6 @@
           "policy": {
             "matches": 2,
             "catScore": 30
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 0,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "北京で「史上最も厳しい」ドローン規制が開始 政府側は「死刑」にまで言及 背景にイランの戦闘も",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE4ya3pfamhHbUtMVjdIN0RiQVFhSURMVkxxT3ZaYkV3YjBzX094YjY1SXltZlkyS05YdEZqRVlPLURqRXk2bDlLaWhvcFRLZVYxazJn?oc=5\" target=\"_blank\">北京で「史上最も厳しい」ドローン規制が開始 政府側は「死刑」にまで言及 背景にイランの戦闘も</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">東京新聞デジタル</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE4ya3pfamhHbUtMVjdIN0RiQVFhSURMVkxxT3ZaYkV3YjBzX094YjY1SXltZlkyS05YdEZqRVlPLURqRXk2bDlLaWhvcFRLZVYxazJn?oc=5\" target=\"_blank\">北京で「史上最も厳しい」ドローン規制が開始 政府側は「死刑」にまで言及 背景にイランの戦闘も</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">東京新聞デジタル</font>",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4ya3pfamhHbUtMVjdIN0RiQVFhSURMVkxxT3ZaYkV3YjBzX094YjY1SXltZlkyS05YdEZqRVlPLURqRXk2bDlLaWhvcFRLZVYxazJn?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4ya3pfamhHbUtMVjdIN0RiQVFhSURMVkxxT3ZaYkV3YjBzX094YjY1SXltZlkyS05YdEZqRVlPLURqRXk2bDlLaWhvcFRLZVYxazJn?oc=5",
-      "publishedAt": "2026-05-14T07:00:00.000Z",
-      "source": "東京新聞デジタル",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP)",
-      "_scoring": {
-        "score": 70,
-        "categories": [
-          "規制・政策",
-          "技術・製品"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 1,
-            "catScore": 32
-          },
-          "technology": {
-            "matches": 1,
-            "catScore": 24
           },
           "sourceTrust": {
             "domain": "news.google.com",
@@ -506,46 +469,6 @@
       }
     },
     {
-      "title": "Port of Tallinn launches BVLOS pilot project",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNRzRQR3BZTU1abFZ4aDdYcm9xTjdzN2FOeG5VTkJrb2d4NGRNbVdiSHdwM0Uyc0pWeG54azMxS25yekd3YlN5WEJ6elNvVFlEb21JQmlfU1lfSDZ3ZDdacC1zSmk5X1AzclkwYUkxRTZNWkhpUHZXenk3WWxCT0lLR3ZWT1RvQl9fa3FITVYxUm51VDZEcGp6TQ?oc=5\" target=\"_blank\">Port of Tallinn launches BVLOS pilot project</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNRzRQR3BZTU1abFZ4aDdYcm9xTjdzN2FOeG5VTkJrb2d4NGRNbVdiSHdwM0Uyc0pWeG54azMxS25yekd3YlN5WEJ6elNvVFlEb21JQmlfU1lfSDZ3ZDdacC1zSmk5X1AzclkwYUkxRTZNWkhpUHZXenk3WWxCT0lLR3ZWT1RvQl9fa3FITVYxUm51VDZEcGp6TQ?oc=5\" target=\"_blank\">Port of Tallinn launches BVLOS pilot project</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRzRQR3BZTU1abFZ4aDdYcm9xTjdzN2FOeG5VTkJrb2d4NGRNbVdiSHdwM0Uyc0pWeG54azMxS25yekd3YlN5WEJ6elNvVFlEb21JQmlfU1lfSDZ3ZDdacC1zSmk5X1AzclkwYUkxRTZNWkhpUHZXenk3WWxCT0lLR3ZWT1RvQl9fa3FITVYxUm51VDZEcGp6TQ?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRzRQR3BZTU1abFZ4aDdYcm9xTjdzN2FOeG5VTkJrb2d4NGRNbVdiSHdwM0Uyc0pWeG54azMxS25yekd3YlN5WEJ6elNvVFlEb21JQmlfU1lfSDZ3ZDdacC1zSmk5X1AzclkwYUkxRTZNWkhpUHZXenk3WWxCT0lLR3ZWT1RvQl9fa3FITVYxUm51VDZEcGp6TQ?oc=5",
-      "publishedAt": "2026-05-22T11:01:32.000Z",
-      "source": "Unmanned airspace",
-      "_feedRegion": "global",
-      "_feedName": "Google News (Global)",
-      "_scoring": {
-        "score": 66,
-        "categories": [
-          "規制・政策",
-          "技術・製品",
-          "市場・資金"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 1,
-            "catScore": 32
-          },
-          "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "market": {
-            "matches": 1,
-            "catScore": 20
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 5
-        },
-        "pass": true
-      }
-    },
-    {
       "title": "Matternet Eyes Drone Delivery Scale-Up As BVLOS Rules Near",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPXzNkQkV6NUxjNk9nbGFnVjdWZ2Z6V24wTFZZTk9tVjNackE2WE5OTl9HMXVXU0x4eU5kd2duVktwQ1hPY1JaUWphOEIwYnk5MS1NR3c5YjRXQS1qNmtkZDFMTmxKdXA1X3NUcHpKWXFLX0NXME5yemJNdnZhbVJWRmxVRTVFaFN5LUhPbEx3aEtlc2tRRWxTczFXei1zTmxWQ3ZxLWV1bjlPUHNfd2c?oc=5\" target=\"_blank\">Matternet Eyes Drone Delivery Scale-Up As BVLOS Rules Near</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aviation Week</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPXzNkQkV6NUxjNk9nbGFnVjdWZ2Z6V24wTFZZTk9tVjNackE2WE5OTl9HMXVXU0x4eU5kd2duVktwQ1hPY1JaUWphOEIwYnk5MS1NR3c5YjRXQS1qNmtkZDFMTmxKdXA1X3NUcHpKWXFLX0NXME5yemJNdnZhbVJWRmxVRTVFaFN5LUhPbEx3aEtlc2tRRWxTczFXei1zTmxWQ3ZxLWV1bjlPUHNfd2c?oc=5\" target=\"_blank\">Matternet Eyes Drone Delivery Scale-Up As BVLOS Rules Near</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aviation Week</font>",
@@ -577,6 +500,46 @@
           },
           "freshness": 2,
           "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "Port of Tallinn launches BVLOS pilot project",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNRzRQR3BZTU1abFZ4aDdYcm9xTjdzN2FOeG5VTkJrb2d4NGRNbVdiSHdwM0Uyc0pWeG54azMxS25yekd3YlN5WEJ6elNvVFlEb21JQmlfU1lfSDZ3ZDdacC1zSmk5X1AzclkwYUkxRTZNWkhpUHZXenk3WWxCT0lLR3ZWT1RvQl9fa3FITVYxUm51VDZEcGp6TQ?oc=5\" target=\"_blank\">Port of Tallinn launches BVLOS pilot project</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNRzRQR3BZTU1abFZ4aDdYcm9xTjdzN2FOeG5VTkJrb2d4NGRNbVdiSHdwM0Uyc0pWeG54azMxS25yekd3YlN5WEJ6elNvVFlEb21JQmlfU1lfSDZ3ZDdacC1zSmk5X1AzclkwYUkxRTZNWkhpUHZXenk3WWxCT0lLR3ZWT1RvQl9fa3FITVYxUm51VDZEcGp6TQ?oc=5\" target=\"_blank\">Port of Tallinn launches BVLOS pilot project</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRzRQR3BZTU1abFZ4aDdYcm9xTjdzN2FOeG5VTkJrb2d4NGRNbVdiSHdwM0Uyc0pWeG54azMxS25yekd3YlN5WEJ6elNvVFlEb21JQmlfU1lfSDZ3ZDdacC1zSmk5X1AzclkwYUkxRTZNWkhpUHZXenk3WWxCT0lLR3ZWT1RvQl9fa3FITVYxUm51VDZEcGp6TQ?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRzRQR3BZTU1abFZ4aDdYcm9xTjdzN2FOeG5VTkJrb2d4NGRNbVdiSHdwM0Uyc0pWeG54azMxS25yekd3YlN5WEJ6elNvVFlEb21JQmlfU1lfSDZ3ZDdacC1zSmk5X1AzclkwYUkxRTZNWkhpUHZXenk3WWxCT0lLR3ZWT1RvQl9fa3FITVYxUm51VDZEcGp6TQ?oc=5",
+      "publishedAt": "2026-05-22T11:01:32.000Z",
+      "source": "Unmanned airspace",
+      "_feedRegion": "global",
+      "_feedName": "Google News (Global)",
+      "_scoring": {
+        "score": 63,
+        "categories": [
+          "規制・政策",
+          "技術・製品",
+          "市場・資金"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "market": {
+            "matches": 1,
+            "catScore": 20
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 2
         },
         "pass": true
       }
@@ -724,37 +687,6 @@
             "multiplier": 0.8
           },
           "freshness": 0,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "Why Joby Aviation (JOBY) Is Up 5.4% After Manhattan eVTOL Demo Flights And FAA Test Progress",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSlVla0FoTXpiLTk5c2c0eW5tcTM5alVYSXpEZ1FDVFMzdXl2aWtBR2FkZnFrUUhHVUtRLXJLRnpJTk8ybTdtTy1BUFZ6S1hkdkpZOElwVmJBR1p1MVlzbGRCbk84LU15R2d0d0h2d0RobjB4aTc2OG5sUmtsblJrbXBpc1ZqVm5fclEtZThFOWYxeFByUTI3LW9ReDFjaVU2RkpUZFRkbWN5MEgxcHF0bkRjR1hUaTFhZzJRLXcxY0s2ZHNHdHhYVnVZVTZ0TGZiamfSAdcBQVVfeXFMT3ZiUmlGUkVaY2R2T0xVbmdlM1RrcU5wTjRJUlZVaDhnQ2hjT2hIN1pLYXpYaDUyVnBJa21vbkg4eWpNLVBQOHhZYlMyYlQzUEVZSXJwSnN6RHFwNmF2Z2pkT2lHU2lweFd1TEF3aWtjMHRIVWN1aVl5aS1nT2c2eGNIeFI0YWhXNmF2SWd2MlMwb0h4Ti1kNXEyOTVIazh0azZLc2NNVTdjZzNYOFV4X1Y5SmMzbDVDR0Q4OGZzNWVScEx2d3JUMDFOV0JkR3VHR2RJcjNEX00?oc=5\" target=\"_blank\">Why Joby Aviation (JOBY) Is Up 5.4% After Manhattan eVTOL Demo Flights And FAA Test Progress</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">simplywall.st</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSlVla0FoTXpiLTk5c2c0eW5tcTM5alVYSXpEZ1FDVFMzdXl2aWtBR2FkZnFrUUhHVUtRLXJLRnpJTk8ybTdtTy1BUFZ6S1hkdkpZOElwVmJBR1p1MVlzbGRCbk84LU15R2d0d0h2d0RobjB4aTc2OG5sUmtsblJrbXBpc1ZqVm5fclEtZThFOWYxeFByUTI3LW9ReDFjaVU2RkpUZFRkbWN5MEgxcHF0bkRjR1hUaTFhZzJRLXcxY0s2ZHNHdHhYVnVZVTZ0TGZiamfSAdcBQVVfeXFMT3ZiUmlGUkVaY2R2T0xVbmdlM1RrcU5wTjRJUlZVaDhnQ2hjT2hIN1pLYXpYaDUyVnBJa21vbkg4eWpNLVBQOHhZYlMyYlQzUEVZSXJwSnN6RHFwNmF2Z2pkT2lHU2lweFd1TEF3aWtjMHRIVWN1aVl5aS1nT2c2eGNIeFI0YWhXNmF2SWd2MlMwb0h4Ti1kNXEyOTVIazh0azZLc2NNVTdjZzNYOFV4X1Y5SmMzbDVDR0Q4OGZzNWVScEx2d3JUMDFOV0JkR3VHR2RJcjNEX00?oc=5\" target=\"_blank\">Why Joby Aviation (JOBY) Is Up 5.4% After Manhattan eVTOL Demo Flights And FAA Test Progress</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">simplywall.st</font>",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSlVla0FoTXpiLTk5c2c0eW5tcTM5alVYSXpEZ1FDVFMzdXl2aWtBR2FkZnFrUUhHVUtRLXJLRnpJTk8ybTdtTy1BUFZ6S1hkdkpZOElwVmJBR1p1MVlzbGRCbk84LU15R2d0d0h2d0RobjB4aTc2OG5sUmtsblJrbXBpc1ZqVm5fclEtZThFOWYxeFByUTI3LW9ReDFjaVU2RkpUZFRkbWN5MEgxcHF0bkRjR1hUaTFhZzJRLXcxY0s2ZHNHdHhYVnVZVTZ0TGZiamfSAdcBQVVfeXFMT3ZiUmlGUkVaY2R2T0xVbmdlM1RrcU5wTjRJUlZVaDhnQ2hjT2hIN1pLYXpYaDUyVnBJa21vbkg4eWpNLVBQOHhZYlMyYlQzUEVZSXJwSnN6RHFwNmF2Z2pkT2lHU2lweFd1TEF3aWtjMHRIVWN1aVl5aS1nT2c2eGNIeFI0YWhXNmF2SWd2MlMwb0h4Ti1kNXEyOTVIazh0azZLc2NNVTdjZzNYOFV4X1Y5SmMzbDVDR0Q4OGZzNWVScEx2d3JUMDFOV0JkR3VHR2RJcjNEX00?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSlVla0FoTXpiLTk5c2c0eW5tcTM5alVYSXpEZ1FDVFMzdXl2aWtBR2FkZnFrUUhHVUtRLXJLRnpJTk8ybTdtTy1BUFZ6S1hkdkpZOElwVmJBR1p1MVlzbGRCbk84LU15R2d0d0h2d0RobjB4aTc2OG5sUmtsblJrbXBpc1ZqVm5fclEtZThFOWYxeFByUTI3LW9ReDFjaVU2RkpUZFRkbWN5MEgxcHF0bkRjR1hUaTFhZzJRLXcxY0s2ZHNHdHhYVnVZVTZ0TGZiamfSAdcBQVVfeXFMT3ZiUmlGUkVaY2R2T0xVbmdlM1RrcU5wTjRJUlZVaDhnQ2hjT2hIN1pLYXpYaDUyVnBJa21vbkg4eWpNLVBQOHhZYlMyYlQzUEVZSXJwSnN6RHFwNmF2Z2pkT2lHU2lweFd1TEF3aWtjMHRIVWN1aVl5aS1nT2c2eGNIeFI0YWhXNmF2SWd2MlMwb0h4Ti1kNXEyOTVIazh0azZLc2NNVTdjZzNYOFV4X1Y5SmMzbDVDR0Q4OGZzNWVScEx2d3JUMDFOV0JkR3VHR2RJcjNEX00?oc=5",
-      "publishedAt": "2026-05-24T08:34:34.000Z",
-      "source": "simplywall.st",
-      "_feedRegion": "us",
-      "_feedName": "FAA",
-      "_scoring": {
-        "score": 56,
-        "categories": [
-          "規制・政策"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 1,
-            "catScore": 32
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 20,
           "titleBonus": 10
         },
         "pass": true
@@ -1041,13 +973,13 @@
       }
     },
     {
-      "title": "Pentagon and FAA agree to conduct anti-drone laser tests in New Mexico",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxNRWZEdU9QZnhxQnlBcThxQ2tkVnJyb1JVRE5peVEyWlJuaVlEWmtTdlRPazVYdnJtOU50d0ZncGhOcmgtS29VUFIxNy1IdVhpbW9UVl9DcjRRQmcyazdxZmJyTllhcGJXUDJlM2tCTnVKaG9fV3oxWVlUc25LcU1PNGhIRXc5U3lmSVVIWTRiTGwwMGczSWNESHFzbTI1WDlVak1ETXlwRzB5YTMzeU1GNHpJSEFsbHVXLUdqRkxwcklMOEtUcG9jTHM4czU0UG9o?oc=5\" target=\"_blank\">Pentagon and FAA agree to conduct anti-drone laser tests in New Mexico</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxNRWZEdU9QZnhxQnlBcThxQ2tkVnJyb1JVRE5peVEyWlJuaVlEWmtTdlRPazVYdnJtOU50d0ZncGhOcmgtS29VUFIxNy1IdVhpbW9UVl9DcjRRQmcyazdxZmJyTllhcGJXUDJlM2tCTnVKaG9fV3oxWVlUc25LcU1PNGhIRXc5U3lmSVVIWTRiTGwwMGczSWNESHFzbTI1WDlVak1ETXlwRzB5YTMzeU1GNHpJSEFsbHVXLUdqRkxwcklMOEtUcG9jTHM4czU0UG9o?oc=5\" target=\"_blank\">Pentagon and FAA agree to conduct anti-drone laser tests in New Mexico</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNRWZEdU9QZnhxQnlBcThxQ2tkVnJyb1JVRE5peVEyWlJuaVlEWmtTdlRPazVYdnJtOU50d0ZncGhOcmgtS29VUFIxNy1IdVhpbW9UVl9DcjRRQmcyazdxZmJyTllhcGJXUDJlM2tCTnVKaG9fV3oxWVlUc25LcU1PNGhIRXc5U3lmSVVIWTRiTGwwMGczSWNESHFzbTI1WDlVak1ETXlwRzB5YTMzeU1GNHpJSEFsbHVXLUdqRkxwcklMOEtUcG9jTHM4czU0UG9o?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNRWZEdU9QZnhxQnlBcThxQ2tkVnJyb1JVRE5peVEyWlJuaVlEWmtTdlRPazVYdnJtOU50d0ZncGhOcmgtS29VUFIxNy1IdVhpbW9UVl9DcjRRQmcyazdxZmJyTllhcGJXUDJlM2tCTnVKaG9fV3oxWVlUc25LcU1PNGhIRXc5U3lmSVVIWTRiTGwwMGczSWNESHFzbTI1WDlVak1ETXlwRzB5YTMzeU1GNHpJSEFsbHVXLUdqRkxwcklMOEtUcG9jTHM4czU0UG9o?oc=5",
-      "publishedAt": "2026-05-24T06:44:39.000Z",
-      "source": "MSN",
+      "title": "Why Joby Aviation (JOBY) Is Up 5.4% After Manhattan eVTOL Demo Flights And FAA Test Progress",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSlVla0FoTXpiLTk5c2c0eW5tcTM5alVYSXpEZ1FDVFMzdXl2aWtBR2FkZnFrUUhHVUtRLXJLRnpJTk8ybTdtTy1BUFZ6S1hkdkpZOElwVmJBR1p1MVlzbGRCbk84LU15R2d0d0h2d0RobjB4aTc2OG5sUmtsblJrbXBpc1ZqVm5fclEtZThFOWYxeFByUTI3LW9ReDFjaVU2RkpUZFRkbWN5MEgxcHF0bkRjR1hUaTFhZzJRLXcxY0s2ZHNHdHhYVnVZVTZ0TGZiamfSAdcBQVVfeXFMT3ZiUmlGUkVaY2R2T0xVbmdlM1RrcU5wTjRJUlZVaDhnQ2hjT2hIN1pLYXpYaDUyVnBJa21vbkg4eWpNLVBQOHhZYlMyYlQzUEVZSXJwSnN6RHFwNmF2Z2pkT2lHU2lweFd1TEF3aWtjMHRIVWN1aVl5aS1nT2c2eGNIeFI0YWhXNmF2SWd2MlMwb0h4Ti1kNXEyOTVIazh0azZLc2NNVTdjZzNYOFV4X1Y5SmMzbDVDR0Q4OGZzNWVScEx2d3JUMDFOV0JkR3VHR2RJcjNEX00?oc=5\" target=\"_blank\">Why Joby Aviation (JOBY) Is Up 5.4% After Manhattan eVTOL Demo Flights And FAA Test Progress</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">simplywall.st</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSlVla0FoTXpiLTk5c2c0eW5tcTM5alVYSXpEZ1FDVFMzdXl2aWtBR2FkZnFrUUhHVUtRLXJLRnpJTk8ybTdtTy1BUFZ6S1hkdkpZOElwVmJBR1p1MVlzbGRCbk84LU15R2d0d0h2d0RobjB4aTc2OG5sUmtsblJrbXBpc1ZqVm5fclEtZThFOWYxeFByUTI3LW9ReDFjaVU2RkpUZFRkbWN5MEgxcHF0bkRjR1hUaTFhZzJRLXcxY0s2ZHNHdHhYVnVZVTZ0TGZiamfSAdcBQVVfeXFMT3ZiUmlGUkVaY2R2T0xVbmdlM1RrcU5wTjRJUlZVaDhnQ2hjT2hIN1pLYXpYaDUyVnBJa21vbkg4eWpNLVBQOHhZYlMyYlQzUEVZSXJwSnN6RHFwNmF2Z2pkT2lHU2lweFd1TEF3aWtjMHRIVWN1aVl5aS1nT2c2eGNIeFI0YWhXNmF2SWd2MlMwb0h4Ti1kNXEyOTVIazh0azZLc2NNVTdjZzNYOFV4X1Y5SmMzbDVDR0Q4OGZzNWVScEx2d3JUMDFOV0JkR3VHR2RJcjNEX00?oc=5\" target=\"_blank\">Why Joby Aviation (JOBY) Is Up 5.4% After Manhattan eVTOL Demo Flights And FAA Test Progress</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">simplywall.st</font>",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSlVla0FoTXpiLTk5c2c0eW5tcTM5alVYSXpEZ1FDVFMzdXl2aWtBR2FkZnFrUUhHVUtRLXJLRnpJTk8ybTdtTy1BUFZ6S1hkdkpZOElwVmJBR1p1MVlzbGRCbk84LU15R2d0d0h2d0RobjB4aTc2OG5sUmtsblJrbXBpc1ZqVm5fclEtZThFOWYxeFByUTI3LW9ReDFjaVU2RkpUZFRkbWN5MEgxcHF0bkRjR1hUaTFhZzJRLXcxY0s2ZHNHdHhYVnVZVTZ0TGZiamfSAdcBQVVfeXFMT3ZiUmlGUkVaY2R2T0xVbmdlM1RrcU5wTjRJUlZVaDhnQ2hjT2hIN1pLYXpYaDUyVnBJa21vbkg4eWpNLVBQOHhZYlMyYlQzUEVZSXJwSnN6RHFwNmF2Z2pkT2lHU2lweFd1TEF3aWtjMHRIVWN1aVl5aS1nT2c2eGNIeFI0YWhXNmF2SWd2MlMwb0h4Ti1kNXEyOTVIazh0azZLc2NNVTdjZzNYOFV4X1Y5SmMzbDVDR0Q4OGZzNWVScEx2d3JUMDFOV0JkR3VHR2RJcjNEX00?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSlVla0FoTXpiLTk5c2c0eW5tcTM5alVYSXpEZ1FDVFMzdXl2aWtBR2FkZnFrUUhHVUtRLXJLRnpJTk8ybTdtTy1BUFZ6S1hkdkpZOElwVmJBR1p1MVlzbGRCbk84LU15R2d0d0h2d0RobjB4aTc2OG5sUmtsblJrbXBpc1ZqVm5fclEtZThFOWYxeFByUTI3LW9ReDFjaVU2RkpUZFRkbWN5MEgxcHF0bkRjR1hUaTFhZzJRLXcxY0s2ZHNHdHhYVnVZVTZ0TGZiamfSAdcBQVVfeXFMT3ZiUmlGUkVaY2R2T0xVbmdlM1RrcU5wTjRJUlZVaDhnQ2hjT2hIN1pLYXpYaDUyVnBJa21vbkg4eWpNLVBQOHhZYlMyYlQzUEVZSXJwSnN6RHFwNmF2Z2pkT2lHU2lweFd1TEF3aWtjMHRIVWN1aVl5aS1nT2c2eGNIeFI0YWhXNmF2SWd2MlMwb0h4Ti1kNXEyOTVIazh0azZLc2NNVTdjZzNYOFV4X1Y5SmMzbDVDR0Q4OGZzNWVScEx2d3JUMDFOV0JkR3VHR2RJcjNEX00?oc=5",
+      "publishedAt": "2026-05-24T08:34:34.000Z",
+      "source": "simplywall.st",
       "_feedRegion": "us",
       "_feedName": "FAA",
       "_scoring": {
@@ -1099,6 +1031,74 @@
           "freshness": 0,
           "titleBonus": 10,
           "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "太陽光発電所の銅線盗難を防止、AI監視×ドローン×警備手配の危機管理サービス：警備DX",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE5zcVBveVV1VWVnbmtReDFkaVZhY2h1QVFaaWZZblcwc0hES2pWOUJrTlFyZFA4WU05Vl9yMFdUdE5jcXViV2RNUzV2NC1Zd2RaYVBaclg5UFpKV1BrQzdmWnBkX0tMSE9VYjlSbg?oc=5\" target=\"_blank\">太陽光発電所の銅線盗難を防止、AI監視×ドローン×警備手配の危機管理サービス：警備DX</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ITmedia</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE5zcVBveVV1VWVnbmtReDFkaVZhY2h1QVFaaWZZblcwc0hES2pWOUJrTlFyZFA4WU05Vl9yMFdUdE5jcXViV2RNUzV2NC1Zd2RaYVBaclg5UFpKV1BrQzdmWnBkX0tMSE9VYjlSbg?oc=5\" target=\"_blank\">太陽光発電所の銅線盗難を防止、AI監視×ドローン×警備手配の危機管理サービス：警備DX</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ITmedia</font>",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5zcVBveVV1VWVnbmtReDFkaVZhY2h1QVFaaWZZblcwc0hES2pWOUJrTlFyZFA4WU05Vl9yMFdUdE5jcXViV2RNUzV2NC1Zd2RaYVBaclg5UFpKV1BrQzdmWnBkX0tMSE9VYjlSbg?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5zcVBveVV1VWVnbmtReDFkaVZhY2h1QVFaaWZZblcwc0hES2pWOUJrTlFyZFA4WU05Vl9yMFdUdE5jcXViV2RNUzV2NC1Zd2RaYVBaclg5UFpKV1BrQzdmWnBkX0tMSE9VYjlSbg?oc=5",
+      "publishedAt": "2026-05-19T11:00:00.000Z",
+      "source": "ITmedia",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP 経済メディア)",
+      "_scoring": {
+        "score": 51,
+        "categories": [
+          "規制・政策"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 0,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "Tampa International Airport unveils air taxi concept for dream project",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNY090dnFlU1JIbGFvZnN4eDA1RTBuTGFsbi1sdmFDcjZGRzhRS3pZU0ZiZnFvZEpWWXZ3dnpLRWhHZVBOOTFKM0dGRllpTVJaZ253QmNnMXZwTnpMMTBiVnhKOWpCNVdDRGQ1dkFiZ1g2MTRmNG9FVzRJT1lURWUtMmdVcHBHN0xLWTA5OW5XWlBVUklfZXJ1Ym5oRWp2d9IBowFBVV95cUxNclctb3ctRDlFdE1mQUNZZmlOVzE4TjAwS0J2aVFaT2FOM2lmNGtQdXRRdm8weUU3OW90c3ZBR2xYQk5DUjlvYmlWcTdkMkcxeE8zcUgwZ19OS1ZWMHlNNXZoN1RfX1BneFBCS1VqMXZKUmFISVg3UlFRd19OT2g3TTBPUzl5Z3VOSmdkcU94WjJmdUxQS01NT2VfX05ObXU2TXFn?oc=5\" target=\"_blank\">Tampa International Airport unveils air taxi concept for dream project</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX 13 Tampa Bay</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNY090dnFlU1JIbGFvZnN4eDA1RTBuTGFsbi1sdmFDcjZGRzhRS3pZU0ZiZnFvZEpWWXZ3dnpLRWhHZVBOOTFKM0dGRllpTVJaZ253QmNnMXZwTnpMMTBiVnhKOWpCNVdDRGQ1dkFiZ1g2MTRmNG9FVzRJT1lURWUtMmdVcHBHN0xLWTA5OW5XWlBVUklfZXJ1Ym5oRWp2d9IBowFBVV95cUxNclctb3ctRDlFdE1mQUNZZmlOVzE4TjAwS0J2aVFaT2FOM2lmNGtQdXRRdm8weUU3OW90c3ZBR2xYQk5DUjlvYmlWcTdkMkcxeE8zcUgwZ19OS1ZWMHlNNXZoN1RfX1BneFBCS1VqMXZKUmFISVg3UlFRd19OT2g3TTBPUzl5Z3VOSmdkcU94WjJmdUxQS01NT2VfX05ObXU2TXFn?oc=5\" target=\"_blank\">Tampa International Airport unveils air taxi concept for dream project</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX 13 Tampa Bay</font>",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNY090dnFlU1JIbGFvZnN4eDA1RTBuTGFsbi1sdmFDcjZGRzhRS3pZU0ZiZnFvZEpWWXZ3dnpLRWhHZVBOOTFKM0dGRllpTVJaZ253QmNnMXZwTnpMMTBiVnhKOWpCNVdDRGQ1dkFiZ1g2MTRmNG9FVzRJT1lURWUtMmdVcHBHN0xLWTA5OW5XWlBVUklfZXJ1Ym5oRWp2d9IBowFBVV95cUxNclctb3ctRDlFdE1mQUNZZmlOVzE4TjAwS0J2aVFaT2FOM2lmNGtQdXRRdm8weUU3OW90c3ZBR2xYQk5DUjlvYmlWcTdkMkcxeE8zcUgwZ19OS1ZWMHlNNXZoN1RfX1BneFBCS1VqMXZKUmFISVg3UlFRd19OT2g3TTBPUzl5Z3VOSmdkcU94WjJmdUxQS01NT2VfX05ObXU2TXFn?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxNY090dnFlU1JIbGFvZnN4eDA1RTBuTGFsbi1sdmFDcjZGRzhRS3pZU0ZiZnFvZEpWWXZ3dnpLRWhHZVBOOTFKM0dGRllpTVJaZ253QmNnMXZwTnpMMTBiVnhKOWpCNVdDRGQ1dkFiZ1g2MTRmNG9FVzRJT1lURWUtMmdVcHBHN0xLWTA5OW5XWlBVUklfZXJ1Ym5oRWp2d9IBowFBVV95cUxNclctb3ctRDlFdE1mQUNZZmlOVzE4TjAwS0J2aVFaT2FOM2lmNGtQdXRRdm8weUU3OW90c3ZBR2xYQk5DUjlvYmlWcTdkMkcxeE8zcUgwZ19OS1ZWMHlNNXZoN1RfX1BneFBCS1VqMXZKUmFISVg3UlFRd19OT2g3TTBPUzl5Z3VOSmdkcU94WjJmdUxQS01NT2VfX05ObXU2TXFn?oc=5",
+      "publishedAt": "2026-05-22T03:00:00.000Z",
+      "source": "FOX 13 Tampa Bay",
+      "_feedRegion": "global",
+      "_feedName": "Google News (Global)",
+      "_scoring": {
+        "score": 50,
+        "categories": [
+          "技術・製品",
+          "政策・インフラ"
+        ],
+        "breakdown": {
+          "required": true,
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "policy": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 2,
+          "titleBonus": 10
         },
         "pass": true
       }
