@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-24T12:03:07.948Z",
-  "rawCount": 634,
+  "generatedAt": "2026-05-24T14:26:49.601Z",
+  "rawCount": 637,
   "articles": [
     {
       "title": "Choctaw ROTC's aerospace program produces 5 FAA-certified drone pilots, 15 safety certifications in breakout year",
@@ -191,6 +191,43 @@
           "policy": {
             "matches": 2,
             "catScore": 30
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 0,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "北京で「史上最も厳しい」ドローン規制が開始 政府側は「死刑」にまで言及 背景にイランの戦闘も",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE4ya3pfamhHbUtMVjdIN0RiQVFhSURMVkxxT3ZaYkV3YjBzX094YjY1SXltZlkyS05YdEZqRVlPLURqRXk2bDlLaWhvcFRLZVYxazJn?oc=5\" target=\"_blank\">北京で「史上最も厳しい」ドローン規制が開始 政府側は「死刑」にまで言及 背景にイランの戦闘も</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">東京新聞デジタル</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE4ya3pfamhHbUtMVjdIN0RiQVFhSURMVkxxT3ZaYkV3YjBzX094YjY1SXltZlkyS05YdEZqRVlPLURqRXk2bDlLaWhvcFRLZVYxazJn?oc=5\" target=\"_blank\">北京で「史上最も厳しい」ドローン規制が開始 政府側は「死刑」にまで言及 背景にイランの戦闘も</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">東京新聞デジタル</font>",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4ya3pfamhHbUtMVjdIN0RiQVFhSURMVkxxT3ZaYkV3YjBzX094YjY1SXltZlkyS05YdEZqRVlPLURqRXk2bDlLaWhvcFRLZVYxazJn?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4ya3pfamhHbUtMVjdIN0RiQVFhSURMVkxxT3ZaYkV3YjBzX094YjY1SXltZlkyS05YdEZqRVlPLURqRXk2bDlLaWhvcFRLZVYxazJn?oc=5",
+      "publishedAt": "2026-05-14T07:00:00.000Z",
+      "source": "東京新聞デジタル",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP)",
+      "_scoring": {
+        "score": 70,
+        "categories": [
+          "規制・政策",
+          "技術・製品"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
+          "technology": {
+            "matches": 1,
+            "catScore": 24
           },
           "sourceTrust": {
             "domain": "news.google.com",
@@ -1063,42 +1100,6 @@
           "freshness": 0,
           "titleBonus": 10,
           "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "Tampa International Airport unveils air taxi concept for dream project",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNY090dnFlU1JIbGFvZnN4eDA1RTBuTGFsbi1sdmFDcjZGRzhRS3pZU0ZiZnFvZEpWWXZ3dnpLRWhHZVBOOTFKM0dGRllpTVJaZ253QmNnMXZwTnpMMTBiVnhKOWpCNVdDRGQ1dkFiZ1g2MTRmNG9FVzRJT1lURWUtMmdVcHBHN0xLWTA5OW5XWlBVUklfZXJ1Ym5oRWp2d9IBowFBVV95cUxNclctb3ctRDlFdE1mQUNZZmlOVzE4TjAwS0J2aVFaT2FOM2lmNGtQdXRRdm8weUU3OW90c3ZBR2xYQk5DUjlvYmlWcTdkMkcxeE8zcUgwZ19OS1ZWMHlNNXZoN1RfX1BneFBCS1VqMXZKUmFISVg3UlFRd19OT2g3TTBPUzl5Z3VOSmdkcU94WjJmdUxQS01NT2VfX05ObXU2TXFn?oc=5\" target=\"_blank\">Tampa International Airport unveils air taxi concept for dream project</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX 13 Tampa Bay</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNY090dnFlU1JIbGFvZnN4eDA1RTBuTGFsbi1sdmFDcjZGRzhRS3pZU0ZiZnFvZEpWWXZ3dnpLRWhHZVBOOTFKM0dGRllpTVJaZ253QmNnMXZwTnpMMTBiVnhKOWpCNVdDRGQ1dkFiZ1g2MTRmNG9FVzRJT1lURWUtMmdVcHBHN0xLWTA5OW5XWlBVUklfZXJ1Ym5oRWp2d9IBowFBVV95cUxNclctb3ctRDlFdE1mQUNZZmlOVzE4TjAwS0J2aVFaT2FOM2lmNGtQdXRRdm8weUU3OW90c3ZBR2xYQk5DUjlvYmlWcTdkMkcxeE8zcUgwZ19OS1ZWMHlNNXZoN1RfX1BneFBCS1VqMXZKUmFISVg3UlFRd19OT2g3TTBPUzl5Z3VOSmdkcU94WjJmdUxQS01NT2VfX05ObXU2TXFn?oc=5\" target=\"_blank\">Tampa International Airport unveils air taxi concept for dream project</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX 13 Tampa Bay</font>",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNY090dnFlU1JIbGFvZnN4eDA1RTBuTGFsbi1sdmFDcjZGRzhRS3pZU0ZiZnFvZEpWWXZ3dnpLRWhHZVBOOTFKM0dGRllpTVJaZ253QmNnMXZwTnpMMTBiVnhKOWpCNVdDRGQ1dkFiZ1g2MTRmNG9FVzRJT1lURWUtMmdVcHBHN0xLWTA5OW5XWlBVUklfZXJ1Ym5oRWp2d9IBowFBVV95cUxNclctb3ctRDlFdE1mQUNZZmlOVzE4TjAwS0J2aVFaT2FOM2lmNGtQdXRRdm8weUU3OW90c3ZBR2xYQk5DUjlvYmlWcTdkMkcxeE8zcUgwZ19OS1ZWMHlNNXZoN1RfX1BneFBCS1VqMXZKUmFISVg3UlFRd19OT2g3TTBPUzl5Z3VOSmdkcU94WjJmdUxQS01NT2VfX05ObXU2TXFn?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxNY090dnFlU1JIbGFvZnN4eDA1RTBuTGFsbi1sdmFDcjZGRzhRS3pZU0ZiZnFvZEpWWXZ3dnpLRWhHZVBOOTFKM0dGRllpTVJaZ253QmNnMXZwTnpMMTBiVnhKOWpCNVdDRGQ1dkFiZ1g2MTRmNG9FVzRJT1lURWUtMmdVcHBHN0xLWTA5OW5XWlBVUklfZXJ1Ym5oRWp2d9IBowFBVV95cUxNclctb3ctRDlFdE1mQUNZZmlOVzE4TjAwS0J2aVFaT2FOM2lmNGtQdXRRdm8weUU3OW90c3ZBR2xYQk5DUjlvYmlWcTdkMkcxeE8zcUgwZ19OS1ZWMHlNNXZoN1RfX1BneFBCS1VqMXZKUmFISVg3UlFRd19OT2g3TTBPUzl5Z3VOSmdkcU94WjJmdUxQS01NT2VfX05ObXU2TXFn?oc=5",
-      "publishedAt": "2026-05-22T03:00:00.000Z",
-      "source": "FOX 13 Tampa Bay",
-      "_feedRegion": "global",
-      "_feedName": "Google News (Global)",
-      "_scoring": {
-        "score": 50,
-        "categories": [
-          "技術・製品",
-          "政策・インフラ"
-        ],
-        "breakdown": {
-          "required": true,
-          "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "policy": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 2,
-          "titleBonus": 10
         },
         "pass": true
       }
