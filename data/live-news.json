@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-30T09:22:35.879Z",
-  "rawCount": 669,
+  "generatedAt": "2026-05-30T11:25:09.053Z",
+  "rawCount": 661,
   "articles": [
     {
       "title": "FAA closes airspace in Fort Hancock, Texas after reported accidental use of anti-drone laser",
@@ -109,6 +109,43 @@
           "technology": {
             "matches": 1,
             "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 5,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "ヤマタネ[9305]：株式会社エアロネクストへの追加出資に関するお知らせ～農業分野でのドローン活用推進に向けて～ 2026年5月29日(適時開示) ：日経会社情報DIGITAL",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxORmt5QWFNdVZlWHNBNm93X0FaanpEWHY4NERuNm0tajBWQ0g5bW43UUtSZEdrWmQ0Mzl4N0U3R3lhcVVnQlZFUjFxNE1aZEdjRGptRmFOelFwNUMyRGNELUpZQXZjUTYzcjAzRENnQ0EwTThQSDdmUmxmTHctQzJYbW9LTlJubnBPT21ubW1VbWZHY3R5RHFZSld6WUdhd1R0Um5mRlVnNklYZ0ZlRjRmYklHckdDUGtrRV83TEJNVTJSQTRZblA2bklWN3E?oc=5\" target=\"_blank\">ヤマタネ[9305]：株式会社エアロネクストへの追加出資に関するお知らせ～農業分野でのドローン活用推進に向けて～ 2026年5月29日(適時開示) ：日経会社情報DIGITAL</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxORmt5QWFNdVZlWHNBNm93X0FaanpEWHY4NERuNm0tajBWQ0g5bW43UUtSZEdrWmQ0Mzl4N0U3R3lhcVVnQlZFUjFxNE1aZEdjRGptRmFOelFwNUMyRGNELUpZQXZjUTYzcjAzRENnQ0EwTThQSDdmUmxmTHctQzJYbW9LTlJubnBPT21ubW1VbWZHY3R5RHFZSld6WUdhd1R0Um5mRlVnNklYZ0ZlRjRmYklHckdDUGtrRV83TEJNVTJSQTRZblA2bklWN3E?oc=5\" target=\"_blank\">ヤマタネ[9305]：株式会社エアロネクストへの追加出資に関するお知らせ～農業分野でのドローン活用推進に向けて～ 2026年5月29日(適時開示) ：日経会社情報DIGITAL</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxORmt5QWFNdVZlWHNBNm93X0FaanpEWHY4NERuNm0tajBWQ0g5bW43UUtSZEdrWmQ0Mzl4N0U3R3lhcVVnQlZFUjFxNE1aZEdjRGptRmFOelFwNUMyRGNELUpZQXZjUTYzcjAzRENnQ0EwTThQSDdmUmxmTHctQzJYbW9LTlJubnBPT21ubW1VbWZHY3R5RHFZSld6WUdhd1R0Um5mRlVnNklYZ0ZlRjRmYklHckdDUGtrRV83TEJNVTJSQTRZblA2bklWN3E?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMizAFBVV95cUxORmt5QWFNdVZlWHNBNm93X0FaanpEWHY4NERuNm0tajBWQ0g5bW43UUtSZEdrWmQ0Mzl4N0U3R3lhcVVnQlZFUjFxNE1aZEdjRGptRmFOelFwNUMyRGNELUpZQXZjUTYzcjAzRENnQ0EwTThQSDdmUmxmTHctQzJYbW9LTlJubnBPT21ubW1VbWZHY3R5RHFZSld6WUdhd1R0Um5mRlVnNklYZ0ZlRjRmYklHckdDUGtrRV83TEJNVTJSQTRZblA2bklWN3E?oc=5",
+      "publishedAt": "2026-05-29T02:00:00.000Z",
+      "source": "日本経済新聞",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP 経済メディア)",
+      "_scoring": {
+        "score": 72,
+        "categories": [
+          "規制・政策",
+          "市場・資金"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
+          "market": {
+            "matches": 1,
+            "catScore": 20
           },
           "sourceTrust": {
             "domain": "news.google.com",
@@ -310,12 +347,12 @@
     },
     {
       "title": "【材料】 ＮＪＳが反発、インフラ点検調査用の水中ドローンを発売へ",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE5EblJDTlVvWXVfZjFEeThhR3FuNU95YlBJNkVVa0t2RDl6QTNqTHpOMF9MOE1nbFFPVFhpbVpBdWFIZlQyOERpWVVwTWgyZERhcWlNc25ndElJckE5dXFmNw?oc=5\" target=\"_blank\">【材料】 ＮＪＳが反発、インフラ点検調査用の水中ドローンを発売へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">かぶたん</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE5EblJDTlVvWXVfZjFEeThhR3FuNU95YlBJNkVVa0t2RDl6QTNqTHpOMF9MOE1nbFFPVFhpbVpBdWFIZlQyOERpWVVwTWgyZERhcWlNc25ndElJckE5dXFmNw?oc=5\" target=\"_blank\">【材料】 ＮＪＳが反発、インフラ点検調査用の水中ドローンを発売へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">かぶたん</font>",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE5EblJDTlVvWXVfZjFEeThhR3FuNU95YlBJNkVVa0t2RDl6QTNqTHpOMF9MOE1nbFFPVFhpbVpBdWFIZlQyOERpWVVwTWgyZERhcWlNc25ndElJckE5dXFmNw?oc=5\" target=\"_blank\">【材料】 ＮＪＳが反発、インフラ点検調査用の水中ドローンを発売へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">株探（かぶたん）</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE5EblJDTlVvWXVfZjFEeThhR3FuNU95YlBJNkVVa0t2RDl6QTNqTHpOMF9MOE1nbFFPVFhpbVpBdWFIZlQyOERpWVVwTWgyZERhcWlNc25ndElJckE5dXFmNw?oc=5\" target=\"_blank\">【材料】 ＮＪＳが反発、インフラ点検調査用の水中ドローンを発売へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">株探（かぶたん）</font>",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5EblJDTlVvWXVfZjFEeThhR3FuNU95YlBJNkVVa0t2RDl6QTNqTHpOMF9MOE1nbFFPVFhpbVpBdWFIZlQyOERpWVVwTWgyZERhcWlNc25ndElJckE5dXFmNw?oc=5",
       "googleNewsUrl": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5EblJDTlVvWXVfZjFEeThhR3FuNU95YlBJNkVVa0t2RDl6QTNqTHpOMF9MOE1nbFFPVFhpbVpBdWFIZlQyOERpWVVwTWgyZERhcWlNc25ndElJckE5dXFmNw?oc=5",
       "publishedAt": "2026-05-21T00:51:00.000Z",
-      "source": "かぶたん",
+      "source": "株探（かぶたん）",
       "_feedRegion": "jp",
       "_feedName": "Google News (JP 事業者/実装)",
       "_scoring": {
@@ -420,80 +457,6 @@
       }
     },
     {
-      "title": "農作業の効率化へ ドローンで農薬散布の実証実験 NTTが通信インフラの点検で培った技術を応用 福島：ニュース",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFA5STFWX3RNSFJxVHc5eEVtRkJSN19RemdwTXB2TU1oOC05Vk0wSWtIRGNGSFQ1MzFyMjJodEFjT3NaR1lLNktOcUxoQm02Wnlyd3N2OFlkLWVZZ2w5eWVmYmkzQnhfMElRbEFPTHhBSi1FNzNSQlZDMWpB?oc=5\" target=\"_blank\">農作業の効率化へ ドローンで農薬散布の実証実験 NTTが通信インフラの点検で培った技術を応用 福島：ニュース</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FTV 福島テレビ</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFA5STFWX3RNSFJxVHc5eEVtRkJSN19RemdwTXB2TU1oOC05Vk0wSWtIRGNGSFQ1MzFyMjJodEFjT3NaR1lLNktOcUxoQm02Wnlyd3N2OFlkLWVZZ2w5eWVmYmkzQnhfMElRbEFPTHhBSi1FNzNSQlZDMWpB?oc=5\" target=\"_blank\">農作業の効率化へ ドローンで農薬散布の実証実験 NTTが通信インフラの点検で培った技術を応用 福島：ニュース</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FTV 福島テレビ</font>",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA5STFWX3RNSFJxVHc5eEVtRkJSN19RemdwTXB2TU1oOC05Vk0wSWtIRGNGSFQ1MzFyMjJodEFjT3NaR1lLNktOcUxoQm02Wnlyd3N2OFlkLWVZZ2w5eWVmYmkzQnhfMElRbEFPTHhBSi1FNzNSQlZDMWpB?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA5STFWX3RNSFJxVHc5eEVtRkJSN19RemdwTXB2TU1oOC05Vk0wSWtIRGNGSFQ1MzFyMjJodEFjT3NaR1lLNktOcUxoQm02Wnlyd3N2OFlkLWVZZ2w5eWVmYmkzQnhfMElRbEFPTHhBSi1FNzNSQlZDMWpB?oc=5",
-      "publishedAt": "2026-05-27T10:18:00.000Z",
-      "source": "FTV 福島テレビ",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP 政策/実証)",
-      "_scoring": {
-        "score": 65,
-        "categories": [
-          "技術・製品",
-          "政策・インフラ"
-        ],
-        "breakdown": {
-          "required": true,
-          "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "policy": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 2,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "農作業の効率化へ ドローンで農薬散布の実証実験 NTTが通信インフラの点検で培った技術を応用 福島",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE11dFpYQXY4VzJkd25lbmRwVnd0V1F6UGRfR19aSENzdmxkcTE3a0V5OERIeC1fWjNLblRVM3EyblpOZUduUTRXWTdBcUNkQQ?oc=5\" target=\"_blank\">農作業の効率化へ ドローンで農薬散布の実証実験 NTTが通信インフラの点検で培った技術を応用 福島</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FNNプライムオンライン</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE11dFpYQXY4VzJkd25lbmRwVnd0V1F6UGRfR19aSENzdmxkcTE3a0V5OERIeC1fWjNLblRVM3EyblpOZUduUTRXWTdBcUNkQQ?oc=5\" target=\"_blank\">農作業の効率化へ ドローンで農薬散布の実証実験 NTTが通信インフラの点検で培った技術を応用 福島</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FNNプライムオンライン</font>",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11dFpYQXY4VzJkd25lbmRwVnd0V1F6UGRfR19aSENzdmxkcTE3a0V5OERIeC1fWjNLblRVM3EyblpOZUduUTRXWTdBcUNkQQ?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11dFpYQXY4VzJkd25lbmRwVnd0V1F6UGRfR19aSENzdmxkcTE3a0V5OERIeC1fWjNLblRVM3EyblpOZUduUTRXWTdBcUNkQQ?oc=5",
-      "publishedAt": "2026-05-27T10:18:00.000Z",
-      "source": "FNNプライムオンライン",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP 政策/実証)",
-      "_scoring": {
-        "score": 65,
-        "categories": [
-          "技術・製品",
-          "政策・インフラ"
-        ],
-        "breakdown": {
-          "required": true,
-          "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "policy": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 2,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
       "title": "Kazakhstan accelerates launch of air taxis with eVTOL trials and nationwide vertiport network",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxONWcxWGV2WFF2SWRzVW1jWEJCZWVCdlhmb0xxdUVXM3VaZUlkRTJlU051QURaTEg0cnpyWF96RVlobUlRS3IxOEZVTHNwOWlVdjFLaEpJZmpiZTZhRkRXNHlrSDIzVC1US013Y09fbkVmak81d3dpY2d4M1pVM2tiSVNOa2NJa2l4S2FnY0VITGNvZWs3TVlXbGlPdTNpYndSQ3FMSjQ0cEt0RW43VmE0MmtrYjg1TGc1RmVVQXZXOA?oc=5\" target=\"_blank\">Kazakhstan accelerates launch of air taxis with eVTOL trials and nationwide vertiport network</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TV BRICS</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxONWcxWGV2WFF2SWRzVW1jWEJCZWVCdlhmb0xxdUVXM3VaZUlkRTJlU051QURaTEg0cnpyWF96RVlobUlRS3IxOEZVTHNwOWlVdjFLaEpJZmpiZTZhRkRXNHlrSDIzVC1US013Y09fbkVmak81d3dpY2d4M1pVM2tiSVNOa2NJa2l4S2FnY0VITGNvZWs3TVlXbGlPdTNpYndSQ3FMSjQ0cEt0RW43VmE0MmtrYjg1TGc1RmVVQXZXOA?oc=5\" target=\"_blank\">Kazakhstan accelerates launch of air taxis with eVTOL trials and nationwide vertiport network</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TV BRICS</font>",
@@ -559,6 +522,80 @@
           "market": {
             "matches": 2,
             "catScore": 25
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 0,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "農作業の効率化へ ドローンで農薬散布の実証実験 NTTが通信インフラの点検で培った技術を応用 福島：ニュース",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFA5STFWX3RNSFJxVHc5eEVtRkJSN19RemdwTXB2TU1oOC05Vk0wSWtIRGNGSFQ1MzFyMjJodEFjT3NaR1lLNktOcUxoQm02Wnlyd3N2OFlkLWVZZ2w5eWVmYmkzQnhfMElRbEFPTHhBSi1FNzNSQlZDMWpB?oc=5\" target=\"_blank\">農作業の効率化へ ドローンで農薬散布の実証実験 NTTが通信インフラの点検で培った技術を応用 福島：ニュース</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FTV 福島テレビ</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFA5STFWX3RNSFJxVHc5eEVtRkJSN19RemdwTXB2TU1oOC05Vk0wSWtIRGNGSFQ1MzFyMjJodEFjT3NaR1lLNktOcUxoQm02Wnlyd3N2OFlkLWVZZ2w5eWVmYmkzQnhfMElRbEFPTHhBSi1FNzNSQlZDMWpB?oc=5\" target=\"_blank\">農作業の効率化へ ドローンで農薬散布の実証実験 NTTが通信インフラの点検で培った技術を応用 福島：ニュース</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FTV 福島テレビ</font>",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA5STFWX3RNSFJxVHc5eEVtRkJSN19RemdwTXB2TU1oOC05Vk0wSWtIRGNGSFQ1MzFyMjJodEFjT3NaR1lLNktOcUxoQm02Wnlyd3N2OFlkLWVZZ2w5eWVmYmkzQnhfMElRbEFPTHhBSi1FNzNSQlZDMWpB?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA5STFWX3RNSFJxVHc5eEVtRkJSN19RemdwTXB2TU1oOC05Vk0wSWtIRGNGSFQ1MzFyMjJodEFjT3NaR1lLNktOcUxoQm02Wnlyd3N2OFlkLWVZZ2w5eWVmYmkzQnhfMElRbEFPTHhBSi1FNzNSQlZDMWpB?oc=5",
+      "publishedAt": "2026-05-27T10:18:00.000Z",
+      "source": "FTV 福島テレビ",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP 政策/実証)",
+      "_scoring": {
+        "score": 63,
+        "categories": [
+          "技術・製品",
+          "政策・インフラ"
+        ],
+        "breakdown": {
+          "required": true,
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "policy": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 0,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "農作業の効率化へ ドローンで農薬散布の実証実験 NTTが通信インフラの点検で培った技術を応用 福島",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE11dFpYQXY4VzJkd25lbmRwVnd0V1F6UGRfR19aSENzdmxkcTE3a0V5OERIeC1fWjNLblRVM3EyblpOZUduUTRXWTdBcUNkQQ?oc=5\" target=\"_blank\">農作業の効率化へ ドローンで農薬散布の実証実験 NTTが通信インフラの点検で培った技術を応用 福島</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FNNプライムオンライン</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE11dFpYQXY4VzJkd25lbmRwVnd0V1F6UGRfR19aSENzdmxkcTE3a0V5OERIeC1fWjNLblRVM3EyblpOZUduUTRXWTdBcUNkQQ?oc=5\" target=\"_blank\">農作業の効率化へ ドローンで農薬散布の実証実験 NTTが通信インフラの点検で培った技術を応用 福島</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FNNプライムオンライン</font>",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11dFpYQXY4VzJkd25lbmRwVnd0V1F6UGRfR19aSENzdmxkcTE3a0V5OERIeC1fWjNLblRVM3EyblpOZUduUTRXWTdBcUNkQQ?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11dFpYQXY4VzJkd25lbmRwVnd0V1F6UGRfR19aSENzdmxkcTE3a0V5OERIeC1fWjNLblRVM3EyblpOZUduUTRXWTdBcUNkQQ?oc=5",
+      "publishedAt": "2026-05-27T10:18:00.000Z",
+      "source": "FNNプライムオンライン",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP 政策/実証)",
+      "_scoring": {
+        "score": 63,
+        "categories": [
+          "技術・製品",
+          "政策・インフラ"
+        ],
+        "breakdown": {
+          "required": true,
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "policy": {
+            "matches": 1,
+            "catScore": 24
           },
           "sourceTrust": {
             "domain": "news.google.com",
@@ -640,46 +677,6 @@
       }
     },
     {
-      "title": "Unifly named as technology partner for Malaysia’s UTM platform",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNQUhIMzJEalp2ck41SHFxR0R1Z09FN0p1SXJsVjJqLTNHc19WZ1dBS1BORDZkX00yS0l6cmFBT0E4MWdQcDBiZkRxQkFiY24wN1VNMXkycGdibW9pbVloS20tbnN1RXVpOTNHb0hhNVZXdDJFNEVsNDNEQzdPNUd0U3lwTnkzdURrdHE4dHczQlNwYjFyanN2STcyMFMxa1pOdzQ2QmpuVUY2dEN3am84?oc=5\" target=\"_blank\">Unifly named as technology partner for Malaysia’s UTM platform</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNQUhIMzJEalp2ck41SHFxR0R1Z09FN0p1SXJsVjJqLTNHc19WZ1dBS1BORDZkX00yS0l6cmFBT0E4MWdQcDBiZkRxQkFiY24wN1VNMXkycGdibW9pbVloS20tbnN1RXVpOTNHb0hhNVZXdDJFNEVsNDNEQzdPNUd0U3lwTnkzdURrdHE4dHczQlNwYjFyanN2STcyMFMxa1pOdzQ2QmpuVUY2dEN3am84?oc=5\" target=\"_blank\">Unifly named as technology partner for Malaysia’s UTM platform</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQUhIMzJEalp2ck41SHFxR0R1Z09FN0p1SXJsVjJqLTNHc19WZ1dBS1BORDZkX00yS0l6cmFBT0E4MWdQcDBiZkRxQkFiY24wN1VNMXkycGdibW9pbVloS20tbnN1RXVpOTNHb0hhNVZXdDJFNEVsNDNEQzdPNUd0U3lwTnkzdURrdHE4dHczQlNwYjFyanN2STcyMFMxa1pOdzQ2QmpuVUY2dEN3am84?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQUhIMzJEalp2ck41SHFxR0R1Z09FN0p1SXJsVjJqLTNHc19WZ1dBS1BORDZkX00yS0l6cmFBT0E4MWdQcDBiZkRxQkFiY24wN1VNMXkycGdibW9pbVloS20tbnN1RXVpOTNHb0hhNVZXdDJFNEVsNDNEQzdPNUd0U3lwTnkzdURrdHE4dHczQlNwYjFyanN2STcyMFMxa1pOdzQ2QmpuVUY2dEN3am84?oc=5",
-      "publishedAt": "2026-05-26T10:03:05.000Z",
-      "source": "Unmanned airspace",
-      "_feedRegion": "global",
-      "_feedName": "Google News (Global)",
-      "_scoring": {
-        "score": 61,
-        "categories": [
-          "規制・政策",
-          "技術・製品",
-          "市場・資金"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 1,
-            "catScore": 32
-          },
-          "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "market": {
-            "matches": 1,
-            "catScore": 20
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 0
-        },
-        "pass": true
-      }
-    },
-    {
       "title": "AIドローン点検技術、国交省カタログに掲載",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTFBCYkZLdDdoX29oT0QxV3Q2a0FFVkcyOUZxU2hQeXhtbVVwanVMQkhqbGc3UU1KdmcxMEUxZEtwTHc1UW5PQl9VVA?oc=5\" target=\"_blank\">AIドローン点検技術、国交省カタログに掲載</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LOGISTICS TODAY</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTFBCYkZLdDdoX29oT0QxV3Q2a0FFVkcyOUZxU2hQeXhtbVVwanVMQkhqbGc3UU1KdmcxMEUxZEtwTHc1UW5PQl9VVA?oc=5\" target=\"_blank\">AIドローン点検技術、国交省カタログに掲載</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LOGISTICS TODAY</font>",
@@ -756,7 +753,7 @@
       "publishedAt": "2026-05-30T05:12:00.000Z",
       "source": "乗りものニュース",
       "_feedRegion": "jp",
-      "_feedName": "Google News (JP 政策/実証)",
+      "_feedName": "Google News (JP)",
       "_scoring": {
         "score": 59,
         "categories": [
@@ -805,38 +802,6 @@
             "multiplier": 0.8
           },
           "freshness": 15,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "【JPIセミナー】国土交通省「無人航空機、空飛ぶクルマの利活用促進に向けた航空局の取り組み」6月11日(木)開催［日本計画研究所］",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE9vb3JWZE1yWW5oajE4U1ZhLS1qZVZ5T0tLYjRfdUNWWHd5WTg5aDlpQU5kX29EbVd3a2FWSGUwR3R1NlpiQk9yNnl4ZU1tVHpnRXBRcEtkNmM4RHR3azRqd0hGZGRueGs5dkhwZnlkUlRlVEMyU090TTJmNnY?oc=5\" target=\"_blank\">【JPIセミナー】国土交通省「無人航空機、空飛ぶクルマの利活用促進に向けた航空局の取り組み」6月11日(木)開催［日本計画研究所］</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE9vb3JWZE1yWW5oajE4U1ZhLS1qZVZ5T0tLYjRfdUNWWHd5WTg5aDlpQU5kX29EbVd3a2FWSGUwR3R1NlpiQk9yNnl4ZU1tVHpnRXBRcEtkNmM4RHR3azRqd0hGZGRueGs5dkhwZnlkUlRlVEMyU090TTJmNnY?oc=5\" target=\"_blank\">【JPIセミナー】国土交通省「無人航空機、空飛ぶクルマの利活用促進に向けた航空局の取り組み」6月11日(木)開催［日本計画研究所］</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9vb3JWZE1yWW5oajE4U1ZhLS1qZVZ5T0tLYjRfdUNWWHd5WTg5aDlpQU5kX29EbVd3a2FWSGUwR3R1NlpiQk9yNnl4ZU1tVHpnRXBRcEtkNmM4RHR3azRqd0hGZGRueGs5dkhwZnlkUlRlVEMyU090TTJmNnY?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9vb3JWZE1yWW5oajE4U1ZhLS1qZVZ5T0tLYjRfdUNWWHd5WTg5aDlpQU5kX29EbVd3a2FWSGUwR3R1NlpiQk9yNnl4ZU1tVHpnRXBRcEtkNmM4RHR3azRqd0hGZGRueGs5dkhwZnlkUlRlVEMyU090TTJmNnY?oc=5",
-      "publishedAt": "2026-05-27T09:29:12.000Z",
-      "source": "日本経済新聞",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP 経済メディア)",
-      "_scoring": {
-        "score": 59,
-        "categories": [
-          "規制・政策"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 2,
-            "catScore": 40
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 2,
           "titleBonus": 10,
           "jpRegionBonus": 15
         },
@@ -912,38 +877,6 @@
       }
     },
     {
-      "title": "ロシアドローン、集合住宅に墜落 ２人軽傷、７０人避難―ルーマニア：時事ドットコム",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE50QVlxV0sycnlpZU15Z0cxUmpaLUNGWURITzV3Z05BLWlhYjRLNnFrWl9pTk83bXFCZHRVZWJoX2lFRmMteTNRd3JVS1UwTFlzcm5XNzJ3WGlNSVpFc18xdWhTSQ?oc=5\" target=\"_blank\">ロシアドローン、集合住宅に墜落 ２人軽傷、７０人避難―ルーマニア：時事ドットコム</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">時事ドットコム</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE50QVlxV0sycnlpZU15Z0cxUmpaLUNGWURITzV3Z05BLWlhYjRLNnFrWl9pTk83bXFCZHRVZWJoX2lFRmMteTNRd3JVS1UwTFlzcm5XNzJ3WGlNSVpFc18xdWhTSQ?oc=5\" target=\"_blank\">ロシアドローン、集合住宅に墜落 ２人軽傷、７０人避難―ルーマニア：時事ドットコム</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">時事ドットコム</font>",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE50QVlxV0sycnlpZU15Z0cxUmpaLUNGWURITzV3Z05BLWlhYjRLNnFrWl9pTk83bXFCZHRVZWJoX2lFRmMteTNRd3JVS1UwTFlzcm5XNzJ3WGlNSVpFc18xdWhTSQ?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE50QVlxV0sycnlpZU15Z0cxUmpaLUNGWURITzV3Z05BLWlhYjRLNnFrWl9pTk83bXFCZHRVZWJoX2lFRmMteTNRd3JVS1UwTFlzcm5XNzJ3WGlNSVpFc18xdWhTSQ?oc=5",
-      "publishedAt": "2026-05-29T09:32:00.000Z",
-      "source": "時事ドットコム",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP)",
-      "_scoring": {
-        "score": 57,
-        "categories": [
-          "事故・事件"
-        ],
-        "breakdown": {
-          "required": true,
-          "incident": {
-            "matches": 1,
-            "catScore": 28
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 10,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
       "title": "【JPIセミナー】国土交通省「無人航空機、空飛ぶクルマの利活用促進に向けた航空局の取り組み」6月11日(木)開催",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE1vSndJa3UySEhFZVBpMUYwU3lFb0tMajVPN2dBODJWSG00dTFRZjM2R2M2VmxaV01Bbi1UZ1N0Z09feTE0dzdkU3hOaEpLWjlMbUY0alBIcHljS3d3WW1HdGQ4NU5wOUR2clE?oc=5\" target=\"_blank\">【JPIセミナー】国土交通省「無人航空機、空飛ぶクルマの利活用促進に向けた航空局の取り組み」6月11日(木)開催</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR TIMES</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE1vSndJa3UySEhFZVBpMUYwU3lFb0tMajVPN2dBODJWSG00dTFRZjM2R2M2VmxaV01Bbi1UZ1N0Z09feTE0dzdkU3hOaEpLWjlMbUY0alBIcHljS3d3WW1HdGQ4NU5wOUR2clE?oc=5\" target=\"_blank\">【JPIセミナー】国土交通省「無人航空機、空飛ぶクルマの利活用促進に向けた航空局の取り組み」6月11日(木)開催</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR TIMES</font>",
@@ -953,6 +886,38 @@
       "source": "PR TIMES",
       "_feedRegion": "jp",
       "_feedName": "Google News (JP 政策/実証)",
+      "_scoring": {
+        "score": 57,
+        "categories": [
+          "規制・政策"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 2,
+            "catScore": 40
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 0,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "【JPIセミナー】国土交通省「無人航空機、空飛ぶクルマの利活用促進に向けた航空局の取り組み」6月11日(木)開催［日本計画研究所］",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE9vb3JWZE1yWW5oajE4U1ZhLS1qZVZ5T0tLYjRfdUNWWHd5WTg5aDlpQU5kX29EbVd3a2FWSGUwR3R1NlpiQk9yNnl4ZU1tVHpnRXBRcEtkNmM4RHR3azRqd0hGZGRueGs5dkhwZnlkUlRlVEMyU090TTJmNnY?oc=5\" target=\"_blank\">【JPIセミナー】国土交通省「無人航空機、空飛ぶクルマの利活用促進に向けた航空局の取り組み」6月11日(木)開催［日本計画研究所］</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE9vb3JWZE1yWW5oajE4U1ZhLS1qZVZ5T0tLYjRfdUNWWHd5WTg5aDlpQU5kX29EbVd3a2FWSGUwR3R1NlpiQk9yNnl4ZU1tVHpnRXBRcEtkNmM4RHR3azRqd0hGZGRueGs5dkhwZnlkUlRlVEMyU090TTJmNnY?oc=5\" target=\"_blank\">【JPIセミナー】国土交通省「無人航空機、空飛ぶクルマの利活用促進に向けた航空局の取り組み」6月11日(木)開催［日本計画研究所］</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9vb3JWZE1yWW5oajE4U1ZhLS1qZVZ5T0tLYjRfdUNWWHd5WTg5aDlpQU5kX29EbVd3a2FWSGUwR3R1NlpiQk9yNnl4ZU1tVHpnRXBRcEtkNmM4RHR3azRqd0hGZGRueGs5dkhwZnlkUlRlVEMyU090TTJmNnY?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9vb3JWZE1yWW5oajE4U1ZhLS1qZVZ5T0tLYjRfdUNWWHd5WTg5aDlpQU5kX29EbVd3a2FWSGUwR3R1NlpiQk9yNnl4ZU1tVHpnRXBRcEtkNmM4RHR3azRqd0hGZGRueGs5dkhwZnlkUlRlVEMyU090TTJmNnY?oc=5",
+      "publishedAt": "2026-05-27T09:29:12.000Z",
+      "source": "日本経済新聞",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP 経済メディア)",
       "_scoring": {
         "score": 57,
         "categories": [
@@ -1001,6 +966,38 @@
             "multiplier": 0.8
           },
           "freshness": 5,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "ヤマタネ、農業ドローン活用へ追加出資",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE4yZmltSjA3cmNLQVFOcVc5aXlMNk94b09HNWFhN1VoM3ZhdnJmS2JJS1pid2lGQ1J2b0pReThtVm9PcmUyTzdqRA?oc=5\" target=\"_blank\">ヤマタネ、農業ドローン活用へ追加出資</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LOGISTICS TODAY</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE4yZmltSjA3cmNLQVFOcVc5aXlMNk94b09HNWFhN1VoM3ZhdnJmS2JJS1pid2lGQ1J2b0pReThtVm9PcmUyTzdqRA?oc=5\" target=\"_blank\">ヤマタネ、農業ドローン活用へ追加出資</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LOGISTICS TODAY</font>",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4yZmltSjA3cmNLQVFOcVc5aXlMNk94b09HNWFhN1VoM3ZhdnJmS2JJS1pid2lGQ1J2b0pReThtVm9PcmUyTzdqRA?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4yZmltSjA3cmNLQVFOcVc5aXlMNk94b09HNWFhN1VoM3ZhdnJmS2JJS1pid2lGQ1J2b0pReThtVm9PcmUyTzdqRA?oc=5",
+      "publishedAt": "2026-05-30T00:44:08.000Z",
+      "source": "LOGISTICS TODAY",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP 事業者/実装)",
+      "_scoring": {
+        "score": 56,
+        "categories": [
+          "市場・資金"
+        ],
+        "breakdown": {
+          "required": true,
+          "market": {
+            "matches": 1,
+            "catScore": 20
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 15,
           "titleBonus": 10,
           "jpRegionBonus": 15
         },
