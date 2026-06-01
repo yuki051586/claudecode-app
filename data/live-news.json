@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-31T23:05:05.648Z",
+  "generatedAt": "2026-06-01T04:47:58.999Z",
   "rawCount": 664,
   "articles": [
     {
@@ -55,7 +55,7 @@
       "_feedRegion": "us",
       "_feedName": "FAA",
       "_scoring": {
-        "score": 84,
+        "score": 79,
         "categories": [
           "規制・政策",
           "市場・資金",
@@ -79,7 +79,7 @@
             "domain": "news.google.com",
             "multiplier": 0.8
           },
-          "freshness": 10,
+          "freshness": 5,
           "titleBonus": 10
         },
         "pass": true
@@ -137,7 +137,7 @@
       "_feedRegion": "jp",
       "_feedName": "Google News (JP 政策/実証)",
       "_scoring": {
-        "score": 72,
+        "score": 70,
         "categories": [
           "規制・政策",
           "技術・製品"
@@ -156,7 +156,7 @@
             "domain": "news.google.com",
             "multiplier": 0.8
           },
-          "freshness": 2,
+          "freshness": 0,
           "titleBonus": 10,
           "jpRegionBonus": 15
         },
@@ -276,12 +276,12 @@
     },
     {
       "title": "【材料】 ＮＪＳが反発、インフラ点検調査用の水中ドローンを発売へ",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE5EblJDTlVvWXVfZjFEeThhR3FuNU95YlBJNkVVa0t2RDl6QTNqTHpOMF9MOE1nbFFPVFhpbVpBdWFIZlQyOERpWVVwTWgyZERhcWlNc25ndElJckE5dXFmNw?oc=5\" target=\"_blank\">【材料】 ＮＪＳが反発、インフラ点検調査用の水中ドローンを発売へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">かぶたん</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE5EblJDTlVvWXVfZjFEeThhR3FuNU95YlBJNkVVa0t2RDl6QTNqTHpOMF9MOE1nbFFPVFhpbVpBdWFIZlQyOERpWVVwTWgyZERhcWlNc25ndElJckE5dXFmNw?oc=5\" target=\"_blank\">【材料】 ＮＪＳが反発、インフラ点検調査用の水中ドローンを発売へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">かぶたん</font>",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE5EblJDTlVvWXVfZjFEeThhR3FuNU95YlBJNkVVa0t2RDl6QTNqTHpOMF9MOE1nbFFPVFhpbVpBdWFIZlQyOERpWVVwTWgyZERhcWlNc25ndElJckE5dXFmNw?oc=5\" target=\"_blank\">【材料】 ＮＪＳが反発、インフラ点検調査用の水中ドローンを発売へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">株探</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE5EblJDTlVvWXVfZjFEeThhR3FuNU95YlBJNkVVa0t2RDl6QTNqTHpOMF9MOE1nbFFPVFhpbVpBdWFIZlQyOERpWVVwTWgyZERhcWlNc25ndElJckE5dXFmNw?oc=5\" target=\"_blank\">【材料】 ＮＪＳが反発、インフラ点検調査用の水中ドローンを発売へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">株探</font>",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5EblJDTlVvWXVfZjFEeThhR3FuNU95YlBJNkVVa0t2RDl6QTNqTHpOMF9MOE1nbFFPVFhpbVpBdWFIZlQyOERpWVVwTWgyZERhcWlNc25ndElJckE5dXFmNw?oc=5",
       "googleNewsUrl": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5EblJDTlVvWXVfZjFEeThhR3FuNU95YlBJNkVVa0t2RDl6QTNqTHpOMF9MOE1nbFFPVFhpbVpBdWFIZlQyOERpWVVwTWgyZERhcWlNc25ndElJckE5dXFmNw?oc=5",
       "publishedAt": "2026-05-21T07:00:00.000Z",
-      "source": "かぶたん",
+      "source": "株探",
       "_feedRegion": "jp",
       "_feedName": "Google News (JP 事業者/実装)",
       "_scoring": {
@@ -344,6 +344,83 @@
           "freshness": 0,
           "titleBonus": 10,
           "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "Redwire (RDW) Is Up 40.5% After Securing Multi-Year UAS Defense Contracts - Has The Bull Case Changed?",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPUWFFYnF1TFBJdmdCQkd2NkxwcVhGbWFudDR6RjRZUTREMlVmRVdidEFZaEZnWHE1THg4blU5WmxNcWtvaWlzblItcV9GbjU4SmM5UGk4VTA0QzRILU1HdnZqb214cGJaZkhyR2lsb0pMc3ZmUWdpTm9yYWRnOGVNYV8zU3FmU1NuSmFBNExPaFB1QjZteC1jRmh2U3VkbThiTjJjdk1lQzk4d25RSGdlY2ttSDlEeUNiV3BuVDJaZU5JTFBXd3fSAcsBQVVfeXFMT0VocXo4Mnk2aGZNc29vTUY1ZjZFMTl4LU9DcXA1a0xoVXVaU0V4U3U1QnpKcDVSRDU4dm02dU5rUkJKd05hOXlmUFJNdFRuTnZzbjl4aXZqbEF5RXQ4RXFMY3JlZXNDYUV2blNadUdpM0JfZFY0REFIX1piMGc0VWFMWG1IZzFyUHJFSFdRNERSSjVWeVZpbkVPbUpwcFBRUkpLRjVSbmxQX1Y5blhtRUYxalFEYVQwbjZxaklKRjZNcXRHcWtsbG1xR3M?oc=5\" target=\"_blank\">Redwire (RDW) Is Up 40.5% After Securing Multi-Year UAS Defense Contracts - Has The Bull Case Changed?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">simplywall.st</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPUWFFYnF1TFBJdmdCQkd2NkxwcVhGbWFudDR6RjRZUTREMlVmRVdidEFZaEZnWHE1THg4blU5WmxNcWtvaWlzblItcV9GbjU4SmM5UGk4VTA0QzRILU1HdnZqb214cGJaZkhyR2lsb0pMc3ZmUWdpTm9yYWRnOGVNYV8zU3FmU1NuSmFBNExPaFB1QjZteC1jRmh2U3VkbThiTjJjdk1lQzk4d25RSGdlY2ttSDlEeUNiV3BuVDJaZU5JTFBXd3fSAcsBQVVfeXFMT0VocXo4Mnk2aGZNc29vTUY1ZjZFMTl4LU9DcXA1a0xoVXVaU0V4U3U1QnpKcDVSRDU4dm02dU5rUkJKd05hOXlmUFJNdFRuTnZzbjl4aXZqbEF5RXQ4RXFMY3JlZXNDYUV2blNadUdpM0JfZFY0REFIX1piMGc0VWFMWG1IZzFyUHJFSFdRNERSSjVWeVZpbkVPbUpwcFBRUkpLRjVSbmxQX1Y5blhtRUYxalFEYVQwbjZxaklKRjZNcXRHcWtsbG1xR3M?oc=5\" target=\"_blank\">Redwire (RDW) Is Up 40.5% After Securing Multi-Year UAS Defense Contracts - Has The Bull Case Changed?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">simplywall.st</font>",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUWFFYnF1TFBJdmdCQkd2NkxwcVhGbWFudDR6RjRZUTREMlVmRVdidEFZaEZnWHE1THg4blU5WmxNcWtvaWlzblItcV9GbjU4SmM5UGk4VTA0QzRILU1HdnZqb214cGJaZkhyR2lsb0pMc3ZmUWdpTm9yYWRnOGVNYV8zU3FmU1NuSmFBNExPaFB1QjZteC1jRmh2U3VkbThiTjJjdk1lQzk4d25RSGdlY2ttSDlEeUNiV3BuVDJaZU5JTFBXd3fSAcsBQVVfeXFMT0VocXo4Mnk2aGZNc29vTUY1ZjZFMTl4LU9DcXA1a0xoVXVaU0V4U3U1QnpKcDVSRDU4dm02dU5rUkJKd05hOXlmUFJNdFRuTnZzbjl4aXZqbEF5RXQ4RXFMY3JlZXNDYUV2blNadUdpM0JfZFY0REFIX1piMGc0VWFMWG1IZzFyUHJFSFdRNERSSjVWeVZpbkVPbUpwcFBRUkpLRjVSbmxQX1Y5blhtRUYxalFEYVQwbjZxaklKRjZNcXRHcWtsbG1xR3M?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUWFFYnF1TFBJdmdCQkd2NkxwcVhGbWFudDR6RjRZUTREMlVmRVdidEFZaEZnWHE1THg4blU5WmxNcWtvaWlzblItcV9GbjU4SmM5UGk4VTA0QzRILU1HdnZqb214cGJaZkhyR2lsb0pMc3ZmUWdpTm9yYWRnOGVNYV8zU3FmU1NuSmFBNExPaFB1QjZteC1jRmh2U3VkbThiTjJjdk1lQzk4d25RSGdlY2ttSDlEeUNiV3BuVDJaZU5JTFBXd3fSAcsBQVVfeXFMT0VocXo4Mnk2aGZNc29vTUY1ZjZFMTl4LU9DcXA1a0xoVXVaU0V4U3U1QnpKcDVSRDU4dm02dU5rUkJKd05hOXlmUFJNdFRuTnZzbjl4aXZqbEF5RXQ4RXFMY3JlZXNDYUV2blNadUdpM0JfZFY0REFIX1piMGc0VWFMWG1IZzFyUHJFSFdRNERSSjVWeVZpbkVPbUpwcFBRUkpLRjVSbmxQX1Y5blhtRUYxalFEYVQwbjZxaklKRjZNcXRHcWtsbG1xR3M?oc=5",
+      "publishedAt": "2026-06-01T03:18:09.000Z",
+      "source": "simplywall.st",
+      "_feedRegion": "global",
+      "_feedName": "Google News (Global)",
+      "_scoring": {
+        "score": 65,
+        "categories": [
+          "市場・資金",
+          "政策・インフラ"
+        ],
+        "breakdown": {
+          "required": true,
+          "market": {
+            "matches": 1,
+            "catScore": 20
+          },
+          "policy": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 20,
+          "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "STILFOLD launches software-defined vertiport",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNajEtVVczRVh6Q1luNVRubUZwaFh1bG0yYjdDZ1FJX3k5TzYtOGtCMDRGUzdJU3l3OFZlLXRLbUQtaGJrNm1rdzV0czBtcmd1am5Rby1kektsWHg0VTd4cW9CQUZBR2lyLVRQc3FUNllyZ0IzeHBqQ3F3MjVWbHFDWlJyZlZjcHZmaFgydQ?oc=5\" target=\"_blank\">STILFOLD launches software-defined vertiport</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Vertical Mag</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNajEtVVczRVh6Q1luNVRubUZwaFh1bG0yYjdDZ1FJX3k5TzYtOGtCMDRGUzdJU3l3OFZlLXRLbUQtaGJrNm1rdzV0czBtcmd1am5Rby1kektsWHg0VTd4cW9CQUZBR2lyLVRQc3FUNllyZ0IzeHBqQ3F3MjVWbHFDWlJyZlZjcHZmaFgydQ?oc=5\" target=\"_blank\">STILFOLD launches software-defined vertiport</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Vertical Mag</font>",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNajEtVVczRVh6Q1luNVRubUZwaFh1bG0yYjdDZ1FJX3k5TzYtOGtCMDRGUzdJU3l3OFZlLXRLbUQtaGJrNm1rdzV0czBtcmd1am5Rby1kektsWHg0VTd4cW9CQUZBR2lyLVRQc3FUNllyZ0IzeHBqQ3F3MjVWbHFDWlJyZlZjcHZmaFgydQ?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNajEtVVczRVh6Q1luNVRubUZwaFh1bG0yYjdDZ1FJX3k5TzYtOGtCMDRGUzdJU3l3OFZlLXRLbUQtaGJrNm1rdzV0czBtcmd1am5Rby1kektsWHg0VTd4cW9CQUZBR2lyLVRQc3FUNllyZ0IzeHBqQ3F3MjVWbHFDWlJyZlZjcHZmaFgydQ?oc=5",
+      "publishedAt": "2026-05-25T16:54:16.000Z",
+      "source": "Vertical Mag",
+      "_feedRegion": "global",
+      "_feedName": "Google News (Global)",
+      "_scoring": {
+        "score": 64,
+        "categories": [
+          "技術・製品",
+          "市場・資金",
+          "政策・インフラ"
+        ],
+        "breakdown": {
+          "required": true,
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "market": {
+            "matches": 1,
+            "catScore": 20
+          },
+          "policy": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 0,
+          "titleBonus": 10
         },
         "pass": true
       }
@@ -818,42 +895,6 @@
       }
     },
     {
-      "title": "Joby Aviation Nears Air Taxi Launch As FAA Progress Meets Partner Plans",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxObDl6Nm0yS2J0bnZTMnpISTluQzRETnJMQkNrUkhCSTVqNkFtQlpRbUt1a28tNWt4SGNZcFNzUmhyX2dGNzFXd2Z5aWVrMWpPUEw2ZlhiRjRCY2RjdnBVMDRTVDRKNnJKVjhZVWpYNVYzYk5KZnNjNVpKbU5najJzVnF0N2ZRbGdkd1NKQWZFdXZ4ZGpuMEdmNw?oc=5\" target=\"_blank\">Joby Aviation Nears Air Taxi Launch As FAA Progress Meets Partner Plans</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxObDl6Nm0yS2J0bnZTMnpISTluQzRETnJMQkNrUkhCSTVqNkFtQlpRbUt1a28tNWt4SGNZcFNzUmhyX2dGNzFXd2Z5aWVrMWpPUEw2ZlhiRjRCY2RjdnBVMDRTVDRKNnJKVjhZVWpYNVYzYk5KZnNjNVpKbU5najJzVnF0N2ZRbGdkd1NKQWZFdXZ4ZGpuMEdmNw?oc=5\" target=\"_blank\">Joby Aviation Nears Air Taxi Launch As FAA Progress Meets Partner Plans</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObDl6Nm0yS2J0bnZTMnpISTluQzRETnJMQkNrUkhCSTVqNkFtQlpRbUt1a28tNWt4SGNZcFNzUmhyX2dGNzFXd2Z5aWVrMWpPUEw2ZlhiRjRCY2RjdnBVMDRTVDRKNnJKVjhZVWpYNVYzYk5KZnNjNVpKbU5najJzVnF0N2ZRbGdkd1NKQWZFdXZ4ZGpuMEdmNw?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObDl6Nm0yS2J0bnZTMnpISTluQzRETnJMQkNrUkhCSTVqNkFtQlpRbUt1a28tNWt4SGNZcFNzUmhyX2dGNzFXd2Z5aWVrMWpPUEw2ZlhiRjRCY2RjdnBVMDRTVDRKNnJKVjhZVWpYNVYzYk5KZnNjNVpKbU5najJzVnF0N2ZRbGdkd1NKQWZFdXZ4ZGpuMEdmNw?oc=5",
-      "publishedAt": "2026-05-19T07:00:00.000Z",
-      "source": "Yahoo Finance",
-      "_feedRegion": "us",
-      "_feedName": "FAA",
-      "_scoring": {
-        "score": 55,
-        "categories": [
-          "規制・政策",
-          "技術・製品"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 1,
-            "catScore": 32
-          },
-          "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 0,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
       "title": "Matternet, The World’s Only FAA Type-Certified Drone Delivery Platform, Raises $33M Private Placement as Part of Go-Public Transaction",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMimgJBVV95cUxQN0twWW9xdDVvNzh5cXd4RHpEbDFtZFFWbFdYVlFYMUlhNURKaUo1NUNyd1BtNS1JSHR6ai1tSDUwb1ZGcVlBZHpYamUyU0NURjhGTEtlZ1Zxbkl0MEE3bGt5RGlUblpXT3Q1NURYLWpYVTU3eW02c09HaWJGRTh0RW9MWjFwVmVZY3hTUXZ4enNTQ3UyMlB0U1RPLTJMeTdINldURHMyUnFhVC0zQXFCMTNCM2FCSE9pSi1PY3dVaDZoVmJxUWhTa194bGM0SW1ESUQ0QUFlOXkyVmkyMFdXU1Atbm5Bb2lPbElsWFJiOGpPOERkNXJ5RHM0bVRuYW9PcldaX2ljbTF4Y1ZteTlBOWFMejlqc0JpYlE?oc=5\" target=\"_blank\">Matternet, The World’s Only FAA Type-Certified Drone Delivery Platform, Raises $33M Private Placement as Part of Go-Public Transaction</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Wire</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMimgJBVV95cUxQN0twWW9xdDVvNzh5cXd4RHpEbDFtZFFWbFdYVlFYMUlhNURKaUo1NUNyd1BtNS1JSHR6ai1tSDUwb1ZGcVlBZHpYamUyU0NURjhGTEtlZ1Zxbkl0MEE3bGt5RGlUblpXT3Q1NURYLWpYVTU3eW02c09HaWJGRTh0RW9MWjFwVmVZY3hTUXZ4enNTQ3UyMlB0U1RPLTJMeTdINldURHMyUnFhVC0zQXFCMTNCM2FCSE9pSi1PY3dVaDZoVmJxUWhTa194bGM0SW1ESUQ0QUFlOXkyVmkyMFdXU1Atbm5Bb2lPbElsWFJiOGpPOERkNXJ5RHM0bVRuYW9PcldaX2ljbTF4Y1ZteTlBOWFMejlqc0JpYlE?oc=5\" target=\"_blank\">Matternet, The World’s Only FAA Type-Certified Drone Delivery Platform, Raises $33M Private Placement as Part of Go-Public Transaction</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Wire</font>",
@@ -876,6 +917,42 @@
             "catScore": 32
           },
           "policy": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 0,
+          "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "Joby Aviation Nears Air Taxi Launch As FAA Progress Meets Partner Plans",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxObDl6Nm0yS2J0bnZTMnpISTluQzRETnJMQkNrUkhCSTVqNkFtQlpRbUt1a28tNWt4SGNZcFNzUmhyX2dGNzFXd2Z5aWVrMWpPUEw2ZlhiRjRCY2RjdnBVMDRTVDRKNnJKVjhZVWpYNVYzYk5KZnNjNVpKbU5najJzVnF0N2ZRbGdkd1NKQWZFdXZ4ZGpuMEdmNw?oc=5\" target=\"_blank\">Joby Aviation Nears Air Taxi Launch As FAA Progress Meets Partner Plans</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxObDl6Nm0yS2J0bnZTMnpISTluQzRETnJMQkNrUkhCSTVqNkFtQlpRbUt1a28tNWt4SGNZcFNzUmhyX2dGNzFXd2Z5aWVrMWpPUEw2ZlhiRjRCY2RjdnBVMDRTVDRKNnJKVjhZVWpYNVYzYk5KZnNjNVpKbU5najJzVnF0N2ZRbGdkd1NKQWZFdXZ4ZGpuMEdmNw?oc=5\" target=\"_blank\">Joby Aviation Nears Air Taxi Launch As FAA Progress Meets Partner Plans</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObDl6Nm0yS2J0bnZTMnpISTluQzRETnJMQkNrUkhCSTVqNkFtQlpRbUt1a28tNWt4SGNZcFNzUmhyX2dGNzFXd2Z5aWVrMWpPUEw2ZlhiRjRCY2RjdnBVMDRTVDRKNnJKVjhZVWpYNVYzYk5KZnNjNVpKbU5najJzVnF0N2ZRbGdkd1NKQWZFdXZ4ZGpuMEdmNw?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObDl6Nm0yS2J0bnZTMnpISTluQzRETnJMQkNrUkhCSTVqNkFtQlpRbUt1a28tNWt4SGNZcFNzUmhyX2dGNzFXd2Z5aWVrMWpPUEw2ZlhiRjRCY2RjdnBVMDRTVDRKNnJKVjhZVWpYNVYzYk5KZnNjNVpKbU5najJzVnF0N2ZRbGdkd1NKQWZFdXZ4ZGpuMEdmNw?oc=5",
+      "publishedAt": "2026-05-19T07:00:00.000Z",
+      "source": "Yahoo Finance",
+      "_feedRegion": "us",
+      "_feedName": "FAA",
+      "_scoring": {
+        "score": 55,
+        "categories": [
+          "規制・政策",
+          "技術・製品"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
+          "technology": {
             "matches": 1,
             "catScore": 24
           },
@@ -926,38 +1003,6 @@
       }
     },
     {
-      "title": "中国製大型eVTOL「オートフライト」、カザフスタンで実証飛行に成功 中央アジア初",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiO0FVX3lxTE5QTjdYQjBnaFphUGFLM25DS0hOb2JQNF9jdzFoWTVxb1NKdnZyQ2RDeG0wc0cta21zWmFF?oc=5\" target=\"_blank\">中国製大型eVTOL「オートフライト」、カザフスタンで実証飛行に成功 中央アジア初</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">36Kr Japan</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiO0FVX3lxTE5QTjdYQjBnaFphUGFLM25DS0hOb2JQNF9jdzFoWTVxb1NKdnZyQ2RDeG0wc0cta21zWmFF?oc=5\" target=\"_blank\">中国製大型eVTOL「オートフライト」、カザフスタンで実証飛行に成功 中央アジア初</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">36Kr Japan</font>",
-      "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE5QTjdYQjBnaFphUGFLM25DS0hOb2JQNF9jdzFoWTVxb1NKdnZyQ2RDeG0wc0cta21zWmFF?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE5QTjdYQjBnaFphUGFLM25DS0hOb2JQNF9jdzFoWTVxb1NKdnZyQ2RDeG0wc0cta21zWmFF?oc=5",
-      "publishedAt": "2026-05-31T04:04:43.000Z",
-      "source": "36Kr Japan",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP 政策/実証)",
-      "_scoring": {
-        "score": 54,
-        "categories": [
-          "技術・製品"
-        ],
-        "breakdown": {
-          "required": true,
-          "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 10,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
       "title": "AIドローン点検技術、国交省カタログに掲載",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTFBCYkZLdDdoX29oT0QxV3Q2a0FFVkcyOUZxU2hQeXhtbVVwanVMQkhqbGc3UU1KdmcxMEUxZEtwTHc1UW5PQl9VVA?oc=5\" target=\"_blank\">AIドローン点検技術、国交省カタログに掲載</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LOGISTICS TODAY</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTFBCYkZLdDdoX29oT0QxV3Q2a0FFVkcyOUZxU2hQeXhtbVVwanVMQkhqbGc3UU1KdmcxMEUxZEtwTHc1UW5PQl9VVA?oc=5\" target=\"_blank\">AIドローン点検技術、国交省カタログに掲載</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LOGISTICS TODAY</font>",
@@ -965,38 +1010,6 @@
       "googleNewsUrl": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBCYkZLdDdoX29oT0QxV3Q2a0FFVkcyOUZxU2hQeXhtbVVwanVMQkhqbGc3UU1KdmcxMEUxZEtwTHc1UW5PQl9VVA?oc=5",
       "publishedAt": "2026-05-29T18:58:02.000Z",
       "source": "LOGISTICS TODAY",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP 政策/実証)",
-      "_scoring": {
-        "score": 53,
-        "categories": [
-          "規制・政策"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 1,
-            "catScore": 32
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 2,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "ワールドカップでドローン飛行禁止へ米連邦航空局 試合会場や合宿地、練習施設、宿泊先も",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPVHhtN2Uzakg5TmY3ckFmUFltT2tqVndqeWVLUi12UXpNQzBINmRoQzJmQ3k0NS1zRWtxMzBpU3FBNl9fYVpjdVRheGlzbEJxaDlidnBsVlNPUUZtNzNYNzFfdjlLUFdpbjBkRHVScFBQbjl4cmFyMUYteFowdHVyc1J6dEFFNWc5Ti0xd1FEQUZmQVFPTmQ2SjZPWWhjZw?oc=5\" target=\"_blank\">ワールドカップでドローン飛行禁止へ米連邦航空局 試合会場や合宿地、練習施設、宿泊先も</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日刊スポーツ</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPVHhtN2Uzakg5TmY3ckFmUFltT2tqVndqeWVLUi12UXpNQzBINmRoQzJmQ3k0NS1zRWtxMzBpU3FBNl9fYVpjdVRheGlzbEJxaDlidnBsVlNPUUZtNzNYNzFfdjlLUFdpbjBkRHVScFBQbjl4cmFyMUYteFowdHVyc1J6dEFFNWc5Ti0xd1FEQUZmQVFPTmQ2SjZPWWhjZw?oc=5\" target=\"_blank\">ワールドカップでドローン飛行禁止へ米連邦航空局 試合会場や合宿地、練習施設、宿泊先も</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日刊スポーツ</font>",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVHhtN2Uzakg5TmY3ckFmUFltT2tqVndqeWVLUi12UXpNQzBINmRoQzJmQ3k0NS1zRWtxMzBpU3FBNl9fYVpjdVRheGlzbEJxaDlidnBsVlNPUUZtNzNYNzFfdjlLUFdpbjBkRHVScFBQbjl4cmFyMUYteFowdHVyc1J6dEFFNWc5Ti0xd1FEQUZmQVFPTmQ2SjZPWWhjZw?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVHhtN2Uzakg5TmY3ckFmUFltT2tqVndqeWVLUi12UXpNQzBINmRoQzJmQ3k0NS1zRWtxMzBpU3FBNl9fYVpjdVRheGlzbEJxaDlidnBsVlNPUUZtNzNYNzFfdjlLUFdpbjBkRHVScFBQbjl4cmFyMUYteFowdHVyc1J6dEFFNWc5Ti0xd1FEQUZmQVFPTmQ2SjZPWWhjZw?oc=5",
-      "publishedAt": "2026-05-29T02:04:41.000Z",
-      "source": "日刊スポーツ",
       "_feedRegion": "jp",
       "_feedName": "Google News (JP 政策/実証)",
       "_scoring": {
