@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-06T07:51:47.529Z",
-  "rawCount": 613,
+  "generatedAt": "2026-06-06T10:09:36.125Z",
+  "rawCount": 683,
   "articles": [
     {
       "title": "DPS Reminds Drone Operators to Follow FAA Restrictions Ahead of 2026 FIFA World Cup",
@@ -39,6 +39,43 @@
           },
           "freshness": 10,
           "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "Prodrone、第一種型式認証取得目前の「PD6B-CAT3」披露。純国産ブランド「サムライテック」を立ち上げへ [Japan Drone 2026]",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5MNlZzOVBGUTlTdzFzc2huWVVZT3EtR0o3SUtnSzJhR2NnSXpRN0lyR3FEOUtoN0hKek8wa0NHNDNjSUwzdFFIcUp5RVJoWUZKcTFtMnNxMi1iVzNVVHdV?oc=5\" target=\"_blank\">Prodrone、第一種型式認証取得目前の「PD6B-CAT3」披露。純国産ブランド「サムライテック」を立ち上げへ [Japan Drone 2026]</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DRONE.jp</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5MNlZzOVBGUTlTdzFzc2huWVVZT3EtR0o3SUtnSzJhR2NnSXpRN0lyR3FEOUtoN0hKek8wa0NHNDNjSUwzdFFIcUp5RVJoWUZKcTFtMnNxMi1iVzNVVHdV?oc=5\" target=\"_blank\">Prodrone、第一種型式認証取得目前の「PD6B-CAT3」披露。純国産ブランド「サムライテック」を立ち上げへ [Japan Drone 2026]</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DRONE.jp</font>",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5MNlZzOVBGUTlTdzFzc2huWVVZT3EtR0o3SUtnSzJhR2NnSXpRN0lyR3FEOUtoN0hKek8wa0NHNDNjSUwzdFFIcUp5RVJoWUZKcTFtMnNxMi1iVzNVVHdV?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5MNlZzOVBGUTlTdzFzc2huWVVZT3EtR0o3SUtnSzJhR2NnSXpRN0lyR3FEOUtoN0hKek8wa0NHNDNjSUwzdFFIcUp5RVJoWUZKcTFtMnNxMi1iVzNVVHdV?oc=5",
+      "publishedAt": "2026-06-06T02:31:49.000Z",
+      "source": "DRONE.jp",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP ドローン専門)",
+      "_scoring": {
+        "score": 85,
+        "categories": [
+          "規制・政策",
+          "技術・製品"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 15,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
         },
         "pass": true
       }
@@ -126,6 +163,47 @@
       }
     },
     {
+      "title": "FAA investigates drone incidents at Eastern Iowa Airport possibly tied to data center site",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOb0RZR1pRV1duUEFPc3BZaEdka09OZGlfaDdfVmVDRmozWHdNaEE4QXJDRjdtb0RsLU9GZ3lHakZReHRIWDMwVVBzUlc2YUtVU1V0RGJmbV9IcngxMFhBd1JjLVFHamZNUDdPWFhHdENJTTZBZ0ZkUUxvTnpqVWN3MTFmazJSNGhHeTJfWS12ckJNSWk2MzlBb2szdkRjbmFyME0xNHlTWWg3N0lDX0ROZklFQ1d1aGE4S2lGdmF1MzA?oc=5\" target=\"_blank\">FAA investigates drone incidents at Eastern Iowa Airport possibly tied to data center site</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KCRG</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOb0RZR1pRV1duUEFPc3BZaEdka09OZGlfaDdfVmVDRmozWHdNaEE4QXJDRjdtb0RsLU9GZ3lHakZReHRIWDMwVVBzUlc2YUtVU1V0RGJmbV9IcngxMFhBd1JjLVFHamZNUDdPWFhHdENJTTZBZ0ZkUUxvTnpqVWN3MTFmazJSNGhHeTJfWS12ckJNSWk2MzlBb2szdkRjbmFyME0xNHlTWWg3N0lDX0ROZklFQ1d1aGE4S2lGdmF1MzA?oc=5\" target=\"_blank\">FAA investigates drone incidents at Eastern Iowa Airport possibly tied to data center site</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KCRG</font>",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOb0RZR1pRV1duUEFPc3BZaEdka09OZGlfaDdfVmVDRmozWHdNaEE4QXJDRjdtb0RsLU9GZ3lHakZReHRIWDMwVVBzUlc2YUtVU1V0RGJmbV9IcngxMFhBd1JjLVFHamZNUDdPWFhHdENJTTZBZ0ZkUUxvTnpqVWN3MTFmazJSNGhHeTJfWS12ckJNSWk2MzlBb2szdkRjbmFyME0xNHlTWWg3N0lDX0ROZklFQ1d1aGE4S2lGdmF1MzA?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOb0RZR1pRV1duUEFPc3BZaEdka09OZGlfaDdfVmVDRmozWHdNaEE4QXJDRjdtb0RsLU9GZ3lHakZReHRIWDMwVVBzUlc2YUtVU1V0RGJmbV9IcngxMFhBd1JjLVFHamZNUDdPWFhHdENJTTZBZ0ZkUUxvTnpqVWN3MTFmazJSNGhHeTJfWS12ckJNSWk2MzlBb2szdkRjbmFyME0xNHlTWWg3N0lDX0ROZklFQ1d1aGE4S2lGdmF1MzA?oc=5",
+      "publishedAt": "2026-06-04T00:16:19.000Z",
+      "source": "KCRG",
+      "_feedRegion": "us",
+      "_feedName": "FAA",
+      "_scoring": {
+        "score": 79,
+        "categories": [
+          "規制・政策",
+          "事故・事件",
+          "政策・インフラ"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
+          "incident": {
+            "matches": 1,
+            "catScore": 28
+          },
+          "policy": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 2,
+          "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
       "title": "空飛ぶクルマ「eVTOL」統合パイロットプログラム始動、FAAとNASAと連携し商業空港での運航実証へ…米ジョビー",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFBuSkR3REJvc3lTaXNxX2d5eHpPUFdmT0ptTmFGaEZTS0VwVzhwdGl0MFZKSjdwWGFhR0hMRWNTLWZJQmhhTDdoSnRVWTFNemFZUXN6ME5fTzQ5T1QtX1kw?oc=5\" target=\"_blank\">空飛ぶクルマ「eVTOL」統合パイロットプログラム始動、FAAとNASAと連携し商業空港での運航実証へ…米ジョビー</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">レスポンス（Response.jp）</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFBuSkR3REJvc3lTaXNxX2d5eHpPUFdmT0ptTmFGaEZTS0VwVzhwdGl0MFZKSjdwWGFhR0hMRWNTLWZJQmhhTDdoSnRVWTFNemFZUXN6ME5fTzQ5T1QtX1kw?oc=5\" target=\"_blank\">空飛ぶクルマ「eVTOL」統合パイロットプログラム始動、FAAとNASAと連携し商業空港での運航実証へ…米ジョビー</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">レスポンス（Response.jp）</font>",
@@ -164,16 +242,16 @@
     },
     {
       "title": "Assessing BETA Technologies (BETA) Valuation After High Profile eVTOL Flights And FAA Pilot Program Launch",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxNNEpTWXI3WUM5UUl5czNBam92ajFKTnZQbzlnbTFGX2s2MFdsd3U4RGt5MWozNkptNDFvaUxLWFZlOEFEVHdlemRFekJMTDJjdGs3dVJWbGY1R295NnhqSE9abUptRC1jSWpuVXdzV1F0Mnd6cjh4ejNnSG1wMFM4UEhQeF9IbFpMbFhBQ1lCeXhQMEIxN2dzQzVIRGIxbEhLcVFOQVJOZlNTRk1yM3haRGJLUkFYWGw1WVlqb0tJbUxMbkJFZ2hsMVVGQ2RZdHp6V3pDeDJGdjJNeVR2WGZXcldUUlJ3WHYwRFMydw?oc=5\" target=\"_blank\">Assessing BETA Technologies (BETA) Valuation After High Profile eVTOL Flights And FAA Pilot Program Launch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sahm</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxNNEpTWXI3WUM5UUl5czNBam92ajFKTnZQbzlnbTFGX2s2MFdsd3U4RGt5MWozNkptNDFvaUxLWFZlOEFEVHdlemRFekJMTDJjdGs3dVJWbGY1R295NnhqSE9abUptRC1jSWpuVXdzV1F0Mnd6cjh4ejNnSG1wMFM4UEhQeF9IbFpMbFhBQ1lCeXhQMEIxN2dzQzVIRGIxbEhLcVFOQVJOZlNTRk1yM3haRGJLUkFYWGw1WVlqb0tJbUxMbkJFZ2hsMVVGQ2RZdHp6V3pDeDJGdjJNeVR2WGZXcldUUlJ3WHYwRFMydw?oc=5\" target=\"_blank\">Assessing BETA Technologies (BETA) Valuation After High Profile eVTOL Flights And FAA Pilot Program Launch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sahm</font>",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNNEpTWXI3WUM5UUl5czNBam92ajFKTnZQbzlnbTFGX2s2MFdsd3U4RGt5MWozNkptNDFvaUxLWFZlOEFEVHdlemRFekJMTDJjdGs3dVJWbGY1R295NnhqSE9abUptRC1jSWpuVXdzV1F0Mnd6cjh4ejNnSG1wMFM4UEhQeF9IbFpMbFhBQ1lCeXhQMEIxN2dzQzVIRGIxbEhLcVFOQVJOZlNTRk1yM3haRGJLUkFYWGw1WVlqb0tJbUxMbkJFZ2hsMVVGQ2RZdHp6V3pDeDJGdjJNeVR2WGZXcldUUlJ3WHYwRFMydw?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNNEpTWXI3WUM5UUl5czNBam92ajFKTnZQbzlnbTFGX2s2MFdsd3U4RGt5MWozNkptNDFvaUxLWFZlOEFEVHdlemRFekJMTDJjdGs3dVJWbGY1R295NnhqSE9abUptRC1jSWpuVXdzV1F0Mnd6cjh4ejNnSG1wMFM4UEhQeF9IbFpMbFhBQ1lCeXhQMEIxN2dzQzVIRGIxbEhLcVFOQVJOZlNTRk1yM3haRGJLUkFYWGw1WVlqb0tJbUxMbkJFZ2hsMVVGQ2RZdHp6V3pDeDJGdjJNeVR2WGZXcldUUlJ3WHYwRFMydw?oc=5",
-      "publishedAt": "2026-06-03T07:00:00.000Z",
-      "source": "Sahm",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxOa2hVTXFWajZHZWtuQlBjZkJlRXNLa3JGZHU2VzROeGpVMGh6TlU5d2drbU5nS2MwOUFtd2cxYlRpUlhIa1A2RzI3NVU3NDVPclN3SlJMc2hMZW1KU3lzRTdObVlHbjhzSGNvdTdWRExlRFdob1FTZ2VqRjl0MEZrZEdoazJqV0wtemUxdlhybzdxNHl2dzYxNC16LW9TZl9qcE4xZkNVU1JuTVpIWmRveXg3cl9EOFhJWlVLZjV0YmFleUVJLXNXY1RYV3locGtHUTJ5bmlR0gHbAUFVX3lxTE1OV0hRVERUeEhpb3NTNnRQaXIwWUo3RzB5b2pUQ1ZIcnJfTVBqUG1iSG0zY3JISjE3Q0JEZXlXZmFqMFVfQ0FKRk1pc3E2T29UUXVZT2s2Qzh2N1pBNnZSR2ZhVUFYRVVNdjFwVXV4bGhSR2NDMnlEWEhyeDdWOS1UMDZyRmlxN2hhVm5ISlJfd0NxcGk0M0Z4bnQ5M2I5dGcxeU5tS1VWV01paVdfWHQxa0tCVHg2dUtzRm5FS2pPay1sZ3R2ci1ETFVmeFJvTTl2QmVEd0Zua29sdw?oc=5\" target=\"_blank\">Assessing BETA Technologies (BETA) Valuation After High Profile eVTOL Flights And FAA Pilot Program Launch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">simplywall.st</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxOa2hVTXFWajZHZWtuQlBjZkJlRXNLa3JGZHU2VzROeGpVMGh6TlU5d2drbU5nS2MwOUFtd2cxYlRpUlhIa1A2RzI3NVU3NDVPclN3SlJMc2hMZW1KU3lzRTdObVlHbjhzSGNvdTdWRExlRFdob1FTZ2VqRjl0MEZrZEdoazJqV0wtemUxdlhybzdxNHl2dzYxNC16LW9TZl9qcE4xZkNVU1JuTVpIWmRveXg3cl9EOFhJWlVLZjV0YmFleUVJLXNXY1RYV3locGtHUTJ5bmlR0gHbAUFVX3lxTE1OV0hRVERUeEhpb3NTNnRQaXIwWUo3RzB5b2pUQ1ZIcnJfTVBqUG1iSG0zY3JISjE3Q0JEZXlXZmFqMFVfQ0FKRk1pc3E2T29UUXVZT2s2Qzh2N1pBNnZSR2ZhVUFYRVVNdjFwVXV4bGhSR2NDMnlEWEhyeDdWOS1UMDZyRmlxN2hhVm5ISlJfd0NxcGk0M0Z4bnQ5M2I5dGcxeU5tS1VWV01paVdfWHQxa0tCVHg2dUtzRm5FS2pPay1sZ3R2ci1ETFVmeFJvTTl2QmVEd0Zua29sdw?oc=5\" target=\"_blank\">Assessing BETA Technologies (BETA) Valuation After High Profile eVTOL Flights And FAA Pilot Program Launch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">simplywall.st</font>",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOa2hVTXFWajZHZWtuQlBjZkJlRXNLa3JGZHU2VzROeGpVMGh6TlU5d2drbU5nS2MwOUFtd2cxYlRpUlhIa1A2RzI3NVU3NDVPclN3SlJMc2hMZW1KU3lzRTdObVlHbjhzSGNvdTdWRExlRFdob1FTZ2VqRjl0MEZrZEdoazJqV0wtemUxdlhybzdxNHl2dzYxNC16LW9TZl9qcE4xZkNVU1JuTVpIWmRveXg3cl9EOFhJWlVLZjV0YmFleUVJLXNXY1RYV3locGtHUTJ5bmlR0gHbAUFVX3lxTE1OV0hRVERUeEhpb3NTNnRQaXIwWUo3RzB5b2pUQ1ZIcnJfTVBqUG1iSG0zY3JISjE3Q0JEZXlXZmFqMFVfQ0FKRk1pc3E2T29UUXVZT2s2Qzh2N1pBNnZSR2ZhVUFYRVVNdjFwVXV4bGhSR2NDMnlEWEhyeDdWOS1UMDZyRmlxN2hhVm5ISlJfd0NxcGk0M0Z4bnQ5M2I5dGcxeU5tS1VWV01paVdfWHQxa0tCVHg2dUtzRm5FS2pPay1sZ3R2ci1ETFVmeFJvTTl2QmVEd0Zua29sdw?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOa2hVTXFWajZHZWtuQlBjZkJlRXNLa3JGZHU2VzROeGpVMGh6TlU5d2drbU5nS2MwOUFtd2cxYlRpUlhIa1A2RzI3NVU3NDVPclN3SlJMc2hMZW1KU3lzRTdObVlHbjhzSGNvdTdWRExlRFdob1FTZ2VqRjl0MEZrZEdoazJqV0wtemUxdlhybzdxNHl2dzYxNC16LW9TZl9qcE4xZkNVU1JuTVpIWmRveXg3cl9EOFhJWlVLZjV0YmFleUVJLXNXY1RYV3locGtHUTJ5bmlR0gHbAUFVX3lxTE1OV0hRVERUeEhpb3NTNnRQaXIwWUo3RzB5b2pUQ1ZIcnJfTVBqUG1iSG0zY3JISjE3Q0JEZXlXZmFqMFVfQ0FKRk1pc3E2T29UUXVZT2s2Qzh2N1pBNnZSR2ZhVUFYRVVNdjFwVXV4bGhSR2NDMnlEWEhyeDdWOS1UMDZyRmlxN2hhVm5ISlJfd0NxcGk0M0Z4bnQ5M2I5dGcxeU5tS1VWV01paVdfWHQxa0tCVHg2dUtzRm5FS2pPay1sZ3R2ci1ETFVmeFJvTTl2QmVEd0Zua29sdw?oc=5",
+      "publishedAt": "2026-06-03T12:31:15.000Z",
+      "source": "simplywall.st",
       "_feedRegion": "us",
       "_feedName": "FAA",
       "_scoring": {
-        "score": 71,
+        "score": 73,
         "categories": [
           "規制・政策",
           "技術・製品",
@@ -197,7 +275,7 @@
             "domain": "news.google.com",
             "multiplier": 0.8
           },
-          "freshness": 0,
+          "freshness": 2,
           "titleBonus": 10
         },
         "pass": true
@@ -426,6 +504,80 @@
       }
     },
     {
+      "title": "【材料】 ＮＪＳが反発、インフラ点検調査用の水中ドローンを発売へ",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE5EblJDTlVvWXVfZjFEeThhR3FuNU95YlBJNkVVa0t2RDl6QTNqTHpOMF9MOE1nbFFPVFhpbVpBdWFIZlQyOERpWVVwTWgyZERhcWlNc25ndElJckE5dXFmNw?oc=5\" target=\"_blank\">【材料】 ＮＪＳが反発、インフラ点検調査用の水中ドローンを発売へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">株探（かぶたん）</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE5EblJDTlVvWXVfZjFEeThhR3FuNU95YlBJNkVVa0t2RDl6QTNqTHpOMF9MOE1nbFFPVFhpbVpBdWFIZlQyOERpWVVwTWgyZERhcWlNc25ndElJckE5dXFmNw?oc=5\" target=\"_blank\">【材料】 ＮＪＳが反発、インフラ点検調査用の水中ドローンを発売へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">株探（かぶたん）</font>",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5EblJDTlVvWXVfZjFEeThhR3FuNU95YlBJNkVVa0t2RDl6QTNqTHpOMF9MOE1nbFFPVFhpbVpBdWFIZlQyOERpWVVwTWgyZERhcWlNc25ndElJckE5dXFmNw?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5EblJDTlVvWXVfZjFEeThhR3FuNU95YlBJNkVVa0t2RDl6QTNqTHpOMF9MOE1nbFFPVFhpbVpBdWFIZlQyOERpWVVwTWgyZERhcWlNc25ndElJckE5dXFmNw?oc=5",
+      "publishedAt": "2026-05-21T07:00:00.000Z",
+      "source": "株探（かぶたん）",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP 事業者/実装)",
+      "_scoring": {
+        "score": 67,
+        "categories": [
+          "事故・事件",
+          "政策・インフラ"
+        ],
+        "breakdown": {
+          "required": true,
+          "incident": {
+            "matches": 1,
+            "catScore": 28
+          },
+          "policy": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 0,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "ＮＪＳ[2325]：インフラ点検調査用水中ドローン「FF2」販売開始のお知らせ 2026年5月20日(適時開示) ：日経会社情報DIGITAL",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFA1ZEV5Y1hfMDBrdXFlc1hrSElGQ2pTLW1RTndvLWI1dUZORWNNUjBpT2ZpSjlsUEhWU2VPVXlCWXNNMnJoR2pQMmJJQUxkZW1lU3BjM2ZnSzR6MDNsbUJVR1N0YkR2MHVqUmc?oc=5\" target=\"_blank\">ＮＪＳ[2325]：インフラ点検調査用水中ドローン「FF2」販売開始のお知らせ 2026年5月20日(適時開示) ：日経会社情報DIGITAL</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFA1ZEV5Y1hfMDBrdXFlc1hrSElGQ2pTLW1RTndvLWI1dUZORWNNUjBpT2ZpSjlsUEhWU2VPVXlCWXNNMnJoR2pQMmJJQUxkZW1lU3BjM2ZnSzR6MDNsbUJVR1N0YkR2MHVqUmc?oc=5\" target=\"_blank\">ＮＪＳ[2325]：インフラ点検調査用水中ドローン「FF2」販売開始のお知らせ 2026年5月20日(適時開示) ：日経会社情報DIGITAL</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA1ZEV5Y1hfMDBrdXFlc1hrSElGQ2pTLW1RTndvLWI1dUZORWNNUjBpT2ZpSjlsUEhWU2VPVXlCWXNNMnJoR2pQMmJJQUxkZW1lU3BjM2ZnSzR6MDNsbUJVR1N0YkR2MHVqUmc?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA1ZEV5Y1hfMDBrdXFlc1hrSElGQ2pTLW1RTndvLWI1dUZORWNNUjBpT2ZpSjlsUEhWU2VPVXlCWXNNMnJoR2pQMmJJQUxkZW1lU3BjM2ZnSzR6MDNsbUJVR1N0YkR2MHVqUmc?oc=5",
+      "publishedAt": "2026-05-20T07:00:00.000Z",
+      "source": "日本経済新聞",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP 事業者/実装)",
+      "_scoring": {
+        "score": 67,
+        "categories": [
+          "事故・事件",
+          "政策・インフラ"
+        ],
+        "breakdown": {
+          "required": true,
+          "incident": {
+            "matches": 1,
+            "catScore": 28
+          },
+          "policy": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 0,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
       "title": "FAA investigating drone use near Eastern Iowa Airport",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOQURIVWtLWjRRSFc4SWdGQ2VOdU5Kd1ZWalR5Tm4tUHJTMUxrU1hIMmVuamVGbmh2bFNNbXJsTmR5MXVhZ1VjaHY1QXpMVDhzak03WmlIeFk4UTNXUGdzajVPWFk1ZlVHd2o5V01XNHFhRWZPMEVDdkJZZlVsSDhUWVFqWmJvRVhBamktNmIxV2sxb3JpaUU0?oc=5\" target=\"_blank\">FAA investigating drone use near Eastern Iowa Airport</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KWQC</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOQURIVWtLWjRRSFc4SWdGQ2VOdU5Kd1ZWalR5Tm4tUHJTMUxrU1hIMmVuamVGbmh2bFNNbXJsTmR5MXVhZ1VjaHY1QXpMVDhzak03WmlIeFk4UTNXUGdzajVPWFk1ZlVHd2o5V01XNHFhRWZPMEVDdkJZZlVsSDhUWVFqWmJvRVhBamktNmIxV2sxb3JpaUU0?oc=5\" target=\"_blank\">FAA investigating drone use near Eastern Iowa Airport</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KWQC</font>",
@@ -457,43 +609,6 @@
           },
           "freshness": 10,
           "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "テラドローン、米国企業DSLRProsと「TerraXross 1」の販売代理店契約を締結 ～産業用途および社会インフラ・公共安全などの重要分野における活用を推進 ～",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE8tcFZrckUtcHNYR0puLWpjV2NGNXhUU2VKU1NiMERHa1VjcVJvNldySFpFdFBZNl9CV2l1OENpR3V0eVc3R2FndjljMGM3UGxydTdHR2x6YnFFb2syX0pMcVFCcUtiV0trTkE?oc=5\" target=\"_blank\">テラドローン、米国企業DSLRProsと「TerraXross 1」の販売代理店契約を締結 ～産業用途および社会インフラ・公共安全などの重要分野における活用を推進 ～</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR TIMES</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE8tcFZrckUtcHNYR0puLWpjV2NGNXhUU2VKU1NiMERHa1VjcVJvNldySFpFdFBZNl9CV2l1OENpR3V0eVc3R2FndjljMGM3UGxydTdHR2x6YnFFb2syX0pMcVFCcUtiV0trTkE?oc=5\" target=\"_blank\">テラドローン、米国企業DSLRProsと「TerraXross 1」の販売代理店契約を締結 ～産業用途および社会インフラ・公共安全などの重要分野における活用を推進 ～</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR TIMES</font>",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8tcFZrckUtcHNYR0puLWpjV2NGNXhUU2VKU1NiMERHa1VjcVJvNldySFpFdFBZNl9CV2l1OENpR3V0eVc3R2FndjljMGM3UGxydTdHR2x6YnFFb2syX0pMcVFCcUtiV0trTkE?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8tcFZrckUtcHNYR0puLWpjV2NGNXhUU2VKU1NiMERHa1VjcVJvNldySFpFdFBZNl9CV2l1OENpR3V0eVc3R2FndjljMGM3UGxydTdHR2x6YnFFb2syX0pMcVFCcUtiV0trTkE?oc=5",
-      "publishedAt": "2026-06-05T06:30:01.000Z",
-      "source": "PR TIMES",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP 事業者/実装)",
-      "_scoring": {
-        "score": 65,
-        "categories": [
-          "市場・資金",
-          "政策・インフラ"
-        ],
-        "breakdown": {
-          "required": true,
-          "market": {
-            "matches": 1,
-            "catScore": 20
-          },
-          "policy": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 5,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
         },
         "pass": true
       }
@@ -610,13 +725,50 @@
       }
     },
     {
-      "title": "Reliable Robotics Pursues FAA Certification for Network-Agnostic UAS Datalink System",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPcmRRbExlV0FDZ3BRbDc1MXhmckM2LVpBNzJWSTFyMW1ydXRiQmpQcnJwTFpmUXpIajh1UkJ3REc5NTBDQV9pVGlDdmdBT3ZOeUFGNlNoUkk4bTcxaldERzRnSXRmWU1FWkF2bXI1OTNpUU5BcWlLeTQ0ZWwyaUpvaFVYTGVpdGVvX0huSWdyWktuTGFxWUlLaENxTkc3cFBlRUY4NFphLWo5YWJKQWpIYk5wdk5JNzJlcmNBVXItQnhKem00?oc=5\" target=\"_blank\">Reliable Robotics Pursues FAA Certification for Network-Agnostic UAS Datalink System</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Space War News</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPcmRRbExlV0FDZ3BRbDc1MXhmckM2LVpBNzJWSTFyMW1ydXRiQmpQcnJwTFpmUXpIajh1UkJ3REc5NTBDQV9pVGlDdmdBT3ZOeUFGNlNoUkk4bTcxaldERzRnSXRmWU1FWkF2bXI1OTNpUU5BcWlLeTQ0ZWwyaUpvaFVYTGVpdGVvX0huSWdyWktuTGFxWUlLaENxTkc3cFBlRUY4NFphLWo5YWJKQWpIYk5wdk5JNzJlcmNBVXItQnhKem00?oc=5\" target=\"_blank\">Reliable Robotics Pursues FAA Certification for Network-Agnostic UAS Datalink System</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Space War News</font>",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcmRRbExlV0FDZ3BRbDc1MXhmckM2LVpBNzJWSTFyMW1ydXRiQmpQcnJwTFpmUXpIajh1UkJ3REc5NTBDQV9pVGlDdmdBT3ZOeUFGNlNoUkk4bTcxaldERzRnSXRmWU1FWkF2bXI1OTNpUU5BcWlLeTQ0ZWwyaUpvaFVYTGVpdGVvX0huSWdyWktuTGFxWUlLaENxTkc3cFBlRUY4NFphLWo5YWJKQWpIYk5wdk5JNzJlcmNBVXItQnhKem00?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcmRRbExlV0FDZ3BRbDc1MXhmckM2LVpBNzJWSTFyMW1ydXRiQmpQcnJwTFpmUXpIajh1UkJ3REc5NTBDQV9pVGlDdmdBT3ZOeUFGNlNoUkk4bTcxaldERzRnSXRmWU1FWkF2bXI1OTNpUU5BcWlLeTQ0ZWwyaUpvaFVYTGVpdGVvX0huSWdyWktuTGFxWUlLaENxTkc3cFBlRUY4NFphLWo5YWJKQWpIYk5wdk5JNzJlcmNBVXItQnhKem00?oc=5",
-      "publishedAt": "2026-06-03T07:00:00.000Z",
-      "source": "Space War News",
+      "title": "テラドローン、防衛装備庁向け国産UAV300式を受注 契約額は1億1543万4000円",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE1sLXdKNlJIcU1kWkhidGNIM3NfSG9nTXoyTzNpTnJhOU03ZmRUbTlDODVVWmlya1o5UVlzOGM3N0RyR2VtRFN6aFlQT0d1TjcwM3hqMS00V0pwM0E?oc=5\" target=\"_blank\">テラドローン、防衛装備庁向け国産UAV300式を受注 契約額は1億1543万4000円</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DRONE.jp</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE1sLXdKNlJIcU1kWkhidGNIM3NfSG9nTXoyTzNpTnJhOU03ZmRUbTlDODVVWmlya1o5UVlzOGM3N0RyR2VtRFN6aFlQT0d1TjcwM3hqMS00V0pwM0E?oc=5\" target=\"_blank\">テラドローン、防衛装備庁向け国産UAV300式を受注 契約額は1億1543万4000円</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DRONE.jp</font>",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1sLXdKNlJIcU1kWkhidGNIM3NfSG9nTXoyTzNpTnJhOU03ZmRUbTlDODVVWmlya1o5UVlzOGM3N0RyR2VtRFN6aFlQT0d1TjcwM3hqMS00V0pwM0E?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1sLXdKNlJIcU1kWkhidGNIM3NfSG9nTXoyTzNpTnJhOU03ZmRUbTlDODVVWmlya1o5UVlzOGM3N0RyR2VtRFN6aFlQT0d1TjcwM3hqMS00V0pwM0E?oc=5",
+      "publishedAt": "2026-05-11T07:00:00.000Z",
+      "source": "DRONE.jp",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP ドローン専門)",
+      "_scoring": {
+        "score": 60,
+        "categories": [
+          "市場・資金",
+          "政策・インフラ"
+        ],
+        "breakdown": {
+          "required": true,
+          "market": {
+            "matches": 1,
+            "catScore": 20
+          },
+          "policy": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 0,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "Archer Aviation (ACHR) Valuation Check As FAA Certification Milestone Puts Midnight eVTOL In Focus",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWlBySFlZZmtjQmpEc2tYWFMyWG1TWGxLcGJpRkU4WTczM2JIYUFHUUJEdmZKZW9wMW9XZkEtcDQ2TVV3YmY3aHB4V043SWNFeWU5M2xvbjdOQUtzblE4bFFObVFsRlBUX1pWMEJXbDcza3lNMGxOQVIwb20yaHBLSHozNE9hSnIzOEZjOHNhWTh1NUhNRU9zS0d4UEJsdUtKTFczMW4tcU16Y0E1LUlGUkM0aDZiWFo4WTI0dFRrdUpTOXZvYnFtMEdzZnR5RnpmQTN30gHYAUFVX3lxTE5EdU1peDhVY0ptNDh1bU56ckdBQlJmdEprS0MxT2ctRmFBeWxISEJ1YUx4d2JrT2lzX0xHWHNtRm1PR2o4Zy1ucHNTZ0NlcVZ2RmVUaEs4WXVxWXJPLTlKQ0ItQTY2aGI1OXdBTldTamZ0T0llZDlNLUNKNUlacld0dmZ3UktUdmljRk5RS1duYy1EN2t5OUp5UURvQUpwaXFHaEtLTDZOVzRFNGMzckhGM1JTVEJhMXRQNU82U1RBQS0xc2JIYjJMRzR2R3JheTdmUXVKVzZnaA?oc=5\" target=\"_blank\">Archer Aviation (ACHR) Valuation Check As FAA Certification Milestone Puts Midnight eVTOL In Focus</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">simplywall.st</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWlBySFlZZmtjQmpEc2tYWFMyWG1TWGxLcGJpRkU4WTczM2JIYUFHUUJEdmZKZW9wMW9XZkEtcDQ2TVV3YmY3aHB4V043SWNFeWU5M2xvbjdOQUtzblE4bFFObVFsRlBUX1pWMEJXbDcza3lNMGxOQVIwb20yaHBLSHozNE9hSnIzOEZjOHNhWTh1NUhNRU9zS0d4UEJsdUtKTFczMW4tcU16Y0E1LUlGUkM0aDZiWFo4WTI0dFRrdUpTOXZvYnFtMEdzZnR5RnpmQTN30gHYAUFVX3lxTE5EdU1peDhVY0ptNDh1bU56ckdBQlJmdEprS0MxT2ctRmFBeWxISEJ1YUx4d2JrT2lzX0xHWHNtRm1PR2o4Zy1ucHNTZ0NlcVZ2RmVUaEs4WXVxWXJPLTlKQ0ItQTY2aGI1OXdBTldTamZ0T0llZDlNLUNKNUlacld0dmZ3UktUdmljRk5RS1duYy1EN2t5OUp5UURvQUpwaXFHaEtLTDZOVzRFNGMzckhGM1JTVEJhMXRQNU82U1RBQS0xc2JIYjJMRzR2R3JheTdmUXVKVzZnaA?oc=5\" target=\"_blank\">Archer Aviation (ACHR) Valuation Check As FAA Certification Milestone Puts Midnight eVTOL In Focus</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">simplywall.st</font>",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWlBySFlZZmtjQmpEc2tYWFMyWG1TWGxLcGJpRkU4WTczM2JIYUFHUUJEdmZKZW9wMW9XZkEtcDQ2TVV3YmY3aHB4V043SWNFeWU5M2xvbjdOQUtzblE4bFFObVFsRlBUX1pWMEJXbDcza3lNMGxOQVIwb20yaHBLSHozNE9hSnIzOEZjOHNhWTh1NUhNRU9zS0d4UEJsdUtKTFczMW4tcU16Y0E1LUlGUkM0aDZiWFo4WTI0dFRrdUpTOXZvYnFtMEdzZnR5RnpmQTN30gHYAUFVX3lxTE5EdU1peDhVY0ptNDh1bU56ckdBQlJmdEprS0MxT2ctRmFBeWxISEJ1YUx4d2JrT2lzX0xHWHNtRm1PR2o4Zy1ucHNTZ0NlcVZ2RmVUaEs4WXVxWXJPLTlKQ0ItQTY2aGI1OXdBTldTamZ0T0llZDlNLUNKNUlacld0dmZ3UktUdmljRk5RS1duYy1EN2t5OUp5UURvQUpwaXFHaEtLTDZOVzRFNGMzckhGM1JTVEJhMXRQNU82U1RBQS0xc2JIYjJMRzR2R3JheTdmUXVKVzZnaA?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWlBySFlZZmtjQmpEc2tYWFMyWG1TWGxLcGJpRkU4WTczM2JIYUFHUUJEdmZKZW9wMW9XZkEtcDQ2TVV3YmY3aHB4V043SWNFeWU5M2xvbjdOQUtzblE4bFFObVFsRlBUX1pWMEJXbDcza3lNMGxOQVIwb20yaHBLSHozNE9hSnIzOEZjOHNhWTh1NUhNRU9zS0d4UEJsdUtKTFczMW4tcU16Y0E1LUlGUkM0aDZiWFo4WTI0dFRrdUpTOXZvYnFtMEdzZnR5RnpmQTN30gHYAUFVX3lxTE5EdU1peDhVY0ptNDh1bU56ckdBQlJmdEprS0MxT2ctRmFBeWxISEJ1YUx4d2JrT2lzX0xHWHNtRm1PR2o4Zy1ucHNTZ0NlcVZ2RmVUaEs4WXVxWXJPLTlKQ0ItQTY2aGI1OXdBTldTamZ0T0llZDlNLUNKNUlacld0dmZ3UktUdmljRk5RS1duYy1EN2t5OUp5UURvQUpwaXFHaEtLTDZOVzRFNGMzckhGM1JTVEJhMXRQNU82U1RBQS0xc2JIYjJMRzR2R3JheTdmUXVKVzZnaA?oc=5",
+      "publishedAt": "2026-06-02T02:51:51.000Z",
+      "source": "simplywall.st",
       "_feedRegion": "us",
       "_feedName": "FAA",
       "_scoring": {
@@ -646,13 +798,13 @@
       }
     },
     {
-      "title": "Archer Aviation (ACHR) Valuation Check As FAA Certification Milestone Puts Midnight eVTOL In Focus",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWlBySFlZZmtjQmpEc2tYWFMyWG1TWGxLcGJpRkU4WTczM2JIYUFHUUJEdmZKZW9wMW9XZkEtcDQ2TVV3YmY3aHB4V043SWNFeWU5M2xvbjdOQUtzblE4bFFObVFsRlBUX1pWMEJXbDcza3lNMGxOQVIwb20yaHBLSHozNE9hSnIzOEZjOHNhWTh1NUhNRU9zS0d4UEJsdUtKTFczMW4tcU16Y0E1LUlGUkM0aDZiWFo4WTI0dFRrdUpTOXZvYnFtMEdzZnR5RnpmQTN30gHYAUFVX3lxTE5EdU1peDhVY0ptNDh1bU56ckdBQlJmdEprS0MxT2ctRmFBeWxISEJ1YUx4d2JrT2lzX0xHWHNtRm1PR2o4Zy1ucHNTZ0NlcVZ2RmVUaEs4WXVxWXJPLTlKQ0ItQTY2aGI1OXdBTldTamZ0T0llZDlNLUNKNUlacld0dmZ3UktUdmljRk5RS1duYy1EN2t5OUp5UURvQUpwaXFHaEtLTDZOVzRFNGMzckhGM1JTVEJhMXRQNU82U1RBQS0xc2JIYjJMRzR2R3JheTdmUXVKVzZnaA?oc=5\" target=\"_blank\">Archer Aviation (ACHR) Valuation Check As FAA Certification Milestone Puts Midnight eVTOL In Focus</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">simplywall.st</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWlBySFlZZmtjQmpEc2tYWFMyWG1TWGxLcGJpRkU4WTczM2JIYUFHUUJEdmZKZW9wMW9XZkEtcDQ2TVV3YmY3aHB4V043SWNFeWU5M2xvbjdOQUtzblE4bFFObVFsRlBUX1pWMEJXbDcza3lNMGxOQVIwb20yaHBLSHozNE9hSnIzOEZjOHNhWTh1NUhNRU9zS0d4UEJsdUtKTFczMW4tcU16Y0E1LUlGUkM0aDZiWFo4WTI0dFRrdUpTOXZvYnFtMEdzZnR5RnpmQTN30gHYAUFVX3lxTE5EdU1peDhVY0ptNDh1bU56ckdBQlJmdEprS0MxT2ctRmFBeWxISEJ1YUx4d2JrT2lzX0xHWHNtRm1PR2o4Zy1ucHNTZ0NlcVZ2RmVUaEs4WXVxWXJPLTlKQ0ItQTY2aGI1OXdBTldTamZ0T0llZDlNLUNKNUlacld0dmZ3UktUdmljRk5RS1duYy1EN2t5OUp5UURvQUpwaXFHaEtLTDZOVzRFNGMzckhGM1JTVEJhMXRQNU82U1RBQS0xc2JIYjJMRzR2R3JheTdmUXVKVzZnaA?oc=5\" target=\"_blank\">Archer Aviation (ACHR) Valuation Check As FAA Certification Milestone Puts Midnight eVTOL In Focus</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">simplywall.st</font>",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWlBySFlZZmtjQmpEc2tYWFMyWG1TWGxLcGJpRkU4WTczM2JIYUFHUUJEdmZKZW9wMW9XZkEtcDQ2TVV3YmY3aHB4V043SWNFeWU5M2xvbjdOQUtzblE4bFFObVFsRlBUX1pWMEJXbDcza3lNMGxOQVIwb20yaHBLSHozNE9hSnIzOEZjOHNhWTh1NUhNRU9zS0d4UEJsdUtKTFczMW4tcU16Y0E1LUlGUkM0aDZiWFo4WTI0dFRrdUpTOXZvYnFtMEdzZnR5RnpmQTN30gHYAUFVX3lxTE5EdU1peDhVY0ptNDh1bU56ckdBQlJmdEprS0MxT2ctRmFBeWxISEJ1YUx4d2JrT2lzX0xHWHNtRm1PR2o4Zy1ucHNTZ0NlcVZ2RmVUaEs4WXVxWXJPLTlKQ0ItQTY2aGI1OXdBTldTamZ0T0llZDlNLUNKNUlacld0dmZ3UktUdmljRk5RS1duYy1EN2t5OUp5UURvQUpwaXFHaEtLTDZOVzRFNGMzckhGM1JTVEJhMXRQNU82U1RBQS0xc2JIYjJMRzR2R3JheTdmUXVKVzZnaA?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWlBySFlZZmtjQmpEc2tYWFMyWG1TWGxLcGJpRkU4WTczM2JIYUFHUUJEdmZKZW9wMW9XZkEtcDQ2TVV3YmY3aHB4V043SWNFeWU5M2xvbjdOQUtzblE4bFFObVFsRlBUX1pWMEJXbDcza3lNMGxOQVIwb20yaHBLSHozNE9hSnIzOEZjOHNhWTh1NUhNRU9zS0d4UEJsdUtKTFczMW4tcU16Y0E1LUlGUkM0aDZiWFo4WTI0dFRrdUpTOXZvYnFtMEdzZnR5RnpmQTN30gHYAUFVX3lxTE5EdU1peDhVY0ptNDh1bU56ckdBQlJmdEprS0MxT2ctRmFBeWxISEJ1YUx4d2JrT2lzX0xHWHNtRm1PR2o4Zy1ucHNTZ0NlcVZ2RmVUaEs4WXVxWXJPLTlKQ0ItQTY2aGI1OXdBTldTamZ0T0llZDlNLUNKNUlacld0dmZ3UktUdmljRk5RS1duYy1EN2t5OUp5UURvQUpwaXFHaEtLTDZOVzRFNGMzckhGM1JTVEJhMXRQNU82U1RBQS0xc2JIYjJMRzR2R3JheTdmUXVKVzZnaA?oc=5",
-      "publishedAt": "2026-06-02T02:51:51.000Z",
-      "source": "simplywall.st",
+      "title": "Reliable Robotics Pursues FAA Certification for Network-Agnostic UAS Datalink System",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPcmRRbExlV0FDZ3BRbDc1MXhmckM2LVpBNzJWSTFyMW1ydXRiQmpQcnJwTFpmUXpIajh1UkJ3REc5NTBDQV9pVGlDdmdBT3ZOeUFGNlNoUkk4bTcxaldERzRnSXRmWU1FWkF2bXI1OTNpUU5BcWlLeTQ0ZWwyaUpvaFVYTGVpdGVvX0huSWdyWktuTGFxWUlLaENxTkc3cFBlRUY4NFphLWo5YWJKQWpIYk5wdk5JNzJlcmNBVXItQnhKem00?oc=5\" target=\"_blank\">Reliable Robotics Pursues FAA Certification for Network-Agnostic UAS Datalink System</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Space War News</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPcmRRbExlV0FDZ3BRbDc1MXhmckM2LVpBNzJWSTFyMW1ydXRiQmpQcnJwTFpmUXpIajh1UkJ3REc5NTBDQV9pVGlDdmdBT3ZOeUFGNlNoUkk4bTcxaldERzRnSXRmWU1FWkF2bXI1OTNpUU5BcWlLeTQ0ZWwyaUpvaFVYTGVpdGVvX0huSWdyWktuTGFxWUlLaENxTkc3cFBlRUY4NFphLWo5YWJKQWpIYk5wdk5JNzJlcmNBVXItQnhKem00?oc=5\" target=\"_blank\">Reliable Robotics Pursues FAA Certification for Network-Agnostic UAS Datalink System</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Space War News</font>",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcmRRbExlV0FDZ3BRbDc1MXhmckM2LVpBNzJWSTFyMW1ydXRiQmpQcnJwTFpmUXpIajh1UkJ3REc5NTBDQV9pVGlDdmdBT3ZOeUFGNlNoUkk4bTcxaldERzRnSXRmWU1FWkF2bXI1OTNpUU5BcWlLeTQ0ZWwyaUpvaFVYTGVpdGVvX0huSWdyWktuTGFxWUlLaENxTkc3cFBlRUY4NFphLWo5YWJKQWpIYk5wdk5JNzJlcmNBVXItQnhKem00?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcmRRbExlV0FDZ3BRbDc1MXhmckM2LVpBNzJWSTFyMW1ydXRiQmpQcnJwTFpmUXpIajh1UkJ3REc5NTBDQV9pVGlDdmdBT3ZOeUFGNlNoUkk4bTcxaldERzRnSXRmWU1FWkF2bXI1OTNpUU5BcWlLeTQ0ZWwyaUpvaFVYTGVpdGVvX0huSWdyWktuTGFxWUlLaENxTkc3cFBlRUY4NFphLWo5YWJKQWpIYk5wdk5JNzJlcmNBVXItQnhKem00?oc=5",
+      "publishedAt": "2026-06-03T07:00:00.000Z",
+      "source": "Space War News",
       "_feedRegion": "us",
       "_feedName": "FAA",
       "_scoring": {
@@ -709,6 +861,37 @@
           "freshness": 0,
           "titleBonus": 10,
           "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "GAC’s Govy eVTOL CEO: solid-state batteries are the essential path for flying cars",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNY0FVcGlRNGlIYmpBbU82eTFQRE9rTHhDR1Vld2s3dmpYdENkYktRNWNnSHBoSVk0eE1VclVhak52N2xydHE5bVQ1Z2hxYUNQbUZDcUNyTmI0MHlQdjFlS21xQ1ZsSkJXZFFuTzhDMlBIeEVzMnBqWTRxY0RtZHlsbkZ6aE9EU0NBU29FM3JpbE1oOU9wbXUwRk1wRUlaM2tRY2ZyLTFwUjZqZjNNa3BpSklkRW9ZbDFu?oc=5\" target=\"_blank\">GAC’s Govy eVTOL CEO: solid-state batteries are the essential path for flying cars</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CarNewsChina.com</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNY0FVcGlRNGlIYmpBbU82eTFQRE9rTHhDR1Vld2s3dmpYdENkYktRNWNnSHBoSVk0eE1VclVhak52N2xydHE5bVQ1Z2hxYUNQbUZDcUNyTmI0MHlQdjFlS21xQ1ZsSkJXZFFuTzhDMlBIeEVzMnBqWTRxY0RtZHlsbkZ6aE9EU0NBU29FM3JpbE1oOU9wbXUwRk1wRUlaM2tRY2ZyLTFwUjZqZjNNa3BpSklkRW9ZbDFu?oc=5\" target=\"_blank\">GAC’s Govy eVTOL CEO: solid-state batteries are the essential path for flying cars</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CarNewsChina.com</font>",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNY0FVcGlRNGlIYmpBbU82eTFQRE9rTHhDR1Vld2s3dmpYdENkYktRNWNnSHBoSVk0eE1VclVhak52N2xydHE5bVQ1Z2hxYUNQbUZDcUNyTmI0MHlQdjFlS21xQ1ZsSkJXZFFuTzhDMlBIeEVzMnBqWTRxY0RtZHlsbkZ6aE9EU0NBU29FM3JpbE1oOU9wbXUwRk1wRUlaM2tRY2ZyLTFwUjZqZjNNa3BpSklkRW9ZbDFu?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNY0FVcGlRNGlIYmpBbU82eTFQRE9rTHhDR1Vld2s3dmpYdENkYktRNWNnSHBoSVk0eE1VclVhak52N2xydHE5bVQ1Z2hxYUNQbUZDcUNyTmI0MHlQdjFlS21xQ1ZsSkJXZFFuTzhDMlBIeEVzMnBqWTRxY0RtZHlsbkZ6aE9EU0NBU29FM3JpbE1oOU9wbXUwRk1wRUlaM2tRY2ZyLTFwUjZqZjNNa3BpSklkRW9ZbDFu?oc=5",
+      "publishedAt": "2026-06-06T07:54:00.000Z",
+      "source": "CarNewsChina.com",
+      "_feedRegion": "global",
+      "_feedName": "Google News (Global)",
+      "_scoring": {
+        "score": 56,
+        "categories": [
+          "規制・政策"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 20,
+          "titleBonus": 10
         },
         "pass": true
       }
@@ -898,178 +1081,6 @@
           "policy": {
             "matches": 1,
             "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 0,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "Assessing BETA Technologies (BETA) Valuation After FAA eVTOL Pilot Selection And European Cargo Flights",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPb0hvMFNEZVhoTlpFeHhoOFpqdGVNYi1POVAyRGEtcFhlODZkTTZlQkpYR3R4UDlhSnp4aEZwS2RncE80SktJUlhBOVdXc2d4N1hpZ3Zobno5N0N1RUtrY2RJMkkzcGtuN0ZsWWNPLWlBQmJKOU5uWW9HQjU1NUVIdjRSQ0pjQkhsMTJZQklLQXBXdzNJeFdrcFNvMlM3MkxtLWpLcVI5bGZIbE0?oc=5\" target=\"_blank\">Assessing BETA Technologies (BETA) Valuation After FAA eVTOL Pilot Selection And European Cargo Flights</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPb0hvMFNEZVhoTlpFeHhoOFpqdGVNYi1POVAyRGEtcFhlODZkTTZlQkpYR3R4UDlhSnp4aEZwS2RncE80SktJUlhBOVdXc2d4N1hpZ3Zobno5N0N1RUtrY2RJMkkzcGtuN0ZsWWNPLWlBQmJKOU5uWW9HQjU1NUVIdjRSQ0pjQkhsMTJZQklLQXBXdzNJeFdrcFNvMlM3MkxtLWpLcVI5bGZIbE0?oc=5\" target=\"_blank\">Assessing BETA Technologies (BETA) Valuation After FAA eVTOL Pilot Selection And European Cargo Flights</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPb0hvMFNEZVhoTlpFeHhoOFpqdGVNYi1POVAyRGEtcFhlODZkTTZlQkpYR3R4UDlhSnp4aEZwS2RncE80SktJUlhBOVdXc2d4N1hpZ3Zobno5N0N1RUtrY2RJMkkzcGtuN0ZsWWNPLWlBQmJKOU5uWW9HQjU1NUVIdjRSQ0pjQkhsMTJZQklLQXBXdzNJeFdrcFNvMlM3MkxtLWpLcVI5bGZIbE0?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPb0hvMFNEZVhoTlpFeHhoOFpqdGVNYi1POVAyRGEtcFhlODZkTTZlQkpYR3R4UDlhSnp4aEZwS2RncE80SktJUlhBOVdXc2d4N1hpZ3Zobno5N0N1RUtrY2RJMkkzcGtuN0ZsWWNPLWlBQmJKOU5uWW9HQjU1NUVIdjRSQ0pjQkhsMTJZQklLQXBXdzNJeFdrcFNvMlM3MkxtLWpLcVI5bGZIbE0?oc=5",
-      "publishedAt": "2026-06-03T17:10:12.000Z",
-      "source": "Yahoo Finance",
-      "_feedRegion": "us",
-      "_feedName": "FAA",
-      "_scoring": {
-        "score": 54,
-        "categories": [
-          "規制・政策",
-          "市場・資金"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 1,
-            "catScore": 32
-          },
-          "market": {
-            "matches": 1,
-            "catScore": 20
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 2,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "NYS Public Safety UAS Summit 2026",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE9lelIwSzJzQklXNGVITUZIbFBBeGlVUDI1aTgtTWxtb05jZUU3R2ZFb2xLcWplb0FpeURZZmVqNVVzSmw0Qkd6bGpsbkVySVNnWm1KUVNGRDAtRkhfcnpLTkJqWEdXRFlkNzlCUUhkSQ?oc=5\" target=\"_blank\">NYS Public Safety UAS Summit 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AUVSI</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE9lelIwSzJzQklXNGVITUZIbFBBeGlVUDI1aTgtTWxtb05jZUU3R2ZFb2xLcWplb0FpeURZZmVqNVVzSmw0Qkd6bGpsbkVySVNnWm1KUVNGRDAtRkhfcnpLTkJqWEdXRFlkNzlCUUhkSQ?oc=5\" target=\"_blank\">NYS Public Safety UAS Summit 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AUVSI</font>",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9lelIwSzJzQklXNGVITUZIbFBBeGlVUDI1aTgtTWxtb05jZUU3R2ZFb2xLcWplb0FpeURZZmVqNVVzSmw0Qkd6bGpsbkVySVNnWm1KUVNGRDAtRkhfcnpLTkJqWEdXRFlkNzlCUUhkSQ?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9lelIwSzJzQklXNGVITUZIbFBBeGlVUDI1aTgtTWxtb05jZUU3R2ZFb2xLcWplb0FpeURZZmVqNVVzSmw0Qkd6bGpsbkVySVNnWm1KUVNGRDAtRkhfcnpLTkJqWEdXRFlkNzlCUUhkSQ?oc=5",
-      "publishedAt": "2026-06-03T18:26:30.000Z",
-      "source": "AUVSI",
-      "_feedRegion": "global",
-      "_feedName": "Google News (Global)",
-      "_scoring": {
-        "score": 54,
-        "categories": [
-          "事故・事件",
-          "政策・インフラ"
-        ],
-        "breakdown": {
-          "required": true,
-          "incident": {
-            "matches": 1,
-            "catScore": 28
-          },
-          "policy": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 2,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "そらメディア - 中京テレビがお届けするドローンスクール｜中京テレビ放送 ビジネス開発グループ SWINGプロジェクト",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFB1Mk42UzE2d256Q0FubWRkTDRBVV9YQ01mc3ZPMkh3Z3FTQjFNZDNGVFpqaGhXUGV0TzBUTTdEUTFzVlNHbTRRMk5mazlZd3lzTlRlcS16S01LVkppZHEtQ3ZId0tncWlvUjZj?oc=5\" target=\"_blank\">そらメディア - 中京テレビがお届けするドローンスクール｜中京テレビ放送 ビジネス開発グループ SWINGプロジェクト</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ctv.co.jp</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFB1Mk42UzE2d256Q0FubWRkTDRBVV9YQ01mc3ZPMkh3Z3FTQjFNZDNGVFpqaGhXUGV0TzBUTTdEUTFzVlNHbTRRMk5mazlZd3lzTlRlcS16S01LVkppZHEtQ3ZId0tncWlvUjZj?oc=5\" target=\"_blank\">そらメディア - 中京テレビがお届けするドローンスクール｜中京テレビ放送 ビジネス開発グループ SWINGプロジェクト</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ctv.co.jp</font>",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB1Mk42UzE2d256Q0FubWRkTDRBVV9YQ01mc3ZPMkh3Z3FTQjFNZDNGVFpqaGhXUGV0TzBUTTdEUTFzVlNHbTRRMk5mazlZd3lzTlRlcS16S01LVkppZHEtQ3ZId0tncWlvUjZj?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB1Mk42UzE2d256Q0FubWRkTDRBVV9YQ01mc3ZPMkh3Z3FTQjFNZDNGVFpqaGhXUGV0TzBUTTdEUTFzVlNHbTRRMk5mazlZd3lzTlRlcS16S01LVkppZHEtQ3ZId0tncWlvUjZj?oc=5",
-      "publishedAt": "2026-06-05T11:40:10.000Z",
-      "source": "ctv.co.jp",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP 事業者/実装)",
-      "_scoring": {
-        "score": 54,
-        "categories": [
-          "技術・製品"
-        ],
-        "breakdown": {
-          "required": true,
-          "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 10,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "国交省／災害時のドローン物資輸送訓練補助金の公募を開始、最大1000万円",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE5FQlJNYXpPdUJrcUhLRElLeEZpdUhlWDJ6NzQwcmc4ZHpLdGlORGwteW16UXpUUGVUZXRBS3pqVEM3Y2Q0b1hmRExvZjJBTFB4b0p3NQ?oc=5\" target=\"_blank\">国交省／災害時のドローン物資輸送訓練補助金の公募を開始、最大1000万円</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">物流ニュースのLNEWS</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE5FQlJNYXpPdUJrcUhLRElLeEZpdUhlWDJ6NzQwcmc4ZHpLdGlORGwteW16UXpUUGVUZXRBS3pqVEM3Y2Q0b1hmRExvZjJBTFB4b0p3NQ?oc=5\" target=\"_blank\">国交省／災害時のドローン物資輸送訓練補助金の公募を開始、最大1000万円</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">物流ニュースのLNEWS</font>",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5FQlJNYXpPdUJrcUhLRElLeEZpdUhlWDJ6NzQwcmc4ZHpLdGlORGwteW16UXpUUGVUZXRBS3pqVEM3Y2Q0b1hmRExvZjJBTFB4b0p3NQ?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5FQlJNYXpPdUJrcUhLRElLeEZpdUhlWDJ6NzQwcmc4ZHpLdGlORGwteW16UXpUUGVUZXRBS3pqVEM3Y2Q0b1hmRExvZjJBTFB4b0p3NQ?oc=5",
-      "publishedAt": "2026-06-04T06:45:55.000Z",
-      "source": "物流ニュースのLNEWS",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP 政策/実証)",
-      "_scoring": {
-        "score": 53,
-        "categories": [
-          "規制・政策"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 1,
-            "catScore": 32
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 2,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "FAA restricts Columbus airspace for drones ahead of FIFA World Cup",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxQeXRYaEV3OXVERXpLLUQtUFZTYUlfdkhCWHl5eDNGejg4S1hMeGRvbVM2MmhzTk5jaFFXTUZnd0lhTFRGeVoxdEhlSUdQVjBMVFlnQkxZSWpzOVk2Sm16bXBFYnZUamU5U25BNm1uZFlwY0lFMExXT0haS05QbnNWcHdOZmhmVWM3S0ZQZEdlTE5ZN0xocWRKN25YdmtGcTN1Q01pN2JDYTg3c3R4Q1NCY3pJRmM2QXdCZGdhUGNKSWJncU5jeW9kbXB1TXlkN3JlTDV0S2lmVGw0M3BOYWxzXzhwSEtXa0ZEdUVMdFJXbkNZWHBYN3djU1pR?oc=5\" target=\"_blank\">FAA restricts Columbus airspace for drones ahead of FIFA World Cup</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Columbus Dispatch</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxQeXRYaEV3OXVERXpLLUQtUFZTYUlfdkhCWHl5eDNGejg4S1hMeGRvbVM2MmhzTk5jaFFXTUZnd0lhTFRGeVoxdEhlSUdQVjBMVFlnQkxZSWpzOVk2Sm16bXBFYnZUamU5U25BNm1uZFlwY0lFMExXT0haS05QbnNWcHdOZmhmVWM3S0ZQZEdlTE5ZN0xocWRKN25YdmtGcTN1Q01pN2JDYTg3c3R4Q1NCY3pJRmM2QXdCZGdhUGNKSWJncU5jeW9kbXB1TXlkN3JlTDV0S2lmVGw0M3BOYWxzXzhwSEtXa0ZEdUVMdFJXbkNZWHBYN3djU1pR?oc=5\" target=\"_blank\">FAA restricts Columbus airspace for drones ahead of FIFA World Cup</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Columbus Dispatch</font>",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQeXRYaEV3OXVERXpLLUQtUFZTYUlfdkhCWHl5eDNGejg4S1hMeGRvbVM2MmhzTk5jaFFXTUZnd0lhTFRGeVoxdEhlSUdQVjBMVFlnQkxZSWpzOVk2Sm16bXBFYnZUamU5U25BNm1uZFlwY0lFMExXT0haS05QbnNWcHdOZmhmVWM3S0ZQZEdlTE5ZN0xocWRKN25YdmtGcTN1Q01pN2JDYTg3c3R4Q1NCY3pJRmM2QXdCZGdhUGNKSWJncU5jeW9kbXB1TXlkN3JlTDV0S2lmVGw0M3BOYWxzXzhwSEtXa0ZEdUVMdFJXbkNZWHBYN3djU1pR?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQeXRYaEV3OXVERXpLLUQtUFZTYUlfdkhCWHl5eDNGejg4S1hMeGRvbVM2MmhzTk5jaFFXTUZnd0lhTFRGeVoxdEhlSUdQVjBMVFlnQkxZSWpzOVk2Sm16bXBFYnZUamU5U25BNm1uZFlwY0lFMExXT0haS05QbnNWcHdOZmhmVWM3S0ZQZEdlTE5ZN0xocWRKN25YdmtGcTN1Q01pN2JDYTg3c3R4Q1NCY3pJRmM2QXdCZGdhUGNKSWJncU5jeW9kbXB1TXlkN3JlTDV0S2lmVGw0M3BOYWxzXzhwSEtXa0ZEdUVMdFJXbkNZWHBYN3djU1pR?oc=5",
-      "publishedAt": "2026-06-01T17:05:00.000Z",
-      "source": "The Columbus Dispatch",
-      "_feedRegion": "us",
-      "_feedName": "FAA",
-      "_scoring": {
-        "score": 52,
-        "categories": [
-          "規制・政策",
-          "市場・資金"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 1,
-            "catScore": 32
-          },
-          "market": {
-            "matches": 1,
-            "catScore": 20
           },
           "sourceTrust": {
             "domain": "news.google.com",
