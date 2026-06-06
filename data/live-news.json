@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-06T16:10:37.706Z",
-  "rawCount": 698,
+  "generatedAt": "2026-06-06T18:10:58.981Z",
+  "rawCount": 575,
   "articles": [
     {
       "title": "2026 World Cup TFRs, 23-Day BVLOS Waivers, Flock Safety’s New Camera, and a Walmart Drone Delivery Fight",
@@ -13,7 +13,7 @@
       "_feedRegion": "global",
       "_feedName": "Google News (Global)",
       "_scoring": {
-        "score": 104,
+        "score": 99,
         "categories": [
           "規制・政策",
           "事故・事件",
@@ -37,7 +37,7 @@
             "domain": "news.google.com",
             "multiplier": 0.8
           },
-          "freshness": 20,
+          "freshness": 15,
           "titleBonus": 10
         },
         "pass": true
@@ -54,7 +54,7 @@
       "_feedRegion": "us",
       "_feedName": "FAA",
       "_scoring": {
-        "score": 87,
+        "score": 82,
         "categories": [
           "規制・政策",
           "事故・事件",
@@ -78,7 +78,7 @@
             "domain": "news.google.com",
             "multiplier": 0.8
           },
-          "freshness": 10,
+          "freshness": 5,
           "titleBonus": 10
         },
         "pass": true
@@ -204,6 +204,47 @@
       }
     },
     {
+      "title": "FAA investigates drone incidents at Eastern Iowa Airport possibly tied to data center site",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOb0RZR1pRV1duUEFPc3BZaEdka09OZGlfaDdfVmVDRmozWHdNaEE4QXJDRjdtb0RsLU9GZ3lHakZReHRIWDMwVVBzUlc2YUtVU1V0RGJmbV9IcngxMFhBd1JjLVFHamZNUDdPWFhHdENJTTZBZ0ZkUUxvTnpqVWN3MTFmazJSNGhHeTJfWS12ckJNSWk2MzlBb2szdkRjbmFyME0xNHlTWWg3N0lDX0ROZklFQ1d1aGE4S2lGdmF1MzA?oc=5\" target=\"_blank\">FAA investigates drone incidents at Eastern Iowa Airport possibly tied to data center site</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KCRG</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOb0RZR1pRV1duUEFPc3BZaEdka09OZGlfaDdfVmVDRmozWHdNaEE4QXJDRjdtb0RsLU9GZ3lHakZReHRIWDMwVVBzUlc2YUtVU1V0RGJmbV9IcngxMFhBd1JjLVFHamZNUDdPWFhHdENJTTZBZ0ZkUUxvTnpqVWN3MTFmazJSNGhHeTJfWS12ckJNSWk2MzlBb2szdkRjbmFyME0xNHlTWWg3N0lDX0ROZklFQ1d1aGE4S2lGdmF1MzA?oc=5\" target=\"_blank\">FAA investigates drone incidents at Eastern Iowa Airport possibly tied to data center site</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KCRG</font>",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOb0RZR1pRV1duUEFPc3BZaEdka09OZGlfaDdfVmVDRmozWHdNaEE4QXJDRjdtb0RsLU9GZ3lHakZReHRIWDMwVVBzUlc2YUtVU1V0RGJmbV9IcngxMFhBd1JjLVFHamZNUDdPWFhHdENJTTZBZ0ZkUUxvTnpqVWN3MTFmazJSNGhHeTJfWS12ckJNSWk2MzlBb2szdkRjbmFyME0xNHlTWWg3N0lDX0ROZklFQ1d1aGE4S2lGdmF1MzA?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOb0RZR1pRV1duUEFPc3BZaEdka09OZGlfaDdfVmVDRmozWHdNaEE4QXJDRjdtb0RsLU9GZ3lHakZReHRIWDMwVVBzUlc2YUtVU1V0RGJmbV9IcngxMFhBd1JjLVFHamZNUDdPWFhHdENJTTZBZ0ZkUUxvTnpqVWN3MTFmazJSNGhHeTJfWS12ckJNSWk2MzlBb2szdkRjbmFyME0xNHlTWWg3N0lDX0ROZklFQ1d1aGE4S2lGdmF1MzA?oc=5",
+      "publishedAt": "2026-06-04T00:16:19.000Z",
+      "source": "KCRG",
+      "_feedRegion": "us",
+      "_feedName": "FAA",
+      "_scoring": {
+        "score": 79,
+        "categories": [
+          "規制・政策",
+          "事故・事件",
+          "政策・インフラ"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
+          "incident": {
+            "matches": 1,
+            "catScore": 28
+          },
+          "policy": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 2,
+          "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
       "title": "空飛ぶクルマ「eVTOL」統合パイロットプログラム始動、FAAとNASAと連携し商業空港での運航実証へ…米ジョビー",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFBuSkR3REJvc3lTaXNxX2d5eHpPUFdmT0ptTmFGaEZTS0VwVzhwdGl0MFZKSjdwWGFhR0hMRWNTLWZJQmhhTDdoSnRVWTFNemFZUXN6ME5fTzQ5T1QtX1kw?oc=5\" target=\"_blank\">空飛ぶクルマ「eVTOL」統合パイロットプログラム始動、FAAとNASAと連携し商業空港での運航実証へ…米ジョビー</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">レスポンス（Response.jp）</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFBuSkR3REJvc3lTaXNxX2d5eHpPUFdmT0ptTmFGaEZTS0VwVzhwdGl0MFZKSjdwWGFhR0hMRWNTLWZJQmhhTDdoSnRVWTFNemFZUXN6ME5fTzQ5T1QtX1kw?oc=5\" target=\"_blank\">空飛ぶクルマ「eVTOL」統合パイロットプログラム始動、FAAとNASAと連携し商業空港での運航実証へ…米ジョビー</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">レスポンス（Response.jp）</font>",
@@ -236,6 +277,42 @@
           "freshness": 0,
           "titleBonus": 10,
           "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "How real-world BVLOS drone testing paves the way for safer, faster rail incident response",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNNXBkTkRfUUZiX1UySFJLc2dBMkVfR2M3YV9RbW5ZbUZMWVZGYUVaM0lWaWJnaUg5VHc0N2hlSG5vR1o0b0pjRU9fTnBHcjhwbnIxTzQzMGh5VmdpSjNFalRGUVQ1QkpMN21jYW92R0hURVhxR3ZweUMzTnA0R205TDZJX2FqbTI5WE9OSnJPSzZULUVvTTRvM3hnLTJUbHZQeUlFSzZYZm9ZanJqdC1VX01QSmoxVlk?oc=5\" target=\"_blank\">How real-world BVLOS drone testing paves the way for safer, faster rail incident response</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Railway Supply</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNNXBkTkRfUUZiX1UySFJLc2dBMkVfR2M3YV9RbW5ZbUZMWVZGYUVaM0lWaWJnaUg5VHc0N2hlSG5vR1o0b0pjRU9fTnBHcjhwbnIxTzQzMGh5VmdpSjNFalRGUVQ1QkpMN21jYW92R0hURVhxR3ZweUMzTnA0R205TDZJX2FqbTI5WE9OSnJPSzZULUVvTTRvM3hnLTJUbHZQeUlFSzZYZm9ZanJqdC1VX01QSmoxVlk?oc=5\" target=\"_blank\">How real-world BVLOS drone testing paves the way for safer, faster rail incident response</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Railway Supply</font>",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNXBkTkRfUUZiX1UySFJLc2dBMkVfR2M3YV9RbW5ZbUZMWVZGYUVaM0lWaWJnaUg5VHc0N2hlSG5vR1o0b0pjRU9fTnBHcjhwbnIxTzQzMGh5VmdpSjNFalRGUVQ1QkpMN21jYW92R0hURVhxR3ZweUMzTnA0R205TDZJX2FqbTI5WE9OSnJPSzZULUVvTTRvM3hnLTJUbHZQeUlFSzZYZm9ZanJqdC1VX01QSmoxVlk?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNXBkTkRfUUZiX1UySFJLc2dBMkVfR2M3YV9RbW5ZbUZMWVZGYUVaM0lWaWJnaUg5VHc0N2hlSG5vR1o0b0pjRU9fTnBHcjhwbnIxTzQzMGh5VmdpSjNFalRGUVQ1QkpMN21jYW92R0hURVhxR3ZweUMzTnA0R205TDZJX2FqbTI5WE9OSnJPSzZULUVvTTRvM3hnLTJUbHZQeUlFSzZYZm9ZanJqdC1VX01QSmoxVlk?oc=5",
+      "publishedAt": "2026-06-06T09:34:37.000Z",
+      "source": "Railway Supply",
+      "_feedRegion": "global",
+      "_feedName": "Google News (Global)",
+      "_scoring": {
+        "score": 73,
+        "categories": [
+          "規制・政策",
+          "事故・事件"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
+          "incident": {
+            "matches": 1,
+            "catScore": 28
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 15,
+          "titleBonus": 10
         },
         "pass": true
       }
@@ -277,38 +354,6 @@
           },
           "freshness": 0,
           "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "無人航空機の影響を受けた16便について、北部航空局は何と述べているのか？",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOUFBRalJaYUtkdlZCQXhtalpkc2lrdkdfSEpqNy1KeHVtWmVTSWhlZXhOWGR2d1JiVkFQbWpVQzNudXBtNTdmaFJsUzB0X0JWaEtYcFRyekpBTGRIZmFNWE9ZTm5tR2ktNktQUTZXcEpQMnF4YVRBdlNoU0lMMlBOTnFRU1VGR1BHZjl1VkFUYzRWYm5HQ0tvYzkyNA?oc=5\" target=\"_blank\">無人航空機の影響を受けた16便について、北部航空局は何と述べているのか？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Vietnam.vn</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOUFBRalJaYUtkdlZCQXhtalpkc2lrdkdfSEpqNy1KeHVtWmVTSWhlZXhOWGR2d1JiVkFQbWpVQzNudXBtNTdmaFJsUzB0X0JWaEtYcFRyekpBTGRIZmFNWE9ZTm5tR2ktNktQUTZXcEpQMnF4YVRBdlNoU0lMMlBOTnFRU1VGR1BHZjl1VkFUYzRWYm5HQ0tvYzkyNA?oc=5\" target=\"_blank\">無人航空機の影響を受けた16便について、北部航空局は何と述べているのか？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Vietnam.vn</font>",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUFBRalJaYUtkdlZCQXhtalpkc2lrdkdfSEpqNy1KeHVtWmVTSWhlZXhOWGR2d1JiVkFQbWpVQzNudXBtNTdmaFJsUzB0X0JWaEtYcFRyekpBTGRIZmFNWE9ZTm5tR2ktNktQUTZXcEpQMnF4YVRBdlNoU0lMMlBOTnFRU1VGR1BHZjl1VkFUYzRWYm5HQ0tvYzkyNA?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUFBRalJaYUtkdlZCQXhtalpkc2lrdkdfSEpqNy1KeHVtWmVTSWhlZXhOWGR2d1JiVkFQbWpVQzNudXBtNTdmaFJsUzB0X0JWaEtYcFRyekpBTGRIZmFNWE9ZTm5tR2ktNktQUTZXcEpQMnF4YVRBdlNoU0lMMlBOTnFRU1VGR1BHZjl1VkFUYzRWYm5HQ0tvYzkyNA?oc=5",
-      "publishedAt": "2026-06-06T13:38:52.000Z",
-      "source": "Vietnam.vn",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP 政策/実証)",
-      "_scoring": {
-        "score": 71,
-        "categories": [
-          "規制・政策"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 1,
-            "catScore": 32
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 20,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
         },
         "pass": true
       }
@@ -373,43 +418,6 @@
             "catScore": 32
           },
           "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 0,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "KDDIスマートドローン、Skydio X10活用のインフラ点検技術が国交省「点検技術カタログ」に掲載 | チバテレ＋プラス",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5SVFk4dFZ4VEhORnNXdS0zd3JzNU8zakduUDhnMGo1dldXbG8xVDBJdXhxaUxqQXBrOXZ0MXpRcGZ1SS03ajdKcUZ5UllmaXIyRTlYY0g0ei11a2ZNakFz0gFkQVVfeXFMTUVpU2dKODN2cDNxZ09wWEctaDVmUjdyWVZnQUpkUFI0YkcyaTZQZ1piZmlFQnZCb1dRX3dMSGhvZUN5eEtxcGNPSXRqUDVyYjZzZDRMTjZuZU5ZTGNEV0twSHlEbQ?oc=5\" target=\"_blank\">KDDIスマートドローン、Skydio X10活用のインフラ点検技術が国交省「点検技術カタログ」に掲載 | チバテレ＋プラス</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">千葉テレビ放送株式会社</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5SVFk4dFZ4VEhORnNXdS0zd3JzNU8zakduUDhnMGo1dldXbG8xVDBJdXhxaUxqQXBrOXZ0MXpRcGZ1SS03ajdKcUZ5UllmaXIyRTlYY0g0ei11a2ZNakFz0gFkQVVfeXFMTUVpU2dKODN2cDNxZ09wWEctaDVmUjdyWVZnQUpkUFI0YkcyaTZQZ1piZmlFQnZCb1dRX3dMSGhvZUN5eEtxcGNPSXRqUDVyYjZzZDRMTjZuZU5ZTGNEV0twSHlEbQ?oc=5\" target=\"_blank\">KDDIスマートドローン、Skydio X10活用のインフラ点検技術が国交省「点検技術カタログ」に掲載 | チバテレ＋プラス</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">千葉テレビ放送株式会社</font>",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5SVFk4dFZ4VEhORnNXdS0zd3JzNU8zakduUDhnMGo1dldXbG8xVDBJdXhxaUxqQXBrOXZ0MXpRcGZ1SS03ajdKcUZ5UllmaXIyRTlYY0g0ei11a2ZNakFz0gFkQVVfeXFMTUVpU2dKODN2cDNxZ09wWEctaDVmUjdyWVZnQUpkUFI0YkcyaTZQZ1piZmlFQnZCb1dRX3dMSGhvZUN5eEtxcGNPSXRqUDVyYjZzZDRMTjZuZU5ZTGNEV0twSHlEbQ?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5SVFk4dFZ4VEhORnNXdS0zd3JzNU8zakduUDhnMGo1dldXbG8xVDBJdXhxaUxqQXBrOXZ0MXpRcGZ1SS03ajdKcUZ5UllmaXIyRTlYY0g0ei11a2ZNakFz0gFkQVVfeXFMTUVpU2dKODN2cDNxZ09wWEctaDVmUjdyWVZnQUpkUFI0YkcyaTZQZ1piZmlFQnZCb1dRX3dMSGhvZUN5eEtxcGNPSXRqUDVyYjZzZDRMTjZuZU5ZTGNEV0twSHlEbQ?oc=5",
-      "publishedAt": "2026-06-02T01:20:20.000Z",
-      "source": "千葉テレビ放送株式会社",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP 政策/実証)",
-      "_scoring": {
-        "score": 70,
-        "categories": [
-          "規制・政策",
-          "政策・インフラ"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 1,
-            "catScore": 32
-          },
-          "policy": {
             "matches": 1,
             "catScore": 24
           },
@@ -573,57 +581,19 @@
       }
     },
     {
-      "title": "【材料】 ＮＪＳが反発、インフラ点検調査用の水中ドローンを発売へ",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE5EblJDTlVvWXVfZjFEeThhR3FuNU95YlBJNkVVa0t2RDl6QTNqTHpOMF9MOE1nbFFPVFhpbVpBdWFIZlQyOERpWVVwTWgyZERhcWlNc25ndElJckE5dXFmNw?oc=5\" target=\"_blank\">【材料】 ＮＪＳが反発、インフラ点検調査用の水中ドローンを発売へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">株探（かぶたん）</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE5EblJDTlVvWXVfZjFEeThhR3FuNU95YlBJNkVVa0t2RDl6QTNqTHpOMF9MOE1nbFFPVFhpbVpBdWFIZlQyOERpWVVwTWgyZERhcWlNc25ndElJckE5dXFmNw?oc=5\" target=\"_blank\">【材料】 ＮＪＳが反発、インフラ点検調査用の水中ドローンを発売へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">株探（かぶたん）</font>",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5EblJDTlVvWXVfZjFEeThhR3FuNU95YlBJNkVVa0t2RDl6QTNqTHpOMF9MOE1nbFFPVFhpbVpBdWFIZlQyOERpWVVwTWgyZERhcWlNc25ndElJckE5dXFmNw?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5EblJDTlVvWXVfZjFEeThhR3FuNU95YlBJNkVVa0t2RDl6QTNqTHpOMF9MOE1nbFFPVFhpbVpBdWFIZlQyOERpWVVwTWgyZERhcWlNc25ndElJckE5dXFmNw?oc=5",
-      "publishedAt": "2026-05-21T07:00:00.000Z",
-      "source": "株探（かぶたん）",
+      "title": "無人航空機の影響を受けた16便について、北部航空局は何と述べているのか？",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOUFBRalJaYUtkdlZCQXhtalpkc2lrdkdfSEpqNy1KeHVtWmVTSWhlZXhOWGR2d1JiVkFQbWpVQzNudXBtNTdmaFJsUzB0X0JWaEtYcFRyekpBTGRIZmFNWE9ZTm5tR2ktNktQUTZXcEpQMnF4YVRBdlNoU0lMMlBOTnFRU1VGR1BHZjl1VkFUYzRWYm5HQ0tvYzkyNA?oc=5\" target=\"_blank\">無人航空機の影響を受けた16便について、北部航空局は何と述べているのか？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Vietnam.vn</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOUFBRalJaYUtkdlZCQXhtalpkc2lrdkdfSEpqNy1KeHVtWmVTSWhlZXhOWGR2d1JiVkFQbWpVQzNudXBtNTdmaFJsUzB0X0JWaEtYcFRyekpBTGRIZmFNWE9ZTm5tR2ktNktQUTZXcEpQMnF4YVRBdlNoU0lMMlBOTnFRU1VGR1BHZjl1VkFUYzRWYm5HQ0tvYzkyNA?oc=5\" target=\"_blank\">無人航空機の影響を受けた16便について、北部航空局は何と述べているのか？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Vietnam.vn</font>",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUFBRalJaYUtkdlZCQXhtalpkc2lrdkdfSEpqNy1KeHVtWmVTSWhlZXhOWGR2d1JiVkFQbWpVQzNudXBtNTdmaFJsUzB0X0JWaEtYcFRyekpBTGRIZmFNWE9ZTm5tR2ktNktQUTZXcEpQMnF4YVRBdlNoU0lMMlBOTnFRU1VGR1BHZjl1VkFUYzRWYm5HQ0tvYzkyNA?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUFBRalJaYUtkdlZCQXhtalpkc2lrdkdfSEpqNy1KeHVtWmVTSWhlZXhOWGR2d1JiVkFQbWpVQzNudXBtNTdmaFJsUzB0X0JWaEtYcFRyekpBTGRIZmFNWE9ZTm5tR2ktNktQUTZXcEpQMnF4YVRBdlNoU0lMMlBOTnFRU1VGR1BHZjl1VkFUYzRWYm5HQ0tvYzkyNA?oc=5",
+      "publishedAt": "2026-06-06T13:38:52.000Z",
+      "source": "Vietnam.vn",
       "_feedRegion": "jp",
-      "_feedName": "Google News (JP 事業者/実装)",
+      "_feedName": "Google News (JP 政策/実証)",
       "_scoring": {
-        "score": 67,
+        "score": 66,
         "categories": [
-          "事故・事件",
-          "政策・インフラ"
-        ],
-        "breakdown": {
-          "required": true,
-          "incident": {
-            "matches": 1,
-            "catScore": 28
-          },
-          "policy": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 0,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "FAA investigating drone use near Eastern Iowa Airport",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOQURIVWtLWjRRSFc4SWdGQ2VOdU5Kd1ZWalR5Tm4tUHJTMUxrU1hIMmVuamVGbmh2bFNNbXJsTmR5MXVhZ1VjaHY1QXpMVDhzak03WmlIeFk4UTNXUGdzajVPWFk1ZlVHd2o5V01XNHFhRWZPMEVDdkJZZlVsSDhUWVFqWmJvRVhBamktNmIxV2sxb3JpaUU0?oc=5\" target=\"_blank\">FAA investigating drone use near Eastern Iowa Airport</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KWQC</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOQURIVWtLWjRRSFc4SWdGQ2VOdU5Kd1ZWalR5Tm4tUHJTMUxrU1hIMmVuamVGbmh2bFNNbXJsTmR5MXVhZ1VjaHY1QXpMVDhzak03WmlIeFk4UTNXUGdzajVPWFk1ZlVHd2o5V01XNHFhRWZPMEVDdkJZZlVsSDhUWVFqWmJvRVhBamktNmIxV2sxb3JpaUU0?oc=5\" target=\"_blank\">FAA investigating drone use near Eastern Iowa Airport</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KWQC</font>",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQURIVWtLWjRRSFc4SWdGQ2VOdU5Kd1ZWalR5Tm4tUHJTMUxrU1hIMmVuamVGbmh2bFNNbXJsTmR5MXVhZ1VjaHY1QXpMVDhzak03WmlIeFk4UTNXUGdzajVPWFk1ZlVHd2o5V01XNHFhRWZPMEVDdkJZZlVsSDhUWVFqWmJvRVhBamktNmIxV2sxb3JpaUU0?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQURIVWtLWjRRSFc4SWdGQ2VOdU5Kd1ZWalR5Tm4tUHJTMUxrU1hIMmVuamVGbmh2bFNNbXJsTmR5MXVhZ1VjaHY1QXpMVDhzak03WmlIeFk4UTNXUGdzajVPWFk1ZlVHd2o5V01XNHFhRWZPMEVDdkJZZlVsSDhUWVFqWmJvRVhBamktNmIxV2sxb3JpaUU0?oc=5",
-      "publishedAt": "2026-06-05T16:55:00.000Z",
-      "source": "KWQC",
-      "_feedRegion": "us",
-      "_feedName": "FAA",
-      "_scoring": {
-        "score": 65,
-        "categories": [
-          "規制・政策",
-          "政策・インフラ"
+          "規制・政策"
         ],
         "breakdown": {
           "required": true,
@@ -631,6 +601,39 @@
             "matches": 1,
             "catScore": 32
           },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 15,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "テラドローン、米国企業DSLRProsと「TerraXross 1」の販売代理店契約を締結 ～産業用途および社会インフラ・公共安全などの重要分野における活用を推進 ～",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE8tcFZrckUtcHNYR0puLWpjV2NGNXhUU2VKU1NiMERHa1VjcVJvNldySFpFdFBZNl9CV2l1OENpR3V0eVc3R2FndjljMGM3UGxydTdHR2x6YnFFb2syX0pMcVFCcUtiV0trTkE?oc=5\" target=\"_blank\">テラドローン、米国企業DSLRProsと「TerraXross 1」の販売代理店契約を締結 ～産業用途および社会インフラ・公共安全などの重要分野における活用を推進 ～</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR TIMES</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE8tcFZrckUtcHNYR0puLWpjV2NGNXhUU2VKU1NiMERHa1VjcVJvNldySFpFdFBZNl9CV2l1OENpR3V0eVc3R2FndjljMGM3UGxydTdHR2x6YnFFb2syX0pMcVFCcUtiV0trTkE?oc=5\" target=\"_blank\">テラドローン、米国企業DSLRProsと「TerraXross 1」の販売代理店契約を締結 ～産業用途および社会インフラ・公共安全などの重要分野における活用を推進 ～</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR TIMES</font>",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8tcFZrckUtcHNYR0puLWpjV2NGNXhUU2VKU1NiMERHa1VjcVJvNldySFpFdFBZNl9CV2l1OENpR3V0eVc3R2FndjljMGM3UGxydTdHR2x6YnFFb2syX0pMcVFCcUtiV0trTkE?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8tcFZrckUtcHNYR0puLWpjV2NGNXhUU2VKU1NiMERHa1VjcVJvNldySFpFdFBZNl9CV2l1OENpR3V0eVc3R2FndjljMGM3UGxydTdHR2x6YnFFb2syX0pMcVFCcUtiV0trTkE?oc=5",
+      "publishedAt": "2026-06-05T06:30:01.000Z",
+      "source": "PR TIMES",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP 事業者/実装)",
+      "_scoring": {
+        "score": 65,
+        "categories": [
+          "市場・資金",
+          "政策・インフラ"
+        ],
+        "breakdown": {
+          "required": true,
+          "market": {
+            "matches": 1,
+            "catScore": 20
+          },
           "policy": {
             "matches": 1,
             "catScore": 24
@@ -639,8 +642,9 @@
             "domain": "news.google.com",
             "multiplier": 0.8
           },
-          "freshness": 10,
-          "titleBonus": 10
+          "freshness": 5,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
         },
         "pass": true
       }
@@ -691,7 +695,7 @@
       "publishedAt": "2026-05-27T07:00:00.000Z",
       "source": "FTV 福島テレビ",
       "_feedRegion": "jp",
-      "_feedName": "Google News (JP 政策/実証)",
+      "_feedName": "Google News (JP)",
       "_scoring": {
         "score": 63,
         "categories": [
@@ -752,6 +756,42 @@
           "freshness": 0,
           "titleBonus": 10,
           "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "FAA investigating drone use near Eastern Iowa Airport",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOQURIVWtLWjRRSFc4SWdGQ2VOdU5Kd1ZWalR5Tm4tUHJTMUxrU1hIMmVuamVGbmh2bFNNbXJsTmR5MXVhZ1VjaHY1QXpMVDhzak03WmlIeFk4UTNXUGdzajVPWFk1ZlVHd2o5V01XNHFhRWZPMEVDdkJZZlVsSDhUWVFqWmJvRVhBamktNmIxV2sxb3JpaUU0?oc=5\" target=\"_blank\">FAA investigating drone use near Eastern Iowa Airport</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KWQC</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOQURIVWtLWjRRSFc4SWdGQ2VOdU5Kd1ZWalR5Tm4tUHJTMUxrU1hIMmVuamVGbmh2bFNNbXJsTmR5MXVhZ1VjaHY1QXpMVDhzak03WmlIeFk4UTNXUGdzajVPWFk1ZlVHd2o5V01XNHFhRWZPMEVDdkJZZlVsSDhUWVFqWmJvRVhBamktNmIxV2sxb3JpaUU0?oc=5\" target=\"_blank\">FAA investigating drone use near Eastern Iowa Airport</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KWQC</font>",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQURIVWtLWjRRSFc4SWdGQ2VOdU5Kd1ZWalR5Tm4tUHJTMUxrU1hIMmVuamVGbmh2bFNNbXJsTmR5MXVhZ1VjaHY1QXpMVDhzak03WmlIeFk4UTNXUGdzajVPWFk1ZlVHd2o5V01XNHFhRWZPMEVDdkJZZlVsSDhUWVFqWmJvRVhBamktNmIxV2sxb3JpaUU0?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQURIVWtLWjRRSFc4SWdGQ2VOdU5Kd1ZWalR5Tm4tUHJTMUxrU1hIMmVuamVGbmh2bFNNbXJsTmR5MXVhZ1VjaHY1QXpMVDhzak03WmlIeFk4UTNXUGdzajVPWFk1ZlVHd2o5V01XNHFhRWZPMEVDdkJZZlVsSDhUWVFqWmJvRVhBamktNmIxV2sxb3JpaUU0?oc=5",
+      "publishedAt": "2026-06-05T16:55:00.000Z",
+      "source": "KWQC",
+      "_feedRegion": "us",
+      "_feedName": "FAA",
+      "_scoring": {
+        "score": 60,
+        "categories": [
+          "規制・政策",
+          "政策・インフラ"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
+          "policy": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 5,
+          "titleBonus": 10
         },
         "pass": true
       }
@@ -898,37 +938,6 @@
       }
     },
     {
-      "title": "FAA restricts drones in Renton for World Cup",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPNjNIdXRva1ZrY1hWQy1zRnlNeHhDOFdFYm5IbzhVdUk1Yi0tNExYb3dEWjZ1bERXUkpuRVJ3ZmdBSkFXNllBd19pYVRBU0ZSX2M1cjZIZ1h0Rko4R1hyc3ViNUtpYm9FU0xCY1dGcWs5RF9zSnhCaHdacFFNX3JpeUtxMWFXeFYySlhoNG84b1M?oc=5\" target=\"_blank\">FAA restricts drones in Renton for World Cup</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Renton Reporter</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPNjNIdXRva1ZrY1hWQy1zRnlNeHhDOFdFYm5IbzhVdUk1Yi0tNExYb3dEWjZ1bERXUkpuRVJ3ZmdBSkFXNllBd19pYVRBU0ZSX2M1cjZIZ1h0Rko4R1hyc3ViNUtpYm9FU0xCY1dGcWs5RF9zSnhCaHdacFFNX3JpeUtxMWFXeFYySlhoNG84b1M?oc=5\" target=\"_blank\">FAA restricts drones in Renton for World Cup</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Renton Reporter</font>",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNjNIdXRva1ZrY1hWQy1zRnlNeHhDOFdFYm5IbzhVdUk1Yi0tNExYb3dEWjZ1bERXUkpuRVJ3ZmdBSkFXNllBd19pYVRBU0ZSX2M1cjZIZ1h0Rko4R1hyc3ViNUtpYm9FU0xCY1dGcWs5RF9zSnhCaHdacFFNX3JpeUtxMWFXeFYySlhoNG84b1M?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNjNIdXRva1ZrY1hWQy1zRnlNeHhDOFdFYm5IbzhVdUk1Yi0tNExYb3dEWjZ1bERXUkpuRVJ3ZmdBSkFXNllBd19pYVRBU0ZSX2M1cjZIZ1h0Rko4R1hyc3ViNUtpYm9FU0xCY1dGcWs5RF9zSnhCaHdacFFNX3JpeUtxMWFXeFYySlhoNG84b1M?oc=5",
-      "publishedAt": "2026-06-06T14:31:30.000Z",
-      "source": "Renton Reporter",
-      "_feedRegion": "us",
-      "_feedName": "FAA",
-      "_scoring": {
-        "score": 56,
-        "categories": [
-          "規制・政策"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 1,
-            "catScore": 32
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 20,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
       "title": "国交省／鉄道モーダルシフトや物流ドローン社会実装進まず、審議会の環境部会で報告",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE5SVEhoQXNzR2hLQTgwbFBCTmlaTjRpTmhtLTd2RjdEWFNlVDNlTmhPMkRmYWk0cV9UU2pkdW5ITVBjdXdPbG42NGthTGQxd3pnMnVueQ?oc=5\" target=\"_blank\">国交省／鉄道モーダルシフトや物流ドローン社会実装進まず、審議会の環境部会で報告</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">物流ニュースのLNEWS</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE5SVEhoQXNzR2hLQTgwbFBCTmlaTjRpTmhtLTd2RjdEWFNlVDNlTmhPMkRmYWk0cV9UU2pkdW5ITVBjdXdPbG42NGthTGQxd3pnMnVueQ?oc=5\" target=\"_blank\">国交省／鉄道モーダルシフトや物流ドローン社会実装進まず、審議会の環境部会で報告</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">物流ニュースのLNEWS</font>",
@@ -1061,30 +1070,30 @@
       }
     },
     {
-      "title": "Assessing BETA Technologies (BETA) Valuation After FAA eVTOL Pilot Selection And European Cargo Flights",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPb0hvMFNEZVhoTlpFeHhoOFpqdGVNYi1POVAyRGEtcFhlODZkTTZlQkpYR3R4UDlhSnp4aEZwS2RncE80SktJUlhBOVdXc2d4N1hpZ3Zobno5N0N1RUtrY2RJMkkzcGtuN0ZsWWNPLWlBQmJKOU5uWW9HQjU1NUVIdjRSQ0pjQkhsMTJZQklLQXBXdzNJeFdrcFNvMlM3MkxtLWpLcVI5bGZIbE0?oc=5\" target=\"_blank\">Assessing BETA Technologies (BETA) Valuation After FAA eVTOL Pilot Selection And European Cargo Flights</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPb0hvMFNEZVhoTlpFeHhoOFpqdGVNYi1POVAyRGEtcFhlODZkTTZlQkpYR3R4UDlhSnp4aEZwS2RncE80SktJUlhBOVdXc2d4N1hpZ3Zobno5N0N1RUtrY2RJMkkzcGtuN0ZsWWNPLWlBQmJKOU5uWW9HQjU1NUVIdjRSQ0pjQkhsMTJZQklLQXBXdzNJeFdrcFNvMlM3MkxtLWpLcVI5bGZIbE0?oc=5\" target=\"_blank\">Assessing BETA Technologies (BETA) Valuation After FAA eVTOL Pilot Selection And European Cargo Flights</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPb0hvMFNEZVhoTlpFeHhoOFpqdGVNYi1POVAyRGEtcFhlODZkTTZlQkpYR3R4UDlhSnp4aEZwS2RncE80SktJUlhBOVdXc2d4N1hpZ3Zobno5N0N1RUtrY2RJMkkzcGtuN0ZsWWNPLWlBQmJKOU5uWW9HQjU1NUVIdjRSQ0pjQkhsMTJZQklLQXBXdzNJeFdrcFNvMlM3MkxtLWpLcVI5bGZIbE0?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPb0hvMFNEZVhoTlpFeHhoOFpqdGVNYi1POVAyRGEtcFhlODZkTTZlQkpYR3R4UDlhSnp4aEZwS2RncE80SktJUlhBOVdXc2d4N1hpZ3Zobno5N0N1RUtrY2RJMkkzcGtuN0ZsWWNPLWlBQmJKOU5uWW9HQjU1NUVIdjRSQ0pjQkhsMTJZQklLQXBXdzNJeFdrcFNvMlM3MkxtLWpLcVI5bGZIbE0?oc=5",
-      "publishedAt": "2026-06-03T17:10:12.000Z",
-      "source": "Yahoo Finance",
-      "_feedRegion": "us",
-      "_feedName": "FAA",
+      "title": "NYS Public Safety UAS Summit 2026",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE9lelIwSzJzQklXNGVITUZIbFBBeGlVUDI1aTgtTWxtb05jZUU3R2ZFb2xLcWplb0FpeURZZmVqNVVzSmw0Qkd6bGpsbkVySVNnWm1KUVNGRDAtRkhfcnpLTkJqWEdXRFlkNzlCUUhkSQ?oc=5\" target=\"_blank\">NYS Public Safety UAS Summit 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AUVSI</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE9lelIwSzJzQklXNGVITUZIbFBBeGlVUDI1aTgtTWxtb05jZUU3R2ZFb2xLcWplb0FpeURZZmVqNVVzSmw0Qkd6bGpsbkVySVNnWm1KUVNGRDAtRkhfcnpLTkJqWEdXRFlkNzlCUUhkSQ?oc=5\" target=\"_blank\">NYS Public Safety UAS Summit 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AUVSI</font>",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9lelIwSzJzQklXNGVITUZIbFBBeGlVUDI1aTgtTWxtb05jZUU3R2ZFb2xLcWplb0FpeURZZmVqNVVzSmw0Qkd6bGpsbkVySVNnWm1KUVNGRDAtRkhfcnpLTkJqWEdXRFlkNzlCUUhkSQ?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9lelIwSzJzQklXNGVITUZIbFBBeGlVUDI1aTgtTWxtb05jZUU3R2ZFb2xLcWplb0FpeURZZmVqNVVzSmw0Qkd6bGpsbkVySVNnWm1KUVNGRDAtRkhfcnpLTkJqWEdXRFlkNzlCUUhkSQ?oc=5",
+      "publishedAt": "2026-06-03T18:26:30.000Z",
+      "source": "AUVSI",
+      "_feedRegion": "global",
+      "_feedName": "Google News (Global)",
       "_scoring": {
         "score": 54,
         "categories": [
-          "規制・政策",
-          "市場・資金"
+          "事故・事件",
+          "政策・インフラ"
         ],
         "breakdown": {
           "required": true,
-          "regulation": {
+          "incident": {
             "matches": 1,
-            "catScore": 32
+            "catScore": 28
           },
-          "market": {
+          "policy": {
             "matches": 1,
-            "catScore": 20
+            "catScore": 24
           },
           "sourceTrust": {
             "domain": "news.google.com",
