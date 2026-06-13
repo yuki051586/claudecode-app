@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-13T18:12:44.860Z",
-  "rawCount": 688,
+  "generatedAt": "2026-06-13T20:19:58.054Z",
+  "rawCount": 701,
   "articles": [
     {
       "title": "Choctaw ROTC's aerospace program produces 5 FAA-certified drone pilots, 15 safety certifications in breakout year",
@@ -544,6 +544,38 @@
       }
     },
     {
+      "title": "プロドローン、ウクライナでの地雷探査の報告会開催 現地で初の実証実験：ニュース",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE1vanBSVUlNVDE4dFNwelgxMFRBRzFVMXhJTF83bkFodmhNeXpvbUJaMEdmN2VrQXU2dEF0LWJwZnF0ZTZVTElvaEc1Wkdlano1U0FiclB6TnJmNG5pdXpr?oc=5\" target=\"_blank\">プロドローン、ウクライナでの地雷探査の報告会開催 現地で初の実証実験：ニュース</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">中日BIZナビ</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE1vanBSVUlNVDE4dFNwelgxMFRBRzFVMXhJTF83bkFodmhNeXpvbUJaMEdmN2VrQXU2dEF0LWJwZnF0ZTZVTElvaEc1Wkdlano1U0FiclB6TnJmNG5pdXpr?oc=5\" target=\"_blank\">プロドローン、ウクライナでの地雷探査の報告会開催 現地で初の実証実験：ニュース</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">中日BIZナビ</font>",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1vanBSVUlNVDE4dFNwelgxMFRBRzFVMXhJTF83bkFodmhNeXpvbUJaMEdmN2VrQXU2dEF0LWJwZnF0ZTZVTElvaEc1Wkdlano1U0FiclB6TnJmNG5pdXpr?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1vanBSVUlNVDE4dFNwelgxMFRBRzFVMXhJTF83bkFodmhNeXpvbUJaMEdmN2VrQXU2dEF0LWJwZnF0ZTZVTElvaEc1Wkdlano1U0FiclB6TnJmNG5pdXpr?oc=5",
+      "publishedAt": "2026-06-13T18:29:08.000Z",
+      "source": "中日BIZナビ",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP 政策/実証)",
+      "_scoring": {
+        "score": 64,
+        "categories": [
+          "技術・製品"
+        ],
+        "breakdown": {
+          "required": true,
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 20,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
       "title": "農作業の効率化へ ドローンで農薬散布の実証実験 NTTが通信インフラの点検で培った技術を応用 福島：ニュース",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFA5STFWX3RNSFJxVHc5eEVtRkJSN19RemdwTXB2TU1oOC05Vk0wSWtIRGNGSFQ1MzFyMjJodEFjT3NaR1lLNktOcUxoQm02Wnlyd3N2OFlkLWVZZ2w5eWVmYmkzQnhfMElRbEFPTHhBSi1FNzNSQlZDMWpB?oc=5\" target=\"_blank\">農作業の効率化へ ドローンで農薬散布の実証実験 NTTが通信インフラの点検で培った技術を応用 福島：ニュース</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FTV 福島テレビ</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFA5STFWX3RNSFJxVHc5eEVtRkJSN19RemdwTXB2TU1oOC05Vk0wSWtIRGNGSFQ1MzFyMjJodEFjT3NaR1lLNktOcUxoQm02Wnlyd3N2OFlkLWVZZ2w5eWVmYmkzQnhfMElRbEFPTHhBSi1FNzNSQlZDMWpB?oc=5\" target=\"_blank\">農作業の効率化へ ドローンで農薬散布の実証実験 NTTが通信インフラの点検で培った技術を応用 福島：ニュース</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FTV 福島テレビ</font>",
@@ -775,43 +807,6 @@
       "source": "DRONE.jp",
       "_feedRegion": "jp",
       "_feedName": "Google News (JP ドローン専門)",
-      "_scoring": {
-        "score": 60,
-        "categories": [
-          "市場・資金",
-          "政策・インフラ"
-        ],
-        "breakdown": {
-          "required": true,
-          "market": {
-            "matches": 1,
-            "catScore": 20
-          },
-          "policy": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 0,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "テラドローン、米国企業DSLRProsと「TerraXross 1」の販売代理店契約を締結 ～産業用途および社会インフラ・公共安全などの重要分野における活用を推進 ～",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE8tcFZrckUtcHNYR0puLWpjV2NGNXhUU2VKU1NiMERHa1VjcVJvNldySFpFdFBZNl9CV2l1OENpR3V0eVc3R2FndjljMGM3UGxydTdHR2x6YnFFb2syX0pMcVFCcUtiV0trTkE?oc=5\" target=\"_blank\">テラドローン、米国企業DSLRProsと「TerraXross 1」の販売代理店契約を締結 ～産業用途および社会インフラ・公共安全などの重要分野における活用を推進 ～</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR TIMES</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE8tcFZrckUtcHNYR0puLWpjV2NGNXhUU2VKU1NiMERHa1VjcVJvNldySFpFdFBZNl9CV2l1OENpR3V0eVc3R2FndjljMGM3UGxydTdHR2x6YnFFb2syX0pMcVFCcUtiV0trTkE?oc=5\" target=\"_blank\">テラドローン、米国企業DSLRProsと「TerraXross 1」の販売代理店契約を締結 ～産業用途および社会インフラ・公共安全などの重要分野における活用を推進 ～</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR TIMES</font>",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8tcFZrckUtcHNYR0puLWpjV2NGNXhUU2VKU1NiMERHa1VjcVJvNldySFpFdFBZNl9CV2l1OENpR3V0eVc3R2FndjljMGM3UGxydTdHR2x6YnFFb2syX0pMcVFCcUtiV0trTkE?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8tcFZrckUtcHNYR0puLWpjV2NGNXhUU2VKU1NiMERHa1VjcVJvNldySFpFdFBZNl9CV2l1OENpR3V0eVc3R2FndjljMGM3UGxydTdHR2x6YnFFb2syX0pMcVFCcUtiV0trTkE?oc=5",
-      "publishedAt": "2026-06-05T06:30:01.000Z",
-      "source": "PR TIMES",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP 事業者/実装)",
       "_scoring": {
         "score": 60,
         "categories": [
