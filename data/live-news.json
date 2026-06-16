@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-16T04:57:36.671Z",
-  "rawCount": 709,
+  "generatedAt": "2026-06-16T10:18:44.959Z",
+  "rawCount": 697,
   "articles": [
     {
       "title": "Choctaw ROTC's aerospace program produces 5 FAA-certified drone pilots, 15 safety certifications in breakout year",
@@ -38,6 +38,42 @@
             "multiplier": 0.8
           },
           "freshness": 0,
+          "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "New commercial drone market forecasts suggest huge potential but regulations continue to hamper growth",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxOc3kwVjR0YVIxMTNvODcxMGFPQ0M5SjAxbUVrTVdkcll6WVhYbEswbzdFNkwyUjdNck10ZWs3RllKVS03aEJnTmJHNzU3ZnljdEZhVGRnYTc0T0FlanNMYUlIMkFTMDNXWnNONUswUXkwZlhOMkpVRkdydUZlN2VpUkN4Znl3WFd3RDJUcmVYd2ctNWpEQmZYZnV1azJsQ0RTVWhWSllqM2lIcHNPQU0yeVhmQVdkZHhjaTZuc0NTdVVuY0I0QUdJSlpYV2c0czUzcGx5NkllSkVoYjhCQ3p4Y0lUbjl4UQ?oc=5\" target=\"_blank\">New commercial drone market forecasts suggest huge potential but regulations continue to hamper growth</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxOc3kwVjR0YVIxMTNvODcxMGFPQ0M5SjAxbUVrTVdkcll6WVhYbEswbzdFNkwyUjdNck10ZWs3RllKVS03aEJnTmJHNzU3ZnljdEZhVGRnYTc0T0FlanNMYUlIMkFTMDNXWnNONUswUXkwZlhOMkpVRkdydUZlN2VpUkN4Znl3WFd3RDJUcmVYd2ctNWpEQmZYZnV1azJsQ0RTVWhWSllqM2lIcHNPQU0yeVhmQVdkZHhjaTZuc0NTdVVuY0I0QUdJSlpYV2c0czUzcGx5NkllSkVoYjhCQ3p4Y0lUbjl4UQ?oc=5\" target=\"_blank\">New commercial drone market forecasts suggest huge potential but regulations continue to hamper growth</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOc3kwVjR0YVIxMTNvODcxMGFPQ0M5SjAxbUVrTVdkcll6WVhYbEswbzdFNkwyUjdNck10ZWs3RllKVS03aEJnTmJHNzU3ZnljdEZhVGRnYTc0T0FlanNMYUlIMkFTMDNXWnNONUswUXkwZlhOMkpVRkdydUZlN2VpUkN4Znl3WFd3RDJUcmVYd2ctNWpEQmZYZnV1azJsQ0RTVWhWSllqM2lIcHNPQU0yeVhmQVdkZHhjaTZuc0NTdVVuY0I0QUdJSlpYV2c0czUzcGx5NkllSkVoYjhCQ3p4Y0lUbjl4UQ?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOc3kwVjR0YVIxMTNvODcxMGFPQ0M5SjAxbUVrTVdkcll6WVhYbEswbzdFNkwyUjdNck10ZWs3RllKVS03aEJnTmJHNzU3ZnljdEZhVGRnYTc0T0FlanNMYUlIMkFTMDNXWnNONUswUXkwZlhOMkpVRkdydUZlN2VpUkN4Znl3WFd3RDJUcmVYd2ctNWpEQmZYZnV1azJsQ0RTVWhWSllqM2lIcHNPQU0yeVhmQVdkZHhjaTZuc0NTdVVuY0I0QUdJSlpYV2c0czUzcGx5NkllSkVoYjhCQ3p4Y0lUbjl4UQ?oc=5",
+      "publishedAt": "2026-06-16T09:21:35.000Z",
+      "source": "Unmanned airspace",
+      "_feedRegion": "eu",
+      "_feedName": "EASA",
+      "_scoring": {
+        "score": 78,
+        "categories": [
+          "規制・政策",
+          "市場・資金"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 2,
+            "catScore": 40
+          },
+          "market": {
+            "matches": 1,
+            "catScore": 20
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 20,
           "titleBonus": 10
         },
         "pass": true
@@ -163,43 +199,6 @@
       }
     },
     {
-      "title": "テラドローン株価がストップ高 ウクライナ防衛2社を買収",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOMHlKOWtVLTBVMjNQXzM2N3pxYkxpeWpRX2ZLandOSTVFZ01jNFpUZHI1NmxOTG1ubDFDNXU1SXoyLVNEY1J3ZEN4MThmMmRuZEZaQ3lsSDVwSkZFVWNpQ21sRDIxSVlVQzhIUFVfZUVETmRWMVcyVXdOdjBxME9tMVNKNXVVMTYtR20ycXRMOGdJdk1KZlpUWWhOSXgyYVQxWnc?oc=5\" target=\"_blank\">テラドローン株価がストップ高 ウクライナ防衛2社を買収</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOMHlKOWtVLTBVMjNQXzM2N3pxYkxpeWpRX2ZLandOSTVFZ01jNFpUZHI1NmxOTG1ubDFDNXU1SXoyLVNEY1J3ZEN4MThmMmRuZEZaQ3lsSDVwSkZFVWNpQ21sRDIxSVlVQzhIUFVfZUVETmRWMVcyVXdOdjBxME9tMVNKNXVVMTYtR20ycXRMOGdJdk1KZlpUWWhOSXgyYVQxWnc?oc=5\" target=\"_blank\">テラドローン株価がストップ高 ウクライナ防衛2社を買収</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMHlKOWtVLTBVMjNQXzM2N3pxYkxpeWpRX2ZLandOSTVFZ01jNFpUZHI1NmxOTG1ubDFDNXU1SXoyLVNEY1J3ZEN4MThmMmRuZEZaQ3lsSDVwSkZFVWNpQ21sRDIxSVlVQzhIUFVfZUVETmRWMVcyVXdOdjBxME9tMVNKNXVVMTYtR20ycXRMOGdJdk1KZlpUWWhOSXgyYVQxWnc?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMHlKOWtVLTBVMjNQXzM2N3pxYkxpeWpRX2ZLandOSTVFZ01jNFpUZHI1NmxOTG1ubDFDNXU1SXoyLVNEY1J3ZEN4MThmMmRuZEZaQ3lsSDVwSkZFVWNpQ21sRDIxSVlVQzhIUFVfZUVETmRWMVcyVXdOdjBxME9tMVNKNXVVMTYtR20ycXRMOGdJdk1KZlpUWWhOSXgyYVQxWnc?oc=5",
-      "publishedAt": "2026-06-16T01:21:00.000Z",
-      "source": "日本経済新聞",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP 経済メディア)",
-      "_scoring": {
-        "score": 75,
-        "categories": [
-          "市場・資金",
-          "政策・インフラ"
-        ],
-        "breakdown": {
-          "required": true,
-          "market": {
-            "matches": 1,
-            "catScore": 20
-          },
-          "policy": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 15,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
       "title": "Assessing BETA Technologies (BETA) Valuation After High Profile eVTOL Flights And FAA Pilot Program Launch",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxOa2hVTXFWajZHZWtuQlBjZkJlRXNLa3JGZHU2VzROeGpVMGh6TlU5d2drbU5nS2MwOUFtd2cxYlRpUlhIa1A2RzI3NVU3NDVPclN3SlJMc2hMZW1KU3lzRTdObVlHbjhzSGNvdTdWRExlRFdob1FTZ2VqRjl0MEZrZEdoazJqV0wtemUxdlhybzdxNHl2dzYxNC16LW9TZl9qcE4xZkNVU1JuTVpIWmRveXg3cl9EOFhJWlVLZjV0YmFleUVJLXNXY1RYV3locGtHUTJ5bmlR0gHbAUFVX3lxTE1OV0hRVERUeEhpb3NTNnRQaXIwWUo3RzB5b2pUQ1ZIcnJfTVBqUG1iSG0zY3JISjE3Q0JEZXlXZmFqMFVfQ0FKRk1pc3E2T29UUXVZT2s2Qzh2N1pBNnZSR2ZhVUFYRVVNdjFwVXV4bGhSR2NDMnlEWEhyeDdWOS1UMDZyRmlxN2hhVm5ISlJfd0NxcGk0M0Z4bnQ5M2I5dGcxeU5tS1VWV01paVdfWHQxa0tCVHg2dUtzRm5FS2pPay1sZ3R2ci1ETFVmeFJvTTl2QmVEd0Zua29sdw?oc=5\" target=\"_blank\">Assessing BETA Technologies (BETA) Valuation After High Profile eVTOL Flights And FAA Pilot Program Launch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">simplywall.st</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxOa2hVTXFWajZHZWtuQlBjZkJlRXNLa3JGZHU2VzROeGpVMGh6TlU5d2drbU5nS2MwOUFtd2cxYlRpUlhIa1A2RzI3NVU3NDVPclN3SlJMc2hMZW1KU3lzRTdObVlHbjhzSGNvdTdWRExlRFdob1FTZ2VqRjl0MEZrZEdoazJqV0wtemUxdlhybzdxNHl2dzYxNC16LW9TZl9qcE4xZkNVU1JuTVpIWmRveXg3cl9EOFhJWlVLZjV0YmFleUVJLXNXY1RYV3locGtHUTJ5bmlR0gHbAUFVX3lxTE1OV0hRVERUeEhpb3NTNnRQaXIwWUo3RzB5b2pUQ1ZIcnJfTVBqUG1iSG0zY3JISjE3Q0JEZXlXZmFqMFVfQ0FKRk1pc3E2T29UUXVZT2s2Qzh2N1pBNnZSR2ZhVUFYRVVNdjFwVXV4bGhSR2NDMnlEWEhyeDdWOS1UMDZyRmlxN2hhVm5ISlJfd0NxcGk0M0Z4bnQ5M2I5dGcxeU5tS1VWV01paVdfWHQxa0tCVHg2dUtzRm5FS2pPay1sZ3R2ci1ETFVmeFJvTTl2QmVEd0Zua29sdw?oc=5\" target=\"_blank\">Assessing BETA Technologies (BETA) Valuation After High Profile eVTOL Flights And FAA Pilot Program Launch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">simplywall.st</font>",
@@ -276,42 +275,6 @@
             "multiplier": 0.8
           },
           "freshness": 0,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "NASA, UNOS and LifeNet Complete Successful BVLOS Drone Flights Carrying Human Kidneys",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNTE56b203TFY4UUFiby03QWwyRzdnLUludmxTenl0VGoxalFEeWFaZ0lNSDMwRW54X0FlM19Zam1ocDBLckVsdHA1dFFMQ2NEVXoybXVHUktFSEJ3ODNfc1k2TWZzNDMwRWQwUlZKRVd3Z0ZZbnBSd2tiUU9XYTdmamk3NWE0VDl4MDh6N3ZVdGd6eG8?oc=5\" target=\"_blank\">NASA, UNOS and LifeNet Complete Successful BVLOS Drone Flights Carrying Human Kidneys</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dronelife</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNTE56b203TFY4UUFiby03QWwyRzdnLUludmxTenl0VGoxalFEeWFaZ0lNSDMwRW54X0FlM19Zam1ocDBLckVsdHA1dFFMQ2NEVXoybXVHUktFSEJ3ODNfc1k2TWZzNDMwRWQwUlZKRVd3Z0ZZbnBSd2tiUU9XYTdmamk3NWE0VDl4MDh6N3ZVdGd6eG8?oc=5\" target=\"_blank\">NASA, UNOS and LifeNet Complete Successful BVLOS Drone Flights Carrying Human Kidneys</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dronelife</font>",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTE56b203TFY4UUFiby03QWwyRzdnLUludmxTenl0VGoxalFEeWFaZ0lNSDMwRW54X0FlM19Zam1ocDBLckVsdHA1dFFMQ2NEVXoybXVHUktFSEJ3ODNfc1k2TWZzNDMwRWQwUlZKRVd3Z0ZZbnBSd2tiUU9XYTdmamk3NWE0VDl4MDh6N3ZVdGd6eG8?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTE56b203TFY4UUFiby03QWwyRzdnLUludmxTenl0VGoxalFEeWFaZ0lNSDMwRW54X0FlM19Zam1ocDBLckVsdHA1dFFMQ2NEVXoybXVHUktFSEJ3ODNfc1k2TWZzNDMwRWQwUlZKRVd3Z0ZZbnBSd2tiUU9XYTdmamk3NWE0VDl4MDh6N3ZVdGd6eG8?oc=5",
-      "publishedAt": "2026-06-15T17:05:57.000Z",
-      "source": "Dronelife",
-      "_feedRegion": "global",
-      "_feedName": "Google News (Global)",
-      "_scoring": {
-        "score": 70,
-        "categories": [
-          "規制・政策",
-          "政策・インフラ"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 1,
-            "catScore": 32
-          },
-          "policy": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 15,
           "titleBonus": 10
         },
         "pass": true
@@ -537,6 +500,110 @@
             "multiplier": 0.8
           },
           "freshness": 0,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "Eurosatory 2026 – MyDefence launches long-range drone jammer",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQRm4xQ2RYSlBfX2NTLU5IRlZtTTE4VjQ3aWxVTHFZSlE1OHRKdzhHRUY4N3VuY0tfeWQ0SndVNUxOYlNiMEhWWEdvdVJRTjNQdjVlVXpPY2l5TGNsa0tNRGJwcEZFYWFkSk5oWUs2cjJwMk93TjRIbmkxZFZDUTFlVnB2SHJwV2hTdkp5aWtWV3hzR2o5Ni1BLXprR3lXX3pGMGZhY1lkU2tPNDN3VVM2ZnJzQVNsQVZheXNvWkl6TkdNNjRQ?oc=5\" target=\"_blank\">Eurosatory 2026 – MyDefence launches long-range drone jammer</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQRm4xQ2RYSlBfX2NTLU5IRlZtTTE4VjQ3aWxVTHFZSlE1OHRKdzhHRUY4N3VuY0tfeWQ0SndVNUxOYlNiMEhWWEdvdVJRTjNQdjVlVXpPY2l5TGNsa0tNRGJwcEZFYWFkSk5oWUs2cjJwMk93TjRIbmkxZFZDUTFlVnB2SHJwV2hTdkp5aWtWV3hzR2o5Ni1BLXprR3lXX3pGMGZhY1lkU2tPNDN3VVM2ZnJzQVNsQVZheXNvWkl6TkdNNjRQ?oc=5\" target=\"_blank\">Eurosatory 2026 – MyDefence launches long-range drone jammer</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRm4xQ2RYSlBfX2NTLU5IRlZtTTE4VjQ3aWxVTHFZSlE1OHRKdzhHRUY4N3VuY0tfeWQ0SndVNUxOYlNiMEhWWEdvdVJRTjNQdjVlVXpPY2l5TGNsa0tNRGJwcEZFYWFkSk5oWUs2cjJwMk93TjRIbmkxZFZDUTFlVnB2SHJwV2hTdkp5aWtWV3hzR2o5Ni1BLXprR3lXX3pGMGZhY1lkU2tPNDN3VVM2ZnJzQVNsQVZheXNvWkl6TkdNNjRQ?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRm4xQ2RYSlBfX2NTLU5IRlZtTTE4VjQ3aWxVTHFZSlE1OHRKdzhHRUY4N3VuY0tfeWQ0SndVNUxOYlNiMEhWWEdvdVJRTjNQdjVlVXpPY2l5TGNsa0tNRGJwcEZFYWFkSk5oWUs2cjJwMk93TjRIbmkxZFZDUTFlVnB2SHJwV2hTdkp5aWtWV3hzR2o5Ni1BLXprR3lXX3pGMGZhY1lkU2tPNDN3VVM2ZnJzQVNsQVZheXNvWkl6TkdNNjRQ?oc=5",
+      "publishedAt": "2026-06-16T08:29:32.000Z",
+      "source": "Unmanned airspace",
+      "_feedRegion": "eu",
+      "_feedName": "EASA",
+      "_scoring": {
+        "score": 65,
+        "categories": [
+          "技術・製品",
+          "市場・資金"
+        ],
+        "breakdown": {
+          "required": true,
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "market": {
+            "matches": 1,
+            "catScore": 20
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 20,
+          "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "NASA, UNOS and LifeNet Complete Successful BVLOS Drone Flights Carrying Human Kidneys",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNTE56b203TFY4UUFiby03QWwyRzdnLUludmxTenl0VGoxalFEeWFaZ0lNSDMwRW54X0FlM19Zam1ocDBLckVsdHA1dFFMQ2NEVXoybXVHUktFSEJ3ODNfc1k2TWZzNDMwRWQwUlZKRVd3Z0ZZbnBSd2tiUU9XYTdmamk3NWE0VDl4MDh6N3ZVdGd6eG8?oc=5\" target=\"_blank\">NASA, UNOS and LifeNet Complete Successful BVLOS Drone Flights Carrying Human Kidneys</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dronelife</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNTE56b203TFY4UUFiby03QWwyRzdnLUludmxTenl0VGoxalFEeWFaZ0lNSDMwRW54X0FlM19Zam1ocDBLckVsdHA1dFFMQ2NEVXoybXVHUktFSEJ3ODNfc1k2TWZzNDMwRWQwUlZKRVd3Z0ZZbnBSd2tiUU9XYTdmamk3NWE0VDl4MDh6N3ZVdGd6eG8?oc=5\" target=\"_blank\">NASA, UNOS and LifeNet Complete Successful BVLOS Drone Flights Carrying Human Kidneys</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dronelife</font>",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTE56b203TFY4UUFiby03QWwyRzdnLUludmxTenl0VGoxalFEeWFaZ0lNSDMwRW54X0FlM19Zam1ocDBLckVsdHA1dFFMQ2NEVXoybXVHUktFSEJ3ODNfc1k2TWZzNDMwRWQwUlZKRVd3Z0ZZbnBSd2tiUU9XYTdmamk3NWE0VDl4MDh6N3ZVdGd6eG8?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTE56b203TFY4UUFiby03QWwyRzdnLUludmxTenl0VGoxalFEeWFaZ0lNSDMwRW54X0FlM19Zam1ocDBLckVsdHA1dFFMQ2NEVXoybXVHUktFSEJ3ODNfc1k2TWZzNDMwRWQwUlZKRVd3Z0ZZbnBSd2tiUU9XYTdmamk3NWE0VDl4MDh6N3ZVdGd6eG8?oc=5",
+      "publishedAt": "2026-06-15T17:05:57.000Z",
+      "source": "Dronelife",
+      "_feedRegion": "global",
+      "_feedName": "Google News (Global)",
+      "_scoring": {
+        "score": 65,
+        "categories": [
+          "規制・政策",
+          "政策・インフラ"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
+          "policy": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 10,
+          "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "経済安全保障で高まる国産モーター需要、ニデックが小型～大型ドローンに対応したモーター5種を開発",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE1OejN4Ny11Z1ZVeUw3SklxVWF4SHBUUFhISTRFei0zRUJESXM0R3VFb011WHJCWXA1am9HNUlNVFd2aWNYX2xnMWdKYWFLLUlWVl95aDVFWWFTdHYyVHg4bEZTXzgwaUtKYlM4?oc=5\" target=\"_blank\">経済安全保障で高まる国産モーター需要、ニデックが小型～大型ドローンに対応したモーター5種を開発</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ドローンジャーナル</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE1OejN4Ny11Z1ZVeUw3SklxVWF4SHBUUFhISTRFei0zRUJESXM0R3VFb011WHJCWXA1am9HNUlNVFd2aWNYX2xnMWdKYWFLLUlWVl95aDVFWWFTdHYyVHg4bEZTXzgwaUtKYlM4?oc=5\" target=\"_blank\">経済安全保障で高まる国産モーター需要、ニデックが小型～大型ドローンに対応したモーター5種を開発</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ドローンジャーナル</font>",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1OejN4Ny11Z1ZVeUw3SklxVWF4SHBUUFhISTRFei0zRUJESXM0R3VFb011WHJCWXA1am9HNUlNVFd2aWNYX2xnMWdKYWFLLUlWVl95aDVFWWFTdHYyVHg4bEZTXzgwaUtKYlM4?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1OejN4Ny11Z1ZVeUw3SklxVWF4SHBUUFhISTRFei0zRUJESXM0R3VFb011WHJCWXA1am9HNUlNVFd2aWNYX2xnMWdKYWFLLUlWVl95aDVFWWFTdHYyVHg4bEZTXzgwaUtKYlM4?oc=5",
+      "publishedAt": "2026-06-16T09:34:27.000Z",
+      "source": "ドローンジャーナル",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP)",
+      "_scoring": {
+        "score": 64,
+        "categories": [
+          "技術・製品"
+        ],
+        "breakdown": {
+          "required": true,
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 20,
           "titleBonus": 10,
           "jpRegionBonus": 15
         },
@@ -944,42 +1011,6 @@
       }
     },
     {
-      "title": "Reliable Robotics Pursues FAA Certification for Network-Agnostic UAS Datalink System",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPcmRRbExlV0FDZ3BRbDc1MXhmckM2LVpBNzJWSTFyMW1ydXRiQmpQcnJwTFpmUXpIajh1UkJ3REc5NTBDQV9pVGlDdmdBT3ZOeUFGNlNoUkk4bTcxaldERzRnSXRmWU1FWkF2bXI1OTNpUU5BcWlLeTQ0ZWwyaUpvaFVYTGVpdGVvX0huSWdyWktuTGFxWUlLaENxTkc3cFBlRUY4NFphLWo5YWJKQWpIYk5wdk5JNzJlcmNBVXItQnhKem00?oc=5\" target=\"_blank\">Reliable Robotics Pursues FAA Certification for Network-Agnostic UAS Datalink System</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Space War News</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPcmRRbExlV0FDZ3BRbDc1MXhmckM2LVpBNzJWSTFyMW1ydXRiQmpQcnJwTFpmUXpIajh1UkJ3REc5NTBDQV9pVGlDdmdBT3ZOeUFGNlNoUkk4bTcxaldERzRnSXRmWU1FWkF2bXI1OTNpUU5BcWlLeTQ0ZWwyaUpvaFVYTGVpdGVvX0huSWdyWktuTGFxWUlLaENxTkc3cFBlRUY4NFphLWo5YWJKQWpIYk5wdk5JNzJlcmNBVXItQnhKem00?oc=5\" target=\"_blank\">Reliable Robotics Pursues FAA Certification for Network-Agnostic UAS Datalink System</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Space War News</font>",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcmRRbExlV0FDZ3BRbDc1MXhmckM2LVpBNzJWSTFyMW1ydXRiQmpQcnJwTFpmUXpIajh1UkJ3REc5NTBDQV9pVGlDdmdBT3ZOeUFGNlNoUkk4bTcxaldERzRnSXRmWU1FWkF2bXI1OTNpUU5BcWlLeTQ0ZWwyaUpvaFVYTGVpdGVvX0huSWdyWktuTGFxWUlLaENxTkc3cFBlRUY4NFphLWo5YWJKQWpIYk5wdk5JNzJlcmNBVXItQnhKem00?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcmRRbExlV0FDZ3BRbDc1MXhmckM2LVpBNzJWSTFyMW1ydXRiQmpQcnJwTFpmUXpIajh1UkJ3REc5NTBDQV9pVGlDdmdBT3ZOeUFGNlNoUkk4bTcxaldERzRnSXRmWU1FWkF2bXI1OTNpUU5BcWlLeTQ0ZWwyaUpvaFVYTGVpdGVvX0huSWdyWktuTGFxWUlLaENxTkc3cFBlRUY4NFphLWo5YWJKQWpIYk5wdk5JNzJlcmNBVXItQnhKem00?oc=5",
-      "publishedAt": "2026-06-03T07:00:00.000Z",
-      "source": "Space War News",
-      "_feedRegion": "us",
-      "_feedName": "FAA",
-      "_scoring": {
-        "score": 58,
-        "categories": [
-          "規制・政策",
-          "市場・資金"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 2,
-            "catScore": 40
-          },
-          "market": {
-            "matches": 1,
-            "catScore": 20
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 0,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
       "title": "【JPIセミナー】国土交通省「無人航空機、空飛ぶクルマの利活用促進に向けた航空局の取り組み」6月11日(木)開催",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE1vSndJa3UySEhFZVBpMUYwU3lFb0tMajVPN2dBODJWSG00dTFRZjM2R2M2VmxaV01Bbi1UZ1N0Z09feTE0dzdkU3hOaEpLWjlMbUY0alBIcHljS3d3WW1HdGQ4NU5wOUR2clE?oc=5\" target=\"_blank\">【JPIセミナー】国土交通省「無人航空機、空飛ぶクルマの利活用促進に向けた航空局の取り組み」6月11日(木)開催</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR TIMES</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE1vSndJa3UySEhFZVBpMUYwU3lFb0tMajVPN2dBODJWSG00dTFRZjM2R2M2VmxaV01Bbi1UZ1N0Z09feTE0dzdkU3hOaEpLWjlMbUY0alBIcHljS3d3WW1HdGQ4NU5wOUR2clE?oc=5\" target=\"_blank\">【JPIセミナー】国土交通省「無人航空機、空飛ぶクルマの利活用促進に向けた航空局の取り組み」6月11日(木)開催</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR TIMES</font>",
@@ -1017,7 +1048,7 @@
       "content": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNOThNYkF5M3hUdTVGQmpMXzVtVXZxWUlMc3hlOXc2MFo2QmJuZ1RIRC1qLS03d21SVTlwMElQSy12YTR2OHBkQUZ6NXlyaEQyTGQ3RWZ1VzVadDRBM25sMDJlRFpoNFVWcThnRGQweTh2WHowUV91bXdzeWRtMjJNOGFFQllHRGM?oc=5\" target=\"_blank\">テラドローンがストップ高、ウクライナの迎撃ドローン２社を買収(ウエルスアドバイザー)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ファイナンス</font>",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNOThNYkF5M3hUdTVGQmpMXzVtVXZxWUlMc3hlOXc2MFo2QmJuZ1RIRC1qLS03d21SVTlwMElQSy12YTR2OHBkQUZ6NXlyaEQyTGQ3RWZ1VzVadDRBM25sMDJlRFpoNFVWcThnRGQweTh2WHowUV91bXdzeWRtMjJNOGFFQllHRGM?oc=5",
       "googleNewsUrl": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNOThNYkF5M3hUdTVGQmpMXzVtVXZxWUlMc3hlOXc2MFo2QmJuZ1RIRC1qLS03d21SVTlwMElQSy12YTR2OHBkQUZ6NXlyaEQyTGQ3RWZ1VzVadDRBM25sMDJlRFpoNFVWcThnRGQweTh2WHowUV91bXdzeWRtMjJNOGFFQllHRGM?oc=5",
-      "publishedAt": "2026-06-16T01:22:22.000Z",
+      "publishedAt": "2026-06-16T01:22:53.000Z",
       "source": "Yahoo!ファイナンス",
       "_feedRegion": "jp",
       "_feedName": "Google News (JP)",
@@ -1045,44 +1076,12 @@
     },
     {
       "title": "【特集】防衛大臣がXで入札を拡散した日──迎撃ドローン公募が映す、日本の防衛調達の変化",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE5KOFRLVmxoaFpqSjg5ZDNiU1p2ckx1WUQyQnZXUmpsa0YtSXRpZFpvM3Zzd0xoampBd2hxNy1SNTVSajViZHVodW1yZ1FUbGtFeVlxbFhCT2xvRjZ6WklRRU9mYUdkLUNrTVFkNktB?oc=5\" target=\"_blank\">【特集】防衛大臣がXで入札を拡散した日──迎撃ドローン公募が映す、日本の防衛調達の変化</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ドローンジャーナル</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE5KOFRLVmxoaFpqSjg5ZDNiU1p2ckx1WUQyQnZXUmpsa0YtSXRpZFpvM3Zzd0xoampBd2hxNy1SNTVSajViZHVodW1yZ1FUbGtFeVlxbFhCT2xvRjZ6WklRRU9mYUdkLUNrTVFkNktB?oc=5\" target=\"_blank\">【特集】防衛大臣がXで入札を拡散した日──迎撃ドローン公募が映す、日本の防衛調達の変化</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ドローンジャーナル</font>",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5KOFRLVmxoaFpqSjg5ZDNiU1p2ckx1WUQyQnZXUmpsa0YtSXRpZFpvM3Zzd0xoampBd2hxNy1SNTVSajViZHVodW1yZ1FUbGtFeVlxbFhCT2xvRjZ6WklRRU9mYUdkLUNrTVFkNktB?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5KOFRLVmxoaFpqSjg5ZDNiU1p2ckx1WUQyQnZXUmpsa0YtSXRpZFpvM3Zzd0xoampBd2hxNy1SNTVSajViZHVodW1yZ1FUbGtFeVlxbFhCT2xvRjZ6WklRRU9mYUdkLUNrTVFkNktB?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFBic2sxSjIxaTRzYlVOSDBrNW94a05vQmp5R1NoRXpVTHozWkQwNXVSTzBpdWhCbTFHVlg4RWJlRXJkX3FvMnc4eVJqYUdzTXRmRWIyYTYtcmd1WWdkdFRLWWliSTV2LUdBMm1wRzUyNVVfUENmZ0tneVNKdFE?oc=5\" target=\"_blank\">【特集】防衛大臣がXで入札を拡散した日──迎撃ドローン公募が映す、日本の防衛調達の変化</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ドローンジャーナル</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFBic2sxSjIxaTRzYlVOSDBrNW94a05vQmp5R1NoRXpVTHozWkQwNXVSTzBpdWhCbTFHVlg4RWJlRXJkX3FvMnc4eVJqYUdzTXRmRWIyYTYtcmd1WWdkdFRLWWliSTV2LUdBMm1wRzUyNVVfUENmZ0tneVNKdFE?oc=5\" target=\"_blank\">【特集】防衛大臣がXで入札を拡散した日──迎撃ドローン公募が映す、日本の防衛調達の変化</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ドローンジャーナル</font>",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBic2sxSjIxaTRzYlVOSDBrNW94a05vQmp5R1NoRXpVTHozWkQwNXVSTzBpdWhCbTFHVlg4RWJlRXJkX3FvMnc4eVJqYUdzTXRmRWIyYTYtcmd1WWdkdFRLWWliSTV2LUdBMm1wRzUyNVVfUENmZ0tneVNKdFE?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBic2sxSjIxaTRzYlVOSDBrNW94a05vQmp5R1NoRXpVTHozWkQwNXVSTzBpdWhCbTFHVlg4RWJlRXJkX3FvMnc4eVJqYUdzTXRmRWIyYTYtcmd1WWdkdFRLWWliSTV2LUdBMm1wRzUyNVVfUENmZ0tneVNKdFE?oc=5",
       "publishedAt": "2026-06-16T01:55:46.000Z",
       "source": "ドローンジャーナル",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP 経済メディア)",
-      "_scoring": {
-        "score": 56,
-        "categories": [
-          "市場・資金"
-        ],
-        "breakdown": {
-          "required": true,
-          "market": {
-            "matches": 1,
-            "catScore": 20
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 15,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "テラドローン、防衛2社買収発表",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxON01zbW5FclkyZHRWMG1RWmRZTy1Md214c2dBYWtncmdOMW1XTnN0WFhoejRPVW93VVdSVDZub3R3Q2RlRUlMOF9DdG14OWNrM2N2bzNieDRSbkJFMGNvYkVPTS1Mc19KVXBwV041RFJlbUdBZ0FPbUxoZllRb0NXY2VIeVFwV1VaMFp0UV9BVkd3OHpNUGItT3JrN2JUanJMNENrbUUyWl8?oc=5\" target=\"_blank\">テラドローン、防衛2社買収発表</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxON01zbW5FclkyZHRWMG1RWmRZTy1Md214c2dBYWtncmdOMW1XTnN0WFhoejRPVW93VVdSVDZub3R3Q2RlRUlMOF9DdG14OWNrM2N2bzNieDRSbkJFMGNvYkVPTS1Mc19KVXBwV041RFJlbUdBZ0FPbUxoZllRb0NXY2VIeVFwV1VaMFp0UV9BVkd3OHpNUGItT3JrN2JUanJMNENrbUUyWl8?oc=5\" target=\"_blank\">テラドローン、防衛2社買収発表</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxON01zbW5FclkyZHRWMG1RWmRZTy1Md214c2dBYWtncmdOMW1XTnN0WFhoejRPVW93VVdSVDZub3R3Q2RlRUlMOF9DdG14OWNrM2N2bzNieDRSbkJFMGNvYkVPTS1Mc19KVXBwV041RFJlbUdBZ0FPbUxoZllRb0NXY2VIeVFwV1VaMFp0UV9BVkd3OHpNUGItT3JrN2JUanJMNENrbUUyWl8?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxON01zbW5FclkyZHRWMG1RWmRZTy1Md214c2dBYWtncmdOMW1XTnN0WFhoejRPVW93VVdSVDZub3R3Q2RlRUlMOF9DdG14OWNrM2N2bzNieDRSbkJFMGNvYkVPTS1Mc19KVXBwV041RFJlbUdBZ0FPbUxoZllRb0NXY2VIeVFwV1VaMFp0UV9BVkd3OHpNUGItT3JrN2JUanJMNENrbUUyWl8?oc=5",
-      "publishedAt": "2026-06-15T17:24:17.000Z",
-      "source": "日本経済新聞",
       "_feedRegion": "jp",
       "_feedName": "Google News (JP 経済メディア)",
       "_scoring": {
