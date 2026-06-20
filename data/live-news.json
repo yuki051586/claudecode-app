@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-20T19:44:31.060Z",
-  "rawCount": 664,
+  "generatedAt": "2026-06-20T21:22:24.809Z",
+  "rawCount": 700,
   "articles": [
     {
       "title": "ＮＪＳ[2325]：高性能インフラ点検調査ドローン「ASIO X」の展開と独占販売代理店契約締結のお知らせ 2026年6月17日(適時開示) ：日経会社情報DIGITAL",
@@ -241,6 +241,43 @@
       "googleNewsUrl": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9uSi1KdzEyTGlzbWl2UjhpeEg0bFpRR0dRUDR3SE4yNFZiUTNJZ3hQS0ZOLWxVc3BoNlVtbUxYaHhqMk5lLXdWRlNvQURweWpKWVIxbw?oc=5",
       "publishedAt": "2026-06-17T23:27:55.000Z",
       "source": "kabu-ir.com",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP 政策/実証)",
+      "_scoring": {
+        "score": 66,
+        "categories": [
+          "技術・製品",
+          "市場・資金"
+        ],
+        "breakdown": {
+          "required": true,
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "market": {
+            "matches": 2,
+            "catScore": 25
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 2,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "トライアイズ---ストップ高、ドローン製造企業との業務提携を発表",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOX0U3SUNzOGgtOFd5Q2pXV0N2dm5ORDQ3YjVLdzVqU29WUDNMYjJCRGVvdmtLeTRFci11eGZpYzdyS1lNUTM1TWNjdlZ3ZURrUXlIQnpuU1NpY1BTY0Z4VmpnTnZkdmM3LUd5eHZRakwtZC1qa2RhS25DT09IU2pXUGczZHNXcUXSAYwBQVVfeXFMTmRmYUx4UDBrY28wU0hoS2dONnItYXNvSjItNmdZOGg1d2dnM00teGtnVmRfM2RYNEJmU1VxNVlOOV9OQUtQNGJMa3VTT25nOEdBQWpXNVFic2xPempOWThsWmlnVFpvaFpNSTc3ck5IMng2OXpzQ1VYOWdvVl9Bc19FMTJNNzhYSzRieUk?oc=5\" target=\"_blank\">トライアイズ---ストップ高、ドローン製造企業との業務提携を発表</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ｄメニューニュース</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOX0U3SUNzOGgtOFd5Q2pXV0N2dm5ORDQ3YjVLdzVqU29WUDNMYjJCRGVvdmtLeTRFci11eGZpYzdyS1lNUTM1TWNjdlZ3ZURrUXlIQnpuU1NpY1BTY0Z4VmpnTnZkdmM3LUd5eHZRakwtZC1qa2RhS25DT09IU2pXUGczZHNXcUXSAYwBQVVfeXFMTmRmYUx4UDBrY28wU0hoS2dONnItYXNvSjItNmdZOGg1d2dnM00teGtnVmRfM2RYNEJmU1VxNVlOOV9OQUtQNGJMa3VTT25nOEdBQWpXNVFic2xPempOWThsWmlnVFpvaFpNSTc3ck5IMng2OXpzQ1VYOWdvVl9Bc19FMTJNNzhYSzRieUk?oc=5\" target=\"_blank\">トライアイズ---ストップ高、ドローン製造企業との業務提携を発表</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ｄメニューニュース</font>",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOX0U3SUNzOGgtOFd5Q2pXV0N2dm5ORDQ3YjVLdzVqU29WUDNMYjJCRGVvdmtLeTRFci11eGZpYzdyS1lNUTM1TWNjdlZ3ZURrUXlIQnpuU1NpY1BTY0Z4VmpnTnZkdmM3LUd5eHZRakwtZC1qa2RhS25DT09IU2pXUGczZHNXcUXSAYwBQVVfeXFMTmRmYUx4UDBrY28wU0hoS2dONnItYXNvSjItNmdZOGg1d2dnM00teGtnVmRfM2RYNEJmU1VxNVlOOV9OQUtQNGJMa3VTT25nOEdBQWpXNVFic2xPempOWThsWmlnVFpvaFpNSTc3ck5IMng2OXpzQ1VYOWdvVl9Bc19FMTJNNzhYSzRieUk?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOX0U3SUNzOGgtOFd5Q2pXV0N2dm5ORDQ3YjVLdzVqU29WUDNMYjJCRGVvdmtLeTRFci11eGZpYzdyS1lNUTM1TWNjdlZ3ZURrUXlIQnpuU1NpY1BTY0Z4VmpnTnZkdmM3LUd5eHZRakwtZC1qa2RhS25DT09IU2pXUGczZHNXcUXSAYwBQVVfeXFMTmRmYUx4UDBrY28wU0hoS2dONnItYXNvSjItNmdZOGg1d2dnM00teGtnVmRfM2RYNEJmU1VxNVlOOV9OQUtQNGJMa3VTT25nOEdBQWpXNVFic2xPempOWThsWmlnVFpvaFpNSTc3ck5IMng2OXpzQ1VYOWdvVl9Bc19FMTJNNzhYSzRieUk?oc=5",
+      "publishedAt": "2026-06-18T01:28:00.000Z",
+      "source": "ｄメニューニュース",
       "_feedRegion": "jp",
       "_feedName": "Google News (JP 政策/実証)",
       "_scoring": {
@@ -681,6 +718,43 @@
       }
     },
     {
+      "title": "メルセデス・ベンツ、ドローン防衛システム開発でTytan社と提携 執筆 - Investing.com",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE9qNnEteWhUMmg4cE1WSlQ0U1dTWFAyTG1xSURmMEhtUHZyS1U1SEJtYmpCQW1qT2tEOHphSjJkUmFKMUZQNDJOc21SVVpsV1BNeVJCRlhYVUJaVXU1YlpNZTEwZ0JiU0Z2eWx1TkkxRlRMZ2NqX1g4?oc=5\" target=\"_blank\">メルセデス・ベンツ、ドローン防衛システム開発でTytan社と提携 執筆</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE9qNnEteWhUMmg4cE1WSlQ0U1dTWFAyTG1xSURmMEhtUHZyS1U1SEJtYmpCQW1qT2tEOHphSjJkUmFKMUZQNDJOc21SVVpsV1BNeVJCRlhYVUJaVXU1YlpNZTEwZ0JiU0Z2eWx1TkkxRlRMZ2NqX1g4?oc=5\" target=\"_blank\">メルセデス・ベンツ、ドローン防衛システム開発でTytan社と提携 執筆</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース</font>",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9qNnEteWhUMmg4cE1WSlQ0U1dTWFAyTG1xSURmMEhtUHZyS1U1SEJtYmpCQW1qT2tEOHphSjJkUmFKMUZQNDJOc21SVVpsV1BNeVJCRlhYVUJaVXU1YlpNZTEwZ0JiU0Z2eWx1TkkxRlRMZ2NqX1g4?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9qNnEteWhUMmg4cE1WSlQ0U1dTWFAyTG1xSURmMEhtUHZyS1U1SEJtYmpCQW1qT2tEOHphSjJkUmFKMUZQNDJOc21SVVpsV1BNeVJCRlhYVUJaVXU1YlpNZTEwZ0JiU0Z2eWx1TkkxRlRMZ2NqX1g4?oc=5",
+      "publishedAt": "2026-06-10T15:08:00.000Z",
+      "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP 政策/実証)",
+      "_scoring": {
+        "score": 60,
+        "categories": [
+          "技術・製品",
+          "市場・資金"
+        ],
+        "breakdown": {
+          "required": true,
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "market": {
+            "matches": 1,
+            "catScore": 20
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 0,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
       "title": "テラドローン、防衛装備庁向け国産UAV300式を受注 契約額は1億1543万4000円",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE1sLXdKNlJIcU1kWkhidGNIM3NfSG9nTXoyTzNpTnJhOU03ZmRUbTlDODVVWmlya1o5UVlzOGM3N0RyR2VtRFN6aFlQT0d1TjcwM3hqMS00V0pwM0E?oc=5\" target=\"_blank\">テラドローン、防衛装備庁向け国産UAV300式を受注 契約額は1億1543万4000円</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DRONE.jp</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE1sLXdKNlJIcU1kWkhidGNIM3NfSG9nTXoyTzNpTnJhOU03ZmRUbTlDODVVWmlya1o5UVlzOGM3N0RyR2VtRFN6aFlQT0d1TjcwM3hqMS00V0pwM0E?oc=5\" target=\"_blank\">テラドローン、防衛装備庁向け国産UAV300式を受注 契約額は1億1543万4000円</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DRONE.jp</font>",
@@ -690,6 +764,43 @@
       "source": "DRONE.jp",
       "_feedRegion": "jp",
       "_feedName": "Google News (JP ドローン専門)",
+      "_scoring": {
+        "score": 60,
+        "categories": [
+          "市場・資金",
+          "政策・インフラ"
+        ],
+        "breakdown": {
+          "required": true,
+          "market": {
+            "matches": 1,
+            "catScore": 20
+          },
+          "policy": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 0,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "テラドローン、米国企業DSLRProsと「TerraXross 1」の販売代理店契約を締結 ～産業用途および社会インフラ・公共安全などの重要分野における活用を推進 ～",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE8tcFZrckUtcHNYR0puLWpjV2NGNXhUU2VKU1NiMERHa1VjcVJvNldySFpFdFBZNl9CV2l1OENpR3V0eVc3R2FndjljMGM3UGxydTdHR2x6YnFFb2syX0pMcVFCcUtiV0trTkE?oc=5\" target=\"_blank\">テラドローン、米国企業DSLRProsと「TerraXross 1」の販売代理店契約を締結 ～産業用途および社会インフラ・公共安全などの重要分野における活用を推進 ～</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR TIMES</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE8tcFZrckUtcHNYR0puLWpjV2NGNXhUU2VKU1NiMERHa1VjcVJvNldySFpFdFBZNl9CV2l1OENpR3V0eVc3R2FndjljMGM3UGxydTdHR2x6YnFFb2syX0pMcVFCcUtiV0trTkE?oc=5\" target=\"_blank\">テラドローン、米国企業DSLRProsと「TerraXross 1」の販売代理店契約を締結 ～産業用途および社会インフラ・公共安全などの重要分野における活用を推進 ～</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR TIMES</font>",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8tcFZrckUtcHNYR0puLWpjV2NGNXhUU2VKU1NiMERHa1VjcVJvNldySFpFdFBZNl9CV2l1OENpR3V0eVc3R2FndjljMGM3UGxydTdHR2x6YnFFb2syX0pMcVFCcUtiV0trTkE?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8tcFZrckUtcHNYR0puLWpjV2NGNXhUU2VKU1NiMERHa1VjcVJvNldySFpFdFBZNl9CV2l1OENpR3V0eVc3R2FndjljMGM3UGxydTdHR2x6YnFFb2syX0pMcVFCcUtiV0trTkE?oc=5",
+      "publishedAt": "2026-06-05T07:00:00.000Z",
+      "source": "PR TIMES",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP 事業者/実装)",
       "_scoring": {
         "score": 60,
         "categories": [
@@ -970,7 +1081,7 @@
       "publishedAt": "2026-06-20T00:05:00.000Z",
       "source": "AKIBA PC Hotline!",
       "_feedRegion": "jp",
-      "_feedName": "Google News (JP 経済メディア)",
+      "_feedName": "Google News (JP)",
       "_scoring": {
         "score": 54,
         "categories": [
@@ -988,114 +1099,6 @@
           },
           "freshness": 10,
           "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "Runway Safety in the Drone Age -",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE5ZR1M5cVhfTnJ3SmpCaFAyYkRIMFZhLXB2MEpVNTU5Z3NQTEE1V3dUbmRDMndNblBMRENJakFkRlpkbHowODA0YkE4cXBWUmFqLTMxWlYwbjlZaHE4clYxbm1zeUxoZ0pvTWU3TQ?oc=5\" target=\"_blank\">Runway Safety in the Drone Age -</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Metropolitan Airport News</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE5ZR1M5cVhfTnJ3SmpCaFAyYkRIMFZhLXB2MEpVNTU5Z3NQTEE1V3dUbmRDMndNblBMRENJakFkRlpkbHowODA0YkE4cXBWUmFqLTMxWlYwbjlZaHE4clYxbm1zeUxoZ0pvTWU3TQ?oc=5\" target=\"_blank\">Runway Safety in the Drone Age -</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Metropolitan Airport News</font>",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ZR1M5cVhfTnJ3SmpCaFAyYkRIMFZhLXB2MEpVNTU5Z3NQTEE1V3dUbmRDMndNblBMRENJakFkRlpkbHowODA0YkE4cXBWUmFqLTMxWlYwbjlZaHE4clYxbm1zeUxoZ0pvTWU3TQ?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ZR1M5cVhfTnJ3SmpCaFAyYkRIMFZhLXB2MEpVNTU5Z3NQTEE1V3dUbmRDMndNblBMRENJakFkRlpkbHowODA0YkE4cXBWUmFqLTMxWlYwbjlZaHE4clYxbm1zeUxoZ0pvTWU3TQ?oc=5",
-      "publishedAt": "2026-06-16T12:08:42.000Z",
-      "source": "Metropolitan Airport News",
-      "_feedRegion": "us",
-      "_feedName": "FAA",
-      "_scoring": {
-        "score": 52,
-        "categories": [
-          "事故・事件",
-          "政策・インフラ"
-        ],
-        "breakdown": {
-          "required": true,
-          "incident": {
-            "matches": 1,
-            "catScore": 28
-          },
-          "policy": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 0,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "FAA World Cup 2026 Airspace Restrictions: No-Fly Zones, Drone Bans & Travel Alert",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMTRmOXdRUExLYjlfZXBTcDBfSVJGOXFaV1UtODZmd1VuQTNvdER2aTFOdGxOcEtZZkhybTRwVkRudTlWSkMxSF8xZDVBRU8wVDE0ZlVZWENycE1BWTlSR2JlTm1YcjJoVW1PSmJzZEdWem9udzN2bkkwenY3bk5NNHozM1FNRXc0QUxr?oc=5\" target=\"_blank\">FAA World Cup 2026 Airspace Restrictions: No-Fly Zones, Drone Bans & Travel Alert</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nomad Lawyer</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMTRmOXdRUExLYjlfZXBTcDBfSVJGOXFaV1UtODZmd1VuQTNvdER2aTFOdGxOcEtZZkhybTRwVkRudTlWSkMxSF8xZDVBRU8wVDE0ZlVZWENycE1BWTlSR2JlTm1YcjJoVW1PSmJzZEdWem9udzN2bkkwenY3bk5NNHozM1FNRXc0QUxr?oc=5\" target=\"_blank\">FAA World Cup 2026 Airspace Restrictions: No-Fly Zones, Drone Bans & Travel Alert</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nomad Lawyer</font>",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMTRmOXdRUExLYjlfZXBTcDBfSVJGOXFaV1UtODZmd1VuQTNvdER2aTFOdGxOcEtZZkhybTRwVkRudTlWSkMxSF8xZDVBRU8wVDE0ZlVZWENycE1BWTlSR2JlTm1YcjJoVW1PSmJzZEdWem9udzN2bkkwenY3bk5NNHozM1FNRXc0QUxr?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMTRmOXdRUExLYjlfZXBTcDBfSVJGOXFaV1UtODZmd1VuQTNvdER2aTFOdGxOcEtZZkhybTRwVkRudTlWSkMxSF8xZDVBRU8wVDE0ZlVZWENycE1BWTlSR2JlTm1YcjJoVW1PSmJzZEdWem9udzN2bkkwenY3bk5NNHozM1FNRXc0QUxr?oc=5",
-      "publishedAt": "2026-06-17T17:48:23.000Z",
-      "source": "Nomad Lawyer",
-      "_feedRegion": "us",
-      "_feedName": "FAA",
-      "_scoring": {
-        "score": 52,
-        "categories": [
-          "規制・政策",
-          "市場・資金"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 1,
-            "catScore": 32
-          },
-          "market": {
-            "matches": 1,
-            "catScore": 20
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 0,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "DJI、最新産業機「Matrice400」「Matrice 4シリーズ」「DJI Dock 3」展示。注目はLiDAR「DJI Zenmuse L3」 [CSPI2026]",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFAzSkljQWdUYkluWkpQTExDcjZ2M2o3VVpTT1RDZ3p3a290Zkt5ejdsTElBZHdoRGZ6dWt2aWZpV1FDS2lYa1E1d2J4eWZfUlNZR0ZoWE5JLTBLRnJkSE5N?oc=5\" target=\"_blank\">DJI、最新産業機「Matrice400」「Matrice 4シリーズ」「DJI Dock 3」展示。注目はLiDAR「DJI Zenmuse L3」 [CSPI2026]</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DRONE.jp</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFAzSkljQWdUYkluWkpQTExDcjZ2M2o3VVpTT1RDZ3p3a290Zkt5ejdsTElBZHdoRGZ6dWt2aWZpV1FDS2lYa1E1d2J4eWZfUlNZR0ZoWE5JLTBLRnJkSE5N?oc=5\" target=\"_blank\">DJI、最新産業機「Matrice400」「Matrice 4シリーズ」「DJI Dock 3」展示。注目はLiDAR「DJI Zenmuse L3」 [CSPI2026]</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DRONE.jp</font>",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAzSkljQWdUYkluWkpQTExDcjZ2M2o3VVpTT1RDZ3p3a290Zkt5ejdsTElBZHdoRGZ6dWt2aWZpV1FDS2lYa1E1d2J4eWZfUlNZR0ZoWE5JLTBLRnJkSE5N?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAzSkljQWdUYkluWkpQTExDcjZ2M2o3VVpTT1RDZ3p3a290Zkt5ejdsTElBZHdoRGZ6dWt2aWZpV1FDS2lYa1E1d2J4eWZfUlNZR0ZoWE5JLTBLRnJkSE5N?oc=5",
-      "publishedAt": "2026-06-18T02:35:26.000Z",
-      "source": "DRONE.jp",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP ドローン専門)",
-      "_scoring": {
-        "score": 52,
-        "categories": [
-          "技術・製品",
-          "市場・資金"
-        ],
-        "breakdown": {
-          "required": true,
-          "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "market": {
-            "matches": 1,
-            "catScore": 20
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 2,
           "jpRegionBonus": 15
         },
         "pass": true
