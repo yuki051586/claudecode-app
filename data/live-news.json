@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-21T04:51:02.959Z",
-  "rawCount": 698,
+  "generatedAt": "2026-06-21T08:59:07.418Z",
+  "rawCount": 700,
   "articles": [
     {
       "title": "ＮＪＳ[2325]：高性能インフラ点検調査ドローン「ASIO X」の展開と独占販売代理店契約締結のお知らせ 2026年6月17日(適時開示) ：日経会社情報DIGITAL",
@@ -319,6 +319,43 @@
       "googleNewsUrl": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9uSi1KdzEyTGlzbWl2UjhpeEg0bFpRR0dRUDR3SE4yNFZiUTNJZ3hQS0ZOLWxVc3BoNlVtbUxYaHhqMk5lLXdWRlNvQURweWpKWVIxbw?oc=5",
       "publishedAt": "2026-06-17T23:27:55.000Z",
       "source": "kabu-ir.com",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP 政策/実証)",
+      "_scoring": {
+        "score": 64,
+        "categories": [
+          "技術・製品",
+          "市場・資金"
+        ],
+        "breakdown": {
+          "required": true,
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "market": {
+            "matches": 2,
+            "catScore": 25
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 0,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "トライアイズ---ストップ高、ドローン製造企業との業務提携を発表",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOX0U3SUNzOGgtOFd5Q2pXV0N2dm5ORDQ3YjVLdzVqU29WUDNMYjJCRGVvdmtLeTRFci11eGZpYzdyS1lNUTM1TWNjdlZ3ZURrUXlIQnpuU1NpY1BTY0Z4VmpnTnZkdmM3LUd5eHZRakwtZC1qa2RhS25DT09IU2pXUGczZHNXcUXSAYwBQVVfeXFMTmRmYUx4UDBrY28wU0hoS2dONnItYXNvSjItNmdZOGg1d2dnM00teGtnVmRfM2RYNEJmU1VxNVlOOV9OQUtQNGJMa3VTT25nOEdBQWpXNVFic2xPempOWThsWmlnVFpvaFpNSTc3ck5IMng2OXpzQ1VYOWdvVl9Bc19FMTJNNzhYSzRieUk?oc=5\" target=\"_blank\">トライアイズ---ストップ高、ドローン製造企業との業務提携を発表</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ｄメニューニュース</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOX0U3SUNzOGgtOFd5Q2pXV0N2dm5ORDQ3YjVLdzVqU29WUDNMYjJCRGVvdmtLeTRFci11eGZpYzdyS1lNUTM1TWNjdlZ3ZURrUXlIQnpuU1NpY1BTY0Z4VmpnTnZkdmM3LUd5eHZRakwtZC1qa2RhS25DT09IU2pXUGczZHNXcUXSAYwBQVVfeXFMTmRmYUx4UDBrY28wU0hoS2dONnItYXNvSjItNmdZOGg1d2dnM00teGtnVmRfM2RYNEJmU1VxNVlOOV9OQUtQNGJMa3VTT25nOEdBQWpXNVFic2xPempOWThsWmlnVFpvaFpNSTc3ck5IMng2OXpzQ1VYOWdvVl9Bc19FMTJNNzhYSzRieUk?oc=5\" target=\"_blank\">トライアイズ---ストップ高、ドローン製造企業との業務提携を発表</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ｄメニューニュース</font>",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOX0U3SUNzOGgtOFd5Q2pXV0N2dm5ORDQ3YjVLdzVqU29WUDNMYjJCRGVvdmtLeTRFci11eGZpYzdyS1lNUTM1TWNjdlZ3ZURrUXlIQnpuU1NpY1BTY0Z4VmpnTnZkdmM3LUd5eHZRakwtZC1qa2RhS25DT09IU2pXUGczZHNXcUXSAYwBQVVfeXFMTmRmYUx4UDBrY28wU0hoS2dONnItYXNvSjItNmdZOGg1d2dnM00teGtnVmRfM2RYNEJmU1VxNVlOOV9OQUtQNGJMa3VTT25nOEdBQWpXNVFic2xPempOWThsWmlnVFpvaFpNSTc3ck5IMng2OXpzQ1VYOWdvVl9Bc19FMTJNNzhYSzRieUk?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOX0U3SUNzOGgtOFd5Q2pXV0N2dm5ORDQ3YjVLdzVqU29WUDNMYjJCRGVvdmtLeTRFci11eGZpYzdyS1lNUTM1TWNjdlZ3ZURrUXlIQnpuU1NpY1BTY0Z4VmpnTnZkdmM3LUd5eHZRakwtZC1qa2RhS25DT09IU2pXUGczZHNXcUXSAYwBQVVfeXFMTmRmYUx4UDBrY28wU0hoS2dONnItYXNvSjItNmdZOGg1d2dnM00teGtnVmRfM2RYNEJmU1VxNVlOOV9OQUtQNGJMa3VTT25nOEdBQWpXNVFic2xPempOWThsWmlnVFpvaFpNSTc3ck5IMng2OXpzQ1VYOWdvVl9Bc19FMTJNNzhYSzRieUk?oc=5",
+      "publishedAt": "2026-06-18T01:28:00.000Z",
+      "source": "ｄメニューニュース",
       "_feedRegion": "jp",
       "_feedName": "Google News (JP 政策/実証)",
       "_scoring": {
@@ -792,6 +829,42 @@
       }
     },
     {
+      "title": "New commercial drone market forecasts suggest huge potential but regulations continue to hamper growth",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxOc3kwVjR0YVIxMTNvODcxMGFPQ0M5SjAxbUVrTVdkcll6WVhYbEswbzdFNkwyUjdNck10ZWs3RllKVS03aEJnTmJHNzU3ZnljdEZhVGRnYTc0T0FlanNMYUlIMkFTMDNXWnNONUswUXkwZlhOMkpVRkdydUZlN2VpUkN4Znl3WFd3RDJUcmVYd2ctNWpEQmZYZnV1azJsQ0RTVWhWSllqM2lIcHNPQU0yeVhmQVdkZHhjaTZuc0NTdVVuY0I0QUdJSlpYV2c0czUzcGx5NkllSkVoYjhCQ3p4Y0lUbjl4UQ?oc=5\" target=\"_blank\">New commercial drone market forecasts suggest huge potential but regulations continue to hamper growth</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxOc3kwVjR0YVIxMTNvODcxMGFPQ0M5SjAxbUVrTVdkcll6WVhYbEswbzdFNkwyUjdNck10ZWs3RllKVS03aEJnTmJHNzU3ZnljdEZhVGRnYTc0T0FlanNMYUlIMkFTMDNXWnNONUswUXkwZlhOMkpVRkdydUZlN2VpUkN4Znl3WFd3RDJUcmVYd2ctNWpEQmZYZnV1azJsQ0RTVWhWSllqM2lIcHNPQU0yeVhmQVdkZHhjaTZuc0NTdVVuY0I0QUdJSlpYV2c0czUzcGx5NkllSkVoYjhCQ3p4Y0lUbjl4UQ?oc=5\" target=\"_blank\">New commercial drone market forecasts suggest huge potential but regulations continue to hamper growth</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOc3kwVjR0YVIxMTNvODcxMGFPQ0M5SjAxbUVrTVdkcll6WVhYbEswbzdFNkwyUjdNck10ZWs3RllKVS03aEJnTmJHNzU3ZnljdEZhVGRnYTc0T0FlanNMYUlIMkFTMDNXWnNONUswUXkwZlhOMkpVRkdydUZlN2VpUkN4Znl3WFd3RDJUcmVYd2ctNWpEQmZYZnV1azJsQ0RTVWhWSllqM2lIcHNPQU0yeVhmQVdkZHhjaTZuc0NTdVVuY0I0QUdJSlpYV2c0czUzcGx5NkllSkVoYjhCQ3p4Y0lUbjl4UQ?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOc3kwVjR0YVIxMTNvODcxMGFPQ0M5SjAxbUVrTVdkcll6WVhYbEswbzdFNkwyUjdNck10ZWs3RllKVS03aEJnTmJHNzU3ZnljdEZhVGRnYTc0T0FlanNMYUlIMkFTMDNXWnNONUswUXkwZlhOMkpVRkdydUZlN2VpUkN4Znl3WFd3RDJUcmVYd2ctNWpEQmZYZnV1azJsQ0RTVWhWSllqM2lIcHNPQU0yeVhmQVdkZHhjaTZuc0NTdVVuY0I0QUdJSlpYV2c0czUzcGx5NkllSkVoYjhCQ3p4Y0lUbjl4UQ?oc=5",
+      "publishedAt": "2026-06-16T09:21:35.000Z",
+      "source": "Unmanned airspace",
+      "_feedRegion": "eu",
+      "_feedName": "EASA",
+      "_scoring": {
+        "score": 58,
+        "categories": [
+          "規制・政策",
+          "市場・資金"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 2,
+            "catScore": 40
+          },
+          "market": {
+            "matches": 1,
+            "catScore": 20
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 0,
+          "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
       "title": "【JPIセミナー】国土交通省「無人航空機、空飛ぶクルマの利活用促進に向けた航空局の取り組み」6月11日(木)開催",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE1vSndJa3UySEhFZVBpMUYwU3lFb0tMajVPN2dBODJWSG00dTFRZjM2R2M2VmxaV01Bbi1UZ1N0Z09feTE0dzdkU3hOaEpLWjlMbUY0alBIcHljS3d3WW1HdGQ4NU5wOUR2clE?oc=5\" target=\"_blank\">【JPIセミナー】国土交通省「無人航空機、空飛ぶクルマの利活用促進に向けた航空局の取り組み」6月11日(木)開催</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR TIMES</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE1vSndJa3UySEhFZVBpMUYwU3lFb0tMajVPN2dBODJWSG00dTFRZjM2R2M2VmxaV01Bbi1UZ1N0Z09feTE0dzdkU3hOaEpLWjlMbUY0alBIcHljS3d3WW1HdGQ4NU5wOUR2clE?oc=5\" target=\"_blank\">【JPIセミナー】国土交通省「無人航空機、空飛ぶクルマの利活用促進に向けた航空局の取り組み」6月11日(木)開催</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR TIMES</font>",
@@ -1024,78 +1097,6 @@
           "technology": {
             "matches": 1,
             "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 0,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "Runway Safety in the Drone Age -",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE5ZR1M5cVhfTnJ3SmpCaFAyYkRIMFZhLXB2MEpVNTU5Z3NQTEE1V3dUbmRDMndNblBMRENJakFkRlpkbHowODA0YkE4cXBWUmFqLTMxWlYwbjlZaHE4clYxbm1zeUxoZ0pvTWU3TQ?oc=5\" target=\"_blank\">Runway Safety in the Drone Age -</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Metropolitan Airport News</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE5ZR1M5cVhfTnJ3SmpCaFAyYkRIMFZhLXB2MEpVNTU5Z3NQTEE1V3dUbmRDMndNblBMRENJakFkRlpkbHowODA0YkE4cXBWUmFqLTMxWlYwbjlZaHE4clYxbm1zeUxoZ0pvTWU3TQ?oc=5\" target=\"_blank\">Runway Safety in the Drone Age -</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Metropolitan Airport News</font>",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ZR1M5cVhfTnJ3SmpCaFAyYkRIMFZhLXB2MEpVNTU5Z3NQTEE1V3dUbmRDMndNblBMRENJakFkRlpkbHowODA0YkE4cXBWUmFqLTMxWlYwbjlZaHE4clYxbm1zeUxoZ0pvTWU3TQ?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ZR1M5cVhfTnJ3SmpCaFAyYkRIMFZhLXB2MEpVNTU5Z3NQTEE1V3dUbmRDMndNblBMRENJakFkRlpkbHowODA0YkE4cXBWUmFqLTMxWlYwbjlZaHE4clYxbm1zeUxoZ0pvTWU3TQ?oc=5",
-      "publishedAt": "2026-06-16T12:08:42.000Z",
-      "source": "Metropolitan Airport News",
-      "_feedRegion": "us",
-      "_feedName": "FAA",
-      "_scoring": {
-        "score": 52,
-        "categories": [
-          "事故・事件",
-          "政策・インフラ"
-        ],
-        "breakdown": {
-          "required": true,
-          "incident": {
-            "matches": 1,
-            "catScore": 28
-          },
-          "policy": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 0,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "FAA World Cup 2026 Airspace Restrictions: No-Fly Zones, Drone Bans & Travel Alert",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMTRmOXdRUExLYjlfZXBTcDBfSVJGOXFaV1UtODZmd1VuQTNvdER2aTFOdGxOcEtZZkhybTRwVkRudTlWSkMxSF8xZDVBRU8wVDE0ZlVZWENycE1BWTlSR2JlTm1YcjJoVW1PSmJzZEdWem9udzN2bkkwenY3bk5NNHozM1FNRXc0QUxr?oc=5\" target=\"_blank\">FAA World Cup 2026 Airspace Restrictions: No-Fly Zones, Drone Bans & Travel Alert</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nomad Lawyer</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMTRmOXdRUExLYjlfZXBTcDBfSVJGOXFaV1UtODZmd1VuQTNvdER2aTFOdGxOcEtZZkhybTRwVkRudTlWSkMxSF8xZDVBRU8wVDE0ZlVZWENycE1BWTlSR2JlTm1YcjJoVW1PSmJzZEdWem9udzN2bkkwenY3bk5NNHozM1FNRXc0QUxr?oc=5\" target=\"_blank\">FAA World Cup 2026 Airspace Restrictions: No-Fly Zones, Drone Bans & Travel Alert</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nomad Lawyer</font>",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMTRmOXdRUExLYjlfZXBTcDBfSVJGOXFaV1UtODZmd1VuQTNvdER2aTFOdGxOcEtZZkhybTRwVkRudTlWSkMxSF8xZDVBRU8wVDE0ZlVZWENycE1BWTlSR2JlTm1YcjJoVW1PSmJzZEdWem9udzN2bkkwenY3bk5NNHozM1FNRXc0QUxr?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMTRmOXdRUExLYjlfZXBTcDBfSVJGOXFaV1UtODZmd1VuQTNvdER2aTFOdGxOcEtZZkhybTRwVkRudTlWSkMxSF8xZDVBRU8wVDE0ZlVZWENycE1BWTlSR2JlTm1YcjJoVW1PSmJzZEdWem9udzN2bkkwenY3bk5NNHozM1FNRXc0QUxr?oc=5",
-      "publishedAt": "2026-06-17T17:48:23.000Z",
-      "source": "Nomad Lawyer",
-      "_feedRegion": "us",
-      "_feedName": "FAA",
-      "_scoring": {
-        "score": 52,
-        "categories": [
-          "規制・政策",
-          "市場・資金"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 1,
-            "catScore": 32
-          },
-          "market": {
-            "matches": 1,
-            "catScore": 20
           },
           "sourceTrust": {
             "domain": "news.google.com",
