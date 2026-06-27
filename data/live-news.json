@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-26T23:12:07.574Z",
-  "rawCount": 682,
+  "generatedAt": "2026-06-27T03:55:23.841Z",
+  "rawCount": 683,
   "articles": [
     {
       "title": "ＮＪＳ[2325]：高性能インフラ点検調査ドローン「ASIO X」の展開と独占販売代理店契約締結のお知らせ 2026年6月17日(適時開示) ：日経会社情報DIGITAL",
@@ -55,7 +55,7 @@
       "_feedRegion": "us",
       "_feedName": "FAA",
       "_scoring": {
-        "score": 76,
+        "score": 73,
         "categories": [
           "規制・政策",
           "市場・資金",
@@ -79,7 +79,7 @@
             "domain": "news.google.com",
             "multiplier": 0.8
           },
-          "freshness": 5,
+          "freshness": 2,
           "titleBonus": 10
         },
         "pass": true
@@ -227,6 +227,43 @@
             "catScore": 32
           },
           "policy": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 0,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "空飛ぶクルマ・中国オートフライト、インドネシアでeVTOLの型式認証取得",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiO0FVX3lxTE1pX3QtWll4aDVXSEd1ZTVxZS01bGpQcDVtVkllZ0p6WFFfbndLSlVLcmVyaWNzRXNlV1NV?oc=5\" target=\"_blank\">空飛ぶクルマ・中国オートフライト、インドネシアでeVTOLの型式認証取得</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">36Kr Japan</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiO0FVX3lxTE1pX3QtWll4aDVXSEd1ZTVxZS01bGpQcDVtVkllZ0p6WFFfbndLSlVLcmVyaWNzRXNlV1NV?oc=5\" target=\"_blank\">空飛ぶクルマ・中国オートフライト、インドネシアでeVTOLの型式認証取得</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">36Kr Japan</font>",
+      "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE1pX3QtWll4aDVXSEd1ZTVxZS01bGpQcDVtVkllZ0p6WFFfbndLSlVLcmVyaWNzRXNlV1NV?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE1pX3QtWll4aDVXSEd1ZTVxZS01bGpQcDVtVkllZ0p6WFFfbndLSlVLcmVyaWNzRXNlV1NV?oc=5",
+      "publishedAt": "2026-06-22T09:30:26.000Z",
+      "source": "36Kr Japan",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP 政策/実証)",
+      "_scoring": {
+        "score": 70,
+        "categories": [
+          "規制・政策",
+          "技術・製品"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
+          "technology": {
             "matches": 1,
             "catScore": 24
           },
@@ -390,37 +427,38 @@
       }
     },
     {
-      "title": "Drone seizures near Seattle Stadium reach 22 as FAA enforces World Cup no-fly zones",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxOS1dJZEN2SjFuVWppbzZMRE82LXlkTmp0d21GWEdvaERQblpWbnF0ZEZFYWVOVzg4SE9aUy1HSU5SNDhpM21WdHlYbzNac19wTUFtSzgyRGlhOVlyT1NxM1Y2WnpMNmF3a1JNRy1UWVVpMEVmZ1c3QXRmNkRBdHNSR005b1lfUEtpUy1xSWhsLU9NRUtDQ1Fua3d0cU92a0dERzVQdllNVURHTGxUWHVyVnhtZGk1NUREb01YOUtMS3NnSkNCRXZ0ZlJodnJzbGNVZVU3Y0FKOHA0ZllIRVNGb0ZHMlA?oc=5\" target=\"_blank\">Drone seizures near Seattle Stadium reach 22 as FAA enforces World Cup no-fly zones</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KOMO</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxOS1dJZEN2SjFuVWppbzZMRE82LXlkTmp0d21GWEdvaERQblpWbnF0ZEZFYWVOVzg4SE9aUy1HSU5SNDhpM21WdHlYbzNac19wTUFtSzgyRGlhOVlyT1NxM1Y2WnpMNmF3a1JNRy1UWVVpMEVmZ1c3QXRmNkRBdHNSR005b1lfUEtpUy1xSWhsLU9NRUtDQ1Fua3d0cU92a0dERzVQdllNVURHTGxUWHVyVnhtZGk1NUREb01YOUtMS3NnSkNCRXZ0ZlJodnJzbGNVZVU3Y0FKOHA0ZllIRVNGb0ZHMlA?oc=5\" target=\"_blank\">Drone seizures near Seattle Stadium reach 22 as FAA enforces World Cup no-fly zones</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KOMO</font>",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOS1dJZEN2SjFuVWppbzZMRE82LXlkTmp0d21GWEdvaERQblpWbnF0ZEZFYWVOVzg4SE9aUy1HSU5SNDhpM21WdHlYbzNac19wTUFtSzgyRGlhOVlyT1NxM1Y2WnpMNmF3a1JNRy1UWVVpMEVmZ1c3QXRmNkRBdHNSR005b1lfUEtpUy1xSWhsLU9NRUtDQ1Fua3d0cU92a0dERzVQdllNVURHTGxUWHVyVnhtZGk1NUREb01YOUtMS3NnSkNCRXZ0ZlJodnJzbGNVZVU3Y0FKOHA0ZllIRVNGb0ZHMlA?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOS1dJZEN2SjFuVWppbzZMRE82LXlkTmp0d21GWEdvaERQblpWbnF0ZEZFYWVOVzg4SE9aUy1HSU5SNDhpM21WdHlYbzNac19wTUFtSzgyRGlhOVlyT1NxM1Y2WnpMNmF3a1JNRy1UWVVpMEVmZ1c3QXRmNkRBdHNSR005b1lfUEtpUy1xSWhsLU9NRUtDQ1Fua3d0cU92a0dERzVQdllNVURHTGxUWHVyVnhtZGk1NUREb01YOUtMS3NnSkNCRXZ0ZlJodnJzbGNVZVU3Y0FKOHA0ZllIRVNGb0ZHMlA?oc=5",
-      "publishedAt": "2026-06-26T02:30:09.000Z",
-      "source": "KOMO",
-      "_feedRegion": "us",
-      "_feedName": "FAA",
+      "title": "ミラテクドローンと技術開発コンサルタントが業務提携、点群取得からCIM構築まで一本化",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE1ZN3pEVnhUQlpfeXNINWprTHhORzZPd2pwVXZvZC1mYUtmVUIwN1FSVmtaVUtVU1VTYml4Q3prVWJPSkxIU0lFVDllZHM5NnM4MEFJUjVUZ2JmOGFCQUpsT2trNUtpcFVLSGc?oc=5\" target=\"_blank\">ミラテクドローンと技術開発コンサルタントが業務提携、点群取得からCIM構築まで一本化</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ドローンジャーナル</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE1ZN3pEVnhUQlpfeXNINWprTHhORzZPd2pwVXZvZC1mYUtmVUIwN1FSVmtaVUtVU1VTYml4Q3prVWJPSkxIU0lFVDllZHM5NnM4MEFJUjVUZ2JmOGFCQUpsT2trNUtpcFVLSGc?oc=5\" target=\"_blank\">ミラテクドローンと技術開発コンサルタントが業務提携、点群取得からCIM構築まで一本化</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ドローンジャーナル</font>",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ZN3pEVnhUQlpfeXNINWprTHhORzZPd2pwVXZvZC1mYUtmVUIwN1FSVmtaVUtVU1VTYml4Q3prVWJPSkxIU0lFVDllZHM5NnM4MEFJUjVUZ2JmOGFCQUpsT2trNUtpcFVLSGc?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ZN3pEVnhUQlpfeXNINWprTHhORzZPd2pwVXZvZC1mYUtmVUIwN1FSVmtaVUtVU1VTYml4Q3prVWJPSkxIU0lFVDllZHM5NnM4MEFJUjVUZ2JmOGFCQUpsT2trNUtpcFVLSGc?oc=5",
+      "publishedAt": "2026-05-28T07:00:00.000Z",
+      "source": "ドローンジャーナル",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP 政策/実証)",
       "_scoring": {
-        "score": 65,
+        "score": 69,
         "categories": [
-          "規制・政策",
-          "技術・製品"
+          "技術・製品",
+          "市場・資金"
         ],
         "breakdown": {
           "required": true,
-          "regulation": {
-            "matches": 1,
-            "catScore": 32
-          },
           "technology": {
-            "matches": 1,
-            "catScore": 24
+            "matches": 2,
+            "catScore": 30
+          },
+          "market": {
+            "matches": 2,
+            "catScore": 25
           },
           "sourceTrust": {
             "domain": "news.google.com",
             "multiplier": 0.8
           },
-          "freshness": 10,
-          "titleBonus": 10
+          "freshness": 0,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
         },
         "pass": true
       }
@@ -500,30 +538,30 @@
       }
     },
     {
-      "title": "トライアイズ、マゼックスと業務提携、ドローンＡＩ自動運航基盤を共同開発へ - kabu-ir.com",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE9uSi1KdzEyTGlzbWl2UjhpeEg0bFpRR0dRUDR3SE4yNFZiUTNJZ3hQS0ZOLWxVc3BoNlVtbUxYaHhqMk5lLXdWRlNvQURweWpKWVIxbw?oc=5\" target=\"_blank\">トライアイズ、マゼックスと業務提携、ドローンＡＩ自動運航基盤を共同開発へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">kabu-ir.com</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE9uSi1KdzEyTGlzbWl2UjhpeEg0bFpRR0dRUDR3SE4yNFZiUTNJZ3hQS0ZOLWxVc3BoNlVtbUxYaHhqMk5lLXdWRlNvQURweWpKWVIxbw?oc=5\" target=\"_blank\">トライアイズ、マゼックスと業務提携、ドローンＡＩ自動運航基盤を共同開発へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">kabu-ir.com</font>",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9uSi1KdzEyTGlzbWl2UjhpeEg0bFpRR0dRUDR3SE4yNFZiUTNJZ3hQS0ZOLWxVc3BoNlVtbUxYaHhqMk5lLXdWRlNvQURweWpKWVIxbw?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9uSi1KdzEyTGlzbWl2UjhpeEg0bFpRR0dRUDR3SE4yNFZiUTNJZ3hQS0ZOLWxVc3BoNlVtbUxYaHhqMk5lLXdWRlNvQURweWpKWVIxbw?oc=5",
-      "publishedAt": "2026-06-17T23:27:55.000Z",
-      "source": "kabu-ir.com",
+      "title": "狭小空間点検ドローン×3Dインフラ管理プラットフォームで韓国市場へ。Liberaware KoreaとALTIVIONが業務提携覚書を締結 - digital-construction.jp",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTFBNNmhHQjZoSTNPRTU2bHU0QzZta3pjWTNuWS1DN2ZRdzhvYW4yaDBHRkdrVlBTUE9FQ3BZUXJDRnRkLUp4MXE3emgzd1laNEFQSjRF?oc=5\" target=\"_blank\">狭小空間点検ドローン×3Dインフラ管理プラットフォームで韓国市場へ。Liberaware KoreaとALTIVIONが業務提携覚書を締結</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">digital-construction.jp</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTFBNNmhHQjZoSTNPRTU2bHU0QzZta3pjWTNuWS1DN2ZRdzhvYW4yaDBHRkdrVlBTUE9FQ3BZUXJDRnRkLUp4MXE3emgzd1laNEFQSjRF?oc=5\" target=\"_blank\">狭小空間点検ドローン×3Dインフラ管理プラットフォームで韓国市場へ。Liberaware KoreaとALTIVIONが業務提携覚書を締結</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">digital-construction.jp</font>",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBNNmhHQjZoSTNPRTU2bHU0QzZta3pjWTNuWS1DN2ZRdzhvYW4yaDBHRkdrVlBTUE9FQ3BZUXJDRnRkLUp4MXE3emgzd1laNEFQSjRF?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBNNmhHQjZoSTNPRTU2bHU0QzZta3pjWTNuWS1DN2ZRdzhvYW4yaDBHRkdrVlBTUE9FQ3BZUXJDRnRkLUp4MXE3emgzd1laNEFQSjRF?oc=5",
+      "publishedAt": "2026-06-23T05:33:48.000Z",
+      "source": "digital-construction.jp",
       "_feedRegion": "jp",
       "_feedName": "Google News (JP 政策/実証)",
       "_scoring": {
         "score": 64,
         "categories": [
-          "技術・製品",
-          "市場・資金"
+          "市場・資金",
+          "政策・インフラ"
         ],
         "breakdown": {
           "required": true,
-          "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
           "market": {
             "matches": 2,
             "catScore": 25
+          },
+          "policy": {
+            "matches": 1,
+            "catScore": 24
           },
           "sourceTrust": {
             "domain": "news.google.com",
@@ -718,36 +756,36 @@
       }
     },
     {
-      "title": "Italy launches consultation on draft UAS geographical zones",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQQjJZM1pibTJ3SXc4aXZic0JIRmk1TFBpeklXTzU3RlI0ZURLNFhUMU1lUmdLNFVpWVhHbkNqcGNoY081SFNFcjI3Q25mNFVrcHF1cVBUZ2VHNlI5ellISDZEaWppYmNmLUJYc1BVVTlGMWlhM1o2enpoaXJNM0xWMkNieTZLckw5OVRQb2RQY2J0T0RqeDVGMjN2UVRNUUtlLVlFQWc3QUY4M2ZH?oc=5\" target=\"_blank\">Italy launches consultation on draft UAS geographical zones</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQQjJZM1pibTJ3SXc4aXZic0JIRmk1TFBpeklXTzU3RlI0ZURLNFhUMU1lUmdLNFVpWVhHbkNqcGNoY081SFNFcjI3Q25mNFVrcHF1cVBUZ2VHNlI5ellISDZEaWppYmNmLUJYc1BVVTlGMWlhM1o2enpoaXJNM0xWMkNieTZLckw5OVRQb2RQY2J0T0RqeDVGMjN2UVRNUUtlLVlFQWc3QUY4M2ZH?oc=5\" target=\"_blank\">Italy launches consultation on draft UAS geographical zones</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQjJZM1pibTJ3SXc4aXZic0JIRmk1TFBpeklXTzU3RlI0ZURLNFhUMU1lUmdLNFVpWVhHbkNqcGNoY081SFNFcjI3Q25mNFVrcHF1cVBUZ2VHNlI5ellISDZEaWppYmNmLUJYc1BVVTlGMWlhM1o2enpoaXJNM0xWMkNieTZLckw5OVRQb2RQY2J0T0RqeDVGMjN2UVRNUUtlLVlFQWc3QUY4M2ZH?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQjJZM1pibTJ3SXc4aXZic0JIRmk1TFBpeklXTzU3RlI0ZURLNFhUMU1lUmdLNFVpWVhHbkNqcGNoY081SFNFcjI3Q25mNFVrcHF1cVBUZ2VHNlI5ellISDZEaWppYmNmLUJYc1BVVTlGMWlhM1o2enpoaXJNM0xWMkNieTZLckw5OVRQb2RQY2J0T0RqeDVGMjN2UVRNUUtlLVlFQWc3QUY4M2ZH?oc=5",
-      "publishedAt": "2026-06-26T12:16:23.000Z",
-      "source": "Unmanned airspace",
-      "_feedRegion": "global",
-      "_feedName": "Google News (Global)",
+      "title": "Drone seizures near Seattle Stadium reach 22 as FAA enforces World Cup no-fly zones",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxOS1dJZEN2SjFuVWppbzZMRE82LXlkTmp0d21GWEdvaERQblpWbnF0ZEZFYWVOVzg4SE9aUy1HSU5SNDhpM21WdHlYbzNac19wTUFtSzgyRGlhOVlyT1NxM1Y2WnpMNmF3a1JNRy1UWVVpMEVmZ1c3QXRmNkRBdHNSR005b1lfUEtpUy1xSWhsLU9NRUtDQ1Fua3d0cU92a0dERzVQdllNVURHTGxUWHVyVnhtZGk1NUREb01YOUtMS3NnSkNCRXZ0ZlJodnJzbGNVZVU3Y0FKOHA0ZllIRVNGb0ZHMlA?oc=5\" target=\"_blank\">Drone seizures near Seattle Stadium reach 22 as FAA enforces World Cup no-fly zones</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KOMO</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxOS1dJZEN2SjFuVWppbzZMRE82LXlkTmp0d21GWEdvaERQblpWbnF0ZEZFYWVOVzg4SE9aUy1HSU5SNDhpM21WdHlYbzNac19wTUFtSzgyRGlhOVlyT1NxM1Y2WnpMNmF3a1JNRy1UWVVpMEVmZ1c3QXRmNkRBdHNSR005b1lfUEtpUy1xSWhsLU9NRUtDQ1Fua3d0cU92a0dERzVQdllNVURHTGxUWHVyVnhtZGk1NUREb01YOUtMS3NnSkNCRXZ0ZlJodnJzbGNVZVU3Y0FKOHA0ZllIRVNGb0ZHMlA?oc=5\" target=\"_blank\">Drone seizures near Seattle Stadium reach 22 as FAA enforces World Cup no-fly zones</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KOMO</font>",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOS1dJZEN2SjFuVWppbzZMRE82LXlkTmp0d21GWEdvaERQblpWbnF0ZEZFYWVOVzg4SE9aUy1HSU5SNDhpM21WdHlYbzNac19wTUFtSzgyRGlhOVlyT1NxM1Y2WnpMNmF3a1JNRy1UWVVpMEVmZ1c3QXRmNkRBdHNSR005b1lfUEtpUy1xSWhsLU9NRUtDQ1Fua3d0cU92a0dERzVQdllNVURHTGxUWHVyVnhtZGk1NUREb01YOUtMS3NnSkNCRXZ0ZlJodnJzbGNVZVU3Y0FKOHA0ZllIRVNGb0ZHMlA?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOS1dJZEN2SjFuVWppbzZMRE82LXlkTmp0d21GWEdvaERQblpWbnF0ZEZFYWVOVzg4SE9aUy1HSU5SNDhpM21WdHlYbzNac19wTUFtSzgyRGlhOVlyT1NxM1Y2WnpMNmF3a1JNRy1UWVVpMEVmZ1c3QXRmNkRBdHNSR005b1lfUEtpUy1xSWhsLU9NRUtDQ1Fua3d0cU92a0dERzVQdllNVURHTGxUWHVyVnhtZGk1NUREb01YOUtMS3NnSkNCRXZ0ZlJodnJzbGNVZVU3Y0FKOHA0ZllIRVNGb0ZHMlA?oc=5",
+      "publishedAt": "2026-06-26T02:30:09.000Z",
+      "source": "KOMO",
+      "_feedRegion": "us",
+      "_feedName": "FAA",
       "_scoring": {
         "score": 60,
         "categories": [
-          "技術・製品",
-          "市場・資金"
+          "規制・政策",
+          "技術・製品"
         ],
         "breakdown": {
           "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
           "technology": {
             "matches": 1,
             "catScore": 24
-          },
-          "market": {
-            "matches": 1,
-            "catScore": 20
           },
           "sourceTrust": {
             "domain": "news.google.com",
             "multiplier": 0.8
           },
-          "freshness": 15,
+          "freshness": 5,
           "titleBonus": 10
         },
         "pass": true
@@ -976,15 +1014,15 @@
       }
     },
     {
-      "title": "エアバス・川崎重工、軍用ドローン開発で協業(時事通信)",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQMllsUW1aNm1Xa0xxQ1NBdk83dGJwaVJ2Y1pUQ1Ntajhld2VvS2dHR292T0RQWUxBVm5QOVRfNE5WY2dhRl9PM05hcldKbHZUcW9CY0N4SndiNWFKVmF1SlVKYm5kN3hyQTRWdVU2bV8xbW5YVkZfc2g3Y2hEZUp5clhORkxBX3c?oc=5\" target=\"_blank\">エアバス・川崎重工、軍用ドローン開発で協業(時事通信)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ファイナンス</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQMllsUW1aNm1Xa0xxQ1NBdk83dGJwaVJ2Y1pUQ1Ntajhld2VvS2dHR292T0RQWUxBVm5QOVRfNE5WY2dhRl9PM05hcldKbHZUcW9CY0N4SndiNWFKVmF1SlVKYm5kN3hyQTRWdVU2bV8xbW5YVkZfc2g3Y2hEZUp5clhORkxBX3c?oc=5\" target=\"_blank\">エアバス・川崎重工、軍用ドローン開発で協業(時事通信)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ファイナンス</font>",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMllsUW1aNm1Xa0xxQ1NBdk83dGJwaVJ2Y1pUQ1Ntajhld2VvS2dHR292T0RQWUxBVm5QOVRfNE5WY2dhRl9PM05hcldKbHZUcW9CY0N4SndiNWFKVmF1SlVKYm5kN3hyQTRWdVU2bV8xbW5YVkZfc2g3Y2hEZUp5clhORkxBX3c?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMllsUW1aNm1Xa0xxQ1NBdk83dGJwaVJ2Y1pUQ1Ntajhld2VvS2dHR292T0RQWUxBVm5QOVRfNE5WY2dhRl9PM05hcldKbHZUcW9CY0N4SndiNWFKVmF1SlVKYm5kN3hyQTRWdVU2bV8xbW5YVkZfc2g3Y2hEZUp5clhORkxBX3c?oc=5",
-      "publishedAt": "2026-06-26T12:31:00.000Z",
-      "source": "Yahoo!ファイナンス",
+      "title": "川重、防衛ドローンに技術 エアバスと開発、対潜水艦",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE1FZzBSM0d2cWZiVXQxenpmYUd6MHVTbGpuSkpaQjVmZ2FoZzN4REJzTUZ5TEx6ejg5REdNRnRYbzEwVlVmT19zSHRUUDJhUDdiMjR2dWZUWXpaOVBfNlc2bGI1QkRUVy1hWFpfMQ?oc=5\" target=\"_blank\">川重、防衛ドローンに技術 エアバスと開発、対潜水艦</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE1FZzBSM0d2cWZiVXQxenpmYUd6MHVTbGpuSkpaQjVmZ2FoZzN4REJzTUZ5TEx6ejg5REdNRnRYbzEwVlVmT19zSHRUUDJhUDdiMjR2dWZUWXpaOVBfNlc2bGI1QkRUVy1hWFpfMQ?oc=5\" target=\"_blank\">川重、防衛ドローンに技術 エアバスと開発、対潜水艦</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1FZzBSM0d2cWZiVXQxenpmYUd6MHVTbGpuSkpaQjVmZ2FoZzN4REJzTUZ5TEx6ejg5REdNRnRYbzEwVlVmT19zSHRUUDJhUDdiMjR2dWZUWXpaOVBfNlc2bGI1QkRUVy1hWFpfMQ?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1FZzBSM0d2cWZiVXQxenpmYUd6MHVTbGpuSkpaQjVmZ2FoZzN4REJzTUZ5TEx6ejg5REdNRnRYbzEwVlVmT19zSHRUUDJhUDdiMjR2dWZUWXpaOVBfNlc2bGI1QkRUVy1hWFpfMQ?oc=5",
+      "publishedAt": "2026-06-26T17:00:00.000Z",
+      "source": "日本経済新聞",
       "_feedRegion": "jp",
-      "_feedName": "Google News (JP)",
+      "_feedName": "Google News (JP 経済メディア)",
       "_scoring": {
         "score": 59,
         "categories": [
@@ -1008,15 +1046,15 @@
       }
     },
     {
-      "title": "川重、防衛ドローンに技術 エアバスと開発、対潜水艦",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE1FZzBSM0d2cWZiVXQxenpmYUd6MHVTbGpuSkpaQjVmZ2FoZzN4REJzTUZ5TEx6ejg5REdNRnRYbzEwVlVmT19zSHRUUDJhUDdiMjR2dWZUWXpaOVBfNlc2bGI1QkRUVy1hWFpfMQ?oc=5\" target=\"_blank\">川重、防衛ドローンに技術 エアバスと開発、対潜水艦</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE1FZzBSM0d2cWZiVXQxenpmYUd6MHVTbGpuSkpaQjVmZ2FoZzN4REJzTUZ5TEx6ejg5REdNRnRYbzEwVlVmT19zSHRUUDJhUDdiMjR2dWZUWXpaOVBfNlc2bGI1QkRUVy1hWFpfMQ?oc=5\" target=\"_blank\">川重、防衛ドローンに技術 エアバスと開発、対潜水艦</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1FZzBSM0d2cWZiVXQxenpmYUd6MHVTbGpuSkpaQjVmZ2FoZzN4REJzTUZ5TEx6ejg5REdNRnRYbzEwVlVmT19zSHRUUDJhUDdiMjR2dWZUWXpaOVBfNlc2bGI1QkRUVy1hWFpfMQ?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1FZzBSM0d2cWZiVXQxenpmYUd6MHVTbGpuSkpaQjVmZ2FoZzN4REJzTUZ5TEx6ejg5REdNRnRYbzEwVlVmT19zSHRUUDJhUDdiMjR2dWZUWXpaOVBfNlc2bGI1QkRUVy1hWFpfMQ?oc=5",
-      "publishedAt": "2026-06-26T17:00:00.000Z",
-      "source": "日本経済新聞",
+      "title": "離島に医薬品届ける 公明議員、ドローン配送事業視察 長崎・五島市 2026.6.27付",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE81cVN0RkJZOWN2bUhUa2FXQzlzSnBNQzVKRDY1MnRxT2VEU18wNVUtMVlYU0tmR3ZIOUd4SjFXN3Z2TnlJblRmMzFiQWF1elJsdTFvMlMtZ0h4NF9SZkpjSzNLb1hfN1JzbmplSFV0cGlJQkRDT080?oc=5\" target=\"_blank\">離島に医薬品届ける 公明議員、ドローン配送事業視察 長崎・五島市 2026.6.27付</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">公明新聞電子版プラス</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE81cVN0RkJZOWN2bUhUa2FXQzlzSnBNQzVKRDY1MnRxT2VEU18wNVUtMVlYU0tmR3ZIOUd4SjFXN3Z2TnlJblRmMzFiQWF1elJsdTFvMlMtZ0h4NF9SZkpjSzNLb1hfN1JzbmplSFV0cGlJQkRDT080?oc=5\" target=\"_blank\">離島に医薬品届ける 公明議員、ドローン配送事業視察 長崎・五島市 2026.6.27付</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">公明新聞電子版プラス</font>",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE81cVN0RkJZOWN2bUhUa2FXQzlzSnBNQzVKRDY1MnRxT2VEU18wNVUtMVlYU0tmR3ZIOUd4SjFXN3Z2TnlJblRmMzFiQWF1elJsdTFvMlMtZ0h4NF9SZkpjSzNLb1hfN1JzbmplSFV0cGlJQkRDT080?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMid0FVX3lxTE81cVN0RkJZOWN2bUhUa2FXQzlzSnBNQzVKRDY1MnRxT2VEU18wNVUtMVlYU0tmR3ZIOUd4SjFXN3Z2TnlJblRmMzFiQWF1elJsdTFvMlMtZ0h4NF9SZkpjSzNLb1hfN1JzbmplSFV0cGlJQkRDT080?oc=5",
+      "publishedAt": "2026-06-26T22:15:21.000Z",
+      "source": "公明新聞電子版プラス",
       "_feedRegion": "jp",
-      "_feedName": "Google News (JP 経済メディア)",
+      "_feedName": "Google News (JP 事業者/実装)",
       "_scoring": {
         "score": 59,
         "categories": [
@@ -1064,42 +1102,6 @@
           "market": {
             "matches": 1,
             "catScore": 20
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 0,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "Unmanned Aircraft Systems Airworthiness and Safety Training (2026-UAS-2)",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQOTZ2NENsMzFvaXR3SHB6c1h1Ykt4SENPRWxySGExZlBadUlBTm9PNF9qaFVITHdxVk55S3lvY3pNajZzdWctRW9aeVZaVHNOaDUyNjhhc1VuU3NMdFVDclhjMzRpWkxPaDEtMWN4MWx0LTNpNnlZbHkwT1FPaF9ZXzBWaVU4c0pWZUo2OVJCbFdqcHlLLXVNNk5fRFJ3ZVN5Y2tDb1F3?oc=5\" target=\"_blank\">Unmanned Aircraft Systems Airworthiness and Safety Training (2026-UAS-2)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">eurocae</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQOTZ2NENsMzFvaXR3SHB6c1h1Ykt4SENPRWxySGExZlBadUlBTm9PNF9qaFVITHdxVk55S3lvY3pNajZzdWctRW9aeVZaVHNOaDUyNjhhc1VuU3NMdFVDclhjMzRpWkxPaDEtMWN4MWx0LTNpNnlZbHkwT1FPaF9ZXzBWaVU4c0pWZUo2OVJCbFdqcHlLLXVNNk5fRFJ3ZVN5Y2tDb1F3?oc=5\" target=\"_blank\">Unmanned Aircraft Systems Airworthiness and Safety Training (2026-UAS-2)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">eurocae</font>",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOTZ2NENsMzFvaXR3SHB6c1h1Ykt4SENPRWxySGExZlBadUlBTm9PNF9qaFVITHdxVk55S3lvY3pNajZzdWctRW9aeVZaVHNOaDUyNjhhc1VuU3NMdFVDclhjMzRpWkxPaDEtMWN4MWx0LTNpNnlZbHkwT1FPaF9ZXzBWaVU4c0pWZUo2OVJCbFdqcHlLLXVNNk5fRFJ3ZVN5Y2tDb1F3?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOTZ2NENsMzFvaXR3SHB6c1h1Ykt4SENPRWxySGExZlBadUlBTm9PNF9qaFVITHdxVk55S3lvY3pNajZzdWctRW9aeVZaVHNOaDUyNjhhc1VuU3NMdFVDclhjMzRpWkxPaDEtMWN4MWx0LTNpNnlZbHkwT1FPaF9ZXzBWaVU4c0pWZUo2OVJCbFdqcHlLLXVNNk5fRFJ3ZVN5Y2tDb1F3?oc=5",
-      "publishedAt": "2025-11-29T18:39:37.000Z",
-      "source": "eurocae",
-      "_feedRegion": "eu",
-      "_feedName": "EUROCAE",
-      "_scoring": {
-        "score": 58,
-        "categories": [
-          "規制・政策",
-          "事故・事件"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 1,
-            "catScore": 32
-          },
-          "incident": {
-            "matches": 1,
-            "catScore": 28
           },
           "sourceTrust": {
             "domain": "news.google.com",
