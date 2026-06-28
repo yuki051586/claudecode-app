@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-28T08:25:13.255Z",
-  "rawCount": 632,
+  "generatedAt": "2026-06-28T11:11:32.808Z",
+  "rawCount": 675,
   "articles": [
     {
       "title": "ＮＪＳ[2325]：高性能インフラ点検調査ドローン「ASIO X」の展開と独占販売代理店契約締結のお知らせ 2026年6月17日(適時開示) ：日経会社情報DIGITAL",
@@ -40,6 +40,47 @@
           "freshness": 0,
           "titleBonus": 10,
           "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "Choctaw ROTC's aerospace program produces 5 FAA-certified drone pilots, 15 safety certifications in breakout year",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcTR1ZE9fSmxIUEZQUzZoeU1Xc1VvOVFSblRCSVNWV3gtVXl1RWZ0bFpPbWZmaWROQWE2eFFkdjhyRWd4Rk5LLTlQNjlzb05uS1BfU01BTWRyM0NyMUxfN0hjOGRzZ3VyUW41ZjNqODNMdTdfV2Y1VW9PVDJZVnQ0YTJyUlNDOUdYZ0p2WTZZT0lMVVRaZGVfS0d5NHBLWExjUVhBOGM1cUszU2hnNkg3WTc1c0NMaXhqakFfUGFmcnRSb1NSTGNIeEFma282djJVUmc?oc=5\" target=\"_blank\">Choctaw ROTC's aerospace program produces 5 FAA-certified drone pilots, 15 safety certifications in breakout year</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Get The Coast</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcTR1ZE9fSmxIUEZQUzZoeU1Xc1VvOVFSblRCSVNWV3gtVXl1RWZ0bFpPbWZmaWROQWE2eFFkdjhyRWd4Rk5LLTlQNjlzb05uS1BfU01BTWRyM0NyMUxfN0hjOGRzZ3VyUW41ZjNqODNMdTdfV2Y1VW9PVDJZVnQ0YTJyUlNDOUdYZ0p2WTZZT0lMVVRaZGVfS0d5NHBLWExjUVhBOGM1cUszU2hnNkg3WTc1c0NMaXhqakFfUGFmcnRSb1NSTGNIeEFma282djJVUmc?oc=5\" target=\"_blank\">Choctaw ROTC's aerospace program produces 5 FAA-certified drone pilots, 15 safety certifications in breakout year</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Get The Coast</font>",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcTR1ZE9fSmxIUEZQUzZoeU1Xc1VvOVFSblRCSVNWV3gtVXl1RWZ0bFpPbWZmaWROQWE2eFFkdjhyRWd4Rk5LLTlQNjlzb05uS1BfU01BTWRyM0NyMUxfN0hjOGRzZ3VyUW41ZjNqODNMdTdfV2Y1VW9PVDJZVnQ0YTJyUlNDOUdYZ0p2WTZZT0lMVVRaZGVfS0d5NHBLWExjUVhBOGM1cUszU2hnNkg3WTc1c0NMaXhqakFfUGFmcnRSb1NSTGNIeEFma282djJVUmc?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcTR1ZE9fSmxIUEZQUzZoeU1Xc1VvOVFSblRCSVNWV3gtVXl1RWZ0bFpPbWZmaWROQWE2eFFkdjhyRWd4Rk5LLTlQNjlzb05uS1BfU01BTWRyM0NyMUxfN0hjOGRzZ3VyUW41ZjNqODNMdTdfV2Y1VW9PVDJZVnQ0YTJyUlNDOUdYZ0p2WTZZT0lMVVRaZGVfS0d5NHBLWExjUVhBOGM1cUszU2hnNkg3WTc1c0NMaXhqakFfUGFmcnRSb1NSTGNIeEFma282djJVUmc?oc=5",
+      "publishedAt": "2026-06-25T07:00:00.000Z",
+      "source": "Get The Coast",
+      "_feedRegion": "us",
+      "_feedName": "FAA",
+      "_scoring": {
+        "score": 80,
+        "categories": [
+          "規制・政策",
+          "市場・資金",
+          "事故・事件"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 2,
+            "catScore": 40
+          },
+          "market": {
+            "matches": 1,
+            "catScore": 20
+          },
+          "incident": {
+            "matches": 1,
+            "catScore": 28
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 0,
+          "titleBonus": 10
         },
         "pass": true
       }
@@ -463,112 +504,6 @@
       }
     },
     {
-      "title": "【速報】エアバス、川重と防衛ドローン開発で提携",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE81UUlLR1BrTTI4U05rUG5PWGlmMzVZLW9nMjRjTkxmY3pwbUJOQWVadXRtdXpfZUJMVXZyaFN6LV9FbmtRYTdsNWlaTQ?oc=5\" target=\"_blank\">【速報】エアバス、川重と防衛ドローン開発で提携</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">47NEWS</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE81UUlLR1BrTTI4U05rUG5PWGlmMzVZLW9nMjRjTkxmY3pwbUJOQWVadXRtdXpfZUJMVXZyaFN6LV9FbmtRYTdsNWlaTQ?oc=5\" target=\"_blank\">【速報】エアバス、川重と防衛ドローン開発で提携</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">47NEWS</font>",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE81UUlLR1BrTTI4U05rUG5PWGlmMzVZLW9nMjRjTkxmY3pwbUJOQWVadXRtdXpfZUJMVXZyaFN6LV9FbmtRYTdsNWlaTQ?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE81UUlLR1BrTTI4U05rUG5PWGlmMzVZLW9nMjRjTkxmY3pwbUJOQWVadXRtdXpfZUJMVXZyaFN6LV9FbmtRYTdsNWlaTQ?oc=5",
-      "publishedAt": "2026-06-26T09:22:02.000Z",
-      "source": "47NEWS",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP 政策/実証)",
-      "_scoring": {
-        "score": 65,
-        "categories": [
-          "技術・製品",
-          "市場・資金"
-        ],
-        "breakdown": {
-          "required": true,
-          "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "market": {
-            "matches": 1,
-            "catScore": 20
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 5,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "エアバス、川重と防衛ドローン開発で提携",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9UQ1NMdTZCUmFCNjdaR1EtMU5XSkJmMllvYWRVUE9GM0R1U05XY3JMSms2ZjhoblFod25KcUpWdktuX0ljWVNOcXBDMHA5MGcxamVaeFltQWZVMWQxYjNVb0xFWQ?oc=5\" target=\"_blank\">エアバス、川重と防衛ドローン開発で提携</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">nippon.com</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9UQ1NMdTZCUmFCNjdaR1EtMU5XSkJmMllvYWRVUE9GM0R1U05XY3JMSms2ZjhoblFod25KcUpWdktuX0ljWVNOcXBDMHA5MGcxamVaeFltQWZVMWQxYjNVb0xFWQ?oc=5\" target=\"_blank\">エアバス、川重と防衛ドローン開発で提携</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">nippon.com</font>",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9UQ1NMdTZCUmFCNjdaR1EtMU5XSkJmMllvYWRVUE9GM0R1U05XY3JMSms2ZjhoblFod25KcUpWdktuX0ljWVNOcXBDMHA5MGcxamVaeFltQWZVMWQxYjNVb0xFWQ?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9UQ1NMdTZCUmFCNjdaR1EtMU5XSkJmMllvYWRVUE9GM0R1U05XY3JMSms2ZjhoblFod25KcUpWdktuX0ljWVNOcXBDMHA5MGcxamVaeFltQWZVMWQxYjNVb0xFWQ?oc=5",
-      "publishedAt": "2026-06-26T09:22:36.000Z",
-      "source": "nippon.com",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP 政策/実証)",
-      "_scoring": {
-        "score": 65,
-        "categories": [
-          "技術・製品",
-          "市場・資金"
-        ],
-        "breakdown": {
-          "required": true,
-          "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "market": {
-            "matches": 1,
-            "catScore": 20
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 5,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "空飛ぶクルマ時速100キロ 開発機安定飛行成功（読売新聞オンライン）",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1fSFRPUGY1R2llQm0yMl9MSmxac0daVnk2RDhWZWtGZUFmTnZ0NHdxcVZTTm9nczY1ck00YkVIZ0s5X203TVkwei03dnJ2NF9DUEhyNGFxaEpZNWZHNUNPWkE4OXotTGZROUhhRDB3UU1qZVdtSXJNRlY2MUd4SGM?oc=5\" target=\"_blank\">空飛ぶクルマ時速100キロ 開発機安定飛行成功（読売新聞オンライン）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1fSFRPUGY1R2llQm0yMl9MSmxac0daVnk2RDhWZWtGZUFmTnZ0NHdxcVZTTm9nczY1ck00YkVIZ0s5X203TVkwei03dnJ2NF9DUEhyNGFxaEpZNWZHNUNPWkE4OXotTGZROUhhRDB3UU1qZVdtSXJNRlY2MUd4SGM?oc=5\" target=\"_blank\">空飛ぶクルマ時速100キロ 開発機安定飛行成功（読売新聞オンライン）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1fSFRPUGY1R2llQm0yMl9MSmxac0daVnk2RDhWZWtGZUFmTnZ0NHdxcVZTTm9nczY1ck00YkVIZ0s5X203TVkwei03dnJ2NF9DUEhyNGFxaEpZNWZHNUNPWkE4OXotTGZROUhhRDB3UU1qZVdtSXJNRlY2MUd4SGM?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1fSFRPUGY1R2llQm0yMl9MSmxac0daVnk2RDhWZWtGZUFmTnZ0NHdxcVZTTm9nczY1ck00YkVIZ0s5X203TVkwei03dnJ2NF9DUEhyNGFxaEpZNWZHNUNPWkE4OXotTGZROUhhRDB3UU1qZVdtSXJNRlY2MUd4SGM?oc=5",
-      "publishedAt": "2026-06-28T07:07:41.000Z",
-      "source": "Yahoo!ニュース",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP)",
-      "_scoring": {
-        "score": 64,
-        "categories": [
-          "技術・製品"
-        ],
-        "breakdown": {
-          "required": true,
-          "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 20,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
       "title": "Liberaware Koreaと韓国のドローンを活用した3Dインフラ管理システムを提供する企業 ALTIVIONが業務提携に関する覚書を締結",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE41SlE2eTBpVUZURXltbkprQ3VUY1RLemJKMmUwR3FGd1lkRDdvS1FzUExtN1F5aEU3NWZjd2l5ajhnWWFPQUdjUEJBdUJpUUlkb0pyWU9RMmlNbHAzLXZ5ZE5uWXFBNHM5MHc?oc=5\" target=\"_blank\">Liberaware Koreaと韓国のドローンを活用した3Dインフラ管理システムを提供する企業 ALTIVIONが業務提携に関する覚書を締結</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR TIMES</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE41SlE2eTBpVUZURXltbkprQ3VUY1RLemJKMmUwR3FGd1lkRDdvS1FzUExtN1F5aEU3NWZjd2l5ajhnWWFPQUdjUEJBdUJpUUlkb0pyWU9RMmlNbHAzLXZ5ZE5uWXFBNHM5MHc?oc=5\" target=\"_blank\">Liberaware Koreaと韓国のドローンを活用した3Dインフラ管理システムを提供する企業 ALTIVIONが業務提携に関する覚書を締結</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR TIMES</font>",
@@ -599,6 +534,38 @@
             "multiplier": 0.8
           },
           "freshness": 0,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "クマをＡＩカメラで監視、出没情報をアプリ通知する実証実験…ドローンで追い払いも検討（読売新聞オンライン）",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE01cXNOQmZKUFNrMmVHMEV2TEljcm9vNlFVVm0tVXI5WjFMVDZ3TkZXMjVLTWRVOU9sR0FkNnZhY3diMlZIcnh3TDBvVXNRYU4xNm9VYTRWNHE3M1hOei1kMENfZ25qMWQ3NldKVmU4REstZ2IzZkU1ZHlkTk0tSnc?oc=5\" target=\"_blank\">クマをＡＩカメラで監視、出没情報をアプリ通知する実証実験…ドローンで追い払いも検討（読売新聞オンライン）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE01cXNOQmZKUFNrMmVHMEV2TEljcm9vNlFVVm0tVXI5WjFMVDZ3TkZXMjVLTWRVOU9sR0FkNnZhY3diMlZIcnh3TDBvVXNRYU4xNm9VYTRWNHE3M1hOei1kMENfZ25qMWQ3NldKVmU4REstZ2IzZkU1ZHlkTk0tSnc?oc=5\" target=\"_blank\">クマをＡＩカメラで監視、出没情報をアプリ通知する実証実験…ドローンで追い払いも検討（読売新聞オンライン）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE01cXNOQmZKUFNrMmVHMEV2TEljcm9vNlFVVm0tVXI5WjFMVDZ3TkZXMjVLTWRVOU9sR0FkNnZhY3diMlZIcnh3TDBvVXNRYU4xNm9VYTRWNHE3M1hOei1kMENfZ25qMWQ3NldKVmU4REstZ2IzZkU1ZHlkTk0tSnc?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE01cXNOQmZKUFNrMmVHMEV2TEljcm9vNlFVVm0tVXI5WjFMVDZ3TkZXMjVLTWRVOU9sR0FkNnZhY3diMlZIcnh3TDBvVXNRYU4xNm9VYTRWNHE3M1hOei1kMENfZ25qMWQ3NldKVmU4REstZ2IzZkU1ZHlkTk0tSnc?oc=5",
+      "publishedAt": "2026-06-28T08:25:08.000Z",
+      "source": "Yahoo!ニュース",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP 政策/実証)",
+      "_scoring": {
+        "score": 64,
+        "categories": [
+          "技術・製品"
+        ],
+        "breakdown": {
+          "required": true,
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 20,
           "titleBonus": 10,
           "jpRegionBonus": 15
         },
@@ -673,38 +640,6 @@
             "multiplier": 0.8
           },
           "freshness": 0,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "ドローン使い通学路見守り強化 実証実験始まる 千葉 東庄町",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTFBQUFZyN1c1ek1mSE5lMmhMZ1o2czNUUTdaVHFNel9HeFpxXzRfNnBXWEs1bVRIV1pQMGZIby1jUlFCMVBOc0l6X091c1hrOHEtdUhCbXlxTUQ?oc=5\" target=\"_blank\">ドローン使い通学路見守り強化 実証実験始まる 千葉 東庄町</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NHKニュース</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTFBQUFZyN1c1ek1mSE5lMmhMZ1o2czNUUTdaVHFNel9HeFpxXzRfNnBXWEs1bVRIV1pQMGZIby1jUlFCMVBOc0l6X091c1hrOHEtdUhCbXlxTUQ?oc=5\" target=\"_blank\">ドローン使い通学路見守り強化 実証実験始まる 千葉 東庄町</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NHKニュース</font>",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBQUFZyN1c1ek1mSE5lMmhMZ1o2czNUUTdaVHFNel9HeFpxXzRfNnBXWEs1bVRIV1pQMGZIby1jUlFCMVBOc0l6X091c1hrOHEtdUhCbXlxTUQ?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBQUFZyN1c1ek1mSE5lMmhMZ1o2czNUUTdaVHFNel9HeFpxXzRfNnBXWEs1bVRIV1pQMGZIby1jUlFCMVBOc0l6X091c1hrOHEtdUhCbXlxTUQ?oc=5",
-      "publishedAt": "2026-06-28T07:56:00.000Z",
-      "source": "NHKニュース",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP 政策/実証)",
-      "_scoring": {
-        "score": 64,
-        "categories": [
-          "技術・製品"
-        ],
-        "breakdown": {
-          "required": true,
-          "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 20,
           "titleBonus": 10,
           "jpRegionBonus": 15
         },
@@ -853,6 +788,80 @@
             "multiplier": 0.8
           },
           "freshness": 0,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "【速報】エアバス、川重と防衛ドローン開発で提携",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE81UUlLR1BrTTI4U05rUG5PWGlmMzVZLW9nMjRjTkxmY3pwbUJOQWVadXRtdXpfZUJMVXZyaFN6LV9FbmtRYTdsNWlaTQ?oc=5\" target=\"_blank\">【速報】エアバス、川重と防衛ドローン開発で提携</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">47NEWS</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE81UUlLR1BrTTI4U05rUG5PWGlmMzVZLW9nMjRjTkxmY3pwbUJOQWVadXRtdXpfZUJMVXZyaFN6LV9FbmtRYTdsNWlaTQ?oc=5\" target=\"_blank\">【速報】エアバス、川重と防衛ドローン開発で提携</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">47NEWS</font>",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE81UUlLR1BrTTI4U05rUG5PWGlmMzVZLW9nMjRjTkxmY3pwbUJOQWVadXRtdXpfZUJMVXZyaFN6LV9FbmtRYTdsNWlaTQ?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE81UUlLR1BrTTI4U05rUG5PWGlmMzVZLW9nMjRjTkxmY3pwbUJOQWVadXRtdXpfZUJMVXZyaFN6LV9FbmtRYTdsNWlaTQ?oc=5",
+      "publishedAt": "2026-06-26T09:22:02.000Z",
+      "source": "47NEWS",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP 政策/実証)",
+      "_scoring": {
+        "score": 62,
+        "categories": [
+          "技術・製品",
+          "市場・資金"
+        ],
+        "breakdown": {
+          "required": true,
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "market": {
+            "matches": 1,
+            "catScore": 20
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 2,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "エアバス、川重と防衛ドローン開発で提携",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9UQ1NMdTZCUmFCNjdaR1EtMU5XSkJmMllvYWRVUE9GM0R1U05XY3JMSms2ZjhoblFod25KcUpWdktuX0ljWVNOcXBDMHA5MGcxamVaeFltQWZVMWQxYjNVb0xFWQ?oc=5\" target=\"_blank\">エアバス、川重と防衛ドローン開発で提携</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">nippon.com</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9UQ1NMdTZCUmFCNjdaR1EtMU5XSkJmMllvYWRVUE9GM0R1U05XY3JMSms2ZjhoblFod25KcUpWdktuX0ljWVNOcXBDMHA5MGcxamVaeFltQWZVMWQxYjNVb0xFWQ?oc=5\" target=\"_blank\">エアバス、川重と防衛ドローン開発で提携</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">nippon.com</font>",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9UQ1NMdTZCUmFCNjdaR1EtMU5XSkJmMllvYWRVUE9GM0R1U05XY3JMSms2ZjhoblFod25KcUpWdktuX0ljWVNOcXBDMHA5MGcxamVaeFltQWZVMWQxYjNVb0xFWQ?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9UQ1NMdTZCUmFCNjdaR1EtMU5XSkJmMllvYWRVUE9GM0R1U05XY3JMSms2ZjhoblFod25KcUpWdktuX0ljWVNOcXBDMHA5MGcxamVaeFltQWZVMWQxYjNVb0xFWQ?oc=5",
+      "publishedAt": "2026-06-26T09:22:36.000Z",
+      "source": "nippon.com",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP 政策/実証)",
+      "_scoring": {
+        "score": 62,
+        "categories": [
+          "技術・製品",
+          "市場・資金"
+        ],
+        "breakdown": {
+          "required": true,
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "market": {
+            "matches": 1,
+            "catScore": 20
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 2,
           "titleBonus": 10,
           "jpRegionBonus": 15
         },
