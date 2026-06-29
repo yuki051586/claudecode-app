@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-29T09:52:07.945Z",
-  "rawCount": 686,
+  "generatedAt": "2026-06-29T14:09:20.007Z",
+  "rawCount": 682,
   "articles": [
     {
       "title": "United Airlines Flight Dodges Drone Collision During Newark Airport Approach, FAA Launches Probe",
@@ -13,7 +13,7 @@
       "_feedRegion": "us",
       "_feedName": "FAA",
       "_scoring": {
-        "score": 94,
+        "score": 89,
         "categories": [
           "規制・政策",
           "技術・製品",
@@ -37,7 +37,7 @@
             "domain": "news.google.com",
             "multiplier": 0.8
           },
-          "freshness": 15,
+          "freshness": 10,
           "titleBonus": 10
         },
         "pass": true
@@ -121,42 +121,6 @@
             "multiplier": 0.8
           },
           "freshness": 0,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "FAA probes Newark near-miss between United jet and drone",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxQS3FqVm4yU2ExS3RleE1GbHE1bGNMZElaTHBaRkQ5VXM0dGk1SG51cXVfWVhpTWgxc2VucTVpMTRBNlRYdk1Fcno2NkdHVF9jYVNnZmlTbGhOODV1Z2FiblNVcGxsOHBpTTdXWEQ5QXZSaDhpVXluSXV3THVBUFJidWdyc29tMTlqTzNnLXZoSngybnJyeG5NZGJxU2VkOWNVMGJJblZFSmg1VVJmQW1fNGM5R1JKVFFpWmZfVE1ydXZJcFYtalNnTWZpWXB0MC1RNUd5SkZyYkRiRURiS25IalVUb2d6d2Z2d3dRY2NTVQ?oc=5\" target=\"_blank\">FAA probes Newark near-miss between United jet and drone</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxQS3FqVm4yU2ExS3RleE1GbHE1bGNMZElaTHBaRkQ5VXM0dGk1SG51cXVfWVhpTWgxc2VucTVpMTRBNlRYdk1Fcno2NkdHVF9jYVNnZmlTbGhOODV1Z2FiblNVcGxsOHBpTTdXWEQ5QXZSaDhpVXluSXV3THVBUFJidWdyc29tMTlqTzNnLXZoSngybnJyeG5NZGJxU2VkOWNVMGJJblZFSmg1VVJmQW1fNGM5R1JKVFFpWmZfVE1ydXZJcFYtalNnTWZpWXB0MC1RNUd5SkZyYkRiRURiS25IalVUb2d6d2Z2d3dRY2NTVQ?oc=5\" target=\"_blank\">FAA probes Newark near-miss between United jet and drone</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQS3FqVm4yU2ExS3RleE1GbHE1bGNMZElaTHBaRkQ5VXM0dGk1SG51cXVfWVhpTWgxc2VucTVpMTRBNlRYdk1Fcno2NkdHVF9jYVNnZmlTbGhOODV1Z2FiblNVcGxsOHBpTTdXWEQ5QXZSaDhpVXluSXV3THVBUFJidWdyc29tMTlqTzNnLXZoSngybnJyeG5NZGJxU2VkOWNVMGJJblZFSmg1VVJmQW1fNGM5R1JKVFFpWmZfVE1ydXZJcFYtalNnTWZpWXB0MC1RNUd5SkZyYkRiRURiS25IalVUb2d6d2Z2d3dRY2NTVQ?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQS3FqVm4yU2ExS3RleE1GbHE1bGNMZElaTHBaRkQ5VXM0dGk1SG51cXVfWVhpTWgxc2VucTVpMTRBNlRYdk1Fcno2NkdHVF9jYVNnZmlTbGhOODV1Z2FiblNVcGxsOHBpTTdXWEQ5QXZSaDhpVXluSXV3THVBUFJidWdyc29tMTlqTzNnLXZoSngybnJyeG5NZGJxU2VkOWNVMGJJblZFSmg1VVJmQW1fNGM5R1JKVFFpWmZfVE1ydXZJcFYtalNnTWZpWXB0MC1RNUd5SkZyYkRiRURiS25IalVUb2d6d2Z2d3dRY2NTVQ?oc=5",
-      "publishedAt": "2026-06-29T03:00:10.000Z",
-      "source": "MSN",
-      "_feedRegion": "us",
-      "_feedName": "FAA",
-      "_scoring": {
-        "score": 73,
-        "categories": [
-          "規制・政策",
-          "事故・事件"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 1,
-            "catScore": 32
-          },
-          "incident": {
-            "matches": 1,
-            "catScore": 28
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 15,
           "titleBonus": 10
         },
         "pass": true
@@ -429,91 +393,28 @@
       }
     },
     {
-      "title": "FAA probes near-miss between United flight and large drone",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxNbk5XQmhyRG5MZVdMaDZkek5TN1NpeDUwY2h3NTlHN2VBZnVpcmVnRWtWTndzMmpEaE1OeVVCNHZDa29hTkN6MjNrUFVydDJZc0hGNUFkNktLcEMzMHJqanNrdmVaQUUzU0JtNW8tQnF1SkNKQlVnSVB1S0FWT0g1bjhtREhETlUyYTNTb1N2Q0p6cXp5QUo3NENFT0duc2VSSUo5cmFKWGdkSUVESjZ6ekN0bVNVRHV2WWFrNXZXVkNBVjBOdDU4eUxzVmhKT240WDFkMlpFdGhUZWVvbDF4TjRmaG1hanY2SHY3eXk1bE9KQQ?oc=5\" target=\"_blank\">FAA probes near-miss between United flight and large drone</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxNbk5XQmhyRG5MZVdMaDZkek5TN1NpeDUwY2h3NTlHN2VBZnVpcmVnRWtWTndzMmpEaE1OeVVCNHZDa29hTkN6MjNrUFVydDJZc0hGNUFkNktLcEMzMHJqanNrdmVaQUUzU0JtNW8tQnF1SkNKQlVnSVB1S0FWT0g1bjhtREhETlUyYTNTb1N2Q0p6cXp5QUo3NENFT0duc2VSSUo5cmFKWGdkSUVESjZ6ekN0bVNVRHV2WWFrNXZXVkNBVjBOdDU4eUxzVmhKT240WDFkMlpFdGhUZWVvbDF4TjRmaG1hanY2SHY3eXk1bE9KQQ?oc=5\" target=\"_blank\">FAA probes near-miss between United flight and large drone</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNbk5XQmhyRG5MZVdMaDZkek5TN1NpeDUwY2h3NTlHN2VBZnVpcmVnRWtWTndzMmpEaE1OeVVCNHZDa29hTkN6MjNrUFVydDJZc0hGNUFkNktLcEMzMHJqanNrdmVaQUUzU0JtNW8tQnF1SkNKQlVnSVB1S0FWT0g1bjhtREhETlUyYTNTb1N2Q0p6cXp5QUo3NENFT0duc2VSSUo5cmFKWGdkSUVESjZ6ekN0bVNVRHV2WWFrNXZXVkNBVjBOdDU4eUxzVmhKT240WDFkMlpFdGhUZWVvbDF4TjRmaG1hanY2SHY3eXk1bE9KQQ?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNbk5XQmhyRG5MZVdMaDZkek5TN1NpeDUwY2h3NTlHN2VBZnVpcmVnRWtWTndzMmpEaE1OeVVCNHZDa29hTkN6MjNrUFVydDJZc0hGNUFkNktLcEMzMHJqanNrdmVaQUUzU0JtNW8tQnF1SkNKQlVnSVB1S0FWT0g1bjhtREhETlUyYTNTb1N2Q0p6cXp5QUo3NENFT0duc2VSSUo5cmFKWGdkSUVESjZ6ekN0bVNVRHV2WWFrNXZXVkNBVjBOdDU4eUxzVmhKT240WDFkMlpFdGhUZWVvbDF4TjRmaG1hanY2SHY3eXk1bE9KQQ?oc=5",
-      "publishedAt": "2026-06-28T13:24:41.000Z",
-      "source": "MSN",
-      "_feedRegion": "us",
-      "_feedName": "FAA",
+      "title": "DroneShield survey reveals gaps in critical infrastructure C-UAS security",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxONEJ6UDgteFhQeGVPekVBd29Vd012XzY2aUFIR0tVLXREY2ViNW5tdGE2YzJFZENUQ1hXRDl6bGpkOXlwTW1YSjdhTXNQR3BYTm9ONlp5T3F2dGczX0pFOERSYXdCajR6dWVvSGlPVm12SGQ5YUNtTDJLbk9EYXBPQmtJS1QxRW00Y3puVzZlc2tMLThRU1F3a2pyU1VmOGd6dXhNMVh5czJiMThRazVTMENveVhyLUl2bTVMYTRkcDd6NlBySFVkQVZOSHBpaGkxU0VNSGZnMGo?oc=5\" target=\"_blank\">DroneShield survey reveals gaps in critical infrastructure C-UAS security</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxONEJ6UDgteFhQeGVPekVBd29Vd012XzY2aUFIR0tVLXREY2ViNW5tdGE2YzJFZENUQ1hXRDl6bGpkOXlwTW1YSjdhTXNQR3BYTm9ONlp5T3F2dGczX0pFOERSYXdCajR6dWVvSGlPVm12SGQ5YUNtTDJLbk9EYXBPQmtJS1QxRW00Y3puVzZlc2tMLThRU1F3a2pyU1VmOGd6dXhNMVh5czJiMThRazVTMENveVhyLUl2bTVMYTRkcDd6NlBySFVkQVZOSHBpaGkxU0VNSGZnMGo?oc=5\" target=\"_blank\">DroneShield survey reveals gaps in critical infrastructure C-UAS security</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxONEJ6UDgteFhQeGVPekVBd29Vd012XzY2aUFIR0tVLXREY2ViNW5tdGE2YzJFZENUQ1hXRDl6bGpkOXlwTW1YSjdhTXNQR3BYTm9ONlp5T3F2dGczX0pFOERSYXdCajR6dWVvSGlPVm12SGQ5YUNtTDJLbk9EYXBPQmtJS1QxRW00Y3puVzZlc2tMLThRU1F3a2pyU1VmOGd6dXhNMVh5czJiMThRazVTMENveVhyLUl2bTVMYTRkcDd6NlBySFVkQVZOSHBpaGkxU0VNSGZnMGo?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxONEJ6UDgteFhQeGVPekVBd29Vd012XzY2aUFIR0tVLXREY2ViNW5tdGE2YzJFZENUQ1hXRDl6bGpkOXlwTW1YSjdhTXNQR3BYTm9ONlp5T3F2dGczX0pFOERSYXdCajR6dWVvSGlPVm12SGQ5YUNtTDJLbk9EYXBPQmtJS1QxRW00Y3puVzZlc2tMLThRU1F3a2pyU1VmOGd6dXhNMVh5czJiMThRazVTMENveVhyLUl2bTVMYTRkcDd6NlBySFVkQVZOSHBpaGkxU0VNSGZnMGo?oc=5",
+      "publishedAt": "2026-06-29T12:11:26.000Z",
+      "source": "Unmanned airspace",
+      "_feedRegion": "global",
+      "_feedName": "Google News (Global)",
       "_scoring": {
-        "score": 68,
+        "score": 65,
         "categories": [
-          "規制・政策",
-          "事故・事件"
+          "市場・資金",
+          "政策・インフラ"
         ],
         "breakdown": {
           "required": true,
-          "regulation": {
+          "market": {
             "matches": 1,
-            "catScore": 32
+            "catScore": 20
           },
-          "incident": {
-            "matches": 1,
-            "catScore": 28
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 10,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "ドローンさえ規制していた北京で…軽飛行機が108階建てビルに衝突した謎（1）（中央日報日本語版）",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFB1dm5tR2NyN0E0NW9Ray1hcDVoUzFnMUlJUVRlbVBaWWNfWHkwZWRVdXlCc3NXUWdFNkxpUEpocHJpTTNKUU1GXzg5NTFQcFFzMkhCNWlldWtzS2FVaUNySkhtVEVXWmxNU1JRTkp1MURYbzlUNWJ6MF9hQ2FLUDQ?oc=5\" target=\"_blank\">ドローンさえ規制していた北京で…軽飛行機が108階建てビルに衝突した謎（1）（中央日報日本語版）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFB1dm5tR2NyN0E0NW9Ray1hcDVoUzFnMUlJUVRlbVBaWWNfWHkwZWRVdXlCc3NXUWdFNkxpUEpocHJpTTNKUU1GXzg5NTFQcFFzMkhCNWlldWtzS2FVaUNySkhtVEVXWmxNU1JRTkp1MURYbzlUNWJ6MF9hQ2FLUDQ?oc=5\" target=\"_blank\">ドローンさえ規制していた北京で…軽飛行機が108階建てビルに衝突した謎（1）（中央日報日本語版）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB1dm5tR2NyN0E0NW9Ray1hcDVoUzFnMUlJUVRlbVBaWWNfWHkwZWRVdXlCc3NXUWdFNkxpUEpocHJpTTNKUU1GXzg5NTFQcFFzMkhCNWlldWtzS2FVaUNySkhtVEVXWmxNU1JRTkp1MURYbzlUNWJ6MF9hQ2FLUDQ?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB1dm5tR2NyN0E0NW9Ray1hcDVoUzFnMUlJUVRlbVBaWWNfWHkwZWRVdXlCc3NXUWdFNkxpUEpocHJpTTNKUU1GXzg5NTFQcFFzMkhCNWlldWtzS2FVaUNySkhtVEVXWmxNU1JRTkp1MURYbzlUNWJ6MF9hQ2FLUDQ?oc=5",
-      "publishedAt": "2026-06-29T01:42:35.000Z",
-      "source": "Yahoo!ニュース",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP)",
-      "_scoring": {
-        "score": 66,
-        "categories": [
-          "規制・政策"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 1,
-            "catScore": 32
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 15,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "エクセディ、ジャパンドローンで開発中の消防用放水ドローンを展示",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFBHOExhV0c0Wlh2ek80ckhkS0VYN2U2U1c0M1RzZmxUdlhUMnI1TE1uMm42ai03d0NuMFN5NjZBNFNDT29rT1dtekhxR1I2REdRMTZLb1FIcVc4cG1lUXVsTy00U09UUTNCWDQw?oc=5\" target=\"_blank\">エクセディ、ジャパンドローンで開発中の消防用放水ドローンを展示</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ドローンジャーナル</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFBHOExhV0c0Wlh2ek80ckhkS0VYN2U2U1c0M1RzZmxUdlhUMnI1TE1uMm42ai03d0NuMFN5NjZBNFNDT29rT1dtekhxR1I2REdRMTZLb1FIcVc4cG1lUXVsTy00U09UUTNCWDQw?oc=5\" target=\"_blank\">エクセディ、ジャパンドローンで開発中の消防用放水ドローンを展示</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ドローンジャーナル</font>",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBHOExhV0c0Wlh2ek80ckhkS0VYN2U2U1c0M1RzZmxUdlhUMnI1TE1uMm42ai03d0NuMFN5NjZBNFNDT29rT1dtekhxR1I2REdRMTZLb1FIcVc4cG1lUXVsTy00U09UUTNCWDQw?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBHOExhV0c0Wlh2ek80ckhkS0VYN2U2U1c0M1RzZmxUdlhUMnI1TE1uMm42ai03d0NuMFN5NjZBNFNDT29rT1dtekhxR1I2REdRMTZLb1FIcVc4cG1lUXVsTy00U09UUTNCWDQw?oc=5",
-      "publishedAt": "2026-06-29T07:50:18.000Z",
-      "source": "ドローンジャーナル",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP)",
-      "_scoring": {
-        "score": 64,
-        "categories": [
-          "技術・製品"
-        ],
-        "breakdown": {
-          "required": true,
-          "technology": {
+          "policy": {
             "matches": 1,
             "catScore": 24
           },
@@ -522,8 +423,7 @@
             "multiplier": 0.8
           },
           "freshness": 20,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
+          "titleBonus": 10
         },
         "pass": true
       }
@@ -677,12 +577,121 @@
       }
     },
     {
+      "title": "トライアイズ、マゼックスと業務提携、ドローンＡＩ自動運航基盤を共同開発へ - kabu-ir.com",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE9uSi1KdzEyTGlzbWl2UjhpeEg0bFpRR0dRUDR3SE4yNFZiUTNJZ3hQS0ZOLWxVc3BoNlVtbUxYaHhqMk5lLXdWRlNvQURweWpKWVIxbw?oc=5\" target=\"_blank\">トライアイズ、マゼックスと業務提携、ドローンＡＩ自動運航基盤を共同開発へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">kabu-ir.com</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE9uSi1KdzEyTGlzbWl2UjhpeEg0bFpRR0dRUDR3SE4yNFZiUTNJZ3hQS0ZOLWxVc3BoNlVtbUxYaHhqMk5lLXdWRlNvQURweWpKWVIxbw?oc=5\" target=\"_blank\">トライアイズ、マゼックスと業務提携、ドローンＡＩ自動運航基盤を共同開発へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">kabu-ir.com</font>",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9uSi1KdzEyTGlzbWl2UjhpeEg0bFpRR0dRUDR3SE4yNFZiUTNJZ3hQS0ZOLWxVc3BoNlVtbUxYaHhqMk5lLXdWRlNvQURweWpKWVIxbw?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9uSi1KdzEyTGlzbWl2UjhpeEg0bFpRR0dRUDR3SE4yNFZiUTNJZ3hQS0ZOLWxVc3BoNlVtbUxYaHhqMk5lLXdWRlNvQURweWpKWVIxbw?oc=5",
+      "publishedAt": "2026-06-18T07:00:00.000Z",
+      "source": "kabu-ir.com",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP 政策/実証)",
+      "_scoring": {
+        "score": 64,
+        "categories": [
+          "技術・製品",
+          "市場・資金"
+        ],
+        "breakdown": {
+          "required": true,
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "market": {
+            "matches": 2,
+            "catScore": 25
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 0,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
       "title": "United jet’s near-miss with drone at Newark triggers FAA probe",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxOd0dvNHdVWGtHRm41ODV4MGZGWEVFRWF5UUpKNWxHQkF5SUczUUpuNWpxWGdoSzlOZUFkMDNvMXI3SzgwTERFMVZOOG5DV3dGeXRRN3k1X0ROenNFUTNYX29HXzZ4dkV1WlhBNmpQTGtlRFFFUWNyakpCTWpucThKR1p3Y2FYSmc2SDZ3NDhmWEJicWRBN09PX0hHY1dQVFJwcFI0aXlfUi1oV2dBVHN4cHhGYzM5RXVrREJXcEg3QzNvTHlrZWhNV0NicWUyREgtTE4wN1FqQklMdUVLbnBkMURZTWRoUnRxOHR6TTJDQXFlUEhiRW0w?oc=5\" target=\"_blank\">United jet’s near-miss with drone at Newark triggers FAA probe</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxOd0dvNHdVWGtHRm41ODV4MGZGWEVFRWF5UUpKNWxHQkF5SUczUUpuNWpxWGdoSzlOZUFkMDNvMXI3SzgwTERFMVZOOG5DV3dGeXRRN3k1X0ROenNFUTNYX29HXzZ4dkV1WlhBNmpQTGtlRFFFUWNyakpCTWpucThKR1p3Y2FYSmc2SDZ3NDhmWEJicWRBN09PX0hHY1dQVFJwcFI0aXlfUi1oV2dBVHN4cHhGYzM5RXVrREJXcEg3QzNvTHlrZWhNV0NicWUyREgtTE4wN1FqQklMdUVLbnBkMURZTWRoUnRxOHR6TTJDQXFlUEhiRW0w?oc=5\" target=\"_blank\">United jet’s near-miss with drone at Newark triggers FAA probe</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
       "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOd0dvNHdVWGtHRm41ODV4MGZGWEVFRWF5UUpKNWxHQkF5SUczUUpuNWpxWGdoSzlOZUFkMDNvMXI3SzgwTERFMVZOOG5DV3dGeXRRN3k1X0ROenNFUTNYX29HXzZ4dkV1WlhBNmpQTGtlRFFFUWNyakpCTWpucThKR1p3Y2FYSmc2SDZ3NDhmWEJicWRBN09PX0hHY1dQVFJwcFI0aXlfUi1oV2dBVHN4cHhGYzM5RXVrREJXcEg3QzNvTHlrZWhNV0NicWUyREgtTE4wN1FqQklMdUVLbnBkMURZTWRoUnRxOHR6TTJDQXFlUEhiRW0w?oc=5",
       "googleNewsUrl": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOd0dvNHdVWGtHRm41ODV4MGZGWEVFRWF5UUpKNWxHQkF5SUczUUpuNWpxWGdoSzlOZUFkMDNvMXI3SzgwTERFMVZOOG5DV3dGeXRRN3k1X0ROenNFUTNYX29HXzZ4dkV1WlhBNmpQTGtlRFFFUWNyakpCTWpucThKR1p3Y2FYSmc2SDZ3NDhmWEJicWRBN09PX0hHY1dQVFJwcFI0aXlfUi1oV2dBVHN4cHhGYzM5RXVrREJXcEg3QzNvTHlrZWhNV0NicWUyREgtTE4wN1FqQklMdUVLbnBkMURZTWRoUnRxOHR6TTJDQXFlUEhiRW0w?oc=5",
       "publishedAt": "2026-06-27T17:05:04.000Z",
+      "source": "MSN",
+      "_feedRegion": "us",
+      "_feedName": "FAA",
+      "_scoring": {
+        "score": 63,
+        "categories": [
+          "規制・政策",
+          "事故・事件"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
+          "incident": {
+            "matches": 1,
+            "catScore": 28
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 5,
+          "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "United jet's near-miss with drone at Newark triggers FAA probe",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxOM3VMRHJGYU5Xd1FBM0trV1gzVDR4cUNCYUlEYU5jOXJ5RWhWUW9Yd3dVa3l5WGJKOFJ4Wk0zOWpwVDhhVExUM0tncUlFM21uNER4R29DdHRfNTBjelFRbjBaU2FUVmQya3pxSkc1MzlRSzZ0Uy1la0FvcUN5Zm5vUG9BOS1XNXVhMml3a2YwdjhsQW96LVI4VEJtdWZ3emtNd2JYZXhQSWZTMUFRRElaMnNHTENxVUpsZEFhenZSRExKckhVMHhpeTBIbDdzd19Femw2d18tb2pqNFc0WWxYb0VfOHdvWXBrVXRwNFo5bFdMTXZKcmQ0?oc=5\" target=\"_blank\">United jet's near-miss with drone at Newark triggers FAA probe</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxOM3VMRHJGYU5Xd1FBM0trV1gzVDR4cUNCYUlEYU5jOXJ5RWhWUW9Yd3dVa3l5WGJKOFJ4Wk0zOWpwVDhhVExUM0tncUlFM21uNER4R29DdHRfNTBjelFRbjBaU2FUVmQya3pxSkc1MzlRSzZ0Uy1la0FvcUN5Zm5vUG9BOS1XNXVhMml3a2YwdjhsQW96LVI4VEJtdWZ3emtNd2JYZXhQSWZTMUFRRElaMnNHTENxVUpsZEFhenZSRExKckhVMHhpeTBIbDdzd19Femw2d18tb2pqNFc0WWxYb0VfOHdvWXBrVXRwNFo5bFdMTXZKcmQ0?oc=5\" target=\"_blank\">United jet's near-miss with drone at Newark triggers FAA probe</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOM3VMRHJGYU5Xd1FBM0trV1gzVDR4cUNCYUlEYU5jOXJ5RWhWUW9Yd3dVa3l5WGJKOFJ4Wk0zOWpwVDhhVExUM0tncUlFM21uNER4R29DdHRfNTBjelFRbjBaU2FUVmQya3pxSkc1MzlRSzZ0Uy1la0FvcUN5Zm5vUG9BOS1XNXVhMml3a2YwdjhsQW96LVI4VEJtdWZ3emtNd2JYZXhQSWZTMUFRRElaMnNHTENxVUpsZEFhenZSRExKckhVMHhpeTBIbDdzd19Femw2d18tb2pqNFc0WWxYb0VfOHdvWXBrVXRwNFo5bFdMTXZKcmQ0?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOM3VMRHJGYU5Xd1FBM0trV1gzVDR4cUNCYUlEYU5jOXJ5RWhWUW9Yd3dVa3l5WGJKOFJ4Wk0zOWpwVDhhVExUM0tncUlFM21uNER4R29DdHRfNTBjelFRbjBaU2FUVmQya3pxSkc1MzlRSzZ0Uy1la0FvcUN5Zm5vUG9BOS1XNXVhMml3a2YwdjhsQW96LVI4VEJtdWZ3emtNd2JYZXhQSWZTMUFRRElaMnNHTENxVUpsZEFhenZSRExKckhVMHhpeTBIbDdzd19Femw2d18tb2pqNFc0WWxYb0VfOHdvWXBrVXRwNFo5bFdMTXZKcmQ0?oc=5",
+      "publishedAt": "2026-06-28T05:48:49.000Z",
+      "source": "MSN",
+      "_feedRegion": "us",
+      "_feedName": "FAA",
+      "_scoring": {
+        "score": 63,
+        "categories": [
+          "規制・政策",
+          "事故・事件"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
+          "incident": {
+            "matches": 1,
+            "catScore": 28
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 5,
+          "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "FAA probes Newark near-miss between United jet and drone",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxQQkRSbDdOcHJSQnBGY0w5dGdUdDRRVmRYc1lOaUhtbHRWYlFZTk5Tc3pwYk5RZGdxQWJBbEJOZzZmT1VpcThYX3BwOXZaTS1NbUhaX1ZseHZGbTF5ZjI4OFNYYi1aM3RfYkRIVm5sSWhEMG03N0JrV1dhcVNhNVlQclMzMnBkTFBzSFhwdk9ZQkJxR0RtOWFsTkpPV2JrQnJWYTk4WVB3alVPMDFaemFMQmFFdVhmUUdiaWtSdFpHZUlrWE1kZkdwZFZJSzVLYlVhR3VlRVg5dkZJZWIybC1wQ2pSbUFjOWZiQjk5b1hIejI?oc=5\" target=\"_blank\">FAA probes Newark near-miss between United jet and drone</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxQQkRSbDdOcHJSQnBGY0w5dGdUdDRRVmRYc1lOaUhtbHRWYlFZTk5Tc3pwYk5RZGdxQWJBbEJOZzZmT1VpcThYX3BwOXZaTS1NbUhaX1ZseHZGbTF5ZjI4OFNYYi1aM3RfYkRIVm5sSWhEMG03N0JrV1dhcVNhNVlQclMzMnBkTFBzSFhwdk9ZQkJxR0RtOWFsTkpPV2JrQnJWYTk4WVB3alVPMDFaemFMQmFFdVhmUUdiaWtSdFpHZUlrWE1kZkdwZFZJSzVLYlVhR3VlRVg5dkZJZWIybC1wQ2pSbUFjOWZiQjk5b1hIejI?oc=5\" target=\"_blank\">FAA probes Newark near-miss between United jet and drone</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQQkRSbDdOcHJSQnBGY0w5dGdUdDRRVmRYc1lOaUhtbHRWYlFZTk5Tc3pwYk5RZGdxQWJBbEJOZzZmT1VpcThYX3BwOXZaTS1NbUhaX1ZseHZGbTF5ZjI4OFNYYi1aM3RfYkRIVm5sSWhEMG03N0JrV1dhcVNhNVlQclMzMnBkTFBzSFhwdk9ZQkJxR0RtOWFsTkpPV2JrQnJWYTk4WVB3alVPMDFaemFMQmFFdVhmUUdiaWtSdFpHZUlrWE1kZkdwZFZJSzVLYlVhR3VlRVg5dkZJZWIybC1wQ2pSbUFjOWZiQjk5b1hIejI?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQQkRSbDdOcHJSQnBGY0w5dGdUdDRRVmRYc1lOaUhtbHRWYlFZTk5Tc3pwYk5RZGdxQWJBbEJOZzZmT1VpcThYX3BwOXZaTS1NbUhaX1ZseHZGbTF5ZjI4OFNYYi1aM3RfYkRIVm5sSWhEMG03N0JrV1dhcVNhNVlQclMzMnBkTFBzSFhwdk9ZQkJxR0RtOWFsTkpPV2JrQnJWYTk4WVB3alVPMDFaemFMQmFFdVhmUUdiaWtSdFpHZUlrWE1kZkdwZFZJSzVLYlVhR3VlRVg5dkZJZWIybC1wQ2pSbUFjOWZiQjk5b1hIejI?oc=5",
+      "publishedAt": "2026-06-28T13:20:34.000Z",
       "source": "MSN",
       "_feedRegion": "us",
       "_feedName": "FAA",
@@ -749,12 +758,12 @@
       }
     },
     {
-      "title": "United jet's near-miss with drone at Newark triggers FAA probe",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxOM3VMRHJGYU5Xd1FBM0trV1gzVDR4cUNCYUlEYU5jOXJ5RWhWUW9Yd3dVa3l5WGJKOFJ4Wk0zOWpwVDhhVExUM0tncUlFM21uNER4R29DdHRfNTBjelFRbjBaU2FUVmQya3pxSkc1MzlRSzZ0Uy1la0FvcUN5Zm5vUG9BOS1XNXVhMml3a2YwdjhsQW96LVI4VEJtdWZ3emtNd2JYZXhQSWZTMUFRRElaMnNHTENxVUpsZEFhenZSRExKckhVMHhpeTBIbDdzd19Femw2d18tb2pqNFc0WWxYb0VfOHdvWXBrVXRwNFo5bFdMTXZKcmQ0?oc=5\" target=\"_blank\">United jet's near-miss with drone at Newark triggers FAA probe</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxOM3VMRHJGYU5Xd1FBM0trV1gzVDR4cUNCYUlEYU5jOXJ5RWhWUW9Yd3dVa3l5WGJKOFJ4Wk0zOWpwVDhhVExUM0tncUlFM21uNER4R29DdHRfNTBjelFRbjBaU2FUVmQya3pxSkc1MzlRSzZ0Uy1la0FvcUN5Zm5vUG9BOS1XNXVhMml3a2YwdjhsQW96LVI4VEJtdWZ3emtNd2JYZXhQSWZTMUFRRElaMnNHTENxVUpsZEFhenZSRExKckhVMHhpeTBIbDdzd19Femw2d18tb2pqNFc0WWxYb0VfOHdvWXBrVXRwNFo5bFdMTXZKcmQ0?oc=5\" target=\"_blank\">United jet's near-miss with drone at Newark triggers FAA probe</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOM3VMRHJGYU5Xd1FBM0trV1gzVDR4cUNCYUlEYU5jOXJ5RWhWUW9Yd3dVa3l5WGJKOFJ4Wk0zOWpwVDhhVExUM0tncUlFM21uNER4R29DdHRfNTBjelFRbjBaU2FUVmQya3pxSkc1MzlRSzZ0Uy1la0FvcUN5Zm5vUG9BOS1XNXVhMml3a2YwdjhsQW96LVI4VEJtdWZ3emtNd2JYZXhQSWZTMUFRRElaMnNHTENxVUpsZEFhenZSRExKckhVMHhpeTBIbDdzd19Femw2d18tb2pqNFc0WWxYb0VfOHdvWXBrVXRwNFo5bFdMTXZKcmQ0?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOM3VMRHJGYU5Xd1FBM0trV1gzVDR4cUNCYUlEYU5jOXJ5RWhWUW9Yd3dVa3l5WGJKOFJ4Wk0zOWpwVDhhVExUM0tncUlFM21uNER4R29DdHRfNTBjelFRbjBaU2FUVmQya3pxSkc1MzlRSzZ0Uy1la0FvcUN5Zm5vUG9BOS1XNXVhMml3a2YwdjhsQW96LVI4VEJtdWZ3emtNd2JYZXhQSWZTMUFRRElaMnNHTENxVUpsZEFhenZSRExKckhVMHhpeTBIbDdzd19Femw2d18tb2pqNFc0WWxYb0VfOHdvWXBrVXRwNFo5bFdMTXZKcmQ0?oc=5",
-      "publishedAt": "2026-06-28T03:48:49.000Z",
+      "title": "FAA probes near-miss between United flight and large drone",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxNbk5XQmhyRG5MZVdMaDZkek5TN1NpeDUwY2h3NTlHN2VBZnVpcmVnRWtWTndzMmpEaE1OeVVCNHZDa29hTkN6MjNrUFVydDJZc0hGNUFkNktLcEMzMHJqanNrdmVaQUUzU0JtNW8tQnF1SkNKQlVnSVB1S0FWT0g1bjhtREhETlUyYTNTb1N2Q0p6cXp5QUo3NENFT0duc2VSSUo5cmFKWGdkSUVESjZ6ekN0bVNVRHV2WWFrNXZXVkNBVjBOdDU4eUxzVmhKT240WDFkMlpFdGhUZWVvbDF4TjRmaG1hanY2SHY3eXk1bE9KQQ?oc=5\" target=\"_blank\">FAA probes near-miss between United flight and large drone</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxNbk5XQmhyRG5MZVdMaDZkek5TN1NpeDUwY2h3NTlHN2VBZnVpcmVnRWtWTndzMmpEaE1OeVVCNHZDa29hTkN6MjNrUFVydDJZc0hGNUFkNktLcEMzMHJqanNrdmVaQUUzU0JtNW8tQnF1SkNKQlVnSVB1S0FWT0g1bjhtREhETlUyYTNTb1N2Q0p6cXp5QUo3NENFT0duc2VSSUo5cmFKWGdkSUVESjZ6ekN0bVNVRHV2WWFrNXZXVkNBVjBOdDU4eUxzVmhKT240WDFkMlpFdGhUZWVvbDF4TjRmaG1hanY2SHY3eXk1bE9KQQ?oc=5\" target=\"_blank\">FAA probes near-miss between United flight and large drone</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNbk5XQmhyRG5MZVdMaDZkek5TN1NpeDUwY2h3NTlHN2VBZnVpcmVnRWtWTndzMmpEaE1OeVVCNHZDa29hTkN6MjNrUFVydDJZc0hGNUFkNktLcEMzMHJqanNrdmVaQUUzU0JtNW8tQnF1SkNKQlVnSVB1S0FWT0g1bjhtREhETlUyYTNTb1N2Q0p6cXp5QUo3NENFT0duc2VSSUo5cmFKWGdkSUVESjZ6ekN0bVNVRHV2WWFrNXZXVkNBVjBOdDU4eUxzVmhKT240WDFkMlpFdGhUZWVvbDF4TjRmaG1hanY2SHY3eXk1bE9KQQ?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNbk5XQmhyRG5MZVdMaDZkek5TN1NpeDUwY2h3NTlHN2VBZnVpcmVnRWtWTndzMmpEaE1OeVVCNHZDa29hTkN6MjNrUFVydDJZc0hGNUFkNktLcEMzMHJqanNrdmVaQUUzU0JtNW8tQnF1SkNKQlVnSVB1S0FWT0g1bjhtREhETlUyYTNTb1N2Q0p6cXp5QUo3NENFT0duc2VSSUo5cmFKWGdkSUVESjZ6ekN0bVNVRHV2WWFrNXZXVkNBVjBOdDU4eUxzVmhKT240WDFkMlpFdGhUZWVvbDF4TjRmaG1hanY2SHY3eXk1bE9KQQ?oc=5",
+      "publishedAt": "2026-06-28T13:24:41.000Z",
       "source": "MSN",
       "_feedRegion": "us",
       "_feedName": "FAA",
@@ -780,43 +789,6 @@
           },
           "freshness": 5,
           "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "神戸ウォーターフロント再開発の中核である「TOTTEI」に「空飛ぶクルマ」ポート整備に向けた事業検討を開始 ～オリックスとともに「空飛ぶクルマ事業化準備事業」に採択～ | 株式会社One Bright KOBEのプレスリリース",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE92UFEwcDRTbFJhTGNWdWptQnlWVThyOHlBVVVTOTFKUFRxTHlLaUVVSXFGZmo3aEhIX0ttNXJnNjlLdGNzTlFoTVI3Vi12dTVUV0tOQmNzWVI2WFAzZjBfMFpjNEtpU1ZtS0E?oc=5\" target=\"_blank\">神戸ウォーターフロント再開発の中核である「TOTTEI」に「空飛ぶクルマ」ポート整備に向けた事業検討を開始 ～オリックスとともに「空飛ぶクルマ事業化準備事業」に採択～ | 株式会社One Bright KOBEのプレスリリース</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR TIMES</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE92UFEwcDRTbFJhTGNWdWptQnlWVThyOHlBVVVTOTFKUFRxTHlLaUVVSXFGZmo3aEhIX0ttNXJnNjlLdGNzTlFoTVI3Vi12dTVUV0tOQmNzWVI2WFAzZjBfMFpjNEtpU1ZtS0E?oc=5\" target=\"_blank\">神戸ウォーターフロント再開発の中核である「TOTTEI」に「空飛ぶクルマ」ポート整備に向けた事業検討を開始 ～オリックスとともに「空飛ぶクルマ事業化準備事業」に採択～ | 株式会社One Bright KOBEのプレスリリース</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR TIMES</font>",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE92UFEwcDRTbFJhTGNWdWptQnlWVThyOHlBVVVTOTFKUFRxTHlLaUVVSXFGZmo3aEhIX0ttNXJnNjlLdGNzTlFoTVI3Vi12dTVUV0tOQmNzWVI2WFAzZjBfMFpjNEtpU1ZtS0E?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE92UFEwcDRTbFJhTGNWdWptQnlWVThyOHlBVVVTOTFKUFRxTHlLaUVVSXFGZmo3aEhIX0ttNXJnNjlLdGNzTlFoTVI3Vi12dTVUV0tOQmNzWVI2WFAzZjBfMFpjNEtpU1ZtS0E?oc=5",
-      "publishedAt": "2026-06-25T02:10:02.000Z",
-      "source": "PR TIMES",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP)",
-      "_scoring": {
-        "score": 63,
-        "categories": [
-          "技術・製品",
-          "政策・インフラ"
-        ],
-        "breakdown": {
-          "required": true,
-          "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "policy": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 0,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
         },
         "pass": true
       }
@@ -933,36 +905,63 @@
       }
     },
     {
-      "title": "川重とエアバス、ドローン開発で提携",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE0tMGs2N0NxQzdMWHR5XzdGYTJveUhrTGswcjhrNmo0NTV0a2xoRG9lSmtCUTdsUmRpdXQ5WVg2U2dic2JpazBxQTZFUmVTSVFr?oc=5\" target=\"_blank\">川重とエアバス、ドローン開発で提携</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">nnn.co.jp</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE0tMGs2N0NxQzdMWHR5XzdGYTJveUhrTGswcjhrNmo0NTV0a2xoRG9lSmtCUTdsUmRpdXQ5WVg2U2dic2JpazBxQTZFUmVTSVFr?oc=5\" target=\"_blank\">川重とエアバス、ドローン開発で提携</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">nnn.co.jp</font>",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0tMGs2N0NxQzdMWHR5XzdGYTJveUhrTGswcjhrNmo0NTV0a2xoRG9lSmtCUTdsUmRpdXQ5WVg2U2dic2JpazBxQTZFUmVTSVFr?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0tMGs2N0NxQzdMWHR5XzdGYTJveUhrTGswcjhrNmo0NTV0a2xoRG9lSmtCUTdsUmRpdXQ5WVg2U2dic2JpazBxQTZFUmVTSVFr?oc=5",
-      "publishedAt": "2026-06-26T12:03:36.000Z",
-      "source": "nnn.co.jp",
+      "title": "ドローンさえ規制していた北京で…軽飛行機が108階建てビルに衝突した謎（1）（中央日報日本語版）",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFB1dm5tR2NyN0E0NW9Ray1hcDVoUzFnMUlJUVRlbVBaWWNfWHkwZWRVdXlCc3NXUWdFNkxpUEpocHJpTTNKUU1GXzg5NTFQcFFzMkhCNWlldWtzS2FVaUNySkhtVEVXWmxNU1JRTkp1MURYbzlUNWJ6MF9hQ2FLUDQ?oc=5\" target=\"_blank\">ドローンさえ規制していた北京で…軽飛行機が108階建てビルに衝突した謎（1）（中央日報日本語版）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFB1dm5tR2NyN0E0NW9Ray1hcDVoUzFnMUlJUVRlbVBaWWNfWHkwZWRVdXlCc3NXUWdFNkxpUEpocHJpTTNKUU1GXzg5NTFQcFFzMkhCNWlldWtzS2FVaUNySkhtVEVXWmxNU1JRTkp1MURYbzlUNWJ6MF9hQ2FLUDQ?oc=5\" target=\"_blank\">ドローンさえ規制していた北京で…軽飛行機が108階建てビルに衝突した謎（1）（中央日報日本語版）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB1dm5tR2NyN0E0NW9Ray1hcDVoUzFnMUlJUVRlbVBaWWNfWHkwZWRVdXlCc3NXUWdFNkxpUEpocHJpTTNKUU1GXzg5NTFQcFFzMkhCNWlldWtzS2FVaUNySkhtVEVXWmxNU1JRTkp1MURYbzlUNWJ6MF9hQ2FLUDQ?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB1dm5tR2NyN0E0NW9Ray1hcDVoUzFnMUlJUVRlbVBaWWNfWHkwZWRVdXlCc3NXUWdFNkxpUEpocHJpTTNKUU1GXzg5NTFQcFFzMkhCNWlldWtzS2FVaUNySkhtVEVXWmxNU1JRTkp1MURYbzlUNWJ6MF9hQ2FLUDQ?oc=5",
+      "publishedAt": "2026-06-29T01:42:35.000Z",
+      "source": "Yahoo!ニュース",
       "_feedRegion": "jp",
-      "_feedName": "Google News (JP 政策/実証)",
+      "_feedName": "Google News (JP)",
       "_scoring": {
-        "score": 62,
+        "score": 61,
         "categories": [
-          "技術・製品",
-          "市場・資金"
+          "規制・政策"
         ],
         "breakdown": {
           "required": true,
-          "technology": {
+          "regulation": {
             "matches": 1,
-            "catScore": 24
-          },
-          "market": {
-            "matches": 1,
-            "catScore": 20
+            "catScore": 32
           },
           "sourceTrust": {
             "domain": "news.google.com",
             "multiplier": 0.8
           },
-          "freshness": 2,
+          "freshness": 10,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "ドローンさえ規制していた北京で…軽飛行機が108階建てビルに衝突した謎（2）（中央日報日本語版）",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFB0UEJXRWdSTERuYS1DQm14WTctbVExZDdOcmRMTHBjUUE3OUUwMzdXdThEc3VkVUJQZnIyWGpqZXJRS25Lbl9KZm4yWE9MWVplRWx6N01NWTBZVHd2SkEtekRIVkxtLUxXWmRjRHFyNktXTy1ENHNzc1pJN0c3X2c?oc=5\" target=\"_blank\">ドローンさえ規制していた北京で…軽飛行機が108階建てビルに衝突した謎（2）（中央日報日本語版）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFB0UEJXRWdSTERuYS1DQm14WTctbVExZDdOcmRMTHBjUUE3OUUwMzdXdThEc3VkVUJQZnIyWGpqZXJRS25Lbl9KZm4yWE9MWVplRWx6N01NWTBZVHd2SkEtekRIVkxtLUxXWmRjRHFyNktXTy1ENHNzc1pJN0c3X2c?oc=5\" target=\"_blank\">ドローンさえ規制していた北京で…軽飛行機が108階建てビルに衝突した謎（2）（中央日報日本語版）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB0UEJXRWdSTERuYS1DQm14WTctbVExZDdOcmRMTHBjUUE3OUUwMzdXdThEc3VkVUJQZnIyWGpqZXJRS25Lbl9KZm4yWE9MWVplRWx6N01NWTBZVHd2SkEtekRIVkxtLUxXWmRjRHFyNktXTy1ENHNzc1pJN0c3X2c?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB0UEJXRWdSTERuYS1DQm14WTctbVExZDdOcmRMTHBjUUE3OUUwMzdXdThEc3VkVUJQZnIyWGpqZXJRS25Lbl9KZm4yWE9MWVplRWx6N01NWTBZVHd2SkEtekRIVkxtLUxXWmRjRHFyNktXTy1ENHNzc1pJN0c3X2c?oc=5",
+      "publishedAt": "2026-06-29T01:42:37.000Z",
+      "source": "Yahoo!ニュース",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP)",
+      "_scoring": {
+        "score": 61,
+        "categories": [
+          "規制・政策"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 10,
           "titleBonus": 10,
           "jpRegionBonus": 15
         },
