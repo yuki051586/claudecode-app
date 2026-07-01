@@ -1,7 +1,53 @@
 {
-  "generatedAt": "2026-07-01T20:48:59.301Z",
-  "rawCount": 739,
+  "generatedAt": "2026-07-01T22:21:25.363Z",
+  "rawCount": 740,
   "articles": [
+    {
+      "title": "USA/ Plane collides with drone at New York airport, FAA launches investigation",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNT0YtUDJkelFOV2hRWENPVF9qUUxaRmNtQVhndFZvcnVzNXVpUFVHalptdXlDcmowR1Y4cFFpQTMtNnhtbEVNM08wNTliLThYUURINWtZaVVPemRVSmoybkVjSmpHNkVxUTAxOUpUdW9rVWpvcHk1VmpHUFM1VTJCaEpKTWhCOFJRZUFTaF9jajdvakRhWTlwd3BMNkp0NHdFbl94dk9rZ1BmQQ?oc=5\" target=\"_blank\">USA/ Plane collides with drone at New York airport, FAA launches investigation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Balkanweb.com</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNT0YtUDJkelFOV2hRWENPVF9qUUxaRmNtQVhndFZvcnVzNXVpUFVHalptdXlDcmowR1Y4cFFpQTMtNnhtbEVNM08wNTliLThYUURINWtZaVVPemRVSmoybkVjSmpHNkVxUTAxOUpUdW9rVWpvcHk1VmpHUFM1VTJCaEpKTWhCOFJRZUFTaF9jajdvakRhWTlwd3BMNkp0NHdFbl94dk9rZ1BmQQ?oc=5\" target=\"_blank\">USA/ Plane collides with drone at New York airport, FAA launches investigation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Balkanweb.com</font>",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNT0YtUDJkelFOV2hRWENPVF9qUUxaRmNtQVhndFZvcnVzNXVpUFVHalptdXlDcmowR1Y4cFFpQTMtNnhtbEVNM08wNTliLThYUURINWtZaVVPemRVSmoybkVjSmpHNkVxUTAxOUpUdW9rVWpvcHk1VmpHUFM1VTJCaEpKTWhCOFJRZUFTaF9jajdvakRhWTlwd3BMNkp0NHdFbl94dk9rZ1BmQQ?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNT0YtUDJkelFOV2hRWENPVF9qUUxaRmNtQVhndFZvcnVzNXVpUFVHalptdXlDcmowR1Y4cFFpQTMtNnhtbEVNM08wNTliLThYUURINWtZaVVPemRVSmoybkVjSmpHNkVxUTAxOUpUdW9rVWpvcHk1VmpHUFM1VTJCaEpKTWhCOFJRZUFTaF9jajdvakRhWTlwd3BMNkp0NHdFbl94dk9rZ1BmQQ?oc=5",
+      "publishedAt": "2026-06-30T07:10:00.000Z",
+      "source": "Balkanweb.com",
+      "_feedRegion": "us",
+      "_feedName": "FAA",
+      "_scoring": {
+        "score": 101,
+        "categories": [
+          "規制・政策",
+          "技術・製品",
+          "事故・事件",
+          "政策・インフラ"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "incident": {
+            "matches": 1,
+            "catScore": 28
+          },
+          "policy": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 5,
+          "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
     {
       "title": "JetBlue Drone Strike Report Near JFK Airport Prompts FAA Investigation",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPSUhHeDljaXJseWl1UlFPTXZqbUFsR1RLRGJxTUVmcFNVRDRNMXBFTFdVajNjTE96c1gtSHk0SnZHWGkyQm9TVEUtT1NqcjFzRjdFeHVFQTY4MHQ1WlhyakVnY1FtS1lGOEtINWttZ21zU3hzVnBLV3JZblhxS0lZN3VYQVUzRk5CcHNjOFI4cWh2VlIwai11ckxxYWNxQXNNak9nOWh2cEROZmN6SkduNndB?oc=5\" target=\"_blank\">JetBlue Drone Strike Report Near JFK Airport Prompts FAA Investigation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FTN news</font>",
@@ -13,7 +59,7 @@
       "_feedRegion": "us",
       "_feedName": "FAA",
       "_scoring": {
-        "score": 92,
+        "score": 87,
         "categories": [
           "規制・政策",
           "事故・事件",
@@ -37,7 +83,7 @@
             "domain": "news.google.com",
             "multiplier": 0.8
           },
-          "freshness": 15,
+          "freshness": 10,
           "titleBonus": 10
         },
         "pass": true
@@ -685,79 +731,6 @@
       }
     },
     {
-      "title": "トライアイズ---ストップ高、ドローン製造企業との業務提携を発表",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOX0U3SUNzOGgtOFd5Q2pXV0N2dm5ORDQ3YjVLdzVqU29WUDNMYjJCRGVvdmtLeTRFci11eGZpYzdyS1lNUTM1TWNjdlZ3ZURrUXlIQnpuU1NpY1BTY0Z4VmpnTnZkdmM3LUd5eHZRakwtZC1qa2RhS25DT09IU2pXUGczZHNXcUXSAYwBQVVfeXFMTmRmYUx4UDBrY28wU0hoS2dONnItYXNvSjItNmdZOGg1d2dnM00teGtnVmRfM2RYNEJmU1VxNVlOOV9OQUtQNGJMa3VTT25nOEdBQWpXNVFic2xPempOWThsWmlnVFpvaFpNSTc3ck5IMng2OXpzQ1VYOWdvVl9Bc19FMTJNNzhYSzRieUk?oc=5\" target=\"_blank\">トライアイズ---ストップ高、ドローン製造企業との業務提携を発表</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ｄメニューニュース</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOX0U3SUNzOGgtOFd5Q2pXV0N2dm5ORDQ3YjVLdzVqU29WUDNMYjJCRGVvdmtLeTRFci11eGZpYzdyS1lNUTM1TWNjdlZ3ZURrUXlIQnpuU1NpY1BTY0Z4VmpnTnZkdmM3LUd5eHZRakwtZC1qa2RhS25DT09IU2pXUGczZHNXcUXSAYwBQVVfeXFMTmRmYUx4UDBrY28wU0hoS2dONnItYXNvSjItNmdZOGg1d2dnM00teGtnVmRfM2RYNEJmU1VxNVlOOV9OQUtQNGJMa3VTT25nOEdBQWpXNVFic2xPempOWThsWmlnVFpvaFpNSTc3ck5IMng2OXpzQ1VYOWdvVl9Bc19FMTJNNzhYSzRieUk?oc=5\" target=\"_blank\">トライアイズ---ストップ高、ドローン製造企業との業務提携を発表</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ｄメニューニュース</font>",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOX0U3SUNzOGgtOFd5Q2pXV0N2dm5ORDQ3YjVLdzVqU29WUDNMYjJCRGVvdmtLeTRFci11eGZpYzdyS1lNUTM1TWNjdlZ3ZURrUXlIQnpuU1NpY1BTY0Z4VmpnTnZkdmM3LUd5eHZRakwtZC1qa2RhS25DT09IU2pXUGczZHNXcUXSAYwBQVVfeXFMTmRmYUx4UDBrY28wU0hoS2dONnItYXNvSjItNmdZOGg1d2dnM00teGtnVmRfM2RYNEJmU1VxNVlOOV9OQUtQNGJMa3VTT25nOEdBQWpXNVFic2xPempOWThsWmlnVFpvaFpNSTc3ck5IMng2OXpzQ1VYOWdvVl9Bc19FMTJNNzhYSzRieUk?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOX0U3SUNzOGgtOFd5Q2pXV0N2dm5ORDQ3YjVLdzVqU29WUDNMYjJCRGVvdmtLeTRFci11eGZpYzdyS1lNUTM1TWNjdlZ3ZURrUXlIQnpuU1NpY1BTY0Z4VmpnTnZkdmM3LUd5eHZRakwtZC1qa2RhS25DT09IU2pXUGczZHNXcUXSAYwBQVVfeXFMTmRmYUx4UDBrY28wU0hoS2dONnItYXNvSjItNmdZOGg1d2dnM00teGtnVmRfM2RYNEJmU1VxNVlOOV9OQUtQNGJMa3VTT25nOEdBQWpXNVFic2xPempOWThsWmlnVFpvaFpNSTc3ck5IMng2OXpzQ1VYOWdvVl9Bc19FMTJNNzhYSzRieUk?oc=5",
-      "publishedAt": "2026-06-18T01:28:00.000Z",
-      "source": "ｄメニューニュース",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP 政策/実証)",
-      "_scoring": {
-        "score": 64,
-        "categories": [
-          "技術・製品",
-          "市場・資金"
-        ],
-        "breakdown": {
-          "required": true,
-          "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "market": {
-            "matches": 2,
-            "catScore": 25
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 0,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "Drone Hits JetBlue Above JFK Cockpit: Fourth Incident in Four Days Exposes FAA Gap",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxOenF1TzFIYXhZcW05dzdla3NrckRKc2VNSktDWmRIb0JEaDFyZXNSRkY2WTZ2SE1zdjhRU2NFd3NUek9EMVF0RjZpa1Y4SVFXN2h6NlcxS252MWJvU0xnX3JRd0pWa0sxdW52cmZGaFRXN0l3Q0hEOXdCcXY5c09OaWF2djFfSEh6ekstUHZDa0I2bGxUeDVld0Z4OUVJR2RQbDFkeDVNdlFUaW9mTC1rbUhoTzRvaWI5bEdwRTZqakZHQ1EzWXZMRjVCSU5yZw?oc=5\" target=\"_blank\">Drone Hits JetBlue Above JFK Cockpit: Fourth Incident in Four Days Exposes FAA Gap</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tech Times</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxOenF1TzFIYXhZcW05dzdla3NrckRKc2VNSktDWmRIb0JEaDFyZXNSRkY2WTZ2SE1zdjhRU2NFd3NUek9EMVF0RjZpa1Y4SVFXN2h6NlcxS252MWJvU0xnX3JRd0pWa0sxdW52cmZGaFRXN0l3Q0hEOXdCcXY5c09OaWF2djFfSEh6ekstUHZDa0I2bGxUeDVld0Z4OUVJR2RQbDFkeDVNdlFUaW9mTC1rbUhoTzRvaWI5bEdwRTZqakZHQ1EzWXZMRjVCSU5yZw?oc=5\" target=\"_blank\">Drone Hits JetBlue Above JFK Cockpit: Fourth Incident in Four Days Exposes FAA Gap</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tech Times</font>",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOenF1TzFIYXhZcW05dzdla3NrckRKc2VNSktDWmRIb0JEaDFyZXNSRkY2WTZ2SE1zdjhRU2NFd3NUek9EMVF0RjZpa1Y4SVFXN2h6NlcxS252MWJvU0xnX3JRd0pWa0sxdW52cmZGaFRXN0l3Q0hEOXdCcXY5c09OaWF2djFfSEh6ekstUHZDa0I2bGxUeDVld0Z4OUVJR2RQbDFkeDVNdlFUaW9mTC1rbUhoTzRvaWI5bEdwRTZqakZHQ1EzWXZMRjVCSU5yZw?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOenF1TzFIYXhZcW05dzdla3NrckRKc2VNSktDWmRIb0JEaDFyZXNSRkY2WTZ2SE1zdjhRU2NFd3NUek9EMVF0RjZpa1Y4SVFXN2h6NlcxS252MWJvU0xnX3JRd0pWa0sxdW52cmZGaFRXN0l3Q0hEOXdCcXY5c09OaWF2djFfSEh6ekstUHZDa0I2bGxUeDVld0Z4OUVJR2RQbDFkeDVNdlFUaW9mTC1rbUhoTzRvaWI5bEdwRTZqakZHQ1EzWXZMRjVCSU5yZw?oc=5",
-      "publishedAt": "2026-06-29T22:03:55.000Z",
-      "source": "Tech Times",
-      "_feedRegion": "us",
-      "_feedName": "FAA",
-      "_scoring": {
-        "score": 63,
-        "categories": [
-          "規制・政策",
-          "事故・事件"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 1,
-            "catScore": 32
-          },
-          "incident": {
-            "matches": 1,
-            "catScore": 28
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 5,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
       "title": "FAA Investigates Drone Incident Involving JetBlue Flight Near JF",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNbXBiT2toMkVpV0F5ckVnbmRrVVRPcFFhbUtDT3lSTlFJamRzSDZNVklGSzVsZnpKbDdqeHk4Q2VscHFIV2tuQ0NNdVQ0aVIzLVBRRUZIWWFVdHZnMHRtUloxVWVGLWduRlVhMVBST0h0RkdpdVBZLXRfMmZ2b3NHZTJZdkYwemVrQzNoSXVjUnVjNGJKQXZIQUFNQUlVbTh0Wm5xT2hmSQ?oc=5\" target=\"_blank\">FAA Investigates Drone Incident Involving JetBlue Flight Near JF</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GuruFocus</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNbXBiT2toMkVpV0F5ckVnbmRrVVRPcFFhbUtDT3lSTlFJamRzSDZNVklGSzVsZnpKbDdqeHk4Q2VscHFIV2tuQ0NNdVQ0aVIzLVBRRUZIWWFVdHZnMHRtUloxVWVGLWduRlVhMVBST0h0RkdpdVBZLXRfMmZ2b3NHZTJZdkYwemVrQzNoSXVjUnVjNGJKQXZIQUFNQUlVbTh0Wm5xT2hmSQ?oc=5\" target=\"_blank\">FAA Investigates Drone Incident Involving JetBlue Flight Near JF</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GuruFocus</font>",
@@ -1083,20 +1056,20 @@
       }
     },
     {
-      "title": "JetBlue plane strikes suspected drone near JFK, FAA probing",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxOTjdKQkhKWnNaOXNxVVZpa2Q0c3ZBS2ZqTzB2U3d6dGxXbFNKX1RmdEtDVEVnejVKZXUyTnpPSFhaUTFUYWotQWZqQ20ybzhpU3NsN2FiSGRBVFRHSHN5dVFVTTg4YTNRZkxnZy12T094a1QwRzVYNjNaTVdYODNMVEZVVWlFODBlNEJwWnV5Mms4bUVGVHI0Y2hPUTM5dDFlNlZiZ01aQi0wMHNKWW5kc25sQmNHR3JCbEZNS3NLeHdvdVFIM0EwRlZNcEl6UFVBNWNyOWRfZlh3M3BYRHJqZS1LRkMtMzZqNFhsSElMQkl4dw?oc=5\" target=\"_blank\">JetBlue plane strikes suspected drone near JFK, FAA probing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxOTjdKQkhKWnNaOXNxVVZpa2Q0c3ZBS2ZqTzB2U3d6dGxXbFNKX1RmdEtDVEVnejVKZXUyTnpPSFhaUTFUYWotQWZqQ20ybzhpU3NsN2FiSGRBVFRHSHN5dVFVTTg4YTNRZkxnZy12T094a1QwRzVYNjNaTVdYODNMVEZVVWlFODBlNEJwWnV5Mms4bUVGVHI0Y2hPUTM5dDFlNlZiZ01aQi0wMHNKWW5kc25sQmNHR3JCbEZNS3NLeHdvdVFIM0EwRlZNcEl6UFVBNWNyOWRfZlh3M3BYRHJqZS1LRkMtMzZqNFhsSElMQkl4dw?oc=5\" target=\"_blank\">JetBlue plane strikes suspected drone near JFK, FAA probing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOTjdKQkhKWnNaOXNxVVZpa2Q0c3ZBS2ZqTzB2U3d6dGxXbFNKX1RmdEtDVEVnejVKZXUyTnpPSFhaUTFUYWotQWZqQ20ybzhpU3NsN2FiSGRBVFRHSHN5dVFVTTg4YTNRZkxnZy12T094a1QwRzVYNjNaTVdYODNMVEZVVWlFODBlNEJwWnV5Mms4bUVGVHI0Y2hPUTM5dDFlNlZiZ01aQi0wMHNKWW5kc25sQmNHR3JCbEZNS3NLeHdvdVFIM0EwRlZNcEl6UFVBNWNyOWRfZlh3M3BYRHJqZS1LRkMtMzZqNFhsSElMQkl4dw?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOTjdKQkhKWnNaOXNxVVZpa2Q0c3ZBS2ZqTzB2U3d6dGxXbFNKX1RmdEtDVEVnejVKZXUyTnpPSFhaUTFUYWotQWZqQ20ybzhpU3NsN2FiSGRBVFRHSHN5dVFVTTg4YTNRZkxnZy12T094a1QwRzVYNjNaTVdYODNMVEZVVWlFODBlNEJwWnV5Mms4bUVGVHI0Y2hPUTM5dDFlNlZiZ01aQi0wMHNKWW5kc25sQmNHR3JCbEZNS3NLeHdvdVFIM0EwRlZNcEl6UFVBNWNyOWRfZlh3M3BYRHJqZS1LRkMtMzZqNFhsSElMQkl4dw?oc=5",
-      "publishedAt": "2026-06-29T21:04:06.000Z",
-      "source": "MSN",
+      "title": "Drone Hits JetBlue Above JFK Cockpit: Fourth Incident in Four Days Exposes FAA Gap",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxOenF1TzFIYXhZcW05dzdla3NrckRKc2VNSktDWmRIb0JEaDFyZXNSRkY2WTZ2SE1zdjhRU2NFd3NUek9EMVF0RjZpa1Y4SVFXN2h6NlcxS252MWJvU0xnX3JRd0pWa0sxdW52cmZGaFRXN0l3Q0hEOXdCcXY5c09OaWF2djFfSEh6ekstUHZDa0I2bGxUeDVld0Z4OUVJR2RQbDFkeDVNdlFUaW9mTC1rbUhoTzRvaWI5bEdwRTZqakZHQ1EzWXZMRjVCSU5yZw?oc=5\" target=\"_blank\">Drone Hits JetBlue Above JFK Cockpit: Fourth Incident in Four Days Exposes FAA Gap</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tech Times</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxOenF1TzFIYXhZcW05dzdla3NrckRKc2VNSktDWmRIb0JEaDFyZXNSRkY2WTZ2SE1zdjhRU2NFd3NUek9EMVF0RjZpa1Y4SVFXN2h6NlcxS252MWJvU0xnX3JRd0pWa0sxdW52cmZGaFRXN0l3Q0hEOXdCcXY5c09OaWF2djFfSEh6ekstUHZDa0I2bGxUeDVld0Z4OUVJR2RQbDFkeDVNdlFUaW9mTC1rbUhoTzRvaWI5bEdwRTZqakZHQ1EzWXZMRjVCSU5yZw?oc=5\" target=\"_blank\">Drone Hits JetBlue Above JFK Cockpit: Fourth Incident in Four Days Exposes FAA Gap</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tech Times</font>",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOenF1TzFIYXhZcW05dzdla3NrckRKc2VNSktDWmRIb0JEaDFyZXNSRkY2WTZ2SE1zdjhRU2NFd3NUek9EMVF0RjZpa1Y4SVFXN2h6NlcxS252MWJvU0xnX3JRd0pWa0sxdW52cmZGaFRXN0l3Q0hEOXdCcXY5c09OaWF2djFfSEh6ekstUHZDa0I2bGxUeDVld0Z4OUVJR2RQbDFkeDVNdlFUaW9mTC1rbUhoTzRvaWI5bEdwRTZqakZHQ1EzWXZMRjVCSU5yZw?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOenF1TzFIYXhZcW05dzdla3NrckRKc2VNSktDWmRIb0JEaDFyZXNSRkY2WTZ2SE1zdjhRU2NFd3NUek9EMVF0RjZpa1Y4SVFXN2h6NlcxS252MWJvU0xnX3JRd0pWa0sxdW52cmZGaFRXN0l3Q0hEOXdCcXY5c09OaWF2djFfSEh6ekstUHZDa0I2bGxUeDVld0Z4OUVJR2RQbDFkeDVNdlFUaW9mTC1rbUhoTzRvaWI5bEdwRTZqakZHQ1EzWXZMRjVCSU5yZw?oc=5",
+      "publishedAt": "2026-06-29T22:03:55.000Z",
+      "source": "Tech Times",
       "_feedRegion": "us",
       "_feedName": "FAA",
       "_scoring": {
         "score": 60,
         "categories": [
           "規制・政策",
-          "技術・製品"
+          "事故・事件"
         ],
         "breakdown": {
           "required": true,
@@ -1104,7 +1077,43 @@
             "matches": 1,
             "catScore": 32
           },
-          "technology": {
+          "incident": {
+            "matches": 1,
+            "catScore": 28
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 2,
+          "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "JetBlue Flight News: FAA Investigates Possible Drone Strike During JFK Airport Landing",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNWVllZlF0RVdiRS1MUXBXSHJZUEVRMWJLaHYwZ2d4RjctZHBDMERMblRZNmxKWTlxRjhpSHJWUGpCMkE1VkxXOWllSXZYTFRaN1RNdml6VURLY0pCNDJkR0RBbHBXT20tS1FjejdjcXBYVHBsRlU0aDY1U3cteFFLV3JHak9kdF94VUhCRW0yb0dpbXdaWUdZWVlReHFYSnNOWTk3YUI0QlVvUUZnVzJoNA?oc=5\" target=\"_blank\">JetBlue Flight News: FAA Investigates Possible Drone Strike During JFK Airport Landing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aviation Jeta</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNWVllZlF0RVdiRS1MUXBXSHJZUEVRMWJLaHYwZ2d4RjctZHBDMERMblRZNmxKWTlxRjhpSHJWUGpCMkE1VkxXOWllSXZYTFRaN1RNdml6VURLY0pCNDJkR0RBbHBXT20tS1FjejdjcXBYVHBsRlU0aDY1U3cteFFLV3JHak9kdF94VUhCRW0yb0dpbXdaWUdZWVlReHFYSnNOWTk3YUI0QlVvUUZnVzJoNA?oc=5\" target=\"_blank\">JetBlue Flight News: FAA Investigates Possible Drone Strike During JFK Airport Landing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aviation Jeta</font>",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWVllZlF0RVdiRS1MUXBXSHJZUEVRMWJLaHYwZ2d4RjctZHBDMERMblRZNmxKWTlxRjhpSHJWUGpCMkE1VkxXOWllSXZYTFRaN1RNdml6VURLY0pCNDJkR0RBbHBXT20tS1FjejdjcXBYVHBsRlU0aDY1U3cteFFLV3JHak9kdF94VUhCRW0yb0dpbXdaWUdZWVlReHFYSnNOWTk3YUI0QlVvUUZnVzJoNA?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWVllZlF0RVdiRS1MUXBXSHJZUEVRMWJLaHYwZ2d4RjctZHBDMERMblRZNmxKWTlxRjhpSHJWUGpCMkE1VkxXOWllSXZYTFRaN1RNdml6VURLY0pCNDJkR0RBbHBXT20tS1FjejdjcXBYVHBsRlU0aDY1U3cteFFLV3JHak9kdF94VUhCRW0yb0dpbXdaWUdZWVlReHFYSnNOWTk3YUI0QlVvUUZnVzJoNA?oc=5",
+      "publishedAt": "2026-06-30T06:15:18.000Z",
+      "source": "Aviation Jeta",
+      "_feedRegion": "us",
+      "_feedName": "FAA",
+      "_scoring": {
+        "score": 60,
+        "categories": [
+          "規制・政策",
+          "政策・インフラ"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
+          "policy": {
             "matches": 1,
             "catScore": 24
           },
