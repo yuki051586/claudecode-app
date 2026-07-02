@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-01T22:21:25.363Z",
-  "rawCount": 740,
+  "generatedAt": "2026-07-02T00:13:44.868Z",
+  "rawCount": 738,
   "articles": [
     {
       "title": "USA/ Plane collides with drone at New York airport, FAA launches investigation",
@@ -44,6 +44,43 @@
           },
           "freshness": 5,
           "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "物流・災害対応向け大型VTOL「AS-H1」を展示、エアロセンスが第一種型式認証取得へ開発加速",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE5uY01Geng4cW5BOFA3dThNdnJkOUNxVjU4M1RIOHV5VVFTcWxnajJMT1EwYzRLRHRCaWlGUlRzZlZ5VDJ5NmhtYWVxMm4zeW12ZjJtV2hKZ1o2VnhfLTNaRHRST1MxOHlGVWdR?oc=5\" target=\"_blank\">物流・災害対応向け大型VTOL「AS-H1」を展示、エアロセンスが第一種型式認証取得へ開発加速</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ドローンジャーナル</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE5uY01Geng4cW5BOFA3dThNdnJkOUNxVjU4M1RIOHV5VVFTcWxnajJMT1EwYzRLRHRCaWlGUlRzZlZ5VDJ5NmhtYWVxMm4zeW12ZjJtV2hKZ1o2VnhfLTNaRHRST1MxOHlGVWdR?oc=5\" target=\"_blank\">物流・災害対応向け大型VTOL「AS-H1」を展示、エアロセンスが第一種型式認証取得へ開発加速</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ドローンジャーナル</font>",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5uY01Geng4cW5BOFA3dThNdnJkOUNxVjU4M1RIOHV5VVFTcWxnajJMT1EwYzRLRHRCaWlGUlRzZlZ5VDJ5NmhtYWVxMm4zeW12ZjJtV2hKZ1o2VnhfLTNaRHRST1MxOHlGVWdR?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5uY01Geng4cW5BOFA3dThNdnJkOUNxVjU4M1RIOHV5VVFTcWxnajJMT1EwYzRLRHRCaWlGUlRzZlZ5VDJ5NmhtYWVxMm4zeW12ZjJtV2hKZ1o2VnhfLTNaRHRST1MxOHlGVWdR?oc=5",
+      "publishedAt": "2026-07-01T22:00:00.000Z",
+      "source": "ドローンジャーナル",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP 経済メディア)",
+      "_scoring": {
+        "score": 95,
+        "categories": [
+          "規制・政策",
+          "技術・製品"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
+          "technology": {
+            "matches": 2,
+            "catScore": 30
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 20,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
         },
         "pass": true
       }
@@ -291,42 +328,6 @@
       }
     },
     {
-      "title": "UAE’s Lodd Launches Certification For Hili Cargo eVTOL",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUUtjYmQ2LUt3LVVma25oRENYdFFiYTZXb1JRMURoemp3WTR1VGdjeG15bG1KMlNxdzhZTE9pRGZ2THo1VFVhazdRalVyb1RMMHZwNUZDbUl3a1QtRlJMZFd1UlJGbm9LOFgwekxOY3lSeHVfanpPZi1mZkYxcjRMTzdnWGlJLTZvcGpjNkh1M1dTd3JPMXlkSFh5YVAtMEs2QXZ0cFpjS3ZPZw?oc=5\" target=\"_blank\">UAE’s Lodd Launches Certification For Hili Cargo eVTOL</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aviation Week</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUUtjYmQ2LUt3LVVma25oRENYdFFiYTZXb1JRMURoemp3WTR1VGdjeG15bG1KMlNxdzhZTE9pRGZ2THo1VFVhazdRalVyb1RMMHZwNUZDbUl3a1QtRlJMZFd1UlJGbm9LOFgwekxOY3lSeHVfanpPZi1mZkYxcjRMTzdnWGlJLTZvcGpjNkh1M1dTd3JPMXlkSFh5YVAtMEs2QXZ0cFpjS3ZPZw?oc=5\" target=\"_blank\">UAE’s Lodd Launches Certification For Hili Cargo eVTOL</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aviation Week</font>",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUUtjYmQ2LUt3LVVma25oRENYdFFiYTZXb1JRMURoemp3WTR1VGdjeG15bG1KMlNxdzhZTE9pRGZ2THo1VFVhazdRalVyb1RMMHZwNUZDbUl3a1QtRlJMZFd1UlJGbm9LOFgwekxOY3lSeHVfanpPZi1mZkYxcjRMTzdnWGlJLTZvcGpjNkh1M1dTd3JPMXlkSFh5YVAtMEs2QXZ0cFpjS3ZPZw?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUUtjYmQ2LUt3LVVma25oRENYdFFiYTZXb1JRMURoemp3WTR1VGdjeG15bG1KMlNxdzhZTE9pRGZ2THo1VFVhazdRalVyb1RMMHZwNUZDbUl3a1QtRlJMZFd1UlJGbm9LOFgwekxOY3lSeHVfanpPZi1mZkYxcjRMTzdnWGlJLTZvcGpjNkh1M1dTd3JPMXlkSFh5YVAtMEs2QXZ0cFpjS3ZPZw?oc=5",
-      "publishedAt": "2026-07-01T20:22:19.000Z",
-      "source": "Aviation Week",
-      "_feedRegion": "global",
-      "_feedName": "Google News (Global)",
-      "_scoring": {
-        "score": 75,
-        "categories": [
-          "規制・政策",
-          "技術・製品"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 1,
-            "catScore": 32
-          },
-          "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 20,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
       "title": "Liberaware Korea、韓国のドローン基盤インフラ管理プラットフォーム企業ALTIVIONと業務提携",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE91eFlTUkZVZXZEYzRHcmwyaWVvRFFoeVA2cDBTM1Ewb3BtLU1BeGp6YjQ5cERGeTB4REVwcG5iME9YOEUyNHp2akZIc2tYMFk1dFhwRmNsVGpDUUdheFVKWEhlOVprZTZ3blBoRWw5d1l1R1o5ZlczMw?oc=5\" target=\"_blank\">Liberaware Korea、韓国のドローン基盤インフラ管理プラットフォーム企業ALTIVIONと業務提携</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ドローンジャーナル</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE91eFlTUkZVZXZEYzRHcmwyaWVvRFFoeVA2cDBTM1Ewb3BtLU1BeGp6YjQ5cERGeTB4REVwcG5iME9YOEUyNHp2akZIc2tYMFk1dFhwRmNsVGpDUUdheFVKWEhlOVprZTZ3blBoRWw5d1l1R1o5ZlczMw?oc=5\" target=\"_blank\">Liberaware Korea、韓国のドローン基盤インフラ管理プラットフォーム企業ALTIVIONと業務提携</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ドローンジャーナル</font>",
@@ -386,6 +387,42 @@
             "catScore": 32
           },
           "policy": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 15,
+          "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "UAE’s Lodd Launches Certification For Hili Cargo eVTOL",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUUtjYmQ2LUt3LVVma25oRENYdFFiYTZXb1JRMURoemp3WTR1VGdjeG15bG1KMlNxdzhZTE9pRGZ2THo1VFVhazdRalVyb1RMMHZwNUZDbUl3a1QtRlJMZFd1UlJGbm9LOFgwekxOY3lSeHVfanpPZi1mZkYxcjRMTzdnWGlJLTZvcGpjNkh1M1dTd3JPMXlkSFh5YVAtMEs2QXZ0cFpjS3ZPZw?oc=5\" target=\"_blank\">UAE’s Lodd Launches Certification For Hili Cargo eVTOL</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aviation Week</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUUtjYmQ2LUt3LVVma25oRENYdFFiYTZXb1JRMURoemp3WTR1VGdjeG15bG1KMlNxdzhZTE9pRGZ2THo1VFVhazdRalVyb1RMMHZwNUZDbUl3a1QtRlJMZFd1UlJGbm9LOFgwekxOY3lSeHVfanpPZi1mZkYxcjRMTzdnWGlJLTZvcGpjNkh1M1dTd3JPMXlkSFh5YVAtMEs2QXZ0cFpjS3ZPZw?oc=5\" target=\"_blank\">UAE’s Lodd Launches Certification For Hili Cargo eVTOL</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aviation Week</font>",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUUtjYmQ2LUt3LVVma25oRENYdFFiYTZXb1JRMURoemp3WTR1VGdjeG15bG1KMlNxdzhZTE9pRGZ2THo1VFVhazdRalVyb1RMMHZwNUZDbUl3a1QtRlJMZFd1UlJGbm9LOFgwekxOY3lSeHVfanpPZi1mZkYxcjRMTzdnWGlJLTZvcGpjNkh1M1dTd3JPMXlkSFh5YVAtMEs2QXZ0cFpjS3ZPZw?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUUtjYmQ2LUt3LVVma25oRENYdFFiYTZXb1JRMURoemp3WTR1VGdjeG15bG1KMlNxdzhZTE9pRGZ2THo1VFVhazdRalVyb1RMMHZwNUZDbUl3a1QtRlJMZFd1UlJGbm9LOFgwekxOY3lSeHVfanpPZi1mZkYxcjRMTzdnWGlJLTZvcGpjNkh1M1dTd3JPMXlkSFh5YVAtMEs2QXZ0cFpjS3ZPZw?oc=5",
+      "publishedAt": "2026-07-01T20:22:19.000Z",
+      "source": "Aviation Week",
+      "_feedRegion": "global",
+      "_feedName": "Google News (Global)",
+      "_scoring": {
+        "score": 70,
+        "categories": [
+          "規制・政策",
+          "技術・製品"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
+          "technology": {
             "matches": 1,
             "catScore": 24
           },
@@ -553,7 +590,7 @@
       "content": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPb3k3VTZQcmZNUFo1Yzl1Rk12aE1UX2dWSzZsallYV0ZvVlZURW1HbTAwQnNmbWxfX3ZaMWVfdGNzeWlsY1BfOHpXMm9RSjVmM2xhZm1TQThPbURFREtDTGhoQ3BLTHJlX1ZaNUVCd3piNTFMbGprblRzbFVwcHpCUHM0LUM0VmdyTE5GeThuUXcyeWJZNDItMGY1OXhfOXc5cVkxWVFqOUFTdVB0SzFsZ3Z6ZXU3TUlYRGxCemtYTjZaSHQtOElKQ0hPTkE0Zw?oc=5\" target=\"_blank\">BCN Drone Center receives SAIL III authorisation for BVLOS operations in urban areas</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPb3k3VTZQcmZNUFo1Yzl1Rk12aE1UX2dWSzZsallYV0ZvVlZURW1HbTAwQnNmbWxfX3ZaMWVfdGNzeWlsY1BfOHpXMm9RSjVmM2xhZm1TQThPbURFREtDTGhoQ3BLTHJlX1ZaNUVCd3piNTFMbGprblRzbFVwcHpCUHM0LUM0VmdyTE5GeThuUXcyeWJZNDItMGY1OXhfOXc5cVkxWVFqOUFTdVB0SzFsZ3Z6ZXU3TUlYRGxCemtYTjZaSHQtOElKQ0hPTkE0Zw?oc=5",
       "googleNewsUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPb3k3VTZQcmZNUFo1Yzl1Rk12aE1UX2dWSzZsallYV0ZvVlZURW1HbTAwQnNmbWxfX3ZaMWVfdGNzeWlsY1BfOHpXMm9RSjVmM2xhZm1TQThPbURFREtDTGhoQ3BLTHJlX1ZaNUVCd3piNTFMbGprblRzbFVwcHpCUHM0LUM0VmdyTE5GeThuUXcyeWJZNDItMGY1OXhfOXc5cVkxWVFqOUFTdVB0SzFsZ3Z6ZXU3TUlYRGxCemtYTjZaSHQtOElKQ0hPTkE0Zw?oc=5",
-      "publishedAt": "2026-07-01T17:29:00.000Z",
+      "publishedAt": "2026-07-01T17:22:34.000Z",
       "source": "Unmanned airspace",
       "_feedRegion": "eu",
       "_feedName": "EASA",
@@ -578,42 +615,6 @@
             "multiplier": 0.8
           },
           "freshness": 15,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "FAA investigates drone encounters near New York airports",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE9IZXBfS2pDamhkX095VU44Y0EzSzVPMmpEb1Q5SGdGV2VZalp2S2VWRFQtdW9Sc21nMG5BbHdvME1tUVloa3dUdG1ndTlhajdxY0ptWEhn?oc=5\" target=\"_blank\">FAA investigates drone encounters near New York airports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox News</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE9IZXBfS2pDamhkX095VU44Y0EzSzVPMmpEb1Q5SGdGV2VZalp2S2VWRFQtdW9Sc21nMG5BbHdvME1tUVloa3dUdG1ndTlhajdxY0ptWEhn?oc=5\" target=\"_blank\">FAA investigates drone encounters near New York airports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox News</font>",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9IZXBfS2pDamhkX095VU44Y0EzSzVPMmpEb1Q5SGdGV2VZalp2S2VWRFQtdW9Sc21nMG5BbHdvME1tUVloa3dUdG1ndTlhajdxY0ptWEhn?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9IZXBfS2pDamhkX095VU44Y0EzSzVPMmpEb1Q5SGdGV2VZalp2S2VWRFQtdW9Sc21nMG5BbHdvME1tUVloa3dUdG1ndTlhajdxY0ptWEhn?oc=5",
-      "publishedAt": "2026-06-30T23:37:08.000Z",
-      "source": "Fox News",
-      "_feedRegion": "us",
-      "_feedName": "FAA",
-      "_scoring": {
-        "score": 65,
-        "categories": [
-          "規制・政策",
-          "政策・インフラ"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 1,
-            "catScore": 32
-          },
-          "policy": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 10,
           "titleBonus": 10
         },
         "pass": true
@@ -731,37 +732,38 @@
       }
     },
     {
-      "title": "FAA Investigates Drone Incident Involving JetBlue Flight Near JF",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNbXBiT2toMkVpV0F5ckVnbmRrVVRPcFFhbUtDT3lSTlFJamRzSDZNVklGSzVsZnpKbDdqeHk4Q2VscHFIV2tuQ0NNdVQ0aVIzLVBRRUZIWWFVdHZnMHRtUloxVWVGLWduRlVhMVBST0h0RkdpdVBZLXRfMmZ2b3NHZTJZdkYwemVrQzNoSXVjUnVjNGJKQXZIQUFNQUlVbTh0Wm5xT2hmSQ?oc=5\" target=\"_blank\">FAA Investigates Drone Incident Involving JetBlue Flight Near JF</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GuruFocus</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNbXBiT2toMkVpV0F5ckVnbmRrVVRPcFFhbUtDT3lSTlFJamRzSDZNVklGSzVsZnpKbDdqeHk4Q2VscHFIV2tuQ0NNdVQ0aVIzLVBRRUZIWWFVdHZnMHRtUloxVWVGLWduRlVhMVBST0h0RkdpdVBZLXRfMmZ2b3NHZTJZdkYwemVrQzNoSXVjUnVjNGJKQXZIQUFNQUlVbTh0Wm5xT2hmSQ?oc=5\" target=\"_blank\">FAA Investigates Drone Incident Involving JetBlue Flight Near JF</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GuruFocus</font>",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbXBiT2toMkVpV0F5ckVnbmRrVVRPcFFhbUtDT3lSTlFJamRzSDZNVklGSzVsZnpKbDdqeHk4Q2VscHFIV2tuQ0NNdVQ0aVIzLVBRRUZIWWFVdHZnMHRtUloxVWVGLWduRlVhMVBST0h0RkdpdVBZLXRfMmZ2b3NHZTJZdkYwemVrQzNoSXVjUnVjNGJKQXZIQUFNQUlVbTh0Wm5xT2hmSQ?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbXBiT2toMkVpV0F5ckVnbmRrVVRPcFFhbUtDT3lSTlFJamRzSDZNVklGSzVsZnpKbDdqeHk4Q2VscHFIV2tuQ0NNdVQ0aVIzLVBRRUZIWWFVdHZnMHRtUloxVWVGLWduRlVhMVBST0h0RkdpdVBZLXRfMmZ2b3NHZTJZdkYwemVrQzNoSXVjUnVjNGJKQXZIQUFNQUlVbTh0Wm5xT2hmSQ?oc=5",
-      "publishedAt": "2026-06-29T23:32:15.000Z",
-      "source": "GuruFocus",
-      "_feedRegion": "us",
-      "_feedName": "FAA",
+      "title": "トライアイズ---ストップ高、ドローン製造企業との業務提携を発表",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOX0U3SUNzOGgtOFd5Q2pXV0N2dm5ORDQ3YjVLdzVqU29WUDNMYjJCRGVvdmtLeTRFci11eGZpYzdyS1lNUTM1TWNjdlZ3ZURrUXlIQnpuU1NpY1BTY0Z4VmpnTnZkdmM3LUd5eHZRakwtZC1qa2RhS25DT09IU2pXUGczZHNXcUXSAYwBQVVfeXFMTmRmYUx4UDBrY28wU0hoS2dONnItYXNvSjItNmdZOGg1d2dnM00teGtnVmRfM2RYNEJmU1VxNVlOOV9OQUtQNGJMa3VTT25nOEdBQWpXNVFic2xPempOWThsWmlnVFpvaFpNSTc3ck5IMng2OXpzQ1VYOWdvVl9Bc19FMTJNNzhYSzRieUk?oc=5\" target=\"_blank\">トライアイズ---ストップ高、ドローン製造企業との業務提携を発表</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ｄメニューニュース</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOX0U3SUNzOGgtOFd5Q2pXV0N2dm5ORDQ3YjVLdzVqU29WUDNMYjJCRGVvdmtLeTRFci11eGZpYzdyS1lNUTM1TWNjdlZ3ZURrUXlIQnpuU1NpY1BTY0Z4VmpnTnZkdmM3LUd5eHZRakwtZC1qa2RhS25DT09IU2pXUGczZHNXcUXSAYwBQVVfeXFMTmRmYUx4UDBrY28wU0hoS2dONnItYXNvSjItNmdZOGg1d2dnM00teGtnVmRfM2RYNEJmU1VxNVlOOV9OQUtQNGJMa3VTT25nOEdBQWpXNVFic2xPempOWThsWmlnVFpvaFpNSTc3ck5IMng2OXpzQ1VYOWdvVl9Bc19FMTJNNzhYSzRieUk?oc=5\" target=\"_blank\">トライアイズ---ストップ高、ドローン製造企業との業務提携を発表</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ｄメニューニュース</font>",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOX0U3SUNzOGgtOFd5Q2pXV0N2dm5ORDQ3YjVLdzVqU29WUDNMYjJCRGVvdmtLeTRFci11eGZpYzdyS1lNUTM1TWNjdlZ3ZURrUXlIQnpuU1NpY1BTY0Z4VmpnTnZkdmM3LUd5eHZRakwtZC1qa2RhS25DT09IU2pXUGczZHNXcUXSAYwBQVVfeXFMTmRmYUx4UDBrY28wU0hoS2dONnItYXNvSjItNmdZOGg1d2dnM00teGtnVmRfM2RYNEJmU1VxNVlOOV9OQUtQNGJMa3VTT25nOEdBQWpXNVFic2xPempOWThsWmlnVFpvaFpNSTc3ck5IMng2OXpzQ1VYOWdvVl9Bc19FMTJNNzhYSzRieUk?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOX0U3SUNzOGgtOFd5Q2pXV0N2dm5ORDQ3YjVLdzVqU29WUDNMYjJCRGVvdmtLeTRFci11eGZpYzdyS1lNUTM1TWNjdlZ3ZURrUXlIQnpuU1NpY1BTY0Z4VmpnTnZkdmM3LUd5eHZRakwtZC1qa2RhS25DT09IU2pXUGczZHNXcUXSAYwBQVVfeXFMTmRmYUx4UDBrY28wU0hoS2dONnItYXNvSjItNmdZOGg1d2dnM00teGtnVmRfM2RYNEJmU1VxNVlOOV9OQUtQNGJMa3VTT25nOEdBQWpXNVFic2xPempOWThsWmlnVFpvaFpNSTc3ck5IMng2OXpzQ1VYOWdvVl9Bc19FMTJNNzhYSzRieUk?oc=5",
+      "publishedAt": "2026-06-18T01:28:00.000Z",
+      "source": "ｄメニューニュース",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP 政策/実証)",
       "_scoring": {
-        "score": 63,
+        "score": 64,
         "categories": [
-          "規制・政策",
-          "事故・事件"
+          "技術・製品",
+          "市場・資金"
         ],
         "breakdown": {
           "required": true,
-          "regulation": {
+          "technology": {
             "matches": 1,
-            "catScore": 32
+            "catScore": 24
           },
-          "incident": {
-            "matches": 1,
-            "catScore": 28
+          "market": {
+            "matches": 2,
+            "catScore": 25
           },
           "sourceTrust": {
             "domain": "news.google.com",
             "multiplier": 0.8
           },
-          "freshness": 5,
-          "titleBonus": 10
+          "freshness": 0,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
         },
         "pass": true
       }
@@ -948,42 +950,6 @@
       }
     },
     {
-      "title": "JetBlue flight hits drone on its way to JFK airport in NYC: FAA",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVWxsY09kVEYyRUhxTGgwWjBLS3pZcFRWNWxtb3ctOHpGVHd2ZkRfMGpOWmNqOHAwaEFnTUNucFRBVGpjOEN0OEh6ekdFUzBJWDdWNTZqVV9KeXM5MlFtSXc3dFVobmdlWkdQUlJkLWl3ZG9LN2tldU9QSkhYNUFZci1ZNlFNRWQ4NjQ00gGQAUFVX3lxTE1ZX3hNV1hPOFJwSmNBSlBnSXZWNnlyYk1hbjhqZHZ0QWpNYzNSZEtEbGtNZUJiWTlxS1c2SmlRd21sdy1RN24xc3ZfTEZoUWpPdnRBZmlFX1JEeldIc0MzOVRtdUE4MjJnUEtrTnFsbFI5ZjR3Z0EwY0RSdDMyS2poQldBWDJfNTJ0aUlOZlBPXw?oc=5\" target=\"_blank\">JetBlue flight hits drone on its way to JFK airport in NYC: FAA</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NewsNation</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVWxsY09kVEYyRUhxTGgwWjBLS3pZcFRWNWxtb3ctOHpGVHd2ZkRfMGpOWmNqOHAwaEFnTUNucFRBVGpjOEN0OEh6ekdFUzBJWDdWNTZqVV9KeXM5MlFtSXc3dFVobmdlWkdQUlJkLWl3ZG9LN2tldU9QSkhYNUFZci1ZNlFNRWQ4NjQ00gGQAUFVX3lxTE1ZX3hNV1hPOFJwSmNBSlBnSXZWNnlyYk1hbjhqZHZ0QWpNYzNSZEtEbGtNZUJiWTlxS1c2SmlRd21sdy1RN24xc3ZfTEZoUWpPdnRBZmlFX1JEeldIc0MzOVRtdUE4MjJnUEtrTnFsbFI5ZjR3Z0EwY0RSdDMyS2poQldBWDJfNTJ0aUlOZlBPXw?oc=5\" target=\"_blank\">JetBlue flight hits drone on its way to JFK airport in NYC: FAA</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NewsNation</font>",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVWxsY09kVEYyRUhxTGgwWjBLS3pZcFRWNWxtb3ctOHpGVHd2ZkRfMGpOWmNqOHAwaEFnTUNucFRBVGpjOEN0OEh6ekdFUzBJWDdWNTZqVV9KeXM5MlFtSXc3dFVobmdlWkdQUlJkLWl3ZG9LN2tldU9QSkhYNUFZci1ZNlFNRWQ4NjQ00gGQAUFVX3lxTE1ZX3hNV1hPOFJwSmNBSlBnSXZWNnlyYk1hbjhqZHZ0QWpNYzNSZEtEbGtNZUJiWTlxS1c2SmlRd21sdy1RN24xc3ZfTEZoUWpPdnRBZmlFX1JEeldIc0MzOVRtdUE4MjJnUEtrTnFsbFI5ZjR3Z0EwY0RSdDMyS2poQldBWDJfNTJ0aUlOZlBPXw?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVWxsY09kVEYyRUhxTGgwWjBLS3pZcFRWNWxtb3ctOHpGVHd2ZkRfMGpOWmNqOHAwaEFnTUNucFRBVGpjOEN0OEh6ekdFUzBJWDdWNTZqVV9KeXM5MlFtSXc3dFVobmdlWkdQUlJkLWl3ZG9LN2tldU9QSkhYNUFZci1ZNlFNRWQ4NjQ00gGQAUFVX3lxTE1ZX3hNV1hPOFJwSmNBSlBnSXZWNnlyYk1hbjhqZHZ0QWpNYzNSZEtEbGtNZUJiWTlxS1c2SmlRd21sdy1RN24xc3ZfTEZoUWpPdnRBZmlFX1JEeldIc0MzOVRtdUE4MjJnUEtrTnFsbFI5ZjR3Z0EwY0RSdDMyS2poQldBWDJfNTJ0aUlOZlBPXw?oc=5",
-      "publishedAt": "2026-06-29T22:55:25.000Z",
-      "source": "NewsNation",
-      "_feedRegion": "us",
-      "_feedName": "FAA",
-      "_scoring": {
-        "score": 60,
-        "categories": [
-          "規制・政策",
-          "政策・インフラ"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 1,
-            "catScore": 32
-          },
-          "policy": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 5,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
       "title": "Learn about the JetBlue pilot's report of a drone collision near JFK and the ongoing FAA investigation.",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxNY0Z5Z2xLajdVRVFHMUFNMzhndWc4YkJlcUFDaTM4SnpXcXVqX2ZHV1ZpZDJSOUMtZUJKWk1sSmZ4Y1owSG9TM0toSVFnc2E2UXhQem9pS3dDWnRuQml3WjZ6bXdDdVpjeWotZnA4dExnRk5lYndJM2RDR2p2SXZVMnEyQmJKaFJIM2JLeUt2bHZNQnlVSldCV1JMVnVoV09VOS0tb3ZmVkVDY25BVFhWcnFoRHhRU1pydXlFR0ctU0hkM0prSkxqZ042XzFpTVlwTjI3VXRLOVNUQQ?oc=5\" target=\"_blank\">Learn about the JetBlue pilot's report of a drone collision near JFK and the ongoing FAA investigation.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">facebook.com</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxNY0Z5Z2xLajdVRVFHMUFNMzhndWc4YkJlcUFDaTM4SnpXcXVqX2ZHV1ZpZDJSOUMtZUJKWk1sSmZ4Y1owSG9TM0toSVFnc2E2UXhQem9pS3dDWnRuQml3WjZ6bXdDdVpjeWotZnA4dExnRk5lYndJM2RDR2p2SXZVMnEyQmJKaFJIM2JLeUt2bHZNQnlVSldCV1JMVnVoV09VOS0tb3ZmVkVDY25BVFhWcnFoRHhRU1pydXlFR0ctU0hkM0prSkxqZ042XzFpTVlwTjI3VXRLOVNUQQ?oc=5\" target=\"_blank\">Learn about the JetBlue pilot's report of a drone collision near JFK and the ongoing FAA investigation.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">facebook.com</font>",
@@ -1014,6 +980,42 @@
             "multiplier": 0.8
           },
           "freshness": 2,
+          "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "FAA investigates drone encounters near New York airports",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE9IZXBfS2pDamhkX095VU44Y0EzSzVPMmpEb1Q5SGdGV2VZalp2S2VWRFQtdW9Sc21nMG5BbHdvME1tUVloa3dUdG1ndTlhajdxY0ptWEhn?oc=5\" target=\"_blank\">FAA investigates drone encounters near New York airports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox News</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE9IZXBfS2pDamhkX095VU44Y0EzSzVPMmpEb1Q5SGdGV2VZalp2S2VWRFQtdW9Sc21nMG5BbHdvME1tUVloa3dUdG1ndTlhajdxY0ptWEhn?oc=5\" target=\"_blank\">FAA investigates drone encounters near New York airports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox News</font>",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9IZXBfS2pDamhkX095VU44Y0EzSzVPMmpEb1Q5SGdGV2VZalp2S2VWRFQtdW9Sc21nMG5BbHdvME1tUVloa3dUdG1ndTlhajdxY0ptWEhn?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9IZXBfS2pDamhkX095VU44Y0EzSzVPMmpEb1Q5SGdGV2VZalp2S2VWRFQtdW9Sc21nMG5BbHdvME1tUVloa3dUdG1ndTlhajdxY0ptWEhn?oc=5",
+      "publishedAt": "2026-06-30T23:37:08.000Z",
+      "source": "Fox News",
+      "_feedRegion": "us",
+      "_feedName": "FAA",
+      "_scoring": {
+        "score": 60,
+        "categories": [
+          "規制・政策",
+          "政策・インフラ"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
+          "policy": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 5,
           "titleBonus": 10
         },
         "pass": true
@@ -1092,20 +1094,20 @@
       }
     },
     {
-      "title": "JetBlue Flight News: FAA Investigates Possible Drone Strike During JFK Airport Landing",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNWVllZlF0RVdiRS1MUXBXSHJZUEVRMWJLaHYwZ2d4RjctZHBDMERMblRZNmxKWTlxRjhpSHJWUGpCMkE1VkxXOWllSXZYTFRaN1RNdml6VURLY0pCNDJkR0RBbHBXT20tS1FjejdjcXBYVHBsRlU0aDY1U3cteFFLV3JHak9kdF94VUhCRW0yb0dpbXdaWUdZWVlReHFYSnNOWTk3YUI0QlVvUUZnVzJoNA?oc=5\" target=\"_blank\">JetBlue Flight News: FAA Investigates Possible Drone Strike During JFK Airport Landing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aviation Jeta</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNWVllZlF0RVdiRS1MUXBXSHJZUEVRMWJLaHYwZ2d4RjctZHBDMERMblRZNmxKWTlxRjhpSHJWUGpCMkE1VkxXOWllSXZYTFRaN1RNdml6VURLY0pCNDJkR0RBbHBXT20tS1FjejdjcXBYVHBsRlU0aDY1U3cteFFLV3JHak9kdF94VUhCRW0yb0dpbXdaWUdZWVlReHFYSnNOWTk3YUI0QlVvUUZnVzJoNA?oc=5\" target=\"_blank\">JetBlue Flight News: FAA Investigates Possible Drone Strike During JFK Airport Landing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aviation Jeta</font>",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWVllZlF0RVdiRS1MUXBXSHJZUEVRMWJLaHYwZ2d4RjctZHBDMERMblRZNmxKWTlxRjhpSHJWUGpCMkE1VkxXOWllSXZYTFRaN1RNdml6VURLY0pCNDJkR0RBbHBXT20tS1FjejdjcXBYVHBsRlU0aDY1U3cteFFLV3JHak9kdF94VUhCRW0yb0dpbXdaWUdZWVlReHFYSnNOWTk3YUI0QlVvUUZnVzJoNA?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWVllZlF0RVdiRS1MUXBXSHJZUEVRMWJLaHYwZ2d4RjctZHBDMERMblRZNmxKWTlxRjhpSHJWUGpCMkE1VkxXOWllSXZYTFRaN1RNdml6VURLY0pCNDJkR0RBbHBXT20tS1FjejdjcXBYVHBsRlU0aDY1U3cteFFLV3JHak9kdF94VUhCRW0yb0dpbXdaWUdZWVlReHFYSnNOWTk3YUI0QlVvUUZnVzJoNA?oc=5",
-      "publishedAt": "2026-06-30T06:15:18.000Z",
-      "source": "Aviation Jeta",
+      "title": "FAA Investigates Drone Incident Involving JetBlue Flight Near JF",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNbXBiT2toMkVpV0F5ckVnbmRrVVRPcFFhbUtDT3lSTlFJamRzSDZNVklGSzVsZnpKbDdqeHk4Q2VscHFIV2tuQ0NNdVQ0aVIzLVBRRUZIWWFVdHZnMHRtUloxVWVGLWduRlVhMVBST0h0RkdpdVBZLXRfMmZ2b3NHZTJZdkYwemVrQzNoSXVjUnVjNGJKQXZIQUFNQUlVbTh0Wm5xT2hmSQ?oc=5\" target=\"_blank\">FAA Investigates Drone Incident Involving JetBlue Flight Near JF</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GuruFocus</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNbXBiT2toMkVpV0F5ckVnbmRrVVRPcFFhbUtDT3lSTlFJamRzSDZNVklGSzVsZnpKbDdqeHk4Q2VscHFIV2tuQ0NNdVQ0aVIzLVBRRUZIWWFVdHZnMHRtUloxVWVGLWduRlVhMVBST0h0RkdpdVBZLXRfMmZ2b3NHZTJZdkYwemVrQzNoSXVjUnVjNGJKQXZIQUFNQUlVbTh0Wm5xT2hmSQ?oc=5\" target=\"_blank\">FAA Investigates Drone Incident Involving JetBlue Flight Near JF</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GuruFocus</font>",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbXBiT2toMkVpV0F5ckVnbmRrVVRPcFFhbUtDT3lSTlFJamRzSDZNVklGSzVsZnpKbDdqeHk4Q2VscHFIV2tuQ0NNdVQ0aVIzLVBRRUZIWWFVdHZnMHRtUloxVWVGLWduRlVhMVBST0h0RkdpdVBZLXRfMmZ2b3NHZTJZdkYwemVrQzNoSXVjUnVjNGJKQXZIQUFNQUlVbTh0Wm5xT2hmSQ?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbXBiT2toMkVpV0F5ckVnbmRrVVRPcFFhbUtDT3lSTlFJamRzSDZNVklGSzVsZnpKbDdqeHk4Q2VscHFIV2tuQ0NNdVQ0aVIzLVBRRUZIWWFVdHZnMHRtUloxVWVGLWduRlVhMVBST0h0RkdpdVBZLXRfMmZ2b3NHZTJZdkYwemVrQzNoSXVjUnVjNGJKQXZIQUFNQUlVbTh0Wm5xT2hmSQ?oc=5",
+      "publishedAt": "2026-06-29T23:32:15.000Z",
+      "source": "GuruFocus",
       "_feedRegion": "us",
       "_feedName": "FAA",
       "_scoring": {
         "score": 60,
         "categories": [
           "規制・政策",
-          "政策・インフラ"
+          "事故・事件"
         ],
         "breakdown": {
           "required": true,
@@ -1113,15 +1115,15 @@
             "matches": 1,
             "catScore": 32
           },
-          "policy": {
+          "incident": {
             "matches": 1,
-            "catScore": 24
+            "catScore": 28
           },
           "sourceTrust": {
             "domain": "news.google.com",
             "multiplier": 0.8
           },
-          "freshness": 5,
+          "freshness": 2,
           "titleBonus": 10
         },
         "pass": true
