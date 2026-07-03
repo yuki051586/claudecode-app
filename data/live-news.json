@@ -1,7 +1,48 @@
 {
-  "generatedAt": "2026-07-03T15:19:41.345Z",
-  "rawCount": 745,
+  "generatedAt": "2026-07-03T17:37:58.108Z",
+  "rawCount": 746,
   "articles": [
+    {
+      "title": "Nice Airport’s collaboration with Joby paves the way for air taxi services",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPLTUxOXZaV0JPSF84d1U5M0oybXl6ajdkeFJzUnFsMEMtVmpweW1sbVBndEFsZVkzWXhManZqRm5vLV9zSFBUUW1lQThQMGV6UGpUZGh2TzV0dk5qVjZOR3RPaTZNZWR4WDBEd3hvYmtLRW1FNTVHNllmUi1DWEowYVR1Tzc0SVVtOG90SXNoWFNrRTBSd1pUTmdJeDlWeVprRlpQbUE1bnVBeVZNSXgwdA?oc=5\" target=\"_blank\">Nice Airport’s collaboration with Joby paves the way for air taxi services</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aerospace Global News</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPLTUxOXZaV0JPSF84d1U5M0oybXl6ajdkeFJzUnFsMEMtVmpweW1sbVBndEFsZVkzWXhManZqRm5vLV9zSFBUUW1lQThQMGV6UGpUZGh2TzV0dk5qVjZOR3RPaTZNZWR4WDBEd3hvYmtLRW1FNTVHNllmUi1DWEowYVR1Tzc0SVVtOG90SXNoWFNrRTBSd1pUTmdJeDlWeVprRlpQbUE1bnVBeVZNSXgwdA?oc=5\" target=\"_blank\">Nice Airport’s collaboration with Joby paves the way for air taxi services</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aerospace Global News</font>",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPLTUxOXZaV0JPSF84d1U5M0oybXl6ajdkeFJzUnFsMEMtVmpweW1sbVBndEFsZVkzWXhManZqRm5vLV9zSFBUUW1lQThQMGV6UGpUZGh2TzV0dk5qVjZOR3RPaTZNZWR4WDBEd3hvYmtLRW1FNTVHNllmUi1DWEowYVR1Tzc0SVVtOG90SXNoWFNrRTBSd1pUTmdJeDlWeVprRlpQbUE1bnVBeVZNSXgwdA?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPLTUxOXZaV0JPSF84d1U5M0oybXl6ajdkeFJzUnFsMEMtVmpweW1sbVBndEFsZVkzWXhManZqRm5vLV9zSFBUUW1lQThQMGV6UGpUZGh2TzV0dk5qVjZOR3RPaTZNZWR4WDBEd3hvYmtLRW1FNTVHNllmUi1DWEowYVR1Tzc0SVVtOG90SXNoWFNrRTBSd1pUTmdJeDlWeVprRlpQbUE1bnVBeVZNSXgwdA?oc=5",
+      "publishedAt": "2026-07-03T16:47:18.000Z",
+      "source": "Aerospace Global News",
+      "_feedRegion": "global",
+      "_feedName": "Google News (Global)",
+      "_scoring": {
+        "score": 84,
+        "categories": [
+          "技術・製品",
+          "市場・資金",
+          "政策・インフラ"
+        ],
+        "breakdown": {
+          "required": true,
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "market": {
+            "matches": 1,
+            "catScore": 20
+          },
+          "policy": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 20,
+          "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
     {
       "title": "物流・災害対応向け大型VTOL「AS-H1」を展示、エアロセンスが第一種型式認証取得へ開発加速",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE9UcGVoLS15dnQ2OFI3dHFDNGgtS3lSNEZoZ1FNYkd3RXNOb0cxMG1rd2JjMVlFNktMX0l5RXZ2OHdtNkFxVjRlTkg0NXFKYlJ0bWhtMHBwRFNZdkJCLWRsYVVXWUpLbWJrc0hBcUxJWnVOc29XZjd2RXZn?oc=5\" target=\"_blank\">物流・災害対応向け大型VTOL「AS-H1」を展示、エアロセンスが第一種型式認証取得へ開発加速</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ドローンジャーナル</font>",
@@ -35,47 +76,6 @@
           "freshness": 5,
           "titleBonus": 10,
           "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "Drone over NYC crashes into plane flying into JFK Airport; FAA investigating",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNckllSWdBelhXazJJUU02Vnp4U3ZzbjFJRTNJdXNhSHVWeGxZYW81V0kwVDlNSEkxbWZJRU9qcDJxNnJfNnJGMXJPRjJoVDlnWG1YSklpNUxObVlzTk5zVUt5RGJ4Z0o0SWJHMjhmZXhOa01lRlBLemFLdGVfWXBDUWo4aHNhV1N2bDFqX2VBZ054MmRQQkpETjFabmlGSl9aOTh2SzZiOGJFU3dpbHpuOXJTNFhHb0nSAcsBQVVfeXFMTUw1NlZsODd5Yk50TzFMdVdyZVJweHJJNTVxd0xCRGJla0pzTXA2MUM1cnBlMGJLcks1WGJSam85WHVUZ3drdWlfSWUxY3RIQ0F2RlNSRzRTZVFkNFpXSlV6eTV5NmdWMGhiSHBhMmpaREFOMU1MTVFKSUxHNUlmVGlfcDJrRUZMTGtERzFOSDhnenB6UjQyUGtuVVE2Ukx1WXlaUnFHc3Y2V280aVdrdGJfOVRpblRKX3VIOXVJQWt3OXU2bm1RUko2Qjg?oc=5\" target=\"_blank\">Drone over NYC crashes into plane flying into JFK Airport; FAA investigating</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SILive.com</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNckllSWdBelhXazJJUU02Vnp4U3ZzbjFJRTNJdXNhSHVWeGxZYW81V0kwVDlNSEkxbWZJRU9qcDJxNnJfNnJGMXJPRjJoVDlnWG1YSklpNUxObVlzTk5zVUt5RGJ4Z0o0SWJHMjhmZXhOa01lRlBLemFLdGVfWXBDUWo4aHNhV1N2bDFqX2VBZ054MmRQQkpETjFabmlGSl9aOTh2SzZiOGJFU3dpbHpuOXJTNFhHb0nSAcsBQVVfeXFMTUw1NlZsODd5Yk50TzFMdVdyZVJweHJJNTVxd0xCRGJla0pzTXA2MUM1cnBlMGJLcks1WGJSam85WHVUZ3drdWlfSWUxY3RIQ0F2RlNSRzRTZVFkNFpXSlV6eTV5NmdWMGhiSHBhMmpaREFOMU1MTVFKSUxHNUlmVGlfcDJrRUZMTGtERzFOSDhnenB6UjQyUGtuVVE2Ukx1WXlaUnFHc3Y2V280aVdrdGJfOVRpblRKX3VIOXVJQWt3OXU2bm1RUko2Qjg?oc=5\" target=\"_blank\">Drone over NYC crashes into plane flying into JFK Airport; FAA investigating</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SILive.com</font>",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNckllSWdBelhXazJJUU02Vnp4U3ZzbjFJRTNJdXNhSHVWeGxZYW81V0kwVDlNSEkxbWZJRU9qcDJxNnJfNnJGMXJPRjJoVDlnWG1YSklpNUxObVlzTk5zVUt5RGJ4Z0o0SWJHMjhmZXhOa01lRlBLemFLdGVfWXBDUWo4aHNhV1N2bDFqX2VBZ054MmRQQkpETjFabmlGSl9aOTh2SzZiOGJFU3dpbHpuOXJTNFhHb0nSAcsBQVVfeXFMTUw1NlZsODd5Yk50TzFMdVdyZVJweHJJNTVxd0xCRGJla0pzTXA2MUM1cnBlMGJLcks1WGJSam85WHVUZ3drdWlfSWUxY3RIQ0F2RlNSRzRTZVFkNFpXSlV6eTV5NmdWMGhiSHBhMmpaREFOMU1MTVFKSUxHNUlmVGlfcDJrRUZMTGtERzFOSDhnenB6UjQyUGtuVVE2Ukx1WXlaUnFHc3Y2V280aVdrdGJfOVRpblRKX3VIOXVJQWt3OXU2bm1RUko2Qjg?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNckllSWdBelhXazJJUU02Vnp4U3ZzbjFJRTNJdXNhSHVWeGxZYW81V0kwVDlNSEkxbWZJRU9qcDJxNnJfNnJGMXJPRjJoVDlnWG1YSklpNUxObVlzTk5zVUt5RGJ4Z0o0SWJHMjhmZXhOa01lRlBLemFLdGVfWXBDUWo4aHNhV1N2bDFqX2VBZ054MmRQQkpETjFabmlGSl9aOTh2SzZiOGJFU3dpbHpuOXJTNFhHb0nSAcsBQVVfeXFMTUw1NlZsODd5Yk50TzFMdVdyZVJweHJJNTVxd0xCRGJla0pzTXA2MUM1cnBlMGJLcks1WGJSam85WHVUZ3drdWlfSWUxY3RIQ0F2RlNSRzRTZVFkNFpXSlV6eTV5NmdWMGhiSHBhMmpaREFOMU1MTVFKSUxHNUlmVGlfcDJrRUZMTGtERzFOSDhnenB6UjQyUGtuVVE2Ukx1WXlaUnFHc3Y2V280aVdrdGJfOVRpblRKX3VIOXVJQWt3OXU2bm1RUko2Qjg?oc=5",
-      "publishedAt": "2026-06-30T17:35:00.000Z",
-      "source": "SILive.com",
-      "_feedRegion": "us",
-      "_feedName": "FAA",
-      "_scoring": {
-        "score": 79,
-        "categories": [
-          "規制・政策",
-          "事故・事件",
-          "政策・インフラ"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 1,
-            "catScore": 32
-          },
-          "incident": {
-            "matches": 1,
-            "catScore": 28
-          },
-          "policy": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 2,
-          "titleBonus": 10
         },
         "pass": true
       }
@@ -163,6 +163,47 @@
       }
     },
     {
+      "title": "Drone over NYC crashes into plane flying into JFK Airport; FAA investigating",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNckllSWdBelhXazJJUU02Vnp4U3ZzbjFJRTNJdXNhSHVWeGxZYW81V0kwVDlNSEkxbWZJRU9qcDJxNnJfNnJGMXJPRjJoVDlnWG1YSklpNUxObVlzTk5zVUt5RGJ4Z0o0SWJHMjhmZXhOa01lRlBLemFLdGVfWXBDUWo4aHNhV1N2bDFqX2VBZ054MmRQQkpETjFabmlGSl9aOTh2SzZiOGJFU3dpbHpuOXJTNFhHb0nSAcsBQVVfeXFMTUw1NlZsODd5Yk50TzFMdVdyZVJweHJJNTVxd0xCRGJla0pzTXA2MUM1cnBlMGJLcks1WGJSam85WHVUZ3drdWlfSWUxY3RIQ0F2RlNSRzRTZVFkNFpXSlV6eTV5NmdWMGhiSHBhMmpaREFOMU1MTVFKSUxHNUlmVGlfcDJrRUZMTGtERzFOSDhnenB6UjQyUGtuVVE2Ukx1WXlaUnFHc3Y2V280aVdrdGJfOVRpblRKX3VIOXVJQWt3OXU2bm1RUko2Qjg?oc=5\" target=\"_blank\">Drone over NYC crashes into plane flying into JFK Airport; FAA investigating</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SILive.com</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNckllSWdBelhXazJJUU02Vnp4U3ZzbjFJRTNJdXNhSHVWeGxZYW81V0kwVDlNSEkxbWZJRU9qcDJxNnJfNnJGMXJPRjJoVDlnWG1YSklpNUxObVlzTk5zVUt5RGJ4Z0o0SWJHMjhmZXhOa01lRlBLemFLdGVfWXBDUWo4aHNhV1N2bDFqX2VBZ054MmRQQkpETjFabmlGSl9aOTh2SzZiOGJFU3dpbHpuOXJTNFhHb0nSAcsBQVVfeXFMTUw1NlZsODd5Yk50TzFMdVdyZVJweHJJNTVxd0xCRGJla0pzTXA2MUM1cnBlMGJLcks1WGJSam85WHVUZ3drdWlfSWUxY3RIQ0F2RlNSRzRTZVFkNFpXSlV6eTV5NmdWMGhiSHBhMmpaREFOMU1MTVFKSUxHNUlmVGlfcDJrRUZMTGtERzFOSDhnenB6UjQyUGtuVVE2Ukx1WXlaUnFHc3Y2V280aVdrdGJfOVRpblRKX3VIOXVJQWt3OXU2bm1RUko2Qjg?oc=5\" target=\"_blank\">Drone over NYC crashes into plane flying into JFK Airport; FAA investigating</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SILive.com</font>",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNckllSWdBelhXazJJUU02Vnp4U3ZzbjFJRTNJdXNhSHVWeGxZYW81V0kwVDlNSEkxbWZJRU9qcDJxNnJfNnJGMXJPRjJoVDlnWG1YSklpNUxObVlzTk5zVUt5RGJ4Z0o0SWJHMjhmZXhOa01lRlBLemFLdGVfWXBDUWo4aHNhV1N2bDFqX2VBZ054MmRQQkpETjFabmlGSl9aOTh2SzZiOGJFU3dpbHpuOXJTNFhHb0nSAcsBQVVfeXFMTUw1NlZsODd5Yk50TzFMdVdyZVJweHJJNTVxd0xCRGJla0pzTXA2MUM1cnBlMGJLcks1WGJSam85WHVUZ3drdWlfSWUxY3RIQ0F2RlNSRzRTZVFkNFpXSlV6eTV5NmdWMGhiSHBhMmpaREFOMU1MTVFKSUxHNUlmVGlfcDJrRUZMTGtERzFOSDhnenB6UjQyUGtuVVE2Ukx1WXlaUnFHc3Y2V280aVdrdGJfOVRpblRKX3VIOXVJQWt3OXU2bm1RUko2Qjg?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNckllSWdBelhXazJJUU02Vnp4U3ZzbjFJRTNJdXNhSHVWeGxZYW81V0kwVDlNSEkxbWZJRU9qcDJxNnJfNnJGMXJPRjJoVDlnWG1YSklpNUxObVlzTk5zVUt5RGJ4Z0o0SWJHMjhmZXhOa01lRlBLemFLdGVfWXBDUWo4aHNhV1N2bDFqX2VBZ054MmRQQkpETjFabmlGSl9aOTh2SzZiOGJFU3dpbHpuOXJTNFhHb0nSAcsBQVVfeXFMTUw1NlZsODd5Yk50TzFMdVdyZVJweHJJNTVxd0xCRGJla0pzTXA2MUM1cnBlMGJLcks1WGJSam85WHVUZ3drdWlfSWUxY3RIQ0F2RlNSRzRTZVFkNFpXSlV6eTV5NmdWMGhiSHBhMmpaREFOMU1MTVFKSUxHNUlmVGlfcDJrRUZMTGtERzFOSDhnenB6UjQyUGtuVVE2Ukx1WXlaUnFHc3Y2V280aVdrdGJfOVRpblRKX3VIOXVJQWt3OXU2bm1RUko2Qjg?oc=5",
+      "publishedAt": "2026-06-30T17:35:00.000Z",
+      "source": "SILive.com",
+      "_feedRegion": "us",
+      "_feedName": "FAA",
+      "_scoring": {
+        "score": 77,
+        "categories": [
+          "規制・政策",
+          "事故・事件",
+          "政策・インフラ"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
+          "incident": {
+            "matches": 1,
+            "catScore": 28
+          },
+          "policy": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 0,
+          "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
       "title": "開発中の空飛ぶクルマ「SKYDRIVE」、累計300フライトを事故無く達成",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFBqMWpFcW1QcWhWT3RCcWJZN2RWc3Q5R1d2dXluMWZQMVd1WkhaOFQyVTc3UklKQUl1bldRc3h2OWxuTWNYVEl3ejZMd1A3VjVkRWtXdnpLcmdYbzRhUUU4?oc=5\" target=\"_blank\">開発中の空飛ぶクルマ「SKYDRIVE」、累計300フライトを事故無く達成</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">レスポンス（Response.jp）</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFBqMWpFcW1QcWhWT3RCcWJZN2RWc3Q5R1d2dXluMWZQMVd1WkhaOFQyVTc3UklKQUl1bldRc3h2OWxuTWNYVEl3ejZMd1A3VjVkRWtXdnpLcmdYbzRhUUU4?oc=5\" target=\"_blank\">開発中の空飛ぶクルマ「SKYDRIVE」、累計300フライトを事故無く達成</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">レスポンス（Response.jp）</font>",
@@ -237,43 +278,6 @@
       }
     },
     {
-      "title": "「離島の暮らしを支えたい」ドローン配送会社が挑む物流革命 長崎・五島列島で全国初のレベル4実証実験｜2ページ目",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE11LWg4eFJpVWl4RFdKQUhNMkhnUFNYWXpjNjh3VVJULUF3Nl9iZXE5NWY2cHpVdS1LeWVUa0ttZzNUQzVLNTdnSUtSMnlWWElEMFc1T0EwZnB0VnVxQkxn?oc=5\" target=\"_blank\">「離島の暮らしを支えたい」ドローン配送会社が挑む物流革命 長崎・五島列島で全国初のレベル4実証実験｜2ページ目</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">西日本新聞me</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE11LWg4eFJpVWl4RFdKQUhNMkhnUFNYWXpjNjh3VVJULUF3Nl9iZXE5NWY2cHpVdS1LeWVUa0ttZzNUQzVLNTdnSUtSMnlWWElEMFc1T0EwZnB0VnVxQkxn?oc=5\" target=\"_blank\">「離島の暮らしを支えたい」ドローン配送会社が挑む物流革命 長崎・五島列島で全国初のレベル4実証実験｜2ページ目</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">西日本新聞me</font>",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE11LWg4eFJpVWl4RFdKQUhNMkhnUFNYWXpjNjh3VVJULUF3Nl9iZXE5NWY2cHpVdS1LeWVUa0ttZzNUQzVLNTdnSUtSMnlWWElEMFc1T0EwZnB0VnVxQkxn?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE11LWg4eFJpVWl4RFdKQUhNMkhnUFNYWXpjNjh3VVJULUF3Nl9iZXE5NWY2cHpVdS1LeWVUa0ttZzNUQzVLNTdnSUtSMnlWWElEMFc1T0EwZnB0VnVxQkxn?oc=5",
-      "publishedAt": "2026-07-01T15:39:17.000Z",
-      "source": "西日本新聞me",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP 事業者/実装)",
-      "_scoring": {
-        "score": 75,
-        "categories": [
-          "規制・政策",
-          "技術・製品"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 1,
-            "catScore": 32
-          },
-          "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 5,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
       "title": "JetBlue Flight 948 From Las Vegas to New York JFK Faces Dramatic Midair Drone Strike Scare Near Sea Bright New Jersey During Critical Final Descent Triggering FAA Investigation Across US Airspace",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE1DUEU5R2h6c0JETDMybEx4eHN2MlY5NURQdmstWXhrcFp4MUFhN25qZjBXYi00b2JLbl9seGwwaFhWT0J6QnFOQ09zcElyMkZybHFqdGxrT2pXM1llS3dVNk9KU0VhMm51UWYyNkJB?oc=5\" target=\"_blank\">JetBlue Flight 948 From Las Vegas to New York JFK Faces Dramatic Midair Drone Strike Scare Near Sea Bright New Jersey During Critical Final Descent Triggering FAA Investigation Across US Airspace</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Travel And Tour World</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE1DUEU5R2h6c0JETDMybEx4eHN2MlY5NURQdmstWXhrcFp4MUFhN25qZjBXYi00b2JLbl9seGwwaFhWT0J6QnFOQ09zcElyMkZybHFqdGxrT2pXM1llS3dVNk9KU0VhMm51UWYyNkJB?oc=5\" target=\"_blank\">JetBlue Flight 948 From Las Vegas to New York JFK Faces Dramatic Midair Drone Strike Scare Near Sea Bright New Jersey During Critical Final Descent Triggering FAA Investigation Across US Airspace</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Travel And Tour World</font>",
@@ -310,6 +314,43 @@
           },
           "freshness": 0,
           "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "「離島の暮らしを支えたい」ドローン配送会社が挑む物流革命 長崎・五島列島で全国初のレベル4実証実験｜2ページ目",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE11LWg4eFJpVWl4RFdKQUhNMkhnUFNYWXpjNjh3VVJULUF3Nl9iZXE5NWY2cHpVdS1LeWVUa0ttZzNUQzVLNTdnSUtSMnlWWElEMFc1T0EwZnB0VnVxQkxn?oc=5\" target=\"_blank\">「離島の暮らしを支えたい」ドローン配送会社が挑む物流革命 長崎・五島列島で全国初のレベル4実証実験｜2ページ目</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">西日本新聞me</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE11LWg4eFJpVWl4RFdKQUhNMkhnUFNYWXpjNjh3VVJULUF3Nl9iZXE5NWY2cHpVdS1LeWVUa0ttZzNUQzVLNTdnSUtSMnlWWElEMFc1T0EwZnB0VnVxQkxn?oc=5\" target=\"_blank\">「離島の暮らしを支えたい」ドローン配送会社が挑む物流革命 長崎・五島列島で全国初のレベル4実証実験｜2ページ目</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">西日本新聞me</font>",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE11LWg4eFJpVWl4RFdKQUhNMkhnUFNYWXpjNjh3VVJULUF3Nl9iZXE5NWY2cHpVdS1LeWVUa0ttZzNUQzVLNTdnSUtSMnlWWElEMFc1T0EwZnB0VnVxQkxn?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE11LWg4eFJpVWl4RFdKQUhNMkhnUFNYWXpjNjh3VVJULUF3Nl9iZXE5NWY2cHpVdS1LeWVUa0ttZzNUQzVLNTdnSUtSMnlWWElEMFc1T0EwZnB0VnVxQkxn?oc=5",
+      "publishedAt": "2026-07-01T15:39:17.000Z",
+      "source": "西日本新聞me",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP 事業者/実装)",
+      "_scoring": {
+        "score": 72,
+        "categories": [
+          "規制・政策",
+          "技術・製品"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 2,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
         },
         "pass": true
       }
@@ -458,42 +499,6 @@
           "freshness": 5,
           "titleBonus": 10,
           "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "Drone Flies Close to United Airlines Flight Near Newark, Prompting FAA Investigation",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQX0ZUREowbl9QUzkxU1oyWDk3ejNmeGhmRmRyWXpRRnZGaExZd3lPNWxVdmh0eGVNdXM5YlcyRnVVTEh6a2ZuNGZJNGlYMXJMLWNrWlpfczF6UnlOS1h3a3RLMm1vNjVYWXdqcGRiT0c1ajh6RXN4R0JVcnNVVWhWZTB4VzZBRVh2VUtNbUNjcUdQWDdlM0xDRFptVQ?oc=5\" target=\"_blank\">Drone Flies Close to United Airlines Flight Near Newark, Prompting FAA Investigation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新住民全球新聞網</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQX0ZUREowbl9QUzkxU1oyWDk3ejNmeGhmRmRyWXpRRnZGaExZd3lPNWxVdmh0eGVNdXM5YlcyRnVVTEh6a2ZuNGZJNGlYMXJMLWNrWlpfczF6UnlOS1h3a3RLMm1vNjVYWXdqcGRiT0c1ajh6RXN4R0JVcnNVVWhWZTB4VzZBRVh2VUtNbUNjcUdQWDdlM0xDRFptVQ?oc=5\" target=\"_blank\">Drone Flies Close to United Airlines Flight Near Newark, Prompting FAA Investigation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新住民全球新聞網</font>",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQX0ZUREowbl9QUzkxU1oyWDk3ejNmeGhmRmRyWXpRRnZGaExZd3lPNWxVdmh0eGVNdXM5YlcyRnVVTEh6a2ZuNGZJNGlYMXJMLWNrWlpfczF6UnlOS1h3a3RLMm1vNjVYWXdqcGRiT0c1ajh6RXN4R0JVcnNVVWhWZTB4VzZBRVh2VUtNbUNjcUdQWDdlM0xDRFptVQ?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQX0ZUREowbl9QUzkxU1oyWDk3ejNmeGhmRmRyWXpRRnZGaExZd3lPNWxVdmh0eGVNdXM5YlcyRnVVTEh6a2ZuNGZJNGlYMXJMLWNrWlpfczF6UnlOS1h3a3RLMm1vNjVYWXdqcGRiT0c1ajh6RXN4R0JVcnNVVWhWZTB4VzZBRVh2VUtNbUNjcUdQWDdlM0xDRFptVQ?oc=5",
-      "publishedAt": "2026-07-03T01:00:00.000Z",
-      "source": "新住民全球新聞網",
-      "_feedRegion": "us",
-      "_feedName": "FAA",
-      "_scoring": {
-        "score": 68,
-        "categories": [
-          "規制・政策",
-          "事故・事件"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 1,
-            "catScore": 32
-          },
-          "incident": {
-            "matches": 1,
-            "catScore": 28
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 10,
-          "titleBonus": 10
         },
         "pass": true
       }
@@ -750,38 +755,6 @@
             "multiplier": 0.8
           },
           "freshness": 0,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "水中点検・調査の導入判断を実機で具体化。水中ドローン製品解説 & 体験会を7月22日（水）に福岡市で開催",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE81Z3otUmdpb1ZrR2JRemZubXh0R3lEV04zQmJVNDdlOUZSV2IyeGVZckFUX1B2RkwzQ0NSb01xaW9vbUNobkZ3TG9MTFdGZVNmd1BRQmZ3a3RUczVUSDlWdms2dk5PcVZTcGc?oc=5\" target=\"_blank\">水中点検・調査の導入判断を実機で具体化。水中ドローン製品解説 & 体験会を7月22日（水）に福岡市で開催</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR TIMES</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE81Z3otUmdpb1ZrR2JRemZubXh0R3lEV04zQmJVNDdlOUZSV2IyeGVZckFUX1B2RkwzQ0NSb01xaW9vbUNobkZ3TG9MTFdGZVNmd1BRQmZ3a3RUczVUSDlWdms2dk5PcVZTcGc?oc=5\" target=\"_blank\">水中点検・調査の導入判断を実機で具体化。水中ドローン製品解説 & 体験会を7月22日（水）に福岡市で開催</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR TIMES</font>",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE81Z3otUmdpb1ZrR2JRemZubXh0R3lEV04zQmJVNDdlOUZSV2IyeGVZckFUX1B2RkwzQ0NSb01xaW9vbUNobkZ3TG9MTFdGZVNmd1BRQmZ3a3RUczVUSDlWdms2dk5PcVZTcGc?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE81Z3otUmdpb1ZrR2JRemZubXh0R3lEV04zQmJVNDdlOUZSV2IyeGVZckFUX1B2RkwzQ0NSb01xaW9vbUNobkZ3TG9MTFdGZVNmd1BRQmZ3a3RUczVUSDlWdms2dk5PcVZTcGc?oc=5",
-      "publishedAt": "2026-07-03T05:35:03.000Z",
-      "source": "PR TIMES",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP 事業者/実装)",
-      "_scoring": {
-        "score": 62,
-        "categories": [
-          "事故・事件"
-        ],
-        "breakdown": {
-          "required": true,
-          "incident": {
-            "matches": 1,
-            "catScore": 28
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 15,
           "titleBonus": 10,
           "jpRegionBonus": 15
         },
@@ -1114,6 +1087,38 @@
             "multiplier": 0.8
           },
           "freshness": 0,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "ドローンからボールを発射！クマ撃退実証実験 ボールの中に辛み成分や嫌いな臭い成分 山へ追い払う 今年中の実用化目指す【長野・王滝村】 （2026年7月3日掲載）｜テレビ信州NEWS NNN",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQcTNxN0hMUkx1Q1YxQWd1R05vVlp3dG03VmZxM2tzdzFhQmNzSUZBZ2E0NTA0WHNwOTVMNWxBaWhPWHFRU2dDcHg0dV9aTjRRVk9LQUhnRjB6Z3hkYUhTM2pHdlZ6NlZRS0lmQURIT2V6WjV3OGVudTE2dmwyb0xDdG00WkszdDg?oc=5\" target=\"_blank\">ドローンからボールを発射！クマ撃退実証実験 ボールの中に辛み成分や嫌いな臭い成分 山へ追い払う 今年中の実用化目指す【長野・王滝村】 （2026年7月3日掲載）｜テレビ信州NEWS NNN</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日テレNEWS NNN</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQcTNxN0hMUkx1Q1YxQWd1R05vVlp3dG03VmZxM2tzdzFhQmNzSUZBZ2E0NTA0WHNwOTVMNWxBaWhPWHFRU2dDcHg0dV9aTjRRVk9LQUhnRjB6Z3hkYUhTM2pHdlZ6NlZRS0lmQURIT2V6WjV3OGVudTE2dmwyb0xDdG00WkszdDg?oc=5\" target=\"_blank\">ドローンからボールを発射！クマ撃退実証実験 ボールの中に辛み成分や嫌いな臭い成分 山へ追い払う 今年中の実用化目指す【長野・王滝村】 （2026年7月3日掲載）｜テレビ信州NEWS NNN</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日テレNEWS NNN</font>",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcTNxN0hMUkx1Q1YxQWd1R05vVlp3dG03VmZxM2tzdzFhQmNzSUZBZ2E0NTA0WHNwOTVMNWxBaWhPWHFRU2dDcHg0dV9aTjRRVk9LQUhnRjB6Z3hkYUhTM2pHdlZ6NlZRS0lmQURIT2V6WjV3OGVudTE2dmwyb0xDdG00WkszdDg?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcTNxN0hMUkx1Q1YxQWd1R05vVlp3dG03VmZxM2tzdzFhQmNzSUZBZ2E0NTA0WHNwOTVMNWxBaWhPWHFRU2dDcHg0dV9aTjRRVk9LQUhnRjB6Z3hkYUhTM2pHdlZ6NlZRS0lmQURIT2V6WjV3OGVudTE2dmwyb0xDdG00WkszdDg?oc=5",
+      "publishedAt": "2026-07-03T11:26:00.000Z",
+      "source": "日テレNEWS NNN",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP 政策/実証)",
+      "_scoring": {
+        "score": 59,
+        "categories": [
+          "技術・製品"
+        ],
+        "breakdown": {
+          "required": true,
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 15,
           "titleBonus": 10,
           "jpRegionBonus": 15
         },
