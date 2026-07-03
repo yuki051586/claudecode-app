@@ -1,7 +1,48 @@
 {
-  "generatedAt": "2026-07-03T03:44:20.294Z",
-  "rawCount": 746,
+  "generatedAt": "2026-07-03T07:27:06.570Z",
+  "rawCount": 741,
   "articles": [
+    {
+      "title": "JetBlue Drone Strike Report Near JFK Airport Prompts FAA Investigation",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPSUhHeDljaXJseWl1UlFPTXZqbUFsR1RLRGJxTUVmcFNVRDRNMXBFTFdVajNjTE96c1gtSHk0SnZHWGkyQm9TVEUtT1NqcjFzRjdFeHVFQTY4MHQ1WlhyakVnY1FtS1lGOEtINWttZ21zU3hzVnBLV3JZblhxS0lZN3VYQVUzRk5CcHNjOFI4cWh2VlIwai11ckxxYWNxQXNNak9nOWh2cEROZmN6SkduNndB?oc=5\" target=\"_blank\">JetBlue Drone Strike Report Near JFK Airport Prompts FAA Investigation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FTN news</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPSUhHeDljaXJseWl1UlFPTXZqbUFsR1RLRGJxTUVmcFNVRDRNMXBFTFdVajNjTE96c1gtSHk0SnZHWGkyQm9TVEUtT1NqcjFzRjdFeHVFQTY4MHQ1WlhyakVnY1FtS1lGOEtINWttZ21zU3hzVnBLV3JZblhxS0lZN3VYQVUzRk5CcHNjOFI4cWh2VlIwai11ckxxYWNxQXNNak9nOWh2cEROZmN6SkduNndB?oc=5\" target=\"_blank\">JetBlue Drone Strike Report Near JFK Airport Prompts FAA Investigation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FTN news</font>",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSUhHeDljaXJseWl1UlFPTXZqbUFsR1RLRGJxTUVmcFNVRDRNMXBFTFdVajNjTE96c1gtSHk0SnZHWGkyQm9TVEUtT1NqcjFzRjdFeHVFQTY4MHQ1WlhyakVnY1FtS1lGOEtINWttZ21zU3hzVnBLV3JZblhxS0lZN3VYQVUzRk5CcHNjOFI4cWh2VlIwai11ckxxYWNxQXNNak9nOWh2cEROZmN6SkduNndB?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSUhHeDljaXJseWl1UlFPTXZqbUFsR1RLRGJxTUVmcFNVRDRNMXBFTFdVajNjTE96c1gtSHk0SnZHWGkyQm9TVEUtT1NqcjFzRjdFeHVFQTY4MHQ1WlhyakVnY1FtS1lGOEtINWttZ21zU3hzVnBLV3JZblhxS0lZN3VYQVUzRk5CcHNjOFI4cWh2VlIwai11ckxxYWNxQXNNak9nOWh2cEROZmN6SkduNndB?oc=5",
+      "publishedAt": "2026-07-01T10:19:30.000Z",
+      "source": "FTN news",
+      "_feedRegion": "us",
+      "_feedName": "FAA",
+      "_scoring": {
+        "score": 82,
+        "categories": [
+          "規制・政策",
+          "事故・事件",
+          "政策・インフラ"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
+          "incident": {
+            "matches": 1,
+            "catScore": 28
+          },
+          "policy": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 5,
+          "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
     {
       "title": "開発中の空飛ぶクルマ「SKYDRIVE」、累計300フライトを事故無く達成",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFBqMWpFcW1QcWhWT3RCcWJZN2RWc3Q5R1d2dXluMWZQMVd1WkhaOFQyVTc3UklKQUl1bldRc3h2OWxuTWNYVEl3ejZMd1A3VjVkRWtXdnpLcmdYbzRhUUU4?oc=5\" target=\"_blank\">開発中の空飛ぶクルマ「SKYDRIVE」、累計300フライトを事故無く達成</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">レスポンス（Response.jp）</font>",
@@ -35,47 +76,6 @@
           "freshness": 15,
           "titleBonus": 10,
           "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "Choctaw ROTC's aerospace program produces 5 FAA-certified drone pilots, 15 safety certifications in breakout year",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcTR1ZE9fSmxIUEZQUzZoeU1Xc1VvOVFSblRCSVNWV3gtVXl1RWZ0bFpPbWZmaWROQWE2eFFkdjhyRWd4Rk5LLTlQNjlzb05uS1BfU01BTWRyM0NyMUxfN0hjOGRzZ3VyUW41ZjNqODNMdTdfV2Y1VW9PVDJZVnQ0YTJyUlNDOUdYZ0p2WTZZT0lMVVRaZGVfS0d5NHBLWExjUVhBOGM1cUszU2hnNkg3WTc1c0NMaXhqakFfUGFmcnRSb1NSTGNIeEFma282djJVUmc?oc=5\" target=\"_blank\">Choctaw ROTC's aerospace program produces 5 FAA-certified drone pilots, 15 safety certifications in breakout year</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Get The Coast</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcTR1ZE9fSmxIUEZQUzZoeU1Xc1VvOVFSblRCSVNWV3gtVXl1RWZ0bFpPbWZmaWROQWE2eFFkdjhyRWd4Rk5LLTlQNjlzb05uS1BfU01BTWRyM0NyMUxfN0hjOGRzZ3VyUW41ZjNqODNMdTdfV2Y1VW9PVDJZVnQ0YTJyUlNDOUdYZ0p2WTZZT0lMVVRaZGVfS0d5NHBLWExjUVhBOGM1cUszU2hnNkg3WTc1c0NMaXhqakFfUGFmcnRSb1NSTGNIeEFma282djJVUmc?oc=5\" target=\"_blank\">Choctaw ROTC's aerospace program produces 5 FAA-certified drone pilots, 15 safety certifications in breakout year</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Get The Coast</font>",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcTR1ZE9fSmxIUEZQUzZoeU1Xc1VvOVFSblRCSVNWV3gtVXl1RWZ0bFpPbWZmaWROQWE2eFFkdjhyRWd4Rk5LLTlQNjlzb05uS1BfU01BTWRyM0NyMUxfN0hjOGRzZ3VyUW41ZjNqODNMdTdfV2Y1VW9PVDJZVnQ0YTJyUlNDOUdYZ0p2WTZZT0lMVVRaZGVfS0d5NHBLWExjUVhBOGM1cUszU2hnNkg3WTc1c0NMaXhqakFfUGFmcnRSb1NSTGNIeEFma282djJVUmc?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcTR1ZE9fSmxIUEZQUzZoeU1Xc1VvOVFSblRCSVNWV3gtVXl1RWZ0bFpPbWZmaWROQWE2eFFkdjhyRWd4Rk5LLTlQNjlzb05uS1BfU01BTWRyM0NyMUxfN0hjOGRzZ3VyUW41ZjNqODNMdTdfV2Y1VW9PVDJZVnQ0YTJyUlNDOUdYZ0p2WTZZT0lMVVRaZGVfS0d5NHBLWExjUVhBOGM1cUszU2hnNkg3WTc1c0NMaXhqakFfUGFmcnRSb1NSTGNIeEFma282djJVUmc?oc=5",
-      "publishedAt": "2026-06-25T07:00:00.000Z",
-      "source": "Get The Coast",
-      "_feedRegion": "us",
-      "_feedName": "FAA",
-      "_scoring": {
-        "score": 80,
-        "categories": [
-          "規制・政策",
-          "市場・資金",
-          "事故・事件"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 2,
-            "catScore": 40
-          },
-          "market": {
-            "matches": 1,
-            "catScore": 20
-          },
-          "incident": {
-            "matches": 1,
-            "catScore": 28
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 0,
-          "titleBonus": 10
         },
         "pass": true
       }
@@ -147,6 +147,88 @@
           "policy": {
             "matches": 1,
             "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 2,
+          "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "United States Aviation Safety Under Pressure As Reported JFK Drone Strike At New York JFK Triggers FAA Drone-Safety Scrutiny, Airport Risk Planning, Airline Network Review And MICE Travel Resilience Questions",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE9SMFNubnFseFNOSGxIOUI5UDg1OEttWGNxVkhVTk1vZ2t1VHJ0TGR5SzRJWjljQ0xaY1IzQzJVWUp1NjBfanVycldKUnduS1FLSWhKTzNIUmpBZVd0Y3EwSWYzN0Exb2Q3eTJXV0Jn?oc=5\" target=\"_blank\">United States Aviation Safety Under Pressure As Reported JFK Drone Strike At New York JFK Triggers FAA Drone-Safety Scrutiny, Airport Risk Planning, Airline Network Review And MICE Travel Resilience Questions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Travel And Tour World</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE9SMFNubnFseFNOSGxIOUI5UDg1OEttWGNxVkhVTk1vZ2t1VHJ0TGR5SzRJWjljQ0xaY1IzQzJVWUp1NjBfanVycldKUnduS1FLSWhKTzNIUmpBZVd0Y3EwSWYzN0Exb2Q3eTJXV0Jn?oc=5\" target=\"_blank\">United States Aviation Safety Under Pressure As Reported JFK Drone Strike At New York JFK Triggers FAA Drone-Safety Scrutiny, Airport Risk Planning, Airline Network Review And MICE Travel Resilience Questions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Travel And Tour World</font>",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9SMFNubnFseFNOSGxIOUI5UDg1OEttWGNxVkhVTk1vZ2t1VHJ0TGR5SzRJWjljQ0xaY1IzQzJVWUp1NjBfanVycldKUnduS1FLSWhKTzNIUmpBZVd0Y3EwSWYzN0Exb2Q3eTJXV0Jn?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9SMFNubnFseFNOSGxIOUI5UDg1OEttWGNxVkhVTk1vZ2t1VHJ0TGR5SzRJWjljQ0xaY1IzQzJVWUp1NjBfanVycldKUnduS1FLSWhKTzNIUmpBZVd0Y3EwSWYzN0Exb2Q3eTJXV0Jn?oc=5",
+      "publishedAt": "2026-07-01T06:39:57.000Z",
+      "source": "Travel And Tour World",
+      "_feedRegion": "us",
+      "_feedName": "FAA",
+      "_scoring": {
+        "score": 79,
+        "categories": [
+          "規制・政策",
+          "事故・事件",
+          "政策・インフラ"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
+          "incident": {
+            "matches": 1,
+            "catScore": 28
+          },
+          "policy": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 2,
+          "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "JetBlue Flight 948 From Las Vegas to New York JFK Faces Dramatic Midair Drone Strike Scare Near Sea Bright New Jersey During Critical Final Descent Triggering FAA Investigation Across US Airspace",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE1DUEU5R2h6c0JETDMybEx4eHN2MlY5NURQdmstWXhrcFp4MUFhN25qZjBXYi00b2JLbl9seGwwaFhWT0J6QnFOQ09zcElyMkZybHFqdGxrT2pXM1llS3dVNk9KU0VhMm51UWYyNkJB?oc=5\" target=\"_blank\">JetBlue Flight 948 From Las Vegas to New York JFK Faces Dramatic Midair Drone Strike Scare Near Sea Bright New Jersey During Critical Final Descent Triggering FAA Investigation Across US Airspace</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Travel And Tour World</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE1DUEU5R2h6c0JETDMybEx4eHN2MlY5NURQdmstWXhrcFp4MUFhN25qZjBXYi00b2JLbl9seGwwaFhWT0J6QnFOQ09zcElyMkZybHFqdGxrT2pXM1llS3dVNk9KU0VhMm51UWYyNkJB?oc=5\" target=\"_blank\">JetBlue Flight 948 From Las Vegas to New York JFK Faces Dramatic Midair Drone Strike Scare Near Sea Bright New Jersey During Critical Final Descent Triggering FAA Investigation Across US Airspace</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Travel And Tour World</font>",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1DUEU5R2h6c0JETDMybEx4eHN2MlY5NURQdmstWXhrcFp4MUFhN25qZjBXYi00b2JLbl9seGwwaFhWT0J6QnFOQ09zcElyMkZybHFqdGxrT2pXM1llS3dVNk9KU0VhMm51UWYyNkJB?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1DUEU5R2h6c0JETDMybEx4eHN2MlY5NURQdmstWXhrcFp4MUFhN25qZjBXYi00b2JLbl9seGwwaFhWT0J6QnFOQ09zcElyMkZybHFqdGxrT2pXM1llS3dVNk9KU0VhMm51UWYyNkJB?oc=5",
+      "publishedAt": "2026-06-30T09:58:31.000Z",
+      "source": "Travel And Tour World",
+      "_feedRegion": "us",
+      "_feedName": "FAA",
+      "_scoring": {
+        "score": 76,
+        "categories": [
+          "規制・政策",
+          "市場・資金",
+          "事故・事件"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
+          "market": {
+            "matches": 1,
+            "catScore": 20
+          },
+          "incident": {
+            "matches": 1,
+            "catScore": 28
           },
           "sourceTrust": {
             "domain": "news.google.com",
@@ -308,10 +390,10 @@
     },
     {
       "title": "トライアイズ、ドローン製造のマゼックスとAI自動運航基盤開発で業務提携",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE1xaHpOMTA0cE1UN21nMmUtZ0o3NTNNUC03RV9pUVdEWW5fbU8zM09XSm5aWmxNSG5BcGRfSjZiM3VvWUlHU3dZWGhpSkdQODRYbkxkVFZiVW9BcjhFSm9ZelVnSlpkSVNjbWc?oc=5\" target=\"_blank\">トライアイズ、ドローン製造のマゼックスとAI自動運航基盤開発で業務提携</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ドローンジャーナル</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE1xaHpOMTA0cE1UN21nMmUtZ0o3NTNNUC03RV9pUVdEWW5fbU8zM09XSm5aWmxNSG5BcGRfSjZiM3VvWUlHU3dZWGhpSkdQODRYbkxkVFZiVW9BcjhFSm9ZelVnSlpkSVNjbWc?oc=5\" target=\"_blank\">トライアイズ、ドローン製造のマゼックスとAI自動運航基盤開発で業務提携</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ドローンジャーナル</font>",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1xaHpOMTA0cE1UN21nMmUtZ0o3NTNNUC03RV9pUVdEWW5fbU8zM09XSm5aWmxNSG5BcGRfSjZiM3VvWUlHU3dZWGhpSkdQODRYbkxkVFZiVW9BcjhFSm9ZelVnSlpkSVNjbWc?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1xaHpOMTA0cE1UN21nMmUtZ0o3NTNNUC03RV9pUVdEWW5fbU8zM09XSm5aWmxNSG5BcGRfSjZiM3VvWUlHU3dZWGhpSkdQODRYbkxkVFZiVW9BcjhFSm9ZelVnSlpkSVNjbWc?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9yS1cyeEU0MHVIQndieDdYSC15WFhMLWJ4S19YSDBSejRpNHU4TGFmQWJjZ2FPSFF3aDBzR0NUbHZRQURKM01nUkZLVEZuWkpGeWdNU1JxWEhCZHkyclkwVWctMVRHelNnTHlxdS12WExDYjYzdl9KXw?oc=5\" target=\"_blank\">トライアイズ、ドローン製造のマゼックスとAI自動運航基盤開発で業務提携</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ドローンジャーナル</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9yS1cyeEU0MHVIQndieDdYSC15WFhMLWJ4S19YSDBSejRpNHU4TGFmQWJjZ2FPSFF3aDBzR0NUbHZRQURKM01nUkZLVEZuWkpGeWdNU1JxWEhCZHkyclkwVWctMVRHelNnTHlxdS12WExDYjYzdl9KXw?oc=5\" target=\"_blank\">トライアイズ、ドローン製造のマゼックスとAI自動運航基盤開発で業務提携</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ドローンジャーナル</font>",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9yS1cyeEU0MHVIQndieDdYSC15WFhMLWJ4S19YSDBSejRpNHU4TGFmQWJjZ2FPSFF3aDBzR0NUbHZRQURKM01nUkZLVEZuWkpGeWdNU1JxWEhCZHkyclkwVWctMVRHelNnTHlxdS12WExDYjYzdl9KXw?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9yS1cyeEU0MHVIQndieDdYSC15WFhMLWJ4S19YSDBSejRpNHU4TGFmQWJjZ2FPSFF3aDBzR0NUbHZRQURKM01nUkZLVEZuWkpGeWdNU1JxWEhCZHkyclkwVWctMVRHelNnTHlxdS12WExDYjYzdl9KXw?oc=5",
       "publishedAt": "2026-07-02T01:28:33.000Z",
       "source": "ドローンジャーナル",
       "_feedRegion": "jp",
@@ -344,42 +426,33 @@
       }
     },
     {
-      "title": "The Airspace Challenge Facing America’s Public Safety Drone Programs",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOdmJvQ01LVF9ySVIyWHN1SWM2YmhnYWxhRjVUN0xaZm1MVkk3QmVjbGpyckFGX1BaVUFsYjYyWFJjZDJrQVNzUkFPMllkQXVkTU55a0EwdXdqdzdQUE0wa2FRRmVuLUhCWjF0eHEySEhicHhBZVVhOWlMM19oUlBmRlpJUldsZ0Z5Ym4xREhPeHVUMm4zV0djOFpnQWFSMjNTaU9lekVpNWpIWDJSTU16MTJILWYxMlVrOFNHOUhHdWl5LWFjZWdtRnZR?oc=5\" target=\"_blank\">The Airspace Challenge Facing America’s Public Safety Drone Programs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Homeland Security Today</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOdmJvQ01LVF9ySVIyWHN1SWM2YmhnYWxhRjVUN0xaZm1MVkk3QmVjbGpyckFGX1BaVUFsYjYyWFJjZDJrQVNzUkFPMllkQXVkTU55a0EwdXdqdzdQUE0wa2FRRmVuLUhCWjF0eHEySEhicHhBZVVhOWlMM19oUlBmRlpJUldsZ0Z5Ym4xREhPeHVUMm4zV0djOFpnQWFSMjNTaU9lekVpNWpIWDJSTU16MTJILWYxMlVrOFNHOUhHdWl5LWFjZWdtRnZR?oc=5\" target=\"_blank\">The Airspace Challenge Facing America’s Public Safety Drone Programs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Homeland Security Today</font>",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdmJvQ01LVF9ySVIyWHN1SWM2YmhnYWxhRjVUN0xaZm1MVkk3QmVjbGpyckFGX1BaVUFsYjYyWFJjZDJrQVNzUkFPMllkQXVkTU55a0EwdXdqdzdQUE0wa2FRRmVuLUhCWjF0eHEySEhicHhBZVVhOWlMM19oUlBmRlpJUldsZ0Z5Ym4xREhPeHVUMm4zV0djOFpnQWFSMjNTaU9lekVpNWpIWDJSTU16MTJILWYxMlVrOFNHOUhHdWl5LWFjZWdtRnZR?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdmJvQ01LVF9ySVIyWHN1SWM2YmhnYWxhRjVUN0xaZm1MVkk3QmVjbGpyckFGX1BaVUFsYjYyWFJjZDJrQVNzUkFPMllkQXVkTU55a0EwdXdqdzdQUE0wa2FRRmVuLUhCWjF0eHEySEhicHhBZVVhOWlMM19oUlBmRlpJUldsZ0Z5Ym4xREhPeHVUMm4zV0djOFpnQWFSMjNTaU9lekVpNWpIWDJSTU16MTJILWYxMlVrOFNHOUhHdWl5LWFjZWdtRnZR?oc=5",
-      "publishedAt": "2026-06-24T10:52:31.000Z",
-      "source": "Homeland Security Today",
-      "_feedRegion": "us",
-      "_feedName": "FAA",
+      "title": "水中点検・調査の導入判断を実機で具体化。水中ドローン製品解説 & 体験会を7月22日（水）に福岡市で開催",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE81Z3otUmdpb1ZrR2JRemZubXh0R3lEV04zQmJVNDdlOUZSV2IyeGVZckFUX1B2RkwzQ0NSb01xaW9vbUNobkZ3TG9MTFdGZVNmd1BRQmZ3a3RUczVUSDlWdms2dk5PcVZTcGc?oc=5\" target=\"_blank\">水中点検・調査の導入判断を実機で具体化。水中ドローン製品解説 & 体験会を7月22日（水）に福岡市で開催</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR TIMES</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE81Z3otUmdpb1ZrR2JRemZubXh0R3lEV04zQmJVNDdlOUZSV2IyeGVZckFUX1B2RkwzQ0NSb01xaW9vbUNobkZ3TG9MTFdGZVNmd1BRQmZ3a3RUczVUSDlWdms2dk5PcVZTcGc?oc=5\" target=\"_blank\">水中点検・調査の導入判断を実機で具体化。水中ドローン製品解説 & 体験会を7月22日（水）に福岡市で開催</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR TIMES</font>",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE81Z3otUmdpb1ZrR2JRemZubXh0R3lEV04zQmJVNDdlOUZSV2IyeGVZckFUX1B2RkwzQ0NSb01xaW9vbUNobkZ3TG9MTFdGZVNmd1BRQmZ3a3RUczVUSDlWdms2dk5PcVZTcGc?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE81Z3otUmdpb1ZrR2JRemZubXh0R3lEV04zQmJVNDdlOUZSV2IyeGVZckFUX1B2RkwzQ0NSb01xaW9vbUNobkZ3TG9MTFdGZVNmd1BRQmZ3a3RUczVUSDlWdms2dk5PcVZTcGc?oc=5",
+      "publishedAt": "2026-07-03T05:35:03.000Z",
+      "source": "PR TIMES",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP 事業者/実装)",
       "_scoring": {
-        "score": 68,
+        "score": 67,
         "categories": [
-          "市場・資金",
-          "事故・事件",
-          "政策・インフラ"
+          "事故・事件"
         ],
         "breakdown": {
           "required": true,
-          "market": {
-            "matches": 1,
-            "catScore": 20
-          },
           "incident": {
             "matches": 1,
             "catScore": 28
-          },
-          "policy": {
-            "matches": 1,
-            "catScore": 24
           },
           "sourceTrust": {
             "domain": "news.google.com",
             "multiplier": 0.8
           },
-          "freshness": 0,
-          "titleBonus": 10
+          "freshness": 20,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
         },
         "pass": true
       }
@@ -415,38 +488,6 @@
             "multiplier": 0.8
           },
           "freshness": 2,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "ＡＣＳＬ[6232]：ＡＣＳＬ、7月15日～17日開催の第12回 国際ドローン展に出展 SBIRで開発中の次世代小型空撮機体の開発試作機を展示 2026年7月3日(適時開示) ：日経会社情報DIGITAL",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPRnlzVnpQNTdLYkhCaUtvRjhpNnlDbTVPMlozenNxYnUwdWhHVjIzVW9xQXJxMDEzeVVEaGFLY293Z1FDcnJad2RibkhwVmFGMVF2Q1VlUExIbkQzeWVvRXA3X1p3YXZDZ0tvUmtjMGlXamFaemJSUmhqaFpYd1B0TVFaRUxCaXpTYUpiZkwwTDJQUDNWcUdXV0o3WjVpTENDc3FsR2d1LXJhX1JSWVFYZlBOM2ItQ3NJRlZKbEdRaDhranRqc1czZnNVSGg?oc=5\" target=\"_blank\">ＡＣＳＬ[6232]：ＡＣＳＬ、7月15日～17日開催の第12回 国際ドローン展に出展 SBIRで開発中の次世代小型空撮機体の開発試作機を展示 2026年7月3日(適時開示) ：日経会社情報DIGITAL</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPRnlzVnpQNTdLYkhCaUtvRjhpNnlDbTVPMlozenNxYnUwdWhHVjIzVW9xQXJxMDEzeVVEaGFLY293Z1FDcnJad2RibkhwVmFGMVF2Q1VlUExIbkQzeWVvRXA3X1p3YXZDZ0tvUmtjMGlXamFaemJSUmhqaFpYd1B0TVFaRUxCaXpTYUpiZkwwTDJQUDNWcUdXV0o3WjVpTENDc3FsR2d1LXJhX1JSWVFYZlBOM2ItQ3NJRlZKbEdRaDhranRqc1czZnNVSGg?oc=5\" target=\"_blank\">ＡＣＳＬ[6232]：ＡＣＳＬ、7月15日～17日開催の第12回 国際ドローン展に出展 SBIRで開発中の次世代小型空撮機体の開発試作機を展示 2026年7月3日(適時開示) ：日経会社情報DIGITAL</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRnlzVnpQNTdLYkhCaUtvRjhpNnlDbTVPMlozenNxYnUwdWhHVjIzVW9xQXJxMDEzeVVEaGFLY293Z1FDcnJad2RibkhwVmFGMVF2Q1VlUExIbkQzeWVvRXA3X1p3YXZDZ0tvUmtjMGlXamFaemJSUmhqaFpYd1B0TVFaRUxCaXpTYUpiZkwwTDJQUDNWcUdXV0o3WjVpTENDc3FsR2d1LXJhX1JSWVFYZlBOM2ItQ3NJRlZKbEdRaDhranRqc1czZnNVSGg?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRnlzVnpQNTdLYkhCaUtvRjhpNnlDbTVPMlozenNxYnUwdWhHVjIzVW9xQXJxMDEzeVVEaGFLY293Z1FDcnJad2RibkhwVmFGMVF2Q1VlUExIbkQzeWVvRXA3X1p3YXZDZ0tvUmtjMGlXamFaemJSUmhqaFpYd1B0TVFaRUxCaXpTYUpiZkwwTDJQUDNWcUdXV0o3WjVpTENDc3FsR2d1LXJhX1JSWVFYZlBOM2ItQ3NJRlZKbEdRaDhranRqc1czZnNVSGg?oc=5",
-      "publishedAt": "2026-07-03T01:00:00.000Z",
-      "source": "日本経済新聞",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP)",
-      "_scoring": {
-        "score": 64,
-        "categories": [
-          "技術・製品"
-        ],
-        "breakdown": {
-          "required": true,
-          "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 20,
           "titleBonus": 10,
           "jpRegionBonus": 15
         },
@@ -558,38 +599,6 @@
             "multiplier": 0.8
           },
           "freshness": 0,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "トヨタ、「空飛ぶクルマ」量産に着手…米ジョビーと合弁",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiQkFVX3lxTE1ra0c4QjdoeGY3R2RKOGRfU05nd29oYktuWUxuZG50cnhBUHkwbTVPVUJsN28tMHczVmQyQmpKUzZ5dw?oc=5\" target=\"_blank\">トヨタ、「空飛ぶクルマ」量産に着手…米ジョビーと合弁</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ニュースイッチ by 日刊工業新聞社</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiQkFVX3lxTE1ra0c4QjdoeGY3R2RKOGRfU05nd29oYktuWUxuZG50cnhBUHkwbTVPVUJsN28tMHczVmQyQmpKUzZ5dw?oc=5\" target=\"_blank\">トヨタ、「空飛ぶクルマ」量産に着手…米ジョビーと合弁</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ニュースイッチ by 日刊工業新聞社</font>",
-      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1ra0c4QjdoeGY3R2RKOGRfU05nd29oYktuWUxuZG50cnhBUHkwbTVPVUJsN28tMHczVmQyQmpKUzZ5dw?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1ra0c4QjdoeGY3R2RKOGRfU05nd29oYktuWUxuZG50cnhBUHkwbTVPVUJsN28tMHczVmQyQmpKUzZ5dw?oc=5",
-      "publishedAt": "2026-07-03T03:01:05.000Z",
-      "source": "ニュースイッチ by 日刊工業新聞社",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP 事業者/実装)",
-      "_scoring": {
-        "score": 64,
-        "categories": [
-          "技術・製品"
-        ],
-        "breakdown": {
-          "required": true,
-          "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 20,
           "titleBonus": 10,
           "jpRegionBonus": 15
         },
@@ -768,42 +777,6 @@
             "multiplier": 0.8
           },
           "freshness": 5,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "Joby and Toyota launch air taxi manufacturing venture",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWUd3RTdRYnFzZ3VUNTNOTHBFVDdWVzhLSzA4ZFhOYmZDVlIxYWhJS2gtN3pZYmlDUU1Mbl91TkhBcXd6MFg0cFgwNWFFTEEyNXpTQ3ZsZlNfZTZfR3pYTmVFYzR4a0JuNzU3OURVdGxrdnBLV05yN2pOWHhEMFN6Z0hqOWY3aE9kbmxB?oc=5\" target=\"_blank\">Joby and Toyota launch air taxi manufacturing venture</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Zag Daily</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWUd3RTdRYnFzZ3VUNTNOTHBFVDdWVzhLSzA4ZFhOYmZDVlIxYWhJS2gtN3pZYmlDUU1Mbl91TkhBcXd6MFg0cFgwNWFFTEEyNXpTQ3ZsZlNfZTZfR3pYTmVFYzR4a0JuNzU3OURVdGxrdnBLV05yN2pOWHhEMFN6Z0hqOWY3aE9kbmxB?oc=5\" target=\"_blank\">Joby and Toyota launch air taxi manufacturing venture</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Zag Daily</font>",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWUd3RTdRYnFzZ3VUNTNOTHBFVDdWVzhLSzA4ZFhOYmZDVlIxYWhJS2gtN3pZYmlDUU1Mbl91TkhBcXd6MFg0cFgwNWFFTEEyNXpTQ3ZsZlNfZTZfR3pYTmVFYzR4a0JuNzU3OURVdGxrdnBLV05yN2pOWHhEMFN6Z0hqOWY3aE9kbmxB?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWUd3RTdRYnFzZ3VUNTNOTHBFVDdWVzhLSzA4ZFhOYmZDVlIxYWhJS2gtN3pZYmlDUU1Mbl91TkhBcXd6MFg0cFgwNWFFTEEyNXpTQ3ZsZlNfZTZfR3pYTmVFYzR4a0JuNzU3OURVdGxrdnBLV05yN2pOWHhEMFN6Z0hqOWY3aE9kbmxB?oc=5",
-      "publishedAt": "2026-07-02T16:30:27.000Z",
-      "source": "Zag Daily",
-      "_feedRegion": "global",
-      "_feedName": "Google News (Global)",
-      "_scoring": {
-        "score": 60,
-        "categories": [
-          "技術・製品",
-          "市場・資金"
-        ],
-        "breakdown": {
-          "required": true,
-          "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "market": {
-            "matches": 1,
-            "catScore": 20
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 15,
           "titleBonus": 10
         },
         "pass": true
@@ -1093,6 +1066,43 @@
           "market": {
             "matches": 1,
             "catScore": 20
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 0,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "テラドローン、防衛装備庁向け国産UAV300式を受注 契約額は1億1543万4000円",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE1sLXdKNlJIcU1kWkhidGNIM3NfSG9nTXoyTzNpTnJhOU03ZmRUbTlDODVVWmlya1o5UVlzOGM3N0RyR2VtRFN6aFlQT0d1TjcwM3hqMS00V0pwM0E?oc=5\" target=\"_blank\">テラドローン、防衛装備庁向け国産UAV300式を受注 契約額は1億1543万4000円</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DRONE.jp</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE1sLXdKNlJIcU1kWkhidGNIM3NfSG9nTXoyTzNpTnJhOU03ZmRUbTlDODVVWmlya1o5UVlzOGM3N0RyR2VtRFN6aFlQT0d1TjcwM3hqMS00V0pwM0E?oc=5\" target=\"_blank\">テラドローン、防衛装備庁向け国産UAV300式を受注 契約額は1億1543万4000円</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DRONE.jp</font>",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1sLXdKNlJIcU1kWkhidGNIM3NfSG9nTXoyTzNpTnJhOU03ZmRUbTlDODVVWmlya1o5UVlzOGM3N0RyR2VtRFN6aFlQT0d1TjcwM3hqMS00V0pwM0E?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1sLXdKNlJIcU1kWkhidGNIM3NfSG9nTXoyTzNpTnJhOU03ZmRUbTlDODVVWmlya1o5UVlzOGM3N0RyR2VtRFN6aFlQT0d1TjcwM3hqMS00V0pwM0E?oc=5",
+      "publishedAt": "2026-05-11T07:00:00.000Z",
+      "source": "DRONE.jp",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP ドローン専門)",
+      "_scoring": {
+        "score": 60,
+        "categories": [
+          "市場・資金",
+          "政策・インフラ"
+        ],
+        "breakdown": {
+          "required": true,
+          "market": {
+            "matches": 1,
+            "catScore": 20
+          },
+          "policy": {
+            "matches": 1,
+            "catScore": 24
           },
           "sourceTrust": {
             "domain": "news.google.com",
