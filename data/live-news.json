@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-04T21:03:40.318Z",
-  "rawCount": 733,
+  "generatedAt": "2026-07-04T23:01:41.546Z",
+  "rawCount": 734,
   "articles": [
     {
       "title": "Drone over NYC crashes into plane flying into JFK Airport; FAA investigating",
@@ -136,7 +136,7 @@
       "_feedRegion": "jp",
       "_feedName": "Google News (JP 経済メディア)",
       "_scoring": {
-        "score": 77,
+        "score": 75,
         "categories": [
           "規制・政策",
           "技術・製品"
@@ -155,44 +155,7 @@
             "domain": "news.google.com",
             "multiplier": 0.8
           },
-          "freshness": 2,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "開発中の空飛ぶクルマ「SKYDRIVE」、累計300フライトを事故無く達成",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFBqMWpFcW1QcWhWT3RCcWJZN2RWc3Q5R1d2dXluMWZQMVd1WkhaOFQyVTc3UklKQUl1bldRc3h2OWxuTWNYVEl3ejZMd1A3VjVkRWtXdnpLcmdYbzRhUUU4?oc=5\" target=\"_blank\">開発中の空飛ぶクルマ「SKYDRIVE」、累計300フライトを事故無く達成</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">レスポンス（Response.jp）</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFBqMWpFcW1QcWhWT3RCcWJZN2RWc3Q5R1d2dXluMWZQMVd1WkhaOFQyVTc3UklKQUl1bldRc3h2OWxuTWNYVEl3ejZMd1A3VjVkRWtXdnpLcmdYbzRhUUU4?oc=5\" target=\"_blank\">開発中の空飛ぶクルマ「SKYDRIVE」、累計300フライトを事故無く達成</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">レスポンス（Response.jp）</font>",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBqMWpFcW1QcWhWT3RCcWJZN2RWc3Q5R1d2dXluMWZQMVd1WkhaOFQyVTc3UklKQUl1bldRc3h2OWxuTWNYVEl3ejZMd1A3VjVkRWtXdnpLcmdYbzRhUUU4?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBqMWpFcW1QcWhWT3RCcWJZN2RWc3Q5R1d2dXluMWZQMVd1WkhaOFQyVTc3UklKQUl1bldRc3h2OWxuTWNYVEl3ejZMd1A3VjVkRWtXdnpLcmdYbzRhUUU4?oc=5",
-      "publishedAt": "2026-07-02T21:30:03.000Z",
-      "source": "レスポンス（Response.jp）",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP 事業者/実装)",
-      "_scoring": {
-        "score": 72,
-        "categories": [
-          "技術・製品",
-          "事故・事件"
-        ],
-        "breakdown": {
-          "required": true,
-          "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "incident": {
-            "matches": 1,
-            "catScore": 28
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 5,
+          "freshness": 0,
           "titleBonus": 10,
           "jpRegionBonus": 15
         },
@@ -426,6 +389,43 @@
       }
     },
     {
+      "title": "開発中の空飛ぶクルマ「SKYDRIVE」、累計300フライトを事故無く達成",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFBqMWpFcW1QcWhWT3RCcWJZN2RWc3Q5R1d2dXluMWZQMVd1WkhaOFQyVTc3UklKQUl1bldRc3h2OWxuTWNYVEl3ejZMd1A3VjVkRWtXdnpLcmdYbzRhUUU4?oc=5\" target=\"_blank\">開発中の空飛ぶクルマ「SKYDRIVE」、累計300フライトを事故無く達成</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">レスポンス（Response.jp）</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFBqMWpFcW1QcWhWT3RCcWJZN2RWc3Q5R1d2dXluMWZQMVd1WkhaOFQyVTc3UklKQUl1bldRc3h2OWxuTWNYVEl3ejZMd1A3VjVkRWtXdnpLcmdYbzRhUUU4?oc=5\" target=\"_blank\">開発中の空飛ぶクルマ「SKYDRIVE」、累計300フライトを事故無く達成</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">レスポンス（Response.jp）</font>",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBqMWpFcW1QcWhWT3RCcWJZN2RWc3Q5R1d2dXluMWZQMVd1WkhaOFQyVTc3UklKQUl1bldRc3h2OWxuTWNYVEl3ejZMd1A3VjVkRWtXdnpLcmdYbzRhUUU4?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBqMWpFcW1QcWhWT3RCcWJZN2RWc3Q5R1d2dXluMWZQMVd1WkhaOFQyVTc3UklKQUl1bldRc3h2OWxuTWNYVEl3ejZMd1A3VjVkRWtXdnpLcmdYbzRhUUU4?oc=5",
+      "publishedAt": "2026-07-02T21:30:03.000Z",
+      "source": "レスポンス（Response.jp）",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP 事業者/実装)",
+      "_scoring": {
+        "score": 69,
+        "categories": [
+          "技術・製品",
+          "事故・事件"
+        ],
+        "breakdown": {
+          "required": true,
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "incident": {
+            "matches": 1,
+            "catScore": 28
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 2,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
       "title": "トライアイズ、ドローン製造のマゼックスとAI自動運航基盤開発で業務提携",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE1xaHpOMTA0cE1UN21nMmUtZ0o3NTNNUC03RV9pUVdEWW5fbU8zM09XSm5aWmxNSG5BcGRfSjZiM3VvWUlHU3dZWGhpSkdQODRYbkxkVFZiVW9BcjhFSm9ZelVnSlpkSVNjbWc?oc=5\" target=\"_blank\">トライアイズ、ドローン製造のマゼックスとAI自動運航基盤開発で業務提携</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ドローンジャーナル</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE1xaHpOMTA0cE1UN21nMmUtZ0o3NTNNUC03RV9pUVdEWW5fbU8zM09XSm5aWmxNSG5BcGRfSjZiM3VvWUlHU3dZWGhpSkdQODRYbkxkVFZiVW9BcjhFSm9ZelVnSlpkSVNjbWc?oc=5\" target=\"_blank\">トライアイズ、ドローン製造のマゼックスとAI自動運航基盤開発で業務提携</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ドローンジャーナル</font>",
@@ -434,7 +434,7 @@
       "publishedAt": "2026-07-02T01:28:33.000Z",
       "source": "ドローンジャーナル",
       "_feedRegion": "jp",
-      "_feedName": "Google News (JP)",
+      "_feedName": "Google News (JP 政策/実証)",
       "_scoring": {
         "score": 66,
         "categories": [
@@ -907,13 +907,13 @@
       }
     },
     {
-      "title": "川崎重工とエアバス、ドローン開発で技術提携 国産対潜ドローンを開発 (ビジネス＋IT)",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOZk10cXlPZ29Sa3A1R3hsbHdYcFJCRXBqVXRJQkZBYXZxbTEtYUFobjVzTTRhY2Exd0xISF9Dei10OEQwbTV0SW92eUIwSGVBdGRuT0RhdU1nQmo2SlhMOHNZcXRxV2hObFY4eDBQRUh5S256eGNZZWFrMWlaOElBdG1EaDA0allRdzFLb3ln?oc=5\" target=\"_blank\">川崎重工とエアバス、ドローン開発で技術提携 国産対潜ドローンを開発 (ビジネス＋IT)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOZk10cXlPZ29Sa3A1R3hsbHdYcFJCRXBqVXRJQkZBYXZxbTEtYUFobjVzTTRhY2Exd0xISF9Dei10OEQwbTV0SW92eUIwSGVBdGRuT0RhdU1nQmo2SlhMOHNZcXRxV2hObFY4eDBQRUh5S256eGNZZWFrMWlaOElBdG1EaDA0allRdzFLb3ln?oc=5\" target=\"_blank\">川崎重工とエアバス、ドローン開発で技術提携 国産対潜ドローンを開発 (ビジネス＋IT)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZk10cXlPZ29Sa3A1R3hsbHdYcFJCRXBqVXRJQkZBYXZxbTEtYUFobjVzTTRhY2Exd0xISF9Dei10OEQwbTV0SW92eUIwSGVBdGRuT0RhdU1nQmo2SlhMOHNZcXRxV2hObFY4eDBQRUh5S256eGNZZWFrMWlaOElBdG1EaDA0allRdzFLb3ln?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZk10cXlPZ29Sa3A1R3hsbHdYcFJCRXBqVXRJQkZBYXZxbTEtYUFobjVzTTRhY2Exd0xISF9Dei10OEQwbTV0SW92eUIwSGVBdGRuT0RhdU1nQmo2SlhMOHNZcXRxV2hObFY4eDBQRUh5S256eGNZZWFrMWlaOElBdG1EaDA0allRdzFLb3ln?oc=5",
-      "publishedAt": "2026-06-27T07:23:21.000Z",
-      "source": "Yahoo!ニュース",
+      "title": "エアバス、川重と防衛ドローン開発で提携",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5JRG02NmFWRmVYRFh3T3psQl8wa2RtbEpQNnZoUTRmWGZ3dGJrazBDdTUzSW1RX2N4SE9mM3ZqOHlpR3VlRmxQTlVieTE5QWhHd3VOMjc3YW9JeVE?oc=5\" target=\"_blank\">エアバス、川重と防衛ドローン開発で提携</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">京都新聞デジタル</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5JRG02NmFWRmVYRFh3T3psQl8wa2RtbEpQNnZoUTRmWGZ3dGJrazBDdTUzSW1RX2N4SE9mM3ZqOHlpR3VlRmxQTlVieTE5QWhHd3VOMjc3YW9JeVE?oc=5\" target=\"_blank\">エアバス、川重と防衛ドローン開発で提携</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">京都新聞デジタル</font>",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5JRG02NmFWRmVYRFh3T3psQl8wa2RtbEpQNnZoUTRmWGZ3dGJrazBDdTUzSW1RX2N4SE9mM3ZqOHlpR3VlRmxQTlVieTE5QWhHd3VOMjc3YW9JeVE?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5JRG02NmFWRmVYRFh3T3psQl8wa2RtbEpQNnZoUTRmWGZ3dGJrazBDdTUzSW1RX2N4SE9mM3ZqOHlpR3VlRmxQTlVieTE5QWhHd3VOMjc3YW9JeVE?oc=5",
+      "publishedAt": "2026-06-26T09:22:02.000Z",
+      "source": "京都新聞デジタル",
       "_feedRegion": "jp",
       "_feedName": "Google News (JP 政策/実証)",
       "_scoring": {
@@ -944,13 +944,13 @@
       }
     },
     {
-      "title": "エアバス、川重と防衛ドローン開発で提携",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5JRG02NmFWRmVYRFh3T3psQl8wa2RtbEpQNnZoUTRmWGZ3dGJrazBDdTUzSW1RX2N4SE9mM3ZqOHlpR3VlRmxQTlVieTE5QWhHd3VOMjc3YW9JeVE?oc=5\" target=\"_blank\">エアバス、川重と防衛ドローン開発で提携</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">京都新聞デジタル</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5JRG02NmFWRmVYRFh3T3psQl8wa2RtbEpQNnZoUTRmWGZ3dGJrazBDdTUzSW1RX2N4SE9mM3ZqOHlpR3VlRmxQTlVieTE5QWhHd3VOMjc3YW9JeVE?oc=5\" target=\"_blank\">エアバス、川重と防衛ドローン開発で提携</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">京都新聞デジタル</font>",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5JRG02NmFWRmVYRFh3T3psQl8wa2RtbEpQNnZoUTRmWGZ3dGJrazBDdTUzSW1RX2N4SE9mM3ZqOHlpR3VlRmxQTlVieTE5QWhHd3VOMjc3YW9JeVE?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5JRG02NmFWRmVYRFh3T3psQl8wa2RtbEpQNnZoUTRmWGZ3dGJrazBDdTUzSW1RX2N4SE9mM3ZqOHlpR3VlRmxQTlVieTE5QWhHd3VOMjc3YW9JeVE?oc=5",
-      "publishedAt": "2026-06-26T09:22:02.000Z",
-      "source": "京都新聞デジタル",
+      "title": "川崎重工とエアバス、ドローン開発で技術提携 国産対潜ドローンを開発 (ビジネス＋IT)",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOZk10cXlPZ29Sa3A1R3hsbHdYcFJCRXBqVXRJQkZBYXZxbTEtYUFobjVzTTRhY2Exd0xISF9Dei10OEQwbTV0SW92eUIwSGVBdGRuT0RhdU1nQmo2SlhMOHNZcXRxV2hObFY4eDBQRUh5S256eGNZZWFrMWlaOElBdG1EaDA0allRdzFLb3ln?oc=5\" target=\"_blank\">川崎重工とエアバス、ドローン開発で技術提携 国産対潜ドローンを開発 (ビジネス＋IT)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOZk10cXlPZ29Sa3A1R3hsbHdYcFJCRXBqVXRJQkZBYXZxbTEtYUFobjVzTTRhY2Exd0xISF9Dei10OEQwbTV0SW92eUIwSGVBdGRuT0RhdU1nQmo2SlhMOHNZcXRxV2hObFY4eDBQRUh5S256eGNZZWFrMWlaOElBdG1EaDA0allRdzFLb3ln?oc=5\" target=\"_blank\">川崎重工とエアバス、ドローン開発で技術提携 国産対潜ドローンを開発 (ビジネス＋IT)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZk10cXlPZ29Sa3A1R3hsbHdYcFJCRXBqVXRJQkZBYXZxbTEtYUFobjVzTTRhY2Exd0xISF9Dei10OEQwbTV0SW92eUIwSGVBdGRuT0RhdU1nQmo2SlhMOHNZcXRxV2hObFY4eDBQRUh5S256eGNZZWFrMWlaOElBdG1EaDA0allRdzFLb3ln?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZk10cXlPZ29Sa3A1R3hsbHdYcFJCRXBqVXRJQkZBYXZxbTEtYUFobjVzTTRhY2Exd0xISF9Dei10OEQwbTV0SW92eUIwSGVBdGRuT0RhdU1nQmo2SlhMOHNZcXRxV2hObFY4eDBQRUh5S256eGNZZWFrMWlaOElBdG1EaDA0allRdzFLb3ln?oc=5",
+      "publishedAt": "2026-06-27T07:23:21.000Z",
+      "source": "Yahoo!ニュース",
       "_feedRegion": "jp",
       "_feedName": "Google News (JP 政策/実証)",
       "_scoring": {
@@ -1018,6 +1018,43 @@
       }
     },
     {
+      "title": "テラドローン、防衛装備庁向け国産UAV300式を受注 契約額は1億1543万4000円",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE1sLXdKNlJIcU1kWkhidGNIM3NfSG9nTXoyTzNpTnJhOU03ZmRUbTlDODVVWmlya1o5UVlzOGM3N0RyR2VtRFN6aFlQT0d1TjcwM3hqMS00V0pwM0E?oc=5\" target=\"_blank\">テラドローン、防衛装備庁向け国産UAV300式を受注 契約額は1億1543万4000円</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DRONE.jp</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE1sLXdKNlJIcU1kWkhidGNIM3NfSG9nTXoyTzNpTnJhOU03ZmRUbTlDODVVWmlya1o5UVlzOGM3N0RyR2VtRFN6aFlQT0d1TjcwM3hqMS00V0pwM0E?oc=5\" target=\"_blank\">テラドローン、防衛装備庁向け国産UAV300式を受注 契約額は1億1543万4000円</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DRONE.jp</font>",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1sLXdKNlJIcU1kWkhidGNIM3NfSG9nTXoyTzNpTnJhOU03ZmRUbTlDODVVWmlya1o5UVlzOGM3N0RyR2VtRFN6aFlQT0d1TjcwM3hqMS00V0pwM0E?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1sLXdKNlJIcU1kWkhidGNIM3NfSG9nTXoyTzNpTnJhOU03ZmRUbTlDODVVWmlya1o5UVlzOGM3N0RyR2VtRFN6aFlQT0d1TjcwM3hqMS00V0pwM0E?oc=5",
+      "publishedAt": "2026-05-11T07:00:00.000Z",
+      "source": "DRONE.jp",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP ドローン専門)",
+      "_scoring": {
+        "score": 60,
+        "categories": [
+          "市場・資金",
+          "政策・インフラ"
+        ],
+        "breakdown": {
+          "required": true,
+          "market": {
+            "matches": 1,
+            "catScore": 20
+          },
+          "policy": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 0,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
       "title": "Possible drone collision with JetBlue jet under FAA investigation",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxObzVBU1hmdXBFN3VLSThnRDJpUFc4T2FLZHUzYjhtR0tpOS1iYmstYkVzdEhIZzFfUGtJSDcySTh6cFZOcHNrOHhYaFNmZGxBWWdYWTZNc3Z1by02SnpTRlhvd3NOZTFKZnpMalRrVnhabGhwME1MZnZ3WVkyWXZDaG1XMjgyb3ROeE9XcTBTbVlzY1NTcTVGcm9nVmFxNVEwOF9HRUlsS3VwRUwxa1JiNC1JN1VKbDA?oc=5\" target=\"_blank\">Possible drone collision with JetBlue jet under FAA investigation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">USA Today</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxObzVBU1hmdXBFN3VLSThnRDJpUFc4T2FLZHUzYjhtR0tpOS1iYmstYkVzdEhIZzFfUGtJSDcySTh6cFZOcHNrOHhYaFNmZGxBWWdYWTZNc3Z1by02SnpTRlhvd3NOZTFKZnpMalRrVnhabGhwME1MZnZ3WVkyWXZDaG1XMjgyb3ROeE9XcTBTbVlzY1NTcTVGcm9nVmFxNVEwOF9HRUlsS3VwRUwxa1JiNC1JN1VKbDA?oc=5\" target=\"_blank\">Possible drone collision with JetBlue jet under FAA investigation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">USA Today</font>",
@@ -1059,42 +1096,6 @@
       "content": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxQQkRSbDdOcHJSQnBGY0w5dGdUdDRRVmRYc1lOaUhtbHRWYlFZTk5Tc3pwYk5RZGdxQWJBbEJOZzZmT1VpcThYX3BwOXZaTS1NbUhaX1ZseHZGbTF5ZjI4OFNYYi1aM3RfYkRIVm5sSWhEMG03N0JrV1dhcVNhNVlQclMzMnBkTFBzSFhwdk9ZQkJxR0RtOWFsTkpPV2JrQnJWYTk4WVB3alVPMDFaemFMQmFFdVhmUUdiaWtSdFpHZUlrWE1kZkdwZFZJSzVLYlVhR3VlRVg5dkZJZWIybC1wQ2pSbUFjOWZiQjk5b1hIejI?oc=5\" target=\"_blank\">FAA probes Newark near-miss between United jet and drone</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQQkRSbDdOcHJSQnBGY0w5dGdUdDRRVmRYc1lOaUhtbHRWYlFZTk5Tc3pwYk5RZGdxQWJBbEJOZzZmT1VpcThYX3BwOXZaTS1NbUhaX1ZseHZGbTF5ZjI4OFNYYi1aM3RfYkRIVm5sSWhEMG03N0JrV1dhcVNhNVlQclMzMnBkTFBzSFhwdk9ZQkJxR0RtOWFsTkpPV2JrQnJWYTk4WVB3alVPMDFaemFMQmFFdVhmUUdiaWtSdFpHZUlrWE1kZkdwZFZJSzVLYlVhR3VlRVg5dkZJZWIybC1wQ2pSbUFjOWZiQjk5b1hIejI?oc=5",
       "googleNewsUrl": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQQkRSbDdOcHJSQnBGY0w5dGdUdDRRVmRYc1lOaUhtbHRWYlFZTk5Tc3pwYk5RZGdxQWJBbEJOZzZmT1VpcThYX3BwOXZaTS1NbUhaX1ZseHZGbTF5ZjI4OFNYYi1aM3RfYkRIVm5sSWhEMG03N0JrV1dhcVNhNVlQclMzMnBkTFBzSFhwdk9ZQkJxR0RtOWFsTkpPV2JrQnJWYTk4WVB3alVPMDFaemFMQmFFdVhmUUdiaWtSdFpHZUlrWE1kZkdwZFZJSzVLYlVhR3VlRVg5dkZJZWIybC1wQ2pSbUFjOWZiQjk5b1hIejI?oc=5",
-      "publishedAt": "2026-06-28T13:20:34.000Z",
-      "source": "MSN",
-      "_feedRegion": "us",
-      "_feedName": "FAA",
-      "_scoring": {
-        "score": 58,
-        "categories": [
-          "規制・政策",
-          "事故・事件"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 1,
-            "catScore": 32
-          },
-          "incident": {
-            "matches": 1,
-            "catScore": 28
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 0,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "FAA probes Newark near-miss between United flight and drone",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxNbldCTFduZEZ3VUFUbnJJS2dCQmx4dkxOc093VVVhc0s4TnlFNkw4cE9BU3hQMkl0RnZ3VUY1d2c4VWcxZ2pDc1RzOGQ5M0hnSHZ0Y3FzbEhVRFJ4eWdYTXZwRTJuTE9RN3ZtdGJJTjJBM1RxT3JxWGoweVRTcE1OYzN2Z3psZVB2NlFjOHVDTWJqSHB1aUJMZjhmaW40M1haR1NZNnc5UTZDcUxGR21ldmlOZ1RreWJvbE9GVmQ5SzVLaTQ0Xzd5c0NxN2h4RXdLMWhBRlQ3WVZiTDBTcEtma1puOVNocUprcVlKUjBHM0tuamM?oc=5\" target=\"_blank\">FAA probes Newark near-miss between United flight and drone</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxNbldCTFduZEZ3VUFUbnJJS2dCQmx4dkxOc093VVVhc0s4TnlFNkw4cE9BU3hQMkl0RnZ3VUY1d2c4VWcxZ2pDc1RzOGQ5M0hnSHZ0Y3FzbEhVRFJ4eWdYTXZwRTJuTE9RN3ZtdGJJTjJBM1RxT3JxWGoweVRTcE1OYzN2Z3psZVB2NlFjOHVDTWJqSHB1aUJMZjhmaW40M1haR1NZNnc5UTZDcUxGR21ldmlOZ1RreWJvbE9GVmQ5SzVLaTQ0Xzd5c0NxN2h4RXdLMWhBRlQ3WVZiTDBTcEtma1puOVNocUprcVlKUjBHM0tuamM?oc=5\" target=\"_blank\">FAA probes Newark near-miss between United flight and drone</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNbldCTFduZEZ3VUFUbnJJS2dCQmx4dkxOc093VVVhc0s4TnlFNkw4cE9BU3hQMkl0RnZ3VUY1d2c4VWcxZ2pDc1RzOGQ5M0hnSHZ0Y3FzbEhVRFJ4eWdYTXZwRTJuTE9RN3ZtdGJJTjJBM1RxT3JxWGoweVRTcE1OYzN2Z3psZVB2NlFjOHVDTWJqSHB1aUJMZjhmaW40M1haR1NZNnc5UTZDcUxGR21ldmlOZ1RreWJvbE9GVmQ5SzVLaTQ0Xzd5c0NxN2h4RXdLMWhBRlQ3WVZiTDBTcEtma1puOVNocUprcVlKUjBHM0tuamM?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNbldCTFduZEZ3VUFUbnJJS2dCQmx4dkxOc093VVVhc0s4TnlFNkw4cE9BU3hQMkl0RnZ3VUY1d2c4VWcxZ2pDc1RzOGQ5M0hnSHZ0Y3FzbEhVRFJ4eWdYTXZwRTJuTE9RN3ZtdGJJTjJBM1RxT3JxWGoweVRTcE1OYzN2Z3psZVB2NlFjOHVDTWJqSHB1aUJMZjhmaW40M1haR1NZNnc5UTZDcUxGR21ldmlOZ1RreWJvbE9GVmQ5SzVLaTQ0Xzd5c0NxN2h4RXdLMWhBRlQ3WVZiTDBTcEtma1puOVNocUprcVlKUjBHM0tuamM?oc=5",
       "publishedAt": "2026-06-28T13:20:34.000Z",
       "source": "MSN",
       "_feedRegion": "us",
