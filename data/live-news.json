@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-10T04:55:56.839Z",
-  "rawCount": 752,
+  "generatedAt": "2026-07-10T08:27:57.302Z",
+  "rawCount": 755,
   "articles": [
     {
       "title": "Drone over NYC crashes into plane flying into JFK Airport; FAA investigating",
@@ -80,6 +80,102 @@
           },
           "freshness": 0,
           "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "ドローン規制に新ルール、国交省 工業専用地域は許可不要に",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5DNHhRSzcxdjVPUnpfSlQ2MkwxQm1fWGNPYm5OTUpGT1VzVFd5NjFiOTBOMnpWekwxUmNHbzZITUVLZDVMTW1rZkhGSTNhMkttdEVZZEYzdmdHT3JFSWJFMlRacw?oc=5\" target=\"_blank\">ドローン規制に新ルール、国交省 工業専用地域は許可不要に</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">nippon.com</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5DNHhRSzcxdjVPUnpfSlQ2MkwxQm1fWGNPYm5OTUpGT1VzVFd5NjFiOTBOMnpWekwxUmNHbzZITUVLZDVMTW1rZkhGSTNhMkttdEVZZEYzdmdHT3JFSWJFMlRacw?oc=5\" target=\"_blank\">ドローン規制に新ルール、国交省 工業専用地域は許可不要に</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">nippon.com</font>",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5DNHhRSzcxdjVPUnpfSlQ2MkwxQm1fWGNPYm5OTUpGT1VzVFd5NjFiOTBOMnpWekwxUmNHbzZITUVLZDVMTW1rZkhGSTNhMkttdEVZZEYzdmdHT3JFSWJFMlRacw?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5DNHhRSzcxdjVPUnpfSlQ2MkwxQm1fWGNPYm5OTUpGT1VzVFd5NjFiOTBOMnpWekwxUmNHbzZITUVLZDVMTW1rZkhGSTNhMkttdEVZZEYzdmdHT3JFSWJFMlRacw?oc=5",
+      "publishedAt": "2026-07-10T06:23:03.000Z",
+      "source": "nippon.com",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP 政策/実証)",
+      "_scoring": {
+        "score": 77,
+        "categories": [
+          "規制・政策"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 2,
+            "catScore": 40
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 20,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "ドローン規制に新ルール、国交省 工業専用地域は許可不要に | | 全国のニュース",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFBJYkdJRG5KbzBQX01tazhPYlZjSVFzUTdKYXo1SUJ4Vnk0N1hfS3F3eDU3NFBJNjE5Wks2LXRPZC1sSGU5WXVLLWxWRUZIUEdpRFBDc1Nn?oc=5\" target=\"_blank\">ドローン規制に新ルール、国交省 工業専用地域は許可不要に | | 全国のニュース</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">佐賀新聞</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFBJYkdJRG5KbzBQX01tazhPYlZjSVFzUTdKYXo1SUJ4Vnk0N1hfS3F3eDU3NFBJNjE5Wks2LXRPZC1sSGU5WXVLLWxWRUZIUEdpRFBDc1Nn?oc=5\" target=\"_blank\">ドローン規制に新ルール、国交省 工業専用地域は許可不要に | | 全国のニュース</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">佐賀新聞</font>",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBJYkdJRG5KbzBQX01tazhPYlZjSVFzUTdKYXo1SUJ4Vnk0N1hfS3F3eDU3NFBJNjE5Wks2LXRPZC1sSGU5WXVLLWxWRUZIUEdpRFBDc1Nn?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBJYkdJRG5KbzBQX01tazhPYlZjSVFzUTdKYXo1SUJ4Vnk0N1hfS3F3eDU3NFBJNjE5Wks2LXRPZC1sSGU5WXVLLWxWRUZIUEdpRFBDc1Nn?oc=5",
+      "publishedAt": "2026-07-10T06:22:00.000Z",
+      "source": "佐賀新聞",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP 政策/実証)",
+      "_scoring": {
+        "score": 77,
+        "categories": [
+          "規制・政策"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 2,
+            "catScore": 40
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 20,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "ドローン規制に新ルール、国交省",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE5OSFU3YnREUHRpSGpNZGxuZlhDeTNjMlM4ZmNnNWloSkc5bzNCU29fWF9aNjkyYjFWdjFHTm5OZGR6TTh1TkNPaTFFbnlQTFFFRE1kZ1ZQZlJ1aDAxQnJQRjE2RVcwbXI5Slhac2FUMzA5cVFpTmc4?oc=5\" target=\"_blank\">ドローン規制に新ルール、国交省</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">デイリースポーツ</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE5OSFU3YnREUHRpSGpNZGxuZlhDeTNjMlM4ZmNnNWloSkc5bzNCU29fWF9aNjkyYjFWdjFHTm5OZGR6TTh1TkNPaTFFbnlQTFFFRE1kZ1ZQZlJ1aDAxQnJQRjE2RVcwbXI5Slhac2FUMzA5cVFpTmc4?oc=5\" target=\"_blank\">ドローン規制に新ルール、国交省</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">デイリースポーツ</font>",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5OSFU3YnREUHRpSGpNZGxuZlhDeTNjMlM4ZmNnNWloSkc5bzNCU29fWF9aNjkyYjFWdjFHTm5OZGR6TTh1TkNPaTFFbnlQTFFFRE1kZ1ZQZlJ1aDAxQnJQRjE2RVcwbXI5Slhac2FUMzA5cVFpTmc4?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5OSFU3YnREUHRpSGpNZGxuZlhDeTNjMlM4ZmNnNWloSkc5bzNCU29fWF9aNjkyYjFWdjFHTm5OZGR6TTh1TkNPaTFFbnlQTFFFRE1kZ1ZQZlJ1aDAxQnJQRjE2RVcwbXI5Slhac2FUMzA5cVFpTmc4?oc=5",
+      "publishedAt": "2026-07-10T06:23:00.000Z",
+      "source": "デイリースポーツ",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP 政策/実証)",
+      "_scoring": {
+        "score": 77,
+        "categories": [
+          "規制・政策"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 2,
+            "catScore": 40
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 20,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
         },
         "pass": true
       }
@@ -319,42 +415,6 @@
       }
     },
     {
-      "title": "DOD Awards $86M Laser Weapon Systems to Boost Next-Gen Cruise Missiles, UAS",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOOUdkVnBySDhRX0x2bWhUTmxJUlhXUk5zaHA0RkoyeEJUYTFsX0Z0WHdUQ1IzcHh6UENya2I3M29HRjNSZjJwUG53R1ZnSkNMYTYtUXdOU3R5T1lsbjdnWXJGSUg2VWdiVk90VzAzdm9vSlQzaUtKb3g3QWVid2ZsMW00OUxOdERkaWlQclVsc21MWEtfbERnMU93M0pBSkU?oc=5\" target=\"_blank\">DOD Awards $86M Laser Weapon Systems to Boost Next-Gen Cruise Missiles, UAS</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Military.com</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOOUdkVnBySDhRX0x2bWhUTmxJUlhXUk5zaHA0RkoyeEJUYTFsX0Z0WHdUQ1IzcHh6UENya2I3M29HRjNSZjJwUG53R1ZnSkNMYTYtUXdOU3R5T1lsbjdnWXJGSUg2VWdiVk90VzAzdm9vSlQzaUtKb3g3QWVid2ZsMW00OUxOdERkaWlQclVsc21MWEtfbERnMU93M0pBSkU?oc=5\" target=\"_blank\">DOD Awards $86M Laser Weapon Systems to Boost Next-Gen Cruise Missiles, UAS</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Military.com</font>",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOOUdkVnBySDhRX0x2bWhUTmxJUlhXUk5zaHA0RkoyeEJUYTFsX0Z0WHdUQ1IzcHh6UENya2I3M29HRjNSZjJwUG53R1ZnSkNMYTYtUXdOU3R5T1lsbjdnWXJGSUg2VWdiVk90VzAzdm9vSlQzaUtKb3g3QWVid2ZsMW00OUxOdERkaWlQclVsc21MWEtfbERnMU93M0pBSkU?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOOUdkVnBySDhRX0x2bWhUTmxJUlhXUk5zaHA0RkoyeEJUYTFsX0Z0WHdUQ1IzcHh6UENya2I3M29HRjNSZjJwUG53R1ZnSkNMYTYtUXdOU3R5T1lsbjdnWXJGSUg2VWdiVk90VzAzdm9vSlQzaUtKb3g3QWVid2ZsMW00OUxOdERkaWlQclVsc21MWEtfbERnMU93M0pBSkU?oc=5",
-      "publishedAt": "2026-07-09T18:02:32.000Z",
-      "source": "Military.com",
-      "_feedRegion": "global",
-      "_feedName": "Google News (Global)",
-      "_scoring": {
-        "score": 68,
-        "categories": [
-          "技術・製品",
-          "政策・インフラ"
-        ],
-        "breakdown": {
-          "required": true,
-          "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "policy": {
-            "matches": 2,
-            "catScore": 30
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 15,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
       "title": "開発中の空飛ぶクルマ「SKYDRIVE」、累計300フライトを事故無く達成",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFBqMWpFcW1QcWhWT3RCcWJZN2RWc3Q5R1d2dXluMWZQMVd1WkhaOFQyVTc3UklKQUl1bldRc3h2OWxuTWNYVEl3ejZMd1A3VjVkRWtXdnpLcmdYbzRhUUU4?oc=5\" target=\"_blank\">開発中の空飛ぶクルマ「SKYDRIVE」、累計300フライトを事故無く達成</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">レスポンス（Response.jp）</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFBqMWpFcW1QcWhWT3RCcWJZN2RWc3Q5R1d2dXluMWZQMVd1WkhaOFQyVTc3UklKQUl1bldRc3h2OWxuTWNYVEl3ejZMd1A3VjVkRWtXdnpLcmdYbzRhUUU4?oc=5\" target=\"_blank\">開発中の空飛ぶクルマ「SKYDRIVE」、累計300フライトを事故無く達成</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">レスポンス（Response.jp）</font>",
@@ -385,70 +445,6 @@
             "multiplier": 0.8
           },
           "freshness": 0,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "大阪・関西万博デモフライトを経て累計300フライトを無事故達成。SkyDriveの空飛ぶクルマ「SKYDRIVE」が実用フェーズへ - digital-construction.jp",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE9HM3YyUU43Y1lwNWJXVUp1Vko3bUVUOFVSaG0wV3lmVE1Ea1RIRXZjbE1qSHVaalpDa3ZjbjJMMUxPdnU1aDh1Y3pvX2QtVDhKQXNV?oc=5\" target=\"_blank\">大阪・関西万博デモフライトを経て累計300フライトを無事故達成。SkyDriveの空飛ぶクルマ「SKYDRIVE」が実用フェーズへ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">digital-construction.jp</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE9HM3YyUU43Y1lwNWJXVUp1Vko3bUVUOFVSaG0wV3lmVE1Ea1RIRXZjbE1qSHVaalpDa3ZjbjJMMUxPdnU1aDh1Y3pvX2QtVDhKQXNV?oc=5\" target=\"_blank\">大阪・関西万博デモフライトを経て累計300フライトを無事故達成。SkyDriveの空飛ぶクルマ「SKYDRIVE」が実用フェーズへ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">digital-construction.jp</font>",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9HM3YyUU43Y1lwNWJXVUp1Vko3bUVUOFVSaG0wV3lmVE1Ea1RIRXZjbE1qSHVaalpDa3ZjbjJMMUxPdnU1aDh1Y3pvX2QtVDhKQXNV?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9HM3YyUU43Y1lwNWJXVUp1Vko3bUVUOFVSaG0wV3lmVE1Ea1RIRXZjbE1qSHVaalpDa3ZjbjJMMUxPdnU1aDh1Y3pvX2QtVDhKQXNV?oc=5",
-      "publishedAt": "2026-07-10T02:12:08.000Z",
-      "source": "digital-construction.jp",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP 事業者/実装)",
-      "_scoring": {
-        "score": 67,
-        "categories": [
-          "事故・事件"
-        ],
-        "breakdown": {
-          "required": true,
-          "incident": {
-            "matches": 1,
-            "catScore": 28
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 20,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "［論説］改正ドローン規制法 農業利用の支障避けよ",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE9PZnFpT2FMOWl2MERLaE9ZVk9fRHVCbUNJb2VBdXZZaTF3NDdjVFN4c25PQXVWNUkzRlMxc3J4TnY2STVucGNPR0ZuZE9Td0MxQTRhYV9FY19EM28?oc=5\" target=\"_blank\">［論説］改正ドローン規制法 農業利用の支障避けよ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本農業新聞</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE9PZnFpT2FMOWl2MERLaE9ZVk9fRHVCbUNJb2VBdXZZaTF3NDdjVFN4c25PQXVWNUkzRlMxc3J4TnY2STVucGNPR0ZuZE9Td0MxQTRhYV9FY19EM28?oc=5\" target=\"_blank\">［論説］改正ドローン規制法 農業利用の支障避けよ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本農業新聞</font>",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9PZnFpT2FMOWl2MERLaE9ZVk9fRHVCbUNJb2VBdXZZaTF3NDdjVFN4c25PQXVWNUkzRlMxc3J4TnY2STVucGNPR0ZuZE9Td0MxQTRhYV9FY19EM28?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9PZnFpT2FMOWl2MERLaE9ZVk9fRHVCbUNJb2VBdXZZaTF3NDdjVFN4c25PQXVWNUkzRlMxc3J4TnY2STVucGNPR0ZuZE9Td0MxQTRhYV9FY19EM28?oc=5",
-      "publishedAt": "2026-07-09T20:05:08.000Z",
-      "source": "日本農業新聞",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP)",
-      "_scoring": {
-        "score": 66,
-        "categories": [
-          "規制・政策"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 1,
-            "catScore": 32
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 15,
           "titleBonus": 10,
           "jpRegionBonus": 15
         },
@@ -567,6 +563,79 @@
       }
     },
     {
+      "title": "Liberaware Korea、韓国のドローン基盤インフラ管理プラットフォーム企業ALTIVIONと業務提携",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9IY1dQM3ZwYTgyNlFmT0pyVF9FNnRQN0U2VEJxTTZob1pRdUdFZmhlS1Q0S2FxY3hTUkRNdDliSldybWtJSHlaZHY2VkI1d1FwTzdRdm9xaGJNZW04Vm96UlJ0azlucE1UZ1E?oc=5\" target=\"_blank\">Liberaware Korea、韓国のドローン基盤インフラ管理プラットフォーム企業ALTIVIONと業務提携</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ドローンジャーナル</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9IY1dQM3ZwYTgyNlFmT0pyVF9FNnRQN0U2VEJxTTZob1pRdUdFZmhlS1Q0S2FxY3hTUkRNdDliSldybWtJSHlaZHY2VkI1d1FwTzdRdm9xaGJNZW04Vm96UlJ0azlucE1UZ1E?oc=5\" target=\"_blank\">Liberaware Korea、韓国のドローン基盤インフラ管理プラットフォーム企業ALTIVIONと業務提携</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ドローンジャーナル</font>",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9IY1dQM3ZwYTgyNlFmT0pyVF9FNnRQN0U2VEJxTTZob1pRdUdFZmhlS1Q0S2FxY3hTUkRNdDliSldybWtJSHlaZHY2VkI1d1FwTzdRdm9xaGJNZW04Vm96UlJ0azlucE1UZ1E?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9IY1dQM3ZwYTgyNlFmT0pyVF9FNnRQN0U2VEJxTTZob1pRdUdFZmhlS1Q0S2FxY3hTUkRNdDliSldybWtJSHlaZHY2VkI1d1FwTzdRdm9xaGJNZW04Vm96UlJ0azlucE1UZ1E?oc=5",
+      "publishedAt": "2026-07-01T03:02:46.000Z",
+      "source": "ドローンジャーナル",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP 政策/実証)",
+      "_scoring": {
+        "score": 64,
+        "categories": [
+          "市場・資金",
+          "政策・インフラ"
+        ],
+        "breakdown": {
+          "required": true,
+          "market": {
+            "matches": 2,
+            "catScore": 25
+          },
+          "policy": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 0,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "DOD Awards $86M Laser Weapon Systems to Boost Next-Gen Cruise Missiles, UAS",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOOUdkVnBySDhRX0x2bWhUTmxJUlhXUk5zaHA0RkoyeEJUYTFsX0Z0WHdUQ1IzcHh6UENya2I3M29HRjNSZjJwUG53R1ZnSkNMYTYtUXdOU3R5T1lsbjdnWXJGSUg2VWdiVk90VzAzdm9vSlQzaUtKb3g3QWVid2ZsMW00OUxOdERkaWlQclVsc21MWEtfbERnMU93M0pBSkU?oc=5\" target=\"_blank\">DOD Awards $86M Laser Weapon Systems to Boost Next-Gen Cruise Missiles, UAS</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Military.com</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOOUdkVnBySDhRX0x2bWhUTmxJUlhXUk5zaHA0RkoyeEJUYTFsX0Z0WHdUQ1IzcHh6UENya2I3M29HRjNSZjJwUG53R1ZnSkNMYTYtUXdOU3R5T1lsbjdnWXJGSUg2VWdiVk90VzAzdm9vSlQzaUtKb3g3QWVid2ZsMW00OUxOdERkaWlQclVsc21MWEtfbERnMU93M0pBSkU?oc=5\" target=\"_blank\">DOD Awards $86M Laser Weapon Systems to Boost Next-Gen Cruise Missiles, UAS</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Military.com</font>",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOOUdkVnBySDhRX0x2bWhUTmxJUlhXUk5zaHA0RkoyeEJUYTFsX0Z0WHdUQ1IzcHh6UENya2I3M29HRjNSZjJwUG53R1ZnSkNMYTYtUXdOU3R5T1lsbjdnWXJGSUg2VWdiVk90VzAzdm9vSlQzaUtKb3g3QWVid2ZsMW00OUxOdERkaWlQclVsc21MWEtfbERnMU93M0pBSkU?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOOUdkVnBySDhRX0x2bWhUTmxJUlhXUk5zaHA0RkoyeEJUYTFsX0Z0WHdUQ1IzcHh6UENya2I3M29HRjNSZjJwUG53R1ZnSkNMYTYtUXdOU3R5T1lsbjdnWXJGSUg2VWdiVk90VzAzdm9vSlQzaUtKb3g3QWVid2ZsMW00OUxOdERkaWlQclVsc21MWEtfbERnMU93M0pBSkU?oc=5",
+      "publishedAt": "2026-07-09T18:02:32.000Z",
+      "source": "Military.com",
+      "_feedRegion": "global",
+      "_feedName": "Google News (Global)",
+      "_scoring": {
+        "score": 63,
+        "categories": [
+          "技術・製品",
+          "政策・インフラ"
+        ],
+        "breakdown": {
+          "required": true,
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "policy": {
+            "matches": 2,
+            "catScore": 30
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 10,
+          "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
       "title": "広島市安佐南区でドローン警備やインフラ点検の実証実験、人手不足解消や災害対応に期待",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE5KdElGcTRHRHRYVFdONUlZZ1JnbG83bHhxUjluWTdleEFyV3FLZU4zbEQza09uSEpvTXJUTnVaSnp6TmpHZWtHXzg0QQ?oc=5\" target=\"_blank\">広島市安佐南区でドローン警備やインフラ点検の実証実験、人手不足解消や災害対応に期待</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">47NEWS</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE5KdElGcTRHRHRYVFdONUlZZ1JnbG83bHhxUjluWTdleEFyV3FLZU4zbEQza09uSEpvTXJUTnVaSnp6TmpHZWtHXzg0QQ?oc=5\" target=\"_blank\">広島市安佐南区でドローン警備やインフラ点検の実証実験、人手不足解消や災害対応に期待</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">47NEWS</font>",
@@ -604,6 +673,70 @@
       }
     },
     {
+      "title": "大阪・関西万博デモフライトを経て累計300フライトを無事故達成。SkyDriveの空飛ぶクルマ「SKYDRIVE」が実用フェーズへ - digital-construction.jp",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE9HM3YyUU43Y1lwNWJXVUp1Vko3bUVUOFVSaG0wV3lmVE1Ea1RIRXZjbE1qSHVaalpDa3ZjbjJMMUxPdnU1aDh1Y3pvX2QtVDhKQXNV?oc=5\" target=\"_blank\">大阪・関西万博デモフライトを経て累計300フライトを無事故達成。SkyDriveの空飛ぶクルマ「SKYDRIVE」が実用フェーズへ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">digital-construction.jp</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE9HM3YyUU43Y1lwNWJXVUp1Vko3bUVUOFVSaG0wV3lmVE1Ea1RIRXZjbE1qSHVaalpDa3ZjbjJMMUxPdnU1aDh1Y3pvX2QtVDhKQXNV?oc=5\" target=\"_blank\">大阪・関西万博デモフライトを経て累計300フライトを無事故達成。SkyDriveの空飛ぶクルマ「SKYDRIVE」が実用フェーズへ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">digital-construction.jp</font>",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9HM3YyUU43Y1lwNWJXVUp1Vko3bUVUOFVSaG0wV3lmVE1Ea1RIRXZjbE1qSHVaalpDa3ZjbjJMMUxPdnU1aDh1Y3pvX2QtVDhKQXNV?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9HM3YyUU43Y1lwNWJXVUp1Vko3bUVUOFVSaG0wV3lmVE1Ea1RIRXZjbE1qSHVaalpDa3ZjbjJMMUxPdnU1aDh1Y3pvX2QtVDhKQXNV?oc=5",
+      "publishedAt": "2026-07-10T02:12:08.000Z",
+      "source": "digital-construction.jp",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP 事業者/実装)",
+      "_scoring": {
+        "score": 62,
+        "categories": [
+          "事故・事件"
+        ],
+        "breakdown": {
+          "required": true,
+          "incident": {
+            "matches": 1,
+            "catScore": 28
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 15,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "［論説］改正ドローン規制法 農業利用の支障避けよ",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE9PZnFpT2FMOWl2MERLaE9ZVk9fRHVCbUNJb2VBdXZZaTF3NDdjVFN4c25PQXVWNUkzRlMxc3J4TnY2STVucGNPR0ZuZE9Td0MxQTRhYV9FY19EM28?oc=5\" target=\"_blank\">［論説］改正ドローン規制法 農業利用の支障避けよ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本農業新聞</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE9PZnFpT2FMOWl2MERLaE9ZVk9fRHVCbUNJb2VBdXZZaTF3NDdjVFN4c25PQXVWNUkzRlMxc3J4TnY2STVucGNPR0ZuZE9Td0MxQTRhYV9FY19EM28?oc=5\" target=\"_blank\">［論説］改正ドローン規制法 農業利用の支障避けよ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本農業新聞</font>",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9PZnFpT2FMOWl2MERLaE9ZVk9fRHVCbUNJb2VBdXZZaTF3NDdjVFN4c25PQXVWNUkzRlMxc3J4TnY2STVucGNPR0ZuZE9Td0MxQTRhYV9FY19EM28?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9PZnFpT2FMOWl2MERLaE9ZVk9fRHVCbUNJb2VBdXZZaTF3NDdjVFN4c25PQXVWNUkzRlMxc3J4TnY2STVucGNPR0ZuZE9Td0MxQTRhYV9FY19EM28?oc=5",
+      "publishedAt": "2026-07-09T20:05:08.000Z",
+      "source": "日本農業新聞",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP)",
+      "_scoring": {
+        "score": 61,
+        "categories": [
+          "規制・政策"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 10,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
       "title": "Skyports Infrastructure to collaborate with City of Gold Coast to advance commercial Advanced Air Mobility in region",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMS1tbTRzUnRnSWcyMnN3ZkltU2ZJbVE0ckJNV1VRRGN5WnhubjNoVy03VmtvMzJhT19NVFJ1RHVydVR0SkJ1SGtIZzZERGhna050TkFSckJkdlU0cm8xWkhxeXZIcDViTHFaak13Y2hRNUpHOXpTS0hkTTBEeDBZa0JaSEtwaEk1c1ZCUkhDN2JtMVdQclJrNzhHUDYxWVpodWQyNVB5ZHk2MXFLUVlOTmNxRUtVOXRoem5BbElZRUg5NXRScEw0SEtpZ29SMWJndFhQaEhmYndqQQ?oc=5\" target=\"_blank\">Skyports Infrastructure to collaborate with City of Gold Coast to advance commercial Advanced Air Mobility in region</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Skyports Infrastructure</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMS1tbTRzUnRnSWcyMnN3ZkltU2ZJbVE0ckJNV1VRRGN5WnhubjNoVy03VmtvMzJhT19NVFJ1RHVydVR0SkJ1SGtIZzZERGhna050TkFSckJkdlU0cm8xWkhxeXZIcDViTHFaak13Y2hRNUpHOXpTS0hkTTBEeDBZa0JaSEtwaEk1c1ZCUkhDN2JtMVdQclJrNzhHUDYxWVpodWQyNVB5ZHk2MXFLUVlOTmNxRUtVOXRoem5BbElZRUg5NXRScEw0SEtpZ29SMWJndFhQaEhmYndqQQ?oc=5\" target=\"_blank\">Skyports Infrastructure to collaborate with City of Gold Coast to advance commercial Advanced Air Mobility in region</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Skyports Infrastructure</font>",
@@ -614,7 +747,7 @@
       "_feedRegion": "global",
       "_feedName": "Google News (Global)",
       "_scoring": {
-        "score": 62,
+        "score": 60,
         "categories": [
           "規制・政策",
           "政策・インフラ"
@@ -633,45 +766,8 @@
             "domain": "news.google.com",
             "multiplier": 0.8
           },
-          "freshness": 2,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "日本HPが3DプリンターHP Jet Fusionシリーズによるドローン量産技術を公開、製造時間を大幅に短縮へ",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE9hQU5iUXpNaWNCVUVZa0IxWXplMzhSZXctc280ckZ2dnY2a0xHV3RSWVcybElOMHVCbHZ6a1hCMVA4MGFFRHN3MnMtTUladXB0d2NVVGdWbkZPYjZwUTBjazlVbGJaRE5oS0Zr?oc=5\" target=\"_blank\">日本HPが3DプリンターHP Jet Fusionシリーズによるドローン量産技術を公開、製造時間を大幅に短縮へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ドローンジャーナル</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE9hQU5iUXpNaWNCVUVZa0IxWXplMzhSZXctc280ckZ2dnY2a0xHV3RSWVcybElOMHVCbHZ6a1hCMVA4MGFFRHN3MnMtTUladXB0d2NVVGdWbkZPYjZwUTBjazlVbGJaRE5oS0Zr?oc=5\" target=\"_blank\">日本HPが3DプリンターHP Jet Fusionシリーズによるドローン量産技術を公開、製造時間を大幅に短縮へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ドローンジャーナル</font>",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9hQU5iUXpNaWNCVUVZa0IxWXplMzhSZXctc280ckZ2dnY2a0xHV3RSWVcybElOMHVCbHZ6a1hCMVA4MGFFRHN3MnMtTUladXB0d2NVVGdWbkZPYjZwUTBjazlVbGJaRE5oS0Zr?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9hQU5iUXpNaWNCVUVZa0IxWXplMzhSZXctc280ckZ2dnY2a0xHV3RSWVcybElOMHVCbHZ6a1hCMVA4MGFFRHN3MnMtTUladXB0d2NVVGdWbkZPYjZwUTBjazlVbGJaRE5oS0Zr?oc=5",
-      "publishedAt": "2026-07-07T00:55:25.000Z",
-      "source": "ドローンジャーナル",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP)",
-      "_scoring": {
-        "score": 60,
-        "categories": [
-          "技術・製品",
-          "市場・資金"
-        ],
-        "breakdown": {
-          "required": true,
-          "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "market": {
-            "matches": 1,
-            "catScore": 20
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
           "freshness": 0,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
+          "titleBonus": 10
         },
         "pass": true
       }
@@ -863,12 +959,12 @@
     },
     {
       "title": "エアバス、川重と防衛ドローン開発で提携",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5JRG02NmFWRmVYRFh3T3psQl8wa2RtbEpQNnZoUTRmWGZ3dGJrazBDdTUzSW1RX2N4SE9mM3ZqOHlpR3VlRmxQTlVieTE5QWhHd3VOMjc3YW9JeVE?oc=5\" target=\"_blank\">エアバス、川重と防衛ドローン開発で提携</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">京都新聞デジタル</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5JRG02NmFWRmVYRFh3T3psQl8wa2RtbEpQNnZoUTRmWGZ3dGJrazBDdTUzSW1RX2N4SE9mM3ZqOHlpR3VlRmxQTlVieTE5QWhHd3VOMjc3YW9JeVE?oc=5\" target=\"_blank\">エアバス、川重と防衛ドローン開発で提携</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">京都新聞デジタル</font>",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5JRG02NmFWRmVYRFh3T3psQl8wa2RtbEpQNnZoUTRmWGZ3dGJrazBDdTUzSW1RX2N4SE9mM3ZqOHlpR3VlRmxQTlVieTE5QWhHd3VOMjc3YW9JeVE?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5JRG02NmFWRmVYRFh3T3psQl8wa2RtbEpQNnZoUTRmWGZ3dGJrazBDdTUzSW1RX2N4SE9mM3ZqOHlpR3VlRmxQTlVieTE5QWhHd3VOMjc3YW9JeVE?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9UQ1NMdTZCUmFCNjdaR1EtMU5XSkJmMllvYWRVUE9GM0R1U05XY3JMSms2ZjhoblFod25KcUpWdktuX0ljWVNOcXBDMHA5MGcxamVaeFltQWZVMWQxYjNVb0xFWQ?oc=5\" target=\"_blank\">エアバス、川重と防衛ドローン開発で提携</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">nippon.com</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9UQ1NMdTZCUmFCNjdaR1EtMU5XSkJmMllvYWRVUE9GM0R1U05XY3JMSms2ZjhoblFod25KcUpWdktuX0ljWVNOcXBDMHA5MGcxamVaeFltQWZVMWQxYjNVb0xFWQ?oc=5\" target=\"_blank\">エアバス、川重と防衛ドローン開発で提携</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">nippon.com</font>",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9UQ1NMdTZCUmFCNjdaR1EtMU5XSkJmMllvYWRVUE9GM0R1U05XY3JMSms2ZjhoblFod25KcUpWdktuX0ljWVNOcXBDMHA5MGcxamVaeFltQWZVMWQxYjNVb0xFWQ?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9UQ1NMdTZCUmFCNjdaR1EtMU5XSkJmMllvYWRVUE9GM0R1U05XY3JMSms2ZjhoblFod25KcUpWdktuX0ljWVNOcXBDMHA5MGcxamVaeFltQWZVMWQxYjNVb0xFWQ?oc=5",
       "publishedAt": "2026-06-26T07:00:00.000Z",
-      "source": "京都新聞デジタル",
+      "source": "nippon.com",
       "_feedRegion": "jp",
       "_feedName": "Google News (JP 政策/実証)",
       "_scoring": {
@@ -936,89 +1032,15 @@
       }
     },
     {
-      "title": "メルセデス・ベンツ、ドローン防衛システム開発でTytan社と提携 執筆 - Investing.com",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE9qNnEteWhUMmg4cE1WSlQ0U1dTWFAyTG1xSURmMEhtUHZyS1U1SEJtYmpCQW1qT2tEOHphSjJkUmFKMUZQNDJOc21SVVpsV1BNeVJCRlhYVUJaVXU1YlpNZTEwZ0JiU0Z2eWx1TkkxRlRMZ2NqX1g4?oc=5\" target=\"_blank\">メルセデス・ベンツ、ドローン防衛システム開発でTytan社と提携 執筆</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE9qNnEteWhUMmg4cE1WSlQ0U1dTWFAyTG1xSURmMEhtUHZyS1U1SEJtYmpCQW1qT2tEOHphSjJkUmFKMUZQNDJOc21SVVpsV1BNeVJCRlhYVUJaVXU1YlpNZTEwZ0JiU0Z2eWx1TkkxRlRMZ2NqX1g4?oc=5\" target=\"_blank\">メルセデス・ベンツ、ドローン防衛システム開発でTytan社と提携 執筆</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース</font>",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9qNnEteWhUMmg4cE1WSlQ0U1dTWFAyTG1xSURmMEhtUHZyS1U1SEJtYmpCQW1qT2tEOHphSjJkUmFKMUZQNDJOc21SVVpsV1BNeVJCRlhYVUJaVXU1YlpNZTEwZ0JiU0Z2eWx1TkkxRlRMZ2NqX1g4?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9qNnEteWhUMmg4cE1WSlQ0U1dTWFAyTG1xSURmMEhtUHZyS1U1SEJtYmpCQW1qT2tEOHphSjJkUmFKMUZQNDJOc21SVVpsV1BNeVJCRlhYVUJaVXU1YlpNZTEwZ0JiU0Z2eWx1TkkxRlRMZ2NqX1g4?oc=5",
-      "publishedAt": "2026-06-11T07:00:00.000Z",
-      "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+      "title": "日本HPが3DプリンターHP Jet Fusionシリーズによるドローン量産技術を公開、製造時間を大幅に短縮へ",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE9hQU5iUXpNaWNCVUVZa0IxWXplMzhSZXctc280ckZ2dnY2a0xHV3RSWVcybElOMHVCbHZ6a1hCMVA4MGFFRHN3MnMtTUladXB0d2NVVGdWbkZPYjZwUTBjazlVbGJaRE5oS0Zr?oc=5\" target=\"_blank\">日本HPが3DプリンターHP Jet Fusionシリーズによるドローン量産技術を公開、製造時間を大幅に短縮へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ドローンジャーナル</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE9hQU5iUXpNaWNCVUVZa0IxWXplMzhSZXctc280ckZ2dnY2a0xHV3RSWVcybElOMHVCbHZ6a1hCMVA4MGFFRHN3MnMtTUladXB0d2NVVGdWbkZPYjZwUTBjazlVbGJaRE5oS0Zr?oc=5\" target=\"_blank\">日本HPが3DプリンターHP Jet Fusionシリーズによるドローン量産技術を公開、製造時間を大幅に短縮へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ドローンジャーナル</font>",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9hQU5iUXpNaWNCVUVZa0IxWXplMzhSZXctc280ckZ2dnY2a0xHV3RSWVcybElOMHVCbHZ6a1hCMVA4MGFFRHN3MnMtTUladXB0d2NVVGdWbkZPYjZwUTBjazlVbGJaRE5oS0Zr?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9hQU5iUXpNaWNCVUVZa0IxWXplMzhSZXctc280ckZ2dnY2a0xHV3RSWVcybElOMHVCbHZ6a1hCMVA4MGFFRHN3MnMtTUladXB0d2NVVGdWbkZPYjZwUTBjazlVbGJaRE5oS0Zr?oc=5",
+      "publishedAt": "2026-07-07T00:55:25.000Z",
+      "source": "ドローンジャーナル",
       "_feedRegion": "jp",
-      "_feedName": "Google News (JP 政策/実証)",
-      "_scoring": {
-        "score": 60,
-        "categories": [
-          "技術・製品",
-          "市場・資金"
-        ],
-        "breakdown": {
-          "required": true,
-          "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "market": {
-            "matches": 1,
-            "catScore": 20
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 0,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "テラドローン、防衛装備庁向け国産UAV300式を受注 契約額は1億1543万4000円",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE1sLXdKNlJIcU1kWkhidGNIM3NfSG9nTXoyTzNpTnJhOU03ZmRUbTlDODVVWmlya1o5UVlzOGM3N0RyR2VtRFN6aFlQT0d1TjcwM3hqMS00V0pwM0E?oc=5\" target=\"_blank\">テラドローン、防衛装備庁向け国産UAV300式を受注 契約額は1億1543万4000円</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DRONE.jp</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE1sLXdKNlJIcU1kWkhidGNIM3NfSG9nTXoyTzNpTnJhOU03ZmRUbTlDODVVWmlya1o5UVlzOGM3N0RyR2VtRFN6aFlQT0d1TjcwM3hqMS00V0pwM0E?oc=5\" target=\"_blank\">テラドローン、防衛装備庁向け国産UAV300式を受注 契約額は1億1543万4000円</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DRONE.jp</font>",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1sLXdKNlJIcU1kWkhidGNIM3NfSG9nTXoyTzNpTnJhOU03ZmRUbTlDODVVWmlya1o5UVlzOGM3N0RyR2VtRFN6aFlQT0d1TjcwM3hqMS00V0pwM0E?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1sLXdKNlJIcU1kWkhidGNIM3NfSG9nTXoyTzNpTnJhOU03ZmRUbTlDODVVWmlya1o5UVlzOGM3N0RyR2VtRFN6aFlQT0d1TjcwM3hqMS00V0pwM0E?oc=5",
-      "publishedAt": "2026-05-11T07:00:00.000Z",
-      "source": "DRONE.jp",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP ドローン専門)",
-      "_scoring": {
-        "score": 60,
-        "categories": [
-          "市場・資金",
-          "政策・インフラ"
-        ],
-        "breakdown": {
-          "required": true,
-          "market": {
-            "matches": 1,
-            "catScore": 20
-          },
-          "policy": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 0,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "トヨタ、空飛ぶクルマ量産へ 米ジョビーと加州に合弁、出資比率51%",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE5wcmJMQlN2WWFJZGFaMFFpOVJJSktWS1p1RjZKR3BDbENVdEVNSllvNzVmZFA4dmoyODV2NkNTZFRNVDk1YW0wTEFTRVN4WXVvak4xUzRtaFpaRlhTVDROWkxFTlgySU4waS1xNUl5R2RoaXRR?oc=5\" target=\"_blank\">トヨタ、空飛ぶクルマ量産へ 米ジョビーと加州に合弁、出資比率51%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BigGo ファイナンス</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE5wcmJMQlN2WWFJZGFaMFFpOVJJSktWS1p1RjZKR3BDbENVdEVNSllvNzVmZFA4dmoyODV2NkNTZFRNVDk1YW0wTEFTRVN4WXVvak4xUzRtaFpaRlhTVDROWkxFTlgySU4waS1xNUl5R2RoaXRR?oc=5\" target=\"_blank\">トヨタ、空飛ぶクルマ量産へ 米ジョビーと加州に合弁、出資比率51%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BigGo ファイナンス</font>",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5wcmJMQlN2WWFJZGFaMFFpOVJJSktWS1p1RjZKR3BDbENVdEVNSllvNzVmZFA4dmoyODV2NkNTZFRNVDk1YW0wTEFTRVN4WXVvak4xUzRtaFpaRlhTVDROWkxFTlgySU4waS1xNUl5R2RoaXRR?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5wcmJMQlN2WWFJZGFaMFFpOVJJSktWS1p1RjZKR3BDbENVdEVNSllvNzVmZFA4dmoyODV2NkNTZFRNVDk1YW0wTEFTRVN4WXVvak4xUzRtaFpaRlhTVDROWkxFTlgySU4waS1xNUl5R2RoaXRR?oc=5",
-      "publishedAt": "2026-06-30T13:35:00.000Z",
-      "source": "BigGo ファイナンス",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP 事業者/実装)",
+      "_feedName": "Google News (JP 経済メディア)",
       "_scoring": {
         "score": 60,
         "categories": [
@@ -1077,42 +1099,6 @@
             "multiplier": 0.8
           },
           "freshness": 10,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "Possible drone collision with JetBlue jet under FAA investigation",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxObzVBU1hmdXBFN3VLSThnRDJpUFc4T2FLZHUzYjhtR0tpOS1iYmstYkVzdEhIZzFfUGtJSDcySTh6cFZOcHNrOHhYaFNmZGxBWWdYWTZNc3Z1by02SnpTRlhvd3NOZTFKZnpMalRrVnhabGhwME1MZnZ3WVkyWXZDaG1XMjgyb3ROeE9XcTBTbVlzY1NTcTVGcm9nVmFxNVEwOF9HRUlsS3VwRUwxa1JiNC1JN1VKbDA?oc=5\" target=\"_blank\">Possible drone collision with JetBlue jet under FAA investigation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">USA Today</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxObzVBU1hmdXBFN3VLSThnRDJpUFc4T2FLZHUzYjhtR0tpOS1iYmstYkVzdEhIZzFfUGtJSDcySTh6cFZOcHNrOHhYaFNmZGxBWWdYWTZNc3Z1by02SnpTRlhvd3NOZTFKZnpMalRrVnhabGhwME1MZnZ3WVkyWXZDaG1XMjgyb3ROeE9XcTBTbVlzY1NTcTVGcm9nVmFxNVEwOF9HRUlsS3VwRUwxa1JiNC1JN1VKbDA?oc=5\" target=\"_blank\">Possible drone collision with JetBlue jet under FAA investigation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">USA Today</font>",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObzVBU1hmdXBFN3VLSThnRDJpUFc4T2FLZHUzYjhtR0tpOS1iYmstYkVzdEhIZzFfUGtJSDcySTh6cFZOcHNrOHhYaFNmZGxBWWdYWTZNc3Z1by02SnpTRlhvd3NOZTFKZnpMalRrVnhabGhwME1MZnZ3WVkyWXZDaG1XMjgyb3ROeE9XcTBTbVlzY1NTcTVGcm9nVmFxNVEwOF9HRUlsS3VwRUwxa1JiNC1JN1VKbDA?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObzVBU1hmdXBFN3VLSThnRDJpUFc4T2FLZHUzYjhtR0tpOS1iYmstYkVzdEhIZzFfUGtJSDcySTh6cFZOcHNrOHhYaFNmZGxBWWdYWTZNc3Z1by02SnpTRlhvd3NOZTFKZnpMalRrVnhabGhwME1MZnZ3WVkyWXZDaG1XMjgyb3ROeE9XcTBTbVlzY1NTcTVGcm9nVmFxNVEwOF9HRUlsS3VwRUwxa1JiNC1JN1VKbDA?oc=5",
-      "publishedAt": "2026-06-29T07:00:00.000Z",
-      "source": "USA Today",
-      "_feedRegion": "us",
-      "_feedName": "FAA",
-      "_scoring": {
-        "score": 58,
-        "categories": [
-          "規制・政策",
-          "事故・事件"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 1,
-            "catScore": 32
-          },
-          "incident": {
-            "matches": 1,
-            "catScore": 28
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 0,
           "titleBonus": 10
         },
         "pass": true
