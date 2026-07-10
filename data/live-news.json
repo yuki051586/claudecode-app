@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-10T08:27:57.302Z",
-  "rawCount": 755,
+  "generatedAt": "2026-07-10T11:56:03.029Z",
+  "rawCount": 753,
   "articles": [
     {
       "title": "Drone over NYC crashes into plane flying into JFK Airport; FAA investigating",
@@ -85,95 +85,36 @@
       }
     },
     {
-      "title": "ドローン規制に新ルール、国交省 工業専用地域は許可不要に",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5DNHhRSzcxdjVPUnpfSlQ2MkwxQm1fWGNPYm5OTUpGT1VzVFd5NjFiOTBOMnpWekwxUmNHbzZITUVLZDVMTW1rZkhGSTNhMkttdEVZZEYzdmdHT3JFSWJFMlRacw?oc=5\" target=\"_blank\">ドローン規制に新ルール、国交省 工業専用地域は許可不要に</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">nippon.com</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5DNHhRSzcxdjVPUnpfSlQ2MkwxQm1fWGNPYm5OTUpGT1VzVFd5NjFiOTBOMnpWekwxUmNHbzZITUVLZDVMTW1rZkhGSTNhMkttdEVZZEYzdmdHT3JFSWJFMlRacw?oc=5\" target=\"_blank\">ドローン規制に新ルール、国交省 工業専用地域は許可不要に</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">nippon.com</font>",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5DNHhRSzcxdjVPUnpfSlQ2MkwxQm1fWGNPYm5OTUpGT1VzVFd5NjFiOTBOMnpWekwxUmNHbzZITUVLZDVMTW1rZkhGSTNhMkttdEVZZEYzdmdHT3JFSWJFMlRacw?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5DNHhRSzcxdjVPUnpfSlQ2MkwxQm1fWGNPYm5OTUpGT1VzVFd5NjFiOTBOMnpWekwxUmNHbzZITUVLZDVMTW1rZkhGSTNhMkttdEVZZEYzdmdHT3JFSWJFMlRacw?oc=5",
-      "publishedAt": "2026-07-10T06:23:03.000Z",
-      "source": "nippon.com",
+      "title": "下水道調査にドローン 購入費の補助要望 国交省に団体 2026.7.8付",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE5SdjY1Ti1PNXRLYmJPb0tPdVJhUExHY2x2UThZbUo5RVJfektwbWZILTBhQnBxNGowSDUtSUtIYjRxVk43SlNuSThXN1c1V0owRkN1dGJPSkVhT2JqYXAzZDRVYU5BWk9kcFBLMUF3?oc=5\" target=\"_blank\">下水道調査にドローン 購入費の補助要望 国交省に団体 2026.7.8付</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">公明新聞電子版プラス</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE5SdjY1Ti1PNXRLYmJPb0tPdVJhUExHY2x2UThZbUo5RVJfektwbWZILTBhQnBxNGowSDUtSUtIYjRxVk43SlNuSThXN1c1V0owRkN1dGJPSkVhT2JqYXAzZDRVYU5BWk9kcFBLMUF3?oc=5\" target=\"_blank\">下水道調査にドローン 購入費の補助要望 国交省に団体 2026.7.8付</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">公明新聞電子版プラス</font>",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5SdjY1Ti1PNXRLYmJPb0tPdVJhUExHY2x2UThZbUo5RVJfektwbWZILTBhQnBxNGowSDUtSUtIYjRxVk43SlNuSThXN1c1V0owRkN1dGJPSkVhT2JqYXAzZDRVYU5BWk9kcFBLMUF3?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5SdjY1Ti1PNXRLYmJPb0tPdVJhUExHY2x2UThZbUo5RVJfektwbWZILTBhQnBxNGowSDUtSUtIYjRxVk43SlNuSThXN1c1V0owRkN1dGJPSkVhT2JqYXAzZDRVYU5BWk9kcFBLMUF3?oc=5",
+      "publishedAt": "2026-07-07T20:15:19.000Z",
+      "source": "公明新聞電子版プラス",
       "_feedRegion": "jp",
       "_feedName": "Google News (JP 政策/実証)",
       "_scoring": {
-        "score": 77,
+        "score": 75,
         "categories": [
-          "規制・政策"
+          "規制・政策",
+          "事故・事件"
         ],
         "breakdown": {
           "required": true,
           "regulation": {
-            "matches": 2,
-            "catScore": 40
+            "matches": 1,
+            "catScore": 32
+          },
+          "incident": {
+            "matches": 1,
+            "catScore": 28
           },
           "sourceTrust": {
             "domain": "news.google.com",
             "multiplier": 0.8
           },
-          "freshness": 20,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "ドローン規制に新ルール、国交省 工業専用地域は許可不要に | | 全国のニュース",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFBJYkdJRG5KbzBQX01tazhPYlZjSVFzUTdKYXo1SUJ4Vnk0N1hfS3F3eDU3NFBJNjE5Wks2LXRPZC1sSGU5WXVLLWxWRUZIUEdpRFBDc1Nn?oc=5\" target=\"_blank\">ドローン規制に新ルール、国交省 工業専用地域は許可不要に | | 全国のニュース</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">佐賀新聞</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFBJYkdJRG5KbzBQX01tazhPYlZjSVFzUTdKYXo1SUJ4Vnk0N1hfS3F3eDU3NFBJNjE5Wks2LXRPZC1sSGU5WXVLLWxWRUZIUEdpRFBDc1Nn?oc=5\" target=\"_blank\">ドローン規制に新ルール、国交省 工業専用地域は許可不要に | | 全国のニュース</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">佐賀新聞</font>",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBJYkdJRG5KbzBQX01tazhPYlZjSVFzUTdKYXo1SUJ4Vnk0N1hfS3F3eDU3NFBJNjE5Wks2LXRPZC1sSGU5WXVLLWxWRUZIUEdpRFBDc1Nn?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBJYkdJRG5KbzBQX01tazhPYlZjSVFzUTdKYXo1SUJ4Vnk0N1hfS3F3eDU3NFBJNjE5Wks2LXRPZC1sSGU5WXVLLWxWRUZIUEdpRFBDc1Nn?oc=5",
-      "publishedAt": "2026-07-10T06:22:00.000Z",
-      "source": "佐賀新聞",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP 政策/実証)",
-      "_scoring": {
-        "score": 77,
-        "categories": [
-          "規制・政策"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 2,
-            "catScore": 40
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 20,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "ドローン規制に新ルール、国交省",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE5OSFU3YnREUHRpSGpNZGxuZlhDeTNjMlM4ZmNnNWloSkc5bzNCU29fWF9aNjkyYjFWdjFHTm5OZGR6TTh1TkNPaTFFbnlQTFFFRE1kZ1ZQZlJ1aDAxQnJQRjE2RVcwbXI5Slhac2FUMzA5cVFpTmc4?oc=5\" target=\"_blank\">ドローン規制に新ルール、国交省</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">デイリースポーツ</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE5OSFU3YnREUHRpSGpNZGxuZlhDeTNjMlM4ZmNnNWloSkc5bzNCU29fWF9aNjkyYjFWdjFHTm5OZGR6TTh1TkNPaTFFbnlQTFFFRE1kZ1ZQZlJ1aDAxQnJQRjE2RVcwbXI5Slhac2FUMzA5cVFpTmc4?oc=5\" target=\"_blank\">ドローン規制に新ルール、国交省</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">デイリースポーツ</font>",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5OSFU3YnREUHRpSGpNZGxuZlhDeTNjMlM4ZmNnNWloSkc5bzNCU29fWF9aNjkyYjFWdjFHTm5OZGR6TTh1TkNPaTFFbnlQTFFFRE1kZ1ZQZlJ1aDAxQnJQRjE2RVcwbXI5Slhac2FUMzA5cVFpTmc4?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5OSFU3YnREUHRpSGpNZGxuZlhDeTNjMlM4ZmNnNWloSkc5bzNCU29fWF9aNjkyYjFWdjFHTm5OZGR6TTh1TkNPaTFFbnlQTFFFRE1kZ1ZQZlJ1aDAxQnJQRjE2RVcwbXI5Slhac2FUMzA5cVFpTmc4?oc=5",
-      "publishedAt": "2026-07-10T06:23:00.000Z",
-      "source": "デイリースポーツ",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP 政策/実証)",
-      "_scoring": {
-        "score": 77,
-        "categories": [
-          "規制・政策"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 2,
-            "catScore": 40
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 20,
+          "freshness": 2,
           "titleBonus": 10,
           "jpRegionBonus": 15
         },
@@ -222,42 +163,97 @@
       }
     },
     {
-      "title": "World’s first commercial vertiport approved for air taxi operations in Dubai",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUXB0MHU1b0RabERfZ1RoMktQS3V1MGZpLTRQdUhDdmR5R2FpcTA5OFJLQll4akUwYngzRWVrVjhGbng3M3lneDZJNWViYVlMampFWDcta0lNTWNJQXRGaWpQdU9kSE1NR3lfMmNYcVh0UHhReFMzdl9yblhVMFVlSUVKQ25QdE9UTmRwUlhLdVdSWE5MOThrMnJOMC00RXBGVFd4d2xqYUg?oc=5\" target=\"_blank\">World’s first commercial vertiport approved for air taxi operations in Dubai</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Zag Daily</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUXB0MHU1b0RabERfZ1RoMktQS3V1MGZpLTRQdUhDdmR5R2FpcTA5OFJLQll4akUwYngzRWVrVjhGbng3M3lneDZJNWViYVlMampFWDcta0lNTWNJQXRGaWpQdU9kSE1NR3lfMmNYcVh0UHhReFMzdl9yblhVMFVlSUVKQ25QdE9UTmRwUlhLdVdSWE5MOThrMnJOMC00RXBGVFd4d2xqYUg?oc=5\" target=\"_blank\">World’s first commercial vertiport approved for air taxi operations in Dubai</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Zag Daily</font>",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUXB0MHU1b0RabERfZ1RoMktQS3V1MGZpLTRQdUhDdmR5R2FpcTA5OFJLQll4akUwYngzRWVrVjhGbng3M3lneDZJNWViYVlMampFWDcta0lNTWNJQXRGaWpQdU9kSE1NR3lfMmNYcVh0UHhReFMzdl9yblhVMFVlSUVKQ25QdE9UTmRwUlhLdVdSWE5MOThrMnJOMC00RXBGVFd4d2xqYUg?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUXB0MHU1b0RabERfZ1RoMktQS3V1MGZpLTRQdUhDdmR5R2FpcTA5OFJLQll4akUwYngzRWVrVjhGbng3M3lneDZJNWViYVlMampFWDcta0lNTWNJQXRGaWpQdU9kSE1NR3lfMmNYcVh0UHhReFMzdl9yblhVMFVlSUVKQ25QdE9UTmRwUlhLdVdSWE5MOThrMnJOMC00RXBGVFd4d2xqYUg?oc=5",
-      "publishedAt": "2026-07-09T09:46:24.000Z",
-      "source": "Zag Daily",
-      "_feedRegion": "global",
-      "_feedName": "Google News (Global)",
+      "title": "ドローン規制に新ルール、国交省 工業専用地域は許可不要に（共同通信）",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5vU0pRczZRZ0wxNXktV082TkVWdUpFT0VxOWc0R21vOUxmZ0VQTUxkVWRIVnJ0Q1A1bVZuWmtERHFfQlJFei1LOXgyRjJLMWVjallPVF9CWDhyZlRudHJuaXNjcHZTMFVkakxGRF9LZXhiU2ROc0t1NVE0T250QmM?oc=5\" target=\"_blank\">ドローン規制に新ルール、国交省 工業専用地域は許可不要に（共同通信）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5vU0pRczZRZ0wxNXktV082TkVWdUpFT0VxOWc0R21vOUxmZ0VQTUxkVWRIVnJ0Q1A1bVZuWmtERHFfQlJFei1LOXgyRjJLMWVjallPVF9CWDhyZlRudHJuaXNjcHZTMFVkakxGRF9LZXhiU2ROc0t1NVE0T250QmM?oc=5\" target=\"_blank\">ドローン規制に新ルール、国交省 工業専用地域は許可不要に（共同通信）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vU0pRczZRZ0wxNXktV082TkVWdUpFT0VxOWc0R21vOUxmZ0VQTUxkVWRIVnJ0Q1A1bVZuWmtERHFfQlJFei1LOXgyRjJLMWVjallPVF9CWDhyZlRudHJuaXNjcHZTMFVkakxGRF9LZXhiU2ROc0t1NVE0T250QmM?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vU0pRczZRZ0wxNXktV082TkVWdUpFT0VxOWc0R21vOUxmZ0VQTUxkVWRIVnJ0Q1A1bVZuWmtERHFfQlJFei1LOXgyRjJLMWVjallPVF9CWDhyZlRudHJuaXNjcHZTMFVkakxGRF9LZXhiU2ROc0t1NVE0T250QmM?oc=5",
+      "publishedAt": "2026-07-10T06:22:36.000Z",
+      "source": "Yahoo!ニュース",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP 政策/実証)",
       "_scoring": {
-        "score": 74,
+        "score": 72,
         "categories": [
-          "技術・製品",
-          "市場・資金",
-          "政策・インフラ"
+          "規制・政策"
         ],
         "breakdown": {
           "required": true,
-          "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "market": {
-            "matches": 1,
-            "catScore": 20
-          },
-          "policy": {
-            "matches": 1,
-            "catScore": 24
+          "regulation": {
+            "matches": 2,
+            "catScore": 40
           },
           "sourceTrust": {
             "domain": "news.google.com",
             "multiplier": 0.8
           },
-          "freshness": 10,
-          "titleBonus": 10
+          "freshness": 15,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "ドローン規制に新ルール、国交省 工業専用地域は許可不要に",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE44UWZNNV9lb3RjV3RoQjZYcDhURnZNUml6UDlHc28tUE5sd0pkdEt6MENSNDdtNGc4SXpGT05zaDMwQXg1dEp3MzZCVHlubFp2LWdqUmdR?oc=5\" target=\"_blank\">ドローン規制に新ルール、国交省 工業専用地域は許可不要に</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">西日本新聞me</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE44UWZNNV9lb3RjV3RoQjZYcDhURnZNUml6UDlHc28tUE5sd0pkdEt6MENSNDdtNGc4SXpGT05zaDMwQXg1dEp3MzZCVHlubFp2LWdqUmdR?oc=5\" target=\"_blank\">ドローン規制に新ルール、国交省 工業専用地域は許可不要に</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">西日本新聞me</font>",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE44UWZNNV9lb3RjV3RoQjZYcDhURnZNUml6UDlHc28tUE5sd0pkdEt6MENSNDdtNGc4SXpGT05zaDMwQXg1dEp3MzZCVHlubFp2LWdqUmdR?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE44UWZNNV9lb3RjV3RoQjZYcDhURnZNUml6UDlHc28tUE5sd0pkdEt6MENSNDdtNGc4SXpGT05zaDMwQXg1dEp3MzZCVHlubFp2LWdqUmdR?oc=5",
+      "publishedAt": "2026-07-10T06:22:47.000Z",
+      "source": "西日本新聞me",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP 政策/実証)",
+      "_scoring": {
+        "score": 72,
+        "categories": [
+          "規制・政策"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 2,
+            "catScore": 40
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 15,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "ドローン規制に新ルール、国交省 工業専用地域は許可不要に | | 全国のニュース",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFBJYkdJRG5KbzBQX01tazhPYlZjSVFzUTdKYXo1SUJ4Vnk0N1hfS3F3eDU3NFBJNjE5Wks2LXRPZC1sSGU5WXVLLWxWRUZIUEdpRFBDc1Nn?oc=5\" target=\"_blank\">ドローン規制に新ルール、国交省 工業専用地域は許可不要に | | 全国のニュース</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">佐賀新聞</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFBJYkdJRG5KbzBQX01tazhPYlZjSVFzUTdKYXo1SUJ4Vnk0N1hfS3F3eDU3NFBJNjE5Wks2LXRPZC1sSGU5WXVLLWxWRUZIUEdpRFBDc1Nn?oc=5\" target=\"_blank\">ドローン規制に新ルール、国交省 工業専用地域は許可不要に | | 全国のニュース</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">佐賀新聞</font>",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBJYkdJRG5KbzBQX01tazhPYlZjSVFzUTdKYXo1SUJ4Vnk0N1hfS3F3eDU3NFBJNjE5Wks2LXRPZC1sSGU5WXVLLWxWRUZIUEdpRFBDc1Nn?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBJYkdJRG5KbzBQX01tazhPYlZjSVFzUTdKYXo1SUJ4Vnk0N1hfS3F3eDU3NFBJNjE5Wks2LXRPZC1sSGU5WXVLLWxWRUZIUEdpRFBDc1Nn?oc=5",
+      "publishedAt": "2026-07-10T06:22:00.000Z",
+      "source": "佐賀新聞",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP 政策/実証)",
+      "_scoring": {
+        "score": 72,
+        "categories": [
+          "規制・政策"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 2,
+            "catScore": 40
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 15,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
         },
         "pass": true
       }
@@ -332,6 +328,47 @@
           "freshness": 0,
           "titleBonus": 10,
           "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "World’s first commercial vertiport approved for air taxi operations in Dubai",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUXB0MHU1b0RabERfZ1RoMktQS3V1MGZpLTRQdUhDdmR5R2FpcTA5OFJLQll4akUwYngzRWVrVjhGbng3M3lneDZJNWViYVlMampFWDcta0lNTWNJQXRGaWpQdU9kSE1NR3lfMmNYcVh0UHhReFMzdl9yblhVMFVlSUVKQ25QdE9UTmRwUlhLdVdSWE5MOThrMnJOMC00RXBGVFd4d2xqYUg?oc=5\" target=\"_blank\">World’s first commercial vertiport approved for air taxi operations in Dubai</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Zag Daily</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUXB0MHU1b0RabERfZ1RoMktQS3V1MGZpLTRQdUhDdmR5R2FpcTA5OFJLQll4akUwYngzRWVrVjhGbng3M3lneDZJNWViYVlMampFWDcta0lNTWNJQXRGaWpQdU9kSE1NR3lfMmNYcVh0UHhReFMzdl9yblhVMFVlSUVKQ25QdE9UTmRwUlhLdVdSWE5MOThrMnJOMC00RXBGVFd4d2xqYUg?oc=5\" target=\"_blank\">World’s first commercial vertiport approved for air taxi operations in Dubai</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Zag Daily</font>",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUXB0MHU1b0RabERfZ1RoMktQS3V1MGZpLTRQdUhDdmR5R2FpcTA5OFJLQll4akUwYngzRWVrVjhGbng3M3lneDZJNWViYVlMampFWDcta0lNTWNJQXRGaWpQdU9kSE1NR3lfMmNYcVh0UHhReFMzdl9yblhVMFVlSUVKQ25QdE9UTmRwUlhLdVdSWE5MOThrMnJOMC00RXBGVFd4d2xqYUg?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUXB0MHU1b0RabERfZ1RoMktQS3V1MGZpLTRQdUhDdmR5R2FpcTA5OFJLQll4akUwYngzRWVrVjhGbng3M3lneDZJNWViYVlMampFWDcta0lNTWNJQXRGaWpQdU9kSE1NR3lfMmNYcVh0UHhReFMzdl9yblhVMFVlSUVKQ25QdE9UTmRwUlhLdVdSWE5MOThrMnJOMC00RXBGVFd4d2xqYUg?oc=5",
+      "publishedAt": "2026-07-09T09:46:24.000Z",
+      "source": "Zag Daily",
+      "_feedRegion": "global",
+      "_feedName": "Google News (Global)",
+      "_scoring": {
+        "score": 69,
+        "categories": [
+          "技術・製品",
+          "市場・資金",
+          "政策・インフラ"
+        ],
+        "breakdown": {
+          "required": true,
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "market": {
+            "matches": 1,
+            "catScore": 20
+          },
+          "policy": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 5,
+          "titleBonus": 10
         },
         "pass": true
       }
@@ -563,6 +600,38 @@
       }
     },
     {
+      "title": "テックファーム、狭小空間向けドローンを活用したインフラ点検DX事業に参入",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE5BVmxVb09pa0p2bGFUNkZnbEVOak1RVmt2VjV5Y1FMdGpuaHBTODMwSlR1clNyeVNIR253NUNUOWh0MzNkaWJYLUZjOTVMZDRRdldKU0FxaGFSNkxQMDFOSjJfSkhOWlNCcjVjNQ?oc=5\" target=\"_blank\">テックファーム、狭小空間向けドローンを活用したインフラ点検DX事業に参入</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ITmedia</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE5BVmxVb09pa0p2bGFUNkZnbEVOak1RVmt2VjV5Y1FMdGpuaHBTODMwSlR1clNyeVNIR253NUNUOWh0MzNkaWJYLUZjOTVMZDRRdldKU0FxaGFSNkxQMDFOSjJfSkhOWlNCcjVjNQ?oc=5\" target=\"_blank\">テックファーム、狭小空間向けドローンを活用したインフラ点検DX事業に参入</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ITmedia</font>",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5BVmxVb09pa0p2bGFUNkZnbEVOak1RVmt2VjV5Y1FMdGpuaHBTODMwSlR1clNyeVNIR253NUNUOWh0MzNkaWJYLUZjOTVMZDRRdldKU0FxaGFSNkxQMDFOSjJfSkhOWlNCcjVjNQ?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5BVmxVb09pa0p2bGFUNkZnbEVOak1RVmt2VjV5Y1FMdGpuaHBTODMwSlR1clNyeVNIR253NUNUOWh0MzNkaWJYLUZjOTVMZDRRdldKU0FxaGFSNkxQMDFOSjJfSkhOWlNCcjVjNQ?oc=5",
+      "publishedAt": "2026-07-10T10:00:00.000Z",
+      "source": "ITmedia",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP 経済メディア)",
+      "_scoring": {
+        "score": 64,
+        "categories": [
+          "政策・インフラ"
+        ],
+        "breakdown": {
+          "required": true,
+          "policy": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 20,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
       "title": "Liberaware Korea、韓国のドローン基盤インフラ管理プラットフォーム企業ALTIVIONと業務提携",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9IY1dQM3ZwYTgyNlFmT0pyVF9FNnRQN0U2VEJxTTZob1pRdUdFZmhlS1Q0S2FxY3hTUkRNdDliSldybWtJSHlaZHY2VkI1d1FwTzdRdm9xaGJNZW04Vm96UlJ0azlucE1UZ1E?oc=5\" target=\"_blank\">Liberaware Korea、韓国のドローン基盤インフラ管理プラットフォーム企業ALTIVIONと業務提携</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ドローンジャーナル</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9IY1dQM3ZwYTgyNlFmT0pyVF9FNnRQN0U2VEJxTTZob1pRdUdFZmhlS1Q0S2FxY3hTUkRNdDliSldybWtJSHlaZHY2VkI1d1FwTzdRdm9xaGJNZW04Vm96UlJ0azlucE1UZ1E?oc=5\" target=\"_blank\">Liberaware Korea、韓国のドローン基盤インフラ管理プラットフォーム企業ALTIVIONと業務提携</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ドローンジャーナル</font>",
@@ -571,7 +640,7 @@
       "publishedAt": "2026-07-01T03:02:46.000Z",
       "source": "ドローンジャーナル",
       "_feedRegion": "jp",
-      "_feedName": "Google News (JP 政策/実証)",
+      "_feedName": "Google News (JP 事業者/実装)",
       "_scoring": {
         "score": 64,
         "categories": [
@@ -781,7 +850,7 @@
       "publishedAt": "2026-07-06T00:00:00.000Z",
       "source": "朝日新聞",
       "_feedRegion": "jp",
-      "_feedName": "Google News (JP 政策/実証)",
+      "_feedName": "Google News (JP)",
       "_scoring": {
         "score": 60,
         "categories": [
@@ -959,12 +1028,12 @@
     },
     {
       "title": "エアバス、川重と防衛ドローン開発で提携",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9UQ1NMdTZCUmFCNjdaR1EtMU5XSkJmMllvYWRVUE9GM0R1U05XY3JMSms2ZjhoblFod25KcUpWdktuX0ljWVNOcXBDMHA5MGcxamVaeFltQWZVMWQxYjNVb0xFWQ?oc=5\" target=\"_blank\">エアバス、川重と防衛ドローン開発で提携</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">nippon.com</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9UQ1NMdTZCUmFCNjdaR1EtMU5XSkJmMllvYWRVUE9GM0R1U05XY3JMSms2ZjhoblFod25KcUpWdktuX0ljWVNOcXBDMHA5MGcxamVaeFltQWZVMWQxYjNVb0xFWQ?oc=5\" target=\"_blank\">エアバス、川重と防衛ドローン開発で提携</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">nippon.com</font>",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9UQ1NMdTZCUmFCNjdaR1EtMU5XSkJmMllvYWRVUE9GM0R1U05XY3JMSms2ZjhoblFod25KcUpWdktuX0ljWVNOcXBDMHA5MGcxamVaeFltQWZVMWQxYjNVb0xFWQ?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9UQ1NMdTZCUmFCNjdaR1EtMU5XSkJmMllvYWRVUE9GM0R1U05XY3JMSms2ZjhoblFod25KcUpWdktuX0ljWVNOcXBDMHA5MGcxamVaeFltQWZVMWQxYjNVb0xFWQ?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5JRG02NmFWRmVYRFh3T3psQl8wa2RtbEpQNnZoUTRmWGZ3dGJrazBDdTUzSW1RX2N4SE9mM3ZqOHlpR3VlRmxQTlVieTE5QWhHd3VOMjc3YW9JeVE?oc=5\" target=\"_blank\">エアバス、川重と防衛ドローン開発で提携</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">京都新聞デジタル</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5JRG02NmFWRmVYRFh3T3psQl8wa2RtbEpQNnZoUTRmWGZ3dGJrazBDdTUzSW1RX2N4SE9mM3ZqOHlpR3VlRmxQTlVieTE5QWhHd3VOMjc3YW9JeVE?oc=5\" target=\"_blank\">エアバス、川重と防衛ドローン開発で提携</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">京都新聞デジタル</font>",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5JRG02NmFWRmVYRFh3T3psQl8wa2RtbEpQNnZoUTRmWGZ3dGJrazBDdTUzSW1RX2N4SE9mM3ZqOHlpR3VlRmxQTlVieTE5QWhHd3VOMjc3YW9JeVE?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5JRG02NmFWRmVYRFh3T3psQl8wa2RtbEpQNnZoUTRmWGZ3dGJrazBDdTUzSW1RX2N4SE9mM3ZqOHlpR3VlRmxQTlVieTE5QWhHd3VOMjc3YW9JeVE?oc=5",
       "publishedAt": "2026-06-26T07:00:00.000Z",
-      "source": "nippon.com",
+      "source": "京都新聞デジタル",
       "_feedRegion": "jp",
       "_feedName": "Google News (JP 政策/実証)",
       "_scoring": {
@@ -1027,79 +1096,6 @@
           "freshness": 0,
           "titleBonus": 10,
           "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "日本HPが3DプリンターHP Jet Fusionシリーズによるドローン量産技術を公開、製造時間を大幅に短縮へ",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE9hQU5iUXpNaWNCVUVZa0IxWXplMzhSZXctc280ckZ2dnY2a0xHV3RSWVcybElOMHVCbHZ6a1hCMVA4MGFFRHN3MnMtTUladXB0d2NVVGdWbkZPYjZwUTBjazlVbGJaRE5oS0Zr?oc=5\" target=\"_blank\">日本HPが3DプリンターHP Jet Fusionシリーズによるドローン量産技術を公開、製造時間を大幅に短縮へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ドローンジャーナル</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE9hQU5iUXpNaWNCVUVZa0IxWXplMzhSZXctc280ckZ2dnY2a0xHV3RSWVcybElOMHVCbHZ6a1hCMVA4MGFFRHN3MnMtTUladXB0d2NVVGdWbkZPYjZwUTBjazlVbGJaRE5oS0Zr?oc=5\" target=\"_blank\">日本HPが3DプリンターHP Jet Fusionシリーズによるドローン量産技術を公開、製造時間を大幅に短縮へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ドローンジャーナル</font>",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9hQU5iUXpNaWNCVUVZa0IxWXplMzhSZXctc280ckZ2dnY2a0xHV3RSWVcybElOMHVCbHZ6a1hCMVA4MGFFRHN3MnMtTUladXB0d2NVVGdWbkZPYjZwUTBjazlVbGJaRE5oS0Zr?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9hQU5iUXpNaWNCVUVZa0IxWXplMzhSZXctc280ckZ2dnY2a0xHV3RSWVcybElOMHVCbHZ6a1hCMVA4MGFFRHN3MnMtTUladXB0d2NVVGdWbkZPYjZwUTBjazlVbGJaRE5oS0Zr?oc=5",
-      "publishedAt": "2026-07-07T00:55:25.000Z",
-      "source": "ドローンジャーナル",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP 経済メディア)",
-      "_scoring": {
-        "score": 60,
-        "categories": [
-          "技術・製品",
-          "市場・資金"
-        ],
-        "breakdown": {
-          "required": true,
-          "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "market": {
-            "matches": 1,
-            "catScore": 20
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 0,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "The world’s first commercial vertiport for eVTOLs and air taxis has been certified in Dubai",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPY1hLQjNkNEtHYVdaMmNOSzNMVVM2eXNqcTJmOFZ2c0pPZERwamw1QUNMaDZDc3pkSllLYWtGTDV4ZVc2Q1V1cGRPenVSMVh3Ymh2NmNQalJKNVRLYmZiS0pYenNmNElzVzZteHpZOUlNaHVQemtEa1RTSjFIbGU5aDd6eU0tdy0yamc?oc=5\" target=\"_blank\">The world’s first commercial vertiport for eVTOLs and air taxis has been certified in Dubai</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aerospace Global News</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPY1hLQjNkNEtHYVdaMmNOSzNMVVM2eXNqcTJmOFZ2c0pPZERwamw1QUNMaDZDc3pkSllLYWtGTDV4ZVc2Q1V1cGRPenVSMVh3Ymh2NmNQalJKNVRLYmZiS0pYenNmNElzVzZteHpZOUlNaHVQemtEa1RTSjFIbGU5aDd6eU0tdy0yamc?oc=5\" target=\"_blank\">The world’s first commercial vertiport for eVTOLs and air taxis has been certified in Dubai</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aerospace Global News</font>",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPY1hLQjNkNEtHYVdaMmNOSzNMVVM2eXNqcTJmOFZ2c0pPZERwamw1QUNMaDZDc3pkSllLYWtGTDV4ZVc2Q1V1cGRPenVSMVh3Ymh2NmNQalJKNVRLYmZiS0pYenNmNElzVzZteHpZOUlNaHVQemtEa1RTSjFIbGU5aDd6eU0tdy0yamc?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPY1hLQjNkNEtHYVdaMmNOSzNMVVM2eXNqcTJmOFZ2c0pPZERwamw1QUNMaDZDc3pkSllLYWtGTDV4ZVc2Q1V1cGRPenVSMVh3Ymh2NmNQalJKNVRLYmZiS0pYenNmNElzVzZteHpZOUlNaHVQemtEa1RTSjFIbGU5aDd6eU0tdy0yamc?oc=5",
-      "publishedAt": "2026-07-09T13:28:12.000Z",
-      "source": "Aerospace Global News",
-      "_feedRegion": "global",
-      "_feedName": "Google News (Global)",
-      "_scoring": {
-        "score": 59,
-        "categories": [
-          "市場・資金",
-          "政策・インフラ"
-        ],
-        "breakdown": {
-          "required": true,
-          "market": {
-            "matches": 2,
-            "catScore": 25
-          },
-          "policy": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 10,
-          "titleBonus": 10
         },
         "pass": true
       }
