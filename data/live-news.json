@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-11T07:14:21.861Z",
-  "rawCount": 752,
+  "generatedAt": "2026-07-11T09:42:34.294Z",
+  "rawCount": 749,
   "articles": [
     {
       "title": "ドローン飛行、工業専用地域は許可不要に 国交省、新ルール運用開始",
@@ -11,9 +11,9 @@
       "publishedAt": "2026-07-11T05:30:00.000Z",
       "source": "日本経済新聞",
       "_feedRegion": "jp",
-      "_feedName": "Google News (JP 経済メディア)",
+      "_feedName": "Google News (JP)",
       "_scoring": {
-        "score": 90,
+        "score": 85,
         "categories": [
           "規制・政策",
           "政策・インフラ"
@@ -32,7 +32,7 @@
             "domain": "news.google.com",
             "multiplier": 0.8
           },
-          "freshness": 20,
+          "freshness": 15,
           "titleBonus": 10,
           "jpRegionBonus": 15
         },
@@ -516,43 +516,6 @@
       }
     },
     {
-      "title": "DJIのドローンポート対応ドローン「Matrice 4Dシリーズ」、第二種型式認証を取得",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE1waHpEZ094UXY1UzhTRXNRWnVyQVpBZXBTbmtsdVRoVDVVZ1RTVWppZDdBMGFkRnRzT3c5Q21DV0x6alQ3djRYcVU4TERWZ1FSUjNIMzZUWDFoMjdraEtFWjVhckR0dVFDLUE?oc=5\" target=\"_blank\">DJIのドローンポート対応ドローン「Matrice 4Dシリーズ」、第二種型式認証を取得</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ドローンジャーナル</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE1waHpEZ094UXY1UzhTRXNRWnVyQVpBZXBTbmtsdVRoVDVVZ1RTVWppZDdBMGFkRnRzT3c5Q21DV0x6alQ3djRYcVU4TERWZ1FSUjNIMzZUWDFoMjdraEtFWjVhckR0dVFDLUE?oc=5\" target=\"_blank\">DJIのドローンポート対応ドローン「Matrice 4Dシリーズ」、第二種型式認証を取得</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ドローンジャーナル</font>",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1waHpEZ094UXY1UzhTRXNRWnVyQVpBZXBTbmtsdVRoVDVVZ1RTVWppZDdBMGFkRnRzT3c5Q21DV0x6alQ3djRYcVU4TERWZ1FSUjNIMzZUWDFoMjdraEtFWjVhckR0dVFDLUE?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1waHpEZ094UXY1UzhTRXNRWnVyQVpBZXBTbmtsdVRoVDVVZ1RTVWppZDdBMGFkRnRzT3c5Q21DV0x6alQ3djRYcVU4TERWZ1FSUjNIMzZUWDFoMjdraEtFWjVhckR0dVFDLUE?oc=5",
-      "publishedAt": "2026-07-08T01:09:32.000Z",
-      "source": "ドローンジャーナル",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP)",
-      "_scoring": {
-        "score": 67,
-        "categories": [
-          "規制・政策",
-          "市場・資金"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 1,
-            "catScore": 32
-          },
-          "market": {
-            "matches": 1,
-            "catScore": 20
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 0,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
       "title": "ドローン規制に新ルール、国交省",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE4yZUV2NGM2QnU3SnhYMjhmLXFmRngya1pfR3ZoUmV5SnJFaVRJV3V1U21OVjQ2ekRGN3VENUdYaTlQVzNWUTRFNmJXSGZESjhTNGJodEljNVN0Ums?oc=5\" target=\"_blank\">ドローン規制に新ルール、国交省</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">下野新聞社</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE4yZUV2NGM2QnU3SnhYMjhmLXFmRngya1pfR3ZoUmV5SnJFaVRJV3V1U21OVjQ2ekRGN3VENUdYaTlQVzNWUTRFNmJXSGZESjhTNGJodEljNVN0Ums?oc=5\" target=\"_blank\">ドローン規制に新ルール、国交省</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">下野新聞社</font>",
@@ -617,21 +580,57 @@
       }
     },
     {
-      "title": "UAE GCAA certifies landmark purpose-built vertiport in Dubai",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQOTVtMUR0Tmh6clJCNmFpeDc5bmtRamM0TnFyMkxkaE5RdG1ibHl4SGNuTmZZVVVSTjR4NlRfaWplWkZTb3JOTUFMUElLQVY0ZGRkSDluUnVJNzBibWhXbzRrZmNKeEx0WmQ2cDFfMXBaZFNQQUVvT3psREhrdE9uRjE4T3U4SkYxZTZGMXB6dUpfT3FQUzFsMVI2cldvcmYxYndiNWxUZw?oc=5\" target=\"_blank\">UAE GCAA certifies landmark purpose-built vertiport in Dubai</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Vertical Mag</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQOTVtMUR0Tmh6clJCNmFpeDc5bmtRamM0TnFyMkxkaE5RdG1ibHl4SGNuTmZZVVVSTjR4NlRfaWplWkZTb3JOTUFMUElLQVY0ZGRkSDluUnVJNzBibWhXbzRrZmNKeEx0WmQ2cDFfMXBaZFNQQUVvT3psREhrdE9uRjE4T3U4SkYxZTZGMXB6dUpfT3FQUzFsMVI2cldvcmYxYndiNWxUZw?oc=5\" target=\"_blank\">UAE GCAA certifies landmark purpose-built vertiport in Dubai</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Vertical Mag</font>",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOTVtMUR0Tmh6clJCNmFpeDc5bmtRamM0TnFyMkxkaE5RdG1ibHl4SGNuTmZZVVVSTjR4NlRfaWplWkZTb3JOTUFMUElLQVY0ZGRkSDluUnVJNzBibWhXbzRrZmNKeEx0WmQ2cDFfMXBaZFNQQUVvT3psREhrdE9uRjE4T3U4SkYxZTZGMXB6dUpfT3FQUzFsMVI2cldvcmYxYndiNWxUZw?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOTVtMUR0Tmh6clJCNmFpeDc5bmtRamM0TnFyMkxkaE5RdG1ibHl4SGNuTmZZVVVSTjR4NlRfaWplWkZTb3JOTUFMUElLQVY0ZGRkSDluUnVJNzBibWhXbzRrZmNKeEx0WmQ2cDFfMXBaZFNQQUVvT3psREhrdE9uRjE4T3U4SkYxZTZGMXB6dUpfT3FQUzFsMVI2cldvcmYxYndiNWxUZw?oc=5",
-      "publishedAt": "2026-07-08T14:57:03.000Z",
-      "source": "Vertical Mag",
-      "_feedRegion": "global",
-      "_feedName": "Google News (Global)",
+      "title": "DJIのドローンポート対応ドローン「Matrice 4Dシリーズ」、第二種型式認証を取得",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE1waHpEZ094UXY1UzhTRXNRWnVyQVpBZXBTbmtsdVRoVDVVZ1RTVWppZDdBMGFkRnRzT3c5Q21DV0x6alQ3djRYcVU4TERWZ1FSUjNIMzZUWDFoMjdraEtFWjVhckR0dVFDLUE?oc=5\" target=\"_blank\">DJIのドローンポート対応ドローン「Matrice 4Dシリーズ」、第二種型式認証を取得</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ドローンジャーナル</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE1waHpEZ094UXY1UzhTRXNRWnVyQVpBZXBTbmtsdVRoVDVVZ1RTVWppZDdBMGFkRnRzT3c5Q21DV0x6alQ3djRYcVU4TERWZ1FSUjNIMzZUWDFoMjdraEtFWjVhckR0dVFDLUE?oc=5\" target=\"_blank\">DJIのドローンポート対応ドローン「Matrice 4Dシリーズ」、第二種型式認証を取得</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ドローンジャーナル</font>",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1waHpEZ094UXY1UzhTRXNRWnVyQVpBZXBTbmtsdVRoVDVVZ1RTVWppZDdBMGFkRnRzT3c5Q21DV0x6alQ3djRYcVU4TERWZ1FSUjNIMzZUWDFoMjdraEtFWjVhckR0dVFDLUE?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1waHpEZ094UXY1UzhTRXNRWnVyQVpBZXBTbmtsdVRoVDVVZ1RTVWppZDdBMGFkRnRzT3c5Q21DV0x6alQ3djRYcVU4TERWZ1FSUjNIMzZUWDFoMjdraEtFWjVhckR0dVFDLUE?oc=5",
+      "publishedAt": "2026-07-08T01:09:32.000Z",
+      "source": "ドローンジャーナル",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP 経済メディア)",
       "_scoring": {
-        "score": 66,
+        "score": 67,
+        "categories": [
+          "規制・政策",
+          "市場・資金"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
+          "market": {
+            "matches": 1,
+            "catScore": 20
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 0,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "開発中の空飛ぶクルマ「SKYDRIVE」、累計300フライトを事故無く達成",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFBqMWpFcW1QcWhWT3RCcWJZN2RWc3Q5R1d2dXluMWZQMVd1WkhaOFQyVTc3UklKQUl1bldRc3h2OWxuTWNYVEl3ejZMd1A3VjVkRWtXdnpLcmdYbzRhUUU4?oc=5\" target=\"_blank\">開発中の空飛ぶクルマ「SKYDRIVE」、累計300フライトを事故無く達成</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">レスポンス（Response.jp）</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFBqMWpFcW1QcWhWT3RCcWJZN2RWc3Q5R1d2dXluMWZQMVd1WkhaOFQyVTc3UklKQUl1bldRc3h2OWxuTWNYVEl3ejZMd1A3VjVkRWtXdnpLcmdYbzRhUUU4?oc=5\" target=\"_blank\">開発中の空飛ぶクルマ「SKYDRIVE」、累計300フライトを事故無く達成</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">レスポンス（Response.jp）</font>",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBqMWpFcW1QcWhWT3RCcWJZN2RWc3Q5R1d2dXluMWZQMVd1WkhaOFQyVTc3UklKQUl1bldRc3h2OWxuTWNYVEl3ejZMd1A3VjVkRWtXdnpLcmdYbzRhUUU4?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBqMWpFcW1QcWhWT3RCcWJZN2RWc3Q5R1d2dXluMWZQMVd1WkhaOFQyVTc3UklKQUl1bldRc3h2OWxuTWNYVEl3ejZMd1A3VjVkRWtXdnpLcmdYbzRhUUU4?oc=5",
+      "publishedAt": "2026-07-02T21:30:03.000Z",
+      "source": "レスポンス（Response.jp）",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP 事業者/実装)",
+      "_scoring": {
+        "score": 67,
         "categories": [
           "技術・製品",
-          "市場・資金",
-          "政策・インフラ"
+          "事故・事件"
         ],
         "breakdown": {
           "required": true,
@@ -639,20 +638,17 @@
             "matches": 1,
             "catScore": 24
           },
-          "market": {
+          "incident": {
             "matches": 1,
-            "catScore": 20
-          },
-          "policy": {
-            "matches": 1,
-            "catScore": 24
+            "catScore": 28
           },
           "sourceTrust": {
             "domain": "news.google.com",
             "multiplier": 0.8
           },
-          "freshness": 2,
-          "titleBonus": 10
+          "freshness": 0,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
         },
         "pass": true
       }
@@ -804,6 +800,38 @@
       }
     },
     {
+      "title": "ドローン使って「密漁」監視 いわきで実証実験、音声警告など確認:速報",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE5IMF9POTNIdmNSTWQ0VmVlVHFGekFlbEtOdjJuclh1ckU3NmtNZG1vdEp4NDlreWd6S1c1WS1aOEs1MHUwRHo3RzVOSlpBUDZGNjNnNEVaMk5sV1hTUEYwM3lhNGtjTXRw?oc=5\" target=\"_blank\">ドローン使って「密漁」監視 いわきで実証実験、音声警告など確認:速報</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">福島民友新聞社</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE5IMF9POTNIdmNSTWQ0VmVlVHFGekFlbEtOdjJuclh1ckU3NmtNZG1vdEp4NDlreWd6S1c1WS1aOEs1MHUwRHo3RzVOSlpBUDZGNjNnNEVaMk5sV1hTUEYwM3lhNGtjTXRw?oc=5\" target=\"_blank\">ドローン使って「密漁」監視 いわきで実証実験、音声警告など確認:速報</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">福島民友新聞社</font>",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5IMF9POTNIdmNSTWQ0VmVlVHFGekFlbEtOdjJuclh1ckU3NmtNZG1vdEp4NDlreWd6S1c1WS1aOEs1MHUwRHo3RzVOSlpBUDZGNjNnNEVaMk5sV1hTUEYwM3lhNGtjTXRw?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5IMF9POTNIdmNSTWQ0VmVlVHFGekFlbEtOdjJuclh1ckU3NmtNZG1vdEp4NDlreWd6S1c1WS1aOEs1MHUwRHo3RzVOSlpBUDZGNjNnNEVaMk5sV1hTUEYwM3lhNGtjTXRw?oc=5",
+      "publishedAt": "2026-07-11T08:25:00.000Z",
+      "source": "福島民友新聞社",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP 政策/実証)",
+      "_scoring": {
+        "score": 64,
+        "categories": [
+          "技術・製品"
+        ],
+        "breakdown": {
+          "required": true,
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 20,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
       "title": "Liberaware Korea、韓国のドローン基盤インフラ管理プラットフォーム企業ALTIVIONと業務提携",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9IY1dQM3ZwYTgyNlFmT0pyVF9FNnRQN0U2VEJxTTZob1pRdUdFZmhlS1Q0S2FxY3hTUkRNdDliSldybWtJSHlaZHY2VkI1d1FwTzdRdm9xaGJNZW04Vm96UlJ0azlucE1UZ1E?oc=5\" target=\"_blank\">Liberaware Korea、韓国のドローン基盤インフラ管理プラットフォーム企業ALTIVIONと業務提携</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ドローンジャーナル</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9IY1dQM3ZwYTgyNlFmT0pyVF9FNnRQN0U2VEJxTTZob1pRdUdFZmhlS1Q0S2FxY3hTUkRNdDliSldybWtJSHlaZHY2VkI1d1FwTzdRdm9xaGJNZW04Vm96UlJ0azlucE1UZ1E?oc=5\" target=\"_blank\">Liberaware Korea、韓国のドローン基盤インフラ管理プラットフォーム企業ALTIVIONと業務提携</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ドローンジャーナル</font>",
@@ -828,43 +856,6 @@
           "policy": {
             "matches": 1,
             "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 0,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "トライアイズ、マゼックスと業務提携、ドローンＡＩ自動運航基盤を共同開発へ - kabu-ir.com",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE9uSi1KdzEyTGlzbWl2UjhpeEg0bFpRR0dRUDR3SE4yNFZiUTNJZ3hQS0ZOLWxVc3BoNlVtbUxYaHhqMk5lLXdWRlNvQURweWpKWVIxbw?oc=5\" target=\"_blank\">トライアイズ、マゼックスと業務提携、ドローンＡＩ自動運航基盤を共同開発へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">kabu-ir.com</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE9uSi1KdzEyTGlzbWl2UjhpeEg0bFpRR0dRUDR3SE4yNFZiUTNJZ3hQS0ZOLWxVc3BoNlVtbUxYaHhqMk5lLXdWRlNvQURweWpKWVIxbw?oc=5\" target=\"_blank\">トライアイズ、マゼックスと業務提携、ドローンＡＩ自動運航基盤を共同開発へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">kabu-ir.com</font>",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9uSi1KdzEyTGlzbWl2UjhpeEg0bFpRR0dRUDR3SE4yNFZiUTNJZ3hQS0ZOLWxVc3BoNlVtbUxYaHhqMk5lLXdWRlNvQURweWpKWVIxbw?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9uSi1KdzEyTGlzbWl2UjhpeEg0bFpRR0dRUDR3SE4yNFZiUTNJZ3hQS0ZOLWxVc3BoNlVtbUxYaHhqMk5lLXdWRlNvQURweWpKWVIxbw?oc=5",
-      "publishedAt": "2026-06-18T07:00:00.000Z",
-      "source": "kabu-ir.com",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP 政策/実証)",
-      "_scoring": {
-        "score": 64,
-        "categories": [
-          "技術・製品",
-          "市場・資金"
-        ],
-        "breakdown": {
-          "required": true,
-          "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "market": {
-            "matches": 2,
-            "catScore": 25
           },
           "sourceTrust": {
             "domain": "news.google.com",
@@ -915,42 +906,6 @@
       }
     },
     {
-      "title": "ICAO: Drone threat to aviation is increasing and needs a unified response",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxObXZyazI2Mm9EN0Ryd2EwMzNLYlFibklwQTVzNURrdnpzUkZlTHUwTzdmU3ZyVkgtcUJNOEltWC1kUnBhdmp1eDhNRXpWT0VhWjBvTkNRdEpuU3hzNndCTzVWWENmSnRHTlh1X2lBQ3loWkRpcnZpeWFxeVNBWFZTZzlFS2lUZVJKMzMzbkJUVU9Ib3RxTFFodmdXR29CSkx4V2lUS3FlemFhQjFlYi1kYnJrOUZrWkMweHZyRE1R?oc=5\" target=\"_blank\">ICAO: Drone threat to aviation is increasing and needs a unified response</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxObXZyazI2Mm9EN0Ryd2EwMzNLYlFibklwQTVzNURrdnpzUkZlTHUwTzdmU3ZyVkgtcUJNOEltWC1kUnBhdmp1eDhNRXpWT0VhWjBvTkNRdEpuU3hzNndCTzVWWENmSnRHTlh1X2lBQ3loWkRpcnZpeWFxeVNBWFZTZzlFS2lUZVJKMzMzbkJUVU9Ib3RxTFFodmdXR29CSkx4V2lUS3FlemFhQjFlYi1kYnJrOUZrWkMweHZyRE1R?oc=5\" target=\"_blank\">ICAO: Drone threat to aviation is increasing and needs a unified response</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObXZyazI2Mm9EN0Ryd2EwMzNLYlFibklwQTVzNURrdnpzUkZlTHUwTzdmU3ZyVkgtcUJNOEltWC1kUnBhdmp1eDhNRXpWT0VhWjBvTkNRdEpuU3hzNndCTzVWWENmSnRHTlh1X2lBQ3loWkRpcnZpeWFxeVNBWFZTZzlFS2lUZVJKMzMzbkJUVU9Ib3RxTFFodmdXR29CSkx4V2lUS3FlemFhQjFlYi1kYnJrOUZrWkMweHZyRE1R?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObXZyazI2Mm9EN0Ryd2EwMzNLYlFibklwQTVzNURrdnpzUkZlTHUwTzdmU3ZyVkgtcUJNOEltWC1kUnBhdmp1eDhNRXpWT0VhWjBvTkNRdEpuU3hzNndCTzVWWENmSnRHTlh1X2lBQ3loWkRpcnZpeWFxeVNBWFZTZzlFS2lUZVJKMzMzbkJUVU9Ib3RxTFFodmdXR29CSkx4V2lUS3FlemFhQjFlYi1kYnJrOUZrWkMweHZyRE1R?oc=5",
-      "publishedAt": "2026-07-10T07:53:44.000Z",
-      "source": "Unmanned airspace",
-      "_feedRegion": "eu",
-      "_feedName": "EASA",
-      "_scoring": {
-        "score": 62,
-        "categories": [
-          "規制・政策",
-          "市場・資金"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 1,
-            "catScore": 32
-          },
-          "market": {
-            "matches": 1,
-            "catScore": 20
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 10,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
       "title": "小泉悠氏に聞く「ドローンが変えた戦争」〜主力兵器化したドローンとウクライナ戦争をめぐる現状〜【調査情報デジタル】",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1aTHJfXzhSb1VJNTkweHdBRVRLWlFNX0VEN3J0M3BiSVFGdHpTOThRYURhMkYwX181QmZsVGYyMFlIaTZzaWkyVTFVd0RIOVlYQTVkLW9oYi1VXzd5WmNUZ1BfWHFpdklUaHVxX0RpNlJXMDhJNjRJMUJxRmFTV0E?oc=5\" target=\"_blank\">小泉悠氏に聞く「ドローンが変えた戦争」〜主力兵器化したドローンとウクライナ戦争をめぐる現状〜【調査情報デジタル】</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1aTHJfXzhSb1VJNTkweHdBRVRLWlFNX0VEN3J0M3BiSVFGdHpTOThRYURhMkYwX181QmZsVGYyMFlIaTZzaWkyVTFVd0RIOVlYQTVkLW9oYi1VXzd5WmNUZ1BfWHFpdklUaHVxX0RpNlJXMDhJNjRJMUJxRmFTV0E?oc=5\" target=\"_blank\">小泉悠氏に聞く「ドローンが変えた戦争」〜主力兵器化したドローンとウクライナ戦争をめぐる現状〜【調査情報デジタル】</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
@@ -958,6 +913,38 @@
       "googleNewsUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1aTHJfXzhSb1VJNTkweHdBRVRLWlFNX0VEN3J0M3BiSVFGdHpTOThRYURhMkYwX181QmZsVGYyMFlIaTZzaWkyVTFVd0RIOVlYQTVkLW9oYi1VXzd5WmNUZ1BfWHFpdklUaHVxX0RpNlJXMDhJNjRJMUJxRmFTV0E?oc=5",
       "publishedAt": "2026-07-11T00:00:33.000Z",
       "source": "Yahoo!ニュース",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP)",
+      "_scoring": {
+        "score": 62,
+        "categories": [
+          "事故・事件"
+        ],
+        "breakdown": {
+          "required": true,
+          "incident": {
+            "matches": 1,
+            "catScore": 28
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 15,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "小泉悠氏に聞く「ドローンが変えた戦争」～主力兵器化したドローンとウクライナ戦争をめぐる現状～【調査情報デジタル】",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE9LcUlzenJUNVZFQzMyYm4tN0djUVlJUlZKS2ZFRUdDdWhGOTF5ZF9MYk1ScDdwel84NUVCTHEtamZSSENMb29iQS1kN0NUT0hDZTNDU0FoNA?oc=5\" target=\"_blank\">小泉悠氏に聞く「ドローンが変えた戦争」～主力兵器化したドローンとウクライナ戦争をめぐる現状～【調査情報デジタル】</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TBS NEWS DIG</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE9LcUlzenJUNVZFQzMyYm4tN0djUVlJUlZKS2ZFRUdDdWhGOTF5ZF9MYk1ScDdwel84NUVCTHEtamZSSENMb29iQS1kN0NUT0hDZTNDU0FoNA?oc=5\" target=\"_blank\">小泉悠氏に聞く「ドローンが変えた戦争」～主力兵器化したドローンとウクライナ戦争をめぐる現状～【調査情報デジタル】</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TBS NEWS DIG</font>",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9LcUlzenJUNVZFQzMyYm4tN0djUVlJUlZKS2ZFRUdDdWhGOTF5ZF9MYk1ScDdwel84NUVCTHEtamZSSENMb29iQS1kN0NUT0hDZTNDU0FoNA?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9LcUlzenJUNVZFQzMyYm4tN0djUVlJUlZKS2ZFRUdDdWhGOTF5ZF9MYk1ScDdwel84NUVCTHEtamZSSENMb29iQS1kN0NUT0hDZTNDU0FoNA?oc=5",
+      "publishedAt": "2026-07-11T00:00:00.000Z",
+      "source": "TBS NEWS DIG",
       "_feedRegion": "jp",
       "_feedName": "Google News (JP)",
       "_scoring": {
