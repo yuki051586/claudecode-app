@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-11T16:03:07.286Z",
-  "rawCount": 747,
+  "generatedAt": "2026-07-11T17:57:31.377Z",
+  "rawCount": 745,
   "articles": [
     {
       "title": "ドローン飛行、工業専用地域は許可不要に 国交省、新ルール運用開始",
@@ -13,7 +13,7 @@
       "_feedRegion": "jp",
       "_feedName": "Google News (JP 経済メディア)",
       "_scoring": {
-        "score": 85,
+        "score": 80,
         "categories": [
           "規制・政策",
           "政策・インフラ"
@@ -32,7 +32,7 @@
             "domain": "news.google.com",
             "multiplier": 0.8
           },
-          "freshness": 15,
+          "freshness": 10,
           "titleBonus": 10,
           "jpRegionBonus": 15
         },
@@ -318,43 +318,6 @@
           },
           "freshness": 0,
           "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "下水道調査にドローン 購入費の補助要望 国交省に団体 2026.7.8付",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE5SdjY1Ti1PNXRLYmJPb0tPdVJhUExHY2x2UThZbUo5RVJfektwbWZILTBhQnBxNGowSDUtSUtIYjRxVk43SlNuSThXN1c1V0owRkN1dGJPSkVhT2JqYXAzZDRVYU5BWk9kcFBLMUF3?oc=5\" target=\"_blank\">下水道調査にドローン 購入費の補助要望 国交省に団体 2026.7.8付</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">公明新聞電子版プラス</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE5SdjY1Ti1PNXRLYmJPb0tPdVJhUExHY2x2UThZbUo5RVJfektwbWZILTBhQnBxNGowSDUtSUtIYjRxVk43SlNuSThXN1c1V0owRkN1dGJPSkVhT2JqYXAzZDRVYU5BWk9kcFBLMUF3?oc=5\" target=\"_blank\">下水道調査にドローン 購入費の補助要望 国交省に団体 2026.7.8付</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">公明新聞電子版プラス</font>",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5SdjY1Ti1PNXRLYmJPb0tPdVJhUExHY2x2UThZbUo5RVJfektwbWZILTBhQnBxNGowSDUtSUtIYjRxVk43SlNuSThXN1c1V0owRkN1dGJPSkVhT2JqYXAzZDRVYU5BWk9kcFBLMUF3?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5SdjY1Ti1PNXRLYmJPb0tPdVJhUExHY2x2UThZbUo5RVJfektwbWZILTBhQnBxNGowSDUtSUtIYjRxVk43SlNuSThXN1c1V0owRkN1dGJPSkVhT2JqYXAzZDRVYU5BWk9kcFBLMUF3?oc=5",
-      "publishedAt": "2026-07-07T20:15:19.000Z",
-      "source": "公明新聞電子版プラス",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP 政策/実証)",
-      "_scoring": {
-        "score": 73,
-        "categories": [
-          "規制・政策",
-          "事故・事件"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 1,
-            "catScore": 32
-          },
-          "incident": {
-            "matches": 1,
-            "catScore": 28
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 0,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
         },
         "pass": true
       }
@@ -1098,6 +1061,42 @@
             "multiplier": 0.8
           },
           "freshness": 5,
+          "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "Skyports Infrastructure to collaborate with City of Gold Coast to advance commercial Advanced Air Mobility in region",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMS1tbTRzUnRnSWcyMnN3ZkltU2ZJbVE0ckJNV1VRRGN5WnhubjNoVy03VmtvMzJhT19NVFJ1RHVydVR0SkJ1SGtIZzZERGhna050TkFSckJkdlU0cm8xWkhxeXZIcDViTHFaak13Y2hRNUpHOXpTS0hkTTBEeDBZa0JaSEtwaEk1c1ZCUkhDN2JtMVdQclJrNzhHUDYxWVpodWQyNVB5ZHk2MXFLUVlOTmNxRUtVOXRoem5BbElZRUg5NXRScEw0SEtpZ29SMWJndFhQaEhmYndqQQ?oc=5\" target=\"_blank\">Skyports Infrastructure to collaborate with City of Gold Coast to advance commercial Advanced Air Mobility in region</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Skyports Infrastructure</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMS1tbTRzUnRnSWcyMnN3ZkltU2ZJbVE0ckJNV1VRRGN5WnhubjNoVy03VmtvMzJhT19NVFJ1RHVydVR0SkJ1SGtIZzZERGhna050TkFSckJkdlU0cm8xWkhxeXZIcDViTHFaak13Y2hRNUpHOXpTS0hkTTBEeDBZa0JaSEtwaEk1c1ZCUkhDN2JtMVdQclJrNzhHUDYxWVpodWQyNVB5ZHk2MXFLUVlOTmNxRUtVOXRoem5BbElZRUg5NXRScEw0SEtpZ29SMWJndFhQaEhmYndqQQ?oc=5\" target=\"_blank\">Skyports Infrastructure to collaborate with City of Gold Coast to advance commercial Advanced Air Mobility in region</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Skyports Infrastructure</font>",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMS1tbTRzUnRnSWcyMnN3ZkltU2ZJbVE0ckJNV1VRRGN5WnhubjNoVy03VmtvMzJhT19NVFJ1RHVydVR0SkJ1SGtIZzZERGhna050TkFSckJkdlU0cm8xWkhxeXZIcDViTHFaak13Y2hRNUpHOXpTS0hkTTBEeDBZa0JaSEtwaEk1c1ZCUkhDN2JtMVdQclJrNzhHUDYxWVpodWQyNVB5ZHk2MXFLUVlOTmNxRUtVOXRoem5BbElZRUg5NXRScEw0SEtpZ29SMWJndFhQaEhmYndqQQ?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMS1tbTRzUnRnSWcyMnN3ZkltU2ZJbVE0ckJNV1VRRGN5WnhubjNoVy03VmtvMzJhT19NVFJ1RHVydVR0SkJ1SGtIZzZERGhna050TkFSckJkdlU0cm8xWkhxeXZIcDViTHFaak13Y2hRNUpHOXpTS0hkTTBEeDBZa0JaSEtwaEk1c1ZCUkhDN2JtMVdQclJrNzhHUDYxWVpodWQyNVB5ZHk2MXFLUVlOTmNxRUtVOXRoem5BbElZRUg5NXRScEw0SEtpZ29SMWJndFhQaEhmYndqQQ?oc=5",
+      "publishedAt": "2026-07-07T07:00:00.000Z",
+      "source": "Skyports Infrastructure",
+      "_feedRegion": "global",
+      "_feedName": "Google News (Global)",
+      "_scoring": {
+        "score": 60,
+        "categories": [
+          "規制・政策",
+          "政策・インフラ"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
+          "policy": {
+            "matches": 2,
+            "catScore": 30
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 0,
           "titleBonus": 10
         },
         "pass": true
