@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-12T20:56:32.543Z",
-  "rawCount": 759,
+  "generatedAt": "2026-07-12T21:58:16.732Z",
+  "rawCount": 740,
   "articles": [
     {
       "title": "JetBlue Plane Collision With Drone Near JFK Airport: FAA Launches Investigation as Pilot Audio Reveals Details – Newark Airport Reports Separate Near-Miss With Commercial Aircraft",
@@ -33,52 +33,6 @@
           "incident": {
             "matches": 2,
             "catScore": 35
-          },
-          "policy": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 0,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "USA/ Plane collides with drone at New York airport, FAA launches investigation",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNT0YtUDJkelFOV2hRWENPVF9qUUxaRmNtQVhndFZvcnVzNXVpUFVHalptdXlDcmowR1Y4cFFpQTMtNnhtbEVNM08wNTliLThYUURINWtZaVVPemRVSmoybkVjSmpHNkVxUTAxOUpUdW9rVWpvcHk1VmpHUFM1VTJCaEpKTWhCOFJRZUFTaF9jajdvakRhWTlwd3BMNkp0NHdFbl94dk9rZ1BmQQ?oc=5\" target=\"_blank\">USA/ Plane collides with drone at New York airport, FAA launches investigation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Balkanweb.com</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNT0YtUDJkelFOV2hRWENPVF9qUUxaRmNtQVhndFZvcnVzNXVpUFVHalptdXlDcmowR1Y4cFFpQTMtNnhtbEVNM08wNTliLThYUURINWtZaVVPemRVSmoybkVjSmpHNkVxUTAxOUpUdW9rVWpvcHk1VmpHUFM1VTJCaEpKTWhCOFJRZUFTaF9jajdvakRhWTlwd3BMNkp0NHdFbl94dk9rZ1BmQQ?oc=5\" target=\"_blank\">USA/ Plane collides with drone at New York airport, FAA launches investigation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Balkanweb.com</font>",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNT0YtUDJkelFOV2hRWENPVF9qUUxaRmNtQVhndFZvcnVzNXVpUFVHalptdXlDcmowR1Y4cFFpQTMtNnhtbEVNM08wNTliLThYUURINWtZaVVPemRVSmoybkVjSmpHNkVxUTAxOUpUdW9rVWpvcHk1VmpHUFM1VTJCaEpKTWhCOFJRZUFTaF9jajdvakRhWTlwd3BMNkp0NHdFbl94dk9rZ1BmQQ?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNT0YtUDJkelFOV2hRWENPVF9qUUxaRmNtQVhndFZvcnVzNXVpUFVHalptdXlDcmowR1Y4cFFpQTMtNnhtbEVNM08wNTliLThYUURINWtZaVVPemRVSmoybkVjSmpHNkVxUTAxOUpUdW9rVWpvcHk1VmpHUFM1VTJCaEpKTWhCOFJRZUFTaF9jajdvakRhWTlwd3BMNkp0NHdFbl94dk9rZ1BmQQ?oc=5",
-      "publishedAt": "2026-06-30T07:00:00.000Z",
-      "source": "Balkanweb.com",
-      "_feedRegion": "us",
-      "_feedName": "FAA",
-      "_scoring": {
-        "score": 96,
-        "categories": [
-          "規制・政策",
-          "技術・製品",
-          "事故・事件",
-          "政策・インフラ"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 1,
-            "catScore": 32
-          },
-          "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "incident": {
-            "matches": 1,
-            "catScore": 28
           },
           "policy": {
             "matches": 1,
@@ -1137,6 +1091,43 @@
       "source": "nippon.com",
       "_feedRegion": "jp",
       "_feedName": "Google News (JP 政策/実証)",
+      "_scoring": {
+        "score": 60,
+        "categories": [
+          "技術・製品",
+          "市場・資金"
+        ],
+        "breakdown": {
+          "required": true,
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "market": {
+            "matches": 1,
+            "catScore": 20
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 0,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "日本HPが3DプリンターHP Jet Fusionシリーズによるドローン量産技術を公開、製造時間を大幅に短縮へ",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE9hQU5iUXpNaWNCVUVZa0IxWXplMzhSZXctc280ckZ2dnY2a0xHV3RSWVcybElOMHVCbHZ6a1hCMVA4MGFFRHN3MnMtTUladXB0d2NVVGdWbkZPYjZwUTBjazlVbGJaRE5oS0Zr?oc=5\" target=\"_blank\">日本HPが3DプリンターHP Jet Fusionシリーズによるドローン量産技術を公開、製造時間を大幅に短縮へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ドローンジャーナル</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE9hQU5iUXpNaWNCVUVZa0IxWXplMzhSZXctc280ckZ2dnY2a0xHV3RSWVcybElOMHVCbHZ6a1hCMVA4MGFFRHN3MnMtTUladXB0d2NVVGdWbkZPYjZwUTBjazlVbGJaRE5oS0Zr?oc=5\" target=\"_blank\">日本HPが3DプリンターHP Jet Fusionシリーズによるドローン量産技術を公開、製造時間を大幅に短縮へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ドローンジャーナル</font>",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9hQU5iUXpNaWNCVUVZa0IxWXplMzhSZXctc280ckZ2dnY2a0xHV3RSWVcybElOMHVCbHZ6a1hCMVA4MGFFRHN3MnMtTUladXB0d2NVVGdWbkZPYjZwUTBjazlVbGJaRE5oS0Zr?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9hQU5iUXpNaWNCVUVZa0IxWXplMzhSZXctc280ckZ2dnY2a0xHV3RSWVcybElOMHVCbHZ6a1hCMVA4MGFFRHN3MnMtTUladXB0d2NVVGdWbkZPYjZwUTBjazlVbGJaRE5oS0Zr?oc=5",
+      "publishedAt": "2026-07-07T00:55:25.000Z",
+      "source": "ドローンジャーナル",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP 経済メディア)",
       "_scoring": {
         "score": 60,
         "categories": [
