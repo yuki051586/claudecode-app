@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-12T15:01:08.923Z",
-  "rawCount": 745,
+  "generatedAt": "2026-07-12T17:04:01.784Z",
+  "rawCount": 742,
   "articles": [
     {
       "title": "JetBlue Plane Collision With Drone Near JFK Airport: FAA Launches Investigation as Pilot Audio Reveals Details – Newark Airport Reports Separate Near-Miss With Commercial Aircraft",
@@ -33,6 +33,52 @@
           "incident": {
             "matches": 2,
             "catScore": 35
+          },
+          "policy": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 0,
+          "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "USA/ Plane collides with drone at New York airport, FAA launches investigation",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNT0YtUDJkelFOV2hRWENPVF9qUUxaRmNtQVhndFZvcnVzNXVpUFVHalptdXlDcmowR1Y4cFFpQTMtNnhtbEVNM08wNTliLThYUURINWtZaVVPemRVSmoybkVjSmpHNkVxUTAxOUpUdW9rVWpvcHk1VmpHUFM1VTJCaEpKTWhCOFJRZUFTaF9jajdvakRhWTlwd3BMNkp0NHdFbl94dk9rZ1BmQQ?oc=5\" target=\"_blank\">USA/ Plane collides with drone at New York airport, FAA launches investigation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Balkanweb.com</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNT0YtUDJkelFOV2hRWENPVF9qUUxaRmNtQVhndFZvcnVzNXVpUFVHalptdXlDcmowR1Y4cFFpQTMtNnhtbEVNM08wNTliLThYUURINWtZaVVPemRVSmoybkVjSmpHNkVxUTAxOUpUdW9rVWpvcHk1VmpHUFM1VTJCaEpKTWhCOFJRZUFTaF9jajdvakRhWTlwd3BMNkp0NHdFbl94dk9rZ1BmQQ?oc=5\" target=\"_blank\">USA/ Plane collides with drone at New York airport, FAA launches investigation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Balkanweb.com</font>",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNT0YtUDJkelFOV2hRWENPVF9qUUxaRmNtQVhndFZvcnVzNXVpUFVHalptdXlDcmowR1Y4cFFpQTMtNnhtbEVNM08wNTliLThYUURINWtZaVVPemRVSmoybkVjSmpHNkVxUTAxOUpUdW9rVWpvcHk1VmpHUFM1VTJCaEpKTWhCOFJRZUFTaF9jajdvakRhWTlwd3BMNkp0NHdFbl94dk9rZ1BmQQ?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNT0YtUDJkelFOV2hRWENPVF9qUUxaRmNtQVhndFZvcnVzNXVpUFVHalptdXlDcmowR1Y4cFFpQTMtNnhtbEVNM08wNTliLThYUURINWtZaVVPemRVSmoybkVjSmpHNkVxUTAxOUpUdW9rVWpvcHk1VmpHUFM1VTJCaEpKTWhCOFJRZUFTaF9jajdvakRhWTlwd3BMNkp0NHdFbl94dk9rZ1BmQQ?oc=5",
+      "publishedAt": "2026-06-30T07:00:00.000Z",
+      "source": "Balkanweb.com",
+      "_feedRegion": "us",
+      "_feedName": "FAA",
+      "_scoring": {
+        "score": 96,
+        "categories": [
+          "規制・政策",
+          "技術・製品",
+          "事故・事件",
+          "政策・インフラ"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "incident": {
+            "matches": 1,
+            "catScore": 28
           },
           "policy": {
             "matches": 1,
@@ -636,6 +682,42 @@
       }
     },
     {
+      "title": "UAE marks aviation milestone with first certified commercial vertiport",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOenJPY2p6MVJmS2FmdkJ3V19UNUFGTmxrNUNQcTFNMFZoTVVCdzZVal9FVWQ5X2MyM21ZMlM4eWZFUkJ4d2hJeUxxRTdfbThQenFHS0hYVGpidm1QeUtGR3EwQUZiRUVDLXladGVMRm9RdGxkdEhoTlZLVnVxVlRHVzJiWVlsMEh0LXkxWW94UU8wNEhGSWpIMzNjMVU?oc=5\" target=\"_blank\">UAE marks aviation milestone with first certified commercial vertiport</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Interesting Engineering</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOenJPY2p6MVJmS2FmdkJ3V19UNUFGTmxrNUNQcTFNMFZoTVVCdzZVal9FVWQ5X2MyM21ZMlM4eWZFUkJ4d2hJeUxxRTdfbThQenFHS0hYVGpidm1QeUtGR3EwQUZiRUVDLXladGVMRm9RdGxkdEhoTlZLVnVxVlRHVzJiWVlsMEh0LXkxWW94UU8wNEhGSWpIMzNjMVU?oc=5\" target=\"_blank\">UAE marks aviation milestone with first certified commercial vertiport</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Interesting Engineering</font>",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOenJPY2p6MVJmS2FmdkJ3V19UNUFGTmxrNUNQcTFNMFZoTVVCdzZVal9FVWQ5X2MyM21ZMlM4eWZFUkJ4d2hJeUxxRTdfbThQenFHS0hYVGpidm1QeUtGR3EwQUZiRUVDLXladGVMRm9RdGxkdEhoTlZLVnVxVlRHVzJiWVlsMEh0LXkxWW94UU8wNEhGSWpIMzNjMVU?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOenJPY2p6MVJmS2FmdkJ3V19UNUFGTmxrNUNQcTFNMFZoTVVCdzZVal9FVWQ5X2MyM21ZMlM4eWZFUkJ4d2hJeUxxRTdfbThQenFHS0hYVGpidm1QeUtGR3EwQUZiRUVDLXladGVMRm9RdGxkdEhoTlZLVnVxVlRHVzJiWVlsMEh0LXkxWW94UU8wNEhGSWpIMzNjMVU?oc=5",
+      "publishedAt": "2026-07-12T16:04:00.000Z",
+      "source": "Interesting Engineering",
+      "_feedRegion": "global",
+      "_feedName": "Google News (Global)",
+      "_scoring": {
+        "score": 65,
+        "categories": [
+          "市場・資金",
+          "政策・インフラ"
+        ],
+        "breakdown": {
+          "required": true,
+          "market": {
+            "matches": 1,
+            "catScore": 20
+          },
+          "policy": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 20,
+          "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
       "title": "World’s first commercial vertiport approved for air taxi operations in Dubai",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUXB0MHU1b0RabERfZ1RoMktQS3V1MGZpLTRQdUhDdmR5R2FpcTA5OFJLQll4akUwYngzRWVrVjhGbng3M3lneDZJNWViYVlMampFWDcta0lNTWNJQXRGaWpQdU9kSE1NR3lfMmNYcVh0UHhReFMzdl9yblhVMFVlSUVKQ25QdE9UTmRwUlhLdVdSWE5MOThrMnJOMC00RXBGVFd4d2xqYUg?oc=5\" target=\"_blank\">World’s first commercial vertiport approved for air taxi operations in Dubai</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Zag Daily</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUXB0MHU1b0RabERfZ1RoMktQS3V1MGZpLTRQdUhDdmR5R2FpcTA5OFJLQll4akUwYngzRWVrVjhGbng3M3lneDZJNWViYVlMampFWDcta0lNTWNJQXRGaWpQdU9kSE1NR3lfMmNYcVh0UHhReFMzdl9yblhVMFVlSUVKQ25QdE9UTmRwUlhLdVdSWE5MOThrMnJOMC00RXBGVFd4d2xqYUg?oc=5\" target=\"_blank\">World’s first commercial vertiport approved for air taxi operations in Dubai</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Zag Daily</font>",
@@ -862,42 +944,6 @@
       }
     },
     {
-      "title": "BETA Technologies and Multistate Collaborative Complete First Operational Flights of the U.S. DOT and FAA's eVTOL Integration Pilot Program",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQRU1yaVpxdndaRlhnM0tZbUNHd2lzaVJ1dWZpejF1YzBXeENYLTNpTC1MM0RKYm5fQVZTNjBYbTlzaEVJcEZmZFhPNVotRzVVaXpqcUNJOEhLUWdodTA5NTVHX1lVcmFlSXJmQjBYZms3MHBUMHFpT0wwX3J4ZlhPc1pCLWJsWWNYR09kanUwUEpjME1SOUhTMUY0Q3gtWERaRnVSaU5kVWZUZmRyejctckl3?oc=5\" target=\"_blank\">BETA Technologies and Multistate Collaborative Complete First Operational Flights of the U.S. DOT and FAA's eVTOL Integration Pilot Program</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQRU1yaVpxdndaRlhnM0tZbUNHd2lzaVJ1dWZpejF1YzBXeENYLTNpTC1MM0RKYm5fQVZTNjBYbTlzaEVJcEZmZFhPNVotRzVVaXpqcUNJOEhLUWdodTA5NTVHX1lVcmFlSXJmQjBYZms3MHBUMHFpT0wwX3J4ZlhPc1pCLWJsWWNYR09kanUwUEpjME1SOUhTMUY0Q3gtWERaRnVSaU5kVWZUZmRyejctckl3?oc=5\" target=\"_blank\">BETA Technologies and Multistate Collaborative Complete First Operational Flights of the U.S. DOT and FAA's eVTOL Integration Pilot Program</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRU1yaVpxdndaRlhnM0tZbUNHd2lzaVJ1dWZpejF1YzBXeENYLTNpTC1MM0RKYm5fQVZTNjBYbTlzaEVJcEZmZFhPNVotRzVVaXpqcUNJOEhLUWdodTA5NTVHX1lVcmFlSXJmQjBYZms3MHBUMHFpT0wwX3J4ZlhPc1pCLWJsWWNYR09kanUwUEpjME1SOUhTMUY0Q3gtWERaRnVSaU5kVWZUZmRyejctckl3?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRU1yaVpxdndaRlhnM0tZbUNHd2lzaVJ1dWZpejF1YzBXeENYLTNpTC1MM0RKYm5fQVZTNjBYbTlzaEVJcEZmZFhPNVotRzVVaXpqcUNJOEhLUWdodTA5NTVHX1lVcmFlSXJmQjBYZms3MHBUMHFpT0wwX3J4ZlhPc1pCLWJsWWNYR09kanUwUEpjME1SOUhTMUY0Q3gtWERaRnVSaU5kVWZUZmRyejctckl3?oc=5",
-      "publishedAt": "2026-07-10T16:35:00.000Z",
-      "source": "Yahoo Finance",
-      "_feedRegion": "us",
-      "_feedName": "FAA",
-      "_scoring": {
-        "score": 60,
-        "categories": [
-          "規制・政策",
-          "政策・インフラ"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 1,
-            "catScore": 32
-          },
-          "policy": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 5,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
       "title": "Skyports Infrastructure to collaborate with City of Gold Coast to advance commercial Advanced Air Mobility in region",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMS1tbTRzUnRnSWcyMnN3ZkltU2ZJbVE0ckJNV1VRRGN5WnhubjNoVy03VmtvMzJhT19NVFJ1RHVydVR0SkJ1SGtIZzZERGhna050TkFSckJkdlU0cm8xWkhxeXZIcDViTHFaak13Y2hRNUpHOXpTS0hkTTBEeDBZa0JaSEtwaEk1c1ZCUkhDN2JtMVdQclJrNzhHUDYxWVpodWQyNVB5ZHk2MXFLUVlOTmNxRUtVOXRoem5BbElZRUg5NXRScEw0SEtpZ29SMWJndFhQaEhmYndqQQ?oc=5\" target=\"_blank\">Skyports Infrastructure to collaborate with City of Gold Coast to advance commercial Advanced Air Mobility in region</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Skyports Infrastructure</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMS1tbTRzUnRnSWcyMnN3ZkltU2ZJbVE0ckJNV1VRRGN5WnhubjNoVy03VmtvMzJhT19NVFJ1RHVydVR0SkJ1SGtIZzZERGhna050TkFSckJkdlU0cm8xWkhxeXZIcDViTHFaak13Y2hRNUpHOXpTS0hkTTBEeDBZa0JaSEtwaEk1c1ZCUkhDN2JtMVdQclJrNzhHUDYxWVpodWQyNVB5ZHk2MXFLUVlOTmNxRUtVOXRoem5BbElZRUg5NXRScEw0SEtpZ29SMWJndFhQaEhmYndqQQ?oc=5\" target=\"_blank\">Skyports Infrastructure to collaborate with City of Gold Coast to advance commercial Advanced Air Mobility in region</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Skyports Infrastructure</font>",
@@ -1112,38 +1158,6 @@
             "multiplier": 0.8
           },
           "freshness": 0,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "ドローン規制に新ルール、国交省 工業専用地域は許可不要に",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1Fa3dnMnQ2cXhZOWNFcmtJQWlqSGZ3T1JLcWQ0YTVDNEdCVzdzZldGZEZGZ1FyV1paQWxfbzAxSnRIc2RwempXUHBPdnA3aE16U19URFNsTjUyX2o5TFE?oc=5\" target=\"_blank\">ドローン規制に新ルール、国交省 工業専用地域は許可不要に</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新潟日報</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1Fa3dnMnQ2cXhZOWNFcmtJQWlqSGZ3T1JLcWQ0YTVDNEdCVzdzZldGZEZGZ1FyV1paQWxfbzAxSnRIc2RwempXUHBPdnA3aE16U19URFNsTjUyX2o5TFE?oc=5\" target=\"_blank\">ドローン規制に新ルール、国交省 工業専用地域は許可不要に</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新潟日報</font>",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1Fa3dnMnQ2cXhZOWNFcmtJQWlqSGZ3T1JLcWQ0YTVDNEdCVzdzZldGZEZGZ1FyV1paQWxfbzAxSnRIc2RwempXUHBPdnA3aE16U19URFNsTjUyX2o5TFE?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1Fa3dnMnQ2cXhZOWNFcmtJQWlqSGZ3T1JLcWQ0YTVDNEdCVzdzZldGZEZGZ1FyV1paQWxfbzAxSnRIc2RwempXUHBPdnA3aE16U19URFNsTjUyX2o5TFE?oc=5",
-      "publishedAt": "2026-07-10T06:22:47.000Z",
-      "source": "新潟日報",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP 政策/実証)",
-      "_scoring": {
-        "score": 59,
-        "categories": [
-          "規制・政策"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 2,
-            "catScore": 40
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 2,
           "titleBonus": 10,
           "jpRegionBonus": 15
         },
