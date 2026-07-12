@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-12T19:11:43.652Z",
-  "rawCount": 740,
+  "generatedAt": "2026-07-12T20:56:32.543Z",
+  "rawCount": 759,
   "articles": [
     {
       "title": "JetBlue Plane Collision With Drone Near JFK Airport: FAA Launches Investigation as Pilot Audio Reveals Details – Newark Airport Reports Separate Near-Miss With Commercial Aircraft",
@@ -871,6 +871,43 @@
       }
     },
     {
+      "title": "広島市安佐南区でドローン警備やインフラ点検の実証実験、人手不足解消や災害対応に期待",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE5KdElGcTRHRHRYVFdONUlZZ1JnbG83bHhxUjluWTdleEFyV3FLZU4zbEQza09uSEpvTXJUTnVaSnp6TmpHZWtHXzg0QQ?oc=5\" target=\"_blank\">広島市安佐南区でドローン警備やインフラ点検の実証実験、人手不足解消や災害対応に期待</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">47NEWS</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE5KdElGcTRHRHRYVFdONUlZZ1JnbG83bHhxUjluWTdleEFyV3FLZU4zbEQza09uSEpvTXJUTnVaSnp6TmpHZWtHXzg0QQ?oc=5\" target=\"_blank\">広島市安佐南区でドローン警備やインフラ点検の実証実験、人手不足解消や災害対応に期待</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">47NEWS</font>",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5KdElGcTRHRHRYVFdONUlZZ1JnbG83bHhxUjluWTdleEFyV3FLZU4zbEQza09uSEpvTXJUTnVaSnp6TmpHZWtHXzg0QQ?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5KdElGcTRHRHRYVFdONUlZZ1JnbG83bHhxUjluWTdleEFyV3FLZU4zbEQza09uSEpvTXJUTnVaSnp6TmpHZWtHXzg0QQ?oc=5",
+      "publishedAt": "2026-06-13T07:00:00.000Z",
+      "source": "47NEWS",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP 政策/実証)",
+      "_scoring": {
+        "score": 63,
+        "categories": [
+          "技術・製品",
+          "政策・インフラ"
+        ],
+        "breakdown": {
+          "required": true,
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "policy": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 0,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
       "title": "イームズロボティクス、無人ドローンポートとクラウドGCSで物流インフラの実用化を加速",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFB5NGdPTlNSdVVFNEthREUzdDV1VTRBQjlraTZGZXBoRF9GTG5PU1ZGRnVWdWx0QXNmMUtwWFNJVU9BZVpuTm9YZGVJblVsSkItRjE3TXlXWmxYMmtfa0pMY01yNERWT3k3MU1z?oc=5\" target=\"_blank\">イームズロボティクス、無人ドローンポートとクラウドGCSで物流インフラの実用化を加速</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ドローンジャーナル</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFB5NGdPTlNSdVVFNEthREUzdDV1VTRBQjlraTZGZXBoRF9GTG5PU1ZGRnVWdWx0QXNmMUtwWFNJVU9BZVpuTm9YZGVJblVsSkItRjE3TXlXWmxYMmtfa0pMY01yNERWT3k3MU1z?oc=5\" target=\"_blank\">イームズロボティクス、無人ドローンポートとクラウドGCSで物流インフラの実用化を加速</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ドローンジャーナル</font>",
@@ -1100,43 +1137,6 @@
       "source": "nippon.com",
       "_feedRegion": "jp",
       "_feedName": "Google News (JP 政策/実証)",
-      "_scoring": {
-        "score": 60,
-        "categories": [
-          "技術・製品",
-          "市場・資金"
-        ],
-        "breakdown": {
-          "required": true,
-          "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "market": {
-            "matches": 1,
-            "catScore": 20
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 0,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "日本HPが3DプリンターHP Jet Fusionシリーズによるドローン量産技術を公開、製造時間を大幅に短縮へ",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE9hQU5iUXpNaWNCVUVZa0IxWXplMzhSZXctc280ckZ2dnY2a0xHV3RSWVcybElOMHVCbHZ6a1hCMVA4MGFFRHN3MnMtTUladXB0d2NVVGdWbkZPYjZwUTBjazlVbGJaRE5oS0Zr?oc=5\" target=\"_blank\">日本HPが3DプリンターHP Jet Fusionシリーズによるドローン量産技術を公開、製造時間を大幅に短縮へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ドローンジャーナル</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE9hQU5iUXpNaWNCVUVZa0IxWXplMzhSZXctc280ckZ2dnY2a0xHV3RSWVcybElOMHVCbHZ6a1hCMVA4MGFFRHN3MnMtTUladXB0d2NVVGdWbkZPYjZwUTBjazlVbGJaRE5oS0Zr?oc=5\" target=\"_blank\">日本HPが3DプリンターHP Jet Fusionシリーズによるドローン量産技術を公開、製造時間を大幅に短縮へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ドローンジャーナル</font>",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9hQU5iUXpNaWNCVUVZa0IxWXplMzhSZXctc280ckZ2dnY2a0xHV3RSWVcybElOMHVCbHZ6a1hCMVA4MGFFRHN3MnMtTUladXB0d2NVVGdWbkZPYjZwUTBjazlVbGJaRE5oS0Zr?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9hQU5iUXpNaWNCVUVZa0IxWXplMzhSZXctc280ckZ2dnY2a0xHV3RSWVcybElOMHVCbHZ6a1hCMVA4MGFFRHN3MnMtTUladXB0d2NVVGdWbkZPYjZwUTBjazlVbGJaRE5oS0Zr?oc=5",
-      "publishedAt": "2026-07-07T00:55:25.000Z",
-      "source": "ドローンジャーナル",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP 経済メディア)",
       "_scoring": {
         "score": 60,
         "categories": [
