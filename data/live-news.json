@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-13T12:10:18.417Z",
-  "rawCount": 722,
+  "generatedAt": "2026-07-13T15:44:01.134Z",
+  "rawCount": 720,
   "articles": [
     {
       "title": "JetBlue Plane Collision With Drone Near JFK Airport: FAA Launches Investigation as Pilot Audio Reveals Details – Newark Airport Reports Separate Near-Miss With Commercial Aircraft",
@@ -90,6 +90,43 @@
           },
           "freshness": 0,
           "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "国交省、主要8空港周辺のドローン飛行禁止区域を拡大 羽田・伊丹などで約1kmに",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTFBPQjBsRTZjRjUzTmJ3dkh4MlZlenBpU2FqTEhYazRpVHFiOGRENFAxUm9WcnpOTlRhRnZqLTUwcF9fT1lXVzFQMjRTZFRNU3M?oc=5\" target=\"_blank\">国交省、主要8空港周辺のドローン飛行禁止区域を拡大 羽田・伊丹などで約1kmに</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FlyTeam</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTFBPQjBsRTZjRjUzTmJ3dkh4MlZlenBpU2FqTEhYazRpVHFiOGRENFAxUm9WcnpOTlRhRnZqLTUwcF9fT1lXVzFQMjRTZFRNU3M?oc=5\" target=\"_blank\">国交省、主要8空港周辺のドローン飛行禁止区域を拡大 羽田・伊丹などで約1kmに</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FlyTeam</font>",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBPQjBsRTZjRjUzTmJ3dkh4MlZlenBpU2FqTEhYazRpVHFiOGRENFAxUm9WcnpOTlRhRnZqLTUwcF9fT1lXVzFQMjRTZFRNU3M?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBPQjBsRTZjRjUzTmJ3dkh4MlZlenBpU2FqTEhYazRpVHFiOGRENFAxUm9WcnpOTlRhRnZqLTUwcF9fT1lXVzFQMjRTZFRNU3M?oc=5",
+      "publishedAt": "2026-07-13T11:18:00.000Z",
+      "source": "FlyTeam",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP 政策/実証)",
+      "_scoring": {
+        "score": 85,
+        "categories": [
+          "規制・政策",
+          "政策・インフラ"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
+          "policy": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 15,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
         },
         "pass": true
       }
@@ -452,38 +489,6 @@
       }
     },
     {
-      "title": "法改正を前に 自衛隊と警察が“違反ドローン”想定し訓練【愛媛県】（南海放送）",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5DTURSUTlRUVBaVm80SWdjM0hoczRXaGJJZVowU1VvSzRLVDF5clkwV3JTdmNoYzNKYUhoRGxUUjZvaFVBRVlmQ2w5OVZCWndBUFcyaUxxS2JrTlBZdVpJNWdlUC0zTWt3NE85UmlWamw0TVAtNjRZOHlnMlE0QWs?oc=5\" target=\"_blank\">法改正を前に 自衛隊と警察が“違反ドローン”想定し訓練【愛媛県】（南海放送）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5DTURSUTlRUVBaVm80SWdjM0hoczRXaGJJZVowU1VvSzRLVDF5clkwV3JTdmNoYzNKYUhoRGxUUjZvaFVBRVlmQ2w5OVZCWndBUFcyaUxxS2JrTlBZdVpJNWdlUC0zTWt3NE85UmlWamw0TVAtNjRZOHlnMlE0QWs?oc=5\" target=\"_blank\">法改正を前に 自衛隊と警察が“違反ドローン”想定し訓練【愛媛県】（南海放送）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5DTURSUTlRUVBaVm80SWdjM0hoczRXaGJJZVowU1VvSzRLVDF5clkwV3JTdmNoYzNKYUhoRGxUUjZvaFVBRVlmQ2w5OVZCWndBUFcyaUxxS2JrTlBZdVpJNWdlUC0zTWt3NE85UmlWamw0TVAtNjRZOHlnMlE0QWs?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5DTURSUTlRUVBaVm80SWdjM0hoczRXaGJJZVowU1VvSzRLVDF5clkwV3JTdmNoYzNKYUhoRGxUUjZvaFVBRVlmQ2w5OVZCWndBUFcyaUxxS2JrTlBZdVpJNWdlUC0zTWt3NE85UmlWamw0TVAtNjRZOHlnMlE0QWs?oc=5",
-      "publishedAt": "2026-07-13T10:14:37.000Z",
-      "source": "Yahoo!ニュース",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP)",
-      "_scoring": {
-        "score": 67,
-        "categories": [
-          "事故・事件"
-        ],
-        "breakdown": {
-          "required": true,
-          "incident": {
-            "matches": 1,
-            "catScore": 28
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 20,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
       "title": "DJIのドローンポート対応ドローン「Matrice 4Dシリーズ」、第二種型式認証を取得",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE1waHpEZ094UXY1UzhTRXNRWnVyQVpBZXBTbmtsdVRoVDVVZ1RTVWppZDdBMGFkRnRzT3c5Q21DV0x6alQ3djRYcVU4TERWZ1FSUjNIMzZUWDFoMjdraEtFWjVhckR0dVFDLUE?oc=5\" target=\"_blank\">DJIのドローンポート対応ドローン「Matrice 4Dシリーズ」、第二種型式認証を取得</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ドローンジャーナル</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE1waHpEZ094UXY1UzhTRXNRWnVyQVpBZXBTbmtsdVRoVDVVZ1RTVWppZDdBMGFkRnRzT3c5Q21DV0x6alQ3djRYcVU4TERWZ1FSUjNIMzZUWDFoMjdraEtFWjVhckR0dVFDLUE?oc=5\" target=\"_blank\">DJIのドローンポート対応ドローン「Matrice 4Dシリーズ」、第二種型式認証を取得</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ドローンジャーナル</font>",
@@ -595,47 +600,6 @@
       }
     },
     {
-      "title": "Joby and Toyota Launch Joint Venture to Scale Electric Air Taxi Production",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNX3VqbkhuNWtESzc4UnA2VEZLRjVGOFFkcUZSU0RDNUhOWmQ3Tk03UlJ3X1lZZnVqZnpUZ0lPZjdiSUVBUWF1ZmZlNDlXMmdxelFQVld1cWlBZHQ3TVRXbFVKMldoN2kzWTA5SUpOTTQ4a2JpYnV3blBmWDUxc3EzYXlRanoyWF9EVXQzVXFNSVlmM1BsdkdOV2VZV1pVMXNEWE53bXVQbw?oc=5\" target=\"_blank\">Joby and Toyota Launch Joint Venture to Scale Electric Air Taxi Production</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Metropolitan Airport News</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNX3VqbkhuNWtESzc4UnA2VEZLRjVGOFFkcUZSU0RDNUhOWmQ3Tk03UlJ3X1lZZnVqZnpUZ0lPZjdiSUVBUWF1ZmZlNDlXMmdxelFQVld1cWlBZHQ3TVRXbFVKMldoN2kzWTA5SUpOTTQ4a2JpYnV3blBmWDUxc3EzYXlRanoyWF9EVXQzVXFNSVlmM1BsdkdOV2VZV1pVMXNEWE53bXVQbw?oc=5\" target=\"_blank\">Joby and Toyota Launch Joint Venture to Scale Electric Air Taxi Production</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Metropolitan Airport News</font>",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNX3VqbkhuNWtESzc4UnA2VEZLRjVGOFFkcUZSU0RDNUhOWmQ3Tk03UlJ3X1lZZnVqZnpUZ0lPZjdiSUVBUWF1ZmZlNDlXMmdxelFQVld1cWlBZHQ3TVRXbFVKMldoN2kzWTA5SUpOTTQ4a2JpYnV3blBmWDUxc3EzYXlRanoyWF9EVXQzVXFNSVlmM1BsdkdOV2VZV1pVMXNEWE53bXVQbw?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNX3VqbkhuNWtESzc4UnA2VEZLRjVGOFFkcUZSU0RDNUhOWmQ3Tk03UlJ3X1lZZnVqZnpUZ0lPZjdiSUVBUWF1ZmZlNDlXMmdxelFQVld1cWlBZHQ3TVRXbFVKMldoN2kzWTA5SUpOTTQ4a2JpYnV3blBmWDUxc3EzYXlRanoyWF9EVXQzVXFNSVlmM1BsdkdOV2VZV1pVMXNEWE53bXVQbw?oc=5",
-      "publishedAt": "2026-07-10T13:00:28.000Z",
-      "source": "Metropolitan Airport News",
-      "_feedRegion": "global",
-      "_feedName": "Google News (Global)",
-      "_scoring": {
-        "score": 66,
-        "categories": [
-          "技術・製品",
-          "市場・資金",
-          "政策・インフラ"
-        ],
-        "breakdown": {
-          "required": true,
-          "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "market": {
-            "matches": 1,
-            "catScore": 20
-          },
-          "policy": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 2,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
       "title": "World’s first commercial vertiport approved for air taxi operations in Dubai",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUXB0MHU1b0RabERfZ1RoMktQS3V1MGZpLTRQdUhDdmR5R2FpcTA5OFJLQll4akUwYngzRWVrVjhGbng3M3lneDZJNWViYVlMampFWDcta0lNTWNJQXRGaWpQdU9kSE1NR3lfMmNYcVh0UHhReFMzdl9yblhVMFVlSUVKQ25QdE9UTmRwUlhLdVdSWE5MOThrMnJOMC00RXBGVFd4d2xqYUg?oc=5\" target=\"_blank\">World’s first commercial vertiport approved for air taxi operations in Dubai</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Zag Daily</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUXB0MHU1b0RabERfZ1RoMktQS3V1MGZpLTRQdUhDdmR5R2FpcTA5OFJLQll4akUwYngzRWVrVjhGbng3M3lneDZJNWViYVlMampFWDcta0lNTWNJQXRGaWpQdU9kSE1NR3lfMmNYcVh0UHhReFMzdl9yblhVMFVlSUVKQ25QdE9UTmRwUlhLdVdSWE5MOThrMnJOMC00RXBGVFd4d2xqYUg?oc=5\" target=\"_blank\">World’s first commercial vertiport approved for air taxi operations in Dubai</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Zag Daily</font>",
@@ -677,19 +641,21 @@
       }
     },
     {
-      "title": "【山口】空飛ぶクルマ 山口市で試験飛行を公開",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE1HQy0zelBLaGt6ZW1hZmg5VDFoSEZ2NUtFbUJnWktodVNnal9ibEdHY1NHMklreFNNY2dIY1pKWDdvOFFMbzd2Z1YwTHlPOG5uaHg4VTBiTQ?oc=5\" target=\"_blank\">【山口】空飛ぶクルマ 山口市で試験飛行を公開</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">yab｜山口朝日放送</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE1HQy0zelBLaGt6ZW1hZmg5VDFoSEZ2NUtFbUJnWktodVNnal9ibEdHY1NHMklreFNNY2dIY1pKWDdvOFFMbzd2Z1YwTHlPOG5uaHg4VTBiTQ?oc=5\" target=\"_blank\">【山口】空飛ぶクルマ 山口市で試験飛行を公開</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">yab｜山口朝日放送</font>",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1HQy0zelBLaGt6ZW1hZmg5VDFoSEZ2NUtFbUJnWktodVNnal9ibEdHY1NHMklreFNNY2dIY1pKWDdvOFFMbzd2Z1YwTHlPOG5uaHg4VTBiTQ?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1HQy0zelBLaGt6ZW1hZmg5VDFoSEZ2NUtFbUJnWktodVNnal9ibEdHY1NHMklreFNNY2dIY1pKWDdvOFFMbzd2Z1YwTHlPOG5uaHg4VTBiTQ?oc=5",
-      "publishedAt": "2026-07-13T10:16:56.000Z",
-      "source": "yab｜山口朝日放送",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP)",
+      "title": "Joby and Toyota Launch Joint Venture to Scale Electric Air Taxi Production",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNX3VqbkhuNWtESzc4UnA2VEZLRjVGOFFkcUZSU0RDNUhOWmQ3Tk03UlJ3X1lZZnVqZnpUZ0lPZjdiSUVBUWF1ZmZlNDlXMmdxelFQVld1cWlBZHQ3TVRXbFVKMldoN2kzWTA5SUpOTTQ4a2JpYnV3blBmWDUxc3EzYXlRanoyWF9EVXQzVXFNSVlmM1BsdkdOV2VZV1pVMXNEWE53bXVQbw?oc=5\" target=\"_blank\">Joby and Toyota Launch Joint Venture to Scale Electric Air Taxi Production</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Metropolitan Airport News</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNX3VqbkhuNWtESzc4UnA2VEZLRjVGOFFkcUZSU0RDNUhOWmQ3Tk03UlJ3X1lZZnVqZnpUZ0lPZjdiSUVBUWF1ZmZlNDlXMmdxelFQVld1cWlBZHQ3TVRXbFVKMldoN2kzWTA5SUpOTTQ4a2JpYnV3blBmWDUxc3EzYXlRanoyWF9EVXQzVXFNSVlmM1BsdkdOV2VZV1pVMXNEWE53bXVQbw?oc=5\" target=\"_blank\">Joby and Toyota Launch Joint Venture to Scale Electric Air Taxi Production</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Metropolitan Airport News</font>",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNX3VqbkhuNWtESzc4UnA2VEZLRjVGOFFkcUZSU0RDNUhOWmQ3Tk03UlJ3X1lZZnVqZnpUZ0lPZjdiSUVBUWF1ZmZlNDlXMmdxelFQVld1cWlBZHQ3TVRXbFVKMldoN2kzWTA5SUpOTTQ4a2JpYnV3blBmWDUxc3EzYXlRanoyWF9EVXQzVXFNSVlmM1BsdkdOV2VZV1pVMXNEWE53bXVQbw?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNX3VqbkhuNWtESzc4UnA2VEZLRjVGOFFkcUZSU0RDNUhOWmQ3Tk03UlJ3X1lZZnVqZnpUZ0lPZjdiSUVBUWF1ZmZlNDlXMmdxelFQVld1cWlBZHQ3TVRXbFVKMldoN2kzWTA5SUpOTTQ4a2JpYnV3blBmWDUxc3EzYXlRanoyWF9EVXQzVXFNSVlmM1BsdkdOV2VZV1pVMXNEWE53bXVQbw?oc=5",
+      "publishedAt": "2026-07-10T13:00:28.000Z",
+      "source": "Metropolitan Airport News",
+      "_feedRegion": "global",
+      "_feedName": "Google News (Global)",
       "_scoring": {
         "score": 64,
         "categories": [
-          "技術・製品"
+          "技術・製品",
+          "市場・資金",
+          "政策・インフラ"
         ],
         "breakdown": {
           "required": true,
@@ -697,35 +663,11 @@
             "matches": 1,
             "catScore": 24
           },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
+          "market": {
+            "matches": 1,
+            "catScore": 20
           },
-          "freshness": 20,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "次世代の移動手段「空飛ぶクルマ」 山口市で試験飛行を初公開 2028年の商用化目指す（ｔｙｓテレビ山口）",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5JUXJ2TTRTdnhvQkxCSUZZMjh3TVh2Ri1TWGQ5YUpXeFRWNEhOekozUExURlJmbWQ1ZGFBUzBtR2lPSmttNWdPbV8wR3IwR1lNY3pYVW53NGRGR2IzcjVaWGt2OGFnLWpsTGJyU2laa19Ucng3V1VQZ3VNOWRXMHM?oc=5\" target=\"_blank\">次世代の移動手段「空飛ぶクルマ」 山口市で試験飛行を初公開 2028年の商用化目指す（ｔｙｓテレビ山口）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5JUXJ2TTRTdnhvQkxCSUZZMjh3TVh2Ri1TWGQ5YUpXeFRWNEhOekozUExURlJmbWQ1ZGFBUzBtR2lPSmttNWdPbV8wR3IwR1lNY3pYVW53NGRGR2IzcjVaWGt2OGFnLWpsTGJyU2laa19Ucng3V1VQZ3VNOWRXMHM?oc=5\" target=\"_blank\">次世代の移動手段「空飛ぶクルマ」 山口市で試験飛行を初公開 2028年の商用化目指す（ｔｙｓテレビ山口）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5JUXJ2TTRTdnhvQkxCSUZZMjh3TVh2Ri1TWGQ5YUpXeFRWNEhOekozUExURlJmbWQ1ZGFBUzBtR2lPSmttNWdPbV8wR3IwR1lNY3pYVW53NGRGR2IzcjVaWGt2OGFnLWpsTGJyU2laa19Ucng3V1VQZ3VNOWRXMHM?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5JUXJ2TTRTdnhvQkxCSUZZMjh3TVh2Ri1TWGQ5YUpXeFRWNEhOekozUExURlJmbWQ1ZGFBUzBtR2lPSmttNWdPbV8wR3IwR1lNY3pYVW53NGRGR2IzcjVaWGt2OGFnLWpsTGJyU2laa19Ucng3V1VQZ3VNOWRXMHM?oc=5",
-      "publishedAt": "2026-07-13T10:10:23.000Z",
-      "source": "Yahoo!ニュース",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP)",
-      "_scoring": {
-        "score": 64,
-        "categories": [
-          "技術・製品"
-        ],
-        "breakdown": {
-          "required": true,
-          "technology": {
+          "policy": {
             "matches": 1,
             "catScore": 24
           },
@@ -733,9 +675,8 @@
             "domain": "news.google.com",
             "multiplier": 0.8
           },
-          "freshness": 20,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
+          "freshness": 0,
+          "titleBonus": 10
         },
         "pass": true
       }
@@ -926,19 +867,20 @@
       }
     },
     {
-      "title": "次世代の移動手段「空飛ぶクルマ」 山口市で試験飛行を初公開 2028年の商用化目指す",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9qRHNHdUJNV19BRkFGdWk5bU13SGlMVjN0S0N4NFhiZFNxS29iazNkV2hXRWduRXZXNHRtbVY0d0x5ZEZickx4NV93TXBjMG14cDdpcC13ckhGR2h3M1B2RjN5ZmtPWmc?oc=5\" target=\"_blank\">次世代の移動手段「空飛ぶクルマ」 山口市で試験飛行を初公開 2028年の商用化目指す</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TBS NEWS DIG</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9qRHNHdUJNV19BRkFGdWk5bU13SGlMVjN0S0N4NFhiZFNxS29iazNkV2hXRWduRXZXNHRtbVY0d0x5ZEZickx4NV93TXBjMG14cDdpcC13ckhGR2h3M1B2RjN5ZmtPWmc?oc=5\" target=\"_blank\">次世代の移動手段「空飛ぶクルマ」 山口市で試験飛行を初公開 2028年の商用化目指す</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TBS NEWS DIG</font>",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9qRHNHdUJNV19BRkFGdWk5bU13SGlMVjN0S0N4NFhiZFNxS29iazNkV2hXRWduRXZXNHRtbVY0d0x5ZEZickx4NV93TXBjMG14cDdpcC13ckhGR2h3M1B2RjN5ZmtPWmc?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9qRHNHdUJNV19BRkFGdWk5bU13SGlMVjN0S0N4NFhiZFNxS29iazNkV2hXRWduRXZXNHRtbVY0d0x5ZEZickx4NV93TXBjMG14cDdpcC13ckhGR2h3M1B2RjN5ZmtPWmc?oc=5",
-      "publishedAt": "2026-07-13T09:56:00.000Z",
-      "source": "TBS NEWS DIG",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP 事業者/実装)",
+      "title": "AeroVironment To Supply Puma UAS Package for Germany's LARUS Reconnaissance Program - Overt Defense -",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOU0drMmNqUEc1aGtQbFJ1bmJZUWdfLU14SHQzS0hzdnJrazN1bk45Q1NCandfdndQNTZ4R1BRaGotWE9NNnBDMHgxWUowaWtqRTA0QzRzZ29CQVRVMWttWmJMd0Y5amd2aWVrTmt2UUFNX2d1cklOR2Nfd3NmeEJvZHRYX1I2OS1oRHpER2IxZWVEQ2NZbG9aLXh6VzBUdmZzbGE3eHgxZlk4Q3dCdVNpeURLRk9uTm83cGVLamJtUG0?oc=5\" target=\"_blank\">AeroVironment To Supply Puma UAS Package for Germany's LARUS Reconnaissance Program</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Overt Defense -</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOU0drMmNqUEc1aGtQbFJ1bmJZUWdfLU14SHQzS0hzdnJrazN1bk45Q1NCandfdndQNTZ4R1BRaGotWE9NNnBDMHgxWUowaWtqRTA0QzRzZ29CQVRVMWttWmJMd0Y5amd2aWVrTmt2UUFNX2d1cklOR2Nfd3NmeEJvZHRYX1I2OS1oRHpER2IxZWVEQ2NZbG9aLXh6VzBUdmZzbGE3eHgxZlk4Q3dCdVNpeURLRk9uTm83cGVLamJtUG0?oc=5\" target=\"_blank\">AeroVironment To Supply Puma UAS Package for Germany's LARUS Reconnaissance Program</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Overt Defense -</font>",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOU0drMmNqUEc1aGtQbFJ1bmJZUWdfLU14SHQzS0hzdnJrazN1bk45Q1NCandfdndQNTZ4R1BRaGotWE9NNnBDMHgxWUowaWtqRTA0QzRzZ29CQVRVMWttWmJMd0Y5amd2aWVrTmt2UUFNX2d1cklOR2Nfd3NmeEJvZHRYX1I2OS1oRHpER2IxZWVEQ2NZbG9aLXh6VzBUdmZzbGE3eHgxZlk4Q3dCdVNpeURLRk9uTm83cGVLamJtUG0?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOU0drMmNqUEc1aGtQbFJ1bmJZUWdfLU14SHQzS0hzdnJrazN1bk45Q1NCandfdndQNTZ4R1BRaGotWE9NNnBDMHgxWUowaWtqRTA0QzRzZ29CQVRVMWttWmJMd0Y5amd2aWVrTmt2UUFNX2d1cklOR2Nfd3NmeEJvZHRYX1I2OS1oRHpER2IxZWVEQ2NZbG9aLXh6VzBUdmZzbGE3eHgxZlk4Q3dCdVNpeURLRk9uTm83cGVLamJtUG0?oc=5",
+      "publishedAt": "2026-07-13T12:00:31.000Z",
+      "source": "Overt Defense -",
+      "_feedRegion": "global",
+      "_feedName": "Google News (Global)",
       "_scoring": {
-        "score": 64,
+        "score": 63,
         "categories": [
-          "技術・製品"
+          "技術・製品",
+          "政策・インフラ"
         ],
         "breakdown": {
           "required": true,
@@ -946,13 +888,16 @@
             "matches": 1,
             "catScore": 24
           },
+          "policy": {
+            "matches": 1,
+            "catScore": 24
+          },
           "sourceTrust": {
             "domain": "news.google.com",
             "multiplier": 0.8
           },
-          "freshness": 20,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
+          "freshness": 15,
+          "titleBonus": 10
         },
         "pass": true
       }
@@ -988,6 +933,38 @@
             "multiplier": 0.8
           },
           "freshness": 0,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "法改正を前に 自衛隊と警察が“違反ドローン”想定し訓練【愛媛県】（南海放送）",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5DTURSUTlRUVBaVm80SWdjM0hoczRXaGJJZVowU1VvSzRLVDF5clkwV3JTdmNoYzNKYUhoRGxUUjZvaFVBRVlmQ2w5OVZCWndBUFcyaUxxS2JrTlBZdVpJNWdlUC0zTWt3NE85UmlWamw0TVAtNjRZOHlnMlE0QWs?oc=5\" target=\"_blank\">法改正を前に 自衛隊と警察が“違反ドローン”想定し訓練【愛媛県】（南海放送）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5DTURSUTlRUVBaVm80SWdjM0hoczRXaGJJZVowU1VvSzRLVDF5clkwV3JTdmNoYzNKYUhoRGxUUjZvaFVBRVlmQ2w5OVZCWndBUFcyaUxxS2JrTlBZdVpJNWdlUC0zTWt3NE85UmlWamw0TVAtNjRZOHlnMlE0QWs?oc=5\" target=\"_blank\">法改正を前に 自衛隊と警察が“違反ドローン”想定し訓練【愛媛県】（南海放送）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5DTURSUTlRUVBaVm80SWdjM0hoczRXaGJJZVowU1VvSzRLVDF5clkwV3JTdmNoYzNKYUhoRGxUUjZvaFVBRVlmQ2w5OVZCWndBUFcyaUxxS2JrTlBZdVpJNWdlUC0zTWt3NE85UmlWamw0TVAtNjRZOHlnMlE0QWs?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5DTURSUTlRUVBaVm80SWdjM0hoczRXaGJJZVowU1VvSzRLVDF5clkwV3JTdmNoYzNKYUhoRGxUUjZvaFVBRVlmQ2w5OVZCWndBUFcyaUxxS2JrTlBZdVpJNWdlUC0zTWt3NE85UmlWamw0TVAtNjRZOHlnMlE0QWs?oc=5",
+      "publishedAt": "2026-07-13T06:52:00.000Z",
+      "source": "Yahoo!ニュース",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP)",
+      "_scoring": {
+        "score": 62,
+        "categories": [
+          "事故・事件"
+        ],
+        "breakdown": {
+          "required": true,
+          "incident": {
+            "matches": 1,
+            "catScore": 28
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 15,
           "titleBonus": 10,
           "jpRegionBonus": 15
         },
@@ -1112,6 +1089,43 @@
       "googleNewsUrl": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE81UUlLR1BrTTI4U05rUG5PWGlmMzVZLW9nMjRjTkxmY3pwbUJOQWVadXRtdXpfZUJMVXZyaFN6LV9FbmtRYTdsNWlaTQ?oc=5",
       "publishedAt": "2026-06-26T07:00:00.000Z",
       "source": "47NEWS",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP 政策/実証)",
+      "_scoring": {
+        "score": 60,
+        "categories": [
+          "技術・製品",
+          "市場・資金"
+        ],
+        "breakdown": {
+          "required": true,
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "market": {
+            "matches": 1,
+            "catScore": 20
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 0,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "エアバス、川重と防衛ドローン開発で提携",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9UQ1NMdTZCUmFCNjdaR1EtMU5XSkJmMllvYWRVUE9GM0R1U05XY3JMSms2ZjhoblFod25KcUpWdktuX0ljWVNOcXBDMHA5MGcxamVaeFltQWZVMWQxYjNVb0xFWQ?oc=5\" target=\"_blank\">エアバス、川重と防衛ドローン開発で提携</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">nippon.com</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9UQ1NMdTZCUmFCNjdaR1EtMU5XSkJmMllvYWRVUE9GM0R1U05XY3JMSms2ZjhoblFod25KcUpWdktuX0ljWVNOcXBDMHA5MGcxamVaeFltQWZVMWQxYjNVb0xFWQ?oc=5\" target=\"_blank\">エアバス、川重と防衛ドローン開発で提携</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">nippon.com</font>",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9UQ1NMdTZCUmFCNjdaR1EtMU5XSkJmMllvYWRVUE9GM0R1U05XY3JMSms2ZjhoblFod25KcUpWdktuX0ljWVNOcXBDMHA5MGcxamVaeFltQWZVMWQxYjNVb0xFWQ?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9UQ1NMdTZCUmFCNjdaR1EtMU5XSkJmMllvYWRVUE9GM0R1U05XY3JMSms2ZjhoblFod25KcUpWdktuX0ljWVNOcXBDMHA5MGcxamVaeFltQWZVMWQxYjNVb0xFWQ?oc=5",
+      "publishedAt": "2026-06-26T07:00:00.000Z",
+      "source": "nippon.com",
       "_feedRegion": "jp",
       "_feedName": "Google News (JP 政策/実証)",
       "_scoring": {
