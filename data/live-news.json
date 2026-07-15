@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-15T18:11:50.720Z",
-  "rawCount": 709,
+  "generatedAt": "2026-07-15T20:14:21.927Z",
+  "rawCount": 706,
   "articles": [
     {
       "title": "FAA Completes eVTOL Organ Transport Flight Test - Airport Industry-News",
@@ -44,6 +44,43 @@
       }
     },
     {
+      "title": "東京海上、空飛ぶクルマ商用化へ提携 スカイドライブと インフラ整備や保険検討",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE45c0tWNGp1MlE0X3RXZ0twWk9YY3lmalpjUG9VM3FSMTdvbzd0akQ5OVN3Q1BqeXBJR1dHcDM5c2p5UGZMUTE2X1B3Uzk4R3cyYU5LX2hNWXNwSDJ1dEZGQktxbFpiRUJhWVdQSw?oc=5\" target=\"_blank\">東京海上、空飛ぶクルマ商用化へ提携 スカイドライブと インフラ整備や保険検討</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE45c0tWNGp1MlE0X3RXZ0twWk9YY3lmalpjUG9VM3FSMTdvbzd0akQ5OVN3Q1BqeXBJR1dHcDM5c2p5UGZMUTE2X1B3Uzk4R3cyYU5LX2hNWXNwSDJ1dEZGQktxbFpiRUJhWVdQSw?oc=5\" target=\"_blank\">東京海上、空飛ぶクルマ商用化へ提携 スカイドライブと インフラ整備や保険検討</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE45c0tWNGp1MlE0X3RXZ0twWk9YY3lmalpjUG9VM3FSMTdvbzd0akQ5OVN3Q1BqeXBJR1dHcDM5c2p5UGZMUTE2X1B3Uzk4R3cyYU5LX2hNWXNwSDJ1dEZGQktxbFpiRUJhWVdQSw?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTE45c0tWNGp1MlE0X3RXZ0twWk9YY3lmalpjUG9VM3FSMTdvbzd0akQ5OVN3Q1BqeXBJR1dHcDM5c2p5UGZMUTE2X1B3Uzk4R3cyYU5LX2hNWXNwSDJ1dEZGQktxbFpiRUJhWVdQSw?oc=5",
+      "publishedAt": "2026-07-15T17:00:00.000Z",
+      "source": "日本経済新聞",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP 経済メディア)",
+      "_scoring": {
+        "score": 80,
+        "categories": [
+          "市場・資金",
+          "政策・インフラ"
+        ],
+        "breakdown": {
+          "required": true,
+          "market": {
+            "matches": 1,
+            "catScore": 20
+          },
+          "policy": {
+            "matches": 2,
+            "catScore": 30
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 15,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
       "title": "Matternet Expands FAA Part 135 Drone Delivery Network Across the United States",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOc3E0Tnl0OTNaWDRSUDY0Mlk5NGVkdDFjTHFsM3I2THo0TzZJMF9faFlrczlfNVNiRUNJSWFsMF9GMlNDT2dYemNtSkdCYlFVcjRMUWlyMUNjS3picS1zRVlSTVd6OUxlNVlyeXktMm1ZMFN3STBhTFVUSDNWclRrTUdnanplNG1kVDFyTkpla1llX2ZGTmpSUENYUFpMeXVDV1M0OGFlOU5KbkNNck8xZjJR?oc=5\" target=\"_blank\">Matternet Expands FAA Part 135 Drone Delivery Network Across the United States</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">uasweekly.com</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOc3E0Tnl0OTNaWDRSUDY0Mlk5NGVkdDFjTHFsM3I2THo0TzZJMF9faFlrczlfNVNiRUNJSWFsMF9GMlNDT2dYemNtSkdCYlFVcjRMUWlyMUNjS3picS1zRVlSTVd6OUxlNVlyeXktMm1ZMFN3STBhTFVUSDNWclRrTUdnanplNG1kVDFyTkpla1llX2ZGTmpSUENYUFpMeXVDV1M0OGFlOU5KbkNNck8xZjJR?oc=5\" target=\"_blank\">Matternet Expands FAA Part 135 Drone Delivery Network Across the United States</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">uasweekly.com</font>",
@@ -68,42 +105,6 @@
           "policy": {
             "matches": 1,
             "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 15,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "FAA approves MONTIS drone system for avalanche safety missions",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE1wdFZ4eTdGc1NodDUxVDBSUGhPa2ZCaWFFT3h1Ym1Zc3dOMEhzcTMwal9ER0pnMUd4XzkzenJfY2k5UVZ6RUE5WGNzZERVSGhuZGVkc0FzZU5vVWhJVm1CNEpaeWF0MnRfMk50S2JhcE9ZeEFNS0ZV?oc=5\" target=\"_blank\">FAA approves MONTIS drone system for avalanche safety missions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DroneDJ</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE1wdFZ4eTdGc1NodDUxVDBSUGhPa2ZCaWFFT3h1Ym1Zc3dOMEhzcTMwal9ER0pnMUd4XzkzenJfY2k5UVZ6RUE5WGNzZERVSGhuZGVkc0FzZU5vVWhJVm1CNEpaeWF0MnRfMk50S2JhcE9ZeEFNS0ZV?oc=5\" target=\"_blank\">FAA approves MONTIS drone system for avalanche safety missions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DroneDJ</font>",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1wdFZ4eTdGc1NodDUxVDBSUGhPa2ZCaWFFT3h1Ym1Zc3dOMEhzcTMwal9ER0pnMUd4XzkzenJfY2k5UVZ6RUE5WGNzZERVSGhuZGVkc0FzZU5vVWhJVm1CNEpaeWF0MnRfMk50S2JhcE9ZeEFNS0ZV?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1wdFZ4eTdGc1NodDUxVDBSUGhPa2ZCaWFFT3h1Ym1Zc3dOMEhzcTMwal9ER0pnMUd4XzkzenJfY2k5UVZ6RUE5WGNzZERVSGhuZGVkc0FzZU5vVWhJVm1CNEpaeWF0MnRfMk50S2JhcE9ZeEFNS0ZV?oc=5",
-      "publishedAt": "2026-07-15T07:10:00.000Z",
-      "source": "DroneDJ",
-      "_feedRegion": "us",
-      "_feedName": "FAA",
-      "_scoring": {
-        "score": 73,
-        "categories": [
-          "規制・政策",
-          "事故・事件"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 1,
-            "catScore": 32
-          },
-          "incident": {
-            "matches": 1,
-            "catScore": 28
           },
           "sourceTrust": {
             "domain": "news.google.com",
@@ -327,6 +328,42 @@
           "freshness": 0,
           "titleBonus": 10,
           "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "FAA approves MONTIS drone system for avalanche safety missions",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE1wdFZ4eTdGc1NodDUxVDBSUGhPa2ZCaWFFT3h1Ym1Zc3dOMEhzcTMwal9ER0pnMUd4XzkzenJfY2k5UVZ6RUE5WGNzZERVSGhuZGVkc0FzZU5vVWhJVm1CNEpaeWF0MnRfMk50S2JhcE9ZeEFNS0ZV?oc=5\" target=\"_blank\">FAA approves MONTIS drone system for avalanche safety missions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DroneDJ</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE1wdFZ4eTdGc1NodDUxVDBSUGhPa2ZCaWFFT3h1Ym1Zc3dOMEhzcTMwal9ER0pnMUd4XzkzenJfY2k5UVZ6RUE5WGNzZERVSGhuZGVkc0FzZU5vVWhJVm1CNEpaeWF0MnRfMk50S2JhcE9ZeEFNS0ZV?oc=5\" target=\"_blank\">FAA approves MONTIS drone system for avalanche safety missions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DroneDJ</font>",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1wdFZ4eTdGc1NodDUxVDBSUGhPa2ZCaWFFT3h1Ym1Zc3dOMEhzcTMwal9ER0pnMUd4XzkzenJfY2k5UVZ6RUE5WGNzZERVSGhuZGVkc0FzZU5vVWhJVm1CNEpaeWF0MnRfMk50S2JhcE9ZeEFNS0ZV?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1wdFZ4eTdGc1NodDUxVDBSUGhPa2ZCaWFFT3h1Ym1Zc3dOMEhzcTMwal9ER0pnMUd4XzkzenJfY2k5UVZ6RUE5WGNzZERVSGhuZGVkc0FzZU5vVWhJVm1CNEpaeWF0MnRfMk50S2JhcE9ZeEFNS0ZV?oc=5",
+      "publishedAt": "2026-07-15T07:10:00.000Z",
+      "source": "DroneDJ",
+      "_feedRegion": "us",
+      "_feedName": "FAA",
+      "_scoring": {
+        "score": 68,
+        "categories": [
+          "規制・政策",
+          "事故・事件"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
+          "incident": {
+            "matches": 1,
+            "catScore": 28
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 10,
+          "titleBonus": 10
         },
         "pass": true
       }
@@ -707,7 +744,7 @@
       "content": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNT3VIUGpkc1duamx4VkZGSnhQY29xY0dkZW1lTDZ3VlpVV29uTmlzM2tnQnJKOWJHU19MeHR4endRWHdJMFhoMXdDQmZXZHVpUW4yc2kta0FPcGtTREdoelpudzNPTHhEeVl2bEFJeFN3el9DVVYweUtBVTQwSlU0WHVpdVNhSElPb09ZbUduc05mTDViNHg1Zk9Da2NlLTg?oc=5\" target=\"_blank\">Matternet to Expand Drone Delivery in California and Beyond</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">citybiz</font>",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNT3VIUGpkc1duamx4VkZGSnhQY29xY0dkZW1lTDZ3VlpVV29uTmlzM2tnQnJKOWJHU19MeHR4endRWHdJMFhoMXdDQmZXZHVpUW4yc2kta0FPcGtTREdoelpudzNPTHhEeVl2bEFJeFN3el9DVVYweUtBVTQwSlU0WHVpdVNhSElPb09ZbUduc05mTDViNHg1Zk9Da2NlLTg?oc=5",
       "googleNewsUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNT3VIUGpkc1duamx4VkZGSnhQY29xY0dkZW1lTDZ3VlpVV29uTmlzM2tnQnJKOWJHU19MeHR4endRWHdJMFhoMXdDQmZXZHVpUW4yc2kta0FPcGtTREdoelpudzNPTHhEeVl2bEFJeFN3el9DVVYweUtBVTQwSlU0WHVpdVNhSElPb09ZbUduc05mTDViNHg1Zk9Da2NlLTg?oc=5",
-      "publishedAt": "2026-07-15T12:54:48.000Z",
+      "publishedAt": "2026-07-15T12:54:56.000Z",
       "source": "citybiz",
       "_feedRegion": "us",
       "_feedName": "FAA",
@@ -922,43 +959,6 @@
       "googleNewsUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE85YU5PNTRELVNuSnRtbk96czB1aEVocFY4SWl3LVVKV0RQTDNCU2MxTHh5NS03cUQzaEdUeGVQbWlyUXlrSDhXV0VhdXFWZGFMdk1vOURtYVkxbTRRM3VBRDJNczBSSms?oc=5",
       "publishedAt": "2026-07-06T07:00:00.000Z",
       "source": "朝日新聞",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP 政策/実証)",
-      "_scoring": {
-        "score": 60,
-        "categories": [
-          "技術・製品",
-          "市場・資金"
-        ],
-        "breakdown": {
-          "required": true,
-          "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "market": {
-            "matches": 1,
-            "catScore": 20
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 0,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "【速報】エアバス、川重と防衛ドローン開発で提携",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE81UUlLR1BrTTI4U05rUG5PWGlmMzVZLW9nMjRjTkxmY3pwbUJOQWVadXRtdXpfZUJMVXZyaFN6LV9FbmtRYTdsNWlaTQ?oc=5\" target=\"_blank\">【速報】エアバス、川重と防衛ドローン開発で提携</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">47NEWS</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE81UUlLR1BrTTI4U05rUG5PWGlmMzVZLW9nMjRjTkxmY3pwbUJOQWVadXRtdXpfZUJMVXZyaFN6LV9FbmtRYTdsNWlaTQ?oc=5\" target=\"_blank\">【速報】エアバス、川重と防衛ドローン開発で提携</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">47NEWS</font>",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE81UUlLR1BrTTI4U05rUG5PWGlmMzVZLW9nMjRjTkxmY3pwbUJOQWVadXRtdXpfZUJMVXZyaFN6LV9FbmtRYTdsNWlaTQ?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE81UUlLR1BrTTI4U05rUG5PWGlmMzVZLW9nMjRjTkxmY3pwbUJOQWVadXRtdXpfZUJMVXZyaFN6LV9FbmtRYTdsNWlaTQ?oc=5",
-      "publishedAt": "2026-06-26T07:00:00.000Z",
-      "source": "47NEWS",
       "_feedRegion": "jp",
       "_feedName": "Google News (JP 政策/実証)",
       "_scoring": {
