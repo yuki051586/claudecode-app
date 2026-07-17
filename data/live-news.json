@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-17T11:24:12.861Z",
-  "rawCount": 704,
+  "generatedAt": "2026-07-17T13:48:25.841Z",
+  "rawCount": 706,
   "articles": [
     {
       "title": "FAA Completes eVTOL Organ Transport Flight Test - Airport Industry-News",
@@ -13,7 +13,7 @@
       "_feedRegion": "us",
       "_feedName": "FAA",
       "_scoring": {
-        "score": 79,
+        "score": 76,
         "categories": [
           "規制・政策",
           "技術・製品",
@@ -37,48 +37,7 @@
             "domain": "news.google.com",
             "multiplier": 0.8
           },
-          "freshness": 5,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "Chippewa County Drone Project Successfully Demonstrates Advanced Digital Airspace Infrastructure for Commercial and Public Safety Operations",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMihAJBVV95cUxNN05sV3NCeFhUeTBzeURKQ3FXUlAzRTIzNzNUZEM1ZTBJYk5uWVBvX2xUaTFBajg3OG9ZdE1SdkhPWThvMm9heThRekE3UjByQXFaUXdVNFFzTmhEWWxTN2wwY2F6Y2pJRTlSWUdDazMxal96elhHYUtPc3QyNVgxNnBPYmFPdXNDT24wWmVua1RZQ2dCb0Roc0RwLW1Nc0IyR05TdTNCRkotYnd0Zk1OUnpIY2pTVGZtU3UwUEtuM1RCSEtucXNLWHEzVHpKcFQ5TERnUDl0Z2d2eC11U1gtSm1OdUF2bFRvekJpblFiZzJVTzUxTjFVUUVVY3B0NkhzQWhMMQ?oc=5\" target=\"_blank\">Chippewa County Drone Project Successfully Demonstrates Advanced Digital Airspace Infrastructure for Commercial and Public Safety Operations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">sUAS News</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMihAJBVV95cUxNN05sV3NCeFhUeTBzeURKQ3FXUlAzRTIzNzNUZEM1ZTBJYk5uWVBvX2xUaTFBajg3OG9ZdE1SdkhPWThvMm9heThRekE3UjByQXFaUXdVNFFzTmhEWWxTN2wwY2F6Y2pJRTlSWUdDazMxal96elhHYUtPc3QyNVgxNnBPYmFPdXNDT24wWmVua1RZQ2dCb0Roc0RwLW1Nc0IyR05TdTNCRkotYnd0Zk1OUnpIY2pTVGZtU3UwUEtuM1RCSEtucXNLWHEzVHpKcFQ5TERnUDl0Z2d2eC11U1gtSm1OdUF2bFRvekJpblFiZzJVTzUxTjFVUUVVY3B0NkhzQWhMMQ?oc=5\" target=\"_blank\">Chippewa County Drone Project Successfully Demonstrates Advanced Digital Airspace Infrastructure for Commercial and Public Safety Operations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">sUAS News</font>",
-      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNN05sV3NCeFhUeTBzeURKQ3FXUlAzRTIzNzNUZEM1ZTBJYk5uWVBvX2xUaTFBajg3OG9ZdE1SdkhPWThvMm9heThRekE3UjByQXFaUXdVNFFzTmhEWWxTN2wwY2F6Y2pJRTlSWUdDazMxal96elhHYUtPc3QyNVgxNnBPYmFPdXNDT24wWmVua1RZQ2dCb0Roc0RwLW1Nc0IyR05TdTNCRkotYnd0Zk1OUnpIY2pTVGZtU3UwUEtuM1RCSEtucXNLWHEzVHpKcFQ5TERnUDl0Z2d2eC11U1gtSm1OdUF2bFRvekJpblFiZzJVTzUxTjFVUUVVY3B0NkhzQWhMMQ?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNN05sV3NCeFhUeTBzeURKQ3FXUlAzRTIzNzNUZEM1ZTBJYk5uWVBvX2xUaTFBajg3OG9ZdE1SdkhPWThvMm9heThRekE3UjByQXFaUXdVNFFzTmhEWWxTN2wwY2F6Y2pJRTlSWUdDazMxal96elhHYUtPc3QyNVgxNnBPYmFPdXNDT24wWmVua1RZQ2dCb0Roc0RwLW1Nc0IyR05TdTNCRkotYnd0Zk1OUnpIY2pTVGZtU3UwUEtuM1RCSEtucXNLWHEzVHpKcFQ5TERnUDl0Z2d2eC11U1gtSm1OdUF2bFRvekJpblFiZzJVTzUxTjFVUUVVY3B0NkhzQWhMMQ?oc=5",
-      "publishedAt": "2026-07-16T06:57:53.000Z",
-      "source": "sUAS News",
-      "_feedRegion": "us",
-      "_feedName": "FAA",
-      "_scoring": {
-        "score": 77,
-        "categories": [
-          "市場・資金",
-          "事故・事件",
-          "政策・インフラ"
-        ],
-        "breakdown": {
-          "required": true,
-          "market": {
-            "matches": 1,
-            "catScore": 20
-          },
-          "incident": {
-            "matches": 1,
-            "catScore": 28
-          },
-          "policy": {
-            "matches": 2,
-            "catScore": 30
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 5,
+          "freshness": 2,
           "titleBonus": 10
         },
         "pass": true
@@ -122,31 +81,31 @@
       }
     },
     {
-      "title": "L3Harris and Shield AI complete first DiSCO flight test",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeTkxOWZJZElKYzM1TnA5RTZyaFl2YjN4ZUJDSlRIVmRrRHhHVHBZZjhPSTJhb2lQeW4wSFpNSE5TV0dZMmJfMzFDNDR1RU9wM0VmUXU1d1Z0YTR3UzY3XzBqbkxXSkVuYm85bS1OM0VBYlJIa2ZpVXpVNnBvaDdnRHNvQ1hjYVVNZEtDODA3bTMxdlRKSGZSc1dsaTdTeTFzTzRuS1VydENndDlZd2dkZUZia0VEd0NiOV9SVF96YkQ?oc=5\" target=\"_blank\">L3Harris and Shield AI complete first DiSCO flight test</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeTkxOWZJZElKYzM1TnA5RTZyaFl2YjN4ZUJDSlRIVmRrRHhHVHBZZjhPSTJhb2lQeW4wSFpNSE5TV0dZMmJfMzFDNDR1RU9wM0VmUXU1d1Z0YTR3UzY3XzBqbkxXSkVuYm85bS1OM0VBYlJIa2ZpVXpVNnBvaDdnRHNvQ1hjYVVNZEtDODA3bTMxdlRKSGZSc1dsaTdTeTFzTzRuS1VydENndDlZd2dkZUZia0VEd0NiOV9SVF96YkQ?oc=5\" target=\"_blank\">L3Harris and Shield AI complete first DiSCO flight test</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeTkxOWZJZElKYzM1TnA5RTZyaFl2YjN4ZUJDSlRIVmRrRHhHVHBZZjhPSTJhb2lQeW4wSFpNSE5TV0dZMmJfMzFDNDR1RU9wM0VmUXU1d1Z0YTR3UzY3XzBqbkxXSkVuYm85bS1OM0VBYlJIa2ZpVXpVNnBvaDdnRHNvQ1hjYVVNZEtDODA3bTMxdlRKSGZSc1dsaTdTeTFzTzRuS1VydENndDlZd2dkZUZia0VEd0NiOV9SVF96YkQ?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeTkxOWZJZElKYzM1TnA5RTZyaFl2YjN4ZUJDSlRIVmRrRHhHVHBZZjhPSTJhb2lQeW4wSFpNSE5TV0dZMmJfMzFDNDR1RU9wM0VmUXU1d1Z0YTR3UzY3XzBqbkxXSkVuYm85bS1OM0VBYlJIa2ZpVXpVNnBvaDdnRHNvQ1hjYVVNZEtDODA3bTMxdlRKSGZSc1dsaTdTeTFzTzRuS1VydENndDlZd2dkZUZia0VEd0NiOV9SVF96YkQ?oc=5",
-      "publishedAt": "2026-07-17T10:41:20.000Z",
-      "source": "Unmanned airspace",
-      "_feedRegion": "global",
-      "_feedName": "Google News (Global)",
+      "title": "Michigan Drone Project Demonstrates Advanced Digital Airspace for Commercial and Public Safety UAS Operations",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTGF5cGc5M0hWLTdxOGlhUEctN3gtSHlMcWVqZ2RRV2thazJCczN2cXJ6dHFXN3Y2Nk03Wi14VVpxNkpxekFlZkE5ZzdMRUZ3NHNHcUZRLUF0c3V4SGZnbkNrcTY4bWI1TDQ3Ym1zMXZRYnc2Nnd6SWR5SV9SOWR0Y3U3d0VOam1XM0ViVktHblA3bTBjbmpFRTczN3VfWVo5N08zbFVuczJWdWNnZUo1R0NPREVtanQ3MjRtcG5yME9POVN5N2JfbER3ZWlVbEp3NDRxd1dqc1dEdXM?oc=5\" target=\"_blank\">Michigan Drone Project Demonstrates Advanced Digital Airspace for Commercial and Public Safety UAS Operations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">uasweekly.com</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTGF5cGc5M0hWLTdxOGlhUEctN3gtSHlMcWVqZ2RRV2thazJCczN2cXJ6dHFXN3Y2Nk03Wi14VVpxNkpxekFlZkE5ZzdMRUZ3NHNHcUZRLUF0c3V4SGZnbkNrcTY4bWI1TDQ3Ym1zMXZRYnc2Nnd6SWR5SV9SOWR0Y3U3d0VOam1XM0ViVktHblA3bTBjbmpFRTczN3VfWVo5N08zbFVuczJWdWNnZUo1R0NPREVtanQ3MjRtcG5yME9POVN5N2JfbER3ZWlVbEp3NDRxd1dqc1dEdXM?oc=5\" target=\"_blank\">Michigan Drone Project Demonstrates Advanced Digital Airspace for Commercial and Public Safety UAS Operations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">uasweekly.com</font>",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTGF5cGc5M0hWLTdxOGlhUEctN3gtSHlMcWVqZ2RRV2thazJCczN2cXJ6dHFXN3Y2Nk03Wi14VVpxNkpxekFlZkE5ZzdMRUZ3NHNHcUZRLUF0c3V4SGZnbkNrcTY4bWI1TDQ3Ym1zMXZRYnc2Nnd6SWR5SV9SOWR0Y3U3d0VOam1XM0ViVktHblA3bTBjbmpFRTczN3VfWVo5N08zbFVuczJWdWNnZUo1R0NPREVtanQ3MjRtcG5yME9POVN5N2JfbER3ZWlVbEp3NDRxd1dqc1dEdXM?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTGF5cGc5M0hWLTdxOGlhUEctN3gtSHlMcWVqZ2RRV2thazJCczN2cXJ6dHFXN3Y2Nk03Wi14VVpxNkpxekFlZkE5ZzdMRUZ3NHNHcUZRLUF0c3V4SGZnbkNrcTY4bWI1TDQ3Ym1zMXZRYnc2Nnd6SWR5SV9SOWR0Y3U3d0VOam1XM0ViVktHblA3bTBjbmpFRTczN3VfWVo5N08zbFVuczJWdWNnZUo1R0NPREVtanQ3MjRtcG5yME9POVN5N2JfbER3ZWlVbEp3NDRxd1dqc1dEdXM?oc=5",
+      "publishedAt": "2026-07-16T11:01:13.000Z",
+      "source": "uasweekly.com",
+      "_feedRegion": "us",
+      "_feedName": "FAA",
       "_scoring": {
-        "score": 74,
+        "score": 73,
         "categories": [
-          "技術・製品",
           "市場・資金",
+          "事故・事件",
           "政策・インフラ"
         ],
         "breakdown": {
           "required": true,
-          "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
           "market": {
             "matches": 1,
             "catScore": 20
+          },
+          "incident": {
+            "matches": 1,
+            "catScore": 28
           },
           "policy": {
             "matches": 1,
@@ -156,7 +115,8 @@
             "domain": "news.google.com",
             "multiplier": 0.8
           },
-          "freshness": 20
+          "freshness": 5,
+          "titleBonus": 10
         },
         "pass": true
       }
@@ -206,6 +166,43 @@
       "googleNewsUrl": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5PYW9EU1Y1WmRBWFBHWHp4RE93VlN6VFRzV1JUeFYtdThOcHgwTkxnV1RseTdTNzkzQWdteVVLd2kxT0NqWHlWWGdTYw?oc=5",
       "publishedAt": "2026-07-16T20:00:00.000Z",
       "source": "47NEWS",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP 事業者/実装)",
+      "_scoring": {
+        "score": 73,
+        "categories": [
+          "技術・製品",
+          "政策・インフラ"
+        ],
+        "breakdown": {
+          "required": true,
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "policy": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 10,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "プロドローン ドローンで港湾点検支援 水中インフラ向けシステム開発 (中部経済新聞)",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxObHpmVFlBdm1YOVQyOW1CSzRWdnRfbldNY1JfLTBhZThBaXRCcXdfRFVWUnBJY0o0V0NzSmdpWm9iNVZqaE1yeDBCYm5sY1RxOVoxbkQ0VVBuM09vRTFxbHdLUVBsY3pCcURpVkFFdTh5R2RWTG4tUG5qOXJ6amNnVWJqS2ZaS3VlX2FZMXBn?oc=5\" target=\"_blank\">プロドローン ドローンで港湾点検支援 水中インフラ向けシステム開発 (中部経済新聞)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxObHpmVFlBdm1YOVQyOW1CSzRWdnRfbldNY1JfLTBhZThBaXRCcXdfRFVWUnBJY0o0V0NzSmdpWm9iNVZqaE1yeDBCYm5sY1RxOVoxbkQ0VVBuM09vRTFxbHdLUVBsY3pCcURpVkFFdTh5R2RWTG4tUG5qOXJ6amNnVWJqS2ZaS3VlX2FZMXBn?oc=5\" target=\"_blank\">プロドローン ドローンで港湾点検支援 水中インフラ向けシステム開発 (中部経済新聞)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObHpmVFlBdm1YOVQyOW1CSzRWdnRfbldNY1JfLTBhZThBaXRCcXdfRFVWUnBJY0o0V0NzSmdpWm9iNVZqaE1yeDBCYm5sY1RxOVoxbkQ0VVBuM09vRTFxbHdLUVBsY3pCcURpVkFFdTh5R2RWTG4tUG5qOXJ6amNnVWJqS2ZaS3VlX2FZMXBn?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObHpmVFlBdm1YOVQyOW1CSzRWdnRfbldNY1JfLTBhZThBaXRCcXdfRFVWUnBJY0o0V0NzSmdpWm9iNVZqaE1yeDBCYm5sY1RxOVoxbkQ0VVBuM09vRTFxbHdLUVBsY3pCcURpVkFFdTh5R2RWTG4tUG5qOXJ6amNnVWJqS2ZaS3VlX2FZMXBn?oc=5",
+      "publishedAt": "2026-07-16T20:15:22.000Z",
+      "source": "Yahoo!ニュース",
       "_feedRegion": "jp",
       "_feedName": "Google News (JP 事業者/実装)",
       "_scoring": {
@@ -384,6 +381,46 @@
       }
     },
     {
+      "title": "L3Harris and Shield AI complete first DiSCO flight test",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeTkxOWZJZElKYzM1TnA5RTZyaFl2YjN4ZUJDSlRIVmRrRHhHVHBZZjhPSTJhb2lQeW4wSFpNSE5TV0dZMmJfMzFDNDR1RU9wM0VmUXU1d1Z0YTR3UzY3XzBqbkxXSkVuYm85bS1OM0VBYlJIa2ZpVXpVNnBvaDdnRHNvQ1hjYVVNZEtDODA3bTMxdlRKSGZSc1dsaTdTeTFzTzRuS1VydENndDlZd2dkZUZia0VEd0NiOV9SVF96YkQ?oc=5\" target=\"_blank\">L3Harris and Shield AI complete first DiSCO flight test</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeTkxOWZJZElKYzM1TnA5RTZyaFl2YjN4ZUJDSlRIVmRrRHhHVHBZZjhPSTJhb2lQeW4wSFpNSE5TV0dZMmJfMzFDNDR1RU9wM0VmUXU1d1Z0YTR3UzY3XzBqbkxXSkVuYm85bS1OM0VBYlJIa2ZpVXpVNnBvaDdnRHNvQ1hjYVVNZEtDODA3bTMxdlRKSGZSc1dsaTdTeTFzTzRuS1VydENndDlZd2dkZUZia0VEd0NiOV9SVF96YkQ?oc=5\" target=\"_blank\">L3Harris and Shield AI complete first DiSCO flight test</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeTkxOWZJZElKYzM1TnA5RTZyaFl2YjN4ZUJDSlRIVmRrRHhHVHBZZjhPSTJhb2lQeW4wSFpNSE5TV0dZMmJfMzFDNDR1RU9wM0VmUXU1d1Z0YTR3UzY3XzBqbkxXSkVuYm85bS1OM0VBYlJIa2ZpVXpVNnBvaDdnRHNvQ1hjYVVNZEtDODA3bTMxdlRKSGZSc1dsaTdTeTFzTzRuS1VydENndDlZd2dkZUZia0VEd0NiOV9SVF96YkQ?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeTkxOWZJZElKYzM1TnA5RTZyaFl2YjN4ZUJDSlRIVmRrRHhHVHBZZjhPSTJhb2lQeW4wSFpNSE5TV0dZMmJfMzFDNDR1RU9wM0VmUXU1d1Z0YTR3UzY3XzBqbkxXSkVuYm85bS1OM0VBYlJIa2ZpVXpVNnBvaDdnRHNvQ1hjYVVNZEtDODA3bTMxdlRKSGZSc1dsaTdTeTFzTzRuS1VydENndDlZd2dkZUZia0VEd0NiOV9SVF96YkQ?oc=5",
+      "publishedAt": "2026-07-17T10:41:20.000Z",
+      "source": "Unmanned airspace",
+      "_feedRegion": "global",
+      "_feedName": "Google News (Global)",
+      "_scoring": {
+        "score": 69,
+        "categories": [
+          "技術・製品",
+          "市場・資金",
+          "政策・インフラ"
+        ],
+        "breakdown": {
+          "required": true,
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "market": {
+            "matches": 1,
+            "catScore": 20
+          },
+          "policy": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 15
+        },
+        "pass": true
+      }
+    },
+    {
       "title": "Matternet Adds Beeline UAS to Part 135 Drone Delivery Operator Network",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOTWhEN0hrRE1YMkpCT2stemRObHN3SFpfbl85VmFaZ0t2NE9uSnBHOG5SWDlDOUsxeEtjOVFJTW8ySnpPcDFjY25BaTJIdTFPOUtPanJmWEJKNVNLM0UtbHRXTDJxMFdvQmpMbnR3aU1FWEx4cVlTcnNBV3BUSTdGWC05cUUtR0RZaEhoQjlWaEVzbzlzMUxQbE1OM0VJdkU3WDQzY01YZw?oc=5\" target=\"_blank\">Matternet Adds Beeline UAS to Part 135 Drone Delivery Operator Network</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dronelife</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOTWhEN0hrRE1YMkpCT2stemRObHN3SFpfbl85VmFaZ0t2NE9uSnBHOG5SWDlDOUsxeEtjOVFJTW8ySnpPcDFjY25BaTJIdTFPOUtPanJmWEJKNVNLM0UtbHRXTDJxMFdvQmpMbnR3aU1FWEx4cVlTcnNBV3BUSTdGWC05cUUtR0RZaEhoQjlWaEVzbzlzMUxQbE1OM0VJdkU3WDQzY01YZw?oc=5\" target=\"_blank\">Matternet Adds Beeline UAS to Part 135 Drone Delivery Operator Network</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dronelife</font>",
@@ -406,42 +443,6 @@
             "catScore": 32
           },
           "policy": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 10,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "Innoviz LiDAR Finds a Providential New Counter-UAS Mission Extending the Life-Saving Value of Proven Automotive Technology",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiigJBVV95cUxOSGhuYWpNTzViOXUtTi0yWEd0UDJiU0tjbGFxZEpqcWdON2piMkJNRTFrMXVXR05MRmx3dTF6TlJfUFhDNWJ3aFlzd1Uta3drOFd2QnRfeFNpZmU4UTh4QWJITVpCWFd5S0l0bXBEZV9hdjBCVjlESV9EbUZ2TWU1Q2RMZGFHNXF4NHNFQjY5ekNVWDk0MThURmhnXzBrTjNrYWZVcnppbWNBVFBkRkpTeHdNZmZjUWdWcXNTX3ZhTTRVMDFoeUN6QTFDd0Vvc1dGSGQwSmQyYU10OVdHaC1aWXo1am5GLTVMSmhaemJBR0NCaE9UMGMydHlLRWE2cEVMektzSzVZcXdQZw?oc=5\" target=\"_blank\">Innoviz LiDAR Finds a Providential New Counter-UAS Mission Extending the Life-Saving Value of Proven Automotive Technology</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR Newswire</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiigJBVV95cUxOSGhuYWpNTzViOXUtTi0yWEd0UDJiU0tjbGFxZEpqcWdON2piMkJNRTFrMXVXR05MRmx3dTF6TlJfUFhDNWJ3aFlzd1Uta3drOFd2QnRfeFNpZmU4UTh4QWJITVpCWFd5S0l0bXBEZV9hdjBCVjlESV9EbUZ2TWU1Q2RMZGFHNXF4NHNFQjY5ekNVWDk0MThURmhnXzBrTjNrYWZVcnppbWNBVFBkRkpTeHdNZmZjUWdWcXNTX3ZhTTRVMDFoeUN6QTFDd0Vvc1dGSGQwSmQyYU10OVdHaC1aWXo1am5GLTVMSmhaemJBR0NCaE9UMGMydHlLRWE2cEVMektzSzVZcXdQZw?oc=5\" target=\"_blank\">Innoviz LiDAR Finds a Providential New Counter-UAS Mission Extending the Life-Saving Value of Proven Automotive Technology</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR Newswire</font>",
-      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOSGhuYWpNTzViOXUtTi0yWEd0UDJiU0tjbGFxZEpqcWdON2piMkJNRTFrMXVXR05MRmx3dTF6TlJfUFhDNWJ3aFlzd1Uta3drOFd2QnRfeFNpZmU4UTh4QWJITVpCWFd5S0l0bXBEZV9hdjBCVjlESV9EbUZ2TWU1Q2RMZGFHNXF4NHNFQjY5ekNVWDk0MThURmhnXzBrTjNrYWZVcnppbWNBVFBkRkpTeHdNZmZjUWdWcXNTX3ZhTTRVMDFoeUN6QTFDd0Vvc1dGSGQwSmQyYU10OVdHaC1aWXo1am5GLTVMSmhaemJBR0NCaE9UMGMydHlLRWE2cEVMektzSzVZcXdQZw?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOSGhuYWpNTzViOXUtTi0yWEd0UDJiU0tjbGFxZEpqcWdON2piMkJNRTFrMXVXR05MRmx3dTF6TlJfUFhDNWJ3aFlzd1Uta3drOFd2QnRfeFNpZmU4UTh4QWJITVpCWFd5S0l0bXBEZV9hdjBCVjlESV9EbUZ2TWU1Q2RMZGFHNXF4NHNFQjY5ekNVWDk0MThURmhnXzBrTjNrYWZVcnppbWNBVFBkRkpTeHdNZmZjUWdWcXNTX3ZhTTRVMDFoeUN6QTFDd0Vvc1dGSGQwSmQyYU10OVdHaC1aWXo1am5GLTVMSmhaemJBR0NCaE9UMGMydHlLRWE2cEVMektzSzVZcXdQZw?oc=5",
-      "publishedAt": "2026-07-16T12:00:00.000Z",
-      "source": "PR Newswire",
-      "_feedRegion": "global",
-      "_feedName": "Google News (Global)",
-      "_scoring": {
-        "score": 65,
-        "categories": [
-          "規制・政策",
-          "技術・製品"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 1,
-            "catScore": 32
-          },
-          "technology": {
             "matches": 1,
             "catScore": 24
           },
@@ -493,23 +494,28 @@
       }
     },
     {
-      "title": "そらメディア - 中京テレビがお届けするドローンスクール｜中京テレビ放送 ビジネス開発グループ SWINGプロジェクト",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFAwMmVBalJZOURQbUVVb3pJc2F0UklpckFtem9HMGlUcE1udTZNRlQxY25zTG1GM2c4eUFQeGEzb29wS1NLWURBcUpYNkU2bkRPVGtkTTUxSHVub0RYdEJiMFpEd3JkbDJkSkE0?oc=5\" target=\"_blank\">そらメディア - 中京テレビがお届けするドローンスクール｜中京テレビ放送 ビジネス開発グループ SWINGプロジェクト</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ctv.co.jp</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFAwMmVBalJZOURQbUVVb3pJc2F0UklpckFtem9HMGlUcE1udTZNRlQxY25zTG1GM2c4eUFQeGEzb29wS1NLWURBcUpYNkU2bkRPVGtkTTUxSHVub0RYdEJiMFpEd3JkbDJkSkE0?oc=5\" target=\"_blank\">そらメディア - 中京テレビがお届けするドローンスクール｜中京テレビ放送 ビジネス開発グループ SWINGプロジェクト</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ctv.co.jp</font>",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAwMmVBalJZOURQbUVVb3pJc2F0UklpckFtem9HMGlUcE1udTZNRlQxY25zTG1GM2c4eUFQeGEzb29wS1NLWURBcUpYNkU2bkRPVGtkTTUxSHVub0RYdEJiMFpEd3JkbDJkSkE0?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAwMmVBalJZOURQbUVVb3pJc2F0UklpckFtem9HMGlUcE1udTZNRlQxY25zTG1GM2c4eUFQeGEzb29wS1NLWURBcUpYNkU2bkRPVGtkTTUxSHVub0RYdEJiMFpEd3JkbDJkSkE0?oc=5",
-      "publishedAt": "2026-07-17T09:43:24.000Z",
-      "source": "ctv.co.jp",
+      "title": "狭小空間点検ドローン×3Dインフラ管理プラットフォームで韓国市場へ。Liberaware KoreaとALTIVIONが業務提携覚書を締結 - digital-construction.jp",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTFBNNmhHQjZoSTNPRTU2bHU0QzZta3pjWTNuWS1DN2ZRdzhvYW4yaDBHRkdrVlBTUE9FQ3BZUXJDRnRkLUp4MXE3emgzd1laNEFQSjRF?oc=5\" target=\"_blank\">狭小空間点検ドローン×3Dインフラ管理プラットフォームで韓国市場へ。Liberaware KoreaとALTIVIONが業務提携覚書を締結</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">digital-construction.jp</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTFBNNmhHQjZoSTNPRTU2bHU0QzZta3pjWTNuWS1DN2ZRdzhvYW4yaDBHRkdrVlBTUE9FQ3BZUXJDRnRkLUp4MXE3emgzd1laNEFQSjRF?oc=5\" target=\"_blank\">狭小空間点検ドローン×3Dインフラ管理プラットフォームで韓国市場へ。Liberaware KoreaとALTIVIONが業務提携覚書を締結</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">digital-construction.jp</font>",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBNNmhHQjZoSTNPRTU2bHU0QzZta3pjWTNuWS1DN2ZRdzhvYW4yaDBHRkdrVlBTUE9FQ3BZUXJDRnRkLUp4MXE3emgzd1laNEFQSjRF?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBNNmhHQjZoSTNPRTU2bHU0QzZta3pjWTNuWS1DN2ZRdzhvYW4yaDBHRkdrVlBTUE9FQ3BZUXJDRnRkLUp4MXE3emgzd1laNEFQSjRF?oc=5",
+      "publishedAt": "2026-06-23T07:00:00.000Z",
+      "source": "digital-construction.jp",
       "_feedRegion": "jp",
-      "_feedName": "Google News (JP 事業者/実装)",
+      "_feedName": "Google News (JP 政策/実証)",
       "_scoring": {
         "score": 64,
         "categories": [
-          "技術・製品"
+          "市場・資金",
+          "政策・インフラ"
         ],
         "breakdown": {
           "required": true,
-          "technology": {
+          "market": {
+            "matches": 2,
+            "catScore": 25
+          },
+          "policy": {
             "matches": 1,
             "catScore": 24
           },
@@ -517,7 +523,7 @@
             "domain": "news.google.com",
             "multiplier": 0.8
           },
-          "freshness": 20,
+          "freshness": 0,
           "titleBonus": 10,
           "jpRegionBonus": 15
         },
@@ -561,46 +567,6 @@
       }
     },
     {
-      "title": "High Lander, Thirdeye Systems partner to develop ground-based DAA service to support BVLOS operations",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxOclNPWk9YVGxQZkhhYVowTjFxME1aNFZNQUJkODhZemN6b2xFbXRXdkNYSEVjcXd0RGRGU2hhR05CX1VJa0hHNV9zeFZJd2p6anAyWi05WEhFSE44YlpMNzNRZWpLY09ycWhWZHlZYlNabG1xRlo1ejJ0czBKQW5UUmsyRVFnbTd0X1RIdTdRY1EzSmdDaHYtS2ZIaDcwRGZ0Qk01OFNIeXVXRjRHdm85ZUx1TERwX0ExMnRscFZycGxGTWdXM2d6V2hIT3ZUSWxfV0Z5d0tpdF93OUJMcUdia3VaTQ?oc=5\" target=\"_blank\">High Lander, Thirdeye Systems partner to develop ground-based DAA service to support BVLOS operations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxOclNPWk9YVGxQZkhhYVowTjFxME1aNFZNQUJkODhZemN6b2xFbXRXdkNYSEVjcXd0RGRGU2hhR05CX1VJa0hHNV9zeFZJd2p6anAyWi05WEhFSE44YlpMNzNRZWpLY09ycWhWZHlZYlNabG1xRlo1ejJ0czBKQW5UUmsyRVFnbTd0X1RIdTdRY1EzSmdDaHYtS2ZIaDcwRGZ0Qk01OFNIeXVXRjRHdm85ZUx1TERwX0ExMnRscFZycGxGTWdXM2d6V2hIT3ZUSWxfV0Z5d0tpdF93OUJMcUdia3VaTQ?oc=5\" target=\"_blank\">High Lander, Thirdeye Systems partner to develop ground-based DAA service to support BVLOS operations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOclNPWk9YVGxQZkhhYVowTjFxME1aNFZNQUJkODhZemN6b2xFbXRXdkNYSEVjcXd0RGRGU2hhR05CX1VJa0hHNV9zeFZJd2p6anAyWi05WEhFSE44YlpMNzNRZWpLY09ycWhWZHlZYlNabG1xRlo1ejJ0czBKQW5UUmsyRVFnbTd0X1RIdTdRY1EzSmdDaHYtS2ZIaDcwRGZ0Qk01OFNIeXVXRjRHdm85ZUx1TERwX0ExMnRscFZycGxGTWdXM2d6V2hIT3ZUSWxfV0Z5d0tpdF93OUJMcUdia3VaTQ?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOclNPWk9YVGxQZkhhYVowTjFxME1aNFZNQUJkODhZemN6b2xFbXRXdkNYSEVjcXd0RGRGU2hhR05CX1VJa0hHNV9zeFZJd2p6anAyWi05WEhFSE44YlpMNzNRZWpLY09ycWhWZHlZYlNabG1xRlo1ejJ0czBKQW5UUmsyRVFnbTd0X1RIdTdRY1EzSmdDaHYtS2ZIaDcwRGZ0Qk01OFNIeXVXRjRHdm85ZUx1TERwX0ExMnRscFZycGxGTWdXM2d6V2hIT3ZUSWxfV0Z5d0tpdF93OUJMcUdia3VaTQ?oc=5",
-      "publishedAt": "2026-07-14T17:48:47.000Z",
-      "source": "Unmanned airspace",
-      "_feedRegion": "global",
-      "_feedName": "Google News (Global)",
-      "_scoring": {
-        "score": 63,
-        "categories": [
-          "規制・政策",
-          "技術・製品",
-          "市場・資金"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 1,
-            "catScore": 32
-          },
-          "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "market": {
-            "matches": 1,
-            "catScore": 20
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 2
-        },
-        "pass": true
-      }
-    },
-    {
       "title": "イームズロボティクス、無人ドローンポートとクラウドGCSで物流インフラの実用化を加速",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFB5NGdPTlNSdVVFNEthREUzdDV1VTRBQjlraTZGZXBoRF9GTG5PU1ZGRnVWdWx0QXNmMUtwWFNJVU9BZVpuTm9YZGVJblVsSkItRjE3TXlXWmxYMmtfa0pMY01yNERWT3k3MU1z?oc=5\" target=\"_blank\">イームズロボティクス、無人ドローンポートとクラウドGCSで物流インフラの実用化を加速</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ドローンジャーナル</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFB5NGdPTlNSdVVFNEthREUzdDV1VTRBQjlraTZGZXBoRF9GTG5PU1ZGRnVWdWx0QXNmMUtwWFNJVU9BZVpuTm9YZGVJblVsSkItRjE3TXlXWmxYMmtfa0pMY01yNERWT3k3MU1z?oc=5\" target=\"_blank\">イームズロボティクス、無人ドローンポートとクラウドGCSで物流インフラの実用化を加速</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ドローンジャーナル</font>",
@@ -631,38 +597,6 @@
             "multiplier": 0.8
           },
           "freshness": 0,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "ドローン規制に新ルール、国交省 工業専用地域は許可不要に | 全国のニュース",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE1IcTJiN2dibHBaZl9SWF9YRlNuVUM5VjZNUXF3WlktSTduZEJWNTdKOGJjUlBNUFh0dVBZbjhrRDBGY2R3YzdRRkZGWUpLYzdHbE1CeVBSTEhHLU9CTzZpN3B5a0tiTFpKYWpxMQ?oc=5\" target=\"_blank\">ドローン規制に新ルール、国交省 工業専用地域は許可不要に | 全国のニュース</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">福井新聞社</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE1IcTJiN2dibHBaZl9SWF9YRlNuVUM5VjZNUXF3WlktSTduZEJWNTdKOGJjUlBNUFh0dVBZbjhrRDBGY2R3YzdRRkZGWUpLYzdHbE1CeVBSTEhHLU9CTzZpN3B5a0tiTFpKYWpxMQ?oc=5\" target=\"_blank\">ドローン規制に新ルール、国交省 工業専用地域は許可不要に | 全国のニュース</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">福井新聞社</font>",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1IcTJiN2dibHBaZl9SWF9YRlNuVUM5VjZNUXF3WlktSTduZEJWNTdKOGJjUlBNUFh0dVBZbjhrRDBGY2R3YzdRRkZGWUpLYzdHbE1CeVBSTEhHLU9CTzZpN3B5a0tiTFpKYWpxMQ?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1IcTJiN2dibHBaZl9SWF9YRlNuVUM5VjZNUXF3WlktSTduZEJWNTdKOGJjUlBNUFh0dVBZbjhrRDBGY2R3YzdRRkZGWUpLYzdHbE1CeVBSTEhHLU9CTzZpN3B5a0tiTFpKYWpxMQ?oc=5",
-      "publishedAt": "2026-07-15T12:22:35.000Z",
-      "source": "福井新聞社",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP 政策/実証)",
-      "_scoring": {
-        "score": 62,
-        "categories": [
-          "規制・政策"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 2,
-            "catScore": 40
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 5,
           "titleBonus": 10,
           "jpRegionBonus": 15
         },
@@ -732,6 +666,42 @@
             "multiplier": 0.8
           },
           "freshness": 2,
+          "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "Innoviz LiDAR Finds a Providential New Counter-UAS Mission Extending the Life-Saving Value of Proven Automotive Technology",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiigJBVV95cUxOSGhuYWpNTzViOXUtTi0yWEd0UDJiU0tjbGFxZEpqcWdON2piMkJNRTFrMXVXR05MRmx3dTF6TlJfUFhDNWJ3aFlzd1Uta3drOFd2QnRfeFNpZmU4UTh4QWJITVpCWFd5S0l0bXBEZV9hdjBCVjlESV9EbUZ2TWU1Q2RMZGFHNXF4NHNFQjY5ekNVWDk0MThURmhnXzBrTjNrYWZVcnppbWNBVFBkRkpTeHdNZmZjUWdWcXNTX3ZhTTRVMDFoeUN6QTFDd0Vvc1dGSGQwSmQyYU10OVdHaC1aWXo1am5GLTVMSmhaemJBR0NCaE9UMGMydHlLRWE2cEVMektzSzVZcXdQZw?oc=5\" target=\"_blank\">Innoviz LiDAR Finds a Providential New Counter-UAS Mission Extending the Life-Saving Value of Proven Automotive Technology</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR Newswire</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiigJBVV95cUxOSGhuYWpNTzViOXUtTi0yWEd0UDJiU0tjbGFxZEpqcWdON2piMkJNRTFrMXVXR05MRmx3dTF6TlJfUFhDNWJ3aFlzd1Uta3drOFd2QnRfeFNpZmU4UTh4QWJITVpCWFd5S0l0bXBEZV9hdjBCVjlESV9EbUZ2TWU1Q2RMZGFHNXF4NHNFQjY5ekNVWDk0MThURmhnXzBrTjNrYWZVcnppbWNBVFBkRkpTeHdNZmZjUWdWcXNTX3ZhTTRVMDFoeUN6QTFDd0Vvc1dGSGQwSmQyYU10OVdHaC1aWXo1am5GLTVMSmhaemJBR0NCaE9UMGMydHlLRWE2cEVMektzSzVZcXdQZw?oc=5\" target=\"_blank\">Innoviz LiDAR Finds a Providential New Counter-UAS Mission Extending the Life-Saving Value of Proven Automotive Technology</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR Newswire</font>",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOSGhuYWpNTzViOXUtTi0yWEd0UDJiU0tjbGFxZEpqcWdON2piMkJNRTFrMXVXR05MRmx3dTF6TlJfUFhDNWJ3aFlzd1Uta3drOFd2QnRfeFNpZmU4UTh4QWJITVpCWFd5S0l0bXBEZV9hdjBCVjlESV9EbUZ2TWU1Q2RMZGFHNXF4NHNFQjY5ekNVWDk0MThURmhnXzBrTjNrYWZVcnppbWNBVFBkRkpTeHdNZmZjUWdWcXNTX3ZhTTRVMDFoeUN6QTFDd0Vvc1dGSGQwSmQyYU10OVdHaC1aWXo1am5GLTVMSmhaemJBR0NCaE9UMGMydHlLRWE2cEVMektzSzVZcXdQZw?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOSGhuYWpNTzViOXUtTi0yWEd0UDJiU0tjbGFxZEpqcWdON2piMkJNRTFrMXVXR05MRmx3dTF6TlJfUFhDNWJ3aFlzd1Uta3drOFd2QnRfeFNpZmU4UTh4QWJITVpCWFd5S0l0bXBEZV9hdjBCVjlESV9EbUZ2TWU1Q2RMZGFHNXF4NHNFQjY5ekNVWDk0MThURmhnXzBrTjNrYWZVcnppbWNBVFBkRkpTeHdNZmZjUWdWcXNTX3ZhTTRVMDFoeUN6QTFDd0Vvc1dGSGQwSmQyYU10OVdHaC1aWXo1am5GLTVMSmhaemJBR0NCaE9UMGMydHlLRWE2cEVMektzSzVZcXdQZw?oc=5",
+      "publishedAt": "2026-07-16T12:00:00.000Z",
+      "source": "PR Newswire",
+      "_feedRegion": "global",
+      "_feedName": "Google News (Global)",
+      "_scoring": {
+        "score": 60,
+        "categories": [
+          "規制・政策",
+          "技術・製品"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 5,
           "titleBonus": 10
         },
         "pass": true
@@ -812,17 +782,17 @@
       }
     },
     {
-      "title": "FAA's No-Drone Zone Rule Threatens Aerial Journalism",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE9wTEpLaFhIYzFmZ25TZk8wU3hfN2RRSzk0OFltQ0tYQUpRQVZrNHcwWlp0NGwzMmZTdVFjZV9xLU82ZGVCQ0t3NDQyVGZPNnRtc3NkQXg3VjlNc1I3VVFHeEZiMV9mWEZ0Q0ZZdkVuYTJNanpJR1NyeVZqWWsxUQ?oc=5\" target=\"_blank\">FAA's No-Drone Zone Rule Threatens Aerial Journalism</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fstoppers</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE9wTEpLaFhIYzFmZ25TZk8wU3hfN2RRSzk0OFltQ0tYQUpRQVZrNHcwWlp0NGwzMmZTdVFjZV9xLU82ZGVCQ0t3NDQyVGZPNnRtc3NkQXg3VjlNc1I3VVFHeEZiMV9mWEZ0Q0ZZdkVuYTJNanpJR1NyeVZqWWsxUQ?oc=5\" target=\"_blank\">FAA's No-Drone Zone Rule Threatens Aerial Journalism</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fstoppers</font>",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9wTEpLaFhIYzFmZ25TZk8wU3hfN2RRSzk0OFltQ0tYQUpRQVZrNHcwWlp0NGwzMmZTdVFjZV9xLU82ZGVCQ0t3NDQyVGZPNnRtc3NkQXg3VjlNc1I3VVFHeEZiMV9mWEZ0Q0ZZdkVuYTJNanpJR1NyeVZqWWsxUQ?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9wTEpLaFhIYzFmZ25TZk8wU3hfN2RRSzk0OFltQ0tYQUpRQVZrNHcwWlp0NGwzMmZTdVFjZV9xLU82ZGVCQ0t3NDQyVGZPNnRtc3NkQXg3VjlNc1I3VVFHeEZiMV9mWEZ0Q0ZZdkVuYTJNanpJR1NyeVZqWWsxUQ?oc=5",
-      "publishedAt": "2026-07-17T01:03:01.000Z",
-      "source": "Fstoppers",
-      "_feedRegion": "us",
-      "_feedName": "FAA",
+      "title": "ドローン規制に新ルール、国交省 工業専用地域は許可不要に | 全国のニュース",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE1IcTJiN2dibHBaZl9SWF9YRlNuVUM5VjZNUXF3WlktSTduZEJWNTdKOGJjUlBNUFh0dVBZbjhrRDBGY2R3YzdRRkZGWUpLYzdHbE1CeVBSTEhHLU9CTzZpN3B5a0tiTFpKYWpxMQ?oc=5\" target=\"_blank\">ドローン規制に新ルール、国交省 工業専用地域は許可不要に | 全国のニュース</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">福井新聞社</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE1IcTJiN2dibHBaZl9SWF9YRlNuVUM5VjZNUXF3WlktSTduZEJWNTdKOGJjUlBNUFh0dVBZbjhrRDBGY2R3YzdRRkZGWUpLYzdHbE1CeVBSTEhHLU9CTzZpN3B5a0tiTFpKYWpxMQ?oc=5\" target=\"_blank\">ドローン規制に新ルール、国交省 工業専用地域は許可不要に | 全国のニュース</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">福井新聞社</font>",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1IcTJiN2dibHBaZl9SWF9YRlNuVUM5VjZNUXF3WlktSTduZEJWNTdKOGJjUlBNUFh0dVBZbjhrRDBGY2R3YzdRRkZGWUpLYzdHbE1CeVBSTEhHLU9CTzZpN3B5a0tiTFpKYWpxMQ?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1IcTJiN2dibHBaZl9SWF9YRlNuVUM5VjZNUXF3WlktSTduZEJWNTdKOGJjUlBNUFh0dVBZbjhrRDBGY2R3YzdRRkZGWUpLYzdHbE1CeVBSTEhHLU9CTzZpN3B5a0tiTFpKYWpxMQ?oc=5",
+      "publishedAt": "2026-07-15T12:22:35.000Z",
+      "source": "福井新聞社",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP 政策/実証)",
       "_scoring": {
-        "score": 57,
+        "score": 59,
         "categories": [
           "規制・政策"
         ],
@@ -836,8 +806,9 @@
             "domain": "news.google.com",
             "multiplier": 0.8
           },
-          "freshness": 15,
-          "titleBonus": 10
+          "freshness": 2,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
         },
         "pass": true
       }
@@ -1070,6 +1041,42 @@
           "freshness": 0,
           "titleBonus": 10,
           "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "Orlando Airport given green light to build eVTOL “vertistop” take-off/landing pad",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQckRRdEVWNUp3WG83aDdrOVVBTGpMQmZJUThsRmZTTEVXdWdMaFM0blBDbHVheFUzOENEcEdQZHhOdGo3NF9WM2pMcmVTS0R5TkRuM0gzemZoVWh2LUFlNHo1LVBKeDVDT2lCdk56YVd5WGlIcFRKdktFUVVxdXF3dlhkTmxkVDFXWDBocnlaNzJ5aVA4NXNJQ0NGNklOSWZjQm9lQkk3a1JMU0gzV3pIVWlFOVJwaTJnbkFyQmZXRVZUTndHSXE0?oc=5\" target=\"_blank\">Orlando Airport given green light to build eVTOL “vertistop” take-off/landing pad</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQckRRdEVWNUp3WG83aDdrOVVBTGpMQmZJUThsRmZTTEVXdWdMaFM0blBDbHVheFUzOENEcEdQZHhOdGo3NF9WM2pMcmVTS0R5TkRuM0gzemZoVWh2LUFlNHo1LVBKeDVDT2lCdk56YVd5WGlIcFRKdktFUVVxdXF3dlhkTmxkVDFXWDBocnlaNzJ5aVA4NXNJQ0NGNklOSWZjQm9lQkk3a1JMU0gzV3pIVWlFOVJwaTJnbkFyQmZXRVZUTndHSXE0?oc=5\" target=\"_blank\">Orlando Airport given green light to build eVTOL “vertistop” take-off/landing pad</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQckRRdEVWNUp3WG83aDdrOVVBTGpMQmZJUThsRmZTTEVXdWdMaFM0blBDbHVheFUzOENEcEdQZHhOdGo3NF9WM2pMcmVTS0R5TkRuM0gzemZoVWh2LUFlNHo1LVBKeDVDT2lCdk56YVd5WGlIcFRKdktFUVVxdXF3dlhkTmxkVDFXWDBocnlaNzJ5aVA4NXNJQ0NGNklOSWZjQm9lQkk3a1JMU0gzV3pIVWlFOVJwaTJnbkFyQmZXRVZUTndHSXE0?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQckRRdEVWNUp3WG83aDdrOVVBTGpMQmZJUThsRmZTTEVXdWdMaFM0blBDbHVheFUzOENEcEdQZHhOdGo3NF9WM2pMcmVTS0R5TkRuM0gzemZoVWh2LUFlNHo1LVBKeDVDT2lCdk56YVd5WGlIcFRKdktFUVVxdXF3dlhkTmxkVDFXWDBocnlaNzJ5aVA4NXNJQ0NGNklOSWZjQm9lQkk3a1JMU0gzV3pIVWlFOVJwaTJnbkFyQmZXRVZUTndHSXE0?oc=5",
+      "publishedAt": "2026-07-16T20:45:55.000Z",
+      "source": "Unmanned airspace",
+      "_feedRegion": "us",
+      "_feedName": "FAA",
+      "_scoring": {
+        "score": 55,
+        "categories": [
+          "市場・資金",
+          "政策・インフラ"
+        ],
+        "breakdown": {
+          "required": true,
+          "market": {
+            "matches": 1,
+            "catScore": 20
+          },
+          "policy": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 10,
+          "titleBonus": 10
         },
         "pass": true
       }
