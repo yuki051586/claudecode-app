@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-18T11:55:56.788Z",
-  "rawCount": 706,
+  "generatedAt": "2026-07-18T13:36:15.418Z",
+  "rawCount": 709,
   "articles": [
     {
       "title": "Around the Commercial Drone Industry: Organ Transport, Public Safety, Acquisitions",
@@ -54,7 +54,7 @@
       "_feedRegion": "us",
       "_feedName": "FAA",
       "_scoring": {
-        "score": 76,
+        "score": 74,
         "categories": [
           "規制・政策",
           "技術・製品",
@@ -78,7 +78,7 @@
             "domain": "news.google.com",
             "multiplier": 0.8
           },
-          "freshness": 2,
+          "freshness": 0,
           "titleBonus": 10
         },
         "pass": true
@@ -641,42 +641,6 @@
       }
     },
     {
-      "title": "Innoviz LiDAR Finds a Providential New Counter-UAS Mission Extending the Life-Saving Value of Proven Automotive Technology",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiigJBVV95cUxOSGhuYWpNTzViOXUtTi0yWEd0UDJiU0tjbGFxZEpqcWdON2piMkJNRTFrMXVXR05MRmx3dTF6TlJfUFhDNWJ3aFlzd1Uta3drOFd2QnRfeFNpZmU4UTh4QWJITVpCWFd5S0l0bXBEZV9hdjBCVjlESV9EbUZ2TWU1Q2RMZGFHNXF4NHNFQjY5ekNVWDk0MThURmhnXzBrTjNrYWZVcnppbWNBVFBkRkpTeHdNZmZjUWdWcXNTX3ZhTTRVMDFoeUN6QTFDd0Vvc1dGSGQwSmQyYU10OVdHaC1aWXo1am5GLTVMSmhaemJBR0NCaE9UMGMydHlLRWE2cEVMektzSzVZcXdQZw?oc=5\" target=\"_blank\">Innoviz LiDAR Finds a Providential New Counter-UAS Mission Extending the Life-Saving Value of Proven Automotive Technology</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR Newswire</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiigJBVV95cUxOSGhuYWpNTzViOXUtTi0yWEd0UDJiU0tjbGFxZEpqcWdON2piMkJNRTFrMXVXR05MRmx3dTF6TlJfUFhDNWJ3aFlzd1Uta3drOFd2QnRfeFNpZmU4UTh4QWJITVpCWFd5S0l0bXBEZV9hdjBCVjlESV9EbUZ2TWU1Q2RMZGFHNXF4NHNFQjY5ekNVWDk0MThURmhnXzBrTjNrYWZVcnppbWNBVFBkRkpTeHdNZmZjUWdWcXNTX3ZhTTRVMDFoeUN6QTFDd0Vvc1dGSGQwSmQyYU10OVdHaC1aWXo1am5GLTVMSmhaemJBR0NCaE9UMGMydHlLRWE2cEVMektzSzVZcXdQZw?oc=5\" target=\"_blank\">Innoviz LiDAR Finds a Providential New Counter-UAS Mission Extending the Life-Saving Value of Proven Automotive Technology</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR Newswire</font>",
-      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOSGhuYWpNTzViOXUtTi0yWEd0UDJiU0tjbGFxZEpqcWdON2piMkJNRTFrMXVXR05MRmx3dTF6TlJfUFhDNWJ3aFlzd1Uta3drOFd2QnRfeFNpZmU4UTh4QWJITVpCWFd5S0l0bXBEZV9hdjBCVjlESV9EbUZ2TWU1Q2RMZGFHNXF4NHNFQjY5ekNVWDk0MThURmhnXzBrTjNrYWZVcnppbWNBVFBkRkpTeHdNZmZjUWdWcXNTX3ZhTTRVMDFoeUN6QTFDd0Vvc1dGSGQwSmQyYU10OVdHaC1aWXo1am5GLTVMSmhaemJBR0NCaE9UMGMydHlLRWE2cEVMektzSzVZcXdQZw?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOSGhuYWpNTzViOXUtTi0yWEd0UDJiU0tjbGFxZEpqcWdON2piMkJNRTFrMXVXR05MRmx3dTF6TlJfUFhDNWJ3aFlzd1Uta3drOFd2QnRfeFNpZmU4UTh4QWJITVpCWFd5S0l0bXBEZV9hdjBCVjlESV9EbUZ2TWU1Q2RMZGFHNXF4NHNFQjY5ekNVWDk0MThURmhnXzBrTjNrYWZVcnppbWNBVFBkRkpTeHdNZmZjUWdWcXNTX3ZhTTRVMDFoeUN6QTFDd0Vvc1dGSGQwSmQyYU10OVdHaC1aWXo1am5GLTVMSmhaemJBR0NCaE9UMGMydHlLRWE2cEVMektzSzVZcXdQZw?oc=5",
-      "publishedAt": "2026-07-16T12:00:00.000Z",
-      "source": "PR Newswire",
-      "_feedRegion": "global",
-      "_feedName": "Google News (Global)",
-      "_scoring": {
-        "score": 60,
-        "categories": [
-          "規制・政策",
-          "技術・製品"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 1,
-            "catScore": 32
-          },
-          "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 5,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
       "title": "軍事ドローン量産、防衛企業がルノーと提携 戦況左右する競争の裏側",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE85YU5PNTRELVNuSnRtbk96czB1aEVocFY4SWl3LVVKV0RQTDNCU2MxTHh5NS03cUQzaEdUeGVQbWlyUXlrSDhXV0VhdXFWZGFMdk1vOURtYVkxbTRRM3VBRDJNczBSSms?oc=5\" target=\"_blank\">軍事ドローン量産、防衛企業がルノーと提携 戦況左右する競争の裏側</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">朝日新聞</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE85YU5PNTRELVNuSnRtbk96czB1aEVocFY4SWl3LVVKV0RQTDNCU2MxTHh5NS03cUQzaEdUeGVQbWlyUXlrSDhXV0VhdXFWZGFMdk1vOURtYVkxbTRRM3VBRDJNczBSSms?oc=5\" target=\"_blank\">軍事ドローン量産、防衛企業がルノーと提携 戦況左右する競争の裏側</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">朝日新聞</font>",
@@ -791,38 +755,6 @@
       }
     },
     {
-      "title": "ドローン規制に新ルール、国交省 工業専用地域は許可不要に | 全国のニュース",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE1IcTJiN2dibHBaZl9SWF9YRlNuVUM5VjZNUXF3WlktSTduZEJWNTdKOGJjUlBNUFh0dVBZbjhrRDBGY2R3YzdRRkZGWUpLYzdHbE1CeVBSTEhHLU9CTzZpN3B5a0tiTFpKYWpxMQ?oc=5\" target=\"_blank\">ドローン規制に新ルール、国交省 工業専用地域は許可不要に | 全国のニュース</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">福井新聞社</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE1IcTJiN2dibHBaZl9SWF9YRlNuVUM5VjZNUXF3WlktSTduZEJWNTdKOGJjUlBNUFh0dVBZbjhrRDBGY2R3YzdRRkZGWUpLYzdHbE1CeVBSTEhHLU9CTzZpN3B5a0tiTFpKYWpxMQ?oc=5\" target=\"_blank\">ドローン規制に新ルール、国交省 工業専用地域は許可不要に | 全国のニュース</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">福井新聞社</font>",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1IcTJiN2dibHBaZl9SWF9YRlNuVUM5VjZNUXF3WlktSTduZEJWNTdKOGJjUlBNUFh0dVBZbjhrRDBGY2R3YzdRRkZGWUpLYzdHbE1CeVBSTEhHLU9CTzZpN3B5a0tiTFpKYWpxMQ?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1IcTJiN2dibHBaZl9SWF9YRlNuVUM5VjZNUXF3WlktSTduZEJWNTdKOGJjUlBNUFh0dVBZbjhrRDBGY2R3YzdRRkZGWUpLYzdHbE1CeVBSTEhHLU9CTzZpN3B5a0tiTFpKYWpxMQ?oc=5",
-      "publishedAt": "2026-07-15T12:22:35.000Z",
-      "source": "福井新聞社",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP 政策/実証)",
-      "_scoring": {
-        "score": 59,
-        "categories": [
-          "規制・政策"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 2,
-            "catScore": 40
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 2,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
       "title": "タグ: 国際ドローン展2026",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPSHgtOTkzak5UVkpsLTNwMEpDQ1FicjdOd3dUdl8yWWtDdFdmcFlSWWZTeFRmMVg5MzBzcGNXTEIyMzM2ZnN5aFQtMW1ubHRqaWJldXJMY3VfTW9lVEdvWDZqLUFCRDJPaldRaU5ZbENkZkQyTTRPaFhiQ25pT0NLaVdYZXVhVVBkZnJlWmpLT3pLZw?oc=5\" target=\"_blank\">タグ: 国際ドローン展2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DRONE.jp</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPSHgtOTkzak5UVkpsLTNwMEpDQ1FicjdOd3dUdl8yWWtDdFdmcFlSWWZTeFRmMVg5MzBzcGNXTEIyMzM2ZnN5aFQtMW1ubHRqaWJldXJMY3VfTW9lVEdvWDZqLUFCRDJPaldRaU5ZbENkZkQyTTRPaFhiQ25pT0NLaVdYZXVhVVBkZnJlWmpLT3pLZw?oc=5\" target=\"_blank\">タグ: 国際ドローン展2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DRONE.jp</font>",
@@ -885,6 +817,42 @@
             "multiplier": 0.8
           },
           "freshness": 0,
+          "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "Innoviz LiDAR Finds a Providential New Counter-UAS Mission Extending the Life-Saving Value of Proven Automotive Technology",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiigJBVV95cUxOSGhuYWpNTzViOXUtTi0yWEd0UDJiU0tjbGFxZEpqcWdON2piMkJNRTFrMXVXR05MRmx3dTF6TlJfUFhDNWJ3aFlzd1Uta3drOFd2QnRfeFNpZmU4UTh4QWJITVpCWFd5S0l0bXBEZV9hdjBCVjlESV9EbUZ2TWU1Q2RMZGFHNXF4NHNFQjY5ekNVWDk0MThURmhnXzBrTjNrYWZVcnppbWNBVFBkRkpTeHdNZmZjUWdWcXNTX3ZhTTRVMDFoeUN6QTFDd0Vvc1dGSGQwSmQyYU10OVdHaC1aWXo1am5GLTVMSmhaemJBR0NCaE9UMGMydHlLRWE2cEVMektzSzVZcXdQZw?oc=5\" target=\"_blank\">Innoviz LiDAR Finds a Providential New Counter-UAS Mission Extending the Life-Saving Value of Proven Automotive Technology</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR Newswire</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiigJBVV95cUxOSGhuYWpNTzViOXUtTi0yWEd0UDJiU0tjbGFxZEpqcWdON2piMkJNRTFrMXVXR05MRmx3dTF6TlJfUFhDNWJ3aFlzd1Uta3drOFd2QnRfeFNpZmU4UTh4QWJITVpCWFd5S0l0bXBEZV9hdjBCVjlESV9EbUZ2TWU1Q2RMZGFHNXF4NHNFQjY5ekNVWDk0MThURmhnXzBrTjNrYWZVcnppbWNBVFBkRkpTeHdNZmZjUWdWcXNTX3ZhTTRVMDFoeUN6QTFDd0Vvc1dGSGQwSmQyYU10OVdHaC1aWXo1am5GLTVMSmhaemJBR0NCaE9UMGMydHlLRWE2cEVMektzSzVZcXdQZw?oc=5\" target=\"_blank\">Innoviz LiDAR Finds a Providential New Counter-UAS Mission Extending the Life-Saving Value of Proven Automotive Technology</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR Newswire</font>",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOSGhuYWpNTzViOXUtTi0yWEd0UDJiU0tjbGFxZEpqcWdON2piMkJNRTFrMXVXR05MRmx3dTF6TlJfUFhDNWJ3aFlzd1Uta3drOFd2QnRfeFNpZmU4UTh4QWJITVpCWFd5S0l0bXBEZV9hdjBCVjlESV9EbUZ2TWU1Q2RMZGFHNXF4NHNFQjY5ekNVWDk0MThURmhnXzBrTjNrYWZVcnppbWNBVFBkRkpTeHdNZmZjUWdWcXNTX3ZhTTRVMDFoeUN6QTFDd0Vvc1dGSGQwSmQyYU10OVdHaC1aWXo1am5GLTVMSmhaemJBR0NCaE9UMGMydHlLRWE2cEVMektzSzVZcXdQZw?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOSGhuYWpNTzViOXUtTi0yWEd0UDJiU0tjbGFxZEpqcWdON2piMkJNRTFrMXVXR05MRmx3dTF6TlJfUFhDNWJ3aFlzd1Uta3drOFd2QnRfeFNpZmU4UTh4QWJITVpCWFd5S0l0bXBEZV9hdjBCVjlESV9EbUZ2TWU1Q2RMZGFHNXF4NHNFQjY5ekNVWDk0MThURmhnXzBrTjNrYWZVcnppbWNBVFBkRkpTeHdNZmZjUWdWcXNTX3ZhTTRVMDFoeUN6QTFDd0Vvc1dGSGQwSmQyYU10OVdHaC1aWXo1am5GLTVMSmhaemJBR0NCaE9UMGMydHlLRWE2cEVMektzSzVZcXdQZw?oc=5",
+      "publishedAt": "2026-07-16T12:00:00.000Z",
+      "source": "PR Newswire",
+      "_feedRegion": "global",
+      "_feedName": "Google News (Global)",
+      "_scoring": {
+        "score": 57,
+        "categories": [
+          "規制・政策",
+          "技術・製品"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 2,
           "titleBonus": 10
         },
         "pass": true
@@ -1019,6 +987,38 @@
       }
     },
     {
+      "title": "ドローン規制に新ルール、国交省 工業専用地域は許可不要に | 全国のニュース",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE1IcTJiN2dibHBaZl9SWF9YRlNuVUM5VjZNUXF3WlktSTduZEJWNTdKOGJjUlBNUFh0dVBZbjhrRDBGY2R3YzdRRkZGWUpLYzdHbE1CeVBSTEhHLU9CTzZpN3B5a0tiTFpKYWpxMQ?oc=5\" target=\"_blank\">ドローン規制に新ルール、国交省 工業専用地域は許可不要に | 全国のニュース</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">福井新聞社</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE1IcTJiN2dibHBaZl9SWF9YRlNuVUM5VjZNUXF3WlktSTduZEJWNTdKOGJjUlBNUFh0dVBZbjhrRDBGY2R3YzdRRkZGWUpLYzdHbE1CeVBSTEhHLU9CTzZpN3B5a0tiTFpKYWpxMQ?oc=5\" target=\"_blank\">ドローン規制に新ルール、国交省 工業専用地域は許可不要に | 全国のニュース</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">福井新聞社</font>",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1IcTJiN2dibHBaZl9SWF9YRlNuVUM5VjZNUXF3WlktSTduZEJWNTdKOGJjUlBNUFh0dVBZbjhrRDBGY2R3YzdRRkZGWUpLYzdHbE1CeVBSTEhHLU9CTzZpN3B5a0tiTFpKYWpxMQ?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1IcTJiN2dibHBaZl9SWF9YRlNuVUM5VjZNUXF3WlktSTduZEJWNTdKOGJjUlBNUFh0dVBZbjhrRDBGY2R3YzdRRkZGWUpLYzdHbE1CeVBSTEhHLU9CTzZpN3B5a0tiTFpKYWpxMQ?oc=5",
+      "publishedAt": "2026-07-15T12:22:35.000Z",
+      "source": "福井新聞社",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP 政策/実証)",
+      "_scoring": {
+        "score": 57,
+        "categories": [
+          "規制・政策"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 2,
+            "catScore": 40
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 0,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
       "title": "ドローン規制に新ルール、国交省 工業専用地域は許可不要に｜全国のニュース｜Web東奥",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ScEVHVk04UHVWV0ItLUhqV2NpRnhyTXhxN2ZtUW9NRU9JMDhVeVlfdVVwTGkyTlVUaTI3TTlTWHlQR2hCaU9seFYzQkxHSXJWa1RsMzdaNnA?oc=5\" target=\"_blank\">ドローン規制に新ルール、国交省 工業専用地域は許可不要に｜全国のニュース｜Web東奥</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">東奥日報社</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ScEVHVk04UHVWV0ItLUhqV2NpRnhyTXhxN2ZtUW9NRU9JMDhVeVlfdVVwTGkyTlVUaTI3TTlTWHlQR2hCaU9seFYzQkxHSXJWa1RsMzdaNnA?oc=5\" target=\"_blank\">ドローン規制に新ルール、国交省 工業専用地域は許可不要に｜全国のニュース｜Web東奥</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">東奥日報社</font>",
@@ -1051,19 +1051,20 @@
       }
     },
     {
-      "title": "Finland Teams Up With Germany, Italy, Hungary, Ireland And Twenty One Countries As EASA Raises A Red-Flag Aviation Warning For UAE, Qatar, Bahrain, Kuwait And Gulf Of Oman Routes Following Escalating US–Iran Strikes, Drone Threats And Growing",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE9CSzFBbTdncXRXaTJkU05vVHFSRWhNMF9VbmMwRm9iRFl2Z0pZRWNrTFp5OFdxcWlDT3I5c09scFk3LTU5VVMxZnRQdTBaNnMzY3BJUm9yZEp4cTYxZzNnUmJvWk5GYXR3YkRRaUFB?oc=5\" target=\"_blank\">Finland Teams Up With Germany, Italy, Hungary, Ireland And Twenty One Countries As EASA Raises A Red-Flag Aviation Warning For UAE, Qatar, Bahrain, Kuwait And Gulf Of Oman Routes Following Escalating US–Iran Strikes, Drone Threats And Growing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Travel And Tour World</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE9CSzFBbTdncXRXaTJkU05vVHFSRWhNMF9VbmMwRm9iRFl2Z0pZRWNrTFp5OFdxcWlDT3I5c09scFk3LTU5VVMxZnRQdTBaNnMzY3BJUm9yZEp4cTYxZzNnUmJvWk5GYXR3YkRRaUFB?oc=5\" target=\"_blank\">Finland Teams Up With Germany, Italy, Hungary, Ireland And Twenty One Countries As EASA Raises A Red-Flag Aviation Warning For UAE, Qatar, Bahrain, Kuwait And Gulf Of Oman Routes Following Escalating US–Iran Strikes, Drone Threats And Growing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Travel And Tour World</font>",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9CSzFBbTdncXRXaTJkU05vVHFSRWhNMF9VbmMwRm9iRFl2Z0pZRWNrTFp5OFdxcWlDT3I5c09scFk3LTU5VVMxZnRQdTBaNnMzY3BJUm9yZEp4cTYxZzNnUmJvWk5GYXR3YkRRaUFB?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9CSzFBbTdncXRXaTJkU05vVHFSRWhNMF9VbmMwRm9iRFl2Z0pZRWNrTFp5OFdxcWlDT3I5c09scFk3LTU5VVMxZnRQdTBaNnMzY3BJUm9yZEp4cTYxZzNnUmJvWk5GYXR3YkRRaUFB?oc=5",
-      "publishedAt": "2026-07-18T09:38:05.000Z",
-      "source": "Travel And Tour World",
-      "_feedRegion": "eu",
-      "_feedName": "EASA",
+      "title": "FAA Data Shows Drone Sightings Near Airports Nearly Doubled in Second Quarter",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOTmVMd3FzdHBPWTQ0V3BUaEkxWkthaV80bFFjdE5DVjljSUxaN3BfZ2o5R3A2X3N2bTY0Ui1iT3VpbTZiMlVNSUNZaGFLaGlrVFRjVzN1blRRaldtTl80MzVWXzBfR2VqV292MkJRZUNiT0YxMDFCb2p5cEhMMzMzeGo3N3hfU3Bibjh1bW4yY2I?oc=5\" target=\"_blank\">FAA Data Shows Drone Sightings Near Airports Nearly Doubled in Second Quarter</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dronelife</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOTmVMd3FzdHBPWTQ0V3BUaEkxWkthaV80bFFjdE5DVjljSUxaN3BfZ2o5R3A2X3N2bTY0Ui1iT3VpbTZiMlVNSUNZaGFLaGlrVFRjVzN1blRRaldtTl80MzVWXzBfR2VqV292MkJRZUNiT0YxMDFCb2p5cEhMMzMzeGo3N3hfU3Bibjh1bW4yY2I?oc=5\" target=\"_blank\">FAA Data Shows Drone Sightings Near Airports Nearly Doubled in Second Quarter</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dronelife</font>",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTmVMd3FzdHBPWTQ0V3BUaEkxWkthaV80bFFjdE5DVjljSUxaN3BfZ2o5R3A2X3N2bTY0Ui1iT3VpbTZiMlVNSUNZaGFLaGlrVFRjVzN1blRRaldtTl80MzVWXzBfR2VqV292MkJRZUNiT0YxMDFCb2p5cEhMMzMzeGo3N3hfU3Bibjh1bW4yY2I?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTmVMd3FzdHBPWTQ0V3BUaEkxWkthaV80bFFjdE5DVjljSUxaN3BfZ2o5R3A2X3N2bTY0Ui1iT3VpbTZiMlVNSUNZaGFLaGlrVFRjVzN1blRRaldtTl80MzVWXzBfR2VqV292MkJRZUNiT0YxMDFCb2p5cEhMMzMzeGo3N3hfU3Bibjh1bW4yY2I?oc=5",
+      "publishedAt": "2026-07-06T14:55:34.000Z",
+      "source": "Dronelife",
+      "_feedRegion": "us",
+      "_feedName": "FAA",
       "_scoring": {
-        "score": 56,
+        "score": 55,
         "categories": [
-          "規制・政策"
+          "規制・政策",
+          "政策・インフラ"
         ],
         "breakdown": {
           "required": true,
@@ -1071,11 +1072,15 @@
             "matches": 1,
             "catScore": 32
           },
+          "policy": {
+            "matches": 1,
+            "catScore": 24
+          },
           "sourceTrust": {
             "domain": "news.google.com",
             "multiplier": 0.8
           },
-          "freshness": 20,
+          "freshness": 0,
           "titleBonus": 10
         },
         "pass": true
