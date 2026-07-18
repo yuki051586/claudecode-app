@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-18T13:36:15.418Z",
-  "rawCount": 709,
+  "generatedAt": "2026-07-18T14:58:31.562Z",
+  "rawCount": 708,
   "articles": [
     {
       "title": "Around the Commercial Drone Industry: Organ Transport, Public Safety, Acquisitions",
@@ -148,6 +148,43 @@
             "catScore": 32
           },
           "policy": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 0,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "空飛ぶクルマ・中国オートフライト、インドネシアでeVTOLの型式認証取得",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiO0FVX3lxTE1pX3QtWll4aDVXSEd1ZTVxZS01bGpQcDVtVkllZ0p6WFFfbndLSlVLcmVyaWNzRXNlV1NV?oc=5\" target=\"_blank\">空飛ぶクルマ・中国オートフライト、インドネシアでeVTOLの型式認証取得</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">36Kr Japan</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiO0FVX3lxTE1pX3QtWll4aDVXSEd1ZTVxZS01bGpQcDVtVkllZ0p6WFFfbndLSlVLcmVyaWNzRXNlV1NV?oc=5\" target=\"_blank\">空飛ぶクルマ・中国オートフライト、インドネシアでeVTOLの型式認証取得</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">36Kr Japan</font>",
+      "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE1pX3QtWll4aDVXSEd1ZTVxZS01bGpQcDVtVkllZ0p6WFFfbndLSlVLcmVyaWNzRXNlV1NV?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE1pX3QtWll4aDVXSEd1ZTVxZS01bGpQcDVtVkllZ0p6WFFfbndLSlVLcmVyaWNzRXNlV1NV?oc=5",
+      "publishedAt": "2026-06-22T07:00:00.000Z",
+      "source": "36Kr Japan",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP 政策/実証)",
+      "_scoring": {
+        "score": 70,
+        "categories": [
+          "規制・政策",
+          "技術・製品"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
+          "technology": {
             "matches": 1,
             "catScore": 24
           },
@@ -415,6 +452,43 @@
             "multiplier": 0.8
           },
           "freshness": 5,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "Liberaware Koreaと韓国のドローンを活用した3Dインフラ管理システムを提供する企業 ALTIVIONが業務提携に関する覚書を締結",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE41SlE2eTBpVUZURXltbkprQ3VUY1RLemJKMmUwR3FGd1lkRDdvS1FzUExtN1F5aEU3NWZjd2l5ajhnWWFPQUdjUEJBdUJpUUlkb0pyWU9RMmlNbHAzLXZ5ZE5uWXFBNHM5MHc?oc=5\" target=\"_blank\">Liberaware Koreaと韓国のドローンを活用した3Dインフラ管理システムを提供する企業 ALTIVIONが業務提携に関する覚書を締結</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR TIMES</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE41SlE2eTBpVUZURXltbkprQ3VUY1RLemJKMmUwR3FGd1lkRDdvS1FzUExtN1F5aEU3NWZjd2l5ajhnWWFPQUdjUEJBdUJpUUlkb0pyWU9RMmlNbHAzLXZ5ZE5uWXFBNHM5MHc?oc=5\" target=\"_blank\">Liberaware Koreaと韓国のドローンを活用した3Dインフラ管理システムを提供する企業 ALTIVIONが業務提携に関する覚書を締結</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR TIMES</font>",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE41SlE2eTBpVUZURXltbkprQ3VUY1RLemJKMmUwR3FGd1lkRDdvS1FzUExtN1F5aEU3NWZjd2l5ajhnWWFPQUdjUEJBdUJpUUlkb0pyWU9RMmlNbHAzLXZ5ZE5uWXFBNHM5MHc?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE41SlE2eTBpVUZURXltbkprQ3VUY1RLemJKMmUwR3FGd1lkRDdvS1FzUExtN1F5aEU3NWZjd2l5ajhnWWFPQUdjUEJBdUJpUUlkb0pyWU9RMmlNbHAzLXZ5ZE5uWXFBNHM5MHc?oc=5",
+      "publishedAt": "2026-06-22T07:00:00.000Z",
+      "source": "PR TIMES",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP 政策/実証)",
+      "_scoring": {
+        "score": 64,
+        "categories": [
+          "市場・資金",
+          "政策・インフラ"
+        ],
+        "breakdown": {
+          "required": true,
+          "market": {
+            "matches": 2,
+            "catScore": 25
+          },
+          "policy": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 0,
           "titleBonus": 10,
           "jpRegionBonus": 15
         },
@@ -1014,74 +1088,6 @@
           "freshness": 0,
           "titleBonus": 10,
           "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "ドローン規制に新ルール、国交省 工業専用地域は許可不要に｜全国のニュース｜Web東奥",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ScEVHVk04UHVWV0ItLUhqV2NpRnhyTXhxN2ZtUW9NRU9JMDhVeVlfdVVwTGkyTlVUaTI3TTlTWHlQR2hCaU9seFYzQkxHSXJWa1RsMzdaNnA?oc=5\" target=\"_blank\">ドローン規制に新ルール、国交省 工業専用地域は許可不要に｜全国のニュース｜Web東奥</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">東奥日報社</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ScEVHVk04UHVWV0ItLUhqV2NpRnhyTXhxN2ZtUW9NRU9JMDhVeVlfdVVwTGkyTlVUaTI3TTlTWHlQR2hCaU9seFYzQkxHSXJWa1RsMzdaNnA?oc=5\" target=\"_blank\">ドローン規制に新ルール、国交省 工業専用地域は許可不要に｜全国のニュース｜Web東奥</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">東奥日報社</font>",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ScEVHVk04UHVWV0ItLUhqV2NpRnhyTXhxN2ZtUW9NRU9JMDhVeVlfdVVwTGkyTlVUaTI3TTlTWHlQR2hCaU9seFYzQkxHSXJWa1RsMzdaNnA?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ScEVHVk04UHVWV0ItLUhqV2NpRnhyTXhxN2ZtUW9NRU9JMDhVeVlfdVVwTGkyTlVUaTI3TTlTWHlQR2hCaU9seFYzQkxHSXJWa1RsMzdaNnA?oc=5",
-      "publishedAt": "2026-07-10T06:22:47.000Z",
-      "source": "東奥日報社",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP 政策/実証)",
-      "_scoring": {
-        "score": 57,
-        "categories": [
-          "規制・政策"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 2,
-            "catScore": 40
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 0,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "FAA Data Shows Drone Sightings Near Airports Nearly Doubled in Second Quarter",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOTmVMd3FzdHBPWTQ0V3BUaEkxWkthaV80bFFjdE5DVjljSUxaN3BfZ2o5R3A2X3N2bTY0Ui1iT3VpbTZiMlVNSUNZaGFLaGlrVFRjVzN1blRRaldtTl80MzVWXzBfR2VqV292MkJRZUNiT0YxMDFCb2p5cEhMMzMzeGo3N3hfU3Bibjh1bW4yY2I?oc=5\" target=\"_blank\">FAA Data Shows Drone Sightings Near Airports Nearly Doubled in Second Quarter</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dronelife</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOTmVMd3FzdHBPWTQ0V3BUaEkxWkthaV80bFFjdE5DVjljSUxaN3BfZ2o5R3A2X3N2bTY0Ui1iT3VpbTZiMlVNSUNZaGFLaGlrVFRjVzN1blRRaldtTl80MzVWXzBfR2VqV292MkJRZUNiT0YxMDFCb2p5cEhMMzMzeGo3N3hfU3Bibjh1bW4yY2I?oc=5\" target=\"_blank\">FAA Data Shows Drone Sightings Near Airports Nearly Doubled in Second Quarter</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dronelife</font>",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTmVMd3FzdHBPWTQ0V3BUaEkxWkthaV80bFFjdE5DVjljSUxaN3BfZ2o5R3A2X3N2bTY0Ui1iT3VpbTZiMlVNSUNZaGFLaGlrVFRjVzN1blRRaldtTl80MzVWXzBfR2VqV292MkJRZUNiT0YxMDFCb2p5cEhMMzMzeGo3N3hfU3Bibjh1bW4yY2I?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTmVMd3FzdHBPWTQ0V3BUaEkxWkthaV80bFFjdE5DVjljSUxaN3BfZ2o5R3A2X3N2bTY0Ui1iT3VpbTZiMlVNSUNZaGFLaGlrVFRjVzN1blRRaldtTl80MzVWXzBfR2VqV292MkJRZUNiT0YxMDFCb2p5cEhMMzMzeGo3N3hfU3Bibjh1bW4yY2I?oc=5",
-      "publishedAt": "2026-07-06T14:55:34.000Z",
-      "source": "Dronelife",
-      "_feedRegion": "us",
-      "_feedName": "FAA",
-      "_scoring": {
-        "score": 55,
-        "categories": [
-          "規制・政策",
-          "政策・インフラ"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 1,
-            "catScore": 32
-          },
-          "policy": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 0,
-          "titleBonus": 10
         },
         "pass": true
       }
