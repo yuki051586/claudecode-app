@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-21T19:38:01.617Z",
-  "rawCount": 706,
+  "generatedAt": "2026-07-21T21:14:53.809Z",
+  "rawCount": 703,
   "articles": [
     {
       "title": "Trimble PX-1 RTX powers precise BVLOS drone delivery for Volatus Aerospace",
@@ -121,6 +121,38 @@
           },
           "freshness": 0,
           "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "ドローン攻撃、製油所に黒煙 燃料販売を規制、給油に行列 ロシア",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE9FZGNMWThtcGE1RjhhSGVwaTJLQ3d3c09WZkQxZWR2OFlBbERiX2g3QVo3NDZmN0dhZDlSUGdGODIwTmlxNnYxcmNDMlB5Nmd1QWhkeUY5SnN4aWRv?oc=5\" target=\"_blank\">ドローン攻撃、製油所に黒煙 燃料販売を規制、給油に行列 ロシア</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">朝日新聞</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE9FZGNMWThtcGE1RjhhSGVwaTJLQ3d3c09WZkQxZWR2OFlBbERiX2g3QVo3NDZmN0dhZDlSUGdGODIwTmlxNnYxcmNDMlB5Nmd1QWhkeUY5SnN4aWRv?oc=5\" target=\"_blank\">ドローン攻撃、製油所に黒煙 燃料販売を規制、給油に行列 ロシア</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">朝日新聞</font>",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9FZGNMWThtcGE1RjhhSGVwaTJLQ3d3c09WZkQxZWR2OFlBbERiX2g3QVo3NDZmN0dhZDlSUGdGODIwTmlxNnYxcmNDMlB5Nmd1QWhkeUY5SnN4aWRv?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9FZGNMWThtcGE1RjhhSGVwaTJLQ3d3c09WZkQxZWR2OFlBbERiX2g3QVo3NDZmN0dhZDlSUGdGODIwTmlxNnYxcmNDMlB5Nmd1QWhkeUY5SnN4aWRv?oc=5",
+      "publishedAt": "2026-07-21T20:00:00.000Z",
+      "source": "朝日新聞",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP)",
+      "_scoring": {
+        "score": 71,
+        "categories": [
+          "規制・政策"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 20,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
         },
         "pass": true
       }
@@ -386,42 +418,6 @@
       }
     },
     {
-      "title": "Dronedesk introduces fully automated SORA implementation for BVLOS operations",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQZ1Y2TExZYmVqaGhRN1k1ekZ3RThqX0N3WGFPeVpsMU53VmF4S2RvOTNIb0NuYTE5RWc3R29PdmE4Ti1ja1hYdVpfTnVsMmpoZjZfRXpxazBIbjlDY0NOaEl5Q2RNQm93NVRtSE1FYkhMSUNFZVJ3SUZ0N0VVX3owOEZzVzNod2RkRUpDUTlqNFZCUEdiSG1TNzFJSnM0VjZNQ3ZjNDdqOVlObXo5TXItdmwwbkRzQnNCUll1LUladkJuVUc1?oc=5\" target=\"_blank\">Dronedesk introduces fully automated SORA implementation for BVLOS operations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQZ1Y2TExZYmVqaGhRN1k1ekZ3RThqX0N3WGFPeVpsMU53VmF4S2RvOTNIb0NuYTE5RWc3R29PdmE4Ti1ja1hYdVpfTnVsMmpoZjZfRXpxazBIbjlDY0NOaEl5Q2RNQm93NVRtSE1FYkhMSUNFZVJ3SUZ0N0VVX3owOEZzVzNod2RkRUpDUTlqNFZCUEdiSG1TNzFJSnM0VjZNQ3ZjNDdqOVlObXo5TXItdmwwbkRzQnNCUll1LUladkJuVUc1?oc=5\" target=\"_blank\">Dronedesk introduces fully automated SORA implementation for BVLOS operations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZ1Y2TExZYmVqaGhRN1k1ekZ3RThqX0N3WGFPeVpsMU53VmF4S2RvOTNIb0NuYTE5RWc3R29PdmE4Ti1ja1hYdVpfTnVsMmpoZjZfRXpxazBIbjlDY0NOaEl5Q2RNQm93NVRtSE1FYkhMSUNFZVJ3SUZ0N0VVX3owOEZzVzNod2RkRUpDUTlqNFZCUEdiSG1TNzFJSnM0VjZNQ3ZjNDdqOVlObXo5TXItdmwwbkRzQnNCUll1LUladkJuVUc1?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZ1Y2TExZYmVqaGhRN1k1ekZ3RThqX0N3WGFPeVpsMU53VmF4S2RvOTNIb0NuYTE5RWc3R29PdmE4Ti1ja1hYdVpfTnVsMmpoZjZfRXpxazBIbjlDY0NOaEl5Q2RNQm93NVRtSE1FYkhMSUNFZVJ3SUZ0N0VVX3owOEZzVzNod2RkRUpDUTlqNFZCUEdiSG1TNzFJSnM0VjZNQ3ZjNDdqOVlObXo5TXItdmwwbkRzQnNCUll1LUladkJuVUc1?oc=5",
-      "publishedAt": "2026-07-21T07:51:22.000Z",
-      "source": "Unmanned airspace",
-      "_feedRegion": "eu",
-      "_feedName": "EASA",
-      "_scoring": {
-        "score": 67,
-        "categories": [
-          "規制・政策",
-          "市場・資金"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 1,
-            "catScore": 32
-          },
-          "market": {
-            "matches": 1,
-            "catScore": 20
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 15,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
       "title": "「運搬」と「調査・点検」を掛け合わせた現場支援へ。マゼックスと石川エナジーリサーチが国産産業用ドローンで業務提携 - digital-construction.jp",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE9kWWZrTUtvcXpqdzU4Q2ZsSkdFOUJ0blRvWnFoZ0JTZTJzWGN2TnRIaTBTeGZicGxHbm5NZUFvSDJYSTd1aHkzRDZBcHhpYWNON2dJ?oc=5\" target=\"_blank\">「運搬」と「調査・点検」を掛け合わせた現場支援へ。マゼックスと石川エナジーリサーチが国産産業用ドローンで業務提携</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">digital-construction.jp</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE9kWWZrTUtvcXpqdzU4Q2ZsSkdFOUJ0blRvWnFoZ0JTZTJzWGN2TnRIaTBTeGZicGxHbm5NZUFvSDJYSTd1aHkzRDZBcHhpYWNON2dJ?oc=5\" target=\"_blank\">「運搬」と「調査・点検」を掛け合わせた現場支援へ。マゼックスと石川エナジーリサーチが国産産業用ドローンで業務提携</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">digital-construction.jp</font>",
@@ -519,6 +515,43 @@
           "policy": {
             "matches": 2,
             "catScore": 30
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 0,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "Liberaware Koreaと韓国のドローンを活用した3Dインフラ管理システムを提供する企業 ALTIVIONが業務提携に関する覚書を締結",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE41SlE2eTBpVUZURXltbkprQ3VUY1RLemJKMmUwR3FGd1lkRDdvS1FzUExtN1F5aEU3NWZjd2l5ajhnWWFPQUdjUEJBdUJpUUlkb0pyWU9RMmlNbHAzLXZ5ZE5uWXFBNHM5MHc?oc=5\" target=\"_blank\">Liberaware Koreaと韓国のドローンを活用した3Dインフラ管理システムを提供する企業 ALTIVIONが業務提携に関する覚書を締結</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR TIMES</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE41SlE2eTBpVUZURXltbkprQ3VUY1RLemJKMmUwR3FGd1lkRDdvS1FzUExtN1F5aEU3NWZjd2l5ajhnWWFPQUdjUEJBdUJpUUlkb0pyWU9RMmlNbHAzLXZ5ZE5uWXFBNHM5MHc?oc=5\" target=\"_blank\">Liberaware Koreaと韓国のドローンを活用した3Dインフラ管理システムを提供する企業 ALTIVIONが業務提携に関する覚書を締結</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR TIMES</font>",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE41SlE2eTBpVUZURXltbkprQ3VUY1RLemJKMmUwR3FGd1lkRDdvS1FzUExtN1F5aEU3NWZjd2l5ajhnWWFPQUdjUEJBdUJpUUlkb0pyWU9RMmlNbHAzLXZ5ZE5uWXFBNHM5MHc?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE41SlE2eTBpVUZURXltbkprQ3VUY1RLemJKMmUwR3FGd1lkRDdvS1FzUExtN1F5aEU3NWZjd2l5ajhnWWFPQUdjUEJBdUJpUUlkb0pyWU9RMmlNbHAzLXZ5ZE5uWXFBNHM5MHc?oc=5",
+      "publishedAt": "2026-06-22T07:00:00.000Z",
+      "source": "PR TIMES",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP 政策/実証)",
+      "_scoring": {
+        "score": 64,
+        "categories": [
+          "市場・資金",
+          "政策・インフラ"
+        ],
+        "breakdown": {
+          "required": true,
+          "market": {
+            "matches": 2,
+            "catScore": 25
+          },
+          "policy": {
+            "matches": 1,
+            "catScore": 24
           },
           "sourceTrust": {
             "domain": "news.google.com",
@@ -711,6 +744,42 @@
           "freshness": 0,
           "titleBonus": 10,
           "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "Dronedesk introduces fully automated SORA implementation for BVLOS operations",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQZ1Y2TExZYmVqaGhRN1k1ekZ3RThqX0N3WGFPeVpsMU53VmF4S2RvOTNIb0NuYTE5RWc3R29PdmE4Ti1ja1hYdVpfTnVsMmpoZjZfRXpxazBIbjlDY0NOaEl5Q2RNQm93NVRtSE1FYkhMSUNFZVJ3SUZ0N0VVX3owOEZzVzNod2RkRUpDUTlqNFZCUEdiSG1TNzFJSnM0VjZNQ3ZjNDdqOVlObXo5TXItdmwwbkRzQnNCUll1LUladkJuVUc1?oc=5\" target=\"_blank\">Dronedesk introduces fully automated SORA implementation for BVLOS operations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQZ1Y2TExZYmVqaGhRN1k1ekZ3RThqX0N3WGFPeVpsMU53VmF4S2RvOTNIb0NuYTE5RWc3R29PdmE4Ti1ja1hYdVpfTnVsMmpoZjZfRXpxazBIbjlDY0NOaEl5Q2RNQm93NVRtSE1FYkhMSUNFZVJ3SUZ0N0VVX3owOEZzVzNod2RkRUpDUTlqNFZCUEdiSG1TNzFJSnM0VjZNQ3ZjNDdqOVlObXo5TXItdmwwbkRzQnNCUll1LUladkJuVUc1?oc=5\" target=\"_blank\">Dronedesk introduces fully automated SORA implementation for BVLOS operations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZ1Y2TExZYmVqaGhRN1k1ekZ3RThqX0N3WGFPeVpsMU53VmF4S2RvOTNIb0NuYTE5RWc3R29PdmE4Ti1ja1hYdVpfTnVsMmpoZjZfRXpxazBIbjlDY0NOaEl5Q2RNQm93NVRtSE1FYkhMSUNFZVJ3SUZ0N0VVX3owOEZzVzNod2RkRUpDUTlqNFZCUEdiSG1TNzFJSnM0VjZNQ3ZjNDdqOVlObXo5TXItdmwwbkRzQnNCUll1LUladkJuVUc1?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZ1Y2TExZYmVqaGhRN1k1ekZ3RThqX0N3WGFPeVpsMU53VmF4S2RvOTNIb0NuYTE5RWc3R29PdmE4Ti1ja1hYdVpfTnVsMmpoZjZfRXpxazBIbjlDY0NOaEl5Q2RNQm93NVRtSE1FYkhMSUNFZVJ3SUZ0N0VVX3owOEZzVzNod2RkRUpDUTlqNFZCUEdiSG1TNzFJSnM0VjZNQ3ZjNDdqOVlObXo5TXItdmwwbkRzQnNCUll1LUladkJuVUc1?oc=5",
+      "publishedAt": "2026-07-21T07:51:22.000Z",
+      "source": "Unmanned airspace",
+      "_feedRegion": "eu",
+      "_feedName": "EASA",
+      "_scoring": {
+        "score": 62,
+        "categories": [
+          "規制・政策",
+          "市場・資金"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
+          "market": {
+            "matches": 1,
+            "catScore": 20
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 10,
+          "titleBonus": 10
         },
         "pass": true
       }
@@ -1009,80 +1078,6 @@
       "source": "nippon.com",
       "_feedRegion": "jp",
       "_feedName": "Google News (JP 政策/実証)",
-      "_scoring": {
-        "score": 60,
-        "categories": [
-          "技術・製品",
-          "市場・資金"
-        ],
-        "breakdown": {
-          "required": true,
-          "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "market": {
-            "matches": 1,
-            "catScore": 20
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 0,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "川重とエアバス、ドローン開発で提携",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE0tMGs2N0NxQzdMWHR5XzdGYTJveUhrTGswcjhrNmo0NTV0a2xoRG9lSmtCUTdsUmRpdXQ5WVg2U2dic2JpazBxQTZFUmVTSVFr?oc=5\" target=\"_blank\">川重とエアバス、ドローン開発で提携</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">nnn.co.jp</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE0tMGs2N0NxQzdMWHR5XzdGYTJveUhrTGswcjhrNmo0NTV0a2xoRG9lSmtCUTdsUmRpdXQ5WVg2U2dic2JpazBxQTZFUmVTSVFr?oc=5\" target=\"_blank\">川重とエアバス、ドローン開発で提携</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">nnn.co.jp</font>",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0tMGs2N0NxQzdMWHR5XzdGYTJveUhrTGswcjhrNmo0NTV0a2xoRG9lSmtCUTdsUmRpdXQ5WVg2U2dic2JpazBxQTZFUmVTSVFr?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0tMGs2N0NxQzdMWHR5XzdGYTJveUhrTGswcjhrNmo0NTV0a2xoRG9lSmtCUTdsUmRpdXQ5WVg2U2dic2JpazBxQTZFUmVTSVFr?oc=5",
-      "publishedAt": "2026-06-26T07:00:00.000Z",
-      "source": "nnn.co.jp",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP 政策/実証)",
-      "_scoring": {
-        "score": 60,
-        "categories": [
-          "技術・製品",
-          "市場・資金"
-        ],
-        "breakdown": {
-          "required": true,
-          "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "market": {
-            "matches": 1,
-            "catScore": 20
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 0,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "Autonomy HD、次世代の「Surveyor」シリーズを公開。係留型ハイブリッド機と半固体電池採用の重量物搬送機 [国際ドローン展2026]",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE1zdno1dnZzdEpHcFNlN0J5bGxlc0tVT3BsSHVXeDhpclllZXlvY3p1MWM2MUFPSVNNLTRsdHYxVHUyOUZkOVVNZnltSDRXRl9VdlJDanVFLXNBUTRJS3dv?oc=5\" target=\"_blank\">Autonomy HD、次世代の「Surveyor」シリーズを公開。係留型ハイブリッド機と半固体電池採用の重量物搬送機 [国際ドローン展2026]</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DRONE.jp</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE1zdno1dnZzdEpHcFNlN0J5bGxlc0tVT3BsSHVXeDhpclllZXlvY3p1MWM2MUFPSVNNLTRsdHYxVHUyOUZkOVVNZnltSDRXRl9VdlJDanVFLXNBUTRJS3dv?oc=5\" target=\"_blank\">Autonomy HD、次世代の「Surveyor」シリーズを公開。係留型ハイブリッド機と半固体電池採用の重量物搬送機 [国際ドローン展2026]</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DRONE.jp</font>",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1zdno1dnZzdEpHcFNlN0J5bGxlc0tVT3BsSHVXeDhpclllZXlvY3p1MWM2MUFPSVNNLTRsdHYxVHUyOUZkOVVNZnltSDRXRl9VdlJDanVFLXNBUTRJS3dv?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1zdno1dnZzdEpHcFNlN0J5bGxlc0tVT3BsSHVXeDhpclllZXlvY3p1MWM2MUFPSVNNLTRsdHYxVHUyOUZkOVVNZnltSDRXRl9VdlJDanVFLXNBUTRJS3dv?oc=5",
-      "publishedAt": "2026-07-17T07:13:53.000Z",
-      "source": "DRONE.jp",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP ドローン専門)",
       "_scoring": {
         "score": 60,
         "categories": [
