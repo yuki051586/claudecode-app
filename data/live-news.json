@@ -1,7 +1,80 @@
 {
-  "generatedAt": "2026-07-20T22:04:14.041Z",
-  "rawCount": 719,
+  "generatedAt": "2026-07-21T00:00:23.575Z",
+  "rawCount": 717,
   "articles": [
+    {
+      "title": "FINDi/ノーエントリー管理実現/インフラ点検調査ドローンASIO X国内展開",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE5vQnB4TF94Z19sN19zMGFURlRTeXVyTlBPcFBoUmVrdWRBMXZmcXIxaklsSFRpUXVSbUN5SzllTTdSWENXcl9sT1NfX1BDdzho?oc=5\" target=\"_blank\">FINDi/ノーエントリー管理実現/インフラ点検調査ドローンASIO X国内展開</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">建設通信新聞Digital</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE5vQnB4TF94Z19sN19zMGFURlRTeXVyTlBPcFBoUmVrdWRBMXZmcXIxaklsSFRpUXVSbUN5SzllTTdSWENXcl9sT1NfX1BDdzho?oc=5\" target=\"_blank\">FINDi/ノーエントリー管理実現/インフラ点検調査ドローンASIO X国内展開</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">建設通信新聞Digital</font>",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5vQnB4TF94Z19sN19zMGFURlRTeXVyTlBPcFBoUmVrdWRBMXZmcXIxaklsSFRpUXVSbUN5SzllTTdSWENXcl9sT1NfX1BDdzho?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5vQnB4TF94Z19sN19zMGFURlRTeXVyTlBPcFBoUmVrdWRBMXZmcXIxaklsSFRpUXVSbUN5SzllTTdSWENXcl9sT1NfX1BDdzho?oc=5",
+      "publishedAt": "2026-07-20T20:05:24.000Z",
+      "source": "建設通信新聞Digital",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP 事業者/実装)",
+      "_scoring": {
+        "score": 82,
+        "categories": [
+          "事故・事件",
+          "政策・インフラ"
+        ],
+        "breakdown": {
+          "required": true,
+          "incident": {
+            "matches": 1,
+            "catScore": 28
+          },
+          "policy": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 15,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "U.S. Drone Delivery Hits Commercialization Inflection Point as FAA Deregulation Paves Way for Beyond-Visual-Line-of-Sight Flights",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9jTmY1aDhGNnpkNUx3eXI3VUVmVW9tQV9HZ0tvQ3RvQVhPNGpDbzhQQk0xaDVLcFg2WDdsRERMU1dfQlgyRmE4dFVHVTJ0MnJKY0ZOblRVa252MEhDS05yZFJwUFNnb0Z0bTZqdnF3NzJpUk9TNkE?oc=5\" target=\"_blank\">U.S. Drone Delivery Hits Commercialization Inflection Point as FAA Deregulation Paves Way for Beyond-Visual-Line-of-Sight Flights</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.biggo.com</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9jTmY1aDhGNnpkNUx3eXI3VUVmVW9tQV9HZ0tvQ3RvQVhPNGpDbzhQQk0xaDVLcFg2WDdsRERMU1dfQlgyRmE4dFVHVTJ0MnJKY0ZOblRVa252MEhDS05yZFJwUFNnb0Z0bTZqdnF3NzJpUk9TNkE?oc=5\" target=\"_blank\">U.S. Drone Delivery Hits Commercialization Inflection Point as FAA Deregulation Paves Way for Beyond-Visual-Line-of-Sight Flights</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.biggo.com</font>",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9jTmY1aDhGNnpkNUx3eXI3VUVmVW9tQV9HZ0tvQ3RvQVhPNGpDbzhQQk0xaDVLcFg2WDdsRERMU1dfQlgyRmE4dFVHVTJ0MnJKY0ZOblRVa252MEhDS05yZFJwUFNnb0Z0bTZqdnF3NzJpUk9TNkE?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9jTmY1aDhGNnpkNUx3eXI3VUVmVW9tQV9HZ0tvQ3RvQVhPNGpDbzhQQk0xaDVLcFg2WDdsRERMU1dfQlgyRmE4dFVHVTJ0MnJKY0ZOblRVa252MEhDS05yZFJwUFNnb0Z0bTZqdnF3NzJpUk9TNkE?oc=5",
+      "publishedAt": "2026-07-20T13:35:00.000Z",
+      "source": "finance.biggo.com",
+      "_feedRegion": "us",
+      "_feedName": "FAA",
+      "_scoring": {
+        "score": 76,
+        "categories": [
+          "規制・政策",
+          "政策・インフラ"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 2,
+            "catScore": 40
+          },
+          "policy": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 15,
+          "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
     {
       "title": "FAA Completes eVTOL Organ Transport Flight Test - Airport Industry-News",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQ0s2aTVGeFZHbFc5d2JoTFlnSEk0UzFNaldxZnZyYXpkcVdhMWZ2R0ZhWlVhNU5feFlxZnNhY0tfX1luamIxdFpsTkFIb2RjNmoyaEJzS2JjOWxXLTdxM3ZIbnV5YjVrSzdoSUw5NE10bkZlOW1maTlDUVpjY2hENUJSc2dFaTgw?oc=5\" target=\"_blank\">FAA Completes eVTOL Organ Transport Flight Test</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Airport Industry-News</font>",
@@ -415,13 +488,13 @@
       }
     },
     {
-      "title": "Air Taxi Firm Turns Defense Contractor: U.S. eVTOL Companies Enter Defense Market, Shares Surge",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZ2tKRThvOFM2TXNtbGFLak13dERYcjB5T0dERWp3RGpoYm9IaDdDbklNWkdWWDM1dU10NjFXSjVFVTU0U2pCY3Y1YlBONFZldkdDY01uWnNGTWRqakJBRzIxWThMdzlQM3hibTJQWUdDVWY4NngtTVJpNXVIcWxvSTRJOVNuS3YtaGV6NXYzRnZzMWUwUmtiUno1THJqX21LQ3o0RHFNMnU?oc=5\" target=\"_blank\">Air Taxi Firm Turns Defense Contractor: U.S. eVTOL Companies Enter Defense Market, Shares Surge</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Moomoo</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZ2tKRThvOFM2TXNtbGFLak13dERYcjB5T0dERWp3RGpoYm9IaDdDbklNWkdWWDM1dU10NjFXSjVFVTU0U2pCY3Y1YlBONFZldkdDY01uWnNGTWRqakJBRzIxWThMdzlQM3hibTJQWUdDVWY4NngtTVJpNXVIcWxvSTRJOVNuS3YtaGV6NXYzRnZzMWUwUmtiUno1THJqX21LQ3o0RHFNMnU?oc=5\" target=\"_blank\">Air Taxi Firm Turns Defense Contractor: U.S. eVTOL Companies Enter Defense Market, Shares Surge</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Moomoo</font>",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZ2tKRThvOFM2TXNtbGFLak13dERYcjB5T0dERWp3RGpoYm9IaDdDbklNWkdWWDM1dU10NjFXSjVFVTU0U2pCY3Y1YlBONFZldkdDY01uWnNGTWRqakJBRzIxWThMdzlQM3hibTJQWUdDVWY4NngtTVJpNXVIcWxvSTRJOVNuS3YtaGV6NXYzRnZzMWUwUmtiUno1THJqX21LQ3o0RHFNMnU?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZ2tKRThvOFM2TXNtbGFLak13dERYcjB5T0dERWp3RGpoYm9IaDdDbklNWkdWWDM1dU10NjFXSjVFVTU0U2pCY3Y1YlBONFZldkdDY01uWnNGTWRqakJBRzIxWThMdzlQM3hibTJQWUdDVWY4NngtTVJpNXVIcWxvSTRJOVNuS3YtaGV6NXYzRnZzMWUwUmtiUno1THJqX21LQ3o0RHFNMnU?oc=5",
-      "publishedAt": "2026-07-20T19:40:43.000Z",
-      "source": "Moomoo",
+      "title": "Aerospace Company Scales Production of Combat-Proven UAS, Space Infrastructure",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQV285U3lXMVItQ0N5S3FleGRRYUlyV05UMHdCSEZ2eEhJZ0xDcDBfY0VsWnhqbnBLX05nUVhlb2NOc05zMlVyY19meE1tMEJKSTVPUUYxTUl3aDU4MHVQMXVUOEl3YzJSVm84TXU4TXhMeWhuX3VQaUd1XzlCdmtoVGJ2QzBydG1oX05BdmNrSkJVeThUTFhTMDJoVDkxb3lKWC16Z2pSdnlzSllJQVpuRHU2bU9NUVR1ZE9FbS0wLU1MMGdJdlNJLWR3?oc=5\" target=\"_blank\">Aerospace Company Scales Production of Combat-Proven UAS, Space Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Manufacturing.net</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQV285U3lXMVItQ0N5S3FleGRRYUlyV05UMHdCSEZ2eEhJZ0xDcDBfY0VsWnhqbnBLX05nUVhlb2NOc05zMlVyY19meE1tMEJKSTVPUUYxTUl3aDU4MHVQMXVUOEl3YzJSVm84TXU4TXhMeWhuX3VQaUd1XzlCdmtoVGJ2QzBydG1oX05BdmNrSkJVeThUTFhTMDJoVDkxb3lKWC16Z2pSdnlzSllJQVpuRHU2bU9NUVR1ZE9FbS0wLU1MMGdJdlNJLWR3?oc=5\" target=\"_blank\">Aerospace Company Scales Production of Combat-Proven UAS, Space Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Manufacturing.net</font>",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQV285U3lXMVItQ0N5S3FleGRRYUlyV05UMHdCSEZ2eEhJZ0xDcDBfY0VsWnhqbnBLX05nUVhlb2NOc05zMlVyY19meE1tMEJKSTVPUUYxTUl3aDU4MHVQMXVUOEl3YzJSVm84TXU4TXhMeWhuX3VQaUd1XzlCdmtoVGJ2QzBydG1oX05BdmNrSkJVeThUTFhTMDJoVDkxb3lKWC16Z2pSdnlzSllJQVpuRHU2bU9NUVR1ZE9FbS0wLU1MMGdJdlNJLWR3?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQV285U3lXMVItQ0N5S3FleGRRYUlyV05UMHdCSEZ2eEhJZ0xDcDBfY0VsWnhqbnBLX05nUVhlb2NOc05zMlVyY19meE1tMEJKSTVPUUYxTUl3aDU4MHVQMXVUOEl3YzJSVm84TXU4TXhMeWhuX3VQaUd1XzlCdmtoVGJ2QzBydG1oX05BdmNrSkJVeThUTFhTMDJoVDkxb3lKWC16Z2pSdnlzSllJQVpuRHU2bU9NUVR1ZE9FbS0wLU1MMGdJdlNJLWR3?oc=5",
+      "publishedAt": "2026-07-20T22:01:31.000Z",
+      "source": "Manufacturing.net",
       "_feedRegion": "global",
       "_feedName": "Google News (Global)",
       "_scoring": {
@@ -744,38 +817,6 @@
       }
     },
     {
-      "title": "アングル：米ドローン配送、規制緩和で本格普及へ ウォルマートやアマゾン先行",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE4ta0tIMGFuLTNlak5wdWJxU1hkRm1jZDVCWmplUThUYWxBVWJqMTNid0FzOHFhN1Bfd0dNNjNCWWk1NHltTUtqbExTVGFvX2Z2NkVRd2lJRTlvZ3MwME1ndkZxMXFSU3oxTHpYbnp4NzlYYXEwY0ZLMA?oc=5\" target=\"_blank\">アングル：米ドローン配送、規制緩和で本格普及へ ウォルマートやアマゾン先行</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ロイター</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE4ta0tIMGFuLTNlak5wdWJxU1hkRm1jZDVCWmplUThUYWxBVWJqMTNid0FzOHFhN1Bfd0dNNjNCWWk1NHltTUtqbExTVGFvX2Z2NkVRd2lJRTlvZ3MwME1ndkZxMXFSU3oxTHpYbnp4NzlYYXEwY0ZLMA?oc=5\" target=\"_blank\">アングル：米ドローン配送、規制緩和で本格普及へ ウォルマートやアマゾン先行</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ロイター</font>",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4ta0tIMGFuLTNlak5wdWJxU1hkRm1jZDVCWmplUThUYWxBVWJqMTNid0FzOHFhN1Bfd0dNNjNCWWk1NHltTUtqbExTVGFvX2Z2NkVRd2lJRTlvZ3MwME1ndkZxMXFSU3oxTHpYbnp4NzlYYXEwY0ZLMA?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4ta0tIMGFuLTNlak5wdWJxU1hkRm1jZDVCWmplUThUYWxBVWJqMTNid0FzOHFhN1Bfd0dNNjNCWWk1NHltTUtqbExTVGFvX2Z2NkVRd2lJRTlvZ3MwME1ndkZxMXFSU3oxTHpYbnp4NzlYYXEwY0ZLMA?oc=5",
-      "publishedAt": "2026-07-19T22:58:08.000Z",
-      "source": "ロイター",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP)",
-      "_scoring": {
-        "score": 61,
-        "categories": [
-          "規制・政策"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 1,
-            "catScore": 32
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 10,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
       "title": "Redwire announces major expansion with jobs and production of UAS and mission-critical space infrastructure",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxOVjZ4T3RjNTRSaC1Rc3NJa0d6N29UNzZFZWQyd3pUUlFIR0VxdHVWWEZYNXV5c3lmRFNsOTRneHdQVXhWOUVZdHJoYjBsNnB0UXcydXFucDg2RGlUUFBxZi1TeVFvOVVzb3YzZnBUY0diVDRfX0xuT0xCWmVPcDBKSDN5b2VWa2pnd0JZeWp5NHloc0F2dzlaTXRQeEhGREM0S3RCRDZHYUlpcHhoVHR0Z1k3cXFHOE44akVqUGxwcHR6N0hkNTNtWG1pdlNwb1cxRC1zQ0dQdk9NaU42ZGtLZW96c0tLbVd2bldidlh2aGZwS2M3?oc=5\" target=\"_blank\">Redwire announces major expansion with jobs and production of UAS and mission-critical space infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Huntsville Business Journal</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxOVjZ4T3RjNTRSaC1Rc3NJa0d6N29UNzZFZWQyd3pUUlFIR0VxdHVWWEZYNXV5c3lmRFNsOTRneHdQVXhWOUVZdHJoYjBsNnB0UXcydXFucDg2RGlUUFBxZi1TeVFvOVVzb3YzZnBUY0diVDRfX0xuT0xCWmVPcDBKSDN5b2VWa2pnd0JZeWp5NHloc0F2dzlaTXRQeEhGREM0S3RCRDZHYUlpcHhoVHR0Z1k3cXFHOE44akVqUGxwcHR6N0hkNTNtWG1pdlNwb1cxRC1zQ0dQdk9NaU42ZGtLZW96c0tLbVd2bldidlh2aGZwS2M3?oc=5\" target=\"_blank\">Redwire announces major expansion with jobs and production of UAS and mission-critical space infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Huntsville Business Journal</font>",
@@ -783,6 +824,42 @@
       "googleNewsUrl": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOVjZ4T3RjNTRSaC1Rc3NJa0d6N29UNzZFZWQyd3pUUlFIR0VxdHVWWEZYNXV5c3lmRFNsOTRneHdQVXhWOUVZdHJoYjBsNnB0UXcydXFucDg2RGlUUFBxZi1TeVFvOVVzb3YzZnBUY0diVDRfX0xuT0xCWmVPcDBKSDN5b2VWa2pnd0JZeWp5NHloc0F2dzlaTXRQeEhGREM0S3RCRDZHYUlpcHhoVHR0Z1k3cXFHOE44akVqUGxwcHR6N0hkNTNtWG1pdlNwb1cxRC1zQ0dQdk9NaU42ZGtLZW96c0tLbVd2bldidlh2aGZwS2M3?oc=5",
       "publishedAt": "2026-07-20T18:00:15.000Z",
       "source": "Huntsville Business Journal",
+      "_feedRegion": "global",
+      "_feedName": "Google News (Global)",
+      "_scoring": {
+        "score": 60,
+        "categories": [
+          "市場・資金",
+          "政策・インフラ"
+        ],
+        "breakdown": {
+          "required": true,
+          "market": {
+            "matches": 1,
+            "catScore": 20
+          },
+          "policy": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 15,
+          "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "Air Taxi Firm Turns Defense Contractor: U.S. eVTOL Companies Enter Defense Market, Shares Surge",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZ2tKRThvOFM2TXNtbGFLak13dERYcjB5T0dERWp3RGpoYm9IaDdDbklNWkdWWDM1dU10NjFXSjVFVTU0U2pCY3Y1YlBONFZldkdDY01uWnNGTWRqakJBRzIxWThMdzlQM3hibTJQWUdDVWY4NngtTVJpNXVIcWxvSTRJOVNuS3YtaGV6NXYzRnZzMWUwUmtiUno1THJqX21LQ3o0RHFNMnU?oc=5\" target=\"_blank\">Air Taxi Firm Turns Defense Contractor: U.S. eVTOL Companies Enter Defense Market, Shares Surge</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Moomoo</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZ2tKRThvOFM2TXNtbGFLak13dERYcjB5T0dERWp3RGpoYm9IaDdDbklNWkdWWDM1dU10NjFXSjVFVTU0U2pCY3Y1YlBONFZldkdDY01uWnNGTWRqakJBRzIxWThMdzlQM3hibTJQWUdDVWY4NngtTVJpNXVIcWxvSTRJOVNuS3YtaGV6NXYzRnZzMWUwUmtiUno1THJqX21LQ3o0RHFNMnU?oc=5\" target=\"_blank\">Air Taxi Firm Turns Defense Contractor: U.S. eVTOL Companies Enter Defense Market, Shares Surge</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Moomoo</font>",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZ2tKRThvOFM2TXNtbGFLak13dERYcjB5T0dERWp3RGpoYm9IaDdDbklNWkdWWDM1dU10NjFXSjVFVTU0U2pCY3Y1YlBONFZldkdDY01uWnNGTWRqakJBRzIxWThMdzlQM3hibTJQWUdDVWY4NngtTVJpNXVIcWxvSTRJOVNuS3YtaGV6NXYzRnZzMWUwUmtiUno1THJqX21LQ3o0RHFNMnU?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZ2tKRThvOFM2TXNtbGFLak13dERYcjB5T0dERWp3RGpoYm9IaDdDbklNWkdWWDM1dU10NjFXSjVFVTU0U2pCY3Y1YlBONFZldkdDY01uWnNGTWRqakJBRzIxWThMdzlQM3hibTJQWUdDVWY4NngtTVJpNXVIcWxvSTRJOVNuS3YtaGV6NXYzRnZzMWUwUmtiUno1THJqX21LQ3o0RHFNMnU?oc=5",
+      "publishedAt": "2026-07-20T19:40:43.000Z",
+      "source": "Moomoo",
       "_feedRegion": "global",
       "_feedName": "Google News (Global)",
       "_scoring": {
@@ -1027,73 +1104,6 @@
             "multiplier": 0.8
           },
           "freshness": 0,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "Orlando Airport Greenlights eVTOL Pad, Awaits FAA Sign-Off",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPMTRBclZTaUtJOTU2VFNaM0wzekFMWTFJekJCbUZMOFcyZ21pS3NGN2NDSGhoNWtkOTdIZmRHNm9CemdaVkwzSDgzU0ZkX2VSY2pyZVN4VkEtc0pnc3dxb2Viam54Y1N6dmtWMkJFOGlxaEt5U3NqYW1ITlE5b0ZKQ2I2UnlJR3c?oc=5\" target=\"_blank\">Orlando Airport Greenlights eVTOL Pad, Awaits FAA Sign-Off</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DroneXL</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPMTRBclZTaUtJOTU2VFNaM0wzekFMWTFJekJCbUZMOFcyZ21pS3NGN2NDSGhoNWtkOTdIZmRHNm9CemdaVkwzSDgzU0ZkX2VSY2pyZVN4VkEtc0pnc3dxb2Viam54Y1N6dmtWMkJFOGlxaEt5U3NqYW1ITlE5b0ZKQ2I2UnlJR3c?oc=5\" target=\"_blank\">Orlando Airport Greenlights eVTOL Pad, Awaits FAA Sign-Off</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DroneXL</font>",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMTRBclZTaUtJOTU2VFNaM0wzekFMWTFJekJCbUZMOFcyZ21pS3NGN2NDSGhoNWtkOTdIZmRHNm9CemdaVkwzSDgzU0ZkX2VSY2pyZVN4VkEtc0pnc3dxb2Viam54Y1N6dmtWMkJFOGlxaEt5U3NqYW1ITlE5b0ZKQ2I2UnlJR3c?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMTRBclZTaUtJOTU2VFNaM0wzekFMWTFJekJCbUZMOFcyZ21pS3NGN2NDSGhoNWtkOTdIZmRHNm9CemdaVkwzSDgzU0ZkX2VSY2pyZVN4VkEtc0pnc3dxb2Viam54Y1N6dmtWMkJFOGlxaEt5U3NqYW1ITlE5b0ZKQ2I2UnlJR3c?oc=5",
-      "publishedAt": "2026-07-18T20:23:00.000Z",
-      "source": "DroneXL",
-      "_feedRegion": "us",
-      "_feedName": "FAA",
-      "_scoring": {
-        "score": 57,
-        "categories": [
-          "規制・政策",
-          "政策・インフラ"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 1,
-            "catScore": 32
-          },
-          "policy": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 2,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "NPPA Tells FAA Its Section 2209 Drone Rule Ignores The Press, And Drone Pilots Already Asked For The Same Fixes",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE83OWdQUXA5LXZha29FeFNkUHhFVndmV1hRb3BndzJETHktTkE0RmZLd0xnRWNsYlUxNTJqRU9xRk9rN05nNzJyb1FXTHFUbVF4UEdwLXpKYVFEQjdHZVNVZVRJd1M1S094OGRPa2VNZVU3N1IyU3ljWg?oc=5\" target=\"_blank\">NPPA Tells FAA Its Section 2209 Drone Rule Ignores The Press, And Drone Pilots Already Asked For The Same Fixes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DroneXL</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE83OWdQUXA5LXZha29FeFNkUHhFVndmV1hRb3BndzJETHktTkE0RmZLd0xnRWNsYlUxNTJqRU9xRk9rN05nNzJyb1FXTHFUbVF4UEdwLXpKYVFEQjdHZVNVZVRJd1M1S094OGRPa2VNZVU3N1IyU3ljWg?oc=5\" target=\"_blank\">NPPA Tells FAA Its Section 2209 Drone Rule Ignores The Press, And Drone Pilots Already Asked For The Same Fixes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DroneXL</font>",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE83OWdQUXA5LXZha29FeFNkUHhFVndmV1hRb3BndzJETHktTkE0RmZLd0xnRWNsYlUxNTJqRU9xRk9rN05nNzJyb1FXTHFUbVF4UEdwLXpKYVFEQjdHZVNVZVRJd1M1S094OGRPa2VNZVU3N1IyU3ljWg?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTE83OWdQUXA5LXZha29FeFNkUHhFVndmV1hRb3BndzJETHktTkE0RmZLd0xnRWNsYlUxNTJqRU9xRk9rN05nNzJyb1FXTHFUbVF4UEdwLXpKYVFEQjdHZVNVZVRJd1M1S094OGRPa2VNZVU3N1IyU3ljWg?oc=5",
-      "publishedAt": "2026-07-20T12:00:00.000Z",
-      "source": "DroneXL",
-      "_feedRegion": "us",
-      "_feedName": "FAA",
-      "_scoring": {
-        "score": 57,
-        "categories": [
-          "規制・政策"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 2,
-            "catScore": 40
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 15,
           "titleBonus": 10
         },
         "pass": true
