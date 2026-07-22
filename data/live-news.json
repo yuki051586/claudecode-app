@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-22T06:33:19.746Z",
-  "rawCount": 701,
+  "generatedAt": "2026-07-22T09:29:46.013Z",
+  "rawCount": 703,
   "articles": [
     {
       "title": "Trimble PX-1 RTX powers precise BVLOS drone delivery for Volatus Aerospace",
@@ -157,43 +157,6 @@
           },
           "freshness": 10,
           "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "ドローン操縦「1人5機」の上限撤廃 国交省、インフラ点検など効率化",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE5neFI5RjA3SzBWR3ZFX1BIdXFQOW1oTGVnamJmekxRd2tQY2ZEc1p0d1o2WUNMUWM0djVjWTlXYXN6N3ZjdmtZcG5qM3RvSVhrT21QOWxB?oc=5\" target=\"_blank\">ドローン操縦「1人5機」の上限撤廃 国交省、インフラ点検など効率化</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">建設通信新聞Digital</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE5neFI5RjA3SzBWR3ZFX1BIdXFQOW1oTGVnamJmekxRd2tQY2ZEc1p0d1o2WUNMUWM0djVjWTlXYXN6N3ZjdmtZcG5qM3RvSVhrT21QOWxB?oc=5\" target=\"_blank\">ドローン操縦「1人5機」の上限撤廃 国交省、インフラ点検など効率化</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">建設通信新聞Digital</font>",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5neFI5RjA3SzBWR3ZFX1BIdXFQOW1oTGVnamJmekxRd2tQY2ZEc1p0d1o2WUNMUWM0djVjWTlXYXN6N3ZjdmtZcG5qM3RvSVhrT21QOWxB?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5neFI5RjA3SzBWR3ZFX1BIdXFQOW1oTGVnamJmekxRd2tQY2ZEc1p0d1o2WUNMUWM0djVjWTlXYXN6N3ZjdmtZcG5qM3RvSVhrT21QOWxB?oc=5",
-      "publishedAt": "2026-06-24T07:00:00.000Z",
-      "source": "建設通信新聞Digital",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP 政策/実証)",
-      "_scoring": {
-        "score": 70,
-        "categories": [
-          "規制・政策",
-          "政策・インフラ"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 1,
-            "catScore": 32
-          },
-          "policy": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 0,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
         },
         "pass": true
       }
@@ -386,38 +349,6 @@
       }
     },
     {
-      "title": "ドローン攻撃、製油所に黒煙 燃料販売を規制、給油に行列 ロシア",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE9FZGNMWThtcGE1RjhhSGVwaTJLQ3d3c09WZkQxZWR2OFlBbERiX2g3QVo3NDZmN0dhZDlSUGdGODIwTmlxNnYxcmNDMlB5Nmd1QWhkeUY5SnN4aWRv?oc=5\" target=\"_blank\">ドローン攻撃、製油所に黒煙 燃料販売を規制、給油に行列 ロシア</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">朝日新聞</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE9FZGNMWThtcGE1RjhhSGVwaTJLQ3d3c09WZkQxZWR2OFlBbERiX2g3QVo3NDZmN0dhZDlSUGdGODIwTmlxNnYxcmNDMlB5Nmd1QWhkeUY5SnN4aWRv?oc=5\" target=\"_blank\">ドローン攻撃、製油所に黒煙 燃料販売を規制、給油に行列 ロシア</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">朝日新聞</font>",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9FZGNMWThtcGE1RjhhSGVwaTJLQ3d3c09WZkQxZWR2OFlBbERiX2g3QVo3NDZmN0dhZDlSUGdGODIwTmlxNnYxcmNDMlB5Nmd1QWhkeUY5SnN4aWRv?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9FZGNMWThtcGE1RjhhSGVwaTJLQ3d3c09WZkQxZWR2OFlBbERiX2g3QVo3NDZmN0dhZDlSUGdGODIwTmlxNnYxcmNDMlB5Nmd1QWhkeUY5SnN4aWRv?oc=5",
-      "publishedAt": "2026-07-21T20:00:00.000Z",
-      "source": "朝日新聞",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP)",
-      "_scoring": {
-        "score": 66,
-        "categories": [
-          "規制・政策"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 1,
-            "catScore": 32
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 15,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
       "title": "0.04mmのひびを暴く、アイ・ロボティクスのドローン技術が国交省カタログに掲載",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE1hQVQzQno1aHlHLW1BNzVCOEpxeEdlRGdGT3plRi1BaW9KQlgtYkVPZXI2dDBrWnNLLS1aZlJNTng0RFl1a2l4SDZEa1NxcDU3Vm43dkt1RzRYX1NlUHM0Zm1yYjN1b1NFQTJUOA?oc=5\" target=\"_blank\">0.04mmのひびを暴く、アイ・ロボティクスのドローン技術が国交省カタログに掲載</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ITmedia</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE1hQVQzQno1aHlHLW1BNzVCOEpxeEdlRGdGT3plRi1BaW9KQlgtYkVPZXI2dDBrWnNLLS1aZlJNTng0RFl1a2l4SDZEa1NxcDU3Vm43dkt1RzRYX1NlUHM0Zm1yYjN1b1NFQTJUOA?oc=5\" target=\"_blank\">0.04mmのひびを暴く、アイ・ロボティクスのドローン技術が国交省カタログに掲載</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ITmedia</font>",
@@ -445,6 +376,42 @@
           "freshness": 15,
           "titleBonus": 10,
           "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "Lockheed Martin introduces PAC-3 ACE interceptor, MORFIUS X-Rotor counter-UAS system",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxOY1BXaXhwejktQ2VNZXA2cmJfYjZ4ek90a3AtVEcxeE9mZzhhd0RJV2wzT2t3dFA4Y21vTGRXazFnSkNBNXBCamo4ZlRHRjRYdTg5ZS1pYVdkMGdYeHdtUmVMVTFrWWhONU54cDBOd0RsYVZkbUJGdVVTWjZFSFEzeXN6ZklkbGRSNG4zNVpGQVJNcGlsLWUzVmJ6Wll6V2ZwSEVCbEdseU5LaXRabkNPbGFPdzVyd25TRnl1a3NzS1FZdjZIRE9GLVo1dWNyd1JXUElkVkdR?oc=5\" target=\"_blank\">Lockheed Martin introduces PAC-3 ACE interceptor, MORFIUS X-Rotor counter-UAS system</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Military Aerospace</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxOY1BXaXhwejktQ2VNZXA2cmJfYjZ4ek90a3AtVEcxeE9mZzhhd0RJV2wzT2t3dFA4Y21vTGRXazFnSkNBNXBCamo4ZlRHRjRYdTg5ZS1pYVdkMGdYeHdtUmVMVTFrWWhONU54cDBOd0RsYVZkbUJGdVVTWjZFSFEzeXN6ZklkbGRSNG4zNVpGQVJNcGlsLWUzVmJ6Wll6V2ZwSEVCbEdseU5LaXRabkNPbGFPdzVyd25TRnl1a3NzS1FZdjZIRE9GLVo1dWNyd1JXUElkVkdR?oc=5\" target=\"_blank\">Lockheed Martin introduces PAC-3 ACE interceptor, MORFIUS X-Rotor counter-UAS system</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Military Aerospace</font>",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOY1BXaXhwejktQ2VNZXA2cmJfYjZ4ek90a3AtVEcxeE9mZzhhd0RJV2wzT2t3dFA4Y21vTGRXazFnSkNBNXBCamo4ZlRHRjRYdTg5ZS1pYVdkMGdYeHdtUmVMVTFrWWhONU54cDBOd0RsYVZkbUJGdVVTWjZFSFEzeXN6ZklkbGRSNG4zNVpGQVJNcGlsLWUzVmJ6Wll6V2ZwSEVCbEdseU5LaXRabkNPbGFPdzVyd25TRnl1a3NzS1FZdjZIRE9GLVo1dWNyd1JXUElkVkdR?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOY1BXaXhwejktQ2VNZXA2cmJfYjZ4ek90a3AtVEcxeE9mZzhhd0RJV2wzT2t3dFA4Y21vTGRXazFnSkNBNXBCamo4ZlRHRjRYdTg5ZS1pYVdkMGdYeHdtUmVMVTFrWWhONU54cDBOd0RsYVZkbUJGdVVTWjZFSFEzeXN6ZklkbGRSNG4zNVpGQVJNcGlsLWUzVmJ6Wll6V2ZwSEVCbEdseU5LaXRabkNPbGFPdzVyd25TRnl1a3NzS1FZdjZIRE9GLVo1dWNyd1JXUElkVkdR?oc=5",
+      "publishedAt": "2026-07-22T08:32:49.000Z",
+      "source": "Military Aerospace",
+      "_feedRegion": "global",
+      "_feedName": "Google News (Global)",
+      "_scoring": {
+        "score": 65,
+        "categories": [
+          "市場・資金",
+          "政策・インフラ"
+        ],
+        "breakdown": {
+          "required": true,
+          "market": {
+            "matches": 1,
+            "catScore": 20
+          },
+          "policy": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 20,
+          "titleBonus": 10
         },
         "pass": true
       }
@@ -487,12 +454,12 @@
     },
     {
       "title": "Exyn Defense Advances U.S. Government Strategy with Green UAS Certification Initiative for Nexys Autonomous Mapping Platform",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQN01YWEZwbFZicTZpNzZ6SFdhVno1bElPTFNocEtHQlVmblR0WTlkVFlzaGozWGl1WVUxdkQ2Z3N3WVFwNGJfV19OQXlQN1pHcFRqQVM5OW1TdlZia09rWlRkR3lMNk1wMEp5a0NaQUlnUGlaVDB2Sk9VTWxSV1ZHT3daRkxPY0E2RGsw?oc=5\" target=\"_blank\">Exyn Defense Advances U.S. Government Strategy with Green UAS Certification Initiative for Nexys Autonomous Mapping Platform</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance Singapore</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQN01YWEZwbFZicTZpNzZ6SFdhVno1bElPTFNocEtHQlVmblR0WTlkVFlzaGozWGl1WVUxdkQ2Z3N3WVFwNGJfV19OQXlQN1pHcFRqQVM5OW1TdlZia09rWlRkR3lMNk1wMEp5a0NaQUlnUGlaVDB2Sk9VTWxSV1ZHT3daRkxPY0E2RGsw?oc=5\" target=\"_blank\">Exyn Defense Advances U.S. Government Strategy with Green UAS Certification Initiative for Nexys Autonomous Mapping Platform</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance Singapore</font>",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQN01YWEZwbFZicTZpNzZ6SFdhVno1bElPTFNocEtHQlVmblR0WTlkVFlzaGozWGl1WVUxdkQ2Z3N3WVFwNGJfV19OQXlQN1pHcFRqQVM5OW1TdlZia09rWlRkR3lMNk1wMEp5a0NaQUlnUGlaVDB2Sk9VTWxSV1ZHT3daRkxPY0E2RGsw?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQN01YWEZwbFZicTZpNzZ6SFdhVno1bElPTFNocEtHQlVmblR0WTlkVFlzaGozWGl1WVUxdkQ2Z3N3WVFwNGJfV19OQXlQN1pHcFRqQVM5OW1TdlZia09rWlRkR3lMNk1wMEp5a0NaQUlnUGlaVDB2Sk9VTWxSV1ZHT3daRkxPY0E2RGsw?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNYk9fYUU5d1oyTU9tSkRUSnBWclJZZEgxSFh4UkpTRlRsY1QwRjBzVHNhdzRoWXJ1V042YzRMQ09nNEpXVF9iVDRaNG9NZ1ppMENEbVVZM2R1U0xfYVp0YXc2ckNYd1BZOUhTNUVGZGZrN0RhTXNJT0pzSEtVenk2VF9XQjlRZlNPWVRMb1FJYXAxNTVadzREWXlEVElVQ3M?oc=5\" target=\"_blank\">Exyn Defense Advances U.S. Government Strategy with Green UAS Certification Initiative for Nexys Autonomous Mapping Platform</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNYk9fYUU5d1oyTU9tSkRUSnBWclJZZEgxSFh4UkpTRlRsY1QwRjBzVHNhdzRoWXJ1V042YzRMQ09nNEpXVF9iVDRaNG9NZ1ppMENEbVVZM2R1U0xfYVp0YXc2ckNYd1BZOUhTNUVGZGZrN0RhTXNJT0pzSEtVenk2VF9XQjlRZlNPWVRMb1FJYXAxNTVadzREWXlEVElVQ3M?oc=5\" target=\"_blank\">Exyn Defense Advances U.S. Government Strategy with Green UAS Certification Initiative for Nexys Autonomous Mapping Platform</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYk9fYUU5d1oyTU9tSkRUSnBWclJZZEgxSFh4UkpTRlRsY1QwRjBzVHNhdzRoWXJ1V042YzRMQ09nNEpXVF9iVDRaNG9NZ1ppMENEbVVZM2R1U0xfYVp0YXc2ckNYd1BZOUhTNUVGZGZrN0RhTXNJT0pzSEtVenk2VF9XQjlRZlNPWVRMb1FJYXAxNTVadzREWXlEVElVQ3M?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYk9fYUU5d1oyTU9tSkRUSnBWclJZZEgxSFh4UkpTRlRsY1QwRjBzVHNhdzRoWXJ1V042YzRMQ09nNEpXVF9iVDRaNG9NZ1ppMENEbVVZM2R1U0xfYVp0YXc2ckNYd1BZOUhTNUVGZGZrN0RhTXNJT0pzSEtVenk2VF9XQjlRZlNPWVRMb1FJYXAxNTVadzREWXlEVElVQ3M?oc=5",
       "publishedAt": "2026-07-21T12:00:00.000Z",
-      "source": "Yahoo Finance Singapore",
+      "source": "Yahoo Finance",
       "_feedRegion": "global",
       "_feedName": "Google News (Global)",
       "_scoring": {
@@ -517,6 +484,38 @@
           },
           "freshness": 10,
           "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "ugo、ドローン点検のLiberawareと業務提携 屋内狭小空間の点検・巡回を支援",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1vMzJCT3pZLW51dGREMmZLN1FhbUlESERpVUVtcDVqdTh6TTZMLS04VUtFWURfcDJuNlF5aW1jQ21xVzlxcmNwV0xJcDAyTVkxekJoYzBKVkdqZ0hieUU3RmlHUmk?oc=5\" target=\"_blank\">ugo、ドローン点検のLiberawareと業務提携 屋内狭小空間の点検・巡回を支援</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ロボスタ</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1vMzJCT3pZLW51dGREMmZLN1FhbUlESERpVUVtcDVqdTh6TTZMLS04VUtFWURfcDJuNlF5aW1jQ21xVzlxcmNwV0xJcDAyTVkxekJoYzBKVkdqZ0hieUU3RmlHUmk?oc=5\" target=\"_blank\">ugo、ドローン点検のLiberawareと業務提携 屋内狭小空間の点検・巡回を支援</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ロボスタ</font>",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1vMzJCT3pZLW51dGREMmZLN1FhbUlESERpVUVtcDVqdTh6TTZMLS04VUtFWURfcDJuNlF5aW1jQ21xVzlxcmNwV0xJcDAyTVkxekJoYzBKVkdqZ0hieUU3RmlHUmk?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1vMzJCT3pZLW51dGREMmZLN1FhbUlESERpVUVtcDVqdTh6TTZMLS04VUtFWURfcDJuNlF5aW1jQ21xVzlxcmNwV0xJcDAyTVkxekJoYzBKVkdqZ0hieUU3RmlHUmk?oc=5",
+      "publishedAt": "2026-07-22T07:15:03.000Z",
+      "source": "ロボスタ",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP 政策/実証)",
+      "_scoring": {
+        "score": 65,
+        "categories": [
+          "市場・資金"
+        ],
+        "breakdown": {
+          "required": true,
+          "market": {
+            "matches": 2,
+            "catScore": 25
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 20,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
         },
         "pass": true
       }
@@ -559,15 +558,47 @@
       }
     },
     {
-      "title": "テラドローン、自律型AI迎撃ドローン「Terra A1 Autonomous」を開発完了（7月21日）",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE5OVkNwc2kwV1BwTGNTT3U5M1RPOFhhdk94WUhRMUlucFdfOExDam5DeTRfdm03alZUQVVxRzFEenJYbzFRSnhmUmVJNXRsY2NZRFFHRFVYalAtdGZa?oc=5\" target=\"_blank\">テラドローン、自律型AI迎撃ドローン「Terra A1 Autonomous」を開発完了（7月21日）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">J ディフェンス ニュース</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE5OVkNwc2kwV1BwTGNTT3U5M1RPOFhhdk94WUhRMUlucFdfOExDam5DeTRfdm03alZUQVVxRzFEenJYbzFRSnhmUmVJNXRsY2NZRFFHRFVYalAtdGZa?oc=5\" target=\"_blank\">テラドローン、自律型AI迎撃ドローン「Terra A1 Autonomous」を開発完了（7月21日）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">J ディフェンス ニュース</font>",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5OVkNwc2kwV1BwTGNTT3U5M1RPOFhhdk94WUhRMUlucFdfOExDam5DeTRfdm03alZUQVVxRzFEenJYbzFRSnhmUmVJNXRsY2NZRFFHRFVYalAtdGZa?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5OVkNwc2kwV1BwTGNTT3U5M1RPOFhhdk94WUhRMUlucFdfOExDam5DeTRfdm03alZUQVVxRzFEenJYbzFRSnhmUmVJNXRsY2NZRFFHRFVYalAtdGZa?oc=5",
-      "publishedAt": "2026-07-22T03:45:30.000Z",
-      "source": "J ディフェンス ニュース",
+      "title": "水稲のドローン追肥勉強会を開催（三次市）",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE96aWduM2YwYjh6Q1NUUUJ2RXB4MC03QXdHR0xmWnFweEg0VWJCOUpHRGJYTUNLZDZZa0VmZEdodnljQUlYajZZOW9YSjJITlpLTlJsR1JJU09USk1NQmZ4SDRRVl9nMmpCbFcwcGF2Y2dFZw?oc=5\" target=\"_blank\">水稲のドローン追肥勉強会を開催（三次市）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">pref.hiroshima.lg.jp</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE96aWduM2YwYjh6Q1NUUUJ2RXB4MC03QXdHR0xmWnFweEg0VWJCOUpHRGJYTUNLZDZZa0VmZEdodnljQUlYajZZOW9YSjJITlpLTlJsR1JJU09USk1NQmZ4SDRRVl9nMmpCbFcwcGF2Y2dFZw?oc=5\" target=\"_blank\">水稲のドローン追肥勉強会を開催（三次市）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">pref.hiroshima.lg.jp</font>",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE96aWduM2YwYjh6Q1NUUUJ2RXB4MC03QXdHR0xmWnFweEg0VWJCOUpHRGJYTUNLZDZZa0VmZEdodnljQUlYajZZOW9YSjJITlpLTlJsR1JJU09USk1NQmZ4SDRRVl9nMmpCbFcwcGF2Y2dFZw?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMickFVX3lxTE96aWduM2YwYjh6Q1NUUUJ2RXB4MC03QXdHR0xmWnFweEg0VWJCOUpHRGJYTUNLZDZZa0VmZEdodnljQUlYajZZOW9YSjJITlpLTlJsR1JJU09USk1NQmZ4SDRRVl9nMmpCbFcwcGF2Y2dFZw?oc=5",
+      "publishedAt": "2026-07-22T08:36:22.000Z",
+      "source": "pref.hiroshima.lg.jp",
       "_feedRegion": "jp",
       "_feedName": "Google News (JP)",
+      "_scoring": {
+        "score": 64,
+        "categories": [
+          "政策・インフラ"
+        ],
+        "breakdown": {
+          "required": true,
+          "policy": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 20,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "SkyDrive、台湾の救急医療搬送への空飛ぶクルマ活用で現地研究開発機関などと連携強化 - LOGI-BIZ online",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTFBKTlhtUnhqX2d1bXpXQ3NCdkxKUVV4aGFfaVlnT05FcnN2X0RMRHVuVnM4bV9SakdWYm1TUUk0YzA0RWp6Uy1VNHJJQQ?oc=5\" target=\"_blank\">SkyDrive、台湾の救急医療搬送への空飛ぶクルマ活用で現地研究開発機関などと連携強化</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LOGI-BIZ online</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTFBKTlhtUnhqX2d1bXpXQ3NCdkxKUVV4aGFfaVlnT05FcnN2X0RMRHVuVnM4bV9SakdWYm1TUUk0YzA0RWp6Uy1VNHJJQQ?oc=5\" target=\"_blank\">SkyDrive、台湾の救急医療搬送への空飛ぶクルマ活用で現地研究開発機関などと連携強化</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LOGI-BIZ online</font>",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBKTlhtUnhqX2d1bXpXQ3NCdkxKUVV4aGFfaVlnT05FcnN2X0RMRHVuVnM4bV9SakdWYm1TUUk0YzA0RWp6Uy1VNHJJQQ?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBKTlhtUnhqX2d1bXpXQ3NCdkxKUVV4aGFfaVlnT05FcnN2X0RMRHVuVnM4bV9SakdWYm1TUUk0YzA0RWp6Uy1VNHJJQQ?oc=5",
+      "publishedAt": "2026-07-22T08:53:28.000Z",
+      "source": "LOGI-BIZ online",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP 事業者/実装)",
       "_scoring": {
         "score": 64,
         "categories": [
@@ -584,43 +615,6 @@
             "multiplier": 0.8
           },
           "freshness": 20,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "狭小空間点検ドローン×3Dインフラ管理プラットフォームで韓国市場へ。Liberaware KoreaとALTIVIONが業務提携覚書を締結 - digital-construction.jp",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTFBNNmhHQjZoSTNPRTU2bHU0QzZta3pjWTNuWS1DN2ZRdzhvYW4yaDBHRkdrVlBTUE9FQ3BZUXJDRnRkLUp4MXE3emgzd1laNEFQSjRF?oc=5\" target=\"_blank\">狭小空間点検ドローン×3Dインフラ管理プラットフォームで韓国市場へ。Liberaware KoreaとALTIVIONが業務提携覚書を締結</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">digital-construction.jp</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTFBNNmhHQjZoSTNPRTU2bHU0QzZta3pjWTNuWS1DN2ZRdzhvYW4yaDBHRkdrVlBTUE9FQ3BZUXJDRnRkLUp4MXE3emgzd1laNEFQSjRF?oc=5\" target=\"_blank\">狭小空間点検ドローン×3Dインフラ管理プラットフォームで韓国市場へ。Liberaware KoreaとALTIVIONが業務提携覚書を締結</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">digital-construction.jp</font>",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBNNmhHQjZoSTNPRTU2bHU0QzZta3pjWTNuWS1DN2ZRdzhvYW4yaDBHRkdrVlBTUE9FQ3BZUXJDRnRkLUp4MXE3emgzd1laNEFQSjRF?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBNNmhHQjZoSTNPRTU2bHU0QzZta3pjWTNuWS1DN2ZRdzhvYW4yaDBHRkdrVlBTUE9FQ3BZUXJDRnRkLUp4MXE3emgzd1laNEFQSjRF?oc=5",
-      "publishedAt": "2026-06-23T07:00:00.000Z",
-      "source": "digital-construction.jp",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP 政策/実証)",
-      "_scoring": {
-        "score": 64,
-        "categories": [
-          "市場・資金",
-          "政策・インフラ"
-        ],
-        "breakdown": {
-          "required": true,
-          "market": {
-            "matches": 2,
-            "catScore": 25
-          },
-          "policy": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 0,
           "titleBonus": 10,
           "jpRegionBonus": 15
         },
@@ -734,42 +728,6 @@
           "freshness": 0,
           "titleBonus": 10,
           "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "Dronedesk introduces fully automated SORA implementation for BVLOS operations",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQZ1Y2TExZYmVqaGhRN1k1ekZ3RThqX0N3WGFPeVpsMU53VmF4S2RvOTNIb0NuYTE5RWc3R29PdmE4Ti1ja1hYdVpfTnVsMmpoZjZfRXpxazBIbjlDY0NOaEl5Q2RNQm93NVRtSE1FYkhMSUNFZVJ3SUZ0N0VVX3owOEZzVzNod2RkRUpDUTlqNFZCUEdiSG1TNzFJSnM0VjZNQ3ZjNDdqOVlObXo5TXItdmwwbkRzQnNCUll1LUladkJuVUc1?oc=5\" target=\"_blank\">Dronedesk introduces fully automated SORA implementation for BVLOS operations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQZ1Y2TExZYmVqaGhRN1k1ekZ3RThqX0N3WGFPeVpsMU53VmF4S2RvOTNIb0NuYTE5RWc3R29PdmE4Ti1ja1hYdVpfTnVsMmpoZjZfRXpxazBIbjlDY0NOaEl5Q2RNQm93NVRtSE1FYkhMSUNFZVJ3SUZ0N0VVX3owOEZzVzNod2RkRUpDUTlqNFZCUEdiSG1TNzFJSnM0VjZNQ3ZjNDdqOVlObXo5TXItdmwwbkRzQnNCUll1LUladkJuVUc1?oc=5\" target=\"_blank\">Dronedesk introduces fully automated SORA implementation for BVLOS operations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZ1Y2TExZYmVqaGhRN1k1ekZ3RThqX0N3WGFPeVpsMU53VmF4S2RvOTNIb0NuYTE5RWc3R29PdmE4Ti1ja1hYdVpfTnVsMmpoZjZfRXpxazBIbjlDY0NOaEl5Q2RNQm93NVRtSE1FYkhMSUNFZVJ3SUZ0N0VVX3owOEZzVzNod2RkRUpDUTlqNFZCUEdiSG1TNzFJSnM0VjZNQ3ZjNDdqOVlObXo5TXItdmwwbkRzQnNCUll1LUladkJuVUc1?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZ1Y2TExZYmVqaGhRN1k1ekZ3RThqX0N3WGFPeVpsMU53VmF4S2RvOTNIb0NuYTE5RWc3R29PdmE4Ti1ja1hYdVpfTnVsMmpoZjZfRXpxazBIbjlDY0NOaEl5Q2RNQm93NVRtSE1FYkhMSUNFZVJ3SUZ0N0VVX3owOEZzVzNod2RkRUpDUTlqNFZCUEdiSG1TNzFJSnM0VjZNQ3ZjNDdqOVlObXo5TXItdmwwbkRzQnNCUll1LUladkJuVUc1?oc=5",
-      "publishedAt": "2026-07-21T07:51:22.000Z",
-      "source": "Unmanned airspace",
-      "_feedRegion": "eu",
-      "_feedName": "EASA",
-      "_scoring": {
-        "score": 62,
-        "categories": [
-          "規制・政策",
-          "市場・資金"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 1,
-            "catScore": 32
-          },
-          "market": {
-            "matches": 1,
-            "catScore": 20
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 10,
-          "titleBonus": 10
         },
         "pass": true
       }
@@ -902,6 +860,38 @@
           },
           "freshness": 0,
           "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "ドローン攻撃、製油所に黒煙 燃料販売を規制、給油に行列 ロシア",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE9FZGNMWThtcGE1RjhhSGVwaTJLQ3d3c09WZkQxZWR2OFlBbERiX2g3QVo3NDZmN0dhZDlSUGdGODIwTmlxNnYxcmNDMlB5Nmd1QWhkeUY5SnN4aWRv?oc=5\" target=\"_blank\">ドローン攻撃、製油所に黒煙 燃料販売を規制、給油に行列 ロシア</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">朝日新聞</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE9FZGNMWThtcGE1RjhhSGVwaTJLQ3d3c09WZkQxZWR2OFlBbERiX2g3QVo3NDZmN0dhZDlSUGdGODIwTmlxNnYxcmNDMlB5Nmd1QWhkeUY5SnN4aWRv?oc=5\" target=\"_blank\">ドローン攻撃、製油所に黒煙 燃料販売を規制、給油に行列 ロシア</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">朝日新聞</font>",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9FZGNMWThtcGE1RjhhSGVwaTJLQ3d3c09WZkQxZWR2OFlBbERiX2g3QVo3NDZmN0dhZDlSUGdGODIwTmlxNnYxcmNDMlB5Nmd1QWhkeUY5SnN4aWRv?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9FZGNMWThtcGE1RjhhSGVwaTJLQ3d3c09WZkQxZWR2OFlBbERiX2g3QVo3NDZmN0dhZDlSUGdGODIwTmlxNnYxcmNDMlB5Nmd1QWhkeUY5SnN4aWRv?oc=5",
+      "publishedAt": "2026-07-21T20:00:00.000Z",
+      "source": "朝日新聞",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP)",
+      "_scoring": {
+        "score": 61,
+        "categories": [
+          "規制・政策"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 10,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
         },
         "pass": true
       }
