@@ -1,7 +1,44 @@
 {
-  "generatedAt": "2026-07-22T14:06:56.703Z",
-  "rawCount": 703,
+  "generatedAt": "2026-07-22T16:22:24.636Z",
+  "rawCount": 702,
   "articles": [
+    {
+      "title": "海洋ドローンの民間需要、政府が創出へ 離島監視や資源調査に活用",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE1xTWpWY3oyT1FkcTZ3U2FpdXphQjREQTdFUlJNZ1pKUkxoRm9mRzY2cFNfaUtmd0poTWdPSHJ2NDZIOWtVSVIteERqZWk0LWpGWUh2OVU2QmxDUlFRY0IzZnFPeC1yTVVxdnprNg?oc=5\" target=\"_blank\">海洋ドローンの民間需要、政府が創出へ 離島監視や資源調査に活用</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE1xTWpWY3oyT1FkcTZ3U2FpdXphQjREQTdFUlJNZ1pKUkxoRm9mRzY2cFNfaUtmd0poTWdPSHJ2NDZIOWtVSVIteERqZWk0LWpGWUh2OVU2QmxDUlFRY0IzZnFPeC1yTVVxdnprNg?oc=5\" target=\"_blank\">海洋ドローンの民間需要、政府が創出へ 離島監視や資源調査に活用</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1xTWpWY3oyT1FkcTZ3U2FpdXphQjREQTdFUlJNZ1pKUkxoRm9mRzY2cFNfaUtmd0poTWdPSHJ2NDZIOWtVSVIteERqZWk0LWpGWUh2OVU2QmxDUlFRY0IzZnFPeC1yTVVxdnprNg?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1xTWpWY3oyT1FkcTZ3U2FpdXphQjREQTdFUlJNZ1pKUkxoRm9mRzY2cFNfaUtmd0poTWdPSHJ2NDZIOWtVSVIteERqZWk0LWpGWUh2OVU2QmxDUlFRY0IzZnFPeC1yTVVxdnprNg?oc=5",
+      "publishedAt": "2026-07-22T13:00:00.000Z",
+      "source": "日本経済新聞",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP 経済メディア)",
+      "_scoring": {
+        "score": 82,
+        "categories": [
+          "技術・製品",
+          "事故・事件"
+        ],
+        "breakdown": {
+          "required": true,
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "incident": {
+            "matches": 1,
+            "catScore": 28
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 15,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
     {
       "title": "Trimble PX-1 RTX powers precise BVLOS drone delivery for Volatus Aerospace",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNUDZBT28tVldzdlFPbHJnMTZSLXdQM3hIR2N5R1kySWJ5RE5NM3RiYWZELW0zd1dTc3VYSC1VR0F3MEhfUmZ1WGJ4ZzNQV1FvRkEtV3NWQ2k5WGVHYlNDRlZmdGRUQ0dndnhFZXpta3dPVUZtemJpT0o0TFBGWF9sSkpXTFllbDluWnJVOC1DaVhtaUVBemVWdl9kQ05DVWs1TGc?oc=5\" target=\"_blank\">Trimble PX-1 RTX powers precise BVLOS drone delivery for Volatus Aerospace</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GPS World</font>",
@@ -13,7 +50,7 @@
       "_feedRegion": "global",
       "_feedName": "Google News (Global)",
       "_scoring": {
-        "score": 81,
+        "score": 76,
         "categories": [
           "規制・政策",
           "市場・資金",
@@ -37,7 +74,7 @@
             "domain": "news.google.com",
             "multiplier": 0.8
           },
-          "freshness": 10,
+          "freshness": 5,
           "titleBonus": 10
         },
         "pass": true
@@ -273,42 +310,6 @@
       }
     },
     {
-      "title": "LightPath Technologies Receives $13 Million in Follow-On Optical Assembly Orders from Leading C-UAS & Defense Systems Supplier",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMijAJBVV95cUxNR05fbXk1Z3paWlRoaG5UbzhyNTFsT0lpVW44YUswcmlVa3RES0g0eDctVWRmVmZoT0VlTGFoNUI1Y29QV2NDSDV4eWY4Sm5rVnpJOXB3ZWY1TkhGZUtlRV9mZUtzaEhDbDAzaDBoTk9sODBGM0VqOWJXX2Q5WHVLcE5FNkhtMU05bWJlRkJETWFWd2g3OVlEdnVqZjhQTFN1WVMtdnJwUXpPN2h6Q081ZHdrTEJ5ak93N3Z6cTJoU0JtU2RKc3pnOVBlSUl4dGFISjJ0TDM4SC1jWHhoTUhpcW0xWFlfdTQtUEdwUm0wRlpaa0Vid2tMb1dkeElqRTRnT0phMFBsd1VCSG03?oc=5\" target=\"_blank\">LightPath Technologies Receives $13 Million in Follow-On Optical Assembly Orders from Leading C-UAS & Defense Systems Supplier</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR Newswire</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMijAJBVV95cUxNR05fbXk1Z3paWlRoaG5UbzhyNTFsT0lpVW44YUswcmlVa3RES0g0eDctVWRmVmZoT0VlTGFoNUI1Y29QV2NDSDV4eWY4Sm5rVnpJOXB3ZWY1TkhGZUtlRV9mZUtzaEhDbDAzaDBoTk9sODBGM0VqOWJXX2Q5WHVLcE5FNkhtMU05bWJlRkJETWFWd2g3OVlEdnVqZjhQTFN1WVMtdnJwUXpPN2h6Q081ZHdrTEJ5ak93N3Z6cTJoU0JtU2RKc3pnOVBlSUl4dGFISjJ0TDM4SC1jWHhoTUhpcW0xWFlfdTQtUEdwUm0wRlpaa0Vid2tMb1dkeElqRTRnT0phMFBsd1VCSG03?oc=5\" target=\"_blank\">LightPath Technologies Receives $13 Million in Follow-On Optical Assembly Orders from Leading C-UAS & Defense Systems Supplier</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR Newswire</font>",
-      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNR05fbXk1Z3paWlRoaG5UbzhyNTFsT0lpVW44YUswcmlVa3RES0g0eDctVWRmVmZoT0VlTGFoNUI1Y29QV2NDSDV4eWY4Sm5rVnpJOXB3ZWY1TkhGZUtlRV9mZUtzaEhDbDAzaDBoTk9sODBGM0VqOWJXX2Q5WHVLcE5FNkhtMU05bWJlRkJETWFWd2g3OVlEdnVqZjhQTFN1WVMtdnJwUXpPN2h6Q081ZHdrTEJ5ak93N3Z6cTJoU0JtU2RKc3pnOVBlSUl4dGFISjJ0TDM4SC1jWHhoTUhpcW0xWFlfdTQtUEdwUm0wRlpaa0Vid2tMb1dkeElqRTRnT0phMFBsd1VCSG03?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNR05fbXk1Z3paWlRoaG5UbzhyNTFsT0lpVW44YUswcmlVa3RES0g0eDctVWRmVmZoT0VlTGFoNUI1Y29QV2NDSDV4eWY4Sm5rVnpJOXB3ZWY1TkhGZUtlRV9mZUtzaEhDbDAzaDBoTk9sODBGM0VqOWJXX2Q5WHVLcE5FNkhtMU05bWJlRkJETWFWd2g3OVlEdnVqZjhQTFN1WVMtdnJwUXpPN2h6Q081ZHdrTEJ5ak93N3Z6cTJoU0JtU2RKc3pnOVBlSUl4dGFISjJ0TDM4SC1jWHhoTUhpcW0xWFlfdTQtUEdwUm0wRlpaa0Vid2tMb1dkeElqRTRnT0phMFBsd1VCSG03?oc=5",
-      "publishedAt": "2026-07-22T12:31:00.000Z",
-      "source": "PR Newswire",
-      "_feedRegion": "global",
-      "_feedName": "Google News (Global)",
-      "_scoring": {
-        "score": 69,
-        "categories": [
-          "市場・資金",
-          "政策・インフラ"
-        ],
-        "breakdown": {
-          "required": true,
-          "market": {
-            "matches": 2,
-            "catScore": 25
-          },
-          "policy": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 20,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
       "title": "Around the Commercial Drone Industry: Organ Transport, Public Safety, Acquisitions",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQcUxGQnYyZ25sR3hEMXUwck5CMWthLWxkRE1HT0RIcmEzVGFRVzUzTGp0QkZwYmdUN09QbXQxVlNDS2xPd09sWkpuaVl2WXhjLXh2cmp1MU1uVlNrdzNOeWlGSTJtclhoTDRROWNYdmZnYzlnc0o5M0U2T1g5SlFzaUV3?oc=5\" target=\"_blank\">Around the Commercial Drone Industry: Organ Transport, Public Safety, Acquisitions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Commercial UAV News</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQcUxGQnYyZ25sR3hEMXUwck5CMWthLWxkRE1HT0RIcmEzVGFRVzUzTGp0QkZwYmdUN09QbXQxVlNDS2xPd09sWkpuaVl2WXhjLXh2cmp1MU1uVlNrdzNOeWlGSTJtclhoTDRROWNYdmZnYzlnc0o5M0U2T1g5SlFzaUV3?oc=5\" target=\"_blank\">Around the Commercial Drone Industry: Organ Transport, Public Safety, Acquisitions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Commercial UAV News</font>",
@@ -386,38 +387,37 @@
       }
     },
     {
-      "title": "「運搬」と「調査・点検」を掛け合わせた現場支援へ。マゼックスと石川エナジーリサーチが国産産業用ドローンで業務提携 - digital-construction.jp",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE9kWWZrTUtvcXpqdzU4Q2ZsSkdFOUJ0blRvWnFoZ0JTZTJzWGN2TnRIaTBTeGZicGxHbm5NZUFvSDJYSTd1aHkzRDZBcHhpYWNON2dJ?oc=5\" target=\"_blank\">「運搬」と「調査・点検」を掛け合わせた現場支援へ。マゼックスと石川エナジーリサーチが国産産業用ドローンで業務提携</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">digital-construction.jp</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE9kWWZrTUtvcXpqdzU4Q2ZsSkdFOUJ0blRvWnFoZ0JTZTJzWGN2TnRIaTBTeGZicGxHbm5NZUFvSDJYSTd1aHkzRDZBcHhpYWNON2dJ?oc=5\" target=\"_blank\">「運搬」と「調査・点検」を掛け合わせた現場支援へ。マゼックスと石川エナジーリサーチが国産産業用ドローンで業務提携</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">digital-construction.jp</font>",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9kWWZrTUtvcXpqdzU4Q2ZsSkdFOUJ0blRvWnFoZ0JTZTJzWGN2TnRIaTBTeGZicGxHbm5NZUFvSDJYSTd1aHkzRDZBcHhpYWNON2dJ?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9kWWZrTUtvcXpqdzU4Q2ZsSkdFOUJ0blRvWnFoZ0JTZTJzWGN2TnRIaTBTeGZicGxHbm5NZUFvSDJYSTd1aHkzRDZBcHhpYWNON2dJ?oc=5",
-      "publishedAt": "2026-07-16T04:55:28.000Z",
-      "source": "digital-construction.jp",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP 政策/実証)",
+      "title": "British Columbia vertiport concept unveiled",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNNFZhc1VZOXZyNG5hemE3eEh5N1lPWmk3Z3dqRmw0dmVTM2p3UmZQWC1CUmM0Z01VVEJYRkYzUFR1azU1R2VwWVg2c00yX1FOa2lGZkhobzZfZDJaNlFtc0RZalFlV3ZZS1dscDFnclJqTGtBdVdNWGFpUEFudmQ3c3U1Wms0VzVfS3Qwa1BGZWExckU?oc=5\" target=\"_blank\">British Columbia vertiport concept unveiled</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Airports International</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNNFZhc1VZOXZyNG5hemE3eEh5N1lPWmk3Z3dqRmw0dmVTM2p3UmZQWC1CUmM0Z01VVEJYRkYzUFR1azU1R2VwWVg2c00yX1FOa2lGZkhobzZfZDJaNlFtc0RZalFlV3ZZS1dscDFnclJqTGtBdVdNWGFpUEFudmQ3c3U1Wms0VzVfS3Qwa1BGZWExckU?oc=5\" target=\"_blank\">British Columbia vertiport concept unveiled</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Airports International</font>",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNFZhc1VZOXZyNG5hemE3eEh5N1lPWmk3Z3dqRmw0dmVTM2p3UmZQWC1CUmM0Z01VVEJYRkYzUFR1azU1R2VwWVg2c00yX1FOa2lGZkhobzZfZDJaNlFtc0RZalFlV3ZZS1dscDFnclJqTGtBdVdNWGFpUEFudmQ3c3U1Wms0VzVfS3Qwa1BGZWExckU?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNFZhc1VZOXZyNG5hemE3eEh5N1lPWmk3Z3dqRmw0dmVTM2p3UmZQWC1CUmM0Z01VVEJYRkYzUFR1azU1R2VwWVg2c00yX1FOa2lGZkhobzZfZDJaNlFtc0RZalFlV3ZZS1dscDFnclJqTGtBdVdNWGFpUEFudmQ3c3U1Wms0VzVfS3Qwa1BGZWExckU?oc=5",
+      "publishedAt": "2026-07-22T12:00:00.000Z",
+      "source": "Airports International",
+      "_feedRegion": "global",
+      "_feedName": "Google News (Global)",
       "_scoring": {
-        "score": 67,
+        "score": 65,
         "categories": [
           "市場・資金",
-          "事故・事件"
+          "政策・インフラ"
         ],
         "breakdown": {
           "required": true,
           "market": {
-            "matches": 2,
-            "catScore": 25
-          },
-          "incident": {
             "matches": 1,
-            "catScore": 28
+            "catScore": 20
+          },
+          "policy": {
+            "matches": 2,
+            "catScore": 30
           },
           "sourceTrust": {
             "domain": "news.google.com",
             "multiplier": 0.8
           },
-          "freshness": 0,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
+          "freshness": 15,
+          "titleBonus": 10
         },
         "pass": true
       }
@@ -460,23 +460,28 @@
       }
     },
     {
-      "title": "政府、海洋ドローンの民間需要を創出へ 離島監視や測位",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE1xTWpWY3oyT1FkcTZ3U2FpdXphQjREQTdFUlJNZ1pKUkxoRm9mRzY2cFNfaUtmd0poTWdPSHJ2NDZIOWtVSVIteERqZWk0LWpGWUh2OVU2QmxDUlFRY0IzZnFPeC1yTVVxdnprNg?oc=5\" target=\"_blank\">政府、海洋ドローンの民間需要を創出へ 離島監視や測位</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE1xTWpWY3oyT1FkcTZ3U2FpdXphQjREQTdFUlJNZ1pKUkxoRm9mRzY2cFNfaUtmd0poTWdPSHJ2NDZIOWtVSVIteERqZWk0LWpGWUh2OVU2QmxDUlFRY0IzZnFPeC1yTVVxdnprNg?oc=5\" target=\"_blank\">政府、海洋ドローンの民間需要を創出へ 離島監視や測位</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1xTWpWY3oyT1FkcTZ3U2FpdXphQjREQTdFUlJNZ1pKUkxoRm9mRzY2cFNfaUtmd0poTWdPSHJ2NDZIOWtVSVIteERqZWk0LWpGWUh2OVU2QmxDUlFRY0IzZnFPeC1yTVVxdnprNg?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1xTWpWY3oyT1FkcTZ3U2FpdXphQjREQTdFUlJNZ1pKUkxoRm9mRzY2cFNfaUtmd0poTWdPSHJ2NDZIOWtVSVIteERqZWk0LWpGWUh2OVU2QmxDUlFRY0IzZnFPeC1yTVVxdnprNg?oc=5",
-      "publishedAt": "2026-07-22T13:00:00.000Z",
-      "source": "日本経済新聞",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP 経済メディア)",
+      "title": "LightPath Technologies Receives $13 Million in Follow-On Optical Assembly Orders from Leading C-UAS & Defense Systems Supplier",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMijAJBVV95cUxNR05fbXk1Z3paWlRoaG5UbzhyNTFsT0lpVW44YUswcmlVa3RES0g0eDctVWRmVmZoT0VlTGFoNUI1Y29QV2NDSDV4eWY4Sm5rVnpJOXB3ZWY1TkhGZUtlRV9mZUtzaEhDbDAzaDBoTk9sODBGM0VqOWJXX2Q5WHVLcE5FNkhtMU05bWJlRkJETWFWd2g3OVlEdnVqZjhQTFN1WVMtdnJwUXpPN2h6Q081ZHdrTEJ5ak93N3Z6cTJoU0JtU2RKc3pnOVBlSUl4dGFISjJ0TDM4SC1jWHhoTUhpcW0xWFlfdTQtUEdwUm0wRlpaa0Vid2tMb1dkeElqRTRnT0phMFBsd1VCSG03?oc=5\" target=\"_blank\">LightPath Technologies Receives $13 Million in Follow-On Optical Assembly Orders from Leading C-UAS & Defense Systems Supplier</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR Newswire</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMijAJBVV95cUxNR05fbXk1Z3paWlRoaG5UbzhyNTFsT0lpVW44YUswcmlVa3RES0g0eDctVWRmVmZoT0VlTGFoNUI1Y29QV2NDSDV4eWY4Sm5rVnpJOXB3ZWY1TkhGZUtlRV9mZUtzaEhDbDAzaDBoTk9sODBGM0VqOWJXX2Q5WHVLcE5FNkhtMU05bWJlRkJETWFWd2g3OVlEdnVqZjhQTFN1WVMtdnJwUXpPN2h6Q081ZHdrTEJ5ak93N3Z6cTJoU0JtU2RKc3pnOVBlSUl4dGFISjJ0TDM4SC1jWHhoTUhpcW0xWFlfdTQtUEdwUm0wRlpaa0Vid2tMb1dkeElqRTRnT0phMFBsd1VCSG03?oc=5\" target=\"_blank\">LightPath Technologies Receives $13 Million in Follow-On Optical Assembly Orders from Leading C-UAS & Defense Systems Supplier</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR Newswire</font>",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNR05fbXk1Z3paWlRoaG5UbzhyNTFsT0lpVW44YUswcmlVa3RES0g0eDctVWRmVmZoT0VlTGFoNUI1Y29QV2NDSDV4eWY4Sm5rVnpJOXB3ZWY1TkhGZUtlRV9mZUtzaEhDbDAzaDBoTk9sODBGM0VqOWJXX2Q5WHVLcE5FNkhtMU05bWJlRkJETWFWd2g3OVlEdnVqZjhQTFN1WVMtdnJwUXpPN2h6Q081ZHdrTEJ5ak93N3Z6cTJoU0JtU2RKc3pnOVBlSUl4dGFISjJ0TDM4SC1jWHhoTUhpcW0xWFlfdTQtUEdwUm0wRlpaa0Vid2tMb1dkeElqRTRnT0phMFBsd1VCSG03?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNR05fbXk1Z3paWlRoaG5UbzhyNTFsT0lpVW44YUswcmlVa3RES0g0eDctVWRmVmZoT0VlTGFoNUI1Y29QV2NDSDV4eWY4Sm5rVnpJOXB3ZWY1TkhGZUtlRV9mZUtzaEhDbDAzaDBoTk9sODBGM0VqOWJXX2Q5WHVLcE5FNkhtMU05bWJlRkJETWFWd2g3OVlEdnVqZjhQTFN1WVMtdnJwUXpPN2h6Q081ZHdrTEJ5ak93N3Z6cTJoU0JtU2RKc3pnOVBlSUl4dGFISjJ0TDM4SC1jWHhoTUhpcW0xWFlfdTQtUEdwUm0wRlpaa0Vid2tMb1dkeElqRTRnT0phMFBsd1VCSG03?oc=5",
+      "publishedAt": "2026-07-22T12:31:00.000Z",
+      "source": "PR Newswire",
+      "_feedRegion": "global",
+      "_feedName": "Google News (Global)",
       "_scoring": {
         "score": 64,
         "categories": [
-          "技術・製品"
+          "市場・資金",
+          "政策・インフラ"
         ],
         "breakdown": {
           "required": true,
-          "technology": {
+          "market": {
+            "matches": 2,
+            "catScore": 25
+          },
+          "policy": {
             "matches": 1,
             "catScore": 24
           },
@@ -484,9 +489,8 @@
             "domain": "news.google.com",
             "multiplier": 0.8
           },
-          "freshness": 20,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
+          "freshness": 15,
+          "titleBonus": 10
         },
         "pass": true
       }
@@ -751,7 +755,7 @@
       "publishedAt": "2026-07-21T23:00:00.000Z",
       "source": "ITmedia",
       "_feedRegion": "jp",
-      "_feedName": "Google News (JP)",
+      "_feedName": "Google News (JP 政策/実証)",
       "_scoring": {
         "score": 61,
         "categories": [
@@ -917,13 +921,13 @@
       }
     },
     {
-      "title": "防衛装備庁、迎撃ドローンでテラドローンなど4社と実証へ 8月下旬の量産契約目指す",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE4yNE80VzhMb0hNYlNfZHBrQTJwRTBkdUVtb2wxcjZJNXZZeDZxUDJjNU55UlRPU1R4VlhKZkh2WUZtSC1QWkhYdGVVSFdybHgzVnF6OHhEd21GTF9Sby1vTWd5VEhEdjcySTBQOXdnaGUyQ0RX?oc=5\" target=\"_blank\">防衛装備庁、迎撃ドローンでテラドローンなど4社と実証へ 8月下旬の量産契約目指す</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BigGo ファイナンス</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE4yNE80VzhMb0hNYlNfZHBrQTJwRTBkdUVtb2wxcjZJNXZZeDZxUDJjNU55UlRPU1R4VlhKZkh2WUZtSC1QWkhYdGVVSFdybHgzVnF6OHhEd21GTF9Sby1vTWd5VEhEdjcySTBQOXdnaGUyQ0RX?oc=5\" target=\"_blank\">防衛装備庁、迎撃ドローンでテラドローンなど4社と実証へ 8月下旬の量産契約目指す</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BigGo ファイナンス</font>",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4yNE80VzhMb0hNYlNfZHBrQTJwRTBkdUVtb2wxcjZJNXZZeDZxUDJjNU55UlRPU1R4VlhKZkh2WUZtSC1QWkhYdGVVSFdybHgzVnF6OHhEd21GTF9Sby1vTWd5VEhEdjcySTBQOXdnaGUyQ0RX?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4yNE80VzhMb0hNYlNfZHBrQTJwRTBkdUVtb2wxcjZJNXZZeDZxUDJjNU55UlRPU1R4VlhKZkh2WUZtSC1QWkhYdGVVSFdybHgzVnF6OHhEd21GTF9Sby1vTWd5VEhEdjcySTBQOXdnaGUyQ0RX?oc=5",
-      "publishedAt": "2026-07-16T04:16:00.000Z",
-      "source": "BigGo ファイナンス",
+      "title": "【速報】エアバス、川重と防衛ドローン開発で提携",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE81UUlLR1BrTTI4U05rUG5PWGlmMzVZLW9nMjRjTkxmY3pwbUJOQWVadXRtdXpfZUJMVXZyaFN6LV9FbmtRYTdsNWlaTQ?oc=5\" target=\"_blank\">【速報】エアバス、川重と防衛ドローン開発で提携</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">47NEWS</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE81UUlLR1BrTTI4U05rUG5PWGlmMzVZLW9nMjRjTkxmY3pwbUJOQWVadXRtdXpfZUJMVXZyaFN6LV9FbmtRYTdsNWlaTQ?oc=5\" target=\"_blank\">【速報】エアバス、川重と防衛ドローン開発で提携</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">47NEWS</font>",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE81UUlLR1BrTTI4U05rUG5PWGlmMzVZLW9nMjRjTkxmY3pwbUJOQWVadXRtdXpfZUJMVXZyaFN6LV9FbmtRYTdsNWlaTQ?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE81UUlLR1BrTTI4U05rUG5PWGlmMzVZLW9nMjRjTkxmY3pwbUJOQWVadXRtdXpfZUJMVXZyaFN6LV9FbmtRYTdsNWlaTQ?oc=5",
+      "publishedAt": "2026-06-26T07:00:00.000Z",
+      "source": "47NEWS",
       "_feedRegion": "jp",
       "_feedName": "Google News (JP 政策/実証)",
       "_scoring": {
@@ -954,13 +958,13 @@
       }
     },
     {
-      "title": "【速報】エアバス、川重と防衛ドローン開発で提携",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE81UUlLR1BrTTI4U05rUG5PWGlmMzVZLW9nMjRjTkxmY3pwbUJOQWVadXRtdXpfZUJMVXZyaFN6LV9FbmtRYTdsNWlaTQ?oc=5\" target=\"_blank\">【速報】エアバス、川重と防衛ドローン開発で提携</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">47NEWS</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE81UUlLR1BrTTI4U05rUG5PWGlmMzVZLW9nMjRjTkxmY3pwbUJOQWVadXRtdXpfZUJMVXZyaFN6LV9FbmtRYTdsNWlaTQ?oc=5\" target=\"_blank\">【速報】エアバス、川重と防衛ドローン開発で提携</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">47NEWS</font>",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE81UUlLR1BrTTI4U05rUG5PWGlmMzVZLW9nMjRjTkxmY3pwbUJOQWVadXRtdXpfZUJMVXZyaFN6LV9FbmtRYTdsNWlaTQ?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE81UUlLR1BrTTI4U05rUG5PWGlmMzVZLW9nMjRjTkxmY3pwbUJOQWVadXRtdXpfZUJMVXZyaFN6LV9FbmtRYTdsNWlaTQ?oc=5",
-      "publishedAt": "2026-06-26T07:00:00.000Z",
-      "source": "47NEWS",
+      "title": "防衛装備庁、迎撃ドローンでテラドローンなど4社と実証へ 8月下旬の量産契約目指す",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE4yNE80VzhMb0hNYlNfZHBrQTJwRTBkdUVtb2wxcjZJNXZZeDZxUDJjNU55UlRPU1R4VlhKZkh2WUZtSC1QWkhYdGVVSFdybHgzVnF6OHhEd21GTF9Sby1vTWd5VEhEdjcySTBQOXdnaGUyQ0RX?oc=5\" target=\"_blank\">防衛装備庁、迎撃ドローンでテラドローンなど4社と実証へ 8月下旬の量産契約目指す</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BigGo ファイナンス</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE4yNE80VzhMb0hNYlNfZHBrQTJwRTBkdUVtb2wxcjZJNXZZeDZxUDJjNU55UlRPU1R4VlhKZkh2WUZtSC1QWkhYdGVVSFdybHgzVnF6OHhEd21GTF9Sby1vTWd5VEhEdjcySTBQOXdnaGUyQ0RX?oc=5\" target=\"_blank\">防衛装備庁、迎撃ドローンでテラドローンなど4社と実証へ 8月下旬の量産契約目指す</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BigGo ファイナンス</font>",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4yNE80VzhMb0hNYlNfZHBrQTJwRTBkdUVtb2wxcjZJNXZZeDZxUDJjNU55UlRPU1R4VlhKZkh2WUZtSC1QWkhYdGVVSFdybHgzVnF6OHhEd21GTF9Sby1vTWd5VEhEdjcySTBQOXdnaGUyQ0RX?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4yNE80VzhMb0hNYlNfZHBrQTJwRTBkdUVtb2wxcjZJNXZZeDZxUDJjNU55UlRPU1R4VlhKZkh2WUZtSC1QWkhYdGVVSFdybHgzVnF6OHhEd21GTF9Sby1vTWd5VEhEdjcySTBQOXdnaGUyQ0RX?oc=5",
+      "publishedAt": "2026-07-16T04:16:00.000Z",
+      "source": "BigGo ファイナンス",
       "_feedRegion": "jp",
       "_feedName": "Google News (JP 政策/実証)",
       "_scoring": {
