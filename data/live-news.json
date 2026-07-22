@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-22T16:22:24.636Z",
-  "rawCount": 702,
+  "generatedAt": "2026-07-22T18:11:25.068Z",
+  "rawCount": 704,
   "articles": [
     {
       "title": "海洋ドローンの民間需要、政府が創出へ 離島監視や資源調査に活用",
@@ -382,6 +382,43 @@
           },
           "freshness": 15,
           "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "「運搬」と「調査・点検」を掛け合わせた現場支援へ。マゼックスと石川エナジーリサーチが国産産業用ドローンで業務提携 - digital-construction.jp",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE9kWWZrTUtvcXpqdzU4Q2ZsSkdFOUJ0blRvWnFoZ0JTZTJzWGN2TnRIaTBTeGZicGxHbm5NZUFvSDJYSTd1aHkzRDZBcHhpYWNON2dJ?oc=5\" target=\"_blank\">「運搬」と「調査・点検」を掛け合わせた現場支援へ。マゼックスと石川エナジーリサーチが国産産業用ドローンで業務提携</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">digital-construction.jp</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE9kWWZrTUtvcXpqdzU4Q2ZsSkdFOUJ0blRvWnFoZ0JTZTJzWGN2TnRIaTBTeGZicGxHbm5NZUFvSDJYSTd1aHkzRDZBcHhpYWNON2dJ?oc=5\" target=\"_blank\">「運搬」と「調査・点検」を掛け合わせた現場支援へ。マゼックスと石川エナジーリサーチが国産産業用ドローンで業務提携</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">digital-construction.jp</font>",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9kWWZrTUtvcXpqdzU4Q2ZsSkdFOUJ0blRvWnFoZ0JTZTJzWGN2TnRIaTBTeGZicGxHbm5NZUFvSDJYSTd1aHkzRDZBcHhpYWNON2dJ?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9kWWZrTUtvcXpqdzU4Q2ZsSkdFOUJ0blRvWnFoZ0JTZTJzWGN2TnRIaTBTeGZicGxHbm5NZUFvSDJYSTd1aHkzRDZBcHhpYWNON2dJ?oc=5",
+      "publishedAt": "2026-07-16T04:55:28.000Z",
+      "source": "digital-construction.jp",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP 政策/実証)",
+      "_scoring": {
+        "score": 67,
+        "categories": [
+          "市場・資金",
+          "事故・事件"
+        ],
+        "breakdown": {
+          "required": true,
+          "market": {
+            "matches": 2,
+            "catScore": 25
+          },
+          "incident": {
+            "matches": 1,
+            "catScore": 28
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 0,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
         },
         "pass": true
       }
@@ -921,43 +958,6 @@
       }
     },
     {
-      "title": "【速報】エアバス、川重と防衛ドローン開発で提携",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE81UUlLR1BrTTI4U05rUG5PWGlmMzVZLW9nMjRjTkxmY3pwbUJOQWVadXRtdXpfZUJMVXZyaFN6LV9FbmtRYTdsNWlaTQ?oc=5\" target=\"_blank\">【速報】エアバス、川重と防衛ドローン開発で提携</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">47NEWS</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE81UUlLR1BrTTI4U05rUG5PWGlmMzVZLW9nMjRjTkxmY3pwbUJOQWVadXRtdXpfZUJMVXZyaFN6LV9FbmtRYTdsNWlaTQ?oc=5\" target=\"_blank\">【速報】エアバス、川重と防衛ドローン開発で提携</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">47NEWS</font>",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE81UUlLR1BrTTI4U05rUG5PWGlmMzVZLW9nMjRjTkxmY3pwbUJOQWVadXRtdXpfZUJMVXZyaFN6LV9FbmtRYTdsNWlaTQ?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE81UUlLR1BrTTI4U05rUG5PWGlmMzVZLW9nMjRjTkxmY3pwbUJOQWVadXRtdXpfZUJMVXZyaFN6LV9FbmtRYTdsNWlaTQ?oc=5",
-      "publishedAt": "2026-06-26T07:00:00.000Z",
-      "source": "47NEWS",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP 政策/実証)",
-      "_scoring": {
-        "score": 60,
-        "categories": [
-          "技術・製品",
-          "市場・資金"
-        ],
-        "breakdown": {
-          "required": true,
-          "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "market": {
-            "matches": 1,
-            "catScore": 20
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 0,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
       "title": "防衛装備庁、迎撃ドローンでテラドローンなど4社と実証へ 8月下旬の量産契約目指す",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE4yNE80VzhMb0hNYlNfZHBrQTJwRTBkdUVtb2wxcjZJNXZZeDZxUDJjNU55UlRPU1R4VlhKZkh2WUZtSC1QWkhYdGVVSFdybHgzVnF6OHhEd21GTF9Sby1vTWd5VEhEdjcySTBQOXdnaGUyQ0RX?oc=5\" target=\"_blank\">防衛装備庁、迎撃ドローンでテラドローンなど4社と実証へ 8月下旬の量産契約目指す</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BigGo ファイナンス</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE4yNE80VzhMb0hNYlNfZHBrQTJwRTBkdUVtb2wxcjZJNXZZeDZxUDJjNU55UlRPU1R4VlhKZkh2WUZtSC1QWkhYdGVVSFdybHgzVnF6OHhEd21GTF9Sby1vTWd5VEhEdjcySTBQOXdnaGUyQ0RX?oc=5\" target=\"_blank\">防衛装備庁、迎撃ドローンでテラドローンなど4社と実証へ 8月下旬の量産契約目指す</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BigGo ファイナンス</font>",
@@ -995,13 +995,50 @@
       }
     },
     {
-      "title": "エアバス、川重と防衛ドローン開発で提携",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9UQ1NMdTZCUmFCNjdaR1EtMU5XSkJmMllvYWRVUE9GM0R1U05XY3JMSms2ZjhoblFod25KcUpWdktuX0ljWVNOcXBDMHA5MGcxamVaeFltQWZVMWQxYjNVb0xFWQ?oc=5\" target=\"_blank\">エアバス、川重と防衛ドローン開発で提携</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">nippon.com</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9UQ1NMdTZCUmFCNjdaR1EtMU5XSkJmMllvYWRVUE9GM0R1U05XY3JMSms2ZjhoblFod25KcUpWdktuX0ljWVNOcXBDMHA5MGcxamVaeFltQWZVMWQxYjNVb0xFWQ?oc=5\" target=\"_blank\">エアバス、川重と防衛ドローン開発で提携</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">nippon.com</font>",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9UQ1NMdTZCUmFCNjdaR1EtMU5XSkJmMllvYWRVUE9GM0R1U05XY3JMSms2ZjhoblFod25KcUpWdktuX0ljWVNOcXBDMHA5MGcxamVaeFltQWZVMWQxYjNVb0xFWQ?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9UQ1NMdTZCUmFCNjdaR1EtMU5XSkJmMllvYWRVUE9GM0R1U05XY3JMSms2ZjhoblFod25KcUpWdktuX0ljWVNOcXBDMHA5MGcxamVaeFltQWZVMWQxYjNVb0xFWQ?oc=5",
+      "title": "【速報】エアバス、川重と防衛ドローン開発で提携",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE81UUlLR1BrTTI4U05rUG5PWGlmMzVZLW9nMjRjTkxmY3pwbUJOQWVadXRtdXpfZUJMVXZyaFN6LV9FbmtRYTdsNWlaTQ?oc=5\" target=\"_blank\">【速報】エアバス、川重と防衛ドローン開発で提携</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">47NEWS</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE81UUlLR1BrTTI4U05rUG5PWGlmMzVZLW9nMjRjTkxmY3pwbUJOQWVadXRtdXpfZUJMVXZyaFN6LV9FbmtRYTdsNWlaTQ?oc=5\" target=\"_blank\">【速報】エアバス、川重と防衛ドローン開発で提携</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">47NEWS</font>",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE81UUlLR1BrTTI4U05rUG5PWGlmMzVZLW9nMjRjTkxmY3pwbUJOQWVadXRtdXpfZUJMVXZyaFN6LV9FbmtRYTdsNWlaTQ?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE81UUlLR1BrTTI4U05rUG5PWGlmMzVZLW9nMjRjTkxmY3pwbUJOQWVadXRtdXpfZUJMVXZyaFN6LV9FbmtRYTdsNWlaTQ?oc=5",
       "publishedAt": "2026-06-26T07:00:00.000Z",
-      "source": "nippon.com",
+      "source": "47NEWS",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP 政策/実証)",
+      "_scoring": {
+        "score": 60,
+        "categories": [
+          "技術・製品",
+          "市場・資金"
+        ],
+        "breakdown": {
+          "required": true,
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "market": {
+            "matches": 1,
+            "catScore": 20
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 0,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "エアバス、川重と防衛ドローン開発で提携",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTFAzWVR6R1owY0VyWTlXdVdEX2czbzNmdVR2NngySDltNHJhVlVsN0h6RnFhTkFqbm5CS0R5eG5mUG1zOEY5aUtZRW8wTllCS2NueTR0RTFwLU8?oc=5\" target=\"_blank\">エアバス、川重と防衛ドローン開発で提携</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">京都新聞デジタル</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTFAzWVR6R1owY0VyWTlXdVdEX2czbzNmdVR2NngySDltNHJhVlVsN0h6RnFhTkFqbm5CS0R5eG5mUG1zOEY5aUtZRW8wTllCS2NueTR0RTFwLU8?oc=5\" target=\"_blank\">エアバス、川重と防衛ドローン開発で提携</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">京都新聞デジタル</font>",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAzWVR6R1owY0VyWTlXdVdEX2czbzNmdVR2NngySDltNHJhVlVsN0h6RnFhTkFqbm5CS0R5eG5mUG1zOEY5aUtZRW8wTllCS2NueTR0RTFwLU8?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAzWVR6R1owY0VyWTlXdVdEX2czbzNmdVR2NngySDltNHJhVlVsN0h6RnFhTkFqbm5CS0R5eG5mUG1zOEY5aUtZRW8wTllCS2NueTR0RTFwLU8?oc=5",
+      "publishedAt": "2026-06-26T07:00:00.000Z",
+      "source": "京都新聞デジタル",
       "_feedRegion": "jp",
       "_feedName": "Google News (JP 政策/実証)",
       "_scoring": {
@@ -1041,43 +1078,6 @@
       "source": "nnn.co.jp",
       "_feedRegion": "jp",
       "_feedName": "Google News (JP 政策/実証)",
-      "_scoring": {
-        "score": 60,
-        "categories": [
-          "技術・製品",
-          "市場・資金"
-        ],
-        "breakdown": {
-          "required": true,
-          "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "market": {
-            "matches": 1,
-            "catScore": 20
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 0,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "Autonomy HD、次世代の「Surveyor」シリーズを公開。係留型ハイブリッド機と半固体電池採用の重量物搬送機 [国際ドローン展2026]",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE1zdno1dnZzdEpHcFNlN0J5bGxlc0tVT3BsSHVXeDhpclllZXlvY3p1MWM2MUFPSVNNLTRsdHYxVHUyOUZkOVVNZnltSDRXRl9VdlJDanVFLXNBUTRJS3dv?oc=5\" target=\"_blank\">Autonomy HD、次世代の「Surveyor」シリーズを公開。係留型ハイブリッド機と半固体電池採用の重量物搬送機 [国際ドローン展2026]</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DRONE.jp</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE1zdno1dnZzdEpHcFNlN0J5bGxlc0tVT3BsSHVXeDhpclllZXlvY3p1MWM2MUFPSVNNLTRsdHYxVHUyOUZkOVVNZnltSDRXRl9VdlJDanVFLXNBUTRJS3dv?oc=5\" target=\"_blank\">Autonomy HD、次世代の「Surveyor」シリーズを公開。係留型ハイブリッド機と半固体電池採用の重量物搬送機 [国際ドローン展2026]</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DRONE.jp</font>",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1zdno1dnZzdEpHcFNlN0J5bGxlc0tVT3BsSHVXeDhpclllZXlvY3p1MWM2MUFPSVNNLTRsdHYxVHUyOUZkOVVNZnltSDRXRl9VdlJDanVFLXNBUTRJS3dv?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1zdno1dnZzdEpHcFNlN0J5bGxlc0tVT3BsSHVXeDhpclllZXlvY3p1MWM2MUFPSVNNLTRsdHYxVHUyOUZkOVVNZnltSDRXRl9VdlJDanVFLXNBUTRJS3dv?oc=5",
-      "publishedAt": "2026-07-17T07:13:53.000Z",
-      "source": "DRONE.jp",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP ドローン専門)",
       "_scoring": {
         "score": 60,
         "categories": [
