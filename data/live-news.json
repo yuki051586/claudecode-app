@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-22T20:13:31.353Z",
+  "generatedAt": "2026-07-22T22:08:06.748Z",
   "rawCount": 706,
   "articles": [
     {
@@ -33,43 +33,6 @@
             "multiplier": 0.8
           },
           "freshness": 15,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "SkyDrive、印キネコと空飛ぶクルマ量産へ提携",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTFBRZUJfVHVabFMxZWdhd2FyX2g0NlBvVnJjelI4Z3pseUhTY2c5RzRaOVc5QVZjLVdaX01DTkhKX3h3ZlFGdzkyUA?oc=5\" target=\"_blank\">SkyDrive、印キネコと空飛ぶクルマ量産へ提携</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LOGISTICS TODAY</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTFBRZUJfVHVabFMxZWdhd2FyX2g0NlBvVnJjelI4Z3pseUhTY2c5RzRaOVc5QVZjLVdaX01DTkhKX3h3ZlFGdzkyUA?oc=5\" target=\"_blank\">SkyDrive、印キネコと空飛ぶクルマ量産へ提携</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LOGISTICS TODAY</font>",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBRZUJfVHVabFMxZWdhd2FyX2g0NlBvVnJjelI4Z3pseUhTY2c5RzRaOVc5QVZjLVdaX01DTkhKX3h3ZlFGdzkyUA?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBRZUJfVHVabFMxZWdhd2FyX2g0NlBvVnJjelI4Z3pseUhTY2c5RzRaOVc5QVZjLVdaX01DTkhKX3h3ZlFGdzkyUA?oc=5",
-      "publishedAt": "2026-07-22T18:22:30.000Z",
-      "source": "LOGISTICS TODAY",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP 政策/実証)",
-      "_scoring": {
-        "score": 80,
-        "categories": [
-          "技術・製品",
-          "市場・資金"
-        ],
-        "breakdown": {
-          "required": true,
-          "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "market": {
-            "matches": 1,
-            "catScore": 20
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 20,
           "titleBonus": 10,
           "jpRegionBonus": 15
         },
@@ -113,6 +76,43 @@
           },
           "freshness": 5,
           "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "SkyDrive、印キネコと空飛ぶクルマ量産へ提携",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTFBRZUJfVHVabFMxZWdhd2FyX2g0NlBvVnJjelI4Z3pseUhTY2c5RzRaOVc5QVZjLVdaX01DTkhKX3h3ZlFGdzkyUA?oc=5\" target=\"_blank\">SkyDrive、印キネコと空飛ぶクルマ量産へ提携</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LOGISTICS TODAY</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTFBRZUJfVHVabFMxZWdhd2FyX2g0NlBvVnJjelI4Z3pseUhTY2c5RzRaOVc5QVZjLVdaX01DTkhKX3h3ZlFGdzkyUA?oc=5\" target=\"_blank\">SkyDrive、印キネコと空飛ぶクルマ量産へ提携</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LOGISTICS TODAY</font>",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBRZUJfVHVabFMxZWdhd2FyX2g0NlBvVnJjelI4Z3pseUhTY2c5RzRaOVc5QVZjLVdaX01DTkhKX3h3ZlFGdzkyUA?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBRZUJfVHVabFMxZWdhd2FyX2g0NlBvVnJjelI4Z3pseUhTY2c5RzRaOVc5QVZjLVdaX01DTkhKX3h3ZlFGdzkyUA?oc=5",
+      "publishedAt": "2026-07-22T18:22:30.000Z",
+      "source": "LOGISTICS TODAY",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP 政策/実証)",
+      "_scoring": {
+        "score": 75,
+        "categories": [
+          "技術・製品",
+          "市場・資金"
+        ],
+        "breakdown": {
+          "required": true,
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "market": {
+            "matches": 1,
+            "catScore": 20
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 15,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
         },
         "pass": true
       }
@@ -200,43 +200,6 @@
       }
     },
     {
-      "title": "国交省、主要8空港周辺のドローン飛行禁止区域を拡大 羽田・伊丹などで約1kmに",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTFBPQjBsRTZjRjUzTmJ3dkh4MlZlenBpU2FqTEhYazRpVHFiOGRENFAxUm9WcnpOTlRhRnZqLTUwcF9fT1lXVzFQMjRTZFRNU3M?oc=5\" target=\"_blank\">国交省、主要8空港周辺のドローン飛行禁止区域を拡大 羽田・伊丹などで約1kmに</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FlyTeam</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTFBPQjBsRTZjRjUzTmJ3dkh4MlZlenBpU2FqTEhYazRpVHFiOGRENFAxUm9WcnpOTlRhRnZqLTUwcF9fT1lXVzFQMjRTZFRNU3M?oc=5\" target=\"_blank\">国交省、主要8空港周辺のドローン飛行禁止区域を拡大 羽田・伊丹などで約1kmに</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FlyTeam</font>",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBPQjBsRTZjRjUzTmJ3dkh4MlZlenBpU2FqTEhYazRpVHFiOGRENFAxUm9WcnpOTlRhRnZqLTUwcF9fT1lXVzFQMjRTZFRNU3M?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBPQjBsRTZjRjUzTmJ3dkh4MlZlenBpU2FqTEhYazRpVHFiOGRENFAxUm9WcnpOTlRhRnZqLTUwcF9fT1lXVzFQMjRTZFRNU3M?oc=5",
-      "publishedAt": "2026-07-13T07:00:00.000Z",
-      "source": "FlyTeam",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP 政策/実証)",
-      "_scoring": {
-        "score": 70,
-        "categories": [
-          "規制・政策",
-          "政策・インフラ"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 1,
-            "catScore": 32
-          },
-          "policy": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 0,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
       "title": "Prodrone、第一種型式認証取得目前の「PD6B-CAT3」披露。純国産ブランド「サムライテック」を立ち上げへ [Japan Drone 2026]",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5MNlZzOVBGUTlTdzFzc2huWVVZT3EtR0o3SUtnSzJhR2NnSXpRN0lyR3FEOUtoN0hKek8wa0NHNDNjSUwzdFFIcUp5RVJoWUZKcTFtMnNxMi1iVzNVVHdV?oc=5\" target=\"_blank\">Prodrone、第一種型式認証取得目前の「PD6B-CAT3」披露。純国産ブランド「サムライテック」を立ち上げへ [Japan Drone 2026]</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DRONE.jp</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5MNlZzOVBGUTlTdzFzc2huWVVZT3EtR0o3SUtnSzJhR2NnSXpRN0lyR3FEOUtoN0hKek8wa0NHNDNjSUwzdFFIcUp5RVJoWUZKcTFtMnNxMi1iVzNVVHdV?oc=5\" target=\"_blank\">Prodrone、第一種型式認証取得目前の「PD6B-CAT3」披露。純国産ブランド「サムライテック」を立ち上げへ [Japan Drone 2026]</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DRONE.jp</font>",
@@ -309,42 +272,6 @@
             "multiplier": 0.8
           },
           "freshness": 0,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "Kratos Secures Potential $156M DOE Solar Shield C-UAS Contract",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxONUUtZkc4Wm84bGpYNk9xSHM3cFlWYTN1dzIwaDhsNmVDNUZvZlRCZjNaNFpRMGhfRHZ0NkpPN3BYbnljb1FTWXVRZ2RuY0xNdUtLZW9MeHZHcDJCLXpoTzB4WFpDMjcyNF81LURkbEMyb1k5OThfUmV5S3dWa2FESFJqOVhmVkRua1BCWg?oc=5\" target=\"_blank\">Kratos Secures Potential $156M DOE Solar Shield C-UAS Contract</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GovCon Wire</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxONUUtZkc4Wm84bGpYNk9xSHM3cFlWYTN1dzIwaDhsNmVDNUZvZlRCZjNaNFpRMGhfRHZ0NkpPN3BYbnljb1FTWXVRZ2RuY0xNdUtLZW9MeHZHcDJCLXpoTzB4WFpDMjcyNF81LURkbEMyb1k5OThfUmV5S3dWa2FESFJqOVhmVkRua1BCWg?oc=5\" target=\"_blank\">Kratos Secures Potential $156M DOE Solar Shield C-UAS Contract</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GovCon Wire</font>",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONUUtZkc4Wm84bGpYNk9xSHM3cFlWYTN1dzIwaDhsNmVDNUZvZlRCZjNaNFpRMGhfRHZ0NkpPN3BYbnljb1FTWXVRZ2RuY0xNdUtLZW9MeHZHcDJCLXpoTzB4WFpDMjcyNF81LURkbEMyb1k5OThfUmV5S3dWa2FESFJqOVhmVkRua1BCWg?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONUUtZkc4Wm84bGpYNk9xSHM3cFlWYTN1dzIwaDhsNmVDNUZvZlRCZjNaNFpRMGhfRHZ0NkpPN3BYbnljb1FTWXVRZ2RuY0xNdUtLZW9MeHZHcDJCLXpoTzB4WFpDMjcyNF81LURkbEMyb1k5OThfUmV5S3dWa2FESFJqOVhmVkRua1BCWg?oc=5",
-      "publishedAt": "2026-07-22T09:18:38.000Z",
-      "source": "GovCon Wire",
-      "_feedRegion": "global",
-      "_feedName": "Google News (Global)",
-      "_scoring": {
-        "score": 67,
-        "categories": [
-          "規制・政策",
-          "市場・資金"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 1,
-            "catScore": 32
-          },
-          "market": {
-            "matches": 1,
-            "catScore": 20
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 15,
           "titleBonus": 10
         },
         "pass": true
@@ -496,13 +423,13 @@
       }
     },
     {
-      "title": "プロドローン ドローンで港湾点検支援 水中インフラ向けシステム開発 - chukei-news.co.jp",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE1LVGo3UE9NTW14Wll1Ni1nUEl2cGpQenRZSjFNM1pGZW5rS0FaUEZiNFVZNjNiYmg4UkNYSUZHWC1Sc2dFcFVJYmFQMDhZajExbjl6X1ZxOEZZM0RyUEFLS1ZvXzk4WG1lQW9QNXZQWlhMZDQ?oc=5\" target=\"_blank\">プロドローン ドローンで港湾点検支援 水中インフラ向けシステム開発</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">chukei-news.co.jp</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE1LVGo3UE9NTW14Wll1Ni1nUEl2cGpQenRZSjFNM1pGZW5rS0FaUEZiNFVZNjNiYmg4UkNYSUZHWC1Sc2dFcFVJYmFQMDhZajExbjl6X1ZxOEZZM0RyUEFLS1ZvXzk4WG1lQW9QNXZQWlhMZDQ?oc=5\" target=\"_blank\">プロドローン ドローンで港湾点検支援 水中インフラ向けシステム開発</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">chukei-news.co.jp</font>",
+      "title": "プロドローン ドローンで港湾点検支援 水中インフラ向けシステム開発",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE1LVGo3UE9NTW14Wll1Ni1nUEl2cGpQenRZSjFNM1pGZW5rS0FaUEZiNFVZNjNiYmg4UkNYSUZHWC1Sc2dFcFVJYmFQMDhZajExbjl6X1ZxOEZZM0RyUEFLS1ZvXzk4WG1lQW9QNXZQWlhMZDQ?oc=5\" target=\"_blank\">プロドローン ドローンで港湾点検支援 水中インフラ向けシステム開発</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">中部経済新聞</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE1LVGo3UE9NTW14Wll1Ni1nUEl2cGpQenRZSjFNM1pGZW5rS0FaUEZiNFVZNjNiYmg4UkNYSUZHWC1Sc2dFcFVJYmFQMDhZajExbjl6X1ZxOEZZM0RyUEFLS1ZvXzk4WG1lQW9QNXZQWlhMZDQ?oc=5\" target=\"_blank\">プロドローン ドローンで港湾点検支援 水中インフラ向けシステム開発</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">中部経済新聞</font>",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1LVGo3UE9NTW14Wll1Ni1nUEl2cGpQenRZSjFNM1pGZW5rS0FaUEZiNFVZNjNiYmg4UkNYSUZHWC1Sc2dFcFVJYmFQMDhZajExbjl6X1ZxOEZZM0RyUEFLS1ZvXzk4WG1lQW9QNXZQWlhMZDQ?oc=5",
       "googleNewsUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1LVGo3UE9NTW14Wll1Ni1nUEl2cGpQenRZSjFNM1pGZW5rS0FaUEZiNFVZNjNiYmg4UkNYSUZHWC1Sc2dFcFVJYmFQMDhZajExbjl6X1ZxOEZZM0RyUEFLS1ZvXzk4WG1lQW9QNXZQWlhMZDQ?oc=5",
       "publishedAt": "2026-07-16T20:16:51.000Z",
-      "source": "chukei-news.co.jp",
+      "source": "中部経済新聞",
       "_feedRegion": "jp",
       "_feedName": "Google News (JP 事業者/実装)",
       "_scoring": {
@@ -570,38 +497,37 @@
       }
     },
     {
-      "title": "プロドローン ドローンで港湾点検支援 水中インフラ向けシステム開発",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE5PYW9EU1Y1WmRBWFBHWHp4RE93VlN6VFRzV1JUeFYtdThOcHgwTkxnV1RseTdTNzkzQWdteVVLd2kxT0NqWHlWWGdTYw?oc=5\" target=\"_blank\">プロドローン ドローンで港湾点検支援 水中インフラ向けシステム開発</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">47NEWS</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE5PYW9EU1Y1WmRBWFBHWHp4RE93VlN6VFRzV1JUeFYtdThOcHgwTkxnV1RseTdTNzkzQWdteVVLd2kxT0NqWHlWWGdTYw?oc=5\" target=\"_blank\">プロドローン ドローンで港湾点検支援 水中インフラ向けシステム開発</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">47NEWS</font>",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5PYW9EU1Y1WmRBWFBHWHp4RE93VlN6VFRzV1JUeFYtdThOcHgwTkxnV1RseTdTNzkzQWdteVVLd2kxT0NqWHlWWGdTYw?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5PYW9EU1Y1WmRBWFBHWHp4RE93VlN6VFRzV1JUeFYtdThOcHgwTkxnV1RseTdTNzkzQWdteVVLd2kxT0NqWHlWWGdTYw?oc=5",
-      "publishedAt": "2026-07-16T20:00:00.000Z",
-      "source": "47NEWS",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP 事業者/実装)",
+      "title": "Kratos Secures Potential $156M DOE Solar Shield C-UAS Contract",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxONUUtZkc4Wm84bGpYNk9xSHM3cFlWYTN1dzIwaDhsNmVDNUZvZlRCZjNaNFpRMGhfRHZ0NkpPN3BYbnljb1FTWXVRZ2RuY0xNdUtLZW9MeHZHcDJCLXpoTzB4WFpDMjcyNF81LURkbEMyb1k5OThfUmV5S3dWa2FESFJqOVhmVkRua1BCWg?oc=5\" target=\"_blank\">Kratos Secures Potential $156M DOE Solar Shield C-UAS Contract</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GovCon Wire</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxONUUtZkc4Wm84bGpYNk9xSHM3cFlWYTN1dzIwaDhsNmVDNUZvZlRCZjNaNFpRMGhfRHZ0NkpPN3BYbnljb1FTWXVRZ2RuY0xNdUtLZW9MeHZHcDJCLXpoTzB4WFpDMjcyNF81LURkbEMyb1k5OThfUmV5S3dWa2FESFJqOVhmVkRua1BCWg?oc=5\" target=\"_blank\">Kratos Secures Potential $156M DOE Solar Shield C-UAS Contract</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GovCon Wire</font>",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONUUtZkc4Wm84bGpYNk9xSHM3cFlWYTN1dzIwaDhsNmVDNUZvZlRCZjNaNFpRMGhfRHZ0NkpPN3BYbnljb1FTWXVRZ2RuY0xNdUtLZW9MeHZHcDJCLXpoTzB4WFpDMjcyNF81LURkbEMyb1k5OThfUmV5S3dWa2FESFJqOVhmVkRua1BCWg?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONUUtZkc4Wm84bGpYNk9xSHM3cFlWYTN1dzIwaDhsNmVDNUZvZlRCZjNaNFpRMGhfRHZ0NkpPN3BYbnljb1FTWXVRZ2RuY0xNdUtLZW9MeHZHcDJCLXpoTzB4WFpDMjcyNF81LURkbEMyb1k5OThfUmV5S3dWa2FESFJqOVhmVkRua1BCWg?oc=5",
+      "publishedAt": "2026-07-22T09:18:38.000Z",
+      "source": "GovCon Wire",
+      "_feedRegion": "global",
+      "_feedName": "Google News (Global)",
       "_scoring": {
-        "score": 63,
+        "score": 62,
         "categories": [
-          "技術・製品",
-          "政策・インフラ"
+          "規制・政策",
+          "市場・資金"
         ],
         "breakdown": {
           "required": true,
-          "technology": {
+          "regulation": {
             "matches": 1,
-            "catScore": 24
+            "catScore": 32
           },
-          "policy": {
+          "market": {
             "matches": 1,
-            "catScore": 24
+            "catScore": 20
           },
           "sourceTrust": {
             "domain": "news.google.com",
             "multiplier": 0.8
           },
-          "freshness": 0,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
+          "freshness": 10,
+          "titleBonus": 10
         },
         "pass": true
       }
@@ -670,42 +596,6 @@
           "freshness": 10,
           "titleBonus": 10,
           "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "Lockheed Martin introduces PAC-3 ACE interceptor, MORFIUS X-Rotor counter-UAS system",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxOY1BXaXhwejktQ2VNZXA2cmJfYjZ4ek90a3AtVEcxeE9mZzhhd0RJV2wzT2t3dFA4Y21vTGRXazFnSkNBNXBCamo4ZlRHRjRYdTg5ZS1pYVdkMGdYeHdtUmVMVTFrWWhONU54cDBOd0RsYVZkbUJGdVVTWjZFSFEzeXN6ZklkbGRSNG4zNVpGQVJNcGlsLWUzVmJ6Wll6V2ZwSEVCbEdseU5LaXRabkNPbGFPdzVyd25TRnl1a3NzS1FZdjZIRE9GLVo1dWNyd1JXUElkVkdR?oc=5\" target=\"_blank\">Lockheed Martin introduces PAC-3 ACE interceptor, MORFIUS X-Rotor counter-UAS system</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Military Aerospace</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxOY1BXaXhwejktQ2VNZXA2cmJfYjZ4ek90a3AtVEcxeE9mZzhhd0RJV2wzT2t3dFA4Y21vTGRXazFnSkNBNXBCamo4ZlRHRjRYdTg5ZS1pYVdkMGdYeHdtUmVMVTFrWWhONU54cDBOd0RsYVZkbUJGdVVTWjZFSFEzeXN6ZklkbGRSNG4zNVpGQVJNcGlsLWUzVmJ6Wll6V2ZwSEVCbEdseU5LaXRabkNPbGFPdzVyd25TRnl1a3NzS1FZdjZIRE9GLVo1dWNyd1JXUElkVkdR?oc=5\" target=\"_blank\">Lockheed Martin introduces PAC-3 ACE interceptor, MORFIUS X-Rotor counter-UAS system</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Military Aerospace</font>",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOY1BXaXhwejktQ2VNZXA2cmJfYjZ4ek90a3AtVEcxeE9mZzhhd0RJV2wzT2t3dFA4Y21vTGRXazFnSkNBNXBCamo4ZlRHRjRYdTg5ZS1pYVdkMGdYeHdtUmVMVTFrWWhONU54cDBOd0RsYVZkbUJGdVVTWjZFSFEzeXN6ZklkbGRSNG4zNVpGQVJNcGlsLWUzVmJ6Wll6V2ZwSEVCbEdseU5LaXRabkNPbGFPdzVyd25TRnl1a3NzS1FZdjZIRE9GLVo1dWNyd1JXUElkVkdR?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOY1BXaXhwejktQ2VNZXA2cmJfYjZ4ek90a3AtVEcxeE9mZzhhd0RJV2wzT2t3dFA4Y21vTGRXazFnSkNBNXBCamo4ZlRHRjRYdTg5ZS1pYVdkMGdYeHdtUmVMVTFrWWhONU54cDBOd0RsYVZkbUJGdVVTWjZFSFEzeXN6ZklkbGRSNG4zNVpGQVJNcGlsLWUzVmJ6Wll6V2ZwSEVCbEdseU5LaXRabkNPbGFPdzVyd25TRnl1a3NzS1FZdjZIRE9GLVo1dWNyd1JXUElkVkdR?oc=5",
-      "publishedAt": "2026-07-22T08:32:49.000Z",
-      "source": "Military Aerospace",
-      "_feedRegion": "global",
-      "_feedName": "Google News (Global)",
-      "_scoring": {
-        "score": 60,
-        "categories": [
-          "市場・資金",
-          "政策・インフラ"
-        ],
-        "breakdown": {
-          "required": true,
-          "market": {
-            "matches": 1,
-            "catScore": 20
-          },
-          "policy": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 15,
-          "titleBonus": 10
         },
         "pass": true
       }
@@ -860,12 +750,12 @@
     },
     {
       "title": "エアバス、川重と防衛ドローン開発で提携",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTFAzWVR6R1owY0VyWTlXdVdEX2czbzNmdVR2NngySDltNHJhVlVsN0h6RnFhTkFqbm5CS0R5eG5mUG1zOEY5aUtZRW8wTllCS2NueTR0RTFwLU8?oc=5\" target=\"_blank\">エアバス、川重と防衛ドローン開発で提携</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">京都新聞デジタル</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTFAzWVR6R1owY0VyWTlXdVdEX2czbzNmdVR2NngySDltNHJhVlVsN0h6RnFhTkFqbm5CS0R5eG5mUG1zOEY5aUtZRW8wTllCS2NueTR0RTFwLU8?oc=5\" target=\"_blank\">エアバス、川重と防衛ドローン開発で提携</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">京都新聞デジタル</font>",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAzWVR6R1owY0VyWTlXdVdEX2czbzNmdVR2NngySDltNHJhVlVsN0h6RnFhTkFqbm5CS0R5eG5mUG1zOEY5aUtZRW8wTllCS2NueTR0RTFwLU8?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAzWVR6R1owY0VyWTlXdVdEX2czbzNmdVR2NngySDltNHJhVlVsN0h6RnFhTkFqbm5CS0R5eG5mUG1zOEY5aUtZRW8wTllCS2NueTR0RTFwLU8?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9UQ1NMdTZCUmFCNjdaR1EtMU5XSkJmMllvYWRVUE9GM0R1U05XY3JMSms2ZjhoblFod25KcUpWdktuX0ljWVNOcXBDMHA5MGcxamVaeFltQWZVMWQxYjNVb0xFWQ?oc=5\" target=\"_blank\">エアバス、川重と防衛ドローン開発で提携</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">nippon.com</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9UQ1NMdTZCUmFCNjdaR1EtMU5XSkJmMllvYWRVUE9GM0R1U05XY3JMSms2ZjhoblFod25KcUpWdktuX0ljWVNOcXBDMHA5MGcxamVaeFltQWZVMWQxYjNVb0xFWQ?oc=5\" target=\"_blank\">エアバス、川重と防衛ドローン開発で提携</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">nippon.com</font>",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9UQ1NMdTZCUmFCNjdaR1EtMU5XSkJmMllvYWRVUE9GM0R1U05XY3JMSms2ZjhoblFod25KcUpWdktuX0ljWVNOcXBDMHA5MGcxamVaeFltQWZVMWQxYjNVb0xFWQ?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9UQ1NMdTZCUmFCNjdaR1EtMU5XSkJmMllvYWRVUE9GM0R1U05XY3JMSms2ZjhoblFod25KcUpWdktuX0ljWVNOcXBDMHA5MGcxamVaeFltQWZVMWQxYjNVb0xFWQ?oc=5",
       "publishedAt": "2026-06-26T07:00:00.000Z",
-      "source": "京都新聞デジタル",
+      "source": "nippon.com",
       "_feedRegion": "jp",
       "_feedName": "Google News (JP 政策/実証)",
       "_scoring": {
@@ -963,38 +853,6 @@
             "multiplier": 0.8
           },
           "freshness": 0,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "SkyDrive、台湾の救急医療搬送への空飛ぶクルマ活用で現地研究開発機関などと連携強化 - LOGI-BIZ online",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTFBKTlhtUnhqX2d1bXpXQ3NCdkxKUVV4aGFfaVlnT05FcnN2X0RMRHVuVnM4bV9SakdWYm1TUUk0YzA0RWp6Uy1VNHJJQQ?oc=5\" target=\"_blank\">SkyDrive、台湾の救急医療搬送への空飛ぶクルマ活用で現地研究開発機関などと連携強化</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LOGI-BIZ online</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTFBKTlhtUnhqX2d1bXpXQ3NCdkxKUVV4aGFfaVlnT05FcnN2X0RMRHVuVnM4bV9SakdWYm1TUUk0YzA0RWp6Uy1VNHJJQQ?oc=5\" target=\"_blank\">SkyDrive、台湾の救急医療搬送への空飛ぶクルマ活用で現地研究開発機関などと連携強化</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LOGI-BIZ online</font>",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBKTlhtUnhqX2d1bXpXQ3NCdkxKUVV4aGFfaVlnT05FcnN2X0RMRHVuVnM4bV9SakdWYm1TUUk0YzA0RWp6Uy1VNHJJQQ?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBKTlhtUnhqX2d1bXpXQ3NCdkxKUVV4aGFfaVlnT05FcnN2X0RMRHVuVnM4bV9SakdWYm1TUUk0YzA0RWp6Uy1VNHJJQQ?oc=5",
-      "publishedAt": "2026-07-22T08:53:28.000Z",
-      "source": "LOGI-BIZ online",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP)",
-      "_scoring": {
-        "score": 59,
-        "categories": [
-          "技術・製品"
-        ],
-        "breakdown": {
-          "required": true,
-          "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 15,
           "titleBonus": 10,
           "jpRegionBonus": 15
         },
@@ -1101,6 +959,138 @@
           },
           "freshness": 2,
           "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "Dronedesk introduces fully automated SORA implementation for BVLOS operations",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQZ1Y2TExZYmVqaGhRN1k1ekZ3RThqX0N3WGFPeVpsMU53VmF4S2RvOTNIb0NuYTE5RWc3R29PdmE4Ti1ja1hYdVpfTnVsMmpoZjZfRXpxazBIbjlDY0NOaEl5Q2RNQm93NVRtSE1FYkhMSUNFZVJ3SUZ0N0VVX3owOEZzVzNod2RkRUpDUTlqNFZCUEdiSG1TNzFJSnM0VjZNQ3ZjNDdqOVlObXo5TXItdmwwbkRzQnNCUll1LUladkJuVUc1?oc=5\" target=\"_blank\">Dronedesk introduces fully automated SORA implementation for BVLOS operations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQZ1Y2TExZYmVqaGhRN1k1ekZ3RThqX0N3WGFPeVpsMU53VmF4S2RvOTNIb0NuYTE5RWc3R29PdmE4Ti1ja1hYdVpfTnVsMmpoZjZfRXpxazBIbjlDY0NOaEl5Q2RNQm93NVRtSE1FYkhMSUNFZVJ3SUZ0N0VVX3owOEZzVzNod2RkRUpDUTlqNFZCUEdiSG1TNzFJSnM0VjZNQ3ZjNDdqOVlObXo5TXItdmwwbkRzQnNCUll1LUladkJuVUc1?oc=5\" target=\"_blank\">Dronedesk introduces fully automated SORA implementation for BVLOS operations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZ1Y2TExZYmVqaGhRN1k1ekZ3RThqX0N3WGFPeVpsMU53VmF4S2RvOTNIb0NuYTE5RWc3R29PdmE4Ti1ja1hYdVpfTnVsMmpoZjZfRXpxazBIbjlDY0NOaEl5Q2RNQm93NVRtSE1FYkhMSUNFZVJ3SUZ0N0VVX3owOEZzVzNod2RkRUpDUTlqNFZCUEdiSG1TNzFJSnM0VjZNQ3ZjNDdqOVlObXo5TXItdmwwbkRzQnNCUll1LUladkJuVUc1?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZ1Y2TExZYmVqaGhRN1k1ekZ3RThqX0N3WGFPeVpsMU53VmF4S2RvOTNIb0NuYTE5RWc3R29PdmE4Ti1ja1hYdVpfTnVsMmpoZjZfRXpxazBIbjlDY0NOaEl5Q2RNQm93NVRtSE1FYkhMSUNFZVJ3SUZ0N0VVX3owOEZzVzNod2RkRUpDUTlqNFZCUEdiSG1TNzFJSnM0VjZNQ3ZjNDdqOVlObXo5TXItdmwwbkRzQnNCUll1LUladkJuVUc1?oc=5",
+      "publishedAt": "2026-07-21T07:51:22.000Z",
+      "source": "Unmanned airspace",
+      "_feedRegion": "eu",
+      "_feedName": "EASA",
+      "_scoring": {
+        "score": 57,
+        "categories": [
+          "規制・政策",
+          "市場・資金"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
+          "market": {
+            "matches": 1,
+            "catScore": 20
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 5,
+          "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "放流ホタテの定着度合い 水中ドローンで調査｜青森ニュース｜Web東奥",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE54LXQtS2dINV81ZGUzSk1aUzJleHNYNTNoa24xWXNIMmpoRmROOGJ5ejJXNnNtUjlLVTBxcENiMXA3SmdkekplSVp1TGtCSDdlQV9VNmhrcGk?oc=5\" target=\"_blank\">放流ホタテの定着度合い 水中ドローンで調査｜青森ニュース｜Web東奥</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">東奥日報社</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE54LXQtS2dINV81ZGUzSk1aUzJleHNYNTNoa24xWXNIMmpoRmROOGJ5ejJXNnNtUjlLVTBxcENiMXA3SmdkekplSVp1TGtCSDdlQV9VNmhrcGk?oc=5\" target=\"_blank\">放流ホタテの定着度合い 水中ドローンで調査｜青森ニュース｜Web東奥</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">東奥日報社</font>",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE54LXQtS2dINV81ZGUzSk1aUzJleHNYNTNoa24xWXNIMmpoRmROOGJ5ejJXNnNtUjlLVTBxcENiMXA3SmdkekplSVp1TGtCSDdlQV9VNmhrcGk?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE54LXQtS2dINV81ZGUzSk1aUzJleHNYNTNoa24xWXNIMmpoRmROOGJ5ejJXNnNtUjlLVTBxcENiMXA3SmdkekplSVp1TGtCSDdlQV9VNmhrcGk?oc=5",
+      "publishedAt": "2026-07-22T00:00:00.000Z",
+      "source": "東奥日報社",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP)",
+      "_scoring": {
+        "score": 57,
+        "categories": [
+          "事故・事件"
+        ],
+        "breakdown": {
+          "required": true,
+          "incident": {
+            "matches": 1,
+            "catScore": 28
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 10,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "ドローン墜落場所を10km先から特定 山岳救助の知見を応用したGPS要らずの探索システム：Japan Drone 2026（1/2 ページ）",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFBiQ05xd0tiQktwaFlWaXlmR3J4MlNNek4zSUdlQndpNGNRLWFUWC1ydDlIc05XbFpOR0hWbk1wNkRXdEtJM0FRUFpFdEh6YnFfSVV5blRpOHE1YXFwQ3FXRnlQR2ZiZGo3Vkx5Ng?oc=5\" target=\"_blank\">ドローン墜落場所を10km先から特定 山岳救助の知見を応用したGPS要らずの探索システム：Japan Drone 2026（1/2 ページ）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ITmedia</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFBiQ05xd0tiQktwaFlWaXlmR3J4MlNNek4zSUdlQndpNGNRLWFUWC1ydDlIc05XbFpOR0hWbk1wNkRXdEtJM0FRUFpFdEh6YnFfSVV5blRpOHE1YXFwQ3FXRnlQR2ZiZGo3Vkx5Ng?oc=5\" target=\"_blank\">ドローン墜落場所を10km先から特定 山岳救助の知見を応用したGPS要らずの探索システム：Japan Drone 2026（1/2 ページ）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ITmedia</font>",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBiQ05xd0tiQktwaFlWaXlmR3J4MlNNek4zSUdlQndpNGNRLWFUWC1ydDlIc05XbFpOR0hWbk1wNkRXdEtJM0FRUFpFdEh6YnFfSVV5blRpOHE1YXFwQ3FXRnlQR2ZiZGo3Vkx5Ng?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBiQ05xd0tiQktwaFlWaXlmR3J4MlNNek4zSUdlQndpNGNRLWFUWC1ydDlIc05XbFpOR0hWbk1wNkRXdEtJM0FRUFpFdEh6YnFfSVV5blRpOHE1YXFwQ3FXRnlQR2ZiZGo3Vkx5Ng?oc=5",
+      "publishedAt": "2026-07-22T01:12:00.000Z",
+      "source": "ITmedia",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP)",
+      "_scoring": {
+        "score": 57,
+        "categories": [
+          "事故・事件"
+        ],
+        "breakdown": {
+          "required": true,
+          "incident": {
+            "matches": 1,
+            "catScore": 28
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 10,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "ドローン規制に新ルール、国交省 工業専用地域は許可不要に",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE44UWZNNV9lb3RjV3RoQjZYcDhURnZNUml6UDlHc28tUE5sd0pkdEt6MENSNDdtNGc4SXpGT05zaDMwQXg1dEp3MzZCVHlubFp2LWdqUmdR?oc=5\" target=\"_blank\">ドローン規制に新ルール、国交省 工業専用地域は許可不要に</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">西日本新聞me</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE44UWZNNV9lb3RjV3RoQjZYcDhURnZNUml6UDlHc28tUE5sd0pkdEt6MENSNDdtNGc4SXpGT05zaDMwQXg1dEp3MzZCVHlubFp2LWdqUmdR?oc=5\" target=\"_blank\">ドローン規制に新ルール、国交省 工業専用地域は許可不要に</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">西日本新聞me</font>",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE44UWZNNV9lb3RjV3RoQjZYcDhURnZNUml6UDlHc28tUE5sd0pkdEt6MENSNDdtNGc4SXpGT05zaDMwQXg1dEp3MzZCVHlubFp2LWdqUmdR?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE44UWZNNV9lb3RjV3RoQjZYcDhURnZNUml6UDlHc28tUE5sd0pkdEt6MENSNDdtNGc4SXpGT05zaDMwQXg1dEp3MzZCVHlubFp2LWdqUmdR?oc=5",
+      "publishedAt": "2026-07-10T07:00:00.000Z",
+      "source": "西日本新聞me",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP 政策/実証)",
+      "_scoring": {
+        "score": 57,
+        "categories": [
+          "規制・政策"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 2,
+            "catScore": 40
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 0,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
         },
         "pass": true
       }
