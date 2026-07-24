@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-23T23:00:38.661Z",
-  "rawCount": 716,
+  "generatedAt": "2026-07-24T03:15:34.049Z",
+  "rawCount": 718,
   "articles": [
     {
       "title": "SkyDrive、バンコク・エアウェイズやサハグループなどとタイで空飛ぶクルマ事業化へ提携 - LOGI-BIZ online",
@@ -11,9 +11,9 @@
       "publishedAt": "2026-07-23T21:00:41.000Z",
       "source": "LOGI-BIZ online",
       "_feedRegion": "jp",
-      "_feedName": "Google News (JP 事業者/実装)",
+      "_feedName": "Google News (JP 政策/実証)",
       "_scoring": {
-        "score": 80,
+        "score": 75,
         "categories": [
           "技術・製品",
           "市場・資金"
@@ -32,7 +32,7 @@
             "domain": "news.google.com",
             "multiplier": 0.8
           },
-          "freshness": 20,
+          "freshness": 15,
           "titleBonus": 10,
           "jpRegionBonus": 15
         },
@@ -76,6 +76,43 @@
           },
           "freshness": 0,
           "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "バンコク・エアウェイズ、サハグループ、サハ東急とSkyDriveが、タイにおける空飛ぶクルマの事業化に向け、業務提携（MOU）に合意",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiSkFVX3lxTE5LZmlMNTdvYXFhRExZQ1A1S2VoaHFFV1NlS01IRndNeWdOdjVES0RSeV82a3AwRlRkVjdpU2ZZM1N1MGdKY252VkZn?oc=5\" target=\"_blank\">バンコク・エアウェイズ、サハグループ、サハ東急とSkyDriveが、タイにおける空飛ぶクルマの事業化に向け、業務提携（MOU）に合意</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">株式会社SkyDrive</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiSkFVX3lxTE5LZmlMNTdvYXFhRExZQ1A1S2VoaHFFV1NlS01IRndNeWdOdjVES0RSeV82a3AwRlRkVjdpU2ZZM1N1MGdKY252VkZn?oc=5\" target=\"_blank\">バンコク・エアウェイズ、サハグループ、サハ東急とSkyDriveが、タイにおける空飛ぶクルマの事業化に向け、業務提携（MOU）に合意</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">株式会社SkyDrive</font>",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5LZmlMNTdvYXFhRExZQ1A1S2VoaHFFV1NlS01IRndNeWdOdjVES0RSeV82a3AwRlRkVjdpU2ZZM1N1MGdKY252VkZn?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5LZmlMNTdvYXFhRExZQ1A1S2VoaHFFV1NlS01IRndNeWdOdjVES0RSeV82a3AwRlRkVjdpU2ZZM1N1MGdKY252VkZn?oc=5",
+      "publishedAt": "2026-07-23T05:01:24.000Z",
+      "source": "株式会社SkyDrive",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP)",
+      "_scoring": {
+        "score": 74,
+        "categories": [
+          "市場・資金",
+          "政策・インフラ"
+        ],
+        "breakdown": {
+          "required": true,
+          "market": {
+            "matches": 2,
+            "catScore": 25
+          },
+          "policy": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 10,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
         },
         "pass": true
       }
@@ -389,6 +426,42 @@
       }
     },
     {
+      "title": "Beta CEO: Autonomous Military eVTOL Launch A 'Smart Tactical Move'",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZEdMTnZyNkR4eVlkNGlybGZIc1Zza1hEX21FdmRDWjdUeDZ1UXpaanFfclU0b1oxdnkwMTNFRXV3QXhQeldOYi1HREhDZ2x0SDFwa3h0eHhKRUtTZDN5dFZtejgtaXQ3dFRiQkFGY2tESGJRVkRfTDdsNC1FZzMteU94eTlEeW9GbVJ5eHZSRWxpUG9uTkM4UldOcm05TUhrY2hWTklwdzlFREpKUllBdVpFRW9RY3hYUTFVWlJRbmtvQQ?oc=5\" target=\"_blank\">Beta CEO: Autonomous Military eVTOL Launch A 'Smart Tactical Move'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aviation Week</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZEdMTnZyNkR4eVlkNGlybGZIc1Zza1hEX21FdmRDWjdUeDZ1UXpaanFfclU0b1oxdnkwMTNFRXV3QXhQeldOYi1HREhDZ2x0SDFwa3h0eHhKRUtTZDN5dFZtejgtaXQ3dFRiQkFGY2tESGJRVkRfTDdsNC1FZzMteU94eTlEeW9GbVJ5eHZSRWxpUG9uTkM4UldOcm05TUhrY2hWTklwdzlFREpKUllBdVpFRW9RY3hYUTFVWlJRbmtvQQ?oc=5\" target=\"_blank\">Beta CEO: Autonomous Military eVTOL Launch A 'Smart Tactical Move'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aviation Week</font>",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZEdMTnZyNkR4eVlkNGlybGZIc1Zza1hEX21FdmRDWjdUeDZ1UXpaanFfclU0b1oxdnkwMTNFRXV3QXhQeldOYi1HREhDZ2x0SDFwa3h0eHhKRUtTZDN5dFZtejgtaXQ3dFRiQkFGY2tESGJRVkRfTDdsNC1FZzMteU94eTlEeW9GbVJ5eHZSRWxpUG9uTkM4UldOcm05TUhrY2hWTklwdzlFREpKUllBdVpFRW9RY3hYUTFVWlJRbmtvQQ?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZEdMTnZyNkR4eVlkNGlybGZIc1Zza1hEX21FdmRDWjdUeDZ1UXpaanFfclU0b1oxdnkwMTNFRXV3QXhQeldOYi1HREhDZ2x0SDFwa3h0eHhKRUtTZDN5dFZtejgtaXQ3dFRiQkFGY2tESGJRVkRfTDdsNC1FZzMteU94eTlEeW9GbVJ5eHZSRWxpUG9uTkM4UldOcm05TUhrY2hWTklwdzlFREpKUllBdVpFRW9RY3hYUTFVWlJRbmtvQQ?oc=5",
+      "publishedAt": "2026-07-24T00:18:21.000Z",
+      "source": "Aviation Week",
+      "_feedRegion": "global",
+      "_feedName": "Google News (Global)",
+      "_scoring": {
+        "score": 68,
+        "categories": [
+          "技術・製品",
+          "政策・インフラ"
+        ],
+        "breakdown": {
+          "required": true,
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "policy": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 20,
+          "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
       "title": "「運搬」と「調査・点検」を掛け合わせた現場支援へ。マゼックスと石川エナジーリサーチが国産産業用ドローンで業務提携 - digital-construction.jp",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE9kWWZrTUtvcXpqdzU4Q2ZsSkdFOUJ0blRvWnFoZ0JTZTJzWGN2TnRIaTBTeGZicGxHbm5NZUFvSDJYSTd1aHkzRDZBcHhpYWNON2dJ?oc=5\" target=\"_blank\">「運搬」と「調査・点検」を掛け合わせた現場支援へ。マゼックスと石川エナジーリサーチが国産産業用ドローンで業務提携</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">digital-construction.jp</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE9kWWZrTUtvcXpqdzU4Q2ZsSkdFOUJ0blRvWnFoZ0JTZTJzWGN2TnRIaTBTeGZicGxHbm5NZUFvSDJYSTd1aHkzRDZBcHhpYWNON2dJ?oc=5\" target=\"_blank\">「運搬」と「調査・点検」を掛け合わせた現場支援へ。マゼックスと石川エナジーリサーチが国産産業用ドローンで業務提携</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">digital-construction.jp</font>",
@@ -456,6 +529,70 @@
             "multiplier": 0.8
           },
           "freshness": 5,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "シムトップス、点検・測量ドローンから空間データプラットフォームまでを手掛けるLiberawareと業務提携に関する覚書を締結",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9UbFdNN3hBUWFPVnhjWl96am1iNEtRNDFEVktwd0tfMXA3ODEzQzA3dUU5UzFzWVdweFlSQmZFc0o5amZJX2N1MzBHblpjOVA4eFFoby1aY2xjbkYxaHpTLXpPR3Zsd2dPSGc?oc=5\" target=\"_blank\">シムトップス、点検・測量ドローンから空間データプラットフォームまでを手掛けるLiberawareと業務提携に関する覚書を締結</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR TIMES</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9UbFdNN3hBUWFPVnhjWl96am1iNEtRNDFEVktwd0tfMXA3ODEzQzA3dUU5UzFzWVdweFlSQmZFc0o5amZJX2N1MzBHblpjOVA4eFFoby1aY2xjbkYxaHpTLXpPR3Zsd2dPSGc?oc=5\" target=\"_blank\">シムトップス、点検・測量ドローンから空間データプラットフォームまでを手掛けるLiberawareと業務提携に関する覚書を締結</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR TIMES</font>",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9UbFdNN3hBUWFPVnhjWl96am1iNEtRNDFEVktwd0tfMXA3ODEzQzA3dUU5UzFzWVdweFlSQmZFc0o5amZJX2N1MzBHblpjOVA4eFFoby1aY2xjbkYxaHpTLXpPR3Zsd2dPSGc?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9UbFdNN3hBUWFPVnhjWl96am1iNEtRNDFEVktwd0tfMXA3ODEzQzA3dUU5UzFzWVdweFlSQmZFc0o5amZJX2N1MzBHblpjOVA4eFFoby1aY2xjbkYxaHpTLXpPR3Zsd2dPSGc?oc=5",
+      "publishedAt": "2026-07-24T02:30:02.000Z",
+      "source": "PR TIMES",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP 事業者/実装)",
+      "_scoring": {
+        "score": 65,
+        "categories": [
+          "市場・資金"
+        ],
+        "breakdown": {
+          "required": true,
+          "market": {
+            "matches": 2,
+            "catScore": 25
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 20,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "SkyDrive社、タイ国内で「空飛ぶクルマ」の事業化へ、航路検証に着手、バンコク・エアウェイズらと業務提携",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTFB2bF9XanRDanhMZXlWZ3dLVS1FVVdoVjBERGpidldnSGhSTmtHbkdVajJFMzZuck5rMmlsaXVCNmdaWkx6Y3o5eEEzYVhOOG1aeUQ3ZA?oc=5\" target=\"_blank\">SkyDrive社、タイ国内で「空飛ぶクルマ」の事業化へ、航路検証に着手、バンコク・エアウェイズらと業務提携</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">トラベルボイス</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTFB2bF9XanRDanhMZXlWZ3dLVS1FVVdoVjBERGpidldnSGhSTmtHbkdVajJFMzZuck5rMmlsaXVCNmdaWkx6Y3o5eEEzYVhOOG1aeUQ3ZA?oc=5\" target=\"_blank\">SkyDrive社、タイ国内で「空飛ぶクルマ」の事業化へ、航路検証に着手、バンコク・エアウェイズらと業務提携</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">トラベルボイス</font>",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB2bF9XanRDanhMZXlWZ3dLVS1FVVdoVjBERGpidldnSGhSTmtHbkdVajJFMzZuck5rMmlsaXVCNmdaWkx6Y3o5eEEzYVhOOG1aeUQ3ZA?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB2bF9XanRDanhMZXlWZ3dLVS1FVVdoVjBERGpidldnSGhSTmtHbkdVajJFMzZuck5rMmlsaXVCNmdaWkx6Y3o5eEEzYVhOOG1aeUQ3ZA?oc=5",
+      "publishedAt": "2026-07-24T01:43:01.000Z",
+      "source": "トラベルボイス",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP 事業者/実装)",
+      "_scoring": {
+        "score": 65,
+        "categories": [
+          "市場・資金"
+        ],
+        "breakdown": {
+          "required": true,
+          "market": {
+            "matches": 2,
+            "catScore": 25
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 20,
           "titleBonus": 10,
           "jpRegionBonus": 15
         },
@@ -720,13 +857,13 @@
       }
     },
     {
-      "title": "マゼックスと石川エナジーリサーチ、国産の産業用ドローン活用拡大へ提携 - LOGI-BIZ online",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTFA0TzlIS3dHaVpKN25XTzBYWWNDMG11M0hiYWZmaE1zMFY2a1lDZzZBU0o4bExaVmUtUzFQUkp0SmVqcmVDRlhhWnpjdw?oc=5\" target=\"_blank\">マゼックスと石川エナジーリサーチ、国産の産業用ドローン活用拡大へ提携</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LOGI-BIZ online</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTFA0TzlIS3dHaVpKN25XTzBYWWNDMG11M0hiYWZmaE1zMFY2a1lDZzZBU0o4bExaVmUtUzFQUkp0SmVqcmVDRlhhWnpjdw?oc=5\" target=\"_blank\">マゼックスと石川エナジーリサーチ、国産の産業用ドローン活用拡大へ提携</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LOGI-BIZ online</font>",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA0TzlIS3dHaVpKN25XTzBYWWNDMG11M0hiYWZmaE1zMFY2a1lDZzZBU0o4bExaVmUtUzFQUkp0SmVqcmVDRlhhWnpjdw?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA0TzlIS3dHaVpKN25XTzBYWWNDMG11M0hiYWZmaE1zMFY2a1lDZzZBU0o4bExaVmUtUzFQUkp0SmVqcmVDRlhhWnpjdw?oc=5",
-      "publishedAt": "2026-07-23T21:00:54.000Z",
-      "source": "LOGI-BIZ online",
+      "title": "KLabが海外RF技術企業と提携、UAEにおける対ドローン防衛システムの導入推進へ",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFAyVEtmNTZCVW1GcUNGTEhHaXloT2g0NVJadnpWeFpfUU9Tb0pFV0kyY2pWTnpGcXcyR1ZBYkg3ZEo3Y1VYM1UxQi1YNTFCdkFDMjR0NkFIUldORHBPdXFnaEhGMU1wNXpNSlE?oc=5\" target=\"_blank\">KLabが海外RF技術企業と提携、UAEにおける対ドローン防衛システムの導入推進へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ドローンジャーナル</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFAyVEtmNTZCVW1GcUNGTEhHaXloT2g0NVJadnpWeFpfUU9Tb0pFV0kyY2pWTnpGcXcyR1ZBYkg3ZEo3Y1VYM1UxQi1YNTFCdkFDMjR0NkFIUldORHBPdXFnaEhGMU1wNXpNSlE?oc=5\" target=\"_blank\">KLabが海外RF技術企業と提携、UAEにおける対ドローン防衛システムの導入推進へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ドローンジャーナル</font>",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAyVEtmNTZCVW1GcUNGTEhHaXloT2g0NVJadnpWeFpfUU9Tb0pFV0kyY2pWTnpGcXcyR1ZBYkg3ZEo3Y1VYM1UxQi1YNTFCdkFDMjR0NkFIUldORHBPdXFnaEhGMU1wNXpNSlE?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAyVEtmNTZCVW1GcUNGTEhHaXloT2g0NVJadnpWeFpfUU9Tb0pFV0kyY2pWTnpGcXcyR1ZBYkg3ZEo3Y1VYM1UxQi1YNTFCdkFDMjR0NkFIUldORHBPdXFnaEhGMU1wNXpNSlE?oc=5",
+      "publishedAt": "2026-07-24T02:03:09.000Z",
+      "source": "ドローンジャーナル",
       "_feedRegion": "jp",
       "_feedName": "Google News (JP 政策/実証)",
       "_scoring": {
@@ -862,6 +999,38 @@
       }
     },
     {
+      "title": "日本コムシンクと「そらとぶタクシー」が資本業務提携。空飛ぶクルマのデジタル基盤を共同構築へ",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFB3QmZTNi1HYzlVa3BaZ3ZLVFRfSHZ5TmpLWTE3Z2lGMmtjZzZTMUNjS0FqN19YTEM5OTZON1pEYjE5V0hYT1dZMWYyaHo5TkJtb29VdnY2NA?oc=5\" target=\"_blank\">日本コムシンクと「そらとぶタクシー」が資本業務提携。空飛ぶクルマのデジタル基盤を共同構築へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LIGARE（リガーレ）</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFB3QmZTNi1HYzlVa3BaZ3ZLVFRfSHZ5TmpLWTE3Z2lGMmtjZzZTMUNjS0FqN19YTEM5OTZON1pEYjE5V0hYT1dZMWYyaHo5TkJtb29VdnY2NA?oc=5\" target=\"_blank\">日本コムシンクと「そらとぶタクシー」が資本業務提携。空飛ぶクルマのデジタル基盤を共同構築へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LIGARE（リガーレ）</font>",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB3QmZTNi1HYzlVa3BaZ3ZLVFRfSHZ5TmpLWTE3Z2lGMmtjZzZTMUNjS0FqN19YTEM5OTZON1pEYjE5V0hYT1dZMWYyaHo5TkJtb29VdnY2NA?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB3QmZTNi1HYzlVa3BaZ3ZLVFRfSHZ5TmpLWTE3Z2lGMmtjZzZTMUNjS0FqN19YTEM5OTZON1pEYjE5V0hYT1dZMWYyaHo5TkJtb29VdnY2NA?oc=5",
+      "publishedAt": "2026-07-23T23:32:17.000Z",
+      "source": "LIGARE（リガーレ）",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP 政策/実証)",
+      "_scoring": {
+        "score": 60,
+        "categories": [
+          "市場・資金"
+        ],
+        "breakdown": {
+          "required": true,
+          "market": {
+            "matches": 2,
+            "catScore": 25
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 15,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
       "title": "Autonomy HD、次世代の「Surveyor」シリーズを公開。係留型ハイブリッド機と半固体電池採用の重量物搬送機 [国際ドローン展2026]",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE1zdno1dnZzdEpHcFNlN0J5bGxlc0tVT3BsSHVXeDhpclllZXlvY3p1MWM2MUFPSVNNLTRsdHYxVHUyOUZkOVVNZnltSDRXRl9VdlJDanVFLXNBUTRJS3dv?oc=5\" target=\"_blank\">Autonomy HD、次世代の「Surveyor」シリーズを公開。係留型ハイブリッド機と半固体電池採用の重量物搬送機 [国際ドローン展2026]</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DRONE.jp</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE1zdno1dnZzdEpHcFNlN0J5bGxlc0tVT3BsSHVXeDhpclllZXlvY3p1MWM2MUFPSVNNLTRsdHYxVHUyOUZkOVVNZnltSDRXRl9VdlJDanVFLXNBUTRJS3dv?oc=5\" target=\"_blank\">Autonomy HD、次世代の「Surveyor」シリーズを公開。係留型ハイブリッド機と半固体電池採用の重量物搬送機 [国際ドローン展2026]</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DRONE.jp</font>",
@@ -930,178 +1099,6 @@
           },
           "freshness": 10,
           "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "FAA approves MONTIS drone system for avalanche safety missions",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE1wdFZ4eTdGc1NodDUxVDBSUGhPa2ZCaWFFT3h1Ym1Zc3dOMEhzcTMwal9ER0pnMUd4XzkzenJfY2k5UVZ6RUE5WGNzZERVSGhuZGVkc0FzZU5vVWhJVm1CNEpaeWF0MnRfMk50S2JhcE9ZeEFNS0ZV?oc=5\" target=\"_blank\">FAA approves MONTIS drone system for avalanche safety missions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DroneDJ</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE1wdFZ4eTdGc1NodDUxVDBSUGhPa2ZCaWFFT3h1Ym1Zc3dOMEhzcTMwal9ER0pnMUd4XzkzenJfY2k5UVZ6RUE5WGNzZERVSGhuZGVkc0FzZU5vVWhJVm1CNEpaeWF0MnRfMk50S2JhcE9ZeEFNS0ZV?oc=5\" target=\"_blank\">FAA approves MONTIS drone system for avalanche safety missions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DroneDJ</font>",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1wdFZ4eTdGc1NodDUxVDBSUGhPa2ZCaWFFT3h1Ym1Zc3dOMEhzcTMwal9ER0pnMUd4XzkzenJfY2k5UVZ6RUE5WGNzZERVSGhuZGVkc0FzZU5vVWhJVm1CNEpaeWF0MnRfMk50S2JhcE9ZeEFNS0ZV?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1wdFZ4eTdGc1NodDUxVDBSUGhPa2ZCaWFFT3h1Ym1Zc3dOMEhzcTMwal9ER0pnMUd4XzkzenJfY2k5UVZ6RUE5WGNzZERVSGhuZGVkc0FzZU5vVWhJVm1CNEpaeWF0MnRfMk50S2JhcE9ZeEFNS0ZV?oc=5",
-      "publishedAt": "2026-07-15T07:10:00.000Z",
-      "source": "DroneDJ",
-      "_feedRegion": "us",
-      "_feedName": "FAA",
-      "_scoring": {
-        "score": 58,
-        "categories": [
-          "規制・政策",
-          "事故・事件"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 1,
-            "catScore": 32
-          },
-          "incident": {
-            "matches": 1,
-            "catScore": 28
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 0,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "Dronedesk launches first fully automated SORA implementation, a key enabler for BVLOS drone operations",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxNX2hvTWxLOHNHSnkzTzNGTWhrOHB1UUVpMW93djVFY0oxYjdTTlVZUUZmT19FeTVwT0RhYzA3blJ5bzdCQWc2V09rdmdzX2o3WmgxU0F2SEZxMzZqZjJLNlVhQTBxVkpaNWlicFFhcUZBVGRiVldiNmh5UUIxMDFlUFRFQUdZUDRMc0JNRE11dlMxamQxRFg5X3k3MnM1WEVlbEZzMEZWNTZJZlZzM3RjNFV1LXo4eVJvVzVMdTZidkZsRmVTbS05cy14ZV9sTlBJcVBrOThRNkfSAdgBQVVfeXFMTV9ob01sSzhzR0p5M08zRk1oazhwdVFFaTFvd3Y1RWNKMWI3U05VWVFGZk9fRXk1cE9EYWMwN25SeW83QkFnNldPa3Znc19qN1poMVNBdkhGcTM2amYySzZVYUEwcVZKWjVpYnBRYXFGQVRkYlZXYjZoeVFCMTAxZVBURUFHWVA0THNCTURNdXZTMWpkMURYOV95NzJzNVhFZWxGczBGVjU2SWZWczN0YzRVdS16OHlSb1c1THU2YnZGbEZlU20tOXMteGVfbE5QSXFQazk4UTZH?oc=5\" target=\"_blank\">Dronedesk launches first fully automated SORA implementation, a key enabler for BVLOS drone operations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MundoGEO</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxNX2hvTWxLOHNHSnkzTzNGTWhrOHB1UUVpMW93djVFY0oxYjdTTlVZUUZmT19FeTVwT0RhYzA3blJ5bzdCQWc2V09rdmdzX2o3WmgxU0F2SEZxMzZqZjJLNlVhQTBxVkpaNWlicFFhcUZBVGRiVldiNmh5UUIxMDFlUFRFQUdZUDRMc0JNRE11dlMxamQxRFg5X3k3MnM1WEVlbEZzMEZWNTZJZlZzM3RjNFV1LXo4eVJvVzVMdTZidkZsRmVTbS05cy14ZV9sTlBJcVBrOThRNkfSAdgBQVVfeXFMTV9ob01sSzhzR0p5M08zRk1oazhwdVFFaTFvd3Y1RWNKMWI3U05VWVFGZk9fRXk1cE9EYWMwN25SeW83QkFnNldPa3Znc19qN1poMVNBdkhGcTM2amYySzZVYUEwcVZKWjVpYnBRYXFGQVRkYlZXYjZoeVFCMTAxZVBURUFHWVA0THNCTURNdXZTMWpkMURYOV95NzJzNVhFZWxGczBGVjU2SWZWczN0YzRVdS16OHlSb1c1THU2YnZGbEZlU20tOXMteGVfbE5QSXFQazk4UTZH?oc=5\" target=\"_blank\">Dronedesk launches first fully automated SORA implementation, a key enabler for BVLOS drone operations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MundoGEO</font>",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNX2hvTWxLOHNHSnkzTzNGTWhrOHB1UUVpMW93djVFY0oxYjdTTlVZUUZmT19FeTVwT0RhYzA3blJ5bzdCQWc2V09rdmdzX2o3WmgxU0F2SEZxMzZqZjJLNlVhQTBxVkpaNWlicFFhcUZBVGRiVldiNmh5UUIxMDFlUFRFQUdZUDRMc0JNRE11dlMxamQxRFg5X3k3MnM1WEVlbEZzMEZWNTZJZlZzM3RjNFV1LXo4eVJvVzVMdTZidkZsRmVTbS05cy14ZV9sTlBJcVBrOThRNkfSAdgBQVVfeXFMTV9ob01sSzhzR0p5M08zRk1oazhwdVFFaTFvd3Y1RWNKMWI3U05VWVFGZk9fRXk1cE9EYWMwN25SeW83QkFnNldPa3Znc19qN1poMVNBdkhGcTM2amYySzZVYUEwcVZKWjVpYnBRYXFGQVRkYlZXYjZoeVFCMTAxZVBURUFHWVA0THNCTURNdXZTMWpkMURYOV95NzJzNVhFZWxGczBGVjU2SWZWczN0YzRVdS16OHlSb1c1THU2YnZGbEZlU20tOXMteGVfbE5QSXFQazk4UTZH?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNX2hvTWxLOHNHSnkzTzNGTWhrOHB1UUVpMW93djVFY0oxYjdTTlVZUUZmT19FeTVwT0RhYzA3blJ5bzdCQWc2V09rdmdzX2o3WmgxU0F2SEZxMzZqZjJLNlVhQTBxVkpaNWlicFFhcUZBVGRiVldiNmh5UUIxMDFlUFRFQUdZUDRMc0JNRE11dlMxamQxRFg5X3k3MnM1WEVlbEZzMEZWNTZJZlZzM3RjNFV1LXo4eVJvVzVMdTZidkZsRmVTbS05cy14ZV9sTlBJcVBrOThRNkfSAdgBQVVfeXFMTV9ob01sSzhzR0p5M08zRk1oazhwdVFFaTFvd3Y1RWNKMWI3U05VWVFGZk9fRXk1cE9EYWMwN25SeW83QkFnNldPa3Znc19qN1poMVNBdkhGcTM2amYySzZVYUEwcVZKWjVpYnBRYXFGQVRkYlZXYjZoeVFCMTAxZVBURUFHWVA0THNCTURNdXZTMWpkMURYOV95NzJzNVhFZWxGczBGVjU2SWZWczN0YzRVdS16OHlSb1c1THU2YnZGbEZlU20tOXMteGVfbE5QSXFQazk4UTZH?oc=5",
-      "publishedAt": "2026-07-21T18:23:00.000Z",
-      "source": "MundoGEO",
-      "_feedRegion": "eu",
-      "_feedName": "EASA",
-      "_scoring": {
-        "score": 57,
-        "categories": [
-          "規制・政策",
-          "技術・製品"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 1,
-            "catScore": 32
-          },
-          "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 2,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "Kratos Secures Potential $156M DOE Solar Shield C-UAS Contract",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxONUUtZkc4Wm84bGpYNk9xSHM3cFlWYTN1dzIwaDhsNmVDNUZvZlRCZjNaNFpRMGhfRHZ0NkpPN3BYbnljb1FTWXVRZ2RuY0xNdUtLZW9MeHZHcDJCLXpoTzB4WFpDMjcyNF81LURkbEMyb1k5OThfUmV5S3dWa2FESFJqOVhmVkRua1BCWg?oc=5\" target=\"_blank\">Kratos Secures Potential $156M DOE Solar Shield C-UAS Contract</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GovCon Wire</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxONUUtZkc4Wm84bGpYNk9xSHM3cFlWYTN1dzIwaDhsNmVDNUZvZlRCZjNaNFpRMGhfRHZ0NkpPN3BYbnljb1FTWXVRZ2RuY0xNdUtLZW9MeHZHcDJCLXpoTzB4WFpDMjcyNF81LURkbEMyb1k5OThfUmV5S3dWa2FESFJqOVhmVkRua1BCWg?oc=5\" target=\"_blank\">Kratos Secures Potential $156M DOE Solar Shield C-UAS Contract</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GovCon Wire</font>",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONUUtZkc4Wm84bGpYNk9xSHM3cFlWYTN1dzIwaDhsNmVDNUZvZlRCZjNaNFpRMGhfRHZ0NkpPN3BYbnljb1FTWXVRZ2RuY0xNdUtLZW9MeHZHcDJCLXpoTzB4WFpDMjcyNF81LURkbEMyb1k5OThfUmV5S3dWa2FESFJqOVhmVkRua1BCWg?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONUUtZkc4Wm84bGpYNk9xSHM3cFlWYTN1dzIwaDhsNmVDNUZvZlRCZjNaNFpRMGhfRHZ0NkpPN3BYbnljb1FTWXVRZ2RuY0xNdUtLZW9MeHZHcDJCLXpoTzB4WFpDMjcyNF81LURkbEMyb1k5OThfUmV5S3dWa2FESFJqOVhmVkRua1BCWg?oc=5",
-      "publishedAt": "2026-07-22T09:18:38.000Z",
-      "source": "GovCon Wire",
-      "_feedRegion": "global",
-      "_feedName": "Google News (Global)",
-      "_scoring": {
-        "score": 57,
-        "categories": [
-          "規制・政策",
-          "市場・資金"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 1,
-            "catScore": 32
-          },
-          "market": {
-            "matches": 1,
-            "catScore": 20
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 5,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "ドローン規制に新ルール、国交省 工業専用地域は許可不要に (共同通信)",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOWmZ0b0s1aE1YNDN1VlBJNzhkLUZLT21Gc1JOU0ZwcndmcE9xeGMxYmcxYXhGNmRwQ1ZZd0JaMUdZcjJPQ2kweFJBRmFzTTJzdDVINVdEVjJ5OUV0QzMxOF9uRmotZFllS0wtMWZSVTM1REp6S1Z5Q0NITzlKNnZxME9EV1hHSnR6S3d4bkhB?oc=5\" target=\"_blank\">ドローン規制に新ルール、国交省 工業専用地域は許可不要に (共同通信)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOWmZ0b0s1aE1YNDN1VlBJNzhkLUZLT21Gc1JOU0ZwcndmcE9xeGMxYmcxYXhGNmRwQ1ZZd0JaMUdZcjJPQ2kweFJBRmFzTTJzdDVINVdEVjJ5OUV0QzMxOF9uRmotZFllS0wtMWZSVTM1REp6S1Z5Q0NITzlKNnZxME9EV1hHSnR6S3d4bkhB?oc=5\" target=\"_blank\">ドローン規制に新ルール、国交省 工業専用地域は許可不要に (共同通信)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWmZ0b0s1aE1YNDN1VlBJNzhkLUZLT21Gc1JOU0ZwcndmcE9xeGMxYmcxYXhGNmRwQ1ZZd0JaMUdZcjJPQ2kweFJBRmFzTTJzdDVINVdEVjJ5OUV0QzMxOF9uRmotZFllS0wtMWZSVTM1REp6S1Z5Q0NITzlKNnZxME9EV1hHSnR6S3d4bkhB?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWmZ0b0s1aE1YNDN1VlBJNzhkLUZLT21Gc1JOU0ZwcndmcE9xeGMxYmcxYXhGNmRwQ1ZZd0JaMUdZcjJPQ2kweFJBRmFzTTJzdDVINVdEVjJ5OUV0QzMxOF9uRmotZFllS0wtMWZSVTM1REp6S1Z5Q0NITzlKNnZxME9EV1hHSnR6S3d4bkhB?oc=5",
-      "publishedAt": "2026-07-10T07:00:00.000Z",
-      "source": "Yahoo!ニュース",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP 政策/実証)",
-      "_scoring": {
-        "score": 57,
-        "categories": [
-          "規制・政策"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 2,
-            "catScore": 40
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 0,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "ドローン規制に新ルール、国交省 工業専用地域は許可不要に",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE44UWZNNV9lb3RjV3RoQjZYcDhURnZNUml6UDlHc28tUE5sd0pkdEt6MENSNDdtNGc4SXpGT05zaDMwQXg1dEp3MzZCVHlubFp2LWdqUmdR?oc=5\" target=\"_blank\">ドローン規制に新ルール、国交省 工業専用地域は許可不要に</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">西日本新聞me</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE44UWZNNV9lb3RjV3RoQjZYcDhURnZNUml6UDlHc28tUE5sd0pkdEt6MENSNDdtNGc4SXpGT05zaDMwQXg1dEp3MzZCVHlubFp2LWdqUmdR?oc=5\" target=\"_blank\">ドローン規制に新ルール、国交省 工業専用地域は許可不要に</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">西日本新聞me</font>",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE44UWZNNV9lb3RjV3RoQjZYcDhURnZNUml6UDlHc28tUE5sd0pkdEt6MENSNDdtNGc4SXpGT05zaDMwQXg1dEp3MzZCVHlubFp2LWdqUmdR?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE44UWZNNV9lb3RjV3RoQjZYcDhURnZNUml6UDlHc28tUE5sd0pkdEt6MENSNDdtNGc4SXpGT05zaDMwQXg1dEp3MzZCVHlubFp2LWdqUmdR?oc=5",
-      "publishedAt": "2026-07-10T07:00:00.000Z",
-      "source": "西日本新聞me",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP 政策/実証)",
-      "_scoring": {
-        "score": 57,
-        "categories": [
-          "規制・政策"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 2,
-            "catScore": 40
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 0,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
         },
         "pass": true
       }
