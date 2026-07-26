@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-25T22:01:57.641Z",
-  "rawCount": 723,
+  "generatedAt": "2026-07-26T00:03:31.260Z",
+  "rawCount": 722,
   "articles": [
     {
       "title": "FAA Completes eVTOL Organ Transport Flight Test - Airport Industry-News",
@@ -113,6 +113,47 @@
           "freshness": 5,
           "titleBonus": 10,
           "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "Michigan Drone Project Demonstrates Advanced Digital Airspace for Commercial and Public Safety UAS Operations",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTGF5cGc5M0hWLTdxOGlhUEctN3gtSHlMcWVqZ2RRV2thazJCczN2cXJ6dHFXN3Y2Nk03Wi14VVpxNkpxekFlZkE5ZzdMRUZ3NHNHcUZRLUF0c3V4SGZnbkNrcTY4bWI1TDQ3Ym1zMXZRYnc2Nnd6SWR5SV9SOWR0Y3U3d0VOam1XM0ViVktHblA3bTBjbmpFRTczN3VfWVo5N08zbFVuczJWdWNnZUo1R0NPREVtanQ3MjRtcG5yME9POVN5N2JfbER3ZWlVbEp3NDRxd1dqc1dEdXM?oc=5\" target=\"_blank\">Michigan Drone Project Demonstrates Advanced Digital Airspace for Commercial and Public Safety UAS Operations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">uasweekly.com</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTGF5cGc5M0hWLTdxOGlhUEctN3gtSHlMcWVqZ2RRV2thazJCczN2cXJ6dHFXN3Y2Nk03Wi14VVpxNkpxekFlZkE5ZzdMRUZ3NHNHcUZRLUF0c3V4SGZnbkNrcTY4bWI1TDQ3Ym1zMXZRYnc2Nnd6SWR5SV9SOWR0Y3U3d0VOam1XM0ViVktHblA3bTBjbmpFRTczN3VfWVo5N08zbFVuczJWdWNnZUo1R0NPREVtanQ3MjRtcG5yME9POVN5N2JfbER3ZWlVbEp3NDRxd1dqc1dEdXM?oc=5\" target=\"_blank\">Michigan Drone Project Demonstrates Advanced Digital Airspace for Commercial and Public Safety UAS Operations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">uasweekly.com</font>",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTGF5cGc5M0hWLTdxOGlhUEctN3gtSHlMcWVqZ2RRV2thazJCczN2cXJ6dHFXN3Y2Nk03Wi14VVpxNkpxekFlZkE5ZzdMRUZ3NHNHcUZRLUF0c3V4SGZnbkNrcTY4bWI1TDQ3Ym1zMXZRYnc2Nnd6SWR5SV9SOWR0Y3U3d0VOam1XM0ViVktHblA3bTBjbmpFRTczN3VfWVo5N08zbFVuczJWdWNnZUo1R0NPREVtanQ3MjRtcG5yME9POVN5N2JfbER3ZWlVbEp3NDRxd1dqc1dEdXM?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTGF5cGc5M0hWLTdxOGlhUEctN3gtSHlMcWVqZ2RRV2thazJCczN2cXJ6dHFXN3Y2Nk03Wi14VVpxNkpxekFlZkE5ZzdMRUZ3NHNHcUZRLUF0c3V4SGZnbkNrcTY4bWI1TDQ3Ym1zMXZRYnc2Nnd6SWR5SV9SOWR0Y3U3d0VOam1XM0ViVktHblA3bTBjbmpFRTczN3VfWVo5N08zbFVuczJWdWNnZUo1R0NPREVtanQ3MjRtcG5yME9POVN5N2JfbER3ZWlVbEp3NDRxd1dqc1dEdXM?oc=5",
+      "publishedAt": "2026-07-16T11:01:13.000Z",
+      "source": "uasweekly.com",
+      "_feedRegion": "us",
+      "_feedName": "FAA",
+      "_scoring": {
+        "score": 68,
+        "categories": [
+          "市場・資金",
+          "事故・事件",
+          "政策・インフラ"
+        ],
+        "breakdown": {
+          "required": true,
+          "market": {
+            "matches": 1,
+            "catScore": 20
+          },
+          "incident": {
+            "matches": 1,
+            "catScore": 28
+          },
+          "policy": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 0,
+          "titleBonus": 10
         },
         "pass": true
       }
@@ -298,42 +339,6 @@
           "freshness": 2,
           "titleBonus": 10,
           "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "Ondas and RSE Ventures invest in C-UAS interceptor start-up FPF Defense",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxPaDhldGhWN0tVSnFTVUVqYndCMzJkWlBlVDdQMTR1UTktSzNTTEp2SUtTZlIzeUxSS3kyMnljdFh0TjR2SUwzX1BoVW5FRlduM1JOZlVFM3hETkd3R283V1JlMWZpOHdVYUtVc3pmUm9QVFB4VWdyM0RhWWQwOTZXR19RRUpRTG5VeUlJZFBvdXhBc0ZTbV9adVdGX1VkRUVVQ1dTWWVmWFh6TDBtR0FvcmtmeFJpWjhpb0FjV3JudEtvcW4wRXYxZDNNanVlXy1laURWTndn?oc=5\" target=\"_blank\">Ondas and RSE Ventures invest in C-UAS interceptor start-up FPF Defense</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxPaDhldGhWN0tVSnFTVUVqYndCMzJkWlBlVDdQMTR1UTktSzNTTEp2SUtTZlIzeUxSS3kyMnljdFh0TjR2SUwzX1BoVW5FRlduM1JOZlVFM3hETkd3R283V1JlMWZpOHdVYUtVc3pmUm9QVFB4VWdyM0RhWWQwOTZXR19RRUpRTG5VeUlJZFBvdXhBc0ZTbV9adVdGX1VkRUVVQ1dTWWVmWFh6TDBtR0FvcmtmeFJpWjhpb0FjV3JudEtvcW4wRXYxZDNNanVlXy1laURWTndn?oc=5\" target=\"_blank\">Ondas and RSE Ventures invest in C-UAS interceptor start-up FPF Defense</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPaDhldGhWN0tVSnFTVUVqYndCMzJkWlBlVDdQMTR1UTktSzNTTEp2SUtTZlIzeUxSS3kyMnljdFh0TjR2SUwzX1BoVW5FRlduM1JOZlVFM3hETkd3R283V1JlMWZpOHdVYUtVc3pmUm9QVFB4VWdyM0RhWWQwOTZXR19RRUpRTG5VeUlJZFBvdXhBc0ZTbV9adVdGX1VkRUVVQ1dTWWVmWFh6TDBtR0FvcmtmeFJpWjhpb0FjV3JudEtvcW4wRXYxZDNNanVlXy1laURWTndn?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPaDhldGhWN0tVSnFTVUVqYndCMzJkWlBlVDdQMTR1UTktSzNTTEp2SUtTZlIzeUxSS3kyMnljdFh0TjR2SUwzX1BoVW5FRlduM1JOZlVFM3hETkd3R283V1JlMWZpOHdVYUtVc3pmUm9QVFB4VWdyM0RhWWQwOTZXR19RRUpRTG5VeUlJZFBvdXhBc0ZTbV9adVdGX1VkRUVVQ1dTWWVmWFh6TDBtR0FvcmtmeFJpWjhpb0FjV3JudEtvcW4wRXYxZDNNanVlXy1laURWTndn?oc=5",
-      "publishedAt": "2026-07-25T11:08:24.000Z",
-      "source": "Unmanned airspace",
-      "_feedRegion": "eu",
-      "_feedName": "EASA",
-      "_scoring": {
-        "score": 64,
-        "categories": [
-          "市場・資金",
-          "政策・インフラ"
-        ],
-        "breakdown": {
-          "required": true,
-          "market": {
-            "matches": 2,
-            "catScore": 25
-          },
-          "policy": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 15,
-          "titleBonus": 10
         },
         "pass": true
       }
@@ -628,6 +633,42 @@
           "freshness": 0,
           "titleBonus": 10,
           "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "Ondas and RSE Ventures invest in C-UAS interceptor start-up FPF Defense",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxPaDhldGhWN0tVSnFTVUVqYndCMzJkWlBlVDdQMTR1UTktSzNTTEp2SUtTZlIzeUxSS3kyMnljdFh0TjR2SUwzX1BoVW5FRlduM1JOZlVFM3hETkd3R283V1JlMWZpOHdVYUtVc3pmUm9QVFB4VWdyM0RhWWQwOTZXR19RRUpRTG5VeUlJZFBvdXhBc0ZTbV9adVdGX1VkRUVVQ1dTWWVmWFh6TDBtR0FvcmtmeFJpWjhpb0FjV3JudEtvcW4wRXYxZDNNanVlXy1laURWTndn?oc=5\" target=\"_blank\">Ondas and RSE Ventures invest in C-UAS interceptor start-up FPF Defense</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxPaDhldGhWN0tVSnFTVUVqYndCMzJkWlBlVDdQMTR1UTktSzNTTEp2SUtTZlIzeUxSS3kyMnljdFh0TjR2SUwzX1BoVW5FRlduM1JOZlVFM3hETkd3R283V1JlMWZpOHdVYUtVc3pmUm9QVFB4VWdyM0RhWWQwOTZXR19RRUpRTG5VeUlJZFBvdXhBc0ZTbV9adVdGX1VkRUVVQ1dTWWVmWFh6TDBtR0FvcmtmeFJpWjhpb0FjV3JudEtvcW4wRXYxZDNNanVlXy1laURWTndn?oc=5\" target=\"_blank\">Ondas and RSE Ventures invest in C-UAS interceptor start-up FPF Defense</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPaDhldGhWN0tVSnFTVUVqYndCMzJkWlBlVDdQMTR1UTktSzNTTEp2SUtTZlIzeUxSS3kyMnljdFh0TjR2SUwzX1BoVW5FRlduM1JOZlVFM3hETkd3R283V1JlMWZpOHdVYUtVc3pmUm9QVFB4VWdyM0RhWWQwOTZXR19RRUpRTG5VeUlJZFBvdXhBc0ZTbV9adVdGX1VkRUVVQ1dTWWVmWFh6TDBtR0FvcmtmeFJpWjhpb0FjV3JudEtvcW4wRXYxZDNNanVlXy1laURWTndn?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPaDhldGhWN0tVSnFTVUVqYndCMzJkWlBlVDdQMTR1UTktSzNTTEp2SUtTZlIzeUxSS3kyMnljdFh0TjR2SUwzX1BoVW5FRlduM1JOZlVFM3hETkd3R283V1JlMWZpOHdVYUtVc3pmUm9QVFB4VWdyM0RhWWQwOTZXR19RRUpRTG5VeUlJZFBvdXhBc0ZTbV9adVdGX1VkRUVVQ1dTWWVmWFh6TDBtR0FvcmtmeFJpWjhpb0FjV3JudEtvcW4wRXYxZDNNanVlXy1laURWTndn?oc=5",
+      "publishedAt": "2026-07-25T11:08:24.000Z",
+      "source": "Unmanned airspace",
+      "_feedRegion": "eu",
+      "_feedName": "EASA",
+      "_scoring": {
+        "score": 59,
+        "categories": [
+          "市場・資金",
+          "政策・インフラ"
+        ],
+        "breakdown": {
+          "required": true,
+          "market": {
+            "matches": 2,
+            "catScore": 25
+          },
+          "policy": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 10,
+          "titleBonus": 10
         },
         "pass": true
       }
@@ -1019,42 +1060,6 @@
             "catScore": 32
           },
           "policy": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 0,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "Dronedesk launches first fully automated SORA implementation, a key enabler for BVLOS drone operations",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMigwJBVV95cUxNX3habFRlMXlYZ1lkYk9HTG90NEhObmhoNVlWSzNnSE9mVUlVREtpWTlKZ0FSVXhIOS1GZVotNkQ0aEhubXhNQUJ1VXJfc2gxNUlJM21MelpmeG5jeENic0syTS12VlhlMVpqMTNUTktlWmJWZE1pYmN0dVVuY2U1NEg2bVpETW1MN1dJR1JxcmRlcWtaSWN0SG04WWJHQ3NzaU1xcmw0WklNbG0xVm90TktMQW9xX2NaRUtIRGhocDFMZ3U5eTJuTEwxV0ZVRDVKcVRKUkdQMm84MGZNbGk5djh6UW15Wnlkc2J1bEZ4NGQxQzVTdmd1Q1pfd2ZHSzZ2bG5n?oc=5\" target=\"_blank\">Dronedesk launches first fully automated SORA implementation, a key enabler for BVLOS drone operations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GlobeNewswire</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMigwJBVV95cUxNX3habFRlMXlYZ1lkYk9HTG90NEhObmhoNVlWSzNnSE9mVUlVREtpWTlKZ0FSVXhIOS1GZVotNkQ0aEhubXhNQUJ1VXJfc2gxNUlJM21MelpmeG5jeENic0syTS12VlhlMVpqMTNUTktlWmJWZE1pYmN0dVVuY2U1NEg2bVpETW1MN1dJR1JxcmRlcWtaSWN0SG04WWJHQ3NzaU1xcmw0WklNbG0xVm90TktMQW9xX2NaRUtIRGhocDFMZ3U5eTJuTEwxV0ZVRDVKcVRKUkdQMm84MGZNbGk5djh6UW15Wnlkc2J1bEZ4NGQxQzVTdmd1Q1pfd2ZHSzZ2bG5n?oc=5\" target=\"_blank\">Dronedesk launches first fully automated SORA implementation, a key enabler for BVLOS drone operations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GlobeNewswire</font>",
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNX3habFRlMXlYZ1lkYk9HTG90NEhObmhoNVlWSzNnSE9mVUlVREtpWTlKZ0FSVXhIOS1GZVotNkQ0aEhubXhNQUJ1VXJfc2gxNUlJM21MelpmeG5jeENic0syTS12VlhlMVpqMTNUTktlWmJWZE1pYmN0dVVuY2U1NEg2bVpETW1MN1dJR1JxcmRlcWtaSWN0SG04WWJHQ3NzaU1xcmw0WklNbG0xVm90TktMQW9xX2NaRUtIRGhocDFMZ3U5eTJuTEwxV0ZVRDVKcVRKUkdQMm84MGZNbGk5djh6UW15Wnlkc2J1bEZ4NGQxQzVTdmd1Q1pfd2ZHSzZ2bG5n?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNX3habFRlMXlYZ1lkYk9HTG90NEhObmhoNVlWSzNnSE9mVUlVREtpWTlKZ0FSVXhIOS1GZVotNkQ0aEhubXhNQUJ1VXJfc2gxNUlJM21MelpmeG5jeENic0syTS12VlhlMVpqMTNUTktlWmJWZE1pYmN0dVVuY2U1NEg2bVpETW1MN1dJR1JxcmRlcWtaSWN0SG04WWJHQ3NzaU1xcmw0WklNbG0xVm90TktMQW9xX2NaRUtIRGhocDFMZ3U5eTJuTEwxV0ZVRDVKcVRKUkdQMm84MGZNbGk5djh6UW15Wnlkc2J1bEZ4NGQxQzVTdmd1Q1pfd2ZHSzZ2bG5n?oc=5",
-      "publishedAt": "2026-07-20T14:53:01.000Z",
-      "source": "GlobeNewswire",
-      "_feedRegion": "eu",
-      "_feedName": "EASA",
-      "_scoring": {
-        "score": 55,
-        "categories": [
-          "規制・政策",
-          "技術・製品"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 1,
-            "catScore": 32
-          },
-          "technology": {
             "matches": 1,
             "catScore": 24
           },
