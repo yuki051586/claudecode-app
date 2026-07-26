@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-26T00:03:31.260Z",
-  "rawCount": 722,
+  "generatedAt": "2026-07-26T04:29:48.074Z",
+  "rawCount": 720,
   "articles": [
     {
       "title": "FAA Completes eVTOL Organ Transport Flight Test - Airport Industry-News",
@@ -527,6 +527,43 @@
       }
     },
     {
+      "title": "川崎重工とエアバス、ドローン開発で技術提携 国産対潜ドローンを開発",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Qc0xFNUFBUk40SmZkQlZYZXJITVp4UVJhbnQ5OGlwX3A1b2FFc19YMjRINkRNREE1dDBYVGhzeHZkZHhtZTZXaEZZVlpIdGs?oc=5\" target=\"_blank\">川崎重工とエアバス、ドローン開発で技術提携 国産対潜ドローンを開発</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ビジネス+IT</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Qc0xFNUFBUk40SmZkQlZYZXJITVp4UVJhbnQ5OGlwX3A1b2FFc19YMjRINkRNREE1dDBYVGhzeHZkZHhtZTZXaEZZVlpIdGs?oc=5\" target=\"_blank\">川崎重工とエアバス、ドローン開発で技術提携 国産対潜ドローンを開発</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ビジネス+IT</font>",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Qc0xFNUFBUk40SmZkQlZYZXJITVp4UVJhbnQ5OGlwX3A1b2FFc19YMjRINkRNREE1dDBYVGhzeHZkZHhtZTZXaEZZVlpIdGs?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Qc0xFNUFBUk40SmZkQlZYZXJITVp4UVJhbnQ5OGlwX3A1b2FFc19YMjRINkRNREE1dDBYVGhzeHZkZHhtZTZXaEZZVlpIdGs?oc=5",
+      "publishedAt": "2026-06-27T07:00:00.000Z",
+      "source": "ビジネス+IT",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP 政策/実証)",
+      "_scoring": {
+        "score": 60,
+        "categories": [
+          "技術・製品",
+          "市場・資金"
+        ],
+        "breakdown": {
+          "required": true,
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "market": {
+            "matches": 1,
+            "catScore": 20
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 0,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
       "title": "SkyDrive、印キネコと空飛ぶクルマ量産へ提携",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTFBRZUJfVHVabFMxZWdhd2FyX2g0NlBvVnJjelI4Z3pseUhTY2c5RzRaOVc5QVZjLVdaX01DTkhKX3h3ZlFGdzkyUA?oc=5\" target=\"_blank\">SkyDrive、印キネコと空飛ぶクルマ量産へ提携</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LOGISTICS TODAY</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTFBRZUJfVHVabFMxZWdhd2FyX2g0NlBvVnJjelI4Z3pseUhTY2c5RzRaOVc5QVZjLVdaX01DTkhKX3h3ZlFGdzkyUA?oc=5\" target=\"_blank\">SkyDrive、印キネコと空飛ぶクルマ量産へ提携</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LOGISTICS TODAY</font>",
@@ -679,7 +716,7 @@
       "content": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE1wdFZ4eTdGc1NodDUxVDBSUGhPa2ZCaWFFT3h1Ym1Zc3dOMEhzcTMwal9ER0pnMUd4XzkzenJfY2k5UVZ6RUE5WGNzZERVSGhuZGVkc0FzZU5vVWhJVm1CNEpaeWF0MnRfMk50S2JhcE9ZeEFNS0ZV?oc=5\" target=\"_blank\">FAA approves MONTIS drone system for avalanche safety missions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DroneDJ</font>",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1wdFZ4eTdGc1NodDUxVDBSUGhPa2ZCaWFFT3h1Ym1Zc3dOMEhzcTMwal9ER0pnMUd4XzkzenJfY2k5UVZ6RUE5WGNzZERVSGhuZGVkc0FzZU5vVWhJVm1CNEpaeWF0MnRfMk50S2JhcE9ZeEFNS0ZV?oc=5",
       "googleNewsUrl": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1wdFZ4eTdGc1NodDUxVDBSUGhPa2ZCaWFFT3h1Ym1Zc3dOMEhzcTMwal9ER0pnMUd4XzkzenJfY2k5UVZ6RUE5WGNzZERVSGhuZGVkc0FzZU5vVWhJVm1CNEpaeWF0MnRfMk50S2JhcE9ZeEFNS0ZV?oc=5",
-      "publishedAt": "2026-07-15T07:10:00.000Z",
+      "publishedAt": "2026-07-15T07:00:00.000Z",
       "source": "DroneDJ",
       "_feedRegion": "us",
       "_feedName": "FAA",
@@ -997,42 +1034,6 @@
           "freshness": 0,
           "titleBonus": 10,
           "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "FAA Releases Long-Awaited NPRM for Drone Restrictions Around Critical Infrastructure",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQZ2EtR0FyMm03c3M0aktvTWRpZ3ZWdVRLTHVxdG9BZmV5dGotTTc4eDBwdDBhcG81czVrenVMbWcwUjdlUi1QVGhyT3dzWnV4X3RWdDJVd3ptcXM4VWg4bk9GbXV4d1VwM3U5MHpZZWppWG5RVlR3X2x3ME5yY2lrZTBGSGZYalE0T093bk44N1VfQndTUENn?oc=5\" target=\"_blank\">FAA Releases Long-Awaited NPRM for Drone Restrictions Around Critical Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Commercial UAV News</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQZ2EtR0FyMm03c3M0aktvTWRpZ3ZWdVRLTHVxdG9BZmV5dGotTTc4eDBwdDBhcG81czVrenVMbWcwUjdlUi1QVGhyT3dzWnV4X3RWdDJVd3ptcXM4VWg4bk9GbXV4d1VwM3U5MHpZZWppWG5RVlR3X2x3ME5yY2lrZTBGSGZYalE0T093bk44N1VfQndTUENn?oc=5\" target=\"_blank\">FAA Releases Long-Awaited NPRM for Drone Restrictions Around Critical Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Commercial UAV News</font>",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZ2EtR0FyMm03c3M0aktvTWRpZ3ZWdVRLTHVxdG9BZmV5dGotTTc4eDBwdDBhcG81czVrenVMbWcwUjdlUi1QVGhyT3dzWnV4X3RWdDJVd3ptcXM4VWg4bk9GbXV4d1VwM3U5MHpZZWppWG5RVlR3X2x3ME5yY2lrZTBGSGZYalE0T093bk44N1VfQndTUENn?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZ2EtR0FyMm03c3M0aktvTWRpZ3ZWdVRLTHVxdG9BZmV5dGotTTc4eDBwdDBhcG81czVrenVMbWcwUjdlUi1QVGhyT3dzWnV4X3RWdDJVd3ptcXM4VWg4bk9GbXV4d1VwM3U5MHpZZWppWG5RVlR3X2x3ME5yY2lrZTBGSGZYalE0T093bk44N1VfQndTUENn?oc=5",
-      "publishedAt": "2026-07-12T02:36:09.000Z",
-      "source": "Commercial UAV News",
-      "_feedRegion": "us",
-      "_feedName": "FAA",
-      "_scoring": {
-        "score": 55,
-        "categories": [
-          "規制・政策",
-          "政策・インフラ"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 1,
-            "catScore": 32
-          },
-          "policy": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 0,
-          "titleBonus": 10
         },
         "pass": true
       }
