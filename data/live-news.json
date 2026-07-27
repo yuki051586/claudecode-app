@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-27T08:34:50.635Z",
-  "rawCount": 707,
+  "generatedAt": "2026-07-27T12:28:44.753Z",
+  "rawCount": 708,
   "articles": [
     {
       "title": "ジェイフロンティア－大幅反発 産業用ドローン開発のエアロネクストと業務提携(トレーダーズ・ウェブ)",
@@ -304,6 +304,38 @@
             "multiplier": 0.8
           },
           "freshness": 2,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "テラドローン、ドローン向け国産電池事業に参入 迎撃用から量産",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQT2lPaWM4aGIzaTBnRWNPODJNLTNraUQ4MlVLaWN4Z2xiLTZxckM5S0pxWWwyaHRCbThwMXFRZ056ZHAtbkd3WVZTWG9SQ0dFS3JFdnNhV3VUUGZmejRvVnR1LTBZYVR4SXk2aW11UXo0c0dfazVGT2RMWUVob2hZaw?oc=5\" target=\"_blank\">テラドローン、ドローン向け国産電池事業に参入 迎撃用から量産</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ロイター</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQT2lPaWM4aGIzaTBnRWNPODJNLTNraUQ4MlVLaWN4Z2xiLTZxckM5S0pxWWwyaHRCbThwMXFRZ056ZHAtbkd3WVZTWG9SQ0dFS3JFdnNhV3VUUGZmejRvVnR1LTBZYVR4SXk2aW11UXo0c0dfazVGT2RMWUVob2hZaw?oc=5\" target=\"_blank\">テラドローン、ドローン向け国産電池事業に参入 迎撃用から量産</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ロイター</font>",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQT2lPaWM4aGIzaTBnRWNPODJNLTNraUQ4MlVLaWN4Z2xiLTZxckM5S0pxWWwyaHRCbThwMXFRZ056ZHAtbkd3WVZTWG9SQ0dFS3JFdnNhV3VUUGZmejRvVnR1LTBZYVR4SXk2aW11UXo0c0dfazVGT2RMWUVob2hZaw?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQT2lPaWM4aGIzaTBnRWNPODJNLTNraUQ4MlVLaWN4Z2xiLTZxckM5S0pxWWwyaHRCbThwMXFRZ056ZHAtbkd3WVZTWG9SQ0dFS3JFdnNhV3VUUGZmejRvVnR1LTBZYVR4SXk2aW11UXo0c0dfazVGT2RMWUVob2hZaw?oc=5",
+      "publishedAt": "2026-07-27T10:51:56.000Z",
+      "source": "ロイター",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP)",
+      "_scoring": {
+        "score": 64,
+        "categories": [
+          "技術・製品"
+        ],
+        "breakdown": {
+          "required": true,
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 20,
           "titleBonus": 10,
           "jpRegionBonus": 15
         },
@@ -748,15 +780,47 @@
       }
     },
     {
-      "title": "エアロネクスト・ジェイフロンティア／医薬品のドローン配送で地域医療インフラ構築へ",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE1yRkplY0xSNjg4Y3pXY0xUWTd0VmlLNTZDSHlURFp4VVBpZlUyTk5GZ0xjdzRnUzVDUUNfWVAzWHIxMDNCMDFoekhLQ1pWMGNMenRFQw?oc=5\" target=\"_blank\">エアロネクスト・ジェイフロンティア／医薬品のドローン配送で地域医療インフラ構築へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">物流ニュースのLNEWS</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE1yRkplY0xSNjg4Y3pXY0xUWTd0VmlLNTZDSHlURFp4VVBpZlUyTk5GZ0xjdzRnUzVDUUNfWVAzWHIxMDNCMDFoekhLQ1pWMGNMenRFQw?oc=5\" target=\"_blank\">エアロネクスト・ジェイフロンティア／医薬品のドローン配送で地域医療インフラ構築へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">物流ニュースのLNEWS</font>",
+      "title": "エアロネクスト、ジェイフロンティア／医薬品のドローン配送で地域医療インフラ構築へ",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE1yRkplY0xSNjg4Y3pXY0xUWTd0VmlLNTZDSHlURFp4VVBpZlUyTk5GZ0xjdzRnUzVDUUNfWVAzWHIxMDNCMDFoekhLQ1pWMGNMenRFQw?oc=5\" target=\"_blank\">エアロネクスト、ジェイフロンティア／医薬品のドローン配送で地域医療インフラ構築へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">物流ニュースのLNEWS</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE1yRkplY0xSNjg4Y3pXY0xUWTd0VmlLNTZDSHlURFp4VVBpZlUyTk5GZ0xjdzRnUzVDUUNfWVAzWHIxMDNCMDFoekhLQ1pWMGNMenRFQw?oc=5\" target=\"_blank\">エアロネクスト、ジェイフロンティア／医薬品のドローン配送で地域医療インフラ構築へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">物流ニュースのLNEWS</font>",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1yRkplY0xSNjg4Y3pXY0xUWTd0VmlLNTZDSHlURFp4VVBpZlUyTk5GZ0xjdzRnUzVDUUNfWVAzWHIxMDNCMDFoekhLQ1pWMGNMenRFQw?oc=5",
       "googleNewsUrl": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1yRkplY0xSNjg4Y3pXY0xUWTd0VmlLNTZDSHlURFp4VVBpZlUyTk5GZ0xjdzRnUzVDUUNfWVAzWHIxMDNCMDFoekhLQ1pWMGNMenRFQw?oc=5",
       "publishedAt": "2026-07-27T05:09:05.000Z",
       "source": "物流ニュースのLNEWS",
       "_feedRegion": "jp",
       "_feedName": "Google News (JP)",
+      "_scoring": {
+        "score": 59,
+        "categories": [
+          "政策・インフラ"
+        ],
+        "breakdown": {
+          "required": true,
+          "policy": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 15,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "エアロネクストとジェイフロンティア、ドローン生かした「空から支える地域医療インフラ」を共同で構築へ - LOGI-BIZ online",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE94V3o1a3J5cUV6eWhJT1VnSjBlVVppM1duODhjVnBCbHNVMTJyc1hGdkk3YzBMU0F2b1NRUmRaY05KVnJJMnpxdVYxQQ?oc=5\" target=\"_blank\">エアロネクストとジェイフロンティア、ドローン生かした「空から支える地域医療インフラ」を共同で構築へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LOGI-BIZ online</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE94V3o1a3J5cUV6eWhJT1VnSjBlVVppM1duODhjVnBCbHNVMTJyc1hGdkk3YzBMU0F2b1NRUmRaY05KVnJJMnpxdVYxQQ?oc=5\" target=\"_blank\">エアロネクストとジェイフロンティア、ドローン生かした「空から支える地域医療インフラ」を共同で構築へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LOGI-BIZ online</font>",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE94V3o1a3J5cUV6eWhJT1VnSjBlVVppM1duODhjVnBCbHNVMTJyc1hGdkk3YzBMU0F2b1NRUmRaY05KVnJJMnpxdVYxQQ?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE94V3o1a3J5cUV6eWhJT1VnSjBlVVppM1duODhjVnBCbHNVMTJyc1hGdkk3YzBMU0F2b1NRUmRaY05KVnJJMnpxdVYxQQ?oc=5",
+      "publishedAt": "2026-07-27T08:36:36.000Z",
+      "source": "LOGI-BIZ online",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP 事業者/実装)",
       "_scoring": {
         "score": 59,
         "categories": [
@@ -1001,70 +1065,6 @@
             "multiplier": 0.8
           },
           "freshness": 0,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "米ドローン配送が商業化の転換点、FAA規制緩和で「目視外飛行」解禁へ",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE9OMVlyQlktekk5V1EwUGI2aENZclkwRnFKRkJVamtQTzk3XzhwQzNHUXJidXpBcXpKOGVMSnJ3QjZnRndOWDFGclExekFWeHR1MFFaZ2hwbjE0ZG5mMDVZUXVLN2pVa1lnenlNN3RRT3ZKN2J3?oc=5\" target=\"_blank\">米ドローン配送が商業化の転換点、FAA規制緩和で「目視外飛行」解禁へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BigGo ファイナンス</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE9OMVlyQlktekk5V1EwUGI2aENZclkwRnFKRkJVamtQTzk3XzhwQzNHUXJidXpBcXpKOGVMSnJ3QjZnRndOWDFGclExekFWeHR1MFFaZ2hwbjE0ZG5mMDVZUXVLN2pVa1lnenlNN3RRT3ZKN2J3?oc=5\" target=\"_blank\">米ドローン配送が商業化の転換点、FAA規制緩和で「目視外飛行」解禁へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BigGo ファイナンス</font>",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9OMVlyQlktekk5V1EwUGI2aENZclkwRnFKRkJVamtQTzk3XzhwQzNHUXJidXpBcXpKOGVMSnJ3QjZnRndOWDFGclExekFWeHR1MFFaZ2hwbjE0ZG5mMDVZUXVLN2pVa1lnenlNN3RRT3ZKN2J3?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9OMVlyQlktekk5V1EwUGI2aENZclkwRnFKRkJVamtQTzk3XzhwQzNHUXJidXpBcXpKOGVMSnJ3QjZnRndOWDFGclExekFWeHR1MFFaZ2hwbjE0ZG5mMDVZUXVLN2pVa1lnenlNN3RRT3ZKN2J3?oc=5",
-      "publishedAt": "2026-07-20T13:35:00.000Z",
-      "source": "BigGo ファイナンス",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP 事業者/実装)",
-      "_scoring": {
-        "score": 57,
-        "categories": [
-          "規制・政策"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 2,
-            "catScore": 40
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 0,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "エアロネクスト、医療ドローン物流で提携",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE5wNzBtbUxVclEwYUlMMDlyQW1JRXpIaHdrUGs3THNKQmhCY0FubXAzOHA1Y2VwdWRQWTRtM0tSN0ltbEVNQ2ZvZQ?oc=5\" target=\"_blank\">エアロネクスト、医療ドローン物流で提携</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LOGISTICS TODAY</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE5wNzBtbUxVclEwYUlMMDlyQW1JRXpIaHdrUGs3THNKQmhCY0FubXAzOHA1Y2VwdWRQWTRtM0tSN0ltbEVNQ2ZvZQ?oc=5\" target=\"_blank\">エアロネクスト、医療ドローン物流で提携</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LOGISTICS TODAY</font>",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5wNzBtbUxVclEwYUlMMDlyQW1JRXpIaHdrUGs3THNKQmhCY0FubXAzOHA1Y2VwdWRQWTRtM0tSN0ltbEVNQ2ZvZQ?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5wNzBtbUxVclEwYUlMMDlyQW1JRXpIaHdrUGs3THNKQmhCY0FubXAzOHA1Y2VwdWRQWTRtM0tSN0ltbEVNQ2ZvZQ?oc=5",
-      "publishedAt": "2026-07-27T02:51:02.000Z",
-      "source": "LOGISTICS TODAY",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP 政策/実証)",
-      "_scoring": {
-        "score": 56,
-        "categories": [
-          "市場・資金"
-        ],
-        "breakdown": {
-          "required": true,
-          "market": {
-            "matches": 1,
-            "catScore": 20
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 15,
           "titleBonus": 10,
           "jpRegionBonus": 15
         },
