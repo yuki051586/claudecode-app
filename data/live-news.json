@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-28T20:18:42.986Z",
-  "rawCount": 711,
+  "generatedAt": "2026-07-28T22:08:45.210Z",
+  "rawCount": 710,
   "articles": [
     {
       "title": "Joby Aviation and Virgin Atlantic sign binding UK air taxi partnership",
@@ -13,7 +13,7 @@
       "_feedRegion": "global",
       "_feedName": "Google News (Global)",
       "_scoring": {
-        "score": 86,
+        "score": 81,
         "categories": [
           "規制・政策",
           "市場・資金",
@@ -37,8 +37,45 @@
             "domain": "news.google.com",
             "multiplier": 0.8
           },
-          "freshness": 15,
+          "freshness": 10,
           "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "スカイドライブ、「空飛ぶクルマ」国内外で提携／量産・商用化へ着々 –",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFB6ZkdsWFR4WTgxVDRGeXIyMHlXNnYzYXJONWJoUFM2R1Y4ZWdfZ2Izc09uYmxXZl9leDlKaVN1U3JCNi02amxDM2NObVdMcjB2em1mVXhiSQ?oc=5\" target=\"_blank\">スカイドライブ、「空飛ぶクルマ」国内外で提携／量産・商用化へ着々 –</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">電気新聞ウェブサイト</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFB6ZkdsWFR4WTgxVDRGeXIyMHlXNnYzYXJONWJoUFM2R1Y4ZWdfZ2Izc09uYmxXZl9leDlKaVN1U3JCNi02amxDM2NObVdMcjB2em1mVXhiSQ?oc=5\" target=\"_blank\">スカイドライブ、「空飛ぶクルマ」国内外で提携／量産・商用化へ着々 –</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">電気新聞ウェブサイト</font>",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB6ZkdsWFR4WTgxVDRGeXIyMHlXNnYzYXJONWJoUFM2R1Y4ZWdfZ2Izc09uYmxXZl9leDlKaVN1U3JCNi02amxDM2NObVdMcjB2em1mVXhiSQ?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB6ZkdsWFR4WTgxVDRGeXIyMHlXNnYzYXJONWJoUFM2R1Y4ZWdfZ2Izc09uYmxXZl9leDlKaVN1U3JCNi02amxDM2NObVdMcjB2em1mVXhiSQ?oc=5",
+      "publishedAt": "2026-07-28T21:05:30.000Z",
+      "source": "電気新聞ウェブサイト",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP)",
+      "_scoring": {
+        "score": 80,
+        "categories": [
+          "技術・製品",
+          "市場・資金"
+        ],
+        "breakdown": {
+          "required": true,
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "market": {
+            "matches": 1,
+            "catScore": 20
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 20,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
         },
         "pass": true
       }
@@ -117,43 +154,6 @@
           },
           "freshness": 0,
           "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "スカイドライブ、「空飛ぶクルマ」国内外で提携／量産・商用化へ着々 –",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFB6ZkdsWFR4WTgxVDRGeXIyMHlXNnYzYXJONWJoUFM2R1Y4ZWdfZ2Izc09uYmxXZl9leDlKaVN1U3JCNi02amxDM2NObVdMcjB2em1mVXhiSQ?oc=5\" target=\"_blank\">スカイドライブ、「空飛ぶクルマ」国内外で提携／量産・商用化へ着々 –</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">電気新聞ウェブサイト</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFB6ZkdsWFR4WTgxVDRGeXIyMHlXNnYzYXJONWJoUFM2R1Y4ZWdfZ2Izc09uYmxXZl9leDlKaVN1U3JCNi02amxDM2NObVdMcjB2em1mVXhiSQ?oc=5\" target=\"_blank\">スカイドライブ、「空飛ぶクルマ」国内外で提携／量産・商用化へ着々 –</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">電気新聞ウェブサイト</font>",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB6ZkdsWFR4WTgxVDRGeXIyMHlXNnYzYXJONWJoUFM2R1Y4ZWdfZ2Izc09uYmxXZl9leDlKaVN1U3JCNi02amxDM2NObVdMcjB2em1mVXhiSQ?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB6ZkdsWFR4WTgxVDRGeXIyMHlXNnYzYXJONWJoUFM2R1Y4ZWdfZ2Izc09uYmxXZl9leDlKaVN1U3JCNi02amxDM2NObVdMcjB2em1mVXhiSQ?oc=5",
-      "publishedAt": "2026-07-27T21:01:36.000Z",
-      "source": "電気新聞ウェブサイト",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP)",
-      "_scoring": {
-        "score": 70,
-        "categories": [
-          "技術・製品",
-          "市場・資金"
-        ],
-        "breakdown": {
-          "required": true,
-          "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "market": {
-            "matches": 1,
-            "catScore": 20
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 10,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
         },
         "pass": true
       }
@@ -268,42 +268,6 @@
             "multiplier": 0.8
           },
           "freshness": 0,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "African Drone Forum highlights UAS inclusion in Tanzania’s draft aviation regulations",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPOEtoWjZnX2J5SklPemMtTDhTVzFSa2o0TnBNRVJ3YVBWQUc0b09lc2FzcElRSGU3cmFmSWJmUHpENDBIRXd6Z3Jqa0RXYmZIR2dqZnFGZm1PZjNfMHo0R2tQS2twc0hTOVhvbWI2T1RMTFBuOHBtcjQ2SFM3VUN0SndXRjVXY2lTU3VWb3U3eG90MV9PWjlJMXlZWE45RjJoVzVjOUVSdWtEU3VOLXVXVUJ5NnNGTU1pVXdhNFNYUHE5ZTJLcXU4Vlg0TW0tZw?oc=5\" target=\"_blank\">African Drone Forum highlights UAS inclusion in Tanzania’s draft aviation regulations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPOEtoWjZnX2J5SklPemMtTDhTVzFSa2o0TnBNRVJ3YVBWQUc0b09lc2FzcElRSGU3cmFmSWJmUHpENDBIRXd6Z3Jqa0RXYmZIR2dqZnFGZm1PZjNfMHo0R2tQS2twc0hTOVhvbWI2T1RMTFBuOHBtcjQ2SFM3VUN0SndXRjVXY2lTU3VWb3U3eG90MV9PWjlJMXlZWE45RjJoVzVjOUVSdWtEU3VOLXVXVUJ5NnNGTU1pVXdhNFNYUHE5ZTJLcXU4Vlg0TW0tZw?oc=5\" target=\"_blank\">African Drone Forum highlights UAS inclusion in Tanzania’s draft aviation regulations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPOEtoWjZnX2J5SklPemMtTDhTVzFSa2o0TnBNRVJ3YVBWQUc0b09lc2FzcElRSGU3cmFmSWJmUHpENDBIRXd6Z3Jqa0RXYmZIR2dqZnFGZm1PZjNfMHo0R2tQS2twc0hTOVhvbWI2T1RMTFBuOHBtcjQ2SFM3VUN0SndXRjVXY2lTU3VWb3U3eG90MV9PWjlJMXlZWE45RjJoVzVjOUVSdWtEU3VOLXVXVUJ5NnNGTU1pVXdhNFNYUHE5ZTJLcXU4Vlg0TW0tZw?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPOEtoWjZnX2J5SklPemMtTDhTVzFSa2o0TnBNRVJ3YVBWQUc0b09lc2FzcElRSGU3cmFmSWJmUHpENDBIRXd6Z3Jqa0RXYmZIR2dqZnFGZm1PZjNfMHo0R2tQS2twc0hTOVhvbWI2T1RMTFBuOHBtcjQ2SFM3VUN0SndXRjVXY2lTU3VWb3U3eG90MV9PWjlJMXlZWE45RjJoVzVjOUVSdWtEU3VOLXVXVUJ5NnNGTU1pVXdhNFNYUHE5ZTJLcXU4Vlg0TW0tZw?oc=5",
-      "publishedAt": "2026-07-28T09:34:36.000Z",
-      "source": "Unmanned airspace",
-      "_feedRegion": "eu",
-      "_feedName": "EASA",
-      "_scoring": {
-        "score": 67,
-        "categories": [
-          "規制・政策",
-          "市場・資金"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 1,
-            "catScore": 32
-          },
-          "market": {
-            "matches": 1,
-            "catScore": 20
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 15,
           "titleBonus": 10
         },
         "pass": true
@@ -531,6 +495,42 @@
       }
     },
     {
+      "title": "African Drone Forum highlights UAS inclusion in Tanzania’s draft aviation regulations",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPOEtoWjZnX2J5SklPemMtTDhTVzFSa2o0TnBNRVJ3YVBWQUc0b09lc2FzcElRSGU3cmFmSWJmUHpENDBIRXd6Z3Jqa0RXYmZIR2dqZnFGZm1PZjNfMHo0R2tQS2twc0hTOVhvbWI2T1RMTFBuOHBtcjQ2SFM3VUN0SndXRjVXY2lTU3VWb3U3eG90MV9PWjlJMXlZWE45RjJoVzVjOUVSdWtEU3VOLXVXVUJ5NnNGTU1pVXdhNFNYUHE5ZTJLcXU4Vlg0TW0tZw?oc=5\" target=\"_blank\">African Drone Forum highlights UAS inclusion in Tanzania’s draft aviation regulations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPOEtoWjZnX2J5SklPemMtTDhTVzFSa2o0TnBNRVJ3YVBWQUc0b09lc2FzcElRSGU3cmFmSWJmUHpENDBIRXd6Z3Jqa0RXYmZIR2dqZnFGZm1PZjNfMHo0R2tQS2twc0hTOVhvbWI2T1RMTFBuOHBtcjQ2SFM3VUN0SndXRjVXY2lTU3VWb3U3eG90MV9PWjlJMXlZWE45RjJoVzVjOUVSdWtEU3VOLXVXVUJ5NnNGTU1pVXdhNFNYUHE5ZTJLcXU4Vlg0TW0tZw?oc=5\" target=\"_blank\">African Drone Forum highlights UAS inclusion in Tanzania’s draft aviation regulations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPOEtoWjZnX2J5SklPemMtTDhTVzFSa2o0TnBNRVJ3YVBWQUc0b09lc2FzcElRSGU3cmFmSWJmUHpENDBIRXd6Z3Jqa0RXYmZIR2dqZnFGZm1PZjNfMHo0R2tQS2twc0hTOVhvbWI2T1RMTFBuOHBtcjQ2SFM3VUN0SndXRjVXY2lTU3VWb3U3eG90MV9PWjlJMXlZWE45RjJoVzVjOUVSdWtEU3VOLXVXVUJ5NnNGTU1pVXdhNFNYUHE5ZTJLcXU4Vlg0TW0tZw?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPOEtoWjZnX2J5SklPemMtTDhTVzFSa2o0TnBNRVJ3YVBWQUc0b09lc2FzcElRSGU3cmFmSWJmUHpENDBIRXd6Z3Jqa0RXYmZIR2dqZnFGZm1PZjNfMHo0R2tQS2twc0hTOVhvbWI2T1RMTFBuOHBtcjQ2SFM3VUN0SndXRjVXY2lTU3VWb3U3eG90MV9PWjlJMXlZWE45RjJoVzVjOUVSdWtEU3VOLXVXVUJ5NnNGTU1pVXdhNFNYUHE5ZTJLcXU4Vlg0TW0tZw?oc=5",
+      "publishedAt": "2026-07-28T09:34:36.000Z",
+      "source": "Unmanned airspace",
+      "_feedRegion": "eu",
+      "_feedName": "EASA",
+      "_scoring": {
+        "score": 62,
+        "categories": [
+          "規制・政策",
+          "市場・資金"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
+          "market": {
+            "matches": 1,
+            "catScore": 20
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 10,
+          "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
       "title": "Matternet Expands FAA Part 135 Drone Delivery Network Across the United States",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOc3E0Tnl0OTNaWDRSUDY0Mlk5NGVkdDFjTHFsM3I2THo0TzZJMF9faFlrczlfNVNiRUNJSWFsMF9GMlNDT2dYemNtSkdCYlFVcjRMUWlyMUNjS3picS1zRVlSTVd6OUxlNVlyeXktMm1ZMFN3STBhTFVUSDNWclRrTUdnanplNG1kVDFyTkpla1llX2ZGTmpSUENYUFpMeXVDV1M0OGFlOU5KbkNNck8xZjJR?oc=5\" target=\"_blank\">Matternet Expands FAA Part 135 Drone Delivery Network Across the United States</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">uasweekly.com</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOc3E0Tnl0OTNaWDRSUDY0Mlk5NGVkdDFjTHFsM3I2THo0TzZJMF9faFlrczlfNVNiRUNJSWFsMF9GMlNDT2dYemNtSkdCYlFVcjRMUWlyMUNjS3picS1zRVlSTVd6OUxlNVlyeXktMm1ZMFN3STBhTFVUSDNWclRrTUdnanplNG1kVDFyTkpla1llX2ZGTmpSUENYUFpMeXVDV1M0OGFlOU5KbkNNck8xZjJR?oc=5\" target=\"_blank\">Matternet Expands FAA Part 135 Drone Delivery Network Across the United States</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">uasweekly.com</font>",
@@ -572,7 +572,7 @@
       "content": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9jTmY1aDhGNnpkNUx3eXI3VUVmVW9tQV9HZ0tvQ3RvQVhPNGpDbzhQQk0xaDVLcFg2WDdsRERMU1dfQlgyRmE4dFVHVTJ0MnJKY0ZOblRVa252MEhDS05yZFJwUFNnb0Z0bTZqdnF3NzJpUk9TNkE?oc=5\" target=\"_blank\">U.S. Drone Delivery Hits Commercialization Inflection Point as FAA Deregulation Paves Way for Beyond-Visual-Line-of-Sight Flights</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.biggo.com</font>",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9jTmY1aDhGNnpkNUx3eXI3VUVmVW9tQV9HZ0tvQ3RvQVhPNGpDbzhQQk0xaDVLcFg2WDdsRERMU1dfQlgyRmE4dFVHVTJ0MnJKY0ZOblRVa252MEhDS05yZFJwUFNnb0Z0bTZqdnF3NzJpUk9TNkE?oc=5",
       "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9jTmY1aDhGNnpkNUx3eXI3VUVmVW9tQV9HZ0tvQ3RvQVhPNGpDbzhQQk0xaDVLcFg2WDdsRERMU1dfQlgyRmE4dFVHVTJ0MnJKY0ZOblRVa252MEhDS05yZFJwUFNnb0Z0bTZqdnF3NzJpUk9TNkE?oc=5",
-      "publishedAt": "2026-07-20T13:35:00.000Z",
+      "publishedAt": "2026-07-20T07:00:00.000Z",
       "source": "finance.biggo.com",
       "_feedRegion": "us",
       "_feedName": "FAA",
@@ -597,74 +597,6 @@
             "multiplier": 0.8
           },
           "freshness": 0,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "防衛装備庁、テラドローンなど4社の迎撃ドローン検証へ 国産機の早期調達プログラムで採択（画像）",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE5vYV9ycE5adDFPeTJvQkVfMlJlSlM4eVlpT1Q2OWJvYjI0S0drcXRYeC1yM0t3SGUzQ2ktbG5PdGJOU0UzQlhmQlFpXzU2eWxjczBjQlB0MWpORmxheWwwRWx0TW5EYWJzWUVkVTgtZHZ5ME1MZGc0MzhpSQ?oc=5\" target=\"_blank\">防衛装備庁、テラドローンなど4社の迎撃ドローン検証へ 国産機の早期調達プログラムで採択（画像）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ITmedia</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE5vYV9ycE5adDFPeTJvQkVfMlJlSlM4eVlpT1Q2OWJvYjI0S0drcXRYeC1yM0t3SGUzQ2ktbG5PdGJOU0UzQlhmQlFpXzU2eWxjczBjQlB0MWpORmxheWwwRWx0TW5EYWJzWUVkVTgtZHZ5ME1MZGc0MzhpSQ?oc=5\" target=\"_blank\">防衛装備庁、テラドローンなど4社の迎撃ドローン検証へ 国産機の早期調達プログラムで採択（画像）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ITmedia</font>",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5vYV9ycE5adDFPeTJvQkVfMlJlSlM4eVlpT1Q2OWJvYjI0S0drcXRYeC1yM0t3SGUzQ2ktbG5PdGJOU0UzQlhmQlFpXzU2eWxjczBjQlB0MWpORmxheWwwRWx0TW5EYWJzWUVkVTgtZHZ5ME1MZGc0MzhpSQ?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5vYV9ycE5adDFPeTJvQkVfMlJlSlM4eVlpT1Q2OWJvYjI0S0drcXRYeC1yM0t3SGUzQ2ktbG5PdGJOU0UzQlhmQlFpXzU2eWxjczBjQlB0MWpORmxheWwwRWx0TW5EYWJzWUVkVTgtZHZ5ME1MZGc0MzhpSQ?oc=5",
-      "publishedAt": "2026-07-28T17:29:51.000Z",
-      "source": "ITmedia",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP 経済メディア)",
-      "_scoring": {
-        "score": 61,
-        "categories": [
-          "市場・資金"
-        ],
-        "breakdown": {
-          "required": true,
-          "market": {
-            "matches": 1,
-            "catScore": 20
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 20,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "Vertical Aerospace completes first public eVTOL transition flight at Farnborough",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWmtkNlR5NU84NlNNVEc5WVZ6TlV4bXRjSGs2UUtrWnU5ek9iMzBxUkxtY2dXNVBXcXdtbVpvcTNiOGJlUGdJcEtCMVAxMEp0dUJPWFl3VzV1U1E4LUNwUGFnQkRaMmk1Uy1KanM4aTliZWRGUjU4MERUTnhGeEVvazh5TkZ1dUZ6SU94ZkEyTXVDVlhqTEo0cGNTYXhPTmlOcUs0eExYZGRUbkZrdjdMbC01MmJQQ0VZWU9mc0QwMkdxWFBxOHIxd2ZrdjVOeUtC?oc=5\" target=\"_blank\">Vertical Aerospace completes first public eVTOL transition flight at Farnborough</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Airport International</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWmtkNlR5NU84NlNNVEc5WVZ6TlV4bXRjSGs2UUtrWnU5ek9iMzBxUkxtY2dXNVBXcXdtbVpvcTNiOGJlUGdJcEtCMVAxMEp0dUJPWFl3VzV1U1E4LUNwUGFnQkRaMmk1Uy1KanM4aTliZWRGUjU4MERUTnhGeEVvazh5TkZ1dUZ6SU94ZkEyTXVDVlhqTEo0cGNTYXhPTmlOcUs0eExYZGRUbkZrdjdMbC01MmJQQ0VZWU9mc0QwMkdxWFBxOHIxd2ZrdjVOeUtC?oc=5\" target=\"_blank\">Vertical Aerospace completes first public eVTOL transition flight at Farnborough</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Airport International</font>",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWmtkNlR5NU84NlNNVEc5WVZ6TlV4bXRjSGs2UUtrWnU5ek9iMzBxUkxtY2dXNVBXcXdtbVpvcTNiOGJlUGdJcEtCMVAxMEp0dUJPWFl3VzV1U1E4LUNwUGFnQkRaMmk1Uy1KanM4aTliZWRGUjU4MERUTnhGeEVvazh5TkZ1dUZ6SU94ZkEyTXVDVlhqTEo0cGNTYXhPTmlOcUs0eExYZGRUbkZrdjdMbC01MmJQQ0VZWU9mc0QwMkdxWFBxOHIxd2ZrdjVOeUtC?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWmtkNlR5NU84NlNNVEc5WVZ6TlV4bXRjSGs2UUtrWnU5ek9iMzBxUkxtY2dXNVBXcXdtbVpvcTNiOGJlUGdJcEtCMVAxMEp0dUJPWFl3VzV1U1E4LUNwUGFnQkRaMmk1Uy1KanM4aTliZWRGUjU4MERUTnhGeEVvazh5TkZ1dUZ6SU94ZkEyTXVDVlhqTEo0cGNTYXhPTmlOcUs0eExYZGRUbkZrdjdMbC01MmJQQ0VZWU9mc0QwMkdxWFBxOHIxd2ZrdjVOeUtC?oc=5",
-      "publishedAt": "2026-07-28T09:34:15.000Z",
-      "source": "Business Airport International",
-      "_feedRegion": "global",
-      "_feedName": "Google News (Global)",
-      "_scoring": {
-        "score": 60,
-        "categories": [
-          "市場・資金",
-          "政策・インフラ"
-        ],
-        "breakdown": {
-          "required": true,
-          "market": {
-            "matches": 1,
-            "catScore": 20
-          },
-          "policy": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 15,
           "titleBonus": 10
         },
         "pass": true
@@ -944,6 +876,70 @@
       }
     },
     {
+      "title": "ドローン規制に新ルール、国交省",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1wOENTM0NrQksxbmQ3dVp0TlVsX2h2VXJCMWx4VmdQbjZmODY1SXFzYWdaUDUwTzI3Vl9ET2hvRHZtcnNmSUFpTjNTSC0zSHhMay1kYTN6QlZ4OW50S3FmZUVVd04?oc=5\" target=\"_blank\">ドローン規制に新ルール、国交省</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">埼玉新聞</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1wOENTM0NrQksxbmQ3dVp0TlVsX2h2VXJCMWx4VmdQbjZmODY1SXFzYWdaUDUwTzI3Vl9ET2hvRHZtcnNmSUFpTjNTSC0zSHhMay1kYTN6QlZ4OW50S3FmZUVVd04?oc=5\" target=\"_blank\">ドローン規制に新ルール、国交省</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">埼玉新聞</font>",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1wOENTM0NrQksxbmQ3dVp0TlVsX2h2VXJCMWx4VmdQbjZmODY1SXFzYWdaUDUwTzI3Vl9ET2hvRHZtcnNmSUFpTjNTSC0zSHhMay1kYTN6QlZ4OW50S3FmZUVVd04?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1wOENTM0NrQksxbmQ3dVp0TlVsX2h2VXJCMWx4VmdQbjZmODY1SXFzYWdaUDUwTzI3Vl9ET2hvRHZtcnNmSUFpTjNTSC0zSHhMay1kYTN6QlZ4OW50S3FmZUVVd04?oc=5",
+      "publishedAt": "2026-07-10T07:00:00.000Z",
+      "source": "埼玉新聞",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP 政策/実証)",
+      "_scoring": {
+        "score": 57,
+        "categories": [
+          "規制・政策"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 2,
+            "catScore": 40
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 0,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "写真：ドローン規制に新ルール、国交省 工業専用地域は許可不要に",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE8tTFFNcE5RTDNueFlaQXBPdzhGVWdPRG9ZbVYwemRWVXRmREswRmZ1VEN0QjNWS1NzXzhuRXgtMDZJUjFacktPeWgtblVVbUhiZGtJclVjc1Uya2phVXFsaG94VDVXQQ?oc=5\" target=\"_blank\">写真：ドローン規制に新ルール、国交省 工業専用地域は許可不要に</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">沖縄タイムス社</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE8tTFFNcE5RTDNueFlaQXBPdzhGVWdPRG9ZbVYwemRWVXRmREswRmZ1VEN0QjNWS1NzXzhuRXgtMDZJUjFacktPeWgtblVVbUhiZGtJclVjc1Uya2phVXFsaG94VDVXQQ?oc=5\" target=\"_blank\">写真：ドローン規制に新ルール、国交省 工業専用地域は許可不要に</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">沖縄タイムス社</font>",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8tTFFNcE5RTDNueFlaQXBPdzhGVWdPRG9ZbVYwemRWVXRmREswRmZ1VEN0QjNWS1NzXzhuRXgtMDZJUjFacktPeWgtblVVbUhiZGtJclVjc1Uya2phVXFsaG94VDVXQQ?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8tTFFNcE5RTDNueFlaQXBPdzhGVWdPRG9ZbVYwemRWVXRmREswRmZ1VEN0QjNWS1NzXzhuRXgtMDZJUjFacktPeWgtblVVbUhiZGtJclVjc1Uya2phVXFsaG94VDVXQQ?oc=5",
+      "publishedAt": "2026-07-10T06:22:36.000Z",
+      "source": "沖縄タイムス社",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP 政策/実証)",
+      "_scoring": {
+        "score": 57,
+        "categories": [
+          "規制・政策"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 2,
+            "catScore": 40
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 0,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
       "title": "【写真・画像】ドローン規制に新ルール、国交省 工業専用地域は許可不要に | | 全国のニュース",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5VaUFxc2xLdUx6RWlLdjZIR21KOG5Bc2I4Y3RqQy1QamplcV93VHJnbVdOYU85WFRIRUZEVDdacHQ2bHY0WElHT3N2REN3WkxLcG1mbzRvNk1MaUlfNkE?oc=5\" target=\"_blank\">【写真・画像】ドローン規制に新ルール、国交省 工業専用地域は許可不要に | | 全国のニュース</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">佐賀新聞</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5VaUFxc2xLdUx6RWlLdjZIR21KOG5Bc2I4Y3RqQy1QamplcV93VHJnbVdOYU85WFRIRUZEVDdacHQ2bHY0WElHT3N2REN3WkxLcG1mbzRvNk1MaUlfNkE?oc=5\" target=\"_blank\">【写真・画像】ドローン規制に新ルール、国交省 工業専用地域は許可不要に | | 全国のニュース</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">佐賀新聞</font>",
@@ -1008,6 +1004,38 @@
       }
     },
     {
+      "title": "防衛装備庁、テラドローンなど4社の迎撃ドローン検証へ 国産機の早期調達プログラムで採択（画像）",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE5vYV9ycE5adDFPeTJvQkVfMlJlSlM4eVlpT1Q2OWJvYjI0S0drcXRYeC1yM0t3SGUzQ2ktbG5PdGJOU0UzQlhmQlFpXzU2eWxjczBjQlB0MWpORmxheWwwRWx0TW5EYWJzWUVkVTgtZHZ5ME1MZGc0MzhpSQ?oc=5\" target=\"_blank\">防衛装備庁、テラドローンなど4社の迎撃ドローン検証へ 国産機の早期調達プログラムで採択（画像）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ITmedia</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE5vYV9ycE5adDFPeTJvQkVfMlJlSlM4eVlpT1Q2OWJvYjI0S0drcXRYeC1yM0t3SGUzQ2ktbG5PdGJOU0UzQlhmQlFpXzU2eWxjczBjQlB0MWpORmxheWwwRWx0TW5EYWJzWUVkVTgtZHZ5ME1MZGc0MzhpSQ?oc=5\" target=\"_blank\">防衛装備庁、テラドローンなど4社の迎撃ドローン検証へ 国産機の早期調達プログラムで採択（画像）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ITmedia</font>",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5vYV9ycE5adDFPeTJvQkVfMlJlSlM4eVlpT1Q2OWJvYjI0S0drcXRYeC1yM0t3SGUzQ2ktbG5PdGJOU0UzQlhmQlFpXzU2eWxjczBjQlB0MWpORmxheWwwRWx0TW5EYWJzWUVkVTgtZHZ5ME1MZGc0MzhpSQ?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5vYV9ycE5adDFPeTJvQkVfMlJlSlM4eVlpT1Q2OWJvYjI0S0drcXRYeC1yM0t3SGUzQ2ktbG5PdGJOU0UzQlhmQlFpXzU2eWxjczBjQlB0MWpORmxheWwwRWx0TW5EYWJzWUVkVTgtZHZ5ME1MZGc0MzhpSQ?oc=5",
+      "publishedAt": "2026-07-28T17:29:51.000Z",
+      "source": "ITmedia",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP 経済メディア)",
+      "_scoring": {
+        "score": 56,
+        "categories": [
+          "市場・資金"
+        ],
+        "breakdown": {
+          "required": true,
+          "market": {
+            "matches": 1,
+            "catScore": 20
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 15,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
       "title": "Matternet Expands Part 135 Operator Network to Accelerate U.S. Drone Delivery Growth",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxPYXJoT1JtckgxcV9QeXZ2MFZHZWYxelFuM0s3LU1kV1gxQzNTcGUtNk42R2VNUTNIbVFtUEhfQkN2NGpOeDd4VkRkaG9hNElLSlBHUG5ZcTR1V1VOTVhncEY5bnZ1U2tZWXpRYW9oN2RfLTBPZXpsSjQ0WTlGMWFSZUZ6M05qMHlMN2k2N2MwamdSb05tNl92c0ZqMkpvdUxDaFhRV2owWkNUdkxrQmhaV3JNY2liUUd6aGdzclBJa0hHUV9rek9WTUU0M2s5b2xacEVjX2JNaWE?oc=5\" target=\"_blank\">Matternet Expands Part 135 Operator Network to Accelerate U.S. Drone Delivery Growth</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Wire</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxPYXJoT1JtckgxcV9QeXZ2MFZHZWYxelFuM0s3LU1kV1gxQzNTcGUtNk42R2VNUTNIbVFtUEhfQkN2NGpOeDd4VkRkaG9hNElLSlBHUG5ZcTR1V1VOTVhncEY5bnZ1U2tZWXpRYW9oN2RfLTBPZXpsSjQ0WTlGMWFSZUZ6M05qMHlMN2k2N2MwamdSb05tNl92c0ZqMkpvdUxDaFhRV2owWkNUdkxrQmhaV3JNY2liUUd6aGdzclBJa0hHUV9rek9WTUU0M2s5b2xacEVjX2JNaWE?oc=5\" target=\"_blank\">Matternet Expands Part 135 Operator Network to Accelerate U.S. Drone Delivery Growth</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Wire</font>",
@@ -1015,42 +1043,6 @@
       "googleNewsUrl": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPYXJoT1JtckgxcV9QeXZ2MFZHZWYxelFuM0s3LU1kV1gxQzNTcGUtNk42R2VNUTNIbVFtUEhfQkN2NGpOeDd4VkRkaG9hNElLSlBHUG5ZcTR1V1VOTVhncEY5bnZ1U2tZWXpRYW9oN2RfLTBPZXpsSjQ0WTlGMWFSZUZ6M05qMHlMN2k2N2MwamdSb05tNl92c0ZqMkpvdUxDaFhRV2owWkNUdkxrQmhaV3JNY2liUUd6aGdzclBJa0hHUV9rek9WTUU0M2s5b2xacEVjX2JNaWE?oc=5",
       "publishedAt": "2026-07-15T10:00:00.000Z",
       "source": "Business Wire",
-      "_feedRegion": "us",
-      "_feedName": "FAA",
-      "_scoring": {
-        "score": 55,
-        "categories": [
-          "規制・政策",
-          "政策・インフラ"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 1,
-            "catScore": 32
-          },
-          "policy": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 0,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "Castle Rock, Parker to analyze drone delivery regulations",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNUU05QVNWZnE1cTNuQlZCRFhQdnAwOVNIaGRFWWVhT3h2YW10ZDhkYk5rTU1Fd3BRb1U1eFdmcTI0cWFoU29uMFpMdkVSaFp3N3pkUVVvR193WmxmMmQ4Y0J6UEJ2eE1Wel96N2NMbEN0Q1VNU1lsMmU2MEdhNi1NamlPTEhuc1lZdTV2NUllbk1xYVZs?oc=5\" target=\"_blank\">Castle Rock, Parker to analyze drone delivery regulations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Castle Rock News Press</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNUU05QVNWZnE1cTNuQlZCRFhQdnAwOVNIaGRFWWVhT3h2YW10ZDhkYk5rTU1Fd3BRb1U1eFdmcTI0cWFoU29uMFpMdkVSaFp3N3pkUVVvR193WmxmMmQ4Y0J6UEJ2eE1Wel96N2NMbEN0Q1VNU1lsMmU2MEdhNi1NamlPTEhuc1lZdTV2NUllbk1xYVZs?oc=5\" target=\"_blank\">Castle Rock, Parker to analyze drone delivery regulations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Castle Rock News Press</font>",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUU05QVNWZnE1cTNuQlZCRFhQdnAwOVNIaGRFWWVhT3h2YW10ZDhkYk5rTU1Fd3BRb1U1eFdmcTI0cWFoU29uMFpMdkVSaFp3N3pkUVVvR193WmxmMmQ4Y0J6UEJ2eE1Wel96N2NMbEN0Q1VNU1lsMmU2MEdhNi1NamlPTEhuc1lZdTV2NUllbk1xYVZs?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUU05QVNWZnE1cTNuQlZCRFhQdnAwOVNIaGRFWWVhT3h2YW10ZDhkYk5rTU1Fd3BRb1U1eFdmcTI0cWFoU29uMFpMdkVSaFp3N3pkUVVvR193WmxmMmQ4Y0J6UEJ2eE1Wel96N2NMbEN0Q1VNU1lsMmU2MEdhNi1NamlPTEhuc1lZdTV2NUllbk1xYVZs?oc=5",
-      "publishedAt": "2026-07-23T22:00:00.000Z",
-      "source": "Castle Rock News Press",
       "_feedRegion": "us",
       "_feedName": "FAA",
       "_scoring": {
