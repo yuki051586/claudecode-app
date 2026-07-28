@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-28T11:22:18.119Z",
-  "rawCount": 708,
+  "generatedAt": "2026-07-28T14:20:24.018Z",
+  "rawCount": 710,
   "articles": [
     {
       "title": "Joby Aviation and Virgin Atlantic sign binding UK air taxi partnership",
@@ -13,7 +13,7 @@
       "_feedRegion": "global",
       "_feedName": "Google News (Global)",
       "_scoring": {
-        "score": 91,
+        "score": 86,
         "categories": [
           "規制・政策",
           "市場・資金",
@@ -37,8 +37,45 @@
             "domain": "news.google.com",
             "multiplier": 0.8
           },
-          "freshness": 20,
+          "freshness": 15,
           "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "ラントロニクス、ドローン自律システムでDoD Solutionと提携 執筆 - Investing.com",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9HQW5TMFdDd0ZhRjNocG1NQlY3b1lmelJIWXBzd3h6WHVINm1USV9WMHFmUHQ3QkFHZGtQMVYtM3ZMZUFkYmFDQzZrNWZCYnZnQ3ZKMEU3aFp4MW9CdzAzWTBnUDhOXzc1d2JoTjBOREM?oc=5\" target=\"_blank\">ラントロニクス、ドローン自律システムでDoD Solutionと提携 執筆</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9HQW5TMFdDd0ZhRjNocG1NQlY3b1lmelJIWXBzd3h6WHVINm1USV9WMHFmUHQ3QkFHZGtQMVYtM3ZMZUFkYmFDQzZrNWZCYnZnQ3ZKMEU3aFp4MW9CdzAzWTBnUDhOXzc1d2JoTjBOREM?oc=5\" target=\"_blank\">ラントロニクス、ドローン自律システムでDoD Solutionと提携 執筆</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース</font>",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9HQW5TMFdDd0ZhRjNocG1NQlY3b1lmelJIWXBzd3h6WHVINm1USV9WMHFmUHQ3QkFHZGtQMVYtM3ZMZUFkYmFDQzZrNWZCYnZnQ3ZKMEU3aFp4MW9CdzAzWTBnUDhOXzc1d2JoTjBOREM?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9HQW5TMFdDd0ZhRjNocG1NQlY3b1lmelJIWXBzd3h6WHVINm1USV9WMHFmUHQ3QkFHZGtQMVYtM3ZMZUFkYmFDQzZrNWZCYnZnQ3ZKMEU3aFp4MW9CdzAzWTBnUDhOXzc1d2JoTjBOREM?oc=5",
+      "publishedAt": "2026-07-28T11:09:00.000Z",
+      "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP 政策/実証)",
+      "_scoring": {
+        "score": 75,
+        "categories": [
+          "市場・資金",
+          "政策・インフラ"
+        ],
+        "breakdown": {
+          "required": true,
+          "market": {
+            "matches": 1,
+            "catScore": 20
+          },
+          "policy": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 15,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
         },
         "pass": true
       }
@@ -274,42 +311,6 @@
       }
     },
     {
-      "title": "Vertical Aerospace completes first public eVTOL transition flight at Farnborough",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWmtkNlR5NU84NlNNVEc5WVZ6TlV4bXRjSGs2UUtrWnU5ek9iMzBxUkxtY2dXNVBXcXdtbVpvcTNiOGJlUGdJcEtCMVAxMEp0dUJPWFl3VzV1U1E4LUNwUGFnQkRaMmk1Uy1KanM4aTliZWRGUjU4MERUTnhGeEVvazh5TkZ1dUZ6SU94ZkEyTXVDVlhqTEo0cGNTYXhPTmlOcUs0eExYZGRUbkZrdjdMbC01MmJQQ0VZWU9mc0QwMkdxWFBxOHIxd2ZrdjVOeUtC?oc=5\" target=\"_blank\">Vertical Aerospace completes first public eVTOL transition flight at Farnborough</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Airport International</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWmtkNlR5NU84NlNNVEc5WVZ6TlV4bXRjSGs2UUtrWnU5ek9iMzBxUkxtY2dXNVBXcXdtbVpvcTNiOGJlUGdJcEtCMVAxMEp0dUJPWFl3VzV1U1E4LUNwUGFnQkRaMmk1Uy1KanM4aTliZWRGUjU4MERUTnhGeEVvazh5TkZ1dUZ6SU94ZkEyTXVDVlhqTEo0cGNTYXhPTmlOcUs0eExYZGRUbkZrdjdMbC01MmJQQ0VZWU9mc0QwMkdxWFBxOHIxd2ZrdjVOeUtC?oc=5\" target=\"_blank\">Vertical Aerospace completes first public eVTOL transition flight at Farnborough</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Airport International</font>",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWmtkNlR5NU84NlNNVEc5WVZ6TlV4bXRjSGs2UUtrWnU5ek9iMzBxUkxtY2dXNVBXcXdtbVpvcTNiOGJlUGdJcEtCMVAxMEp0dUJPWFl3VzV1U1E4LUNwUGFnQkRaMmk1Uy1KanM4aTliZWRGUjU4MERUTnhGeEVvazh5TkZ1dUZ6SU94ZkEyTXVDVlhqTEo0cGNTYXhPTmlOcUs0eExYZGRUbkZrdjdMbC01MmJQQ0VZWU9mc0QwMkdxWFBxOHIxd2ZrdjVOeUtC?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWmtkNlR5NU84NlNNVEc5WVZ6TlV4bXRjSGs2UUtrWnU5ek9iMzBxUkxtY2dXNVBXcXdtbVpvcTNiOGJlUGdJcEtCMVAxMEp0dUJPWFl3VzV1U1E4LUNwUGFnQkRaMmk1Uy1KanM4aTliZWRGUjU4MERUTnhGeEVvazh5TkZ1dUZ6SU94ZkEyTXVDVlhqTEo0cGNTYXhPTmlOcUs0eExYZGRUbkZrdjdMbC01MmJQQ0VZWU9mc0QwMkdxWFBxOHIxd2ZrdjVOeUtC?oc=5",
-      "publishedAt": "2026-07-28T09:34:15.000Z",
-      "source": "Business Airport International",
-      "_feedRegion": "global",
-      "_feedName": "Google News (Global)",
-      "_scoring": {
-        "score": 65,
-        "categories": [
-          "市場・資金",
-          "政策・インフラ"
-        ],
-        "breakdown": {
-          "required": true,
-          "market": {
-            "matches": 1,
-            "catScore": 20
-          },
-          "policy": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 20,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
       "title": "Liberaware Korea、韓国のドローン基盤インフラ管理プラットフォーム企業ALTIVIONと業務提携",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9IY1dQM3ZwYTgyNlFmT0pyVF9FNnRQN0U2VEJxTTZob1pRdUdFZmhlS1Q0S2FxY3hTUkRNdDliSldybWtJSHlaZHY2VkI1d1FwTzdRdm9xaGJNZW04Vm96UlJ0azlucE1UZ1E?oc=5\" target=\"_blank\">Liberaware Korea、韓国のドローン基盤インフラ管理プラットフォーム企業ALTIVIONと業務提携</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ドローンジャーナル</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9IY1dQM3ZwYTgyNlFmT0pyVF9FNnRQN0U2VEJxTTZob1pRdUdFZmhlS1Q0S2FxY3hTUkRNdDliSldybWtJSHlaZHY2VkI1d1FwTzdRdm9xaGJNZW04Vm96UlJ0azlucE1UZ1E?oc=5\" target=\"_blank\">Liberaware Korea、韓国のドローン基盤インフラ管理プラットフォーム企業ALTIVIONと業務提携</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ドローンジャーナル</font>",
@@ -530,6 +531,42 @@
       }
     },
     {
+      "title": "Vertical Aerospace completes first public eVTOL transition flight at Farnborough",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWmtkNlR5NU84NlNNVEc5WVZ6TlV4bXRjSGs2UUtrWnU5ek9iMzBxUkxtY2dXNVBXcXdtbVpvcTNiOGJlUGdJcEtCMVAxMEp0dUJPWFl3VzV1U1E4LUNwUGFnQkRaMmk1Uy1KanM4aTliZWRGUjU4MERUTnhGeEVvazh5TkZ1dUZ6SU94ZkEyTXVDVlhqTEo0cGNTYXhPTmlOcUs0eExYZGRUbkZrdjdMbC01MmJQQ0VZWU9mc0QwMkdxWFBxOHIxd2ZrdjVOeUtC?oc=5\" target=\"_blank\">Vertical Aerospace completes first public eVTOL transition flight at Farnborough</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Airport International</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWmtkNlR5NU84NlNNVEc5WVZ6TlV4bXRjSGs2UUtrWnU5ek9iMzBxUkxtY2dXNVBXcXdtbVpvcTNiOGJlUGdJcEtCMVAxMEp0dUJPWFl3VzV1U1E4LUNwUGFnQkRaMmk1Uy1KanM4aTliZWRGUjU4MERUTnhGeEVvazh5TkZ1dUZ6SU94ZkEyTXVDVlhqTEo0cGNTYXhPTmlOcUs0eExYZGRUbkZrdjdMbC01MmJQQ0VZWU9mc0QwMkdxWFBxOHIxd2ZrdjVOeUtC?oc=5\" target=\"_blank\">Vertical Aerospace completes first public eVTOL transition flight at Farnborough</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Airport International</font>",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWmtkNlR5NU84NlNNVEc5WVZ6TlV4bXRjSGs2UUtrWnU5ek9iMzBxUkxtY2dXNVBXcXdtbVpvcTNiOGJlUGdJcEtCMVAxMEp0dUJPWFl3VzV1U1E4LUNwUGFnQkRaMmk1Uy1KanM4aTliZWRGUjU4MERUTnhGeEVvazh5TkZ1dUZ6SU94ZkEyTXVDVlhqTEo0cGNTYXhPTmlOcUs0eExYZGRUbkZrdjdMbC01MmJQQ0VZWU9mc0QwMkdxWFBxOHIxd2ZrdjVOeUtC?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWmtkNlR5NU84NlNNVEc5WVZ6TlV4bXRjSGs2UUtrWnU5ek9iMzBxUkxtY2dXNVBXcXdtbVpvcTNiOGJlUGdJcEtCMVAxMEp0dUJPWFl3VzV1U1E4LUNwUGFnQkRaMmk1Uy1KanM4aTliZWRGUjU4MERUTnhGeEVvazh5TkZ1dUZ6SU94ZkEyTXVDVlhqTEo0cGNTYXhPTmlOcUs0eExYZGRUbkZrdjdMbC01MmJQQ0VZWU9mc0QwMkdxWFBxOHIxd2ZrdjVOeUtC?oc=5",
+      "publishedAt": "2026-07-28T09:34:15.000Z",
+      "source": "Business Airport International",
+      "_feedRegion": "global",
+      "_feedName": "Google News (Global)",
+      "_scoring": {
+        "score": 60,
+        "categories": [
+          "市場・資金",
+          "政策・インフラ"
+        ],
+        "breakdown": {
+          "required": true,
+          "market": {
+            "matches": 1,
+            "catScore": 20
+          },
+          "policy": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 15,
+          "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
       "title": "軍事ドローン量産、防衛企業がルノーと提携 戦況左右する競争の裏側",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE85YU5PNTRELVNuSnRtbk96czB1aEVocFY4SWl3LVVKV0RQTDNCU2MxTHh5NS03cUQzaEdUeGVQbWlyUXlrSDhXV0VhdXFWZGFMdk1vOURtYVkxbTRRM3VBRDJNczBSSms?oc=5\" target=\"_blank\">軍事ドローン量産、防衛企業がルノーと提携 戦況左右する競争の裏側</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">朝日新聞</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE85YU5PNTRELVNuSnRtbk96czB1aEVocFY4SWl3LVVKV0RQTDNCU2MxTHh5NS03cUQzaEdUeGVQbWlyUXlrSDhXV0VhdXFWZGFMdk1vOURtYVkxbTRRM3VBRDJNczBSSms?oc=5\" target=\"_blank\">軍事ドローン量産、防衛企業がルノーと提携 戦況左右する競争の裏側</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">朝日新聞</font>",
@@ -604,20 +641,19 @@
       }
     },
     {
-      "title": "Autonomy HD、次世代の「Surveyor」シリーズを公開。係留型ハイブリッド機と半固体電池採用の重量物搬送機 [国際ドローン展2026]",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE1zdno1dnZzdEpHcFNlN0J5bGxlc0tVT3BsSHVXeDhpclllZXlvY3p1MWM2MUFPSVNNLTRsdHYxVHUyOUZkOVVNZnltSDRXRl9VdlJDanVFLXNBUTRJS3dv?oc=5\" target=\"_blank\">Autonomy HD、次世代の「Surveyor」シリーズを公開。係留型ハイブリッド機と半固体電池採用の重量物搬送機 [国際ドローン展2026]</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DRONE.jp</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE1zdno1dnZzdEpHcFNlN0J5bGxlc0tVT3BsSHVXeDhpclllZXlvY3p1MWM2MUFPSVNNLTRsdHYxVHUyOUZkOVVNZnltSDRXRl9VdlJDanVFLXNBUTRJS3dv?oc=5\" target=\"_blank\">Autonomy HD、次世代の「Surveyor」シリーズを公開。係留型ハイブリッド機と半固体電池採用の重量物搬送機 [国際ドローン展2026]</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DRONE.jp</font>",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1zdno1dnZzdEpHcFNlN0J5bGxlc0tVT3BsSHVXeDhpclllZXlvY3p1MWM2MUFPSVNNLTRsdHYxVHUyOUZkOVVNZnltSDRXRl9VdlJDanVFLXNBUTRJS3dv?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1zdno1dnZzdEpHcFNlN0J5bGxlc0tVT3BsSHVXeDhpclllZXlvY3p1MWM2MUFPSVNNLTRsdHYxVHUyOUZkOVVNZnltSDRXRl9VdlJDanVFLXNBUTRJS3dv?oc=5",
-      "publishedAt": "2026-07-17T07:13:53.000Z",
-      "source": "DRONE.jp",
+      "title": "中国のドローンスワーム 台風通過全過程の立体観測を初めて実施",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE9YZ2l1V252eVlxUDIwRmp2dG5vRmktRmlVYUVLWWdUekk3UVhTTml0N1hvYlZuN0lnRWgwME00OEtGSWdHTDdLYmxKdWtjOENSUnI3dzlIeTBYSUtMNFdZMmwtUXgtZw?oc=5\" target=\"_blank\">中国のドローンスワーム 台風通過全過程の立体観測を初めて実施</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CGTN Japanese</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE9YZ2l1V252eVlxUDIwRmp2dG5vRmktRmlVYUVLWWdUekk3UVhTTml0N1hvYlZuN0lnRWgwME00OEtGSWdHTDdLYmxKdWtjOENSUnI3dzlIeTBYSUtMNFdZMmwtUXgtZw?oc=5\" target=\"_blank\">中国のドローンスワーム 台風通過全過程の立体観測を初めて実施</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CGTN Japanese</font>",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9YZ2l1V252eVlxUDIwRmp2dG5vRmktRmlVYUVLWWdUekk3UVhTTml0N1hvYlZuN0lnRWgwME00OEtGSWdHTDdLYmxKdWtjOENSUnI3dzlIeTBYSUtMNFdZMmwtUXgtZw?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9YZ2l1V252eVlxUDIwRmp2dG5vRmktRmlVYUVLWWdUekk3UVhTTml0N1hvYlZuN0lnRWgwME00OEtGSWdHTDdLYmxKdWtjOENSUnI3dzlIeTBYSUtMNFdZMmwtUXgtZw?oc=5",
+      "publishedAt": "2026-07-28T08:29:55.000Z",
+      "source": "CGTN Japanese",
       "_feedRegion": "jp",
-      "_feedName": "Google News (JP ドローン専門)",
+      "_feedName": "Google News (JP)",
       "_scoring": {
-        "score": 60,
+        "score": 59,
         "categories": [
-          "技術・製品",
-          "市場・資金"
+          "技術・製品"
         ],
         "breakdown": {
           "required": true,
@@ -625,15 +661,11 @@
             "matches": 1,
             "catScore": 24
           },
-          "market": {
-            "matches": 1,
-            "catScore": 20
-          },
           "sourceTrust": {
             "domain": "news.google.com",
             "multiplier": 0.8
           },
-          "freshness": 0,
+          "freshness": 15,
           "titleBonus": 10,
           "jpRegionBonus": 15
         },
@@ -746,12 +778,12 @@
     },
     {
       "title": "ドローン規制に新ルール、国交省 工業専用地域は許可不要に",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1Fa3dnMnQ2cXhZOWNFcmtJQWlqSGZ3T1JLcWQ0YTVDNEdCVzdzZldGZEZGZ1FyV1paQWxfbzAxSnRIc2RwempXUHBPdnA3aE16U19URFNsTjUyX2o5TFE?oc=5\" target=\"_blank\">ドローン規制に新ルール、国交省 工業専用地域は許可不要に</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新潟日報</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1Fa3dnMnQ2cXhZOWNFcmtJQWlqSGZ3T1JLcWQ0YTVDNEdCVzdzZldGZEZGZ1FyV1paQWxfbzAxSnRIc2RwempXUHBPdnA3aE16U19URFNsTjUyX2o5TFE?oc=5\" target=\"_blank\">ドローン規制に新ルール、国交省 工業専用地域は許可不要に</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新潟日報</font>",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1Fa3dnMnQ2cXhZOWNFcmtJQWlqSGZ3T1JLcWQ0YTVDNEdCVzdzZldGZEZGZ1FyV1paQWxfbzAxSnRIc2RwempXUHBPdnA3aE16U19URFNsTjUyX2o5TFE?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1Fa3dnMnQ2cXhZOWNFcmtJQWlqSGZ3T1JLcWQ0YTVDNEdCVzdzZldGZEZGZ1FyV1paQWxfbzAxSnRIc2RwempXUHBPdnA3aE16U19URFNsTjUyX2o5TFE?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE9aMnhleU44RWphUWlnTXd3U1pnT0N6WWpVWGw0aFlhUUU5WE5vZUNLcnIwRzk0YUwzNG1aTzNucjMyQVo5YWZvZ3B4b091YjdVU2Z1R3dqUllGQQ?oc=5\" target=\"_blank\">ドローン規制に新ルール、国交省 工業専用地域は許可不要に</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">山陽新聞</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE9aMnhleU44RWphUWlnTXd3U1pnT0N6WWpVWGw0aFlhUUU5WE5vZUNLcnIwRzk0YUwzNG1aTzNucjMyQVo5YWZvZ3B4b091YjdVU2Z1R3dqUllGQQ?oc=5\" target=\"_blank\">ドローン規制に新ルール、国交省 工業専用地域は許可不要に</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">山陽新聞</font>",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9aMnhleU44RWphUWlnTXd3U1pnT0N6WWpVWGw0aFlhUUU5WE5vZUNLcnIwRzk0YUwzNG1aTzNucjMyQVo5YWZvZ3B4b091YjdVU2Z1R3dqUllGQQ?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9aMnhleU44RWphUWlnTXd3U1pnT0N6WWpVWGw0aFlhUUU5WE5vZUNLcnIwRzk0YUwzNG1aTzNucjMyQVo5YWZvZ3B4b091YjdVU2Z1R3dqUllGQQ?oc=5",
       "publishedAt": "2026-07-10T07:00:00.000Z",
-      "source": "新潟日報",
+      "source": "山陽新聞",
       "_feedRegion": "jp",
       "_feedName": "Google News (JP 政策/実証)",
       "_scoring": {
@@ -816,38 +848,6 @@
       "googleNewsUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1wOENTM0NrQksxbmQ3dVp0TlVsX2h2VXJCMWx4VmdQbjZmODY1SXFzYWdaUDUwTzI3Vl9ET2hvRHZtcnNmSUFpTjNTSC0zSHhMay1kYTN6QlZ4OW50S3FmZUVVd04?oc=5",
       "publishedAt": "2026-07-10T07:00:00.000Z",
       "source": "埼玉新聞",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP 政策/実証)",
-      "_scoring": {
-        "score": 57,
-        "categories": [
-          "規制・政策"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 2,
-            "catScore": 40
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 0,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "写真：ドローン規制に新ルール、国交省 工業専用地域は許可不要に",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE8tTFFNcE5RTDNueFlaQXBPdzhGVWdPRG9ZbVYwemRWVXRmREswRmZ1VEN0QjNWS1NzXzhuRXgtMDZJUjFacktPeWgtblVVbUhiZGtJclVjc1Uya2phVXFsaG94VDVXQQ?oc=5\" target=\"_blank\">写真：ドローン規制に新ルール、国交省 工業専用地域は許可不要に</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">沖縄タイムス社</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE8tTFFNcE5RTDNueFlaQXBPdzhGVWdPRG9ZbVYwemRWVXRmREswRmZ1VEN0QjNWS1NzXzhuRXgtMDZJUjFacktPeWgtblVVbUhiZGtJclVjc1Uya2phVXFsaG94VDVXQQ?oc=5\" target=\"_blank\">写真：ドローン規制に新ルール、国交省 工業専用地域は許可不要に</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">沖縄タイムス社</font>",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8tTFFNcE5RTDNueFlaQXBPdzhGVWdPRG9ZbVYwemRWVXRmREswRmZ1VEN0QjNWS1NzXzhuRXgtMDZJUjFacktPeWgtblVVbUhiZGtJclVjc1Uya2phVXFsaG94VDVXQQ?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8tTFFNcE5RTDNueFlaQXBPdzhGVWdPRG9ZbVYwemRWVXRmREswRmZ1VEN0QjNWS1NzXzhuRXgtMDZJUjFacktPeWgtblVVbUhiZGtJclVjc1Uya2phVXFsaG94VDVXQQ?oc=5",
-      "publishedAt": "2026-07-10T06:22:36.000Z",
-      "source": "沖縄タイムス社",
       "_feedRegion": "jp",
       "_feedName": "Google News (JP 政策/実証)",
       "_scoring": {
