@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-03T14:49:27.290Z",
-  "rawCount": 722,
+  "generatedAt": "2026-08-03T17:11:28.751Z",
+  "rawCount": 721,
   "articles": [
     {
       "title": "DoorDash Earns FAA Part 135 Certification, Launches In-House Drone Delivery Program",
@@ -13,7 +13,7 @@
       "_feedRegion": "us",
       "_feedName": "FAA",
       "_scoring": {
-        "score": 100,
+        "score": 95,
         "categories": [
           "規制・政策",
           "技術・製品",
@@ -37,7 +37,7 @@
             "domain": "news.google.com",
             "multiplier": 0.8
           },
-          "freshness": 20,
+          "freshness": 15,
           "titleBonus": 10
         },
         "pass": true
@@ -79,6 +79,47 @@
             "multiplier": 0.8
           },
           "freshness": 5,
+          "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "DoorDash launches in-house drone delivery program after FAA certification",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxORG95TnMxcFQ5X1RiQjFhRlFaWTlPZGMtcF9rOWlfVFF2bkJQTTFwc3dPT1hudUFVR2pOVTZnVUFkTlpnQUhHR3RkNURyQXhFa0tidHk4SmpST0xiT3E0UDBVenZLRFFLUUM1cm9zYzdHY244N1hYQlR2b2xrV0xHVlcyVFJMLVpSa2otZkIxZELSAZYBQVVfeXFMTVYxQ2xTNkJ4aG81cFAxYzNISHRIVDFIV241emo1dFJ5LVk2WUNfNl94eVVCM0dVbm81OHZsSVZ3dUdNYXlSb3lhRXg2MUQyWS02MWZjaG5BTUZldDNmb0JOYWVtLVRNeHo5QTZ4SGVqOVgtWlpKU01Sb0NzWTQ5Ym9zNV9wRzJCdkpWTWo4VzhKNHhvbV9R?oc=5\" target=\"_blank\">DoorDash launches in-house drone delivery program after FAA certification</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxORG95TnMxcFQ5X1RiQjFhRlFaWTlPZGMtcF9rOWlfVFF2bkJQTTFwc3dPT1hudUFVR2pOVTZnVUFkTlpnQUhHR3RkNURyQXhFa0tidHk4SmpST0xiT3E0UDBVenZLRFFLUUM1cm9zYzdHY244N1hYQlR2b2xrV0xHVlcyVFJMLVpSa2otZkIxZELSAZYBQVVfeXFMTVYxQ2xTNkJ4aG81cFAxYzNISHRIVDFIV241emo1dFJ5LVk2WUNfNl94eVVCM0dVbm81OHZsSVZ3dUdNYXlSb3lhRXg2MUQyWS02MWZjaG5BTUZldDNmb0JOYWVtLVRNeHo5QTZ4SGVqOVgtWlpKU01Sb0NzWTQ5Ym9zNV9wRzJCdkpWTWo4VzhKNHhvbV9R?oc=5\" target=\"_blank\">DoorDash launches in-house drone delivery program after FAA certification</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORG95TnMxcFQ5X1RiQjFhRlFaWTlPZGMtcF9rOWlfVFF2bkJQTTFwc3dPT1hudUFVR2pOVTZnVUFkTlpnQUhHR3RkNURyQXhFa0tidHk4SmpST0xiT3E0UDBVenZLRFFLUUM1cm9zYzdHY244N1hYQlR2b2xrV0xHVlcyVFJMLVpSa2otZkIxZELSAZYBQVVfeXFMTVYxQ2xTNkJ4aG81cFAxYzNISHRIVDFIV241emo1dFJ5LVk2WUNfNl94eVVCM0dVbm81OHZsSVZ3dUdNYXlSb3lhRXg2MUQyWS02MWZjaG5BTUZldDNmb0JOYWVtLVRNeHo5QTZ4SGVqOVgtWlpKU01Sb0NzWTQ5Ym9zNV9wRzJCdkpWTWo4VzhKNHhvbV9R?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORG95TnMxcFQ5X1RiQjFhRlFaWTlPZGMtcF9rOWlfVFF2bkJQTTFwc3dPT1hudUFVR2pOVTZnVUFkTlpnQUhHR3RkNURyQXhFa0tidHk4SmpST0xiT3E0UDBVenZLRFFLUUM1cm9zYzdHY244N1hYQlR2b2xrV0xHVlcyVFJMLVpSa2otZkIxZELSAZYBQVVfeXFMTVYxQ2xTNkJ4aG81cFAxYzNISHRIVDFIV241emo1dFJ5LVk2WUNfNl94eVVCM0dVbm81OHZsSVZ3dUdNYXlSb3lhRXg2MUQyWS02MWZjaG5BTUZldDNmb0JOYWVtLVRNeHo5QTZ4SGVqOVgtWlpKU01Sb0NzWTQ5Ym9zNV9wRzJCdkpWTWo4VzhKNHhvbV9R?oc=5",
+      "publishedAt": "2026-07-29T16:31:12.000Z",
+      "source": "CNBC",
+      "_feedRegion": "us",
+      "_feedName": "FAA",
+      "_scoring": {
+        "score": 80,
+        "categories": [
+          "規制・政策",
+          "技術・製品",
+          "政策・インフラ"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 2,
+            "catScore": 40
+          },
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "policy": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 0,
           "titleBonus": 10
         },
         "pass": true
@@ -133,47 +174,6 @@
       "googleNewsUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaHVNTFcxWHY1RVd2VVlpVTBxaGdIV3N6RkVIaDZzeU5zN2hxVzFQQ1o4WmY0b1JpYXZMcHVvRlZvM3N3UkgzV2lFZWkzRmExeTRPNTBpQTNoNEpOTldCVFd5RFlSSG5ISTZ2VTEwRm9fbmZ3Ti1GaFhtTXdaOTRKOHRjZ2dJakYzQkN4R05jT3E5bkM4X0JaTEktMXZvcFhEU3Z2UkxwbDNiWnl3UGlpRzduY1JrQlcxY05EXzlSVWd2ampQN1E?oc=5",
       "publishedAt": "2026-07-29T14:18:00.000Z",
       "source": "Quiver Quantitative",
-      "_feedRegion": "us",
-      "_feedName": "FAA",
-      "_scoring": {
-        "score": 80,
-        "categories": [
-          "規制・政策",
-          "技術・製品",
-          "政策・インフラ"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 2,
-            "catScore": 40
-          },
-          "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "policy": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 0,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "DoorDash launches in-house drone delivery program after FAA certification",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNemhZWnp4dUNLSUJtMVlIc1JoeUZuR1c4WE81bnBJSkxJSFRrVEx0dXRHbzRyR3BST1NHSVNJNEVhRk5QVDBlbFJPbGpOTTFMWUdmeWczVkZlM2dETXdqa29rbFlkVFdIYWVia2VIbkdGbGlKaURESmh6VnZlUDluNmRza3VFMEJORkp0eHVOQ2hOVnBqZlQ3cGF1MklwbXd2TVk2Uw?oc=5\" target=\"_blank\">DoorDash launches in-house drone delivery program after FAA certification</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KWSN</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNemhZWnp4dUNLSUJtMVlIc1JoeUZuR1c4WE81bnBJSkxJSFRrVEx0dXRHbzRyR3BST1NHSVNJNEVhRk5QVDBlbFJPbGpOTTFMWUdmeWczVkZlM2dETXdqa29rbFlkVFdIYWVia2VIbkdGbGlKaURESmh6VnZlUDluNmRza3VFMEJORkp0eHVOQ2hOVnBqZlQ3cGF1MklwbXd2TVk2Uw?oc=5\" target=\"_blank\">DoorDash launches in-house drone delivery program after FAA certification</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KWSN</font>",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNemhZWnp4dUNLSUJtMVlIc1JoeUZuR1c4WE81bnBJSkxJSFRrVEx0dXRHbzRyR3BST1NHSVNJNEVhRk5QVDBlbFJPbGpOTTFMWUdmeWczVkZlM2dETXdqa29rbFlkVFdIYWVia2VIbkdGbGlKaURESmh6VnZlUDluNmRza3VFMEJORkp0eHVOQ2hOVnBqZlQ3cGF1MklwbXd2TVk2Uw?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNemhZWnp4dUNLSUJtMVlIc1JoeUZuR1c4WE81bnBJSkxJSFRrVEx0dXRHbzRyR3BST1NHSVNJNEVhRk5QVDBlbFJPbGpOTTFMWUdmeWczVkZlM2dETXdqa29rbFlkVFdIYWVia2VIbkdGbGlKaURESmh6VnZlUDluNmRza3VFMEJORkp0eHVOQ2hOVnBqZlQ3cGF1MklwbXd2TVk2Uw?oc=5",
-      "publishedAt": "2026-07-29T14:56:49.000Z",
-      "source": "KWSN",
       "_feedRegion": "us",
       "_feedName": "FAA",
       "_scoring": {
@@ -372,36 +372,36 @@
       }
     },
     {
-      "title": "小型ドローン向け技術の開発でスウォーマーと提携＝ラントロニクス〔GNW〕(時事通信)",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPRlA0YkFrTXYwMzU3RTNFOGxpMk9sSmJpN0ItSWVobW5yblV0cmlKSXd6Q1BOc0JlMlhQNVMxcFpSVXVVWVFId1NSNUg5UXNaMmZXSGFiOW82ZDc1OGNXaXp3N2MxcTlKUkdtaTFHbVI0UFB6MHZHVHdkNXIwTGsyWTk0QkllbGs?oc=5\" target=\"_blank\">小型ドローン向け技術の開発でスウォーマーと提携＝ラントロニクス〔GNW〕(時事通信)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ファイナンス</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPRlA0YkFrTXYwMzU3RTNFOGxpMk9sSmJpN0ItSWVobW5yblV0cmlKSXd6Q1BOc0JlMlhQNVMxcFpSVXVVWVFId1NSNUg5UXNaMmZXSGFiOW82ZDc1OGNXaXp3N2MxcTlKUkdtaTFHbVI0UFB6MHZHVHdkNXIwTGsyWTk0QkllbGs?oc=5\" target=\"_blank\">小型ドローン向け技術の開発でスウォーマーと提携＝ラントロニクス〔GNW〕(時事通信)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ファイナンス</font>",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRlA0YkFrTXYwMzU3RTNFOGxpMk9sSmJpN0ItSWVobW5yblV0cmlKSXd6Q1BOc0JlMlhQNVMxcFpSVXVVWVFId1NSNUg5UXNaMmZXSGFiOW82ZDc1OGNXaXp3N2MxcTlKUkdtaTFHbVI0UFB6MHZHVHdkNXIwTGsyWTk0QkllbGs?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRlA0YkFrTXYwMzU3RTNFOGxpMk9sSmJpN0ItSWVobW5yblV0cmlKSXd6Q1BOc0JlMlhQNVMxcFpSVXVVWVFId1NSNUg5UXNaMmZXSGFiOW82ZDc1OGNXaXp3N2MxcTlKUkdtaTFHbVI0UFB6MHZHVHdkNXIwTGsyWTk0QkllbGs?oc=5",
-      "publishedAt": "2026-08-03T04:46:00.000Z",
-      "source": "Yahoo!ファイナンス",
+      "title": "Eve社は、ANAC（ブラジル国家民間航空局）およびEASA（欧州航空安全機関）との協力のもと、Eve 100 eVTOLの認証取得に向けた新たなマイルストーンを達成し、認証手続きを前進させた。",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi9wRBVV95cUxPOWtsdEpkRU1PLWswbHdDWjdUYld0dU9aRXNqc3VOUFRqeHdRaXRqNUtXSGo0OEtjOUJvemVaVVRCZnUtNGRNRHdCbG9ueS1EV21mTGstNG40dGppVE83XzctdjZCcWdPa3ViLUd0ZlpGYnRjUi1LRTEyVGpSdDViY1BDY0VPdEtwaUlZOVYySHlzYjQyOThvRUY3clZ1RWo3bVpRVjduN0dfTTVSbF9BejdmZzA0U2U0N3FZdkhBN0JxeTlaTXkwMlB6NnZORkNTVDVEYWRpd0RzMk55Y0ZkMm5hVjZ6TVdsWnRPaVE3NU82S3IxWVZVQ2ZqZ2ZhSDlXdkRPT0FseU80cl9zZGtrRGU0MUhqMGZVUFFNaFhyZTdvMDBjdzBiSTdRNHNZNmw2bDdlX1N2c3Z2NEtUeHZDMUtiLVo1UWx4eWdYbUdiQk1IeWhKU3loLXpKTUwtT2dvQmhUdGd2cTREZ1dKcGxSN3E5emNlYjEwRUNaSkMwajg0bHp6Rk9PYUhuU2RqZnhSajZBa2FuX3pqQ256Q2lYcXZFd1IxdHNZSXAyNFRFTDl1Mjkzei1HaHIxTllqUGZwNUFBVW8yamdTYjJIS2k2TVF1aWN4R1dyS2VqN2lXMmp6SmFPaFUtNGRPWGtTWFY5MERYZXdtaFd1Q2ZNdnJPeGEydDc5aHFiTXNhM2R0bjJUeTZnZUFuaTVOTU1IUGlxbl9xSFh4c0RSSXQxOURURk1aREpRRVVWXzlhR196WGxuZmlnY1UzeVVnQW1mVk5odlRkMWNURHY3X0NQZ2I2MHJacGVQZGNsSmJUU1lQdTFtVGYtcllZ?oc=5\" target=\"_blank\">Eve社は、ANAC（ブラジル国家民間航空局）およびEASA（欧州航空安全機関）との協力のもと、Eve 100 eVTOLの認証取得に向けた新たなマイルストーンを達成し、認証手続きを前進させた。</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aeroflap</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMi9wRBVV95cUxPOWtsdEpkRU1PLWswbHdDWjdUYld0dU9aRXNqc3VOUFRqeHdRaXRqNUtXSGo0OEtjOUJvemVaVVRCZnUtNGRNRHdCbG9ueS1EV21mTGstNG40dGppVE83XzctdjZCcWdPa3ViLUd0ZlpGYnRjUi1LRTEyVGpSdDViY1BDY0VPdEtwaUlZOVYySHlzYjQyOThvRUY3clZ1RWo3bVpRVjduN0dfTTVSbF9BejdmZzA0U2U0N3FZdkhBN0JxeTlaTXkwMlB6NnZORkNTVDVEYWRpd0RzMk55Y0ZkMm5hVjZ6TVdsWnRPaVE3NU82S3IxWVZVQ2ZqZ2ZhSDlXdkRPT0FseU80cl9zZGtrRGU0MUhqMGZVUFFNaFhyZTdvMDBjdzBiSTdRNHNZNmw2bDdlX1N2c3Z2NEtUeHZDMUtiLVo1UWx4eWdYbUdiQk1IeWhKU3loLXpKTUwtT2dvQmhUdGd2cTREZ1dKcGxSN3E5emNlYjEwRUNaSkMwajg0bHp6Rk9PYUhuU2RqZnhSajZBa2FuX3pqQ256Q2lYcXZFd1IxdHNZSXAyNFRFTDl1Mjkzei1HaHIxTllqUGZwNUFBVW8yamdTYjJIS2k2TVF1aWN4R1dyS2VqN2lXMmp6SmFPaFUtNGRPWGtTWFY5MERYZXdtaFd1Q2ZNdnJPeGEydDc5aHFiTXNhM2R0bjJUeTZnZUFuaTVOTU1IUGlxbl9xSFh4c0RSSXQxOURURk1aREpRRVVWXzlhR196WGxuZmlnY1UzeVVnQW1mVk5odlRkMWNURHY3X0NQZ2I2MHJacGVQZGNsSmJUU1lQdTFtVGYtcllZ?oc=5\" target=\"_blank\">Eve社は、ANAC（ブラジル国家民間航空局）およびEASA（欧州航空安全機関）との協力のもと、Eve 100 eVTOLの認証取得に向けた新たなマイルストーンを達成し、認証手続きを前進させた。</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aeroflap</font>",
+      "url": "https://news.google.com/rss/articles/CBMi9wRBVV95cUxPOWtsdEpkRU1PLWswbHdDWjdUYld0dU9aRXNqc3VOUFRqeHdRaXRqNUtXSGo0OEtjOUJvemVaVVRCZnUtNGRNRHdCbG9ueS1EV21mTGstNG40dGppVE83XzctdjZCcWdPa3ViLUd0ZlpGYnRjUi1LRTEyVGpSdDViY1BDY0VPdEtwaUlZOVYySHlzYjQyOThvRUY3clZ1RWo3bVpRVjduN0dfTTVSbF9BejdmZzA0U2U0N3FZdkhBN0JxeTlaTXkwMlB6NnZORkNTVDVEYWRpd0RzMk55Y0ZkMm5hVjZ6TVdsWnRPaVE3NU82S3IxWVZVQ2ZqZ2ZhSDlXdkRPT0FseU80cl9zZGtrRGU0MUhqMGZVUFFNaFhyZTdvMDBjdzBiSTdRNHNZNmw2bDdlX1N2c3Z2NEtUeHZDMUtiLVo1UWx4eWdYbUdiQk1IeWhKU3loLXpKTUwtT2dvQmhUdGd2cTREZ1dKcGxSN3E5emNlYjEwRUNaSkMwajg0bHp6Rk9PYUhuU2RqZnhSajZBa2FuX3pqQ256Q2lYcXZFd1IxdHNZSXAyNFRFTDl1Mjkzei1HaHIxTllqUGZwNUFBVW8yamdTYjJIS2k2TVF1aWN4R1dyS2VqN2lXMmp6SmFPaFUtNGRPWGtTWFY5MERYZXdtaFd1Q2ZNdnJPeGEydDc5aHFiTXNhM2R0bjJUeTZnZUFuaTVOTU1IUGlxbl9xSFh4c0RSSXQxOURURk1aREpRRVVWXzlhR196WGxuZmlnY1UzeVVnQW1mVk5odlRkMWNURHY3X0NQZ2I2MHJacGVQZGNsSmJUU1lQdTFtVGYtcllZ?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMi9wRBVV95cUxPOWtsdEpkRU1PLWswbHdDWjdUYld0dU9aRXNqc3VOUFRqeHdRaXRqNUtXSGo0OEtjOUJvemVaVVRCZnUtNGRNRHdCbG9ueS1EV21mTGstNG40dGppVE83XzctdjZCcWdPa3ViLUd0ZlpGYnRjUi1LRTEyVGpSdDViY1BDY0VPdEtwaUlZOVYySHlzYjQyOThvRUY3clZ1RWo3bVpRVjduN0dfTTVSbF9BejdmZzA0U2U0N3FZdkhBN0JxeTlaTXkwMlB6NnZORkNTVDVEYWRpd0RzMk55Y0ZkMm5hVjZ6TVdsWnRPaVE3NU82S3IxWVZVQ2ZqZ2ZhSDlXdkRPT0FseU80cl9zZGtrRGU0MUhqMGZVUFFNaFhyZTdvMDBjdzBiSTdRNHNZNmw2bDdlX1N2c3Z2NEtUeHZDMUtiLVo1UWx4eWdYbUdiQk1IeWhKU3loLXpKTUwtT2dvQmhUdGd2cTREZ1dKcGxSN3E5emNlYjEwRUNaSkMwajg0bHp6Rk9PYUhuU2RqZnhSajZBa2FuX3pqQ256Q2lYcXZFd1IxdHNZSXAyNFRFTDl1Mjkzei1HaHIxTllqUGZwNUFBVW8yamdTYjJIS2k2TVF1aWN4R1dyS2VqN2lXMmp6SmFPaFUtNGRPWGtTWFY5MERYZXdtaFd1Q2ZNdnJPeGEydDc5aHFiTXNhM2R0bjJUeTZnZUFuaTVOTU1IUGlxbl9xSFh4c0RSSXQxOURURk1aREpRRVVWXzlhR196WGxuZmlnY1UzeVVnQW1mVk5odlRkMWNURHY3X0NQZ2I2MHJacGVQZGNsSmJUU1lQdTFtVGYtcllZ?oc=5",
+      "publishedAt": "2026-07-20T12:53:28.000Z",
+      "source": "Aeroflap",
       "_feedRegion": "jp",
-      "_feedName": "Google News (JP)",
+      "_feedName": "Google News (JP 政策/実証)",
       "_scoring": {
-        "score": 75,
+        "score": 76,
         "categories": [
-          "技術・製品",
-          "市場・資金"
+          "規制・政策",
+          "技術・製品"
         ],
         "breakdown": {
           "required": true,
+          "regulation": {
+            "matches": 2,
+            "catScore": 40
+          },
           "technology": {
             "matches": 1,
             "catScore": 24
-          },
-          "market": {
-            "matches": 1,
-            "catScore": 20
           },
           "sourceTrust": {
             "domain": "news.google.com",
             "multiplier": 0.8
           },
-          "freshness": 15,
+          "freshness": 0,
           "titleBonus": 10,
           "jpRegionBonus": 15
         },
@@ -615,12 +615,12 @@
     },
     {
       "title": "(VIDEO) DoorDash Wins FAA Approval and Launches DoorDash Air, Its Own In-House Drone Delivery Business",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPa05QSFp1RTJQSWtPdkNKd1RTLUpXT3dVWnFvM2hiLXU3T0NHQjN4SXdna0RzV3I3bXJSYVpnT1E4eFBBMmdyTWI3SUU0cEFvLS1RcFdDbmlxMHRBeWpwUDN5RllTc2xybUxPdVFEM0JWSllvRm5PWXIzQjNfZ0NaWlJiOW41QQ?oc=5\" target=\"_blank\">(VIDEO) DoorDash Wins FAA Approval and Launches DoorDash Air, Its Own In-House Drone Delivery Business</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">International Business Times Australia</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPa05QSFp1RTJQSWtPdkNKd1RTLUpXT3dVWnFvM2hiLXU3T0NHQjN4SXdna0RzV3I3bXJSYVpnT1E4eFBBMmdyTWI3SUU0cEFvLS1RcFdDbmlxMHRBeWpwUDN5RllTc2xybUxPdVFEM0JWSllvRm5PWXIzQjNfZ0NaWlJiOW41QQ?oc=5\" target=\"_blank\">(VIDEO) DoorDash Wins FAA Approval and Launches DoorDash Air, Its Own In-House Drone Delivery Business</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">International Business Times Australia</font>",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPa05QSFp1RTJQSWtPdkNKd1RTLUpXT3dVWnFvM2hiLXU3T0NHQjN4SXdna0RzV3I3bXJSYVpnT1E4eFBBMmdyTWI3SUU0cEFvLS1RcFdDbmlxMHRBeWpwUDN5RllTc2xybUxPdVFEM0JWSllvRm5PWXIzQjNfZ0NaWlJiOW41QQ?oc=5\" target=\"_blank\">(VIDEO) DoorDash Wins FAA Approval and Launches DoorDash Air, Its Own In-House Drone Delivery Business</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ibtimes.com.au</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPa05QSFp1RTJQSWtPdkNKd1RTLUpXT3dVWnFvM2hiLXU3T0NHQjN4SXdna0RzV3I3bXJSYVpnT1E4eFBBMmdyTWI3SUU0cEFvLS1RcFdDbmlxMHRBeWpwUDN5RllTc2xybUxPdVFEM0JWSllvRm5PWXIzQjNfZ0NaWlJiOW41QQ?oc=5\" target=\"_blank\">(VIDEO) DoorDash Wins FAA Approval and Launches DoorDash Air, Its Own In-House Drone Delivery Business</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ibtimes.com.au</font>",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPa05QSFp1RTJQSWtPdkNKd1RTLUpXT3dVWnFvM2hiLXU3T0NHQjN4SXdna0RzV3I3bXJSYVpnT1E4eFBBMmdyTWI3SUU0cEFvLS1RcFdDbmlxMHRBeWpwUDN5RllTc2xybUxPdVFEM0JWSllvRm5PWXIzQjNfZ0NaWlJiOW41QQ?oc=5",
       "googleNewsUrl": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPa05QSFp1RTJQSWtPdkNKd1RTLUpXT3dVWnFvM2hiLXU3T0NHQjN4SXdna0RzV3I3bXJSYVpnT1E4eFBBMmdyTWI3SUU0cEFvLS1RcFdDbmlxMHRBeWpwUDN5RllTc2xybUxPdVFEM0JWSllvRm5PWXIzQjNfZ0NaWlJiOW41QQ?oc=5",
       "publishedAt": "2026-07-29T16:37:30.000Z",
-      "source": "International Business Times Australia",
+      "source": "ibtimes.com.au",
       "_feedRegion": "us",
       "_feedName": "FAA",
       "_scoring": {
@@ -691,6 +691,43 @@
           },
           "freshness": 0,
           "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "小型ドローン向け技術の開発でスウォーマーと提携＝ラントロニクス〔GNW〕(時事通信)",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPRlA0YkFrTXYwMzU3RTNFOGxpMk9sSmJpN0ItSWVobW5yblV0cmlKSXd6Q1BOc0JlMlhQNVMxcFpSVXVVWVFId1NSNUg5UXNaMmZXSGFiOW82ZDc1OGNXaXp3N2MxcTlKUkdtaTFHbVI0UFB6MHZHVHdkNXIwTGsyWTk0QkllbGs?oc=5\" target=\"_blank\">小型ドローン向け技術の開発でスウォーマーと提携＝ラントロニクス〔GNW〕(時事通信)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ファイナンス</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPRlA0YkFrTXYwMzU3RTNFOGxpMk9sSmJpN0ItSWVobW5yblV0cmlKSXd6Q1BOc0JlMlhQNVMxcFpSVXVVWVFId1NSNUg5UXNaMmZXSGFiOW82ZDc1OGNXaXp3N2MxcTlKUkdtaTFHbVI0UFB6MHZHVHdkNXIwTGsyWTk0QkllbGs?oc=5\" target=\"_blank\">小型ドローン向け技術の開発でスウォーマーと提携＝ラントロニクス〔GNW〕(時事通信)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ファイナンス</font>",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRlA0YkFrTXYwMzU3RTNFOGxpMk9sSmJpN0ItSWVobW5yblV0cmlKSXd6Q1BOc0JlMlhQNVMxcFpSVXVVWVFId1NSNUg5UXNaMmZXSGFiOW82ZDc1OGNXaXp3N2MxcTlKUkdtaTFHbVI0UFB6MHZHVHdkNXIwTGsyWTk0QkllbGs?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRlA0YkFrTXYwMzU3RTNFOGxpMk9sSmJpN0ItSWVobW5yblV0cmlKSXd6Q1BOc0JlMlhQNVMxcFpSVXVVWVFId1NSNUg5UXNaMmZXSGFiOW82ZDc1OGNXaXp3N2MxcTlKUkdtaTFHbVI0UFB6MHZHVHdkNXIwTGsyWTk0QkllbGs?oc=5",
+      "publishedAt": "2026-08-03T04:46:00.000Z",
+      "source": "Yahoo!ファイナンス",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP)",
+      "_scoring": {
+        "score": 70,
+        "categories": [
+          "技術・製品",
+          "市場・資金"
+        ],
+        "breakdown": {
+          "required": true,
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "market": {
+            "matches": 1,
+            "catScore": 20
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 10,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
         },
         "pass": true
       }
@@ -845,12 +882,12 @@
     },
     {
       "title": "Skyports appointed as vertiport planning partner by Mitsui Fudosan & Ise-Shima Resort Management Co. for Mie Prefecture AAM network feasibility study",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE1WRUdRNUFMMWRGR3VxMjFodGZWSlZ0ZXdpUFVWcS10c2RlaE5ZWkl5bHZfa1F3dng0clhCUXhURDk3akdtNVVmRFFxWkFhblNFZ0ZZWkx2RkpoZ21nNk1YekwzUFdQZ3BWbnFUU1JRZjNRZw?oc=5\" target=\"_blank\">Skyports appointed as vertiport planning partner by Mitsui Fudosan & Ise-Shima Resort Management Co. for Mie Prefecture AAM network feasibility study</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">skyports.net</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE1WRUdRNUFMMWRGR3VxMjFodGZWSlZ0ZXdpUFVWcS10c2RlaE5ZWkl5bHZfa1F3dng0clhCUXhURDk3akdtNVVmRFFxWkFhblNFZ0ZZWkx2RkpoZ21nNk1YekwzUFdQZ3BWbnFUU1JRZjNRZw?oc=5\" target=\"_blank\">Skyports appointed as vertiport planning partner by Mitsui Fudosan & Ise-Shima Resort Management Co. for Mie Prefecture AAM network feasibility study</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">skyports.net</font>",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE1WRUdRNUFMMWRGR3VxMjFodGZWSlZ0ZXdpUFVWcS10c2RlaE5ZWkl5bHZfa1F3dng0clhCUXhURDk3akdtNVVmRFFxWkFhblNFZ0ZZWkx2RkpoZ21nNk1YekwzUFdQZ3BWbnFUU1JRZjNRZw?oc=5\" target=\"_blank\">Skyports appointed as vertiport planning partner by Mitsui Fudosan & Ise-Shima Resort Management Co. for Mie Prefecture AAM network feasibility study</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Skyports Infrastructure</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE1WRUdRNUFMMWRGR3VxMjFodGZWSlZ0ZXdpUFVWcS10c2RlaE5ZWkl5bHZfa1F3dng0clhCUXhURDk3akdtNVVmRFFxWkFhblNFZ0ZZWkx2RkpoZ21nNk1YekwzUFdQZ3BWbnFUU1JRZjNRZw?oc=5\" target=\"_blank\">Skyports appointed as vertiport planning partner by Mitsui Fudosan & Ise-Shima Resort Management Co. for Mie Prefecture AAM network feasibility study</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Skyports Infrastructure</font>",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1WRUdRNUFMMWRGR3VxMjFodGZWSlZ0ZXdpUFVWcS10c2RlaE5ZWkl5bHZfa1F3dng0clhCUXhURDk3akdtNVVmRFFxWkFhblNFZ0ZZWkx2RkpoZ21nNk1YekwzUFdQZ3BWbnFUU1JRZjNRZw?oc=5",
       "googleNewsUrl": "https://news.google.com/rss/articles/CBMickFVX3lxTE1WRUdRNUFMMWRGR3VxMjFodGZWSlZ0ZXdpUFVWcS10c2RlaE5ZWkl5bHZfa1F3dng0clhCUXhURDk3akdtNVVmRFFxWkFhblNFZ0ZZWkx2RkpoZ21nNk1YekwzUFdQZ3BWbnFUU1JRZjNRZw?oc=5",
       "publishedAt": "2026-08-03T09:57:01.000Z",
-      "source": "skyports.net",
+      "source": "Skyports Infrastructure",
       "_feedRegion": "global",
       "_feedName": "Google News (Global)",
       "_scoring": {
@@ -866,7 +903,7 @@
             "catScore": 20
           },
           "policy": {
-            "matches": 2,
+            "matches": 3,
             "catScore": 30
           },
           "sourceTrust": {
@@ -874,42 +911,6 @@
             "multiplier": 0.8
           },
           "freshness": 15,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "Air India explores eVTOL aircraft for emergency medical logistics in India",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQTkxZNzU2LWJEVUhCUWtlN2VCSVdsZmFGbXpuMmVScXczcXdTS2xhRW9nNDVXSjZyTkZKbWpEWTR4Wm9SRU1jZWFteTVDYWQxQlRNME9VSkZTaS1oRkNGRGpoTEx2R3VuOU1LWmRUTnM1R0lGOW0tYndnczlWelBKdEtlZjktY1o0elU0NWp3NGIzVTNMZC1XMQ?oc=5\" target=\"_blank\">Air India explores eVTOL aircraft for emergency medical logistics in India</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aerospace Global News</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQTkxZNzU2LWJEVUhCUWtlN2VCSVdsZmFGbXpuMmVScXczcXdTS2xhRW9nNDVXSjZyTkZKbWpEWTR4Wm9SRU1jZWFteTVDYWQxQlRNME9VSkZTaS1oRkNGRGpoTEx2R3VuOU1LWmRUTnM1R0lGOW0tYndnczlWelBKdEtlZjktY1o0elU0NWp3NGIzVTNMZC1XMQ?oc=5\" target=\"_blank\">Air India explores eVTOL aircraft for emergency medical logistics in India</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aerospace Global News</font>",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTkxZNzU2LWJEVUhCUWtlN2VCSVdsZmFGbXpuMmVScXczcXdTS2xhRW9nNDVXSjZyTkZKbWpEWTR4Wm9SRU1jZWFteTVDYWQxQlRNME9VSkZTaS1oRkNGRGpoTEx2R3VuOU1LWmRUTnM1R0lGOW0tYndnczlWelBKdEtlZjktY1o0elU0NWp3NGIzVTNMZC1XMQ?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTkxZNzU2LWJEVUhCUWtlN2VCSVdsZmFGbXpuMmVScXczcXdTS2xhRW9nNDVXSjZyTkZKbWpEWTR4Wm9SRU1jZWFteTVDYWQxQlRNME9VSkZTaS1oRkNGRGpoTEx2R3VuOU1LWmRUTnM1R0lGOW0tYndnczlWelBKdEtlZjktY1o0elU0NWp3NGIzVTNMZC1XMQ?oc=5",
-      "publishedAt": "2026-08-03T12:01:00.000Z",
-      "source": "Aerospace Global News",
-      "_feedRegion": "global",
-      "_feedName": "Google News (Global)",
-      "_scoring": {
-        "score": 65,
-        "categories": [
-          "市場・資金",
-          "政策・インフラ"
-        ],
-        "breakdown": {
-          "required": true,
-          "market": {
-            "matches": 1,
-            "catScore": 20
-          },
-          "policy": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 20,
           "titleBonus": 10
         },
         "pass": true
@@ -1142,37 +1143,38 @@
       }
     },
     {
-      "title": "European Union updates incident mandatory reporting mechanism, extending drones and U-space coverage",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxOWklSTkRGSHIyNkl3dXduZVZVZldkSTVzTnRsbDhrU2NMbWhZWTJhV1dCQWJKaHdHNjB3T2tfazh3MGJqRVN2QVJjcGxPWlk2UXNJT0N2clg0Wk1nMkZ4XzVaTlVzNVhFM0JVdzMzYUNwdnl5ZURqVDk4Y1hhbS1oRGprLWU2V0JOd2hLMHpMcWY0Rk55QmtHaWJNdHl4NjIxNWZZOTAxZnZpLTdYOG1rLVJDREI0d3lWQUVTekhxZ1kxczg1a0V1Z3dpU0dLOTAxUW1Jei1SZEtKTGhHNXc?oc=5\" target=\"_blank\">European Union updates incident mandatory reporting mechanism, extending drones and U-space coverage</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxOWklSTkRGSHIyNkl3dXduZVZVZldkSTVzTnRsbDhrU2NMbWhZWTJhV1dCQWJKaHdHNjB3T2tfazh3MGJqRVN2QVJjcGxPWlk2UXNJT0N2clg0Wk1nMkZ4XzVaTlVzNVhFM0JVdzMzYUNwdnl5ZURqVDk4Y1hhbS1oRGprLWU2V0JOd2hLMHpMcWY0Rk55QmtHaWJNdHl4NjIxNWZZOTAxZnZpLTdYOG1rLVJDREI0d3lWQUVTekhxZ1kxczg1a0V1Z3dpU0dLOTAxUW1Jei1SZEtKTGhHNXc?oc=5\" target=\"_blank\">European Union updates incident mandatory reporting mechanism, extending drones and U-space coverage</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOWklSTkRGSHIyNkl3dXduZVZVZldkSTVzTnRsbDhrU2NMbWhZWTJhV1dCQWJKaHdHNjB3T2tfazh3MGJqRVN2QVJjcGxPWlk2UXNJT0N2clg0Wk1nMkZ4XzVaTlVzNVhFM0JVdzMzYUNwdnl5ZURqVDk4Y1hhbS1oRGprLWU2V0JOd2hLMHpMcWY0Rk55QmtHaWJNdHl4NjIxNWZZOTAxZnZpLTdYOG1rLVJDREI0d3lWQUVTekhxZ1kxczg1a0V1Z3dpU0dLOTAxUW1Jei1SZEtKTGhHNXc?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOWklSTkRGSHIyNkl3dXduZVZVZldkSTVzTnRsbDhrU2NMbWhZWTJhV1dCQWJKaHdHNjB3T2tfazh3MGJqRVN2QVJjcGxPWlk2UXNJT0N2clg0Wk1nMkZ4XzVaTlVzNVhFM0JVdzMzYUNwdnl5ZURqVDk4Y1hhbS1oRGprLWU2V0JOd2hLMHpMcWY0Rk55QmtHaWJNdHl4NjIxNWZZOTAxZnZpLTdYOG1rLVJDREI0d3lWQUVTekhxZ1kxczg1a0V1Z3dpU0dLOTAxUW1Jei1SZEtKTGhHNXc?oc=5",
-      "publishedAt": "2026-08-03T08:22:11.000Z",
-      "source": "Unmanned airspace",
-      "_feedRegion": "global",
-      "_feedName": "Google News (Global)",
+      "title": "まるで幽霊…背景に消える“見えないドローン”「ファントム・ツイスト」開発 扇風機と同じ原理で視認性は従来の10分の1",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE44RTJsZmVmTnlFODJfeTg2alFfQ2U0VEdrNXU0SE9odlZOa2hTTDdodzREbksxbnZQNkhsY21NcnFMdEY2UlYySmlCWWVWSXdzWE84THZudV9jSC1EZUZFNnF2cHptRlFiNFNUUFkzMFZQY0lGc1J1eU45ODVMajQ?oc=5\" target=\"_blank\">まるで幽霊…背景に消える“見えないドローン”「ファントム・ツイスト」開発 扇風機と同じ原理で視認性は従来の10分の1</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE44RTJsZmVmTnlFODJfeTg2alFfQ2U0VEdrNXU0SE9odlZOa2hTTDdodzREbksxbnZQNkhsY21NcnFMdEY2UlYySmlCWWVWSXdzWE84THZudV9jSC1EZUZFNnF2cHptRlFiNFNUUFkzMFZQY0lGc1J1eU45ODVMajQ?oc=5\" target=\"_blank\">まるで幽霊…背景に消える“見えないドローン”「ファントム・ツイスト」開発 扇風機と同じ原理で視認性は従来の10分の1</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE44RTJsZmVmTnlFODJfeTg2alFfQ2U0VEdrNXU0SE9odlZOa2hTTDdodzREbksxbnZQNkhsY21NcnFMdEY2UlYySmlCWWVWSXdzWE84THZudV9jSC1EZUZFNnF2cHptRlFiNFNUUFkzMFZQY0lGc1J1eU45ODVMajQ?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE44RTJsZmVmTnlFODJfeTg2alFfQ2U0VEdrNXU0SE9odlZOa2hTTDdodzREbksxbnZQNkhsY21NcnFMdEY2UlYySmlCWWVWSXdzWE84THZudV9jSC1EZUZFNnF2cHptRlFiNFNUUFkzMFZQY0lGc1J1eU45ODVMajQ?oc=5",
+      "publishedAt": "2026-07-30T08:55:30.000Z",
+      "source": "Yahoo!ニュース",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP)",
       "_scoring": {
         "score": 63,
         "categories": [
-          "市場・資金",
-          "事故・事件"
+          "技術・製品",
+          "政策・インフラ"
         ],
         "breakdown": {
           "required": true,
-          "market": {
+          "technology": {
             "matches": 1,
-            "catScore": 20
+            "catScore": 24
           },
-          "incident": {
+          "policy": {
             "matches": 1,
-            "catScore": 28
+            "catScore": 24
           },
           "sourceTrust": {
             "domain": "news.google.com",
             "multiplier": 0.8
           },
-          "freshness": 15,
-          "titleBonus": 10
+          "freshness": 0,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
         },
         "pass": true
       }
