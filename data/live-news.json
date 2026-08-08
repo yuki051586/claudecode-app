@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-08T19:33:54.229Z",
-  "rawCount": 678,
+  "generatedAt": "2026-08-08T20:35:14.529Z",
+  "rawCount": 676,
   "articles": [
     {
       "title": "DoorDash launches in-house drone delivery program after FAA certification",
@@ -525,12 +525,12 @@
     },
     {
       "title": "Air Travel - Joby teams to develop US vertiport network for air taxi launch",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQaHI3RF9yRkpYdk9aMWR5c09zQ1NDMWNJLUhHa3lpRmd4bmdqaHkyVVlKcDZ4RUV2ZldRdnJWZktyM0ZxeVJYV3dTM09IaHlpMnkxMF90Q3NzNHVCLWNPZlJaUkl0blN6REZtMkllS2dMVm5KSzdncXI2aVA4MkZZMEZNcFRJZHBpOWt1ZGExTnlLa1drRGpUVlRLR0tHODJYaHNxM3Brd3lxQkJQWTJhdEZR?oc=5\" target=\"_blank\">Air Travel - Joby teams to develop US vertiport network for air taxi launch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">smartcitiesworld.net</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQaHI3RF9yRkpYdk9aMWR5c09zQ1NDMWNJLUhHa3lpRmd4bmdqaHkyVVlKcDZ4RUV2ZldRdnJWZktyM0ZxeVJYV3dTM09IaHlpMnkxMF90Q3NzNHVCLWNPZlJaUkl0blN6REZtMkllS2dMVm5KSzdncXI2aVA4MkZZMEZNcFRJZHBpOWt1ZGExTnlLa1drRGpUVlRLR0tHODJYaHNxM3Brd3lxQkJQWTJhdEZR?oc=5\" target=\"_blank\">Air Travel - Joby teams to develop US vertiport network for air taxi launch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">smartcitiesworld.net</font>",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQaHI3RF9yRkpYdk9aMWR5c09zQ1NDMWNJLUhHa3lpRmd4bmdqaHkyVVlKcDZ4RUV2ZldRdnJWZktyM0ZxeVJYV3dTM09IaHlpMnkxMF90Q3NzNHVCLWNPZlJaUkl0blN6REZtMkllS2dMVm5KSzdncXI2aVA4MkZZMEZNcFRJZHBpOWt1ZGExTnlLa1drRGpUVlRLR0tHODJYaHNxM3Brd3lxQkJQWTJhdEZR?oc=5\" target=\"_blank\">Air Travel - Joby teams to develop US vertiport network for air taxi launch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Smart Cities World</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQaHI3RF9yRkpYdk9aMWR5c09zQ1NDMWNJLUhHa3lpRmd4bmdqaHkyVVlKcDZ4RUV2ZldRdnJWZktyM0ZxeVJYV3dTM09IaHlpMnkxMF90Q3NzNHVCLWNPZlJaUkl0blN6REZtMkllS2dMVm5KSzdncXI2aVA4MkZZMEZNcFRJZHBpOWt1ZGExTnlLa1drRGpUVlRLR0tHODJYaHNxM3Brd3lxQkJQWTJhdEZR?oc=5\" target=\"_blank\">Air Travel - Joby teams to develop US vertiport network for air taxi launch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Smart Cities World</font>",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaHI3RF9yRkpYdk9aMWR5c09zQ1NDMWNJLUhHa3lpRmd4bmdqaHkyVVlKcDZ4RUV2ZldRdnJWZktyM0ZxeVJYV3dTM09IaHlpMnkxMF90Q3NzNHVCLWNPZlJaUkl0blN6REZtMkllS2dMVm5KSzdncXI2aVA4MkZZMEZNcFRJZHBpOWt1ZGExTnlLa1drRGpUVlRLR0tHODJYaHNxM3Brd3lxQkJQWTJhdEZR?oc=5",
       "googleNewsUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaHI3RF9yRkpYdk9aMWR5c09zQ1NDMWNJLUhHa3lpRmd4bmdqaHkyVVlKcDZ4RUV2ZldRdnJWZktyM0ZxeVJYV3dTM09IaHlpMnkxMF90Q3NzNHVCLWNPZlJaUkl0blN6REZtMkllS2dMVm5KSzdncXI2aVA4MkZZMEZNcFRJZHBpOWt1ZGExTnlLa1drRGpUVlRLR0tHODJYaHNxM3Brd3lxQkJQWTJhdEZR?oc=5",
       "publishedAt": "2026-08-06T12:27:03.000Z",
-      "source": "smartcitiesworld.net",
+      "source": "Smart Cities World",
       "_feedRegion": "global",
       "_feedName": "Google News (Global)",
       "_scoring": {
@@ -740,6 +740,43 @@
           "policy": {
             "matches": 1,
             "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 0,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "ドローンショー・ジャパンが中国電力NW・TSSと業務提携、中国地方で常設型ドローンショー推進へ",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE1DZnF0dWdnZE5wMUtmblUzMlZIVy0weEpkN0xTNVVFNF9fZWJLazRHMjZJNUltMGVKTjJWWmZydVRrcE8wWWdhemZQTEVDY0h0SGsyYmtrSkdBTWQxNWtqMWpVZ1o0dEwtRXc?oc=5\" target=\"_blank\">ドローンショー・ジャパンが中国電力NW・TSSと業務提携、中国地方で常設型ドローンショー推進へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ドローンジャーナル</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE1DZnF0dWdnZE5wMUtmblUzMlZIVy0weEpkN0xTNVVFNF9fZWJLazRHMjZJNUltMGVKTjJWWmZydVRrcE8wWWdhemZQTEVDY0h0SGsyYmtrSkdBTWQxNWtqMWpVZ1o0dEwtRXc?oc=5\" target=\"_blank\">ドローンショー・ジャパンが中国電力NW・TSSと業務提携、中国地方で常設型ドローンショー推進へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ドローンジャーナル</font>",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1DZnF0dWdnZE5wMUtmblUzMlZIVy0weEpkN0xTNVVFNF9fZWJLazRHMjZJNUltMGVKTjJWWmZydVRrcE8wWWdhemZQTEVDY0h0SGsyYmtrSkdBTWQxNWtqMWpVZ1o0dEwtRXc?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1DZnF0dWdnZE5wMUtmblUzMlZIVy0weEpkN0xTNVVFNF9fZWJLazRHMjZJNUltMGVKTjJWWmZydVRrcE8wWWdhemZQTEVDY0h0SGsyYmtrSkdBTWQxNWtqMWpVZ1o0dEwtRXc?oc=5",
+      "publishedAt": "2026-08-04T01:59:34.000Z",
+      "source": "ドローンジャーナル",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP 経済メディア)",
+      "_scoring": {
+        "score": 64,
+        "categories": [
+          "技術・製品",
+          "市場・資金"
+        ],
+        "breakdown": {
+          "required": true,
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "market": {
+            "matches": 2,
+            "catScore": 25
           },
           "sourceTrust": {
             "domain": "news.google.com",
@@ -1042,42 +1079,6 @@
           "freshness": 0,
           "titleBonus": 10,
           "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "DoorDash gets FAA approval for its own delivery drones",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE5GZi1QcC1xZmxGcVdzNlNyblV3WGhKWHQ5NC1VbkxZMmVwOXIzQWFCeV92Y0V0UEFyVGFjeFNPc25qTERFa1MxcGhpTkU0XzQ2aUl1RlZrU2dHUU82bGlGRE94T19FTkdNMzc1aXJYeVp3Z3FVZE83Y0FsZ9IBgAFBVV95cUxOM2Z3ZmFOSjNSV3IwLVVHRFAzbVE0dXdvN0pJLXJBRk1VNl9kU3hQYW9VbDltZlBVem9oSmpzWGZQcm12ZGFETHhnVWZCRDBIenB1R3FyZU1QbjFnTDlvQkxQSDBNNWJZcGFrOFF1RlRYODVzUlpwZUpTUHFxUnB6TA?oc=5\" target=\"_blank\">DoorDash gets FAA approval for its own delivery drones</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">foxnews.com</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE5GZi1QcC1xZmxGcVdzNlNyblV3WGhKWHQ5NC1VbkxZMmVwOXIzQWFCeV92Y0V0UEFyVGFjeFNPc25qTERFa1MxcGhpTkU0XzQ2aUl1RlZrU2dHUU82bGlGRE94T19FTkdNMzc1aXJYeVp3Z3FVZE83Y0FsZ9IBgAFBVV95cUxOM2Z3ZmFOSjNSV3IwLVVHRFAzbVE0dXdvN0pJLXJBRk1VNl9kU3hQYW9VbDltZlBVem9oSmpzWGZQcm12ZGFETHhnVWZCRDBIenB1R3FyZU1QbjFnTDlvQkxQSDBNNWJZcGFrOFF1RlRYODVzUlpwZUpTUHFxUnB6TA?oc=5\" target=\"_blank\">DoorDash gets FAA approval for its own delivery drones</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">foxnews.com</font>",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5GZi1QcC1xZmxGcVdzNlNyblV3WGhKWHQ5NC1VbkxZMmVwOXIzQWFCeV92Y0V0UEFyVGFjeFNPc25qTERFa1MxcGhpTkU0XzQ2aUl1RlZrU2dHUU82bGlGRE94T19FTkdNMzc1aXJYeVp3Z3FVZE83Y0FsZ9IBgAFBVV95cUxOM2Z3ZmFOSjNSV3IwLVVHRFAzbVE0dXdvN0pJLXJBRk1VNl9kU3hQYW9VbDltZlBVem9oSmpzWGZQcm12ZGFETHhnVWZCRDBIenB1R3FyZU1QbjFnTDlvQkxQSDBNNWJZcGFrOFF1RlRYODVzUlpwZUpTUHFxUnB6TA?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5GZi1QcC1xZmxGcVdzNlNyblV3WGhKWHQ5NC1VbkxZMmVwOXIzQWFCeV92Y0V0UEFyVGFjeFNPc25qTERFa1MxcGhpTkU0XzQ2aUl1RlZrU2dHUU82bGlGRE94T19FTkdNMzc1aXJYeVp3Z3FVZE83Y0FsZ9IBgAFBVV95cUxOM2Z3ZmFOSjNSV3IwLVVHRFAzbVE0dXdvN0pJLXJBRk1VNl9kU3hQYW9VbDltZlBVem9oSmpzWGZQcm12ZGFETHhnVWZCRDBIenB1R3FyZU1QbjFnTDlvQkxQSDBNNWJZcGFrOFF1RlRYODVzUlpwZUpTUHFxUnB6TA?oc=5",
-      "publishedAt": "2026-08-05T20:00:03.000Z",
-      "source": "foxnews.com",
-      "_feedRegion": "us",
-      "_feedName": "FAA",
-      "_scoring": {
-        "score": 57,
-        "categories": [
-          "規制・政策",
-          "政策・インフラ"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 1,
-            "catScore": 32
-          },
-          "policy": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 2,
-          "titleBonus": 10
         },
         "pass": true
       }
