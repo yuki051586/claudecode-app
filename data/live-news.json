@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-09T07:03:00.156Z",
-  "rawCount": 672,
+  "generatedAt": "2026-08-09T08:49:33.921Z",
+  "rawCount": 669,
   "articles": [
     {
       "title": "DoorDash launches in-house drone delivery program after FAA certification",
@@ -86,12 +86,53 @@
     },
     {
       "title": "DoorDash launches DoorDash Air drone delivery after FAA certification",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOY0RSUlVOM3A1LVVMeVY2TTNIN3U3TlN6QVBfbVFiakRQRUlaS3lVaUVFeEFfZ0FoS0pmZ0tqb3d4aXJQcnhVdjBTR3FZVXd6MHJ3V0FWNkVzN1AyMmhGMmtSdjY4TzFSOWJqc2dRNldjTDNma055dFN5cnVfUjVyM0RCaUk0OFlsX0c4VEtMaEtISm1mVDRZTmVtMnBYQQ?oc=5\" target=\"_blank\">DoorDash launches DoorDash Air drone delivery after FAA certification</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.yahoo.com</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOY0RSUlVOM3A1LVVMeVY2TTNIN3U3TlN6QVBfbVFiakRQRUlaS3lVaUVFeEFfZ0FoS0pmZ0tqb3d4aXJQcnhVdjBTR3FZVXd6MHJ3V0FWNkVzN1AyMmhGMmtSdjY4TzFSOWJqc2dRNldjTDNma055dFN5cnVfUjVyM0RCaUk0OFlsX0c4VEtMaEtISm1mVDRZTmVtMnBYQQ?oc=5\" target=\"_blank\">DoorDash launches DoorDash Air drone delivery after FAA certification</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.yahoo.com</font>",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOY0RSUlVOM3A1LVVMeVY2TTNIN3U3TlN6QVBfbVFiakRQRUlaS3lVaUVFeEFfZ0FoS0pmZ0tqb3d4aXJQcnhVdjBTR3FZVXd6MHJ3V0FWNkVzN1AyMmhGMmtSdjY4TzFSOWJqc2dRNldjTDNma055dFN5cnVfUjVyM0RCaUk0OFlsX0c4VEtMaEtISm1mVDRZTmVtMnBYQQ?oc=5\" target=\"_blank\">DoorDash launches DoorDash Air drone delivery after FAA certification</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOY0RSUlVOM3A1LVVMeVY2TTNIN3U3TlN6QVBfbVFiakRQRUlaS3lVaUVFeEFfZ0FoS0pmZ0tqb3d4aXJQcnhVdjBTR3FZVXd6MHJ3V0FWNkVzN1AyMmhGMmtSdjY4TzFSOWJqc2dRNldjTDNma055dFN5cnVfUjVyM0RCaUk0OFlsX0c4VEtMaEtISm1mVDRZTmVtMnBYQQ?oc=5\" target=\"_blank\">DoorDash launches DoorDash Air drone delivery after FAA certification</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOY0RSUlVOM3A1LVVMeVY2TTNIN3U3TlN6QVBfbVFiakRQRUlaS3lVaUVFeEFfZ0FoS0pmZ0tqb3d4aXJQcnhVdjBTR3FZVXd6MHJ3V0FWNkVzN1AyMmhGMmtSdjY4TzFSOWJqc2dRNldjTDNma055dFN5cnVfUjVyM0RCaUk0OFlsX0c4VEtMaEtISm1mVDRZTmVtMnBYQQ?oc=5",
       "googleNewsUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxOY0RSUlVOM3A1LVVMeVY2TTNIN3U3TlN6QVBfbVFiakRQRUlaS3lVaUVFeEFfZ0FoS0pmZ0tqb3d4aXJQcnhVdjBTR3FZVXd6MHJ3V0FWNkVzN1AyMmhGMmtSdjY4TzFSOWJqc2dRNldjTDNma055dFN5cnVfUjVyM0RCaUk0OFlsX0c4VEtMaEtISm1mVDRZTmVtMnBYQQ?oc=5",
       "publishedAt": "2026-07-29T07:00:00.000Z",
-      "source": "finance.yahoo.com",
+      "source": "Yahoo Finance",
+      "_feedRegion": "us",
+      "_feedName": "FAA",
+      "_scoring": {
+        "score": 80,
+        "categories": [
+          "規制・政策",
+          "技術・製品",
+          "政策・インフラ"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 2,
+            "catScore": 40
+          },
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "policy": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 0,
+          "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "DoorDash Launches In-House Drone Delivery Program After Securing FAA Air Carrier Certification",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOaHVNTFcxWHY1RVd2VVlpVTBxaGdIV3N6RkVIaDZzeU5zN2hxVzFQQ1o4WmY0b1JpYXZMcHVvRlZvM3N3UkgzV2lFZWkzRmExeTRPNTBpQTNoNEpOTldCVFd5RFlSSG5ISTZ2VTEwRm9fbmZ3Ti1GaFhtTXdaOTRKOHRjZ2dJakYzQkN4R05jT3E5bkM4X0JaTEktMXZvcFhEU3Z2UkxwbDNiWnl3UGlpRzduY1JrQlcxY05EXzlSVWd2ampQN1E?oc=5\" target=\"_blank\">DoorDash Launches In-House Drone Delivery Program After Securing FAA Air Carrier Certification</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quiver Quantitative</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOaHVNTFcxWHY1RVd2VVlpVTBxaGdIV3N6RkVIaDZzeU5zN2hxVzFQQ1o4WmY0b1JpYXZMcHVvRlZvM3N3UkgzV2lFZWkzRmExeTRPNTBpQTNoNEpOTldCVFd5RFlSSG5ISTZ2VTEwRm9fbmZ3Ti1GaFhtTXdaOTRKOHRjZ2dJakYzQkN4R05jT3E5bkM4X0JaTEktMXZvcFhEU3Z2UkxwbDNiWnl3UGlpRzduY1JrQlcxY05EXzlSVWd2ampQN1E?oc=5\" target=\"_blank\">DoorDash Launches In-House Drone Delivery Program After Securing FAA Air Carrier Certification</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quiver Quantitative</font>",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaHVNTFcxWHY1RVd2VVlpVTBxaGdIV3N6RkVIaDZzeU5zN2hxVzFQQ1o4WmY0b1JpYXZMcHVvRlZvM3N3UkgzV2lFZWkzRmExeTRPNTBpQTNoNEpOTldCVFd5RFlSSG5ISTZ2VTEwRm9fbmZ3Ti1GaFhtTXdaOTRKOHRjZ2dJakYzQkN4R05jT3E5bkM4X0JaTEktMXZvcFhEU3Z2UkxwbDNiWnl3UGlpRzduY1JrQlcxY05EXzlSVWd2ampQN1E?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaHVNTFcxWHY1RVd2VVlpVTBxaGdIV3N6RkVIaDZzeU5zN2hxVzFQQ1o4WmY0b1JpYXZMcHVvRlZvM3N3UkgzV2lFZWkzRmExeTRPNTBpQTNoNEpOTldCVFd5RFlSSG5ISTZ2VTEwRm9fbmZ3Ti1GaFhtTXdaOTRKOHRjZ2dJakYzQkN4R05jT3E5bkM4X0JaTEktMXZvcFhEU3Z2UkxwbDNiWnl3UGlpRzduY1JrQlcxY05EXzlSVWd2ampQN1E?oc=5",
+      "publishedAt": "2026-07-29T14:18:00.000Z",
+      "source": "Quiver Quantitative",
       "_feedRegion": "us",
       "_feedName": "FAA",
       "_scoring": {
@@ -168,12 +209,12 @@
     },
     {
       "title": "DoorDash (DASH) Just Won FAA Approval And Launched Its Own Drone Delivery Service",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQWnpyakhLcHd3dl8yUE9HTmtrQjlCLWV1Q0plWnBaNzdHSGZKUDVmbUVYNXpCSW9yc0h3eW44UFAxSHAyMHlfX0Y2SUhKQXlWUlhKbTFQaHEwSEQtVWQwNGdnX0p4WEZWUWR4RE1iVTFVUVA3ckNoa1lTc0d2bmRCTXBuQXhlazRCY2lqeFNpZDlQVzZWV1E?oc=5\" target=\"_blank\">DoorDash (DASH) Just Won FAA Approval And Launched Its Own Drone Delivery Service</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.yahoo.com</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQWnpyakhLcHd3dl8yUE9HTmtrQjlCLWV1Q0plWnBaNzdHSGZKUDVmbUVYNXpCSW9yc0h3eW44UFAxSHAyMHlfX0Y2SUhKQXlWUlhKbTFQaHEwSEQtVWQwNGdnX0p4WEZWUWR4RE1iVTFVUVA3ckNoa1lTc0d2bmRCTXBuQXhlazRCY2lqeFNpZDlQVzZWV1E?oc=5\" target=\"_blank\">DoorDash (DASH) Just Won FAA Approval And Launched Its Own Drone Delivery Service</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.yahoo.com</font>",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQWnpyakhLcHd3dl8yUE9HTmtrQjlCLWV1Q0plWnBaNzdHSGZKUDVmbUVYNXpCSW9yc0h3eW44UFAxSHAyMHlfX0Y2SUhKQXlWUlhKbTFQaHEwSEQtVWQwNGdnX0p4WEZWUWR4RE1iVTFVUVA3ckNoa1lTc0d2bmRCTXBuQXhlazRCY2lqeFNpZDlQVzZWV1E?oc=5\" target=\"_blank\">DoorDash (DASH) Just Won FAA Approval And Launched Its Own Drone Delivery Service</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQWnpyakhLcHd3dl8yUE9HTmtrQjlCLWV1Q0plWnBaNzdHSGZKUDVmbUVYNXpCSW9yc0h3eW44UFAxSHAyMHlfX0Y2SUhKQXlWUlhKbTFQaHEwSEQtVWQwNGdnX0p4WEZWUWR4RE1iVTFVUVA3ckNoa1lTc0d2bmRCTXBuQXhlazRCY2lqeFNpZDlQVzZWV1E?oc=5\" target=\"_blank\">DoorDash (DASH) Just Won FAA Approval And Launched Its Own Drone Delivery Service</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWnpyakhLcHd3dl8yUE9HTmtrQjlCLWV1Q0plWnBaNzdHSGZKUDVmbUVYNXpCSW9yc0h3eW44UFAxSHAyMHlfX0Y2SUhKQXlWUlhKbTFQaHEwSEQtVWQwNGdnX0p4WEZWUWR4RE1iVTFVUVA3ckNoa1lTc0d2bmRCTXBuQXhlazRCY2lqeFNpZDlQVzZWV1E?oc=5",
       "googleNewsUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWnpyakhLcHd3dl8yUE9HTmtrQjlCLWV1Q0plWnBaNzdHSGZKUDVmbUVYNXpCSW9yc0h3eW44UFAxSHAyMHlfX0Y2SUhKQXlWUlhKbTFQaHEwSEQtVWQwNGdnX0p4WEZWUWR4RE1iVTFVUVA3ckNoa1lTc0d2bmRCTXBuQXhlazRCY2lqeFNpZDlQVzZWV1E?oc=5",
       "publishedAt": "2026-08-01T10:09:48.000Z",
-      "source": "finance.yahoo.com",
+      "source": "Yahoo Finance",
       "_feedRegion": "us",
       "_feedName": "FAA",
       "_scoring": {
@@ -209,12 +250,12 @@
     },
     {
       "title": "DoorDash Gets US FAA Approval to Launch Drone Delivery Service",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNMmRxU0xDRmZEcGY3aXNIaktVdWJMMGVQakpGdThfZUZ5X0NDcG1YQ1NGbjhqRG9PRHAwRE9QaC1vQnhiXzh2YWhha2lKR1ZHMWc2c1c3aEtCT3gzdUpoSUJBRUtvdF9NX3M3aW9RaGhWeEt0c2M2em9BbFdPcXdXc2xqenEzdVZoaTU3V21Dc1BuMm4t?oc=5\" target=\"_blank\">DoorDash Gets US FAA Approval to Launch Drone Delivery Service</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.yahoo.com</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNMmRxU0xDRmZEcGY3aXNIaktVdWJMMGVQakpGdThfZUZ5X0NDcG1YQ1NGbjhqRG9PRHAwRE9QaC1vQnhiXzh2YWhha2lKR1ZHMWc2c1c3aEtCT3gzdUpoSUJBRUtvdF9NX3M3aW9RaGhWeEt0c2M2em9BbFdPcXdXc2xqenEzdVZoaTU3V21Dc1BuMm4t?oc=5\" target=\"_blank\">DoorDash Gets US FAA Approval to Launch Drone Delivery Service</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.yahoo.com</font>",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNMmRxU0xDRmZEcGY3aXNIaktVdWJMMGVQakpGdThfZUZ5X0NDcG1YQ1NGbjhqRG9PRHAwRE9QaC1vQnhiXzh2YWhha2lKR1ZHMWc2c1c3aEtCT3gzdUpoSUJBRUtvdF9NX3M3aW9RaGhWeEt0c2M2em9BbFdPcXdXc2xqenEzdVZoaTU3V21Dc1BuMm4t?oc=5\" target=\"_blank\">DoorDash Gets US FAA Approval to Launch Drone Delivery Service</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNMmRxU0xDRmZEcGY3aXNIaktVdWJMMGVQakpGdThfZUZ5X0NDcG1YQ1NGbjhqRG9PRHAwRE9QaC1vQnhiXzh2YWhha2lKR1ZHMWc2c1c3aEtCT3gzdUpoSUJBRUtvdF9NX3M3aW9RaGhWeEt0c2M2em9BbFdPcXdXc2xqenEzdVZoaTU3V21Dc1BuMm4t?oc=5\" target=\"_blank\">DoorDash Gets US FAA Approval to Launch Drone Delivery Service</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMmRxU0xDRmZEcGY3aXNIaktVdWJMMGVQakpGdThfZUZ5X0NDcG1YQ1NGbjhqRG9PRHAwRE9QaC1vQnhiXzh2YWhha2lKR1ZHMWc2c1c3aEtCT3gzdUpoSUJBRUtvdF9NX3M3aW9RaGhWeEt0c2M2em9BbFdPcXdXc2xqenEzdVZoaTU3V21Dc1BuMm4t?oc=5",
       "googleNewsUrl": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMmRxU0xDRmZEcGY3aXNIaktVdWJMMGVQakpGdThfZUZ5X0NDcG1YQ1NGbjhqRG9PRHAwRE9QaC1vQnhiXzh2YWhha2lKR1ZHMWc2c1c3aEtCT3gzdUpoSUJBRUtvdF9NX3M3aW9RaGhWeEt0c2M2em9BbFdPcXdXc2xqenEzdVZoaTU3V21Dc1BuMm4t?oc=5",
       "publishedAt": "2026-07-29T07:00:00.000Z",
-      "source": "finance.yahoo.com",
+      "source": "Yahoo Finance",
       "_feedRegion": "us",
       "_feedName": "FAA",
       "_scoring": {
@@ -291,12 +332,12 @@
     },
     {
       "title": "DoorDash Gets FAA Approval to Launch Its Own Drone Delivery Service",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1ueWJqaTQxRl85WTRfTjJPampibWhNSDZsYnVEX1k3cWVSNFZCM0laaUxmYWV1TThfWV9McTMwZDA3a2lsbzhNZG9FU1lMREFWclBaQ01RcGNnVlFtb3U2N2pLUVVRSjhidlpJelJDSlVCN0VJUC0zdFA2YVpFaGs?oc=5\" target=\"_blank\">DoorDash Gets FAA Approval to Launch Its Own Drone Delivery Service</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechRepublic</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1ueWJqaTQxRl85WTRfTjJPampibWhNSDZsYnVEX1k3cWVSNFZCM0laaUxmYWV1TThfWV9McTMwZDA3a2lsbzhNZG9FU1lMREFWclBaQ01RcGNnVlFtb3U2N2pLUVVRSjhidlpJelJDSlVCN0VJUC0zdFA2YVpFaGs?oc=5\" target=\"_blank\">DoorDash Gets FAA Approval to Launch Its Own Drone Delivery Service</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechRepublic</font>",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1ueWJqaTQxRl85WTRfTjJPampibWhNSDZsYnVEX1k3cWVSNFZCM0laaUxmYWV1TThfWV9McTMwZDA3a2lsbzhNZG9FU1lMREFWclBaQ01RcGNnVlFtb3U2N2pLUVVRSjhidlpJelJDSlVCN0VJUC0zdFA2YVpFaGs?oc=5\" target=\"_blank\">DoorDash Gets FAA Approval to Launch Its Own Drone Delivery Service</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">techrepublic.com</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1ueWJqaTQxRl85WTRfTjJPampibWhNSDZsYnVEX1k3cWVSNFZCM0laaUxmYWV1TThfWV9McTMwZDA3a2lsbzhNZG9FU1lMREFWclBaQ01RcGNnVlFtb3U2N2pLUVVRSjhidlpJelJDSlVCN0VJUC0zdFA2YVpFaGs?oc=5\" target=\"_blank\">DoorDash Gets FAA Approval to Launch Its Own Drone Delivery Service</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">techrepublic.com</font>",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ueWJqaTQxRl85WTRfTjJPampibWhNSDZsYnVEX1k3cWVSNFZCM0laaUxmYWV1TThfWV9McTMwZDA3a2lsbzhNZG9FU1lMREFWclBaQ01RcGNnVlFtb3U2N2pLUVVRSjhidlpJelJDSlVCN0VJUC0zdFA2YVpFaGs?oc=5",
       "googleNewsUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ueWJqaTQxRl85WTRfTjJPampibWhNSDZsYnVEX1k3cWVSNFZCM0laaUxmYWV1TThfWV9McTMwZDA3a2lsbzhNZG9FU1lMREFWclBaQ01RcGNnVlFtb3U2N2pLUVVRSjhidlpJelJDSlVCN0VJUC0zdFA2YVpFaGs?oc=5",
       "publishedAt": "2026-07-30T11:29:58.000Z",
-      "source": "TechRepublic",
+      "source": "techrepublic.com",
       "_feedRegion": "us",
       "_feedName": "FAA",
       "_scoring": {
@@ -447,12 +488,12 @@
     },
     {
       "title": "点検・測量・防災現場で活用できるDJI産業用ドローンを紹介。型式認証対応「DJI Matrice 4Dシリーズ」導入セミナーを8月21日（金）に福井で開催",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9rWGF3OHBSMHpBak9yV2dHb244b1ZZMllBX25QUnFYRnlKeG81Vzlpb3NIT1hYTElEYlZubko3OGRISDE4bF9STmVZaXNwRU1IM3RGSFNjaExzdFU4T09obV9waXkzMkZrOWc?oc=5\" target=\"_blank\">点検・測量・防災現場で活用できるDJI産業用ドローンを紹介。型式認証対応「DJI Matrice 4Dシリーズ」導入セミナーを8月21日（金）に福井で開催</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR TIMES</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9rWGF3OHBSMHpBak9yV2dHb244b1ZZMllBX25QUnFYRnlKeG81Vzlpb3NIT1hYTElEYlZubko3OGRISDE4bF9STmVZaXNwRU1IM3RGSFNjaExzdFU4T09obV9waXkzMkZrOWc?oc=5\" target=\"_blank\">点検・測量・防災現場で活用できるDJI産業用ドローンを紹介。型式認証対応「DJI Matrice 4Dシリーズ」導入セミナーを8月21日（金）に福井で開催</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR TIMES</font>",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9rWGF3OHBSMHpBak9yV2dHb244b1ZZMllBX25QUnFYRnlKeG81Vzlpb3NIT1hYTElEYlZubko3OGRISDE4bF9STmVZaXNwRU1IM3RGSFNjaExzdFU4T09obV9waXkzMkZrOWc?oc=5\" target=\"_blank\">点検・測量・防災現場で活用できるDJI産業用ドローンを紹介。型式認証対応「DJI Matrice 4Dシリーズ」導入セミナーを8月21日（金）に福井で開催</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">prtimes.jp</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9rWGF3OHBSMHpBak9yV2dHb244b1ZZMllBX25QUnFYRnlKeG81Vzlpb3NIT1hYTElEYlZubko3OGRISDE4bF9STmVZaXNwRU1IM3RGSFNjaExzdFU4T09obV9waXkzMkZrOWc?oc=5\" target=\"_blank\">点検・測量・防災現場で活用できるDJI産業用ドローンを紹介。型式認証対応「DJI Matrice 4Dシリーズ」導入セミナーを8月21日（金）に福井で開催</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">prtimes.jp</font>",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9rWGF3OHBSMHpBak9yV2dHb244b1ZZMllBX25QUnFYRnlKeG81Vzlpb3NIT1hYTElEYlZubko3OGRISDE4bF9STmVZaXNwRU1IM3RGSFNjaExzdFU4T09obV9waXkzMkZrOWc?oc=5",
       "googleNewsUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9rWGF3OHBSMHpBak9yV2dHb244b1ZZMllBX25QUnFYRnlKeG81Vzlpb3NIT1hYTElEYlZubko3OGRISDE4bF9STmVZaXNwRU1IM3RGSFNjaExzdFU4T09obV9waXkzMkZrOWc?oc=5",
       "publishedAt": "2026-07-31T03:00:01.000Z",
-      "source": "PR TIMES",
+      "source": "prtimes.jp",
       "_feedRegion": "jp",
       "_feedName": "Google News (JP 事業者/実装)",
       "_scoring": {
@@ -484,12 +525,12 @@
     },
     {
       "title": "マーケット・チャッター：スズキがインドにおける医療航空物流向けEVTOL航空機の利用を調査するためのMoUを締結",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNjFPVUh2SEhqWDR5aHVCS21ieWdrUUo3VTFnZG5Eb0YxeG5WcmJma3ZuTmo1SDZGS2YxUHdINUxMMG1pYU11QjM0WERyMERQQkxUbU9YYWNqMThtZmh3X0JVQTNGYnRIQmlQWlBDdDRXbGh3X3NtT1VZX2xTZGctQ0paZDY2ekEwVzYtNS1BOUlSSktINU9INnRnbzI0S2g1RkFtcy1vYVhRZw?oc=5\" target=\"_blank\">マーケット・チャッター：スズキがインドにおける医療航空物流向けEVTOL航空機の利用を調査するためのMoUを締結</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">moomoo.com</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNjFPVUh2SEhqWDR5aHVCS21ieWdrUUo3VTFnZG5Eb0YxeG5WcmJma3ZuTmo1SDZGS2YxUHdINUxMMG1pYU11QjM0WERyMERQQkxUbU9YYWNqMThtZmh3X0JVQTNGYnRIQmlQWlBDdDRXbGh3X3NtT1VZX2xTZGctQ0paZDY2ekEwVzYtNS1BOUlSSktINU9INnRnbzI0S2g1RkFtcy1vYVhRZw?oc=5\" target=\"_blank\">マーケット・チャッター：スズキがインドにおける医療航空物流向けEVTOL航空機の利用を調査するためのMoUを締結</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">moomoo.com</font>",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNjFPVUh2SEhqWDR5aHVCS21ieWdrUUo3VTFnZG5Eb0YxeG5WcmJma3ZuTmo1SDZGS2YxUHdINUxMMG1pYU11QjM0WERyMERQQkxUbU9YYWNqMThtZmh3X0JVQTNGYnRIQmlQWlBDdDRXbGh3X3NtT1VZX2xTZGctQ0paZDY2ekEwVzYtNS1BOUlSSktINU9INnRnbzI0S2g1RkFtcy1vYVhRZw?oc=5\" target=\"_blank\">マーケット・チャッター：スズキがインドにおける医療航空物流向けEVTOL航空機の利用を調査するためのMoUを締結</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Moomoo</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNjFPVUh2SEhqWDR5aHVCS21ieWdrUUo3VTFnZG5Eb0YxeG5WcmJma3ZuTmo1SDZGS2YxUHdINUxMMG1pYU11QjM0WERyMERQQkxUbU9YYWNqMThtZmh3X0JVQTNGYnRIQmlQWlBDdDRXbGh3X3NtT1VZX2xTZGctQ0paZDY2ekEwVzYtNS1BOUlSSktINU9INnRnbzI0S2g1RkFtcy1vYVhRZw?oc=5\" target=\"_blank\">マーケット・チャッター：スズキがインドにおける医療航空物流向けEVTOL航空機の利用を調査するためのMoUを締結</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Moomoo</font>",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNjFPVUh2SEhqWDR5aHVCS21ieWdrUUo3VTFnZG5Eb0YxeG5WcmJma3ZuTmo1SDZGS2YxUHdINUxMMG1pYU11QjM0WERyMERQQkxUbU9YYWNqMThtZmh3X0JVQTNGYnRIQmlQWlBDdDRXbGh3X3NtT1VZX2xTZGctQ0paZDY2ekEwVzYtNS1BOUlSSktINU9INnRnbzI0S2g1RkFtcy1vYVhRZw?oc=5",
       "googleNewsUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNjFPVUh2SEhqWDR5aHVCS21ieWdrUUo3VTFnZG5Eb0YxeG5WcmJma3ZuTmo1SDZGS2YxUHdINUxMMG1pYU11QjM0WERyMERQQkxUbU9YYWNqMThtZmh3X0JVQTNGYnRIQmlQWlBDdDRXbGh3X3NtT1VZX2xTZGctQ0paZDY2ekEwVzYtNS1BOUlSSktINU9INnRnbzI0S2g1RkFtcy1vYVhRZw?oc=5",
       "publishedAt": "2026-07-31T10:15:54.000Z",
-      "source": "moomoo.com",
+      "source": "Moomoo",
       "_feedRegion": "jp",
       "_feedName": "Google News (JP 事業者/実装)",
       "_scoring": {
@@ -677,12 +718,12 @@
     },
     {
       "title": "タイ王国シラチャ・バンコク・サムイ島における「空飛ぶクルマ」の航路や販売・整備拠点等の設置検証に向けた業務提携書の締結について",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFBmTHd0ektORzVPY0dYMzlySFZad3BqcGR6bGZrczB3dmJhSFBEQTJ6N09CRUZZYzNMMEFzQVM2UDVjYzVKOElqTDJiSDlKTndLNndWSm96MFlEazJFSHdmbm5lRms5YTBQQVE?oc=5\" target=\"_blank\">タイ王国シラチャ・バンコク・サムイ島における「空飛ぶクルマ」の航路や販売・整備拠点等の設置検証に向けた業務提携書の締結について</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR TIMES</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFBmTHd0ektORzVPY0dYMzlySFZad3BqcGR6bGZrczB3dmJhSFBEQTJ6N09CRUZZYzNMMEFzQVM2UDVjYzVKOElqTDJiSDlKTndLNndWSm96MFlEazJFSHdmbm5lRms5YTBQQVE?oc=5\" target=\"_blank\">タイ王国シラチャ・バンコク・サムイ島における「空飛ぶクルマ」の航路や販売・整備拠点等の設置検証に向けた業務提携書の締結について</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR TIMES</font>",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFBmTHd0ektORzVPY0dYMzlySFZad3BqcGR6bGZrczB3dmJhSFBEQTJ6N09CRUZZYzNMMEFzQVM2UDVjYzVKOElqTDJiSDlKTndLNndWSm96MFlEazJFSHdmbm5lRms5YTBQQVE?oc=5\" target=\"_blank\">タイ王国シラチャ・バンコク・サムイ島における「空飛ぶクルマ」の航路や販売・整備拠点等の設置検証に向けた業務提携書の締結について</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">prtimes.jp</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFBmTHd0ektORzVPY0dYMzlySFZad3BqcGR6bGZrczB3dmJhSFBEQTJ6N09CRUZZYzNMMEFzQVM2UDVjYzVKOElqTDJiSDlKTndLNndWSm96MFlEazJFSHdmbm5lRms5YTBQQVE?oc=5\" target=\"_blank\">タイ王国シラチャ・バンコク・サムイ島における「空飛ぶクルマ」の航路や販売・整備拠点等の設置検証に向けた業務提携書の締結について</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">prtimes.jp</font>",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBmTHd0ektORzVPY0dYMzlySFZad3BqcGR6bGZrczB3dmJhSFBEQTJ6N09CRUZZYzNMMEFzQVM2UDVjYzVKOElqTDJiSDlKTndLNndWSm96MFlEazJFSHdmbm5lRms5YTBQQVE?oc=5",
       "googleNewsUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBmTHd0ektORzVPY0dYMzlySFZad3BqcGR6bGZrczB3dmJhSFBEQTJ6N09CRUZZYzNMMEFzQVM2UDVjYzVKOElqTDJiSDlKTndLNndWSm96MFlEazJFSHdmbm5lRms5YTBQQVE?oc=5",
       "publishedAt": "2026-07-23T07:00:00.000Z",
-      "source": "PR TIMES",
+      "source": "prtimes.jp",
       "_feedRegion": "jp",
       "_feedName": "Google News (JP 政策/実証)",
       "_scoring": {
@@ -700,6 +741,43 @@
           "policy": {
             "matches": 1,
             "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 0,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "ドローンショー・ジャパンが中国電力NW・TSSと業務提携、中国地方で常設型ドローンショー推進へ",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE1DZnF0dWdnZE5wMUtmblUzMlZIVy0weEpkN0xTNVVFNF9fZWJLazRHMjZJNUltMGVKTjJWWmZydVRrcE8wWWdhemZQTEVDY0h0SGsyYmtrSkdBTWQxNWtqMWpVZ1o0dEwtRXc?oc=5\" target=\"_blank\">ドローンショー・ジャパンが中国電力NW・TSSと業務提携、中国地方で常設型ドローンショー推進へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ドローンジャーナル</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE1DZnF0dWdnZE5wMUtmblUzMlZIVy0weEpkN0xTNVVFNF9fZWJLazRHMjZJNUltMGVKTjJWWmZydVRrcE8wWWdhemZQTEVDY0h0SGsyYmtrSkdBTWQxNWtqMWpVZ1o0dEwtRXc?oc=5\" target=\"_blank\">ドローンショー・ジャパンが中国電力NW・TSSと業務提携、中国地方で常設型ドローンショー推進へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ドローンジャーナル</font>",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1DZnF0dWdnZE5wMUtmblUzMlZIVy0weEpkN0xTNVVFNF9fZWJLazRHMjZJNUltMGVKTjJWWmZydVRrcE8wWWdhemZQTEVDY0h0SGsyYmtrSkdBTWQxNWtqMWpVZ1o0dEwtRXc?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1DZnF0dWdnZE5wMUtmblUzMlZIVy0weEpkN0xTNVVFNF9fZWJLazRHMjZJNUltMGVKTjJWWmZydVRrcE8wWWdhemZQTEVDY0h0SGsyYmtrSkdBTWQxNWtqMWpVZ1o0dEwtRXc?oc=5",
+      "publishedAt": "2026-08-04T01:59:34.000Z",
+      "source": "ドローンジャーナル",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP 経済メディア)",
+      "_scoring": {
+        "score": 64,
+        "categories": [
+          "技術・製品",
+          "市場・資金"
+        ],
+        "breakdown": {
+          "required": true,
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "market": {
+            "matches": 2,
+            "catScore": 25
           },
           "sourceTrust": {
             "domain": "news.google.com",
@@ -822,78 +900,6 @@
       }
     },
     {
-      "title": "Burrito Drop Incoming: DoorDash Receives FAA Drone Delivery Certification",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQLUZ3Mi0zajRIZ3BuSGJwSE9rUTFBVDdxTUtCWVFEVGlGYm8tT1AtS1VSNzFSdVE0WDlNenk2TFpqZVhZa0FkS21jNS0yVEtSUDZiY2F1ZXJmYlRpWW1NdjJpUEhMbVJKemxDak1CMG1JSDl6c3F6cXp3ZkZlTmo5NWNrNmhfNkJMVlVjRWVzaktBcmhXSFAzTExGSV9Ea05JTEFBUWc2dXQwUGNwU0l3?oc=5\" target=\"_blank\">Burrito Drop Incoming: DoorDash Receives FAA Drone Delivery Certification</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">extremetech.com</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQLUZ3Mi0zajRIZ3BuSGJwSE9rUTFBVDdxTUtCWVFEVGlGYm8tT1AtS1VSNzFSdVE0WDlNenk2TFpqZVhZa0FkS21jNS0yVEtSUDZiY2F1ZXJmYlRpWW1NdjJpUEhMbVJKemxDak1CMG1JSDl6c3F6cXp3ZkZlTmo5NWNrNmhfNkJMVlVjRWVzaktBcmhXSFAzTExGSV9Ea05JTEFBUWc2dXQwUGNwU0l3?oc=5\" target=\"_blank\">Burrito Drop Incoming: DoorDash Receives FAA Drone Delivery Certification</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">extremetech.com</font>",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQLUZ3Mi0zajRIZ3BuSGJwSE9rUTFBVDdxTUtCWVFEVGlGYm8tT1AtS1VSNzFSdVE0WDlNenk2TFpqZVhZa0FkS21jNS0yVEtSUDZiY2F1ZXJmYlRpWW1NdjJpUEhMbVJKemxDak1CMG1JSDl6c3F6cXp3ZkZlTmo5NWNrNmhfNkJMVlVjRWVzaktBcmhXSFAzTExGSV9Ea05JTEFBUWc2dXQwUGNwU0l3?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQLUZ3Mi0zajRIZ3BuSGJwSE9rUTFBVDdxTUtCWVFEVGlGYm8tT1AtS1VSNzFSdVE0WDlNenk2TFpqZVhZa0FkS21jNS0yVEtSUDZiY2F1ZXJmYlRpWW1NdjJpUEhMbVJKemxDak1CMG1JSDl6c3F6cXp3ZkZlTmo5NWNrNmhfNkJMVlVjRWVzaktBcmhXSFAzTExGSV9Ea05JTEFBUWc2dXQwUGNwU0l3?oc=5",
-      "publishedAt": "2026-07-31T12:00:00.000Z",
-      "source": "extremetech.com",
-      "_feedRegion": "us",
-      "_feedName": "FAA",
-      "_scoring": {
-        "score": 61,
-        "categories": [
-          "規制・政策",
-          "政策・インフラ"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 2,
-            "catScore": 40
-          },
-          "policy": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 0,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "Joby Aviation (JOBY) Stock Stays Rich Following Fresh Vertiport Network News",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOQmttaWpYaTBtZ0VSeEkzZmtRRjYzcm1oeG9BUFhPc3pHSklQX1hmVkdKZ0FmbTJXUGxENzZIak55R3M5V3RmWkc4bEVWNUZiUWRvSExXNjhaRFRxWjYtVDZDYlpZNXFnTlZQSVhTVzljXzJOUU90SlRzb1lmcGMxMGpzUTh3UHB5b0Q2cFJpMlpUYTJIZmZCNzV1Zw?oc=5\" target=\"_blank\">Joby Aviation (JOBY) Stock Stays Rich Following Fresh Vertiport Network News</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.yahoo.com</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOQmttaWpYaTBtZ0VSeEkzZmtRRjYzcm1oeG9BUFhPc3pHSklQX1hmVkdKZ0FmbTJXUGxENzZIak55R3M5V3RmWkc4bEVWNUZiUWRvSExXNjhaRFRxWjYtVDZDYlpZNXFnTlZQSVhTVzljXzJOUU90SlRzb1lmcGMxMGpzUTh3UHB5b0Q2cFJpMlpUYTJIZmZCNzV1Zw?oc=5\" target=\"_blank\">Joby Aviation (JOBY) Stock Stays Rich Following Fresh Vertiport Network News</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.yahoo.com</font>",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQmttaWpYaTBtZ0VSeEkzZmtRRjYzcm1oeG9BUFhPc3pHSklQX1hmVkdKZ0FmbTJXUGxENzZIak55R3M5V3RmWkc4bEVWNUZiUWRvSExXNjhaRFRxWjYtVDZDYlpZNXFnTlZQSVhTVzljXzJOUU90SlRzb1lmcGMxMGpzUTh3UHB5b0Q2cFJpMlpUYTJIZmZCNzV1Zw?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQmttaWpYaTBtZ0VSeEkzZmtRRjYzcm1oeG9BUFhPc3pHSklQX1hmVkdKZ0FmbTJXUGxENzZIak55R3M5V3RmWkc4bEVWNUZiUWRvSExXNjhaRFRxWjYtVDZDYlpZNXFnTlZQSVhTVzljXzJOUU90SlRzb1lmcGMxMGpzUTh3UHB5b0Q2cFJpMlpUYTJIZmZCNzV1Zw?oc=5",
-      "publishedAt": "2026-08-08T19:09:43.000Z",
-      "source": "finance.yahoo.com",
-      "_feedRegion": "global",
-      "_feedName": "Google News (Global)",
-      "_scoring": {
-        "score": 60,
-        "categories": [
-          "市場・資金",
-          "政策・インフラ"
-        ],
-        "breakdown": {
-          "required": true,
-          "market": {
-            "matches": 1,
-            "catScore": 20
-          },
-          "policy": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 15,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
       "title": "防衛装備庁「迎撃ドローン早期取得プログラム」にテラドローンが採択、国産機で量産調達を目指す",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFA0T1AwbGdzcWk4blJmMXg3NDFtWFpfYW54UGJXWFJoVEdTVGwzOWh4c09VNExEa3piWVdMVkFTUVJlaWp4ZzB4Q042LUw1Z3VjdFl3b3BwNlFKVVRyTS1iX2xlS1JCTW8xMmc?oc=5\" target=\"_blank\">防衛装備庁「迎撃ドローン早期取得プログラム」にテラドローンが採択、国産機で量産調達を目指す</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ドローンジャーナル</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFA0T1AwbGdzcWk4blJmMXg3NDFtWFpfYW54UGJXWFJoVEdTVGwzOWh4c09VNExEa3piWVdMVkFTUVJlaWp4ZzB4Q042LUw1Z3VjdFl3b3BwNlFKVVRyTS1iX2xlS1JCTW8xMmc?oc=5\" target=\"_blank\">防衛装備庁「迎撃ドローン早期取得プログラム」にテラドローンが採択、国産機で量産調達を目指す</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ドローンジャーナル</font>",
@@ -932,12 +938,12 @@
     },
     {
       "title": "小型ドローン向け技術の開発でスウォーマーと提携＝ラントロニクス〔GNW〕(時事通信)",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE5BVGt6ajhYNkxvUEtfbXZ4ZXVGLURnaVVsdGVJX1ZjZVA0bzBCUVlxeUFqdDNab0FfQ2tIQTNWS1JBRjlnNEExc2pmRVZ5UFVtWWMtLWdqYzR4ZkxwU1JXaEhOMW41U2N5dFZjSUtKNmJqOWFVd2M3RXZyV2R0Zw?oc=5\" target=\"_blank\">小型ドローン向け技術の開発でスウォーマーと提携＝ラントロニクス〔GNW〕(時事通信)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.yahoo.co.jp</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE5BVGt6ajhYNkxvUEtfbXZ4ZXVGLURnaVVsdGVJX1ZjZVA0bzBCUVlxeUFqdDNab0FfQ2tIQTNWS1JBRjlnNEExc2pmRVZ5UFVtWWMtLWdqYzR4ZkxwU1JXaEhOMW41U2N5dFZjSUtKNmJqOWFVd2M3RXZyV2R0Zw?oc=5\" target=\"_blank\">小型ドローン向け技術の開発でスウォーマーと提携＝ラントロニクス〔GNW〕(時事通信)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.yahoo.co.jp</font>",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE5BVGt6ajhYNkxvUEtfbXZ4ZXVGLURnaVVsdGVJX1ZjZVA0bzBCUVlxeUFqdDNab0FfQ2tIQTNWS1JBRjlnNEExc2pmRVZ5UFVtWWMtLWdqYzR4ZkxwU1JXaEhOMW41U2N5dFZjSUtKNmJqOWFVd2M3RXZyV2R0Zw?oc=5\" target=\"_blank\">小型ドローン向け技術の開発でスウォーマーと提携＝ラントロニクス〔GNW〕(時事通信)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ファイナンス</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE5BVGt6ajhYNkxvUEtfbXZ4ZXVGLURnaVVsdGVJX1ZjZVA0bzBCUVlxeUFqdDNab0FfQ2tIQTNWS1JBRjlnNEExc2pmRVZ5UFVtWWMtLWdqYzR4ZkxwU1JXaEhOMW41U2N5dFZjSUtKNmJqOWFVd2M3RXZyV2R0Zw?oc=5\" target=\"_blank\">小型ドローン向け技術の開発でスウォーマーと提携＝ラントロニクス〔GNW〕(時事通信)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ファイナンス</font>",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5BVGt6ajhYNkxvUEtfbXZ4ZXVGLURnaVVsdGVJX1ZjZVA0bzBCUVlxeUFqdDNab0FfQ2tIQTNWS1JBRjlnNEExc2pmRVZ5UFVtWWMtLWdqYzR4ZkxwU1JXaEhOMW41U2N5dFZjSUtKNmJqOWFVd2M3RXZyV2R0Zw?oc=5",
       "googleNewsUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5BVGt6ajhYNkxvUEtfbXZ4ZXVGLURnaVVsdGVJX1ZjZVA0bzBCUVlxeUFqdDNab0FfQ2tIQTNWS1JBRjlnNEExc2pmRVZ5UFVtWWMtLWdqYzR4ZkxwU1JXaEhOMW41U2N5dFZjSUtKNmJqOWFVd2M3RXZyV2R0Zw?oc=5",
       "publishedAt": "2026-08-03T04:46:00.000Z",
-      "source": "finance.yahoo.co.jp",
+      "source": "Yahoo!ファイナンス",
       "_feedRegion": "jp",
       "_feedName": "Google News (JP 政策/実証)",
       "_scoring": {
@@ -969,12 +975,12 @@
     },
     {
       "title": "スカイドライブ、「空飛ぶクルマ」国内外で提携／量産・商用化へ着々 –",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFB6ZkdsWFR4WTgxVDRGeXIyMHlXNnYzYXJONWJoUFM2R1Y4ZWdfZ2Izc09uYmxXZl9leDlKaVN1U3JCNi02amxDM2NObVdMcjB2em1mVXhiSQ?oc=5\" target=\"_blank\">スカイドライブ、「空飛ぶクルマ」国内外で提携／量産・商用化へ着々 –</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">denkishimbun.com</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFB6ZkdsWFR4WTgxVDRGeXIyMHlXNnYzYXJONWJoUFM2R1Y4ZWdfZ2Izc09uYmxXZl9leDlKaVN1U3JCNi02amxDM2NObVdMcjB2em1mVXhiSQ?oc=5\" target=\"_blank\">スカイドライブ、「空飛ぶクルマ」国内外で提携／量産・商用化へ着々 –</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">denkishimbun.com</font>",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFB6ZkdsWFR4WTgxVDRGeXIyMHlXNnYzYXJONWJoUFM2R1Y4ZWdfZ2Izc09uYmxXZl9leDlKaVN1U3JCNi02amxDM2NObVdMcjB2em1mVXhiSQ?oc=5\" target=\"_blank\">スカイドライブ、「空飛ぶクルマ」国内外で提携／量産・商用化へ着々 –</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">電気新聞ウェブサイト</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFB6ZkdsWFR4WTgxVDRGeXIyMHlXNnYzYXJONWJoUFM2R1Y4ZWdfZ2Izc09uYmxXZl9leDlKaVN1U3JCNi02amxDM2NObVdMcjB2em1mVXhiSQ?oc=5\" target=\"_blank\">スカイドライブ、「空飛ぶクルマ」国内外で提携／量産・商用化へ着々 –</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">電気新聞ウェブサイト</font>",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB6ZkdsWFR4WTgxVDRGeXIyMHlXNnYzYXJONWJoUFM2R1Y4ZWdfZ2Izc09uYmxXZl9leDlKaVN1U3JCNi02amxDM2NObVdMcjB2em1mVXhiSQ?oc=5",
       "googleNewsUrl": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB6ZkdsWFR4WTgxVDRGeXIyMHlXNnYzYXJONWJoUFM2R1Y4ZWdfZ2Izc09uYmxXZl9leDlKaVN1U3JCNi02amxDM2NObVdMcjB2em1mVXhiSQ?oc=5",
       "publishedAt": "2026-07-28T21:05:30.000Z",
-      "source": "denkishimbun.com",
+      "source": "電気新聞ウェブサイト",
       "_feedRegion": "jp",
       "_feedName": "Google News (JP 政策/実証)",
       "_scoring": {
@@ -1078,6 +1084,38 @@
       }
     },
     {
+      "title": "ドローン用3Dレーザーマッピング向けUAV LiDARシステムの世界市場（2026年～2032年）、市場規模（長距離LiDARシステム、中距離LiDARシステム、短距離L...",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE1BQVhucE1qUlZRNTVTdTBYbGdzYWtVa29wejhnb3lxamJldGxVUFBuTVNsenktMGpvM1ozSWdrb2UwX0IyQ2c0MDZhdHZyLTA?oc=5\" target=\"_blank\">ドローン用3Dレーザーマッピング向けUAV LiDARシステムの世界市場（2026年～2032年）、市場規模（長距離LiDARシステム、中距離LiDARシステム、短距離L...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">アットプレス</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE1BQVhucE1qUlZRNTVTdTBYbGdzYWtVa29wejhnb3lxamJldGxVUFBuTVNsenktMGpvM1ozSWdrb2UwX0IyQ2c0MDZhdHZyLTA?oc=5\" target=\"_blank\">ドローン用3Dレーザーマッピング向けUAV LiDARシステムの世界市場（2026年～2032年）、市場規模（長距離LiDARシステム、中距離LiDARシステム、短距離L...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">アットプレス</font>",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1BQVhucE1qUlZRNTVTdTBYbGdzYWtVa29wejhnb3lxamJldGxVUFBuTVNsenktMGpvM1ozSWdrb2UwX0IyQ2c0MDZhdHZyLTA?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1BQVhucE1qUlZRNTVTdTBYbGdzYWtVa29wejhnb3lxamJldGxVUFBuTVNsenktMGpvM1ozSWdrb2UwX0IyQ2c0MDZhdHZyLTA?oc=5",
+      "publishedAt": "2026-08-09T02:00:00.000Z",
+      "source": "アットプレス",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP)",
+      "_scoring": {
+        "score": 59,
+        "categories": [
+          "技術・製品"
+        ],
+        "breakdown": {
+          "required": true,
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 15,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
       "title": "ドローン規制に新ルール、国交省 工業専用地域は許可不要に | 全国のニュース",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE9aNG8zY1p5ek5HemZaSU5EeENCVEZmZlpHSWJSemt6OF9Va1hicURVbDZRdGtPT2diTTNGWVNhNnhxOExFc3FCU3pvd09ZUjJaNkxHWUJ1SlhBemJqenhlSndPNFB4Zw?oc=5\" target=\"_blank\">ドローン規制に新ルール、国交省 工業専用地域は許可不要に | 全国のニュース</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">福井新聞社</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE9aNG8zY1p5ek5HemZaSU5EeENCVEZmZlpHSWJSemt6OF9Va1hicURVbDZRdGtPT2diTTNGWVNhNnhxOExFc3FCU3pvd09ZUjJaNkxHWUJ1SlhBemJqenhlSndPNFB4Zw?oc=5\" target=\"_blank\">ドローン規制に新ルール、国交省 工業専用地域は許可不要に | 全国のニュース</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">福井新聞社</font>",
@@ -1105,37 +1143,6 @@
           "freshness": 0,
           "titleBonus": 10,
           "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "FAA Proposes $289,215 Fine Against Gorge Drones - Aero-News.net",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNQVhOeEhUUmRVNFNoY0xIWVdySmVMRUdUYkhLZ052VDhuS1lPY3hTdTV2SUJkTzZaMHFvUGo4dmpOUmpqWjU0X21Qc25EM1kyeTB1RzJGVm5XVEhBOWp4OTZzdUlCR2ZOd3lHOThxOVQyRjJHNHZGOHBGakJma3l3LVhMS1Vha25NaW1GYml0T2RFZmdWUEJN?oc=5\" target=\"_blank\">FAA Proposes $289,215 Fine Against Gorge Drones</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aero-News.net</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNQVhOeEhUUmRVNFNoY0xIWVdySmVMRUdUYkhLZ052VDhuS1lPY3hTdTV2SUJkTzZaMHFvUGo4dmpOUmpqWjU0X21Qc25EM1kyeTB1RzJGVm5XVEhBOWp4OTZzdUlCR2ZOd3lHOThxOVQyRjJHNHZGOHBGakJma3l3LVhMS1Vha25NaW1GYml0T2RFZmdWUEJN?oc=5\" target=\"_blank\">FAA Proposes $289,215 Fine Against Gorge Drones</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aero-News.net</font>",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQVhOeEhUUmRVNFNoY0xIWVdySmVMRUdUYkhLZ052VDhuS1lPY3hTdTV2SUJkTzZaMHFvUGo4dmpOUmpqWjU0X21Qc25EM1kyeTB1RzJGVm5XVEhBOWp4OTZzdUlCR2ZOd3lHOThxOVQyRjJHNHZGOHBGakJma3l3LVhMS1Vha25NaW1GYml0T2RFZmdWUEJN?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQVhOeEhUUmRVNFNoY0xIWVdySmVMRUdUYkhLZ052VDhuS1lPY3hTdTV2SUJkTzZaMHFvUGo4dmpOUmpqWjU0X21Qc25EM1kyeTB1RzJGVm5XVEhBOWp4OTZzdUlCR2ZOd3lHOThxOVQyRjJHNHZGOHBGakJma3l3LVhMS1Vha25NaW1GYml0T2RFZmdWUEJN?oc=5",
-      "publishedAt": "2026-08-09T04:02:56.000Z",
-      "source": "Aero-News.net",
-      "_feedRegion": "us",
-      "_feedName": "FAA",
-      "_scoring": {
-        "score": 56,
-        "categories": [
-          "規制・政策"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 1,
-            "catScore": 32
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 20,
-          "titleBonus": 10
         },
         "pass": true
       }
