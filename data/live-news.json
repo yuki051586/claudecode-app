@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-09T11:33:29.307Z",
-  "rawCount": 669,
+  "generatedAt": "2026-08-09T13:00:02.764Z",
+  "rawCount": 672,
   "articles": [
     {
       "title": "DoorDash launches in-house drone delivery program after FAA certification",
@@ -92,6 +92,47 @@
       "googleNewsUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxOY0RSUlVOM3A1LVVMeVY2TTNIN3U3TlN6QVBfbVFiakRQRUlaS3lVaUVFeEFfZ0FoS0pmZ0tqb3d4aXJQcnhVdjBTR3FZVXd6MHJ3V0FWNkVzN1AyMmhGMmtSdjY4TzFSOWJqc2dRNldjTDNma055dFN5cnVfUjVyM0RCaUk0OFlsX0c4VEtMaEtISm1mVDRZTmVtMnBYQQ?oc=5",
       "publishedAt": "2026-07-29T07:00:00.000Z",
       "source": "Yahoo Finance",
+      "_feedRegion": "us",
+      "_feedName": "FAA",
+      "_scoring": {
+        "score": 80,
+        "categories": [
+          "規制・政策",
+          "技術・製品",
+          "政策・インフラ"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 2,
+            "catScore": 40
+          },
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "policy": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 0,
+          "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "DoorDash Launches In-House Drone Delivery Program After Securing FAA Air Carrier Certification",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOaHVNTFcxWHY1RVd2VVlpVTBxaGdIV3N6RkVIaDZzeU5zN2hxVzFQQ1o4WmY0b1JpYXZMcHVvRlZvM3N3UkgzV2lFZWkzRmExeTRPNTBpQTNoNEpOTldCVFd5RFlSSG5ISTZ2VTEwRm9fbmZ3Ti1GaFhtTXdaOTRKOHRjZ2dJakYzQkN4R05jT3E5bkM4X0JaTEktMXZvcFhEU3Z2UkxwbDNiWnl3UGlpRzduY1JrQlcxY05EXzlSVWd2ampQN1E?oc=5\" target=\"_blank\">DoorDash Launches In-House Drone Delivery Program After Securing FAA Air Carrier Certification</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quiver Quantitative</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOaHVNTFcxWHY1RVd2VVlpVTBxaGdIV3N6RkVIaDZzeU5zN2hxVzFQQ1o4WmY0b1JpYXZMcHVvRlZvM3N3UkgzV2lFZWkzRmExeTRPNTBpQTNoNEpOTldCVFd5RFlSSG5ISTZ2VTEwRm9fbmZ3Ti1GaFhtTXdaOTRKOHRjZ2dJakYzQkN4R05jT3E5bkM4X0JaTEktMXZvcFhEU3Z2UkxwbDNiWnl3UGlpRzduY1JrQlcxY05EXzlSVWd2ampQN1E?oc=5\" target=\"_blank\">DoorDash Launches In-House Drone Delivery Program After Securing FAA Air Carrier Certification</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quiver Quantitative</font>",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaHVNTFcxWHY1RVd2VVlpVTBxaGdIV3N6RkVIaDZzeU5zN2hxVzFQQ1o4WmY0b1JpYXZMcHVvRlZvM3N3UkgzV2lFZWkzRmExeTRPNTBpQTNoNEpOTldCVFd5RFlSSG5ISTZ2VTEwRm9fbmZ3Ti1GaFhtTXdaOTRKOHRjZ2dJakYzQkN4R05jT3E5bkM4X0JaTEktMXZvcFhEU3Z2UkxwbDNiWnl3UGlpRzduY1JrQlcxY05EXzlSVWd2ampQN1E?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaHVNTFcxWHY1RVd2VVlpVTBxaGdIV3N6RkVIaDZzeU5zN2hxVzFQQ1o4WmY0b1JpYXZMcHVvRlZvM3N3UkgzV2lFZWkzRmExeTRPNTBpQTNoNEpOTldCVFd5RFlSSG5ISTZ2VTEwRm9fbmZ3Ti1GaFhtTXdaOTRKOHRjZ2dJakYzQkN4R05jT3E5bkM4X0JaTEktMXZvcFhEU3Z2UkxwbDNiWnl3UGlpRzduY1JrQlcxY05EXzlSVWd2ampQN1E?oc=5",
+      "publishedAt": "2026-07-29T14:18:00.000Z",
+      "source": "Quiver Quantitative",
       "_feedRegion": "us",
       "_feedName": "FAA",
       "_scoring": {
@@ -520,20 +561,19 @@
       }
     },
     {
-      "title": "Air Travel - Joby teams to develop US vertiport network for air taxi launch",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQaHI3RF9yRkpYdk9aMWR5c09zQ1NDMWNJLUhHa3lpRmd4bmdqaHkyVVlKcDZ4RUV2ZldRdnJWZktyM0ZxeVJYV3dTM09IaHlpMnkxMF90Q3NzNHVCLWNPZlJaUkl0blN6REZtMkllS2dMVm5KSzdncXI2aVA4MkZZMEZNcFRJZHBpOWt1ZGExTnlLa1drRGpUVlRLR0tHODJYaHNxM3Brd3lxQkJQWTJhdEZR?oc=5\" target=\"_blank\">Air Travel - Joby teams to develop US vertiport network for air taxi launch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Smart Cities World</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQaHI3RF9yRkpYdk9aMWR5c09zQ1NDMWNJLUhHa3lpRmd4bmdqaHkyVVlKcDZ4RUV2ZldRdnJWZktyM0ZxeVJYV3dTM09IaHlpMnkxMF90Q3NzNHVCLWNPZlJaUkl0blN6REZtMkllS2dMVm5KSzdncXI2aVA4MkZZMEZNcFRJZHBpOWt1ZGExTnlLa1drRGpUVlRLR0tHODJYaHNxM3Brd3lxQkJQWTJhdEZR?oc=5\" target=\"_blank\">Air Travel - Joby teams to develop US vertiport network for air taxi launch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Smart Cities World</font>",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaHI3RF9yRkpYdk9aMWR5c09zQ1NDMWNJLUhHa3lpRmd4bmdqaHkyVVlKcDZ4RUV2ZldRdnJWZktyM0ZxeVJYV3dTM09IaHlpMnkxMF90Q3NzNHVCLWNPZlJaUkl0blN6REZtMkllS2dMVm5KSzdncXI2aVA4MkZZMEZNcFRJZHBpOWt1ZGExTnlLa1drRGpUVlRLR0tHODJYaHNxM3Brd3lxQkJQWTJhdEZR?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaHI3RF9yRkpYdk9aMWR5c09zQ1NDMWNJLUhHa3lpRmd4bmdqaHkyVVlKcDZ4RUV2ZldRdnJWZktyM0ZxeVJYV3dTM09IaHlpMnkxMF90Q3NzNHVCLWNPZlJaUkl0blN6REZtMkllS2dMVm5KSzdncXI2aVA4MkZZMEZNcFRJZHBpOWt1ZGExTnlLa1drRGpUVlRLR0tHODJYaHNxM3Brd3lxQkJQWTJhdEZR?oc=5",
-      "publishedAt": "2026-08-06T12:27:03.000Z",
-      "source": "Smart Cities World",
-      "_feedRegion": "global",
-      "_feedName": "Google News (Global)",
+      "title": "ドイツ東部の空港で、爆発物を積んだドローンが見つかりました",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBkYkF2V1duU3Z0UlFZS01tM1NNaUt0Z1dfNUtmRmtxRkxacjNBWUJtNHpQOVVYM3hVWmZZamtJbVh0T3p0ZE9KVUNQczRTRHBnNllrZUhwMEI5clJQRlJZVGpCSmpQNFk?oc=5\" target=\"_blank\">ドイツ東部の空港で、爆発物を積んだドローンが見つかりました</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">やさしい朝日新聞</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBkYkF2V1duU3Z0UlFZS01tM1NNaUt0Z1dfNUtmRmtxRkxacjNBWUJtNHpQOVVYM3hVWmZZamtJbVh0T3p0ZE9KVUNQczRTRHBnNllrZUhwMEI5clJQRlJZVGpCSmpQNFk?oc=5\" target=\"_blank\">ドイツ東部の空港で、爆発物を積んだドローンが見つかりました</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">やさしい朝日新聞</font>",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBkYkF2V1duU3Z0UlFZS01tM1NNaUt0Z1dfNUtmRmtxRkxacjNBWUJtNHpQOVVYM3hVWmZZamtJbVh0T3p0ZE9KVUNQczRTRHBnNllrZUhwMEI5clJQRlJZVGpCSmpQNFk?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBkYkF2V1duU3Z0UlFZS01tM1NNaUt0Z1dfNUtmRmtxRkxacjNBWUJtNHpQOVVYM3hVWmZZamtJbVh0T3p0ZE9KVUNQczRTRHBnNllrZUhwMEI5clJQRlJZVGpCSmpQNFk?oc=5",
+      "publishedAt": "2026-08-07T08:43:43.000Z",
+      "source": "やさしい朝日新聞",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP)",
       "_scoring": {
-        "score": 66,
+        "score": 65,
         "categories": [
           "技術・製品",
-          "市場・資金",
           "政策・インフラ"
         ],
         "breakdown": {
@@ -541,10 +581,6 @@
           "technology": {
             "matches": 1,
             "catScore": 24
-          },
-          "market": {
-            "matches": 1,
-            "catScore": 20
           },
           "policy": {
             "matches": 1,
@@ -555,7 +591,8 @@
             "multiplier": 0.8
           },
           "freshness": 2,
-          "titleBonus": 10
+          "titleBonus": 10,
+          "jpRegionBonus": 15
         },
         "pass": true
       }
@@ -599,12 +636,53 @@
     },
     {
       "title": "Joby to develop US vertiport network ahead of air taxi launch",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOYkpMeThWOVJaQWJ4RkItWFM5UDJDMVUwSU1pVFIwdnQzQVJhOTB3SmwweW9CVkNMekhnX3U5dWY3eC01eFBxckMxRkFBMUNnTDA5VTRHMDgtWFYwRHBHaDJ2V3lSdEZpdTdiOFlyZ1JoTVFFczRvQ0dRUTRVNFVBaUNadFh3VjNvMXBRdTZrSHc4UDRlaWc?oc=5\" target=\"_blank\">Joby to develop US vertiport network ahead of air taxi launch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">zagdaily.com</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOYkpMeThWOVJaQWJ4RkItWFM5UDJDMVUwSU1pVFIwdnQzQVJhOTB3SmwweW9CVkNMekhnX3U5dWY3eC01eFBxckMxRkFBMUNnTDA5VTRHMDgtWFYwRHBHaDJ2V3lSdEZpdTdiOFlyZ1JoTVFFczRvQ0dRUTRVNFVBaUNadFh3VjNvMXBRdTZrSHc4UDRlaWc?oc=5\" target=\"_blank\">Joby to develop US vertiport network ahead of air taxi launch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">zagdaily.com</font>",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOYkpMeThWOVJaQWJ4RkItWFM5UDJDMVUwSU1pVFIwdnQzQVJhOTB3SmwweW9CVkNMekhnX3U5dWY3eC01eFBxckMxRkFBMUNnTDA5VTRHMDgtWFYwRHBHaDJ2V3lSdEZpdTdiOFlyZ1JoTVFFczRvQ0dRUTRVNFVBaUNadFh3VjNvMXBRdTZrSHc4UDRlaWc?oc=5\" target=\"_blank\">Joby to develop US vertiport network ahead of air taxi launch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Zag Daily</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOYkpMeThWOVJaQWJ4RkItWFM5UDJDMVUwSU1pVFIwdnQzQVJhOTB3SmwweW9CVkNMekhnX3U5dWY3eC01eFBxckMxRkFBMUNnTDA5VTRHMDgtWFYwRHBHaDJ2V3lSdEZpdTdiOFlyZ1JoTVFFczRvQ0dRUTRVNFVBaUNadFh3VjNvMXBRdTZrSHc4UDRlaWc?oc=5\" target=\"_blank\">Joby to develop US vertiport network ahead of air taxi launch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Zag Daily</font>",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOYkpMeThWOVJaQWJ4RkItWFM5UDJDMVUwSU1pVFIwdnQzQVJhOTB3SmwweW9CVkNMekhnX3U5dWY3eC01eFBxckMxRkFBMUNnTDA5VTRHMDgtWFYwRHBHaDJ2V3lSdEZpdTdiOFlyZ1JoTVFFczRvQ0dRUTRVNFVBaUNadFh3VjNvMXBRdTZrSHc4UDRlaWc?oc=5",
       "googleNewsUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOYkpMeThWOVJaQWJ4RkItWFM5UDJDMVUwSU1pVFIwdnQzQVJhOTB3SmwweW9CVkNMekhnX3U5dWY3eC01eFBxckMxRkFBMUNnTDA5VTRHMDgtWFYwRHBHaDJ2V3lSdEZpdTdiOFlyZ1JoTVFFczRvQ0dRUTRVNFVBaUNadFh3VjNvMXBRdTZrSHc4UDRlaWc?oc=5",
       "publishedAt": "2026-08-04T16:17:45.000Z",
-      "source": "zagdaily.com",
+      "source": "Zag Daily",
+      "_feedRegion": "global",
+      "_feedName": "Google News (Global)",
+      "_scoring": {
+        "score": 64,
+        "categories": [
+          "技術・製品",
+          "市場・資金",
+          "政策・インフラ"
+        ],
+        "breakdown": {
+          "required": true,
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "market": {
+            "matches": 1,
+            "catScore": 20
+          },
+          "policy": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 0,
+          "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "Air Travel - Joby teams to develop US vertiport network for air taxi launch",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQaHI3RF9yRkpYdk9aMWR5c09zQ1NDMWNJLUhHa3lpRmd4bmdqaHkyVVlKcDZ4RUV2ZldRdnJWZktyM0ZxeVJYV3dTM09IaHlpMnkxMF90Q3NzNHVCLWNPZlJaUkl0blN6REZtMkllS2dMVm5KSzdncXI2aVA4MkZZMEZNcFRJZHBpOWt1ZGExTnlLa1drRGpUVlRLR0tHODJYaHNxM3Brd3lxQkJQWTJhdEZR?oc=5\" target=\"_blank\">Air Travel - Joby teams to develop US vertiport network for air taxi launch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">smartcitiesworld.net</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQaHI3RF9yRkpYdk9aMWR5c09zQ1NDMWNJLUhHa3lpRmd4bmdqaHkyVVlKcDZ4RUV2ZldRdnJWZktyM0ZxeVJYV3dTM09IaHlpMnkxMF90Q3NzNHVCLWNPZlJaUkl0blN6REZtMkllS2dMVm5KSzdncXI2aVA4MkZZMEZNcFRJZHBpOWt1ZGExTnlLa1drRGpUVlRLR0tHODJYaHNxM3Brd3lxQkJQWTJhdEZR?oc=5\" target=\"_blank\">Air Travel - Joby teams to develop US vertiport network for air taxi launch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">smartcitiesworld.net</font>",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaHI3RF9yRkpYdk9aMWR5c09zQ1NDMWNJLUhHa3lpRmd4bmdqaHkyVVlKcDZ4RUV2ZldRdnJWZktyM0ZxeVJYV3dTM09IaHlpMnkxMF90Q3NzNHVCLWNPZlJaUkl0blN6REZtMkllS2dMVm5KSzdncXI2aVA4MkZZMEZNcFRJZHBpOWt1ZGExTnlLa1drRGpUVlRLR0tHODJYaHNxM3Brd3lxQkJQWTJhdEZR?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaHI3RF9yRkpYdk9aMWR5c09zQ1NDMWNJLUhHa3lpRmd4bmdqaHkyVVlKcDZ4RUV2ZldRdnJWZktyM0ZxeVJYV3dTM09IaHlpMnkxMF90Q3NzNHVCLWNPZlJaUkl0blN6REZtMkllS2dMVm5KSzdncXI2aVA4MkZZMEZNcFRJZHBpOWt1ZGExTnlLa1drRGpUVlRLR0tHODJYaHNxM3Brd3lxQkJQWTJhdEZR?oc=5",
+      "publishedAt": "2026-08-06T12:27:03.000Z",
+      "source": "smartcitiesworld.net",
       "_feedRegion": "global",
       "_feedName": "Google News (Global)",
       "_scoring": {
@@ -787,42 +865,6 @@
       }
     },
     {
-      "title": "AFPM: FAA drone rules essential to better protect critical energy infrastructure",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQlBZVzhEWklJMjJ5eFlnck9TV2I1RmdWX29mTDdYUTd2bE5GTDhnOEgzcW5sbjY5ZzFkbTM5aGx3ckZKbnRFLUdIM0pIRkJsaG56cjJEVEVFSkphT3BvNWxaM2o1N3o4dVB5cTNfOVVXVS1HMEhpR1BRNUZ2VmpxNXl5dnBNUjBFQk91TTFKWG8wSFNiRXpWeG5ER0NkLTdqZW9RNGo4azZGLWM?oc=5\" target=\"_blank\">AFPM: FAA drone rules essential to better protect critical energy infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">American Fuel & Petrochemical Manufacturers</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQlBZVzhEWklJMjJ5eFlnck9TV2I1RmdWX29mTDdYUTd2bE5GTDhnOEgzcW5sbjY5ZzFkbTM5aGx3ckZKbnRFLUdIM0pIRkJsaG56cjJEVEVFSkphT3BvNWxaM2o1N3o4dVB5cTNfOVVXVS1HMEhpR1BRNUZ2VmpxNXl5dnBNUjBFQk91TTFKWG8wSFNiRXpWeG5ER0NkLTdqZW9RNGo4azZGLWM?oc=5\" target=\"_blank\">AFPM: FAA drone rules essential to better protect critical energy infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">American Fuel & Petrochemical Manufacturers</font>",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQlBZVzhEWklJMjJ5eFlnck9TV2I1RmdWX29mTDdYUTd2bE5GTDhnOEgzcW5sbjY5ZzFkbTM5aGx3ckZKbnRFLUdIM0pIRkJsaG56cjJEVEVFSkphT3BvNWxaM2o1N3o4dVB5cTNfOVVXVS1HMEhpR1BRNUZ2VmpxNXl5dnBNUjBFQk91TTFKWG8wSFNiRXpWeG5ER0NkLTdqZW9RNGo4azZGLWM?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQlBZVzhEWklJMjJ5eFlnck9TV2I1RmdWX29mTDdYUTd2bE5GTDhnOEgzcW5sbjY5ZzFkbTM5aGx3ckZKbnRFLUdIM0pIRkJsaG56cjJEVEVFSkphT3BvNWxaM2o1N3o4dVB5cTNfOVVXVS1HMEhpR1BRNUZ2VmpxNXl5dnBNUjBFQk91TTFKWG8wSFNiRXpWeG5ER0NkLTdqZW9RNGo4azZGLWM?oc=5",
-      "publishedAt": "2026-08-06T12:00:00.000Z",
-      "source": "American Fuel & Petrochemical Manufacturers",
-      "_feedRegion": "us",
-      "_feedName": "FAA",
-      "_scoring": {
-        "score": 63,
-        "categories": [
-          "規制・政策",
-          "政策・インフラ"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 3,
-            "catScore": 40
-          },
-          "policy": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 2,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
       "title": "FAA Proposes Civil Penalty Against Drone Operator for Alleged Agricultural Flight Violations",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOM01uYzlwZVBiVWdDSElTV2VReWxQLXhBdEVZTExJTUpMSW51QnM1Nl9xNWxtQXFDOERfbnBPSUk5dURmd2JRbEpzSVctOWJRbzVjY1hjYm84U0pPM29MNThqRTR3WVN1Zkxib1NhY2gxNERmcmpyQkF5M01nOTFvSXo5b01QUjh6LTFlag?oc=5\" target=\"_blank\">FAA Proposes Civil Penalty Against Drone Operator for Alleged Agricultural Flight Violations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dronelife</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOM01uYzlwZVBiVWdDSElTV2VReWxQLXhBdEVZTExJTUpMSW51QnM1Nl9xNWxtQXFDOERfbnBPSUk5dURmd2JRbEpzSVctOWJRbzVjY1hjYm84U0pPM29MNThqRTR3WVN1Zkxib1NhY2gxNERmcmpyQkF5M01nOTFvSXo5b01QUjh6LTFlag?oc=5\" target=\"_blank\">FAA Proposes Civil Penalty Against Drone Operator for Alleged Agricultural Flight Violations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dronelife</font>",
@@ -853,6 +895,42 @@
             "multiplier": 0.8
           },
           "freshness": 5,
+          "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "AFPM: FAA drone rules essential to better protect critical energy infrastructure",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQlBZVzhEWklJMjJ5eFlnck9TV2I1RmdWX29mTDdYUTd2bE5GTDhnOEgzcW5sbjY5ZzFkbTM5aGx3ckZKbnRFLUdIM0pIRkJsaG56cjJEVEVFSkphT3BvNWxaM2o1N3o4dVB5cTNfOVVXVS1HMEhpR1BRNUZ2VmpxNXl5dnBNUjBFQk91TTFKWG8wSFNiRXpWeG5ER0NkLTdqZW9RNGo4azZGLWM?oc=5\" target=\"_blank\">AFPM: FAA drone rules essential to better protect critical energy infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">American Fuel & Petrochemical Manufacturers</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQlBZVzhEWklJMjJ5eFlnck9TV2I1RmdWX29mTDdYUTd2bE5GTDhnOEgzcW5sbjY5ZzFkbTM5aGx3ckZKbnRFLUdIM0pIRkJsaG56cjJEVEVFSkphT3BvNWxaM2o1N3o4dVB5cTNfOVVXVS1HMEhpR1BRNUZ2VmpxNXl5dnBNUjBFQk91TTFKWG8wSFNiRXpWeG5ER0NkLTdqZW9RNGo4azZGLWM?oc=5\" target=\"_blank\">AFPM: FAA drone rules essential to better protect critical energy infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">American Fuel & Petrochemical Manufacturers</font>",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQlBZVzhEWklJMjJ5eFlnck9TV2I1RmdWX29mTDdYUTd2bE5GTDhnOEgzcW5sbjY5ZzFkbTM5aGx3ckZKbnRFLUdIM0pIRkJsaG56cjJEVEVFSkphT3BvNWxaM2o1N3o4dVB5cTNfOVVXVS1HMEhpR1BRNUZ2VmpxNXl5dnBNUjBFQk91TTFKWG8wSFNiRXpWeG5ER0NkLTdqZW9RNGo4azZGLWM?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQlBZVzhEWklJMjJ5eFlnck9TV2I1RmdWX29mTDdYUTd2bE5GTDhnOEgzcW5sbjY5ZzFkbTM5aGx3ckZKbnRFLUdIM0pIRkJsaG56cjJEVEVFSkphT3BvNWxaM2o1N3o4dVB5cTNfOVVXVS1HMEhpR1BRNUZ2VmpxNXl5dnBNUjBFQk91TTFKWG8wSFNiRXpWeG5ER0NkLTdqZW9RNGo4azZGLWM?oc=5",
+      "publishedAt": "2026-08-06T12:00:00.000Z",
+      "source": "American Fuel & Petrochemical Manufacturers",
+      "_feedRegion": "us",
+      "_feedName": "FAA",
+      "_scoring": {
+        "score": 61,
+        "categories": [
+          "規制・政策",
+          "政策・インフラ"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 3,
+            "catScore": 40
+          },
+          "policy": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 0,
           "titleBonus": 10
         },
         "pass": true
@@ -1007,12 +1085,12 @@
     },
     {
       "title": "小型ドローン向け技術の開発でスウォーマーと提携＝ラントロニクス〔ＧＮＷ〕",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE1Wb3Vsc2ttZHJST05yVEFZWEhyU0R1OUFQeVlJLVBBak1raVBRZ0ZPcy1RMlZjZjU0TUIxZUlMdzlsT0VWeVFXUUxVbjJzbXV6aGFSbm1UVlk4SE9uaktxUU1LaDctRDByUDNiZDZiTFZEVnJZVEdpZ0d0NNIBgAFBVV95cUxPbXp6a2VrV1NHU21aYS15LUJmcF9YNmRBNXdqY1RKWkRoRTBMZkQ5bWRNT0tYVmF3aE9xVnY4V1R0R2tPNkJ0eTRjMXN2SHB5Y2IzQXdzcjJOUUVIdkdCSW40RnNrWkE4dm4zd0ZTYkEwYU82QnNiUGZVSnh4WWJ3eg?oc=5\" target=\"_blank\">小型ドローン向け技術の開発でスウォーマーと提携＝ラントロニクス〔ＧＮＷ〕</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">topics.smt.docomo.ne.jp</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE1Wb3Vsc2ttZHJST05yVEFZWEhyU0R1OUFQeVlJLVBBak1raVBRZ0ZPcy1RMlZjZjU0TUIxZUlMdzlsT0VWeVFXUUxVbjJzbXV6aGFSbm1UVlk4SE9uaktxUU1LaDctRDByUDNiZDZiTFZEVnJZVEdpZ0d0NNIBgAFBVV95cUxPbXp6a2VrV1NHU21aYS15LUJmcF9YNmRBNXdqY1RKWkRoRTBMZkQ5bWRNT0tYVmF3aE9xVnY4V1R0R2tPNkJ0eTRjMXN2SHB5Y2IzQXdzcjJOUUVIdkdCSW40RnNrWkE4dm4zd0ZTYkEwYU82QnNiUGZVSnh4WWJ3eg?oc=5\" target=\"_blank\">小型ドローン向け技術の開発でスウォーマーと提携＝ラントロニクス〔ＧＮＷ〕</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">topics.smt.docomo.ne.jp</font>",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE1Wb3Vsc2ttZHJST05yVEFZWEhyU0R1OUFQeVlJLVBBak1raVBRZ0ZPcy1RMlZjZjU0TUIxZUlMdzlsT0VWeVFXUUxVbjJzbXV6aGFSbm1UVlk4SE9uaktxUU1LaDctRDByUDNiZDZiTFZEVnJZVEdpZ0d0NNIBgAFBVV95cUxPbXp6a2VrV1NHU21aYS15LUJmcF9YNmRBNXdqY1RKWkRoRTBMZkQ5bWRNT0tYVmF3aE9xVnY4V1R0R2tPNkJ0eTRjMXN2SHB5Y2IzQXdzcjJOUUVIdkdCSW40RnNrWkE4dm4zd0ZTYkEwYU82QnNiUGZVSnh4WWJ3eg?oc=5\" target=\"_blank\">小型ドローン向け技術の開発でスウォーマーと提携＝ラントロニクス〔ＧＮＷ〕</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ｄメニューニュース</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE1Wb3Vsc2ttZHJST05yVEFZWEhyU0R1OUFQeVlJLVBBak1raVBRZ0ZPcy1RMlZjZjU0TUIxZUlMdzlsT0VWeVFXUUxVbjJzbXV6aGFSbm1UVlk4SE9uaktxUU1LaDctRDByUDNiZDZiTFZEVnJZVEdpZ0d0NNIBgAFBVV95cUxPbXp6a2VrV1NHU21aYS15LUJmcF9YNmRBNXdqY1RKWkRoRTBMZkQ5bWRNT0tYVmF3aE9xVnY4V1R0R2tPNkJ0eTRjMXN2SHB5Y2IzQXdzcjJOUUVIdkdCSW40RnNrWkE4dm4zd0ZTYkEwYU82QnNiUGZVSnh4WWJ3eg?oc=5\" target=\"_blank\">小型ドローン向け技術の開発でスウォーマーと提携＝ラントロニクス〔ＧＮＷ〕</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ｄメニューニュース</font>",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1Wb3Vsc2ttZHJST05yVEFZWEhyU0R1OUFQeVlJLVBBak1raVBRZ0ZPcy1RMlZjZjU0TUIxZUlMdzlsT0VWeVFXUUxVbjJzbXV6aGFSbm1UVlk4SE9uaktxUU1LaDctRDByUDNiZDZiTFZEVnJZVEdpZ0d0NNIBgAFBVV95cUxPbXp6a2VrV1NHU21aYS15LUJmcF9YNmRBNXdqY1RKWkRoRTBMZkQ5bWRNT0tYVmF3aE9xVnY4V1R0R2tPNkJ0eTRjMXN2SHB5Y2IzQXdzcjJOUUVIdkdCSW40RnNrWkE4dm4zd0ZTYkEwYU82QnNiUGZVSnh4WWJ3eg?oc=5",
       "googleNewsUrl": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1Wb3Vsc2ttZHJST05yVEFZWEhyU0R1OUFQeVlJLVBBak1raVBRZ0ZPcy1RMlZjZjU0TUIxZUlMdzlsT0VWeVFXUUxVbjJzbXV6aGFSbm1UVlk4SE9uaktxUU1LaDctRDByUDNiZDZiTFZEVnJZVEdpZ0d0NNIBgAFBVV95cUxPbXp6a2VrV1NHU21aYS15LUJmcF9YNmRBNXdqY1RKWkRoRTBMZkQ5bWRNT0tYVmF3aE9xVnY4V1R0R2tPNkJ0eTRjMXN2SHB5Y2IzQXdzcjJOUUVIdkdCSW40RnNrWkE4dm4zd0ZTYkEwYU82QnNiUGZVSnh4WWJ3eg?oc=5",
       "publishedAt": "2026-08-03T02:46:00.000Z",
-      "source": "topics.smt.docomo.ne.jp",
+      "source": "ｄメニューニュース",
       "_feedRegion": "jp",
       "_feedName": "Google News (JP 政策/実証)",
       "_scoring": {
@@ -1043,55 +1121,20 @@
       }
     },
     {
-      "title": "Atoms And Joby Aviation Form Strategic Partnership To Build U.S. Vertiport Network",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOYXZpNV9NTS12R2hlUlBaay1sUDk4ZDM2MUdTMW9ud1RlZUs2Z01fbllOZ01VWlpfOTVfV1hyVjRhVnZreDhYZy04ZEZCLWU5a3BPYS1VbWNITTdGTDl3Rmt1SXB0YlI5d1JnRERpSnE4RWY3U3laZ05sRHgzaktrbTRtXzJPbmcwTGJPaVFudUN0WWc1eW43czVLRExYYkZfTVNj0gGoAUFVX3lxTE1WNTJ6bHliMnNjTnJLOVJMV1dKN0o0cEhMSkVtUmFnRlhlaktnOE5YWmNjLUdCWkMtNXhBblpBQy1Fc0lFTDhxYjI1WDBUVUtIMkk4YzV1eE9tR2RLMnlYaUhaaEdodzgyVEJsWkctRDZpQ2k0Y2hXQkg5SmtCN1BQcGQ2YmYzUjNCRmt3Q21wOUlncDltU1MyRm9ybkhpdkVsRUZNRDUxYg?oc=5\" target=\"_blank\">Atoms And Joby Aviation Form Strategic Partnership To Build U.S. Vertiport Network</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Pulse 2.0</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOYXZpNV9NTS12R2hlUlBaay1sUDk4ZDM2MUdTMW9ud1RlZUs2Z01fbllOZ01VWlpfOTVfV1hyVjRhVnZreDhYZy04ZEZCLWU5a3BPYS1VbWNITTdGTDl3Rmt1SXB0YlI5d1JnRERpSnE4RWY3U3laZ05sRHgzaktrbTRtXzJPbmcwTGJPaVFudUN0WWc1eW43czVLRExYYkZfTVNj0gGoAUFVX3lxTE1WNTJ6bHliMnNjTnJLOVJMV1dKN0o0cEhMSkVtUmFnRlhlaktnOE5YWmNjLUdCWkMtNXhBblpBQy1Fc0lFTDhxYjI1WDBUVUtIMkk4YzV1eE9tR2RLMnlYaUhaaEdodzgyVEJsWkctRDZpQ2k0Y2hXQkg5SmtCN1BQcGQ2YmYzUjNCRmt3Q21wOUlncDltU1MyRm9ybkhpdkVsRUZNRDUxYg?oc=5\" target=\"_blank\">Atoms And Joby Aviation Form Strategic Partnership To Build U.S. Vertiport Network</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Pulse 2.0</font>",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYXZpNV9NTS12R2hlUlBaay1sUDk4ZDM2MUdTMW9ud1RlZUs2Z01fbllOZ01VWlpfOTVfV1hyVjRhVnZreDhYZy04ZEZCLWU5a3BPYS1VbWNITTdGTDl3Rmt1SXB0YlI5d1JnRERpSnE4RWY3U3laZ05sRHgzaktrbTRtXzJPbmcwTGJPaVFudUN0WWc1eW43czVLRExYYkZfTVNj0gGoAUFVX3lxTE1WNTJ6bHliMnNjTnJLOVJMV1dKN0o0cEhMSkVtUmFnRlhlaktnOE5YWmNjLUdCWkMtNXhBblpBQy1Fc0lFTDhxYjI1WDBUVUtIMkk4YzV1eE9tR2RLMnlYaUhaaEdodzgyVEJsWkctRDZpQ2k0Y2hXQkg5SmtCN1BQcGQ2YmYzUjNCRmt3Q21wOUlncDltU1MyRm9ybkhpdkVsRUZNRDUxYg?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYXZpNV9NTS12R2hlUlBaay1sUDk4ZDM2MUdTMW9ud1RlZUs2Z01fbllOZ01VWlpfOTVfV1hyVjRhVnZreDhYZy04ZEZCLWU5a3BPYS1VbWNITTdGTDl3Rmt1SXB0YlI5d1JnRERpSnE4RWY3U3laZ05sRHgzaktrbTRtXzJPbmcwTGJPaVFudUN0WWc1eW43czVLRExYYkZfTVNj0gGoAUFVX3lxTE1WNTJ6bHliMnNjTnJLOVJMV1dKN0o0cEhMSkVtUmFnRlhlaktnOE5YWmNjLUdCWkMtNXhBblpBQy1Fc0lFTDhxYjI1WDBUVUtIMkk4YzV1eE9tR2RLMnlYaUhaaEdodzgyVEJsWkctRDZpQ2k0Y2hXQkg5SmtCN1BQcGQ2YmYzUjNCRmt3Q21wOUlncDltU1MyRm9ybkhpdkVsRUZNRDUxYg?oc=5",
-      "publishedAt": "2026-08-08T00:29:49.000Z",
-      "source": "Pulse 2.0",
-      "_feedRegion": "global",
-      "_feedName": "Google News (Global)",
-      "_scoring": {
-        "score": 59,
-        "categories": [
-          "市場・資金",
-          "政策・インフラ"
-        ],
-        "breakdown": {
-          "required": true,
-          "market": {
-            "matches": 2,
-            "catScore": 25
-          },
-          "policy": {
-            "matches": 2,
-            "catScore": 30
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 5,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "ドローン用3Dレーザーマッピング向けUAV LiDARシステムの世界市場（2026年～2032年）、市場規模（長距離LiDARシステム、中距離LiDARシステム、短距離LiDARシステム）・分析レポートを発表",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE1BQVhucE1qUlZRNTVTdTBYbGdzYWtVa29wejhnb3lxamJldGxVUFBuTVNsenktMGpvM1ozSWdrb2UwX0IyQ2c0MDZhdHZyLTA?oc=5\" target=\"_blank\">ドローン用3Dレーザーマッピング向けUAV LiDARシステムの世界市場（2026年～2032年）、市場規模（長距離LiDARシステム、中距離LiDARシステム、短距離LiDARシステム）・分析レポートを発表</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">atpress.ne.jp</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE1BQVhucE1qUlZRNTVTdTBYbGdzYWtVa29wejhnb3lxamJldGxVUFBuTVNsenktMGpvM1ozSWdrb2UwX0IyQ2c0MDZhdHZyLTA?oc=5\" target=\"_blank\">ドローン用3Dレーザーマッピング向けUAV LiDARシステムの世界市場（2026年～2032年）、市場規模（長距離LiDARシステム、中距離LiDARシステム、短距離LiDARシステム）・分析レポートを発表</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">atpress.ne.jp</font>",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1BQVhucE1qUlZRNTVTdTBYbGdzYWtVa29wejhnb3lxamJldGxVUFBuTVNsenktMGpvM1ozSWdrb2UwX0IyQ2c0MDZhdHZyLTA?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1BQVhucE1qUlZRNTVTdTBYbGdzYWtVa29wejhnb3lxamJldGxVUFBuTVNsenktMGpvM1ozSWdrb2UwX0IyQ2c0MDZhdHZyLTA?oc=5",
-      "publishedAt": "2026-08-09T02:00:00.000Z",
-      "source": "atpress.ne.jp",
+      "title": "そらとぶタクシー、ハイブリッドeVTOL開発のPLANA社と独占契約",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE5QZHp1RE5mNmI4b3FkTW05dXpUaHV2ZVdKNEpERHNtcDNHYmY4SzUzMGVHYloyMENJN3o1dDNSQkhxWWxPVVJ3UmFHTWsxZ09NZEQ1S1k4bnlwZ091TlZEWC1QbUJYbmtSVVE?oc=5\" target=\"_blank\">そらとぶタクシー、ハイブリッドeVTOL開発のPLANA社と独占契約</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ドローンジャーナル</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE5QZHp1RE5mNmI4b3FkTW05dXpUaHV2ZVdKNEpERHNtcDNHYmY4SzUzMGVHYloyMENJN3o1dDNSQkhxWWxPVVJ3UmFHTWsxZ09NZEQ1S1k4bnlwZ091TlZEWC1QbUJYbmtSVVE?oc=5\" target=\"_blank\">そらとぶタクシー、ハイブリッドeVTOL開発のPLANA社と独占契約</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ドローンジャーナル</font>",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5QZHp1RE5mNmI4b3FkTW05dXpUaHV2ZVdKNEpERHNtcDNHYmY4SzUzMGVHYloyMENJN3o1dDNSQkhxWWxPVVJ3UmFHTWsxZ09NZEQ1S1k4bnlwZ091TlZEWC1QbUJYbmtSVVE?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5QZHp1RE5mNmI4b3FkTW05dXpUaHV2ZVdKNEpERHNtcDNHYmY4SzUzMGVHYloyMENJN3o1dDNSQkhxWWxPVVJ3UmFHTWsxZ09NZEQ1S1k4bnlwZ091TlZEWC1QbUJYbmtSVVE?oc=5",
+      "publishedAt": "2026-07-29T07:00:00.000Z",
+      "source": "ドローンジャーナル",
       "_feedRegion": "jp",
-      "_feedName": "Google News (JP)",
+      "_feedName": "Google News (JP 事業者/実装)",
       "_scoring": {
-        "score": 59,
+        "score": 60,
         "categories": [
-          "技術・製品"
+          "技術・製品",
+          "市場・資金"
         ],
         "breakdown": {
           "required": true,
@@ -1099,37 +1142,9 @@
             "matches": 1,
             "catScore": 24
           },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 15,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "ドローン規制に新ルール、国交省 工業専用地域は許可不要に | 全国のニュース",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE9aNG8zY1p5ek5HemZaSU5EeENCVEZmZlpHSWJSemt6OF9Va1hicURVbDZRdGtPT2diTTNGWVNhNnhxOExFc3FCU3pvd09ZUjJaNkxHWUJ1SlhBemJqenhlSndPNFB4Zw?oc=5\" target=\"_blank\">ドローン規制に新ルール、国交省 工業専用地域は許可不要に | 全国のニュース</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">福井新聞社</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE9aNG8zY1p5ek5HemZaSU5EeENCVEZmZlpHSWJSemt6OF9Va1hicURVbDZRdGtPT2diTTNGWVNhNnhxOExFc3FCU3pvd09ZUjJaNkxHWUJ1SlhBemJqenhlSndPNFB4Zw?oc=5\" target=\"_blank\">ドローン規制に新ルール、国交省 工業専用地域は許可不要に | 全国のニュース</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">福井新聞社</font>",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9aNG8zY1p5ek5HemZaSU5EeENCVEZmZlpHSWJSemt6OF9Va1hicURVbDZRdGtPT2diTTNGWVNhNnhxOExFc3FCU3pvd09ZUjJaNkxHWUJ1SlhBemJqenhlSndPNFB4Zw?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9aNG8zY1p5ek5HemZaSU5EeENCVEZmZlpHSWJSemt6OF9Va1hicURVbDZRdGtPT2diTTNGWVNhNnhxOExFc3FCU3pvd09ZUjJaNkxHWUJ1SlhBemJqenhlSndPNFB4Zw?oc=5",
-      "publishedAt": "2026-07-15T12:59:49.000Z",
-      "source": "福井新聞社",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP 政策/実証)",
-      "_scoring": {
-        "score": 57,
-        "categories": [
-          "規制・政策"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 2,
-            "catScore": 40
+          "market": {
+            "matches": 1,
+            "catScore": 20
           },
           "sourceTrust": {
             "domain": "news.google.com",
