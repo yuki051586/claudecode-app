@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-10T11:51:23.199Z",
-  "rawCount": 661,
+  "generatedAt": "2026-08-10T13:18:39.128Z",
+  "rawCount": 663,
   "articles": [
     {
       "title": "DoorDash Launches Drone Delivery Division With FAA Approval",
@@ -13,7 +13,7 @@
       "_feedRegion": "us",
       "_feedName": "FAA",
       "_scoring": {
-        "score": 89,
+        "score": 84,
         "categories": [
           "規制・政策",
           "技術・製品",
@@ -37,7 +37,7 @@
             "domain": "news.google.com",
             "multiplier": 0.8
           },
-          "freshness": 10,
+          "freshness": 5,
           "titleBonus": 10
         },
         "pass": true
@@ -481,6 +481,43 @@
       }
     },
     {
+      "title": "ラントロニクスとスウォーマー、グループ1の無人航空機システム向けカスタムコンピューティングモジュールの共同開発で提携",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMinwZBVV95cUxOZlJhcmZ1dGJQdmJQZzVycTVoVmhFT25WczlLaERwOVJOTkNtOWlhbkJqdVVFajVteVdrQ3VJN1NMQTFNbzdvdFk2eG5HQ0xDaGFxQnJ3QW9YUi1lVHI0dXRuZ1NXNS1FXzlrMnlwczVUOC02WGpaT2VOS25maU50WHM1VGFCRmVoOVhKU255ZVJGSjg2ZkRGeTloSlpXRGpuWlhELUpGQVloZWxtalJRdUgxcWwyd2V4XzVZQzVHVmZNcVJkZl9mTHQxbGMxaXdiYUc3b1IxRU9ZbXE4c2czTjVGUHBsOFlXVmJCVzFpNDRYX2gyR0lDS2luWUo2alJ3M0RSYXBiZ2RscU1DS0FsQU54NkJUM0ZBVEVTZWI2eTBPdEFGOXkzQXZHZVhlS2Jzb1ZWSzdVOTBXTUo0MFZBcG9IeDJaWHgyQnRMbUo5WC13Y0VOUXZMQThWMWpzVllhYzdlb2QwNEVKd1VPWldHcXMzUUI2Y3NGaFNtNW5QaEM4SXRNaWFhYklrYmFhVUVxc29Pa1lFeDlna09MU0l0YlZ3NGJ3QkR6cXI3bWJWSlB6Zm5HSFhodnZsSmk3T0FPdlpwLUU0dVdVclBtN0ZPRzluaGdRUENlMFVrdVZUd1ktZmhMZjY1M1hwdnB3bWprUGpJZ1BWQThodFJRT1l0SkY5anFXS245S1lvZnE2ZmJXRG9pVlZWM05FMWh0cFhhR2pUV1NKQ0c5bmczX083V1FZZkhnX20xTXhMZlM4Mk9yZHRoQ3NndXBIZHV3TnFJamlpS1BqelYxa1hfU1ROWDNTN1UzUlhsekd0OWlXUkZfNDJEXzBqU2hDaG1NUy0zRFk0dTM5WHJVUXh5M2lXYURHWTBjMThJZVNXeHFkN0NKbEJtWTNLVGlFTUFGVEpfV1N3YUplSnN4eUdxbFpzTDB1a2VuTm1NUHRpZGotdTh1LVRlMnA0YzdrWE9XbTBzaWpUbk9BN3pUaXUwSGVoOXRNcFlSQnVrdWIwcUVZektuUTBCNnhwSnJHSDBRLXFLaU1ja3NiRkFrSWQ5bXk4?oc=5\" target=\"_blank\">ラントロニクスとスウォーマー、グループ1の無人航空機システム向けカスタムコンピューティングモジュールの共同開発で提携</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GlobeNewswire</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMinwZBVV95cUxOZlJhcmZ1dGJQdmJQZzVycTVoVmhFT25WczlLaERwOVJOTkNtOWlhbkJqdVVFajVteVdrQ3VJN1NMQTFNbzdvdFk2eG5HQ0xDaGFxQnJ3QW9YUi1lVHI0dXRuZ1NXNS1FXzlrMnlwczVUOC02WGpaT2VOS25maU50WHM1VGFCRmVoOVhKU255ZVJGSjg2ZkRGeTloSlpXRGpuWlhELUpGQVloZWxtalJRdUgxcWwyd2V4XzVZQzVHVmZNcVJkZl9mTHQxbGMxaXdiYUc3b1IxRU9ZbXE4c2czTjVGUHBsOFlXVmJCVzFpNDRYX2gyR0lDS2luWUo2alJ3M0RSYXBiZ2RscU1DS0FsQU54NkJUM0ZBVEVTZWI2eTBPdEFGOXkzQXZHZVhlS2Jzb1ZWSzdVOTBXTUo0MFZBcG9IeDJaWHgyQnRMbUo5WC13Y0VOUXZMQThWMWpzVllhYzdlb2QwNEVKd1VPWldHcXMzUUI2Y3NGaFNtNW5QaEM4SXRNaWFhYklrYmFhVUVxc29Pa1lFeDlna09MU0l0YlZ3NGJ3QkR6cXI3bWJWSlB6Zm5HSFhodnZsSmk3T0FPdlpwLUU0dVdVclBtN0ZPRzluaGdRUENlMFVrdVZUd1ktZmhMZjY1M1hwdnB3bWprUGpJZ1BWQThodFJRT1l0SkY5anFXS245S1lvZnE2ZmJXRG9pVlZWM05FMWh0cFhhR2pUV1NKQ0c5bmczX083V1FZZkhnX20xTXhMZlM4Mk9yZHRoQ3NndXBIZHV3TnFJamlpS1BqelYxa1hfU1ROWDNTN1UzUlhsekd0OWlXUkZfNDJEXzBqU2hDaG1NUy0zRFk0dTM5WHJVUXh5M2lXYURHWTBjMThJZVNXeHFkN0NKbEJtWTNLVGlFTUFGVEpfV1N3YUplSnN4eUdxbFpzTDB1a2VuTm1NUHRpZGotdTh1LVRlMnA0YzdrWE9XbTBzaWpUbk9BN3pUaXUwSGVoOXRNcFlSQnVrdWIwcUVZektuUTBCNnhwSnJHSDBRLXFLaU1ja3NiRkFrSWQ5bXk4?oc=5\" target=\"_blank\">ラントロニクスとスウォーマー、グループ1の無人航空機システム向けカスタムコンピューティングモジュールの共同開発で提携</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GlobeNewswire</font>",
+      "url": "https://news.google.com/rss/articles/CBMinwZBVV95cUxOZlJhcmZ1dGJQdmJQZzVycTVoVmhFT25WczlLaERwOVJOTkNtOWlhbkJqdVVFajVteVdrQ3VJN1NMQTFNbzdvdFk2eG5HQ0xDaGFxQnJ3QW9YUi1lVHI0dXRuZ1NXNS1FXzlrMnlwczVUOC02WGpaT2VOS25maU50WHM1VGFCRmVoOVhKU255ZVJGSjg2ZkRGeTloSlpXRGpuWlhELUpGQVloZWxtalJRdUgxcWwyd2V4XzVZQzVHVmZNcVJkZl9mTHQxbGMxaXdiYUc3b1IxRU9ZbXE4c2czTjVGUHBsOFlXVmJCVzFpNDRYX2gyR0lDS2luWUo2alJ3M0RSYXBiZ2RscU1DS0FsQU54NkJUM0ZBVEVTZWI2eTBPdEFGOXkzQXZHZVhlS2Jzb1ZWSzdVOTBXTUo0MFZBcG9IeDJaWHgyQnRMbUo5WC13Y0VOUXZMQThWMWpzVllhYzdlb2QwNEVKd1VPWldHcXMzUUI2Y3NGaFNtNW5QaEM4SXRNaWFhYklrYmFhVUVxc29Pa1lFeDlna09MU0l0YlZ3NGJ3QkR6cXI3bWJWSlB6Zm5HSFhodnZsSmk3T0FPdlpwLUU0dVdVclBtN0ZPRzluaGdRUENlMFVrdVZUd1ktZmhMZjY1M1hwdnB3bWprUGpJZ1BWQThodFJRT1l0SkY5anFXS245S1lvZnE2ZmJXRG9pVlZWM05FMWh0cFhhR2pUV1NKQ0c5bmczX083V1FZZkhnX20xTXhMZlM4Mk9yZHRoQ3NndXBIZHV3TnFJamlpS1BqelYxa1hfU1ROWDNTN1UzUlhsekd0OWlXUkZfNDJEXzBqU2hDaG1NUy0zRFk0dTM5WHJVUXh5M2lXYURHWTBjMThJZVNXeHFkN0NKbEJtWTNLVGlFTUFGVEpfV1N3YUplSnN4eUdxbFpzTDB1a2VuTm1NUHRpZGotdTh1LVRlMnA0YzdrWE9XbTBzaWpUbk9BN3pUaXUwSGVoOXRNcFlSQnVrdWIwcUVZektuUTBCNnhwSnJHSDBRLXFLaU1ja3NiRkFrSWQ5bXk4?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMinwZBVV95cUxOZlJhcmZ1dGJQdmJQZzVycTVoVmhFT25WczlLaERwOVJOTkNtOWlhbkJqdVVFajVteVdrQ3VJN1NMQTFNbzdvdFk2eG5HQ0xDaGFxQnJ3QW9YUi1lVHI0dXRuZ1NXNS1FXzlrMnlwczVUOC02WGpaT2VOS25maU50WHM1VGFCRmVoOVhKU255ZVJGSjg2ZkRGeTloSlpXRGpuWlhELUpGQVloZWxtalJRdUgxcWwyd2V4XzVZQzVHVmZNcVJkZl9mTHQxbGMxaXdiYUc3b1IxRU9ZbXE4c2czTjVGUHBsOFlXVmJCVzFpNDRYX2gyR0lDS2luWUo2alJ3M0RSYXBiZ2RscU1DS0FsQU54NkJUM0ZBVEVTZWI2eTBPdEFGOXkzQXZHZVhlS2Jzb1ZWSzdVOTBXTUo0MFZBcG9IeDJaWHgyQnRMbUo5WC13Y0VOUXZMQThWMWpzVllhYzdlb2QwNEVKd1VPWldHcXMzUUI2Y3NGaFNtNW5QaEM4SXRNaWFhYklrYmFhVUVxc29Pa1lFeDlna09MU0l0YlZ3NGJ3QkR6cXI3bWJWSlB6Zm5HSFhodnZsSmk3T0FPdlpwLUU0dVdVclBtN0ZPRzluaGdRUENlMFVrdVZUd1ktZmhMZjY1M1hwdnB3bWprUGpJZ1BWQThodFJRT1l0SkY5anFXS245S1lvZnE2ZmJXRG9pVlZWM05FMWh0cFhhR2pUV1NKQ0c5bmczX083V1FZZkhnX20xTXhMZlM4Mk9yZHRoQ3NndXBIZHV3TnFJamlpS1BqelYxa1hfU1ROWDNTN1UzUlhsekd0OWlXUkZfNDJEXzBqU2hDaG1NUy0zRFk0dTM5WHJVUXh5M2lXYURHWTBjMThJZVNXeHFkN0NKbEJtWTNLVGlFTUFGVEpfV1N3YUplSnN4eUdxbFpzTDB1a2VuTm1NUHRpZGotdTh1LVRlMnA0YzdrWE9XbTBzaWpUbk9BN3pUaXUwSGVoOXRNcFlSQnVrdWIwcUVZektuUTBCNnhwSnJHSDBRLXFLaU1ja3NiRkFrSWQ5bXk4?oc=5",
+      "publishedAt": "2026-07-31T18:21:10.000Z",
+      "source": "GlobeNewswire",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP 政策/実証)",
+      "_scoring": {
+        "score": 65,
+        "categories": [
+          "技術・製品",
+          "市場・資金"
+        ],
+        "breakdown": {
+          "required": true,
+          "technology": {
+            "matches": 2,
+            "catScore": 30
+          },
+          "market": {
+            "matches": 1,
+            "catScore": 20
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 0,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
       "title": "Joby to develop US vertiport network ahead of air taxi launch",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOYkpMeThWOVJaQWJ4RkItWFM5UDJDMVUwSU1pVFIwdnQzQVJhOTB3SmwweW9CVkNMekhnX3U5dWY3eC01eFBxckMxRkFBMUNnTDA5VTRHMDgtWFYwRHBHaDJ2V3lSdEZpdTdiOFlyZ1JoTVFFczRvQ0dRUTRVNFVBaUNadFh3VjNvMXBRdTZrSHc4UDRlaWc?oc=5\" target=\"_blank\">Joby to develop US vertiport network ahead of air taxi launch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Zag Daily</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOYkpMeThWOVJaQWJ4RkItWFM5UDJDMVUwSU1pVFIwdnQzQVJhOTB3SmwweW9CVkNMekhnX3U5dWY3eC01eFBxckMxRkFBMUNnTDA5VTRHMDgtWFYwRHBHaDJ2V3lSdEZpdTdiOFlyZ1JoTVFFczRvQ0dRUTRVNFVBaUNadFh3VjNvMXBRdTZrSHc4UDRlaWc?oc=5\" target=\"_blank\">Joby to develop US vertiport network ahead of air taxi launch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Zag Daily</font>",
@@ -523,12 +560,12 @@
     },
     {
       "title": "Air Travel - Joby teams to develop US vertiport network for air taxi launch",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQaHI3RF9yRkpYdk9aMWR5c09zQ1NDMWNJLUhHa3lpRmd4bmdqaHkyVVlKcDZ4RUV2ZldRdnJWZktyM0ZxeVJYV3dTM09IaHlpMnkxMF90Q3NzNHVCLWNPZlJaUkl0blN6REZtMkllS2dMVm5KSzdncXI2aVA4MkZZMEZNcFRJZHBpOWt1ZGExTnlLa1drRGpUVlRLR0tHODJYaHNxM3Brd3lxQkJQWTJhdEZR?oc=5\" target=\"_blank\">Air Travel - Joby teams to develop US vertiport network for air taxi launch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">smartcitiesworld.net</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQaHI3RF9yRkpYdk9aMWR5c09zQ1NDMWNJLUhHa3lpRmd4bmdqaHkyVVlKcDZ4RUV2ZldRdnJWZktyM0ZxeVJYV3dTM09IaHlpMnkxMF90Q3NzNHVCLWNPZlJaUkl0blN6REZtMkllS2dMVm5KSzdncXI2aVA4MkZZMEZNcFRJZHBpOWt1ZGExTnlLa1drRGpUVlRLR0tHODJYaHNxM3Brd3lxQkJQWTJhdEZR?oc=5\" target=\"_blank\">Air Travel - Joby teams to develop US vertiport network for air taxi launch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">smartcitiesworld.net</font>",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQaHI3RF9yRkpYdk9aMWR5c09zQ1NDMWNJLUhHa3lpRmd4bmdqaHkyVVlKcDZ4RUV2ZldRdnJWZktyM0ZxeVJYV3dTM09IaHlpMnkxMF90Q3NzNHVCLWNPZlJaUkl0blN6REZtMkllS2dMVm5KSzdncXI2aVA4MkZZMEZNcFRJZHBpOWt1ZGExTnlLa1drRGpUVlRLR0tHODJYaHNxM3Brd3lxQkJQWTJhdEZR?oc=5\" target=\"_blank\">Air Travel - Joby teams to develop US vertiport network for air taxi launch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Smart Cities World</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQaHI3RF9yRkpYdk9aMWR5c09zQ1NDMWNJLUhHa3lpRmd4bmdqaHkyVVlKcDZ4RUV2ZldRdnJWZktyM0ZxeVJYV3dTM09IaHlpMnkxMF90Q3NzNHVCLWNPZlJaUkl0blN6REZtMkllS2dMVm5KSzdncXI2aVA4MkZZMEZNcFRJZHBpOWt1ZGExTnlLa1drRGpUVlRLR0tHODJYaHNxM3Brd3lxQkJQWTJhdEZR?oc=5\" target=\"_blank\">Air Travel - Joby teams to develop US vertiport network for air taxi launch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Smart Cities World</font>",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaHI3RF9yRkpYdk9aMWR5c09zQ1NDMWNJLUhHa3lpRmd4bmdqaHkyVVlKcDZ4RUV2ZldRdnJWZktyM0ZxeVJYV3dTM09IaHlpMnkxMF90Q3NzNHVCLWNPZlJaUkl0blN6REZtMkllS2dMVm5KSzdncXI2aVA4MkZZMEZNcFRJZHBpOWt1ZGExTnlLa1drRGpUVlRLR0tHODJYaHNxM3Brd3lxQkJQWTJhdEZR?oc=5",
       "googleNewsUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaHI3RF9yRkpYdk9aMWR5c09zQ1NDMWNJLUhHa3lpRmd4bmdqaHkyVVlKcDZ4RUV2ZldRdnJWZktyM0ZxeVJYV3dTM09IaHlpMnkxMF90Q3NzNHVCLWNPZlJaUkl0blN6REZtMkllS2dMVm5KSzdncXI2aVA4MkZZMEZNcFRJZHBpOWt1ZGExTnlLa1drRGpUVlRLR0tHODJYaHNxM3Brd3lxQkJQWTJhdEZR?oc=5",
       "publishedAt": "2026-08-06T12:27:03.000Z",
-      "source": "smartcitiesworld.net",
+      "source": "Smart Cities World",
       "_feedRegion": "global",
       "_feedName": "Google News (Global)",
       "_scoring": {
@@ -711,36 +748,68 @@
       }
     },
     {
-      "title": "FAA reports lower drone commercial registrations but stronger forecast growth",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNS0lIbGlLTlVRYXBuRFVOa25zcTMxZEd3SkJKdXYtSkUwbnlXRkYxM1JJTUhNNXM3NmZoVUEzY3hKT3hwNkY0UkZvemNIY2VsVmlUakNTQU5EYU1QMV8ycXF4LTA3ajFwM1F3MHBib2tuSkNUVWZlRmJyS1VmTWJXcTJJMUhlT0RvNlNRYW9pZkFtSHFLb1N0SUtJdTZQREV1cjMzZkIxUUd2bHVaVVlJSjdjbDBhTGZCNlBYbHl4TnJBZldV?oc=5\" target=\"_blank\">FAA reports lower drone commercial registrations but stronger forecast growth</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNS0lIbGlLTlVRYXBuRFVOa25zcTMxZEd3SkJKdXYtSkUwbnlXRkYxM1JJTUhNNXM3NmZoVUEzY3hKT3hwNkY0UkZvemNIY2VsVmlUakNTQU5EYU1QMV8ycXF4LTA3ajFwM1F3MHBib2tuSkNUVWZlRmJyS1VmTWJXcTJJMUhlT0RvNlNRYW9pZkFtSHFLb1N0SUtJdTZQREV1cjMzZkIxUUd2bHVaVVlJSjdjbDBhTGZCNlBYbHl4TnJBZldV?oc=5\" target=\"_blank\">FAA reports lower drone commercial registrations but stronger forecast growth</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNS0lIbGlLTlVRYXBuRFVOa25zcTMxZEd3SkJKdXYtSkUwbnlXRkYxM1JJTUhNNXM3NmZoVUEzY3hKT3hwNkY0UkZvemNIY2VsVmlUakNTQU5EYU1QMV8ycXF4LTA3ajFwM1F3MHBib2tuSkNUVWZlRmJyS1VmTWJXcTJJMUhlT0RvNlNRYW9pZkFtSHFLb1N0SUtJdTZQREV1cjMzZkIxUUd2bHVaVVlJSjdjbDBhTGZCNlBYbHl4TnJBZldV?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNS0lIbGlLTlVRYXBuRFVOa25zcTMxZEd3SkJKdXYtSkUwbnlXRkYxM1JJTUhNNXM3NmZoVUEzY3hKT3hwNkY0UkZvemNIY2VsVmlUakNTQU5EYU1QMV8ycXF4LTA3ajFwM1F3MHBib2tuSkNUVWZlRmJyS1VmTWJXcTJJMUhlT0RvNlNRYW9pZkFtSHFLb1N0SUtJdTZQREV1cjMzZkIxUUd2bHVaVVlJSjdjbDBhTGZCNlBYbHl4TnJBZldV?oc=5",
-      "publishedAt": "2026-08-09T12:51:58.000Z",
-      "source": "Unmanned airspace",
-      "_feedRegion": "us",
-      "_feedName": "FAA",
+      "title": "ドイツ東部の空港で、爆発物を積んだドローンが見つかりました",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBkYkF2V1duU3Z0UlFZS01tM1NNaUt0Z1dfNUtmRmtxRkxacjNBWUJtNHpQOVVYM3hVWmZZamtJbVh0T3p0ZE9KVUNQczRTRHBnNllrZUhwMEI5clJQRlJZVGpCSmpQNFk?oc=5\" target=\"_blank\">ドイツ東部の空港で、爆発物を積んだドローンが見つかりました</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">やさしい朝日新聞</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBkYkF2V1duU3Z0UlFZS01tM1NNaUt0Z1dfNUtmRmtxRkxacjNBWUJtNHpQOVVYM3hVWmZZamtJbVh0T3p0ZE9KVUNQczRTRHBnNllrZUhwMEI5clJQRlJZVGpCSmpQNFk?oc=5\" target=\"_blank\">ドイツ東部の空港で、爆発物を積んだドローンが見つかりました</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">やさしい朝日新聞</font>",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBkYkF2V1duU3Z0UlFZS01tM1NNaUt0Z1dfNUtmRmtxRkxacjNBWUJtNHpQOVVYM3hVWmZZamtJbVh0T3p0ZE9KVUNQczRTRHBnNllrZUhwMEI5clJQRlJZVGpCSmpQNFk?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBkYkF2V1duU3Z0UlFZS01tM1NNaUt0Z1dfNUtmRmtxRkxacjNBWUJtNHpQOVVYM3hVWmZZamtJbVh0T3p0ZE9KVUNQczRTRHBnNllrZUhwMEI5clJQRlJZVGpCSmpQNFk?oc=5",
+      "publishedAt": "2026-08-07T08:43:43.000Z",
+      "source": "やさしい朝日新聞",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP)",
       "_scoring": {
-        "score": 62,
+        "score": 63,
         "categories": [
-          "規制・政策",
-          "市場・資金"
+          "技術・製品",
+          "政策・インフラ"
         ],
         "breakdown": {
           "required": true,
-          "regulation": {
+          "technology": {
             "matches": 1,
-            "catScore": 32
+            "catScore": 24
           },
-          "market": {
+          "policy": {
             "matches": 1,
-            "catScore": 20
+            "catScore": 24
           },
           "sourceTrust": {
             "domain": "news.google.com",
             "multiplier": 0.8
           },
-          "freshness": 10,
+          "freshness": 0,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "Commercial UAV Expo Regulatory Sessions Cover Procurement, BVLOS, EU Rules, and More",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPaS1GTWlnSGRfaThRMFRYYmhKbkJxbnlTdWpYaXlldW55NzFVOG16Q2RuSzFRbC03eVhXNEU2eHp4Ry1ZMWNnNWVmdUJXZ2FmMWNlb0hsZ1ZSS01JdjNqWVlGZVdXZ2UySnI1SGEzX3FXbkZ5enFDcDdWeWQ0OFNsOWVyaFN4VTZQTTJjNkRpOA?oc=5\" target=\"_blank\">Commercial UAV Expo Regulatory Sessions Cover Procurement, BVLOS, EU Rules, and More</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Commercial UAV News</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPaS1GTWlnSGRfaThRMFRYYmhKbkJxbnlTdWpYaXlldW55NzFVOG16Q2RuSzFRbC03eVhXNEU2eHp4Ry1ZMWNnNWVmdUJXZ2FmMWNlb0hsZ1ZSS01JdjNqWVlGZVdXZ2UySnI1SGEzX3FXbkZ5enFDcDdWeWQ0OFNsOWVyaFN4VTZQTTJjNkRpOA?oc=5\" target=\"_blank\">Commercial UAV Expo Regulatory Sessions Cover Procurement, BVLOS, EU Rules, and More</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Commercial UAV News</font>",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPaS1GTWlnSGRfaThRMFRYYmhKbkJxbnlTdWpYaXlldW55NzFVOG16Q2RuSzFRbC03eVhXNEU2eHp4Ry1ZMWNnNWVmdUJXZ2FmMWNlb0hsZ1ZSS01JdjNqWVlGZVdXZ2UySnI1SGEzX3FXbkZ5enFDcDdWeWQ0OFNsOWVyaFN4VTZQTTJjNkRpOA?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPaS1GTWlnSGRfaThRMFRYYmhKbkJxbnlTdWpYaXlldW55NzFVOG16Q2RuSzFRbC03eVhXNEU2eHp4Ry1ZMWNnNWVmdUJXZ2FmMWNlb0hsZ1ZSS01JdjNqWVlGZVdXZ2UySnI1SGEzX3FXbkZ5enFDcDdWeWQ0OFNsOWVyaFN4VTZQTTJjNkRpOA?oc=5",
+      "publishedAt": "2026-08-10T13:05:40.000Z",
+      "source": "Commercial UAV News",
+      "_feedRegion": "eu",
+      "_feedName": "EASA",
+      "_scoring": {
+        "score": 62,
+        "categories": [
+          "規制・政策"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 2,
+            "catScore": 40
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 20,
           "titleBonus": 10
         },
         "pass": true
@@ -857,12 +926,12 @@
     },
     {
       "title": "小型ドローン向け技術の開発でスウォーマーと提携＝ラントロニクス〔GNW〕(時事通信)",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE5BVGt6ajhYNkxvUEtfbXZ4ZXVGLURnaVVsdGVJX1ZjZVA0bzBCUVlxeUFqdDNab0FfQ2tIQTNWS1JBRjlnNEExc2pmRVZ5UFVtWWMtLWdqYzR4ZkxwU1JXaEhOMW41U2N5dFZjSUtKNmJqOWFVd2M3RXZyV2R0Zw?oc=5\" target=\"_blank\">小型ドローン向け技術の開発でスウォーマーと提携＝ラントロニクス〔GNW〕(時事通信)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ファイナンス</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE5BVGt6ajhYNkxvUEtfbXZ4ZXVGLURnaVVsdGVJX1ZjZVA0bzBCUVlxeUFqdDNab0FfQ2tIQTNWS1JBRjlnNEExc2pmRVZ5UFVtWWMtLWdqYzR4ZkxwU1JXaEhOMW41U2N5dFZjSUtKNmJqOWFVd2M3RXZyV2R0Zw?oc=5\" target=\"_blank\">小型ドローン向け技術の開発でスウォーマーと提携＝ラントロニクス〔GNW〕(時事通信)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ファイナンス</font>",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE5BVGt6ajhYNkxvUEtfbXZ4ZXVGLURnaVVsdGVJX1ZjZVA0bzBCUVlxeUFqdDNab0FfQ2tIQTNWS1JBRjlnNEExc2pmRVZ5UFVtWWMtLWdqYzR4ZkxwU1JXaEhOMW41U2N5dFZjSUtKNmJqOWFVd2M3RXZyV2R0Zw?oc=5\" target=\"_blank\">小型ドローン向け技術の開発でスウォーマーと提携＝ラントロニクス〔GNW〕(時事通信)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.yahoo.co.jp</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE5BVGt6ajhYNkxvUEtfbXZ4ZXVGLURnaVVsdGVJX1ZjZVA0bzBCUVlxeUFqdDNab0FfQ2tIQTNWS1JBRjlnNEExc2pmRVZ5UFVtWWMtLWdqYzR4ZkxwU1JXaEhOMW41U2N5dFZjSUtKNmJqOWFVd2M3RXZyV2R0Zw?oc=5\" target=\"_blank\">小型ドローン向け技術の開発でスウォーマーと提携＝ラントロニクス〔GNW〕(時事通信)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.yahoo.co.jp</font>",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5BVGt6ajhYNkxvUEtfbXZ4ZXVGLURnaVVsdGVJX1ZjZVA0bzBCUVlxeUFqdDNab0FfQ2tIQTNWS1JBRjlnNEExc2pmRVZ5UFVtWWMtLWdqYzR4ZkxwU1JXaEhOMW41U2N5dFZjSUtKNmJqOWFVd2M3RXZyV2R0Zw?oc=5",
       "googleNewsUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5BVGt6ajhYNkxvUEtfbXZ4ZXVGLURnaVVsdGVJX1ZjZVA0bzBCUVlxeUFqdDNab0FfQ2tIQTNWS1JBRjlnNEExc2pmRVZ5UFVtWWMtLWdqYzR4ZkxwU1JXaEhOMW41U2N5dFZjSUtKNmJqOWFVd2M3RXZyV2R0Zw?oc=5",
       "publishedAt": "2026-08-03T04:46:00.000Z",
-      "source": "Yahoo!ファイナンス",
+      "source": "finance.yahoo.co.jp",
       "_feedRegion": "jp",
       "_feedName": "Google News (JP 政策/実証)",
       "_scoring": {
@@ -1036,45 +1105,13 @@
       }
     },
     {
-      "title": "ドイツ軍基地上空で無人機目撃、空港では爆発物搭載ドローン発見（TBS CROSS DIG with Bloomberg）",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5qX2xnMXlQbkdBS1kxajJuOUFvV1lkR2puUXg5QVBzVDU4c0xVMzFIWDJHQVNpRTlkMFIzYUV0dHNPWERDWUh0MzFmSTdFVzV4U1NraFFTZl80X0dLQkFSQnRNNlNScDc3dElzYnZNYVBMNEROWEZHNzlFaDVpZDQ?oc=5\" target=\"_blank\">ドイツ軍基地上空で無人機目撃、空港では爆発物搭載ドローン発見（TBS CROSS DIG with Bloomberg）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5qX2xnMXlQbkdBS1kxajJuOUFvV1lkR2puUXg5QVBzVDU4c0xVMzFIWDJHQVNpRTlkMFIzYUV0dHNPWERDWUh0MzFmSTdFVzV4U1NraFFTZl80X0dLQkFSQnRNNlNScDc3dElzYnZNYVBMNEROWEZHNzlFaDVpZDQ?oc=5\" target=\"_blank\">ドイツ軍基地上空で無人機目撃、空港では爆発物搭載ドローン発見（TBS CROSS DIG with Bloomberg）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5qX2xnMXlQbkdBS1kxajJuOUFvV1lkR2puUXg5QVBzVDU4c0xVMzFIWDJHQVNpRTlkMFIzYUV0dHNPWERDWUh0MzFmSTdFVzV4U1NraFFTZl80X0dLQkFSQnRNNlNScDc3dElzYnZNYVBMNEROWEZHNzlFaDVpZDQ?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5qX2xnMXlQbkdBS1kxajJuOUFvV1lkR2puUXg5QVBzVDU4c0xVMzFIWDJHQVNpRTlkMFIzYUV0dHNPWERDWUh0MzFmSTdFVzV4U1NraFFTZl80X0dLQkFSQnRNNlNScDc3dElzYnZNYVBMNEROWEZHNzlFaDVpZDQ?oc=5",
-      "publishedAt": "2026-08-10T03:03:16.000Z",
-      "source": "Yahoo!ニュース",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP)",
-      "_scoring": {
-        "score": 59,
-        "categories": [
-          "政策・インフラ"
-        ],
-        "breakdown": {
-          "required": true,
-          "policy": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 15,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
       "title": "ペットのヤギが行方不明、ドローンで調べると…やぶの中でヒグマに襲われているのを確認",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5VNXowSmhRbTNPMVVCM1Y2X2RFTHQyMmVuSHdaaXVzLTg4YU10WjlWNzZheHJWVTlYVGRGdHJ5LWcwLUFRX0NTSi1lZXpzcTBaOHVZUFlxUWphMnI5TVpCY01CUXlVUQ?oc=5\" target=\"_blank\">ペットのヤギが行方不明、ドローンで調べると…やぶの中でヒグマに襲われているのを確認</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">yomiuri.co.jp</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5VNXowSmhRbTNPMVVCM1Y2X2RFTHQyMmVuSHdaaXVzLTg4YU10WjlWNzZheHJWVTlYVGRGdHJ5LWcwLUFRX0NTSi1lZXpzcTBaOHVZUFlxUWphMnI5TVpCY01CUXlVUQ?oc=5\" target=\"_blank\">ペットのヤギが行方不明、ドローンで調べると…やぶの中でヒグマに襲われているのを確認</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">yomiuri.co.jp</font>",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5VNXowSmhRbTNPMVVCM1Y2X2RFTHQyMmVuSHdaaXVzLTg4YU10WjlWNzZheHJWVTlYVGRGdHJ5LWcwLUFRX0NTSi1lZXpzcTBaOHVZUFlxUWphMnI5TVpCY01CUXlVUQ?oc=5\" target=\"_blank\">ペットのヤギが行方不明、ドローンで調べると…やぶの中でヒグマに襲われているのを確認</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">読売新聞</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5VNXowSmhRbTNPMVVCM1Y2X2RFTHQyMmVuSHdaaXVzLTg4YU10WjlWNzZheHJWVTlYVGRGdHJ5LWcwLUFRX0NTSi1lZXpzcTBaOHVZUFlxUWphMnI5TVpCY01CUXlVUQ?oc=5\" target=\"_blank\">ペットのヤギが行方不明、ドローンで調べると…やぶの中でヒグマに襲われているのを確認</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">読売新聞</font>",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5VNXowSmhRbTNPMVVCM1Y2X2RFTHQyMmVuSHdaaXVzLTg4YU10WjlWNzZheHJWVTlYVGRGdHJ5LWcwLUFRX0NTSi1lZXpzcTBaOHVZUFlxUWphMnI5TVpCY01CUXlVUQ?oc=5",
       "googleNewsUrl": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5VNXowSmhRbTNPMVVCM1Y2X2RFTHQyMmVuSHdaaXVzLTg4YU10WjlWNzZheHJWVTlYVGRGdHJ5LWcwLUFRX0NTSi1lZXpzcTBaOHVZUFlxUWphMnI5TVpCY01CUXlVUQ?oc=5",
       "publishedAt": "2026-08-10T08:47:00.000Z",
-      "source": "yomiuri.co.jp",
+      "source": "読売新聞",
       "_feedRegion": "jp",
       "_feedName": "Google News (JP)",
       "_scoring": {
@@ -1085,38 +1122,6 @@
         "breakdown": {
           "required": true,
           "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 15,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "水中ドローン点検技術を洋上風力・海洋インフラへ展開。NETIS登録の知見を活かし省力化・安全性向上を支援。ジュンテクノサービス - digital-construction.jp",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE1hdmdZdGtENGlTOG02TWdySlItNnVWZzV1R0ZfSDVPS2EyS1drUXo0M1lwbnEtbGhDUHVxc0REMk4zR0hiVDlSRDJmTkI5dmZDeUpj?oc=5\" target=\"_blank\">水中ドローン点検技術を洋上風力・海洋インフラへ展開。NETIS登録の知見を活かし省力化・安全性向上を支援。ジュンテクノサービス</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">digital-construction.jp</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE1hdmdZdGtENGlTOG02TWdySlItNnVWZzV1R0ZfSDVPS2EyS1drUXo0M1lwbnEtbGhDUHVxc0REMk4zR0hiVDlSRDJmTkI5dmZDeUpj?oc=5\" target=\"_blank\">水中ドローン点検技術を洋上風力・海洋インフラへ展開。NETIS登録の知見を活かし省力化・安全性向上を支援。ジュンテクノサービス</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">digital-construction.jp</font>",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1hdmdZdGtENGlTOG02TWdySlItNnVWZzV1R0ZfSDVPS2EyS1drUXo0M1lwbnEtbGhDUHVxc0REMk4zR0hiVDlSRDJmTkI5dmZDeUpj?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1hdmdZdGtENGlTOG02TWdySlItNnVWZzV1R0ZfSDVPS2EyS1drUXo0M1lwbnEtbGhDUHVxc0REMk4zR0hiVDlSRDJmTkI5dmZDeUpj?oc=5",
-      "publishedAt": "2026-08-10T01:01:11.000Z",
-      "source": "digital-construction.jp",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP 事業者/実装)",
-      "_scoring": {
-        "score": 59,
-        "categories": [
-          "政策・インフラ"
-        ],
-        "breakdown": {
-          "required": true,
-          "policy": {
             "matches": 1,
             "catScore": 24
           },
