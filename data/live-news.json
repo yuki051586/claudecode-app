@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-12T21:51:22.341Z",
-  "rawCount": 644,
+  "generatedAt": "2026-08-12T22:46:52.370Z",
+  "rawCount": 645,
   "articles": [
     {
       "title": "Airwise Solutions Launches Nexus for Public Safety, Counter-UAS and Airspace Operations",
@@ -217,6 +217,43 @@
           "regulation": {
             "matches": 1,
             "catScore": 32
+          },
+          "policy": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 15,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "タンソンニャット空港でのドローン侵入事件後、多くの便が緊急着陸を余儀なくされました。このような事態を防ぐにはどうすればよいでしょうか？",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQdV8xdzV5MWVmTS1aQUFsbkRBODUyRmxyREVuYXJXS1RVN3VfV1R3SXF2M2RiU1ZFc0pITGJqSl9wQzJTaGJQT1JKbUc4ZjNGOWM5bVl5WFA5QmtndWRyLVY0M0RLZF94b3U1RHNqOU4zUDNGYlBSeEYwQkxwMmJOVnVsRUhoUzdlMzZKMkUwelgwMjM2VW9xVmtSTmtPdlh1aURQS3dwd2NKV0RUS0FkQmp6RQ?oc=5\" target=\"_blank\">タンソンニャット空港でのドローン侵入事件後、多くの便が緊急着陸を余儀なくされました。このような事態を防ぐにはどうすればよいでしょうか？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Vietnam.vn</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQdV8xdzV5MWVmTS1aQUFsbkRBODUyRmxyREVuYXJXS1RVN3VfV1R3SXF2M2RiU1ZFc0pITGJqSl9wQzJTaGJQT1JKbUc4ZjNGOWM5bVl5WFA5QmtndWRyLVY0M0RLZF94b3U1RHNqOU4zUDNGYlBSeEYwQkxwMmJOVnVsRUhoUzdlMzZKMkUwelgwMjM2VW9xVmtSTmtPdlh1aURQS3dwd2NKV0RUS0FkQmp6RQ?oc=5\" target=\"_blank\">タンソンニャット空港でのドローン侵入事件後、多くの便が緊急着陸を余儀なくされました。このような事態を防ぐにはどうすればよいでしょうか？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Vietnam.vn</font>",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdV8xdzV5MWVmTS1aQUFsbkRBODUyRmxyREVuYXJXS1RVN3VfV1R3SXF2M2RiU1ZFc0pITGJqSl9wQzJTaGJQT1JKbUc4ZjNGOWM5bVl5WFA5QmtndWRyLVY0M0RLZF94b3U1RHNqOU4zUDNGYlBSeEYwQkxwMmJOVnVsRUhoUzdlMzZKMkUwelgwMjM2VW9xVmtSTmtPdlh1aURQS3dwd2NKV0RUS0FkQmp6RQ?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdV8xdzV5MWVmTS1aQUFsbkRBODUyRmxyREVuYXJXS1RVN3VfV1R3SXF2M2RiU1ZFc0pITGJqSl9wQzJTaGJQT1JKbUc4ZjNGOWM5bVl5WFA5QmtndWRyLVY0M0RLZF94b3U1RHNqOU4zUDNGYlBSeEYwQkxwMmJOVnVsRUhoUzdlMzZKMkUwelgwMjM2VW9xVmtSTmtPdlh1aURQS3dwd2NKV0RUS0FkQmp6RQ?oc=5",
+      "publishedAt": "2026-08-12T12:37:54.000Z",
+      "source": "Vietnam.vn",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP 政策/実証)",
+      "_scoring": {
+        "score": 82,
+        "categories": [
+          "事故・事件",
+          "政策・インフラ"
+        ],
+        "breakdown": {
+          "required": true,
+          "incident": {
+            "matches": 1,
+            "catScore": 28
           },
           "policy": {
             "matches": 1,
@@ -619,12 +656,12 @@
     },
     {
       "title": "バンコク・エアウェイズ、サハグループ、サハ東急とSkyDriveが、タイにおける空飛ぶクルマの事業化に向け、業務提携（MOU）に合意",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiSkFVX3lxTE5LZmlMNTdvYXFhRExZQ1A1S2VoaHFFV1NlS01IRndNeWdOdjVES0RSeV82a3AwRlRkVjdpU2ZZM1N1MGdKY252VkZn?oc=5\" target=\"_blank\">バンコク・エアウェイズ、サハグループ、サハ東急とSkyDriveが、タイにおける空飛ぶクルマの事業化に向け、業務提携（MOU）に合意</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">株式会社SkyDrive</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiSkFVX3lxTE5LZmlMNTdvYXFhRExZQ1A1S2VoaHFFV1NlS01IRndNeWdOdjVES0RSeV82a3AwRlRkVjdpU2ZZM1N1MGdKY252VkZn?oc=5\" target=\"_blank\">バンコク・エアウェイズ、サハグループ、サハ東急とSkyDriveが、タイにおける空飛ぶクルマの事業化に向け、業務提携（MOU）に合意</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">株式会社SkyDrive</font>",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiSkFVX3lxTE5LZmlMNTdvYXFhRExZQ1A1S2VoaHFFV1NlS01IRndNeWdOdjVES0RSeV82a3AwRlRkVjdpU2ZZM1N1MGdKY252VkZn?oc=5\" target=\"_blank\">バンコク・エアウェイズ、サハグループ、サハ東急とSkyDriveが、タイにおける空飛ぶクルマの事業化に向け、業務提携（MOU）に合意</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">skydrive.co.jp</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiSkFVX3lxTE5LZmlMNTdvYXFhRExZQ1A1S2VoaHFFV1NlS01IRndNeWdOdjVES0RSeV82a3AwRlRkVjdpU2ZZM1N1MGdKY252VkZn?oc=5\" target=\"_blank\">バンコク・エアウェイズ、サハグループ、サハ東急とSkyDriveが、タイにおける空飛ぶクルマの事業化に向け、業務提携（MOU）に合意</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">skydrive.co.jp</font>",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5LZmlMNTdvYXFhRExZQ1A1S2VoaHFFV1NlS01IRndNeWdOdjVES0RSeV82a3AwRlRkVjdpU2ZZM1N1MGdKY252VkZn?oc=5",
       "googleNewsUrl": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5LZmlMNTdvYXFhRExZQ1A1S2VoaHFFV1NlS01IRndNeWdOdjVES0RSeV82a3AwRlRkVjdpU2ZZM1N1MGdKY252VkZn?oc=5",
       "publishedAt": "2026-07-23T07:00:00.000Z",
-      "source": "株式会社SkyDrive",
+      "source": "skydrive.co.jp",
       "_feedRegion": "jp",
       "_feedName": "Google News (JP 政策/実証)",
       "_scoring": {
@@ -730,12 +767,12 @@
     },
     {
       "title": "ジェイフロンティア－大幅反発 産業用ドローン開発のエアロネクストと業務提携(トレーダーズ・ウェブ)",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPcUNXVmJqaDF3OXhDVkFOTTM4aVdBYmNSd2l3UnExT2V3cmp1WUpUUURhckNmYmx5QVRmT1h2andRTk9iUkhHYnZibE5jSUNqVG9aYlNTSy1WMTZxT2M1ZUY1UHdFSmVvODNGal9fSFR6V0p5dmNScXFxdUhqRVZpclNIbnhyU2s?oc=5\" target=\"_blank\">ジェイフロンティア－大幅反発 産業用ドローン開発のエアロネクストと業務提携(トレーダーズ・ウェブ)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.yahoo.co.jp</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPcUNXVmJqaDF3OXhDVkFOTTM4aVdBYmNSd2l3UnExT2V3cmp1WUpUUURhckNmYmx5QVRmT1h2andRTk9iUkhHYnZibE5jSUNqVG9aYlNTSy1WMTZxT2M1ZUY1UHdFSmVvODNGal9fSFR6V0p5dmNScXFxdUhqRVZpclNIbnhyU2s?oc=5\" target=\"_blank\">ジェイフロンティア－大幅反発 産業用ドローン開発のエアロネクストと業務提携(トレーダーズ・ウェブ)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.yahoo.co.jp</font>",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPcUNXVmJqaDF3OXhDVkFOTTM4aVdBYmNSd2l3UnExT2V3cmp1WUpUUURhckNmYmx5QVRmT1h2andRTk9iUkhHYnZibE5jSUNqVG9aYlNTSy1WMTZxT2M1ZUY1UHdFSmVvODNGal9fSFR6V0p5dmNScXFxdUhqRVZpclNIbnhyU2s?oc=5\" target=\"_blank\">ジェイフロンティア－大幅反発 産業用ドローン開発のエアロネクストと業務提携(トレーダーズ・ウェブ)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ファイナンス</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPcUNXVmJqaDF3OXhDVkFOTTM4aVdBYmNSd2l3UnExT2V3cmp1WUpUUURhckNmYmx5QVRmT1h2andRTk9iUkhHYnZibE5jSUNqVG9aYlNTSy1WMTZxT2M1ZUY1UHdFSmVvODNGal9fSFR6V0p5dmNScXFxdUhqRVZpclNIbnhyU2s?oc=5\" target=\"_blank\">ジェイフロンティア－大幅反発 産業用ドローン開発のエアロネクストと業務提携(トレーダーズ・ウェブ)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ファイナンス</font>",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcUNXVmJqaDF3OXhDVkFOTTM4aVdBYmNSd2l3UnExT2V3cmp1WUpUUURhckNmYmx5QVRmT1h2andRTk9iUkhHYnZibE5jSUNqVG9aYlNTSy1WMTZxT2M1ZUY1UHdFSmVvODNGal9fSFR6V0p5dmNScXFxdUhqRVZpclNIbnhyU2s?oc=5",
       "googleNewsUrl": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcUNXVmJqaDF3OXhDVkFOTTM4aVdBYmNSd2l3UnExT2V3cmp1WUpUUURhckNmYmx5QVRmT1h2andRTk9iUkhHYnZibE5jSUNqVG9aYlNTSy1WMTZxT2M1ZUY1UHdFSmVvODNGal9fSFR6V0p5dmNScXFxdUhqRVZpclNIbnhyU2s?oc=5",
       "publishedAt": "2026-07-27T07:00:00.000Z",
-      "source": "finance.yahoo.co.jp",
+      "source": "Yahoo!ファイナンス",
       "_feedRegion": "jp",
       "_feedName": "Google News (JP 政策/実証)",
       "_scoring": {
@@ -798,42 +835,6 @@
           "freshness": 0,
           "titleBonus": 10,
           "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "Differences Persist As FAA Sets Safety Levels For Powered-Lift EVTOL",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPLU5fSl9rQktINElRaVFib1BQUFhJNW5nQmlDQ3lWMHVYTV8yUVpkTjRxaERyM29OMkhMMUVkaVppN0xwTGFwcC1QR2NmaGxvLWRtQVRjc2k2b0U0TWhGRVFPS2FnUjVNT1JieDUxVHBHeDJPdWRRWXR5LTduR0s0UURmaDk2Nm50NGd5bXUwS3ZUMmtjZ0xQT3FCNXBMei1iMTFiOVhqRzNsWWVpbnFfeTNldnJOVzJkM2c?oc=5\" target=\"_blank\">Differences Persist As FAA Sets Safety Levels For Powered-Lift EVTOL</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aviation Week</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPLU5fSl9rQktINElRaVFib1BQUFhJNW5nQmlDQ3lWMHVYTV8yUVpkTjRxaERyM29OMkhMMUVkaVppN0xwTGFwcC1QR2NmaGxvLWRtQVRjc2k2b0U0TWhGRVFPS2FnUjVNT1JieDUxVHBHeDJPdWRRWXR5LTduR0s0UURmaDk2Nm50NGd5bXUwS3ZUMmtjZ0xQT3FCNXBMei1iMTFiOVhqRzNsWWVpbnFfeTNldnJOVzJkM2c?oc=5\" target=\"_blank\">Differences Persist As FAA Sets Safety Levels For Powered-Lift EVTOL</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aviation Week</font>",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPLU5fSl9rQktINElRaVFib1BQUFhJNW5nQmlDQ3lWMHVYTV8yUVpkTjRxaERyM29OMkhMMUVkaVppN0xwTGFwcC1QR2NmaGxvLWRtQVRjc2k2b0U0TWhGRVFPS2FnUjVNT1JieDUxVHBHeDJPdWRRWXR5LTduR0s0UURmaDk2Nm50NGd5bXUwS3ZUMmtjZ0xQT3FCNXBMei1iMTFiOVhqRzNsWWVpbnFfeTNldnJOVzJkM2c?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPLU5fSl9rQktINElRaVFib1BQUFhJNW5nQmlDQ3lWMHVYTV8yUVpkTjRxaERyM29OMkhMMUVkaVppN0xwTGFwcC1QR2NmaGxvLWRtQVRjc2k2b0U0TWhGRVFPS2FnUjVNT1JieDUxVHBHeDJPdWRRWXR5LTduR0s0UURmaDk2Nm50NGd5bXUwS3ZUMmtjZ0xQT3FCNXBMei1iMTFiOVhqRzNsWWVpbnFfeTNldnJOVzJkM2c?oc=5",
-      "publishedAt": "2026-08-10T22:37:09.000Z",
-      "source": "Aviation Week",
-      "_feedRegion": "us",
-      "_feedName": "FAA",
-      "_scoring": {
-        "score": 63,
-        "categories": [
-          "規制・政策",
-          "事故・事件"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 1,
-            "catScore": 32
-          },
-          "incident": {
-            "matches": 1,
-            "catScore": 28
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 5,
-          "titleBonus": 10
         },
         "pass": true
       }
@@ -944,6 +945,42 @@
       }
     },
     {
+      "title": "Differences Persist As FAA Sets Safety Levels For Powered-Lift EVTOL",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPLU5fSl9rQktINElRaVFib1BQUFhJNW5nQmlDQ3lWMHVYTV8yUVpkTjRxaERyM29OMkhMMUVkaVppN0xwTGFwcC1QR2NmaGxvLWRtQVRjc2k2b0U0TWhGRVFPS2FnUjVNT1JieDUxVHBHeDJPdWRRWXR5LTduR0s0UURmaDk2Nm50NGd5bXUwS3ZUMmtjZ0xQT3FCNXBMei1iMTFiOVhqRzNsWWVpbnFfeTNldnJOVzJkM2c?oc=5\" target=\"_blank\">Differences Persist As FAA Sets Safety Levels For Powered-Lift EVTOL</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aviation Week</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPLU5fSl9rQktINElRaVFib1BQUFhJNW5nQmlDQ3lWMHVYTV8yUVpkTjRxaERyM29OMkhMMUVkaVppN0xwTGFwcC1QR2NmaGxvLWRtQVRjc2k2b0U0TWhGRVFPS2FnUjVNT1JieDUxVHBHeDJPdWRRWXR5LTduR0s0UURmaDk2Nm50NGd5bXUwS3ZUMmtjZ0xQT3FCNXBMei1iMTFiOVhqRzNsWWVpbnFfeTNldnJOVzJkM2c?oc=5\" target=\"_blank\">Differences Persist As FAA Sets Safety Levels For Powered-Lift EVTOL</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aviation Week</font>",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPLU5fSl9rQktINElRaVFib1BQUFhJNW5nQmlDQ3lWMHVYTV8yUVpkTjRxaERyM29OMkhMMUVkaVppN0xwTGFwcC1QR2NmaGxvLWRtQVRjc2k2b0U0TWhGRVFPS2FnUjVNT1JieDUxVHBHeDJPdWRRWXR5LTduR0s0UURmaDk2Nm50NGd5bXUwS3ZUMmtjZ0xQT3FCNXBMei1iMTFiOVhqRzNsWWVpbnFfeTNldnJOVzJkM2c?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPLU5fSl9rQktINElRaVFib1BQUFhJNW5nQmlDQ3lWMHVYTV8yUVpkTjRxaERyM29OMkhMMUVkaVppN0xwTGFwcC1QR2NmaGxvLWRtQVRjc2k2b0U0TWhGRVFPS2FnUjVNT1JieDUxVHBHeDJPdWRRWXR5LTduR0s0UURmaDk2Nm50NGd5bXUwS3ZUMmtjZ0xQT3FCNXBMei1iMTFiOVhqRzNsWWVpbnFfeTNldnJOVzJkM2c?oc=5",
+      "publishedAt": "2026-08-10T22:37:09.000Z",
+      "source": "Aviation Week",
+      "_feedRegion": "us",
+      "_feedName": "FAA",
+      "_scoring": {
+        "score": 60,
+        "categories": [
+          "規制・政策",
+          "事故・事件"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
+          "incident": {
+            "matches": 1,
+            "catScore": 28
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 2,
+          "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
       "title": "FlybyOps launches enterprise platform built for scaling BVLOS and autonomous drone operations",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNQ0hvSWlpRjlPbHVBb0RPRU1xRFhyLVZIWFhWMTN6aGEtd3g1M3JjdnFDTnpNRXBUQWswcGRvWDY5MGFhcmRtQ051X2dkUkR0aHNxb1YzZUZ2NkQyRm41ZnJ2dzZRQjFIZDdoeXNod3ZmaVllMFBvaUVNZEJINkU1Um8wb0d0Vl9tbEg3dHIwQ0VwalBJNG9IS2lPTjNYTTZTczZDTXN6cWF1U0pTRjYtV0FKUC0yR24tVU1valVRY2Q4MV80ckE?oc=5\" target=\"_blank\">FlybyOps launches enterprise platform built for scaling BVLOS and autonomous drone operations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">sUAS News</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNQ0hvSWlpRjlPbHVBb0RPRU1xRFhyLVZIWFhWMTN6aGEtd3g1M3JjdnFDTnpNRXBUQWswcGRvWDY5MGFhcmRtQ051X2dkUkR0aHNxb1YzZUZ2NkQyRm41ZnJ2dzZRQjFIZDdoeXNod3ZmaVllMFBvaUVNZEJINkU1Um8wb0d0Vl9tbEg3dHIwQ0VwalBJNG9IS2lPTjNYTTZTczZDTXN6cWF1U0pTRjYtV0FKUC0yR24tVU1valVRY2Q4MV80ckE?oc=5\" target=\"_blank\">FlybyOps launches enterprise platform built for scaling BVLOS and autonomous drone operations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">sUAS News</font>",
@@ -985,7 +1022,7 @@
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFA0T1AwbGdzcWk4blJmMXg3NDFtWFpfYW54UGJXWFJoVEdTVGwzOWh4c09VNExEa3piWVdMVkFTUVJlaWp4ZzB4Q042LUw1Z3VjdFl3b3BwNlFKVVRyTS1iX2xlS1JCTW8xMmc?oc=5\" target=\"_blank\">防衛装備庁「迎撃ドローン早期取得プログラム」にテラドローンが採択、国産機で量産調達を目指す</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ドローンジャーナル</font>",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA0T1AwbGdzcWk4blJmMXg3NDFtWFpfYW54UGJXWFJoVEdTVGwzOWh4c09VNExEa3piWVdMVkFTUVJlaWp4ZzB4Q042LUw1Z3VjdFl3b3BwNlFKVVRyTS1iX2xlS1JCTW8xMmc?oc=5",
       "googleNewsUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA0T1AwbGdzcWk4blJmMXg3NDFtWFpfYW54UGJXWFJoVEdTVGwzOWh4c09VNExEa3piWVdMVkFTUVJlaWp4ZzB4Q042LUw1Z3VjdFl3b3BwNlFKVVRyTS1iX2xlS1JCTW8xMmc?oc=5",
-      "publishedAt": "2026-08-04T01:59:01.000Z",
+      "publishedAt": "2026-08-04T07:00:00.000Z",
       "source": "ドローンジャーナル",
       "_feedRegion": "jp",
       "_feedName": "Google News (JP)",
@@ -1055,49 +1092,12 @@
     },
     {
       "title": "小型ドローン向け技術の開発でスウォーマーと提携＝ラントロニクス〔GNW〕(時事通信)",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE5BVGt6ajhYNkxvUEtfbXZ4ZXVGLURnaVVsdGVJX1ZjZVA0bzBCUVlxeUFqdDNab0FfQ2tIQTNWS1JBRjlnNEExc2pmRVZ5UFVtWWMtLWdqYzR4ZkxwU1JXaEhOMW41U2N5dFZjSUtKNmJqOWFVd2M3RXZyV2R0Zw?oc=5\" target=\"_blank\">小型ドローン向け技術の開発でスウォーマーと提携＝ラントロニクス〔GNW〕(時事通信)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.yahoo.co.jp</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE5BVGt6ajhYNkxvUEtfbXZ4ZXVGLURnaVVsdGVJX1ZjZVA0bzBCUVlxeUFqdDNab0FfQ2tIQTNWS1JBRjlnNEExc2pmRVZ5UFVtWWMtLWdqYzR4ZkxwU1JXaEhOMW41U2N5dFZjSUtKNmJqOWFVd2M3RXZyV2R0Zw?oc=5\" target=\"_blank\">小型ドローン向け技術の開発でスウォーマーと提携＝ラントロニクス〔GNW〕(時事通信)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.yahoo.co.jp</font>",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE5BVGt6ajhYNkxvUEtfbXZ4ZXVGLURnaVVsdGVJX1ZjZVA0bzBCUVlxeUFqdDNab0FfQ2tIQTNWS1JBRjlnNEExc2pmRVZ5UFVtWWMtLWdqYzR4ZkxwU1JXaEhOMW41U2N5dFZjSUtKNmJqOWFVd2M3RXZyV2R0Zw?oc=5\" target=\"_blank\">小型ドローン向け技術の開発でスウォーマーと提携＝ラントロニクス〔GNW〕(時事通信)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ファイナンス</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE5BVGt6ajhYNkxvUEtfbXZ4ZXVGLURnaVVsdGVJX1ZjZVA0bzBCUVlxeUFqdDNab0FfQ2tIQTNWS1JBRjlnNEExc2pmRVZ5UFVtWWMtLWdqYzR4ZkxwU1JXaEhOMW41U2N5dFZjSUtKNmJqOWFVd2M3RXZyV2R0Zw?oc=5\" target=\"_blank\">小型ドローン向け技術の開発でスウォーマーと提携＝ラントロニクス〔GNW〕(時事通信)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ファイナンス</font>",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5BVGt6ajhYNkxvUEtfbXZ4ZXVGLURnaVVsdGVJX1ZjZVA0bzBCUVlxeUFqdDNab0FfQ2tIQTNWS1JBRjlnNEExc2pmRVZ5UFVtWWMtLWdqYzR4ZkxwU1JXaEhOMW41U2N5dFZjSUtKNmJqOWFVd2M3RXZyV2R0Zw?oc=5",
       "googleNewsUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5BVGt6ajhYNkxvUEtfbXZ4ZXVGLURnaVVsdGVJX1ZjZVA0bzBCUVlxeUFqdDNab0FfQ2tIQTNWS1JBRjlnNEExc2pmRVZ5UFVtWWMtLWdqYzR4ZkxwU1JXaEhOMW41U2N5dFZjSUtKNmJqOWFVd2M3RXZyV2R0Zw?oc=5",
       "publishedAt": "2026-08-03T04:46:00.000Z",
-      "source": "finance.yahoo.co.jp",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP 政策/実証)",
-      "_scoring": {
-        "score": 60,
-        "categories": [
-          "技術・製品",
-          "市場・資金"
-        ],
-        "breakdown": {
-          "required": true,
-          "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "market": {
-            "matches": 1,
-            "catScore": 20
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 0,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "小型ドローン向け技術の開発でスウォーマーと提携＝ラントロニクス〔ＧＮＷ〕",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE1Wb3Vsc2ttZHJST05yVEFZWEhyU0R1OUFQeVlJLVBBak1raVBRZ0ZPcy1RMlZjZjU0TUIxZUlMdzlsT0VWeVFXUUxVbjJzbXV6aGFSbm1UVlk4SE9uaktxUU1LaDctRDByUDNiZDZiTFZEVnJZVEdpZ0d0NNIBgAFBVV95cUxPbXp6a2VrV1NHU21aYS15LUJmcF9YNmRBNXdqY1RKWkRoRTBMZkQ5bWRNT0tYVmF3aE9xVnY4V1R0R2tPNkJ0eTRjMXN2SHB5Y2IzQXdzcjJOUUVIdkdCSW40RnNrWkE4dm4zd0ZTYkEwYU82QnNiUGZVSnh4WWJ3eg?oc=5\" target=\"_blank\">小型ドローン向け技術の開発でスウォーマーと提携＝ラントロニクス〔ＧＮＷ〕</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ｄメニューニュース</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE1Wb3Vsc2ttZHJST05yVEFZWEhyU0R1OUFQeVlJLVBBak1raVBRZ0ZPcy1RMlZjZjU0TUIxZUlMdzlsT0VWeVFXUUxVbjJzbXV6aGFSbm1UVlk4SE9uaktxUU1LaDctRDByUDNiZDZiTFZEVnJZVEdpZ0d0NNIBgAFBVV95cUxPbXp6a2VrV1NHU21aYS15LUJmcF9YNmRBNXdqY1RKWkRoRTBMZkQ5bWRNT0tYVmF3aE9xVnY4V1R0R2tPNkJ0eTRjMXN2SHB5Y2IzQXdzcjJOUUVIdkdCSW40RnNrWkE4dm4zd0ZTYkEwYU82QnNiUGZVSnh4WWJ3eg?oc=5\" target=\"_blank\">小型ドローン向け技術の開発でスウォーマーと提携＝ラントロニクス〔ＧＮＷ〕</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ｄメニューニュース</font>",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1Wb3Vsc2ttZHJST05yVEFZWEhyU0R1OUFQeVlJLVBBak1raVBRZ0ZPcy1RMlZjZjU0TUIxZUlMdzlsT0VWeVFXUUxVbjJzbXV6aGFSbm1UVlk4SE9uaktxUU1LaDctRDByUDNiZDZiTFZEVnJZVEdpZ0d0NNIBgAFBVV95cUxPbXp6a2VrV1NHU21aYS15LUJmcF9YNmRBNXdqY1RKWkRoRTBMZkQ5bWRNT0tYVmF3aE9xVnY4V1R0R2tPNkJ0eTRjMXN2SHB5Y2IzQXdzcjJOUUVIdkdCSW40RnNrWkE4dm4zd0ZTYkEwYU82QnNiUGZVSnh4WWJ3eg?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1Wb3Vsc2ttZHJST05yVEFZWEhyU0R1OUFQeVlJLVBBak1raVBRZ0ZPcy1RMlZjZjU0TUIxZUlMdzlsT0VWeVFXUUxVbjJzbXV6aGFSbm1UVlk4SE9uaktxUU1LaDctRDByUDNiZDZiTFZEVnJZVEdpZ0d0NNIBgAFBVV95cUxPbXp6a2VrV1NHU21aYS15LUJmcF9YNmRBNXdqY1RKWkRoRTBMZkQ5bWRNT0tYVmF3aE9xVnY4V1R0R2tPNkJ0eTRjMXN2SHB5Y2IzQXdzcjJOUUVIdkdCSW40RnNrWkE4dm4zd0ZTYkEwYU82QnNiUGZVSnh4WWJ3eg?oc=5",
-      "publishedAt": "2026-08-03T02:46:00.000Z",
-      "source": "ｄメニューニュース",
+      "source": "Yahoo!ファイナンス",
       "_feedRegion": "jp",
       "_feedName": "Google News (JP 政策/実証)",
       "_scoring": {
