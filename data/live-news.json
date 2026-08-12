@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-12T20:51:06.341Z",
-  "rawCount": 544,
+  "generatedAt": "2026-08-12T21:51:22.341Z",
+  "rawCount": 644,
   "articles": [
     {
       "title": "Airwise Solutions Launches Nexus for Public Safety, Counter-UAS and Airspace Operations",
@@ -234,6 +234,47 @@
       }
     },
     {
+      "title": "DoorDash Earns FAA Part 135 Certification, Launches In-House Drone Delivery Program",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFAzUnEySzFxUl9vX0FJdUF6VzdmWnhNVjEyVVFjS3BLOWk5ZXpjeUZWWTlMUmdnSDZ1bXNVcjh1ZFNsS19vMWNQbDNkTVZ2TmhKaVV1T0l1WUpFWTMtOEZpeTY2ZklDN0ZpQ3FOT21LdUJ5ZWxMa3pKYTJDVkxLc2M?oc=5\" target=\"_blank\">DoorDash Earns FAA Part 135 Certification, Launches In-House Drone Delivery Program</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Commercial UAV News</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFAzUnEySzFxUl9vX0FJdUF6VzdmWnhNVjEyVVFjS3BLOWk5ZXpjeUZWWTlMUmdnSDZ1bXNVcjh1ZFNsS19vMWNQbDNkTVZ2TmhKaVV1T0l1WUpFWTMtOEZpeTY2ZklDN0ZpQ3FOT21LdUJ5ZWxMa3pKYTJDVkxLc2M?oc=5\" target=\"_blank\">DoorDash Earns FAA Part 135 Certification, Launches In-House Drone Delivery Program</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Commercial UAV News</font>",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAzUnEySzFxUl9vX0FJdUF6VzdmWnhNVjEyVVFjS3BLOWk5ZXpjeUZWWTlMUmdnSDZ1bXNVcjh1ZFNsS19vMWNQbDNkTVZ2TmhKaVV1T0l1WUpFWTMtOEZpeTY2ZklDN0ZpQ3FOT21LdUJ5ZWxMa3pKYTJDVkxLc2M?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAzUnEySzFxUl9vX0FJdUF6VzdmWnhNVjEyVVFjS3BLOWk5ZXpjeUZWWTlMUmdnSDZ1bXNVcjh1ZFNsS19vMWNQbDNkTVZ2TmhKaVV1T0l1WUpFWTMtOEZpeTY2ZklDN0ZpQ3FOT21LdUJ5ZWxMa3pKYTJDVkxLc2M?oc=5",
+      "publishedAt": "2026-08-03T07:00:00.000Z",
+      "source": "Commercial UAV News",
+      "_feedRegion": "us",
+      "_feedName": "FAA",
+      "_scoring": {
+        "score": 80,
+        "categories": [
+          "規制・政策",
+          "技術・製品",
+          "政策・インフラ"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 3,
+            "catScore": 40
+          },
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "policy": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 0,
+          "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
       "title": "DoorDash Launches Drone Delivery Program After FAA Certification - Aero-News.net",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNdkl1R19YSUkzcTNaZmd6ZG43ODN4WWJTQkxuUE16VEFydDQ3NkdtSzUwZkJ3SnY0LUVFOVBLVTM2RnVrUzd6Mmh1em1GVHIyTE1FT25kQU81c1VSOWU5dHJhQzRpTDhNSGNSTHZMZ2E5Ym8yVVNha0dBREI3NEtnTzZPM2k1b0MwNUtUbFMtMGluc2dWMkd6Q0V1Z0Q5S0NyOGc?oc=5\" target=\"_blank\">DoorDash Launches Drone Delivery Program After FAA Certification</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aero-News.net</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNdkl1R19YSUkzcTNaZmd6ZG43ODN4WWJTQkxuUE16VEFydDQ3NkdtSzUwZkJ3SnY0LUVFOVBLVTM2RnVrUzd6Mmh1em1GVHIyTE1FT25kQU81c1VSOWU5dHJhQzRpTDhNSGNSTHZMZ2E5Ym8yVVNha0dBREI3NEtnTzZPM2k1b0MwNUtUbFMtMGluc2dWMkd6Q0V1Z0Q5S0NyOGc?oc=5\" target=\"_blank\">DoorDash Launches Drone Delivery Program After FAA Certification</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aero-News.net</font>",
@@ -300,47 +341,6 @@
           "technology": {
             "matches": 1,
             "catScore": 24
-          },
-          "policy": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 0,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "DoorDash Launches Drone Delivery Division With FAA Approval",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNVVJXYkVRb2daa3VtOXZnU0FFQ09xYW4wdngtNEt4d05ZUW40YXE3VXdtZTN1eTNXMjhPVm9YRGhJZ292T0hCOWpSNUh0NHVIYUNZMHV4d25HanZEaGd2UGRzNFpraWJIZmFoU3piaG1pSGZ5TXk0WmEydUhIb2UwVy0wQ0tIWlE3R0hucjFrUmtZMFRnUF9zSg?oc=5\" target=\"_blank\">DoorDash Launches Drone Delivery Division With FAA Approval</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">explosion.com</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNVVJXYkVRb2daa3VtOXZnU0FFQ09xYW4wdngtNEt4d05ZUW40YXE3VXdtZTN1eTNXMjhPVm9YRGhJZ292T0hCOWpSNUh0NHVIYUNZMHV4d25HanZEaGd2UGRzNFpraWJIZmFoU3piaG1pSGZ5TXk0WmEydUhIb2UwVy0wQ0tIWlE3R0hucjFrUmtZMFRnUF9zSg?oc=5\" target=\"_blank\">DoorDash Launches Drone Delivery Division With FAA Approval</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">explosion.com</font>",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVVJXYkVRb2daa3VtOXZnU0FFQ09xYW4wdngtNEt4d05ZUW40YXE3VXdtZTN1eTNXMjhPVm9YRGhJZ292T0hCOWpSNUh0NHVIYUNZMHV4d25HanZEaGd2UGRzNFpraWJIZmFoU3piaG1pSGZ5TXk0WmEydUhIb2UwVy0wQ0tIWlE3R0hucjFrUmtZMFRnUF9zSg?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVVJXYkVRb2daa3VtOXZnU0FFQ09xYW4wdngtNEt4d05ZUW40YXE3VXdtZTN1eTNXMjhPVm9YRGhJZ292T0hCOWpSNUh0NHVIYUNZMHV4d25HanZEaGd2UGRzNFpraWJIZmFoU3piaG1pSGZ5TXk0WmEydUhIb2UwVy0wQ0tIWlE3R0hucjFrUmtZMFRnUF9zSg?oc=5",
-      "publishedAt": "2026-08-09T12:25:42.000Z",
-      "source": "explosion.com",
-      "_feedRegion": "us",
-      "_feedName": "FAA",
-      "_scoring": {
-        "score": 79,
-        "categories": [
-          "規制・政策",
-          "技術・製品",
-          "政策・インフラ"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 1,
-            "catScore": 32
-          },
-          "technology": {
-            "matches": 2,
-            "catScore": 30
           },
           "policy": {
             "matches": 1,
@@ -517,6 +517,38 @@
       }
     },
     {
+      "title": "ドローン規制に新ルール、国交省 工業専用地域は許可不要に",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOOXlYZVFuYnhXdUJIMHpRR2VBU2NEaW8ya04tUEktYmRDNmhaX2Jzbk5tMzRlXy1CVUtIQ21SMWlTd2xWelpZMVhfWDNSaGpUd1pyUGNsS3N6c3dVVm1SQ3NTWF9qRzBXRlNVbzJCY0hwN1FyZXJKbFFUSWV1MEhHYmw1TmJnSVdvV2pv?oc=5\" target=\"_blank\">ドローン規制に新ルール、国交省 工業専用地域は許可不要に</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">山陽新聞</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOOXlYZVFuYnhXdUJIMHpRR2VBU2NEaW8ya04tUEktYmRDNmhaX2Jzbk5tMzRlXy1CVUtIQ21SMWlTd2xWelpZMVhfWDNSaGpUd1pyUGNsS3N6c3dVVm1SQ3NTWF9qRzBXRlNVbzJCY0hwN1FyZXJKbFFUSWV1MEhHYmw1TmJnSVdvV2pv?oc=5\" target=\"_blank\">ドローン規制に新ルール、国交省 工業専用地域は許可不要に</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">山陽新聞</font>",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOOXlYZVFuYnhXdUJIMHpRR2VBU2NEaW8ya04tUEktYmRDNmhaX2Jzbk5tMzRlXy1CVUtIQ21SMWlTd2xWelpZMVhfWDNSaGpUd1pyUGNsS3N6c3dVVm1SQ3NTWF9qRzBXRlNVbzJCY0hwN1FyZXJKbFFUSWV1MEhHYmw1TmJnSVdvV2pv?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOOXlYZVFuYnhXdUJIMHpRR2VBU2NEaW8ya04tUEktYmRDNmhaX2Jzbk5tMzRlXy1CVUtIQ21SMWlTd2xWelpZMVhfWDNSaGpUd1pyUGNsS3N6c3dVVm1SQ3NTWF9qRzBXRlNVbzJCY0hwN1FyZXJKbFFUSWV1MEhHYmw1TmJnSVdvV2pv?oc=5",
+      "publishedAt": "2026-08-12T00:59:07.000Z",
+      "source": "山陽新聞",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP 政策/実証)",
+      "_scoring": {
+        "score": 67,
+        "categories": [
+          "規制・政策"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 2,
+            "catScore": 40
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 10,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
       "title": "点検・測量・防災現場で活用できるDJI産業用ドローンを紹介。型式認証対応「DJI Matrice 4Dシリーズ」導入セミナーを8月21日（金）に福井で開催",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9rWGF3OHBSMHpBak9yV2dHb244b1ZZMllBX25QUnFYRnlKeG81Vzlpb3NIT1hYTElEYlZubko3OGRISDE4bF9STmVZaXNwRU1IM3RGSFNjaExzdFU4T09obV9waXkzMkZrOWc?oc=5\" target=\"_blank\">点検・測量・防災現場で活用できるDJI産業用ドローンを紹介。型式認証対応「DJI Matrice 4Dシリーズ」導入セミナーを8月21日（金）に福井で開催</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR TIMES</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9rWGF3OHBSMHpBak9yV2dHb244b1ZZMllBX25QUnFYRnlKeG81Vzlpb3NIT1hYTElEYlZubko3OGRISDE4bF9STmVZaXNwRU1IM3RGSFNjaExzdFU4T09obV9waXkzMkZrOWc?oc=5\" target=\"_blank\">点検・測量・防災現場で活用できるDJI産業用ドローンを紹介。型式認証対応「DJI Matrice 4Dシリーズ」導入セミナーを8月21日（金）に福井で開催</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR TIMES</font>",
@@ -547,6 +579,38 @@
             "multiplier": 0.8
           },
           "freshness": 0,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "米ボーイング、「空飛ぶクルマ」や無人航空機開発の関連事業をベンチャーに売却 - LOGI-BIZ online",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTFBObHk5b05oenBFNVhVOGhPekxPdjlIWmxvOEgtbk9maXN4Nk83ODR3bG5VVnZkbDBRNzd2WjNKSnVhMmFzTC1EVmlVdw?oc=5\" target=\"_blank\">米ボーイング、「空飛ぶクルマ」や無人航空機開発の関連事業をベンチャーに売却</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LOGI-BIZ online</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTFBObHk5b05oenBFNVhVOGhPekxPdjlIWmxvOEgtbk9maXN4Nk83ODR3bG5VVnZkbDBRNzd2WjNKSnVhMmFzTC1EVmlVdw?oc=5\" target=\"_blank\">米ボーイング、「空飛ぶクルマ」や無人航空機開発の関連事業をベンチャーに売却</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LOGI-BIZ online</font>",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBObHk5b05oenBFNVhVOGhPekxPdjlIWmxvOEgtbk9maXN4Nk83ODR3bG5VVnZkbDBRNzd2WjNKSnVhMmFzTC1EVmlVdw?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBObHk5b05oenBFNVhVOGhPekxPdjlIWmxvOEgtbk9maXN4Nk83ODR3bG5VVnZkbDBRNzd2WjNKSnVhMmFzTC1EVmlVdw?oc=5",
+      "publishedAt": "2026-08-12T21:00:45.000Z",
+      "source": "LOGI-BIZ online",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP)",
+      "_scoring": {
+        "score": 64,
+        "categories": [
+          "技術・製品"
+        ],
+        "breakdown": {
+          "required": true,
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 20,
           "titleBonus": 10,
           "jpRegionBonus": 15
         },
@@ -666,12 +730,12 @@
     },
     {
       "title": "ジェイフロンティア－大幅反発 産業用ドローン開発のエアロネクストと業務提携(トレーダーズ・ウェブ)",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPcUNXVmJqaDF3OXhDVkFOTTM4aVdBYmNSd2l3UnExT2V3cmp1WUpUUURhckNmYmx5QVRmT1h2andRTk9iUkhHYnZibE5jSUNqVG9aYlNTSy1WMTZxT2M1ZUY1UHdFSmVvODNGal9fSFR6V0p5dmNScXFxdUhqRVZpclNIbnhyU2s?oc=5\" target=\"_blank\">ジェイフロンティア－大幅反発 産業用ドローン開発のエアロネクストと業務提携(トレーダーズ・ウェブ)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ファイナンス</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPcUNXVmJqaDF3OXhDVkFOTTM4aVdBYmNSd2l3UnExT2V3cmp1WUpUUURhckNmYmx5QVRmT1h2andRTk9iUkhHYnZibE5jSUNqVG9aYlNTSy1WMTZxT2M1ZUY1UHdFSmVvODNGal9fSFR6V0p5dmNScXFxdUhqRVZpclNIbnhyU2s?oc=5\" target=\"_blank\">ジェイフロンティア－大幅反発 産業用ドローン開発のエアロネクストと業務提携(トレーダーズ・ウェブ)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ファイナンス</font>",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPcUNXVmJqaDF3OXhDVkFOTTM4aVdBYmNSd2l3UnExT2V3cmp1WUpUUURhckNmYmx5QVRmT1h2andRTk9iUkhHYnZibE5jSUNqVG9aYlNTSy1WMTZxT2M1ZUY1UHdFSmVvODNGal9fSFR6V0p5dmNScXFxdUhqRVZpclNIbnhyU2s?oc=5\" target=\"_blank\">ジェイフロンティア－大幅反発 産業用ドローン開発のエアロネクストと業務提携(トレーダーズ・ウェブ)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.yahoo.co.jp</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPcUNXVmJqaDF3OXhDVkFOTTM4aVdBYmNSd2l3UnExT2V3cmp1WUpUUURhckNmYmx5QVRmT1h2andRTk9iUkhHYnZibE5jSUNqVG9aYlNTSy1WMTZxT2M1ZUY1UHdFSmVvODNGal9fSFR6V0p5dmNScXFxdUhqRVZpclNIbnhyU2s?oc=5\" target=\"_blank\">ジェイフロンティア－大幅反発 産業用ドローン開発のエアロネクストと業務提携(トレーダーズ・ウェブ)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.yahoo.co.jp</font>",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcUNXVmJqaDF3OXhDVkFOTTM4aVdBYmNSd2l3UnExT2V3cmp1WUpUUURhckNmYmx5QVRmT1h2andRTk9iUkhHYnZibE5jSUNqVG9aYlNTSy1WMTZxT2M1ZUY1UHdFSmVvODNGal9fSFR6V0p5dmNScXFxdUhqRVZpclNIbnhyU2s?oc=5",
       "googleNewsUrl": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcUNXVmJqaDF3OXhDVkFOTTM4aVdBYmNSd2l3UnExT2V3cmp1WUpUUURhckNmYmx5QVRmT1h2andRTk9iUkhHYnZibE5jSUNqVG9aYlNTSy1WMTZxT2M1ZUY1UHdFSmVvODNGal9fSFR6V0p5dmNScXFxdUhqRVZpclNIbnhyU2s?oc=5",
       "publishedAt": "2026-07-27T07:00:00.000Z",
-      "source": "Yahoo!ファイナンス",
+      "source": "finance.yahoo.co.jp",
       "_feedRegion": "jp",
       "_feedName": "Google News (JP 政策/実証)",
       "_scoring": {
@@ -991,12 +1055,12 @@
     },
     {
       "title": "小型ドローン向け技術の開発でスウォーマーと提携＝ラントロニクス〔GNW〕(時事通信)",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE5BVGt6ajhYNkxvUEtfbXZ4ZXVGLURnaVVsdGVJX1ZjZVA0bzBCUVlxeUFqdDNab0FfQ2tIQTNWS1JBRjlnNEExc2pmRVZ5UFVtWWMtLWdqYzR4ZkxwU1JXaEhOMW41U2N5dFZjSUtKNmJqOWFVd2M3RXZyV2R0Zw?oc=5\" target=\"_blank\">小型ドローン向け技術の開発でスウォーマーと提携＝ラントロニクス〔GNW〕(時事通信)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ファイナンス</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE5BVGt6ajhYNkxvUEtfbXZ4ZXVGLURnaVVsdGVJX1ZjZVA0bzBCUVlxeUFqdDNab0FfQ2tIQTNWS1JBRjlnNEExc2pmRVZ5UFVtWWMtLWdqYzR4ZkxwU1JXaEhOMW41U2N5dFZjSUtKNmJqOWFVd2M3RXZyV2R0Zw?oc=5\" target=\"_blank\">小型ドローン向け技術の開発でスウォーマーと提携＝ラントロニクス〔GNW〕(時事通信)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ファイナンス</font>",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE5BVGt6ajhYNkxvUEtfbXZ4ZXVGLURnaVVsdGVJX1ZjZVA0bzBCUVlxeUFqdDNab0FfQ2tIQTNWS1JBRjlnNEExc2pmRVZ5UFVtWWMtLWdqYzR4ZkxwU1JXaEhOMW41U2N5dFZjSUtKNmJqOWFVd2M3RXZyV2R0Zw?oc=5\" target=\"_blank\">小型ドローン向け技術の開発でスウォーマーと提携＝ラントロニクス〔GNW〕(時事通信)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.yahoo.co.jp</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE5BVGt6ajhYNkxvUEtfbXZ4ZXVGLURnaVVsdGVJX1ZjZVA0bzBCUVlxeUFqdDNab0FfQ2tIQTNWS1JBRjlnNEExc2pmRVZ5UFVtWWMtLWdqYzR4ZkxwU1JXaEhOMW41U2N5dFZjSUtKNmJqOWFVd2M3RXZyV2R0Zw?oc=5\" target=\"_blank\">小型ドローン向け技術の開発でスウォーマーと提携＝ラントロニクス〔GNW〕(時事通信)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.yahoo.co.jp</font>",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5BVGt6ajhYNkxvUEtfbXZ4ZXVGLURnaVVsdGVJX1ZjZVA0bzBCUVlxeUFqdDNab0FfQ2tIQTNWS1JBRjlnNEExc2pmRVZ5UFVtWWMtLWdqYzR4ZkxwU1JXaEhOMW41U2N5dFZjSUtKNmJqOWFVd2M3RXZyV2R0Zw?oc=5",
       "googleNewsUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5BVGt6ajhYNkxvUEtfbXZ4ZXVGLURnaVVsdGVJX1ZjZVA0bzBCUVlxeUFqdDNab0FfQ2tIQTNWS1JBRjlnNEExc2pmRVZ5UFVtWWMtLWdqYzR4ZkxwU1JXaEhOMW41U2N5dFZjSUtKNmJqOWFVd2M3RXZyV2R0Zw?oc=5",
       "publishedAt": "2026-08-03T04:46:00.000Z",
-      "source": "Yahoo!ファイナンス",
+      "source": "finance.yahoo.co.jp",
       "_feedRegion": "jp",
       "_feedName": "Google News (JP 政策/実証)",
       "_scoring": {
@@ -1057,74 +1121,6 @@
             "multiplier": 0.8
           },
           "freshness": 0,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "Prohibiting the Importation and Marketing of Certain Covered UAS and UAS Critical Components and Equipment Listed in Section 1709 of FY2025 NDAA",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMikwJBVV95cUxNdERNckptXzA5emVjYmctZENIcFQwdTFjeFFaSjNRM3lmeVZpSnZsVTlUcVJaeGJPNGxmMGQzeTZ0SS1haUdKcXc1eG9SZWdidmpSZFVpWnZfc3hrNFhKUExlOVp1OWdyUWJULUtmRGVtU1k2T1p2ZUhYVkNoakhwc1ItYk0yby1nZEtENmpydlZuZnlndDhsWnZrV29OZEhXdnhzVVU4VmxtcjdlN3hYYXJYQjRjVHV0LWNLT2x0b2R5c1hUOGdXUGJ3YTlzUUlPNlp4WnN5Q0NSM1hsZDlEcmlWdi0yTVZhT1JCT19mY051VEQ2bmNHX1BmQnlWNWpFWlV4bzVKRUJtZjJTZ3NzZ3MzSQ?oc=5\" target=\"_blank\">Prohibiting the Importation and Marketing of Certain Covered UAS and UAS Critical Components and Equipment Listed in Section 1709 of FY2025 NDAA</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Foundation for Defense of Democracies</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMikwJBVV95cUxNdERNckptXzA5emVjYmctZENIcFQwdTFjeFFaSjNRM3lmeVZpSnZsVTlUcVJaeGJPNGxmMGQzeTZ0SS1haUdKcXc1eG9SZWdidmpSZFVpWnZfc3hrNFhKUExlOVp1OWdyUWJULUtmRGVtU1k2T1p2ZUhYVkNoakhwc1ItYk0yby1nZEtENmpydlZuZnlndDhsWnZrV29OZEhXdnhzVVU4VmxtcjdlN3hYYXJYQjRjVHV0LWNLT2x0b2R5c1hUOGdXUGJ3YTlzUUlPNlp4WnN5Q0NSM1hsZDlEcmlWdi0yTVZhT1JCT19mY051VEQ2bmNHX1BmQnlWNWpFWlV4bzVKRUJtZjJTZ3NzZ3MzSQ?oc=5\" target=\"_blank\">Prohibiting the Importation and Marketing of Certain Covered UAS and UAS Critical Components and Equipment Listed in Section 1709 of FY2025 NDAA</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Foundation for Defense of Democracies</font>",
-      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNdERNckptXzA5emVjYmctZENIcFQwdTFjeFFaSjNRM3lmeVZpSnZsVTlUcVJaeGJPNGxmMGQzeTZ0SS1haUdKcXc1eG9SZWdidmpSZFVpWnZfc3hrNFhKUExlOVp1OWdyUWJULUtmRGVtU1k2T1p2ZUhYVkNoakhwc1ItYk0yby1nZEtENmpydlZuZnlndDhsWnZrV29OZEhXdnhzVVU4VmxtcjdlN3hYYXJYQjRjVHV0LWNLT2x0b2R5c1hUOGdXUGJ3YTlzUUlPNlp4WnN5Q0NSM1hsZDlEcmlWdi0yTVZhT1JCT19mY051VEQ2bmNHX1BmQnlWNWpFWlV4bzVKRUJtZjJTZ3NzZ3MzSQ?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNdERNckptXzA5emVjYmctZENIcFQwdTFjeFFaSjNRM3lmeVZpSnZsVTlUcVJaeGJPNGxmMGQzeTZ0SS1haUdKcXc1eG9SZWdidmpSZFVpWnZfc3hrNFhKUExlOVp1OWdyUWJULUtmRGVtU1k2T1p2ZUhYVkNoakhwc1ItYk0yby1nZEtENmpydlZuZnlndDhsWnZrV29OZEhXdnhzVVU4VmxtcjdlN3hYYXJYQjRjVHV0LWNLT2x0b2R5c1hUOGdXUGJ3YTlzUUlPNlp4WnN5Q0NSM1hsZDlEcmlWdi0yTVZhT1JCT19mY051VEQ2bmNHX1BmQnlWNWpFWlV4bzVKRUJtZjJTZ3NzZ3MzSQ?oc=5",
-      "publishedAt": "2026-08-10T22:44:48.000Z",
-      "source": "Foundation for Defense of Democracies",
-      "_feedRegion": "global",
-      "_feedName": "Google News (Global)",
-      "_scoring": {
-        "score": 58,
-        "categories": [
-          "技術・製品",
-          "政策・インフラ"
-        ],
-        "breakdown": {
-          "required": true,
-          "technology": {
-            "matches": 2,
-            "catScore": 30
-          },
-          "policy": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 5,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "JIW、ドローンによる橋梁点検の一貫サービスを展示 水中調査とデータ管理にも対応",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE9HM2lZV0M4emNoZWNtQlE0eHd1QVFDdVEteW5tR2tFNnRhN091b1ZIbTh2ZzRSNTcxQU5GcWZkdXRDSWxLT28taVFSWG1JYXh6UmRHNnFJa3BTQ2xZcEZRSUpkSW1MRkM0Y0M0?oc=5\" target=\"_blank\">JIW、ドローンによる橋梁点検の一貫サービスを展示 水中調査とデータ管理にも対応</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ドローンジャーナル</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE9HM2lZV0M4emNoZWNtQlE0eHd1QVFDdVEteW5tR2tFNnRhN091b1ZIbTh2ZzRSNTcxQU5GcWZkdXRDSWxLT28taVFSWG1JYXh6UmRHNnFJa3BTQ2xZcEZRSUpkSW1MRkM0Y0M0?oc=5\" target=\"_blank\">JIW、ドローンによる橋梁点検の一貫サービスを展示 水中調査とデータ管理にも対応</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ドローンジャーナル</font>",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9HM2lZV0M4emNoZWNtQlE0eHd1QVFDdVEteW5tR2tFNnRhN091b1ZIbTh2ZzRSNTcxQU5GcWZkdXRDSWxLT28taVFSWG1JYXh6UmRHNnFJa3BTQ2xZcEZRSUpkSW1MRkM0Y0M0?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9HM2lZV0M4emNoZWNtQlE0eHd1QVFDdVEteW5tR2tFNnRhN091b1ZIbTh2ZzRSNTcxQU5GcWZkdXRDSWxLT28taVFSWG1JYXh6UmRHNnFJa3BTQ2xZcEZRSUpkSW1MRkM0Y0M0?oc=5",
-      "publishedAt": "2026-08-12T05:30:19.000Z",
-      "source": "ドローンジャーナル",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP)",
-      "_scoring": {
-        "score": 57,
-        "categories": [
-          "事故・事件"
-        ],
-        "breakdown": {
-          "required": true,
-          "incident": {
-            "matches": 1,
-            "catScore": 28
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 10,
           "titleBonus": 10,
           "jpRegionBonus": 15
         },
