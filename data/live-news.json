@@ -1,7 +1,48 @@
 {
-  "generatedAt": "2026-08-17T20:31:33.453Z",
-  "rawCount": 627,
+  "generatedAt": "2026-08-17T21:29:26.288Z",
+  "rawCount": 623,
   "articles": [
+    {
+      "title": "DoorDash Launches In-House Drone Delivery After Winning FAA Certification",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNdWVITUhGd1FYeUVac3dBcVc0QXdIRW43dWF2cXBWLUEyc1NIdkJ3YV8zNnhjc0V2TnF2TFNTcG9wcHQ1bUFremY0OHMyWEotb1dkc3dOTEhjQlhsOFJJTTZwT25ScVhocXM3MXM5UE1raG1xX3FNc0xmVTl1OHlmRVJ6dW9VYVUxSVdwUDVJV1EyX1A5LXhSMXpDVU5fRzhCQTdELXRmT1NKWGlrbmFjWnMxdTJuNXc?oc=5\" target=\"_blank\">DoorDash Launches In-House Drone Delivery After Winning FAA Certification</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Beijing Times</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNdWVITUhGd1FYeUVac3dBcVc0QXdIRW43dWF2cXBWLUEyc1NIdkJ3YV8zNnhjc0V2TnF2TFNTcG9wcHQ1bUFremY0OHMyWEotb1dkc3dOTEhjQlhsOFJJTTZwT25ScVhocXM3MXM5UE1raG1xX3FNc0xmVTl1OHlmRVJ6dW9VYVUxSVdwUDVJV1EyX1A5LXhSMXpDVU5fRzhCQTdELXRmT1NKWGlrbmFjWnMxdTJuNXc?oc=5\" target=\"_blank\">DoorDash Launches In-House Drone Delivery After Winning FAA Certification</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Beijing Times</font>",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdWVITUhGd1FYeUVac3dBcVc0QXdIRW43dWF2cXBWLUEyc1NIdkJ3YV8zNnhjc0V2TnF2TFNTcG9wcHQ1bUFremY0OHMyWEotb1dkc3dOTEhjQlhsOFJJTTZwT25ScVhocXM3MXM5UE1raG1xX3FNc0xmVTl1OHlmRVJ6dW9VYVUxSVdwUDVJV1EyX1A5LXhSMXpDVU5fRzhCQTdELXRmT1NKWGlrbmFjWnMxdTJuNXc?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdWVITUhGd1FYeUVac3dBcVc0QXdIRW43dWF2cXBWLUEyc1NIdkJ3YV8zNnhjc0V2TnF2TFNTcG9wcHQ1bUFremY0OHMyWEotb1dkc3dOTEhjQlhsOFJJTTZwT25ScVhocXM3MXM5UE1raG1xX3FNc0xmVTl1OHlmRVJ6dW9VYVUxSVdwUDVJV1EyX1A5LXhSMXpDVU5fRzhCQTdELXRmT1NKWGlrbmFjWnMxdTJuNXc?oc=5",
+      "publishedAt": "2026-08-17T09:36:45.000Z",
+      "source": "Beijing Times",
+      "_feedRegion": "us",
+      "_feedName": "FAA",
+      "_scoring": {
+        "score": 95,
+        "categories": [
+          "規制・政策",
+          "技術・製品",
+          "政策・インフラ"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 2,
+            "catScore": 40
+          },
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "policy": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 15,
+          "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
     {
       "title": "Attorney General Jeff Jackson Fights for Emergency Responder and Public Safety Protections In Federal Drone Rules",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOclRiem5CSHhDNUh4bVVCdXpsRlhCYU9DeVNMZE9EUFgwSlk1SmE1T2cxQm5hNExGZHRjaXZQb01DWVpvYzMxN1BweUdQZWRPUzRQTWhxdV9KSnZSTk1PcEFJYVNlQ1VzWHA0WXVkaVIxNlpRc1dzUE84MWJwUlYxbzBsRUxocko0SDhzNExCQ3dBMHpjeC0tRURFclRLalhON1FVWEpCakpmM2RUTkxobXNlMlgtR1NRNDh2bElqbTVNT2ZWN0hmbnNvSQ?oc=5\" target=\"_blank\">Attorney General Jeff Jackson Fights for Emergency Responder and Public Safety Protections In Federal Drone Rules</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WHKY</font>",
@@ -98,7 +139,7 @@
       "publishedAt": "2026-08-17T19:31:22.000Z",
       "source": "TBS NEWS DIG",
       "_feedRegion": "jp",
-      "_feedName": "Google News (JP 事業者/実装)",
+      "_feedName": "Google News (JP)",
       "_scoring": {
         "score": 80,
         "categories": [
@@ -288,12 +329,12 @@
     },
     {
       "title": "楽天、迎撃用ドローンを手がけるドイツ新興企業と提携…防衛省への納入や国内での量産化も視野に",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5uQXhraFBFNDRkRVE4d2djWGJZaV9tM3Q5SGNyOEsxc2NRQm1weHdWWjdaWUtqUDJWZjF5d3V6NURmTTB0QThuTU5tbTlENDFwaTdhbzg3bGIwdnV3bTZNaWh2bVY?oc=5\" target=\"_blank\">楽天、迎撃用ドローンを手がけるドイツ新興企業と提携…防衛省への納入や国内での量産化も視野に</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">読売新聞</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5uQXhraFBFNDRkRVE4d2djWGJZaV9tM3Q5SGNyOEsxc2NRQm1weHdWWjdaWUtqUDJWZjF5d3V6NURmTTB0QThuTU5tbTlENDFwaTdhbzg3bGIwdnV3bTZNaWh2bVY?oc=5\" target=\"_blank\">楽天、迎撃用ドローンを手がけるドイツ新興企業と提携…防衛省への納入や国内での量産化も視野に</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">読売新聞</font>",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5uQXhraFBFNDRkRVE4d2djWGJZaV9tM3Q5SGNyOEsxc2NRQm1weHdWWjdaWUtqUDJWZjF5d3V6NURmTTB0QThuTU5tbTlENDFwaTdhbzg3bGIwdnV3bTZNaWh2bVY?oc=5\" target=\"_blank\">楽天、迎撃用ドローンを手がけるドイツ新興企業と提携…防衛省への納入や国内での量産化も視野に</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">yomiuri.co.jp</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5uQXhraFBFNDRkRVE4d2djWGJZaV9tM3Q5SGNyOEsxc2NRQm1weHdWWjdaWUtqUDJWZjF5d3V6NURmTTB0QThuTU5tbTlENDFwaTdhbzg3bGIwdnV3bTZNaWh2bVY?oc=5\" target=\"_blank\">楽天、迎撃用ドローンを手がけるドイツ新興企業と提携…防衛省への納入や国内での量産化も視野に</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">yomiuri.co.jp</font>",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5uQXhraFBFNDRkRVE4d2djWGJZaV9tM3Q5SGNyOEsxc2NRQm1weHdWWjdaWUtqUDJWZjF5d3V6NURmTTB0QThuTU5tbTlENDFwaTdhbzg3bGIwdnV3bTZNaWh2bVY?oc=5",
       "googleNewsUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5uQXhraFBFNDRkRVE4d2djWGJZaV9tM3Q5SGNyOEsxc2NRQm1weHdWWjdaWUtqUDJWZjF5d3V6NURmTTB0QThuTU5tbTlENDFwaTdhbzg3bGIwdnV3bTZNaWh2bVY?oc=5",
       "publishedAt": "2026-08-17T11:25:00.000Z",
-      "source": "読売新聞",
+      "source": "yomiuri.co.jp",
       "_feedRegion": "jp",
       "_feedName": "Google News (JP)",
       "_scoring": {
@@ -652,6 +693,43 @@
       }
     },
     {
+      "title": "ベトナム民間航空局が空港での無人航空機の目撃情報に対応。",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPdkhWT2FMZVRIYWJscXhkdkJZQmFvVm5iQnA0WnBXTlFpRGhyQTk5SThZTHBPeEZ0VFEyeE4zODd3ZVRnLXlaUFctbmNwcHFPOUtHWWozNEc3U3hRN0lWQTNvMkZZWUlUZE5qRFdLajA4aW1Ja1Vkc1c2dUFUZkhfaGM1QTF1N0c2SWdrenRYSW0?oc=5\" target=\"_blank\">ベトナム民間航空局が空港での無人航空機の目撃情報に対応。</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Vietnam.vn</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPdkhWT2FMZVRIYWJscXhkdkJZQmFvVm5iQnA0WnBXTlFpRGhyQTk5SThZTHBPeEZ0VFEyeE4zODd3ZVRnLXlaUFctbmNwcHFPOUtHWWozNEc3U3hRN0lWQTNvMkZZWUlUZE5qRFdLajA4aW1Ja1Vkc1c2dUFUZkhfaGM1QTF1N0c2SWdrenRYSW0?oc=5\" target=\"_blank\">ベトナム民間航空局が空港での無人航空機の目撃情報に対応。</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Vietnam.vn</font>",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdkhWT2FMZVRIYWJscXhkdkJZQmFvVm5iQnA0WnBXTlFpRGhyQTk5SThZTHBPeEZ0VFEyeE4zODd3ZVRnLXlaUFctbmNwcHFPOUtHWWozNEc3U3hRN0lWQTNvMkZZWUlUZE5qRFdLajA4aW1Ja1Vkc1c2dUFUZkhfaGM1QTF1N0c2SWdrenRYSW0?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdkhWT2FMZVRIYWJscXhkdkJZQmFvVm5iQnA0WnBXTlFpRGhyQTk5SThZTHBPeEZ0VFEyeE4zODd3ZVRnLXlaUFctbmNwcHFPOUtHWWozNEc3U3hRN0lWQTNvMkZZWUlUZE5qRFdLajA4aW1Ja1Vkc1c2dUFUZkhfaGM1QTF1N0c2SWdrenRYSW0?oc=5",
+      "publishedAt": "2026-08-12T13:10:40.000Z",
+      "source": "Vietnam.vn",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP 政策/実証)",
+      "_scoring": {
+        "score": 70,
+        "categories": [
+          "規制・政策",
+          "政策・インフラ"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
+          "policy": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 0,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
       "title": "DoorDash、FAAの認証取得を受け、自社運営のドローン配送プログラムを開始",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE9QdDhTZDZia0NlSmZDMTZ5dGpSeDVDb0xoT1BJLTFpRzM4cE0zSkU3MGpDblNWOGJVSEhiYklBTC1fQ0JJNVQ4MEEweGFSa2FUcTJZY2xpQU03U05hQmw5RThfTzFOM2VFZnVsaXowSkIycmF5c3J3?oc=5\" target=\"_blank\">DoorDash、FAAの認証取得を受け、自社運営のドローン配送プログラムを開始</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE9QdDhTZDZia0NlSmZDMTZ5dGpSeDVDb0xoT1BJLTFpRzM4cE0zSkU3MGpDblNWOGJVSEhiYklBTC1fQ0JJNVQ4MEEweGFSa2FUcTJZY2xpQU03U05hQmw5RThfTzFOM2VFZnVsaXowSkIycmF5c3J3?oc=5\" target=\"_blank\">DoorDash、FAAの認証取得を受け、自社運営のドローン配送プログラムを開始</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
@@ -799,12 +877,12 @@
     },
     {
       "title": "Perkins&Will Unveils Advanced Air Mobility Vertiport Vision for Langley Regional Airport",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQVjg1Q3R2WnNJdlZ3MjZzWEN2X01tWDVzeThuT0JneE9EZ1lPYlNBbTlpbjNMblRpSWFXanIxZVlDZU90U0E0SEpFWkl4WFhUVHRwOUEtUmk5N1p2bGxHMHZkUWdxUTBOSDc1YVB1M1REeHNURTFQVHNsS1NHbGR5eUtwY3ZobUQ3d3NOM2ZYUEVxQzBnV2ZfdDlDLTlyUjBaWm9aRWhrS1NHVzMxWTctWUFFTllia0Y1Um5OZlhkaEdQRDltcFh3TlRR?oc=5\" target=\"_blank\">Perkins&Will Unveils Advanced Air Mobility Vertiport Vision for Langley Regional Airport</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">EIN News</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQVjg1Q3R2WnNJdlZ3MjZzWEN2X01tWDVzeThuT0JneE9EZ1lPYlNBbTlpbjNMblRpSWFXanIxZVlDZU90U0E0SEpFWkl4WFhUVHRwOUEtUmk5N1p2bGxHMHZkUWdxUTBOSDc1YVB1M1REeHNURTFQVHNsS1NHbGR5eUtwY3ZobUQ3d3NOM2ZYUEVxQzBnV2ZfdDlDLTlyUjBaWm9aRWhrS1NHVzMxWTctWUFFTllia0Y1Um5OZlhkaEdQRDltcFh3TlRR?oc=5\" target=\"_blank\">Perkins&Will Unveils Advanced Air Mobility Vertiport Vision for Langley Regional Airport</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">EIN News</font>",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQVjg1Q3R2WnNJdlZ3MjZzWEN2X01tWDVzeThuT0JneE9EZ1lPYlNBbTlpbjNMblRpSWFXanIxZVlDZU90U0E0SEpFWkl4WFhUVHRwOUEtUmk5N1p2bGxHMHZkUWdxUTBOSDc1YVB1M1REeHNURTFQVHNsS1NHbGR5eUtwY3ZobUQ3d3NOM2ZYUEVxQzBnV2ZfdDlDLTlyUjBaWm9aRWhrS1NHVzMxWTctWUFFTllia0Y1Um5OZlhkaEdQRDltcFh3TlRR?oc=5\" target=\"_blank\">Perkins&Will Unveils Advanced Air Mobility Vertiport Vision for Langley Regional Airport</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">einnews.com</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQVjg1Q3R2WnNJdlZ3MjZzWEN2X01tWDVzeThuT0JneE9EZ1lPYlNBbTlpbjNMblRpSWFXanIxZVlDZU90U0E0SEpFWkl4WFhUVHRwOUEtUmk5N1p2bGxHMHZkUWdxUTBOSDc1YVB1M1REeHNURTFQVHNsS1NHbGR5eUtwY3ZobUQ3d3NOM2ZYUEVxQzBnV2ZfdDlDLTlyUjBaWm9aRWhrS1NHVzMxWTctWUFFTllia0Y1Um5OZlhkaEdQRDltcFh3TlRR?oc=5\" target=\"_blank\">Perkins&Will Unveils Advanced Air Mobility Vertiport Vision for Langley Regional Airport</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">einnews.com</font>",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQVjg1Q3R2WnNJdlZ3MjZzWEN2X01tWDVzeThuT0JneE9EZ1lPYlNBbTlpbjNMblRpSWFXanIxZVlDZU90U0E0SEpFWkl4WFhUVHRwOUEtUmk5N1p2bGxHMHZkUWdxUTBOSDc1YVB1M1REeHNURTFQVHNsS1NHbGR5eUtwY3ZobUQ3d3NOM2ZYUEVxQzBnV2ZfdDlDLTlyUjBaWm9aRWhrS1NHVzMxWTctWUFFTllia0Y1Um5OZlhkaEdQRDltcFh3TlRR?oc=5",
       "googleNewsUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQVjg1Q3R2WnNJdlZ3MjZzWEN2X01tWDVzeThuT0JneE9EZ1lPYlNBbTlpbjNMblRpSWFXanIxZVlDZU90U0E0SEpFWkl4WFhUVHRwOUEtUmk5N1p2bGxHMHZkUWdxUTBOSDc1YVB1M1REeHNURTFQVHNsS1NHbGR5eUtwY3ZobUQ3d3NOM2ZYUEVxQzBnV2ZfdDlDLTlyUjBaWm9aRWhrS1NHVzMxWTctWUFFTllia0Y1Um5OZlhkaEdQRDltcFh3TlRR?oc=5",
       "publishedAt": "2026-08-17T13:00:00.000Z",
-      "source": "EIN News",
+      "source": "einnews.com",
       "_feedRegion": "global",
       "_feedName": "Google News (Global)",
       "_scoring": {
@@ -904,12 +982,12 @@
     },
     {
       "title": "迎撃ドローン 楽天が提携へ ドイツ新興企業と",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE83VHRvWlBES1c0T1VKVHU2TXNqZFZoZzJndlppU1pPQjBxaW1nWnJISHAyQ2pfVTBSaWRtN1pEN1dCdkdWWFg5eWpYd3hWSG5DTE9yc2d3RGJCTGNZdUduemp3?oc=5\" target=\"_blank\">迎撃ドローン 楽天が提携へ ドイツ新興企業と</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ryukyushimpo.jp</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE83VHRvWlBES1c0T1VKVHU2TXNqZFZoZzJndlppU1pPQjBxaW1nWnJISHAyQ2pfVTBSaWRtN1pEN1dCdkdWWFg5eWpYd3hWSG5DTE9yc2d3RGJCTGNZdUduemp3?oc=5\" target=\"_blank\">迎撃ドローン 楽天が提携へ ドイツ新興企業と</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ryukyushimpo.jp</font>",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE83VHRvWlBES1c0T1VKVHU2TXNqZFZoZzJndlppU1pPQjBxaW1nWnJISHAyQ2pfVTBSaWRtN1pEN1dCdkdWWFg5eWpYd3hWSG5DTE9yc2d3RGJCTGNZdUduemp3?oc=5\" target=\"_blank\">迎撃ドローン 楽天が提携へ ドイツ新興企業と</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">琉球新報デジタル</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE83VHRvWlBES1c0T1VKVHU2TXNqZFZoZzJndlppU1pPQjBxaW1nWnJISHAyQ2pfVTBSaWRtN1pEN1dCdkdWWFg5eWpYd3hWSG5DTE9yc2d3RGJCTGNZdUduemp3?oc=5\" target=\"_blank\">迎撃ドローン 楽天が提携へ ドイツ新興企業と</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">琉球新報デジタル</font>",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE83VHRvWlBES1c0T1VKVHU2TXNqZFZoZzJndlppU1pPQjBxaW1nWnJISHAyQ2pfVTBSaWRtN1pEN1dCdkdWWFg5eWpYd3hWSG5DTE9yc2d3RGJCTGNZdUduemp3?oc=5",
       "googleNewsUrl": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE83VHRvWlBES1c0T1VKVHU2TXNqZFZoZzJndlppU1pPQjBxaW1nWnJISHAyQ2pfVTBSaWRtN1pEN1dCdkdWWFg5eWpYd3hWSG5DTE9yc2d3RGJCTGNZdUduemp3?oc=5",
       "publishedAt": "2026-08-17T20:00:00.000Z",
-      "source": "ryukyushimpo.jp",
+      "source": "琉球新報デジタル",
       "_feedRegion": "jp",
       "_feedName": "Google News (JP 政策/実証)",
       "_scoring": {
@@ -936,12 +1014,12 @@
     },
     {
       "title": "楽天、迎撃ドローンで提携 独新興と 防衛省へ納入目指す",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9Za2s2bnN5QUJuTERXakxVSkpkVGkwT2xsbm1Ub0dpNXozcndpUVUtTko3UTVyRHQydUtKejVkbDdFdjRjLUI2ZVNlelBEVVgtc2xvczlJSUxBbS1Ta1ZfXzVOWQ?oc=5\" target=\"_blank\">楽天、迎撃ドローンで提携 独新興と 防衛省へ納入目指す</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">読売新聞</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9Za2s2bnN5QUJuTERXakxVSkpkVGkwT2xsbm1Ub0dpNXozcndpUVUtTko3UTVyRHQydUtKejVkbDdFdjRjLUI2ZVNlelBEVVgtc2xvczlJSUxBbS1Ta1ZfXzVOWQ?oc=5\" target=\"_blank\">楽天、迎撃ドローンで提携 独新興と 防衛省へ納入目指す</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">読売新聞</font>",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9Za2s2bnN5QUJuTERXakxVSkpkVGkwT2xsbm1Ub0dpNXozcndpUVUtTko3UTVyRHQydUtKejVkbDdFdjRjLUI2ZVNlelBEVVgtc2xvczlJSUxBbS1Ta1ZfXzVOWQ?oc=5\" target=\"_blank\">楽天、迎撃ドローンで提携 独新興と 防衛省へ納入目指す</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">yomiuri.co.jp</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9Za2s2bnN5QUJuTERXakxVSkpkVGkwT2xsbm1Ub0dpNXozcndpUVUtTko3UTVyRHQydUtKejVkbDdFdjRjLUI2ZVNlelBEVVgtc2xvczlJSUxBbS1Ta1ZfXzVOWQ?oc=5\" target=\"_blank\">楽天、迎撃ドローンで提携 独新興と 防衛省へ納入目指す</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">yomiuri.co.jp</font>",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9Za2s2bnN5QUJuTERXakxVSkpkVGkwT2xsbm1Ub0dpNXozcndpUVUtTko3UTVyRHQydUtKejVkbDdFdjRjLUI2ZVNlelBEVVgtc2xvczlJSUxBbS1Ta1ZfXzVOWQ?oc=5",
       "googleNewsUrl": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9Za2s2bnN5QUJuTERXakxVSkpkVGkwT2xsbm1Ub0dpNXozcndpUVUtTko3UTVyRHQydUtKejVkbDdFdjRjLUI2ZVNlelBEVVgtc2xvczlJSUxBbS1Ta1ZfXzVOWQ?oc=5",
       "publishedAt": "2026-08-17T20:00:00.000Z",
-      "source": "読売新聞",
+      "source": "yomiuri.co.jp",
       "_feedRegion": "jp",
       "_feedName": "Google News (JP 政策/実証)",
       "_scoring": {
@@ -1034,79 +1112,6 @@
           },
           "freshness": 10,
           "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "Lockheed Martin demonstrates C-UAS sensing using existing 5G infrastructure",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUklDMm1TTzloMmxydXF1XzlrSEZ3VzBNVTRyX2VES0RTeFQ1ajBmTVYyTnNhbGxmM183anlTVzRiTFFySXdEeW9RNnJ1STlKMFhkNERoT0NvVzFBM3ZwNjFiY0ZtZ2x0UFNTODhJY0hhUGZwcU1GcTZVcU5qTm1NX2RVZmR5NFBTNGk5UExxbndVRGdEOTR4ZUhIU0l0c2E4SndWMkhwNzhTWjVlaFJ4WHJGaFBTMTFvbXU0N21yNmhLTXFqWnQyelNpSVdwb3hu?oc=5\" target=\"_blank\">Lockheed Martin demonstrates C-UAS sensing using existing 5G infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Military Aerospace</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUklDMm1TTzloMmxydXF1XzlrSEZ3VzBNVTRyX2VES0RTeFQ1ajBmTVYyTnNhbGxmM183anlTVzRiTFFySXdEeW9RNnJ1STlKMFhkNERoT0NvVzFBM3ZwNjFiY0ZtZ2x0UFNTODhJY0hhUGZwcU1GcTZVcU5qTm1NX2RVZmR5NFBTNGk5UExxbndVRGdEOTR4ZUhIU0l0c2E4SndWMkhwNzhTWjVlaFJ4WHJGaFBTMTFvbXU0N21yNmhLTXFqWnQyelNpSVdwb3hu?oc=5\" target=\"_blank\">Lockheed Martin demonstrates C-UAS sensing using existing 5G infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Military Aerospace</font>",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUklDMm1TTzloMmxydXF1XzlrSEZ3VzBNVTRyX2VES0RTeFQ1ajBmTVYyTnNhbGxmM183anlTVzRiTFFySXdEeW9RNnJ1STlKMFhkNERoT0NvVzFBM3ZwNjFiY0ZtZ2x0UFNTODhJY0hhUGZwcU1GcTZVcU5qTm1NX2RVZmR5NFBTNGk5UExxbndVRGdEOTR4ZUhIU0l0c2E4SndWMkhwNzhTWjVlaFJ4WHJGaFBTMTFvbXU0N21yNmhLTXFqWnQyelNpSVdwb3hu?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUklDMm1TTzloMmxydXF1XzlrSEZ3VzBNVTRyX2VES0RTeFQ1ajBmTVYyTnNhbGxmM183anlTVzRiTFFySXdEeW9RNnJ1STlKMFhkNERoT0NvVzFBM3ZwNjFiY0ZtZ2x0UFNTODhJY0hhUGZwcU1GcTZVcU5qTm1NX2RVZmR5NFBTNGk5UExxbndVRGdEOTR4ZUhIU0l0c2E4SndWMkhwNzhTWjVlaFJ4WHJGaFBTMTFvbXU0N21yNmhLTXFqWnQyelNpSVdwb3hu?oc=5",
-      "publishedAt": "2026-08-17T08:21:55.000Z",
-      "source": "Military Aerospace",
-      "_feedRegion": "global",
-      "_feedName": "Google News (Global)",
-      "_scoring": {
-        "score": 60,
-        "categories": [
-          "市場・資金",
-          "政策・インフラ"
-        ],
-        "breakdown": {
-          "required": true,
-          "market": {
-            "matches": 1,
-            "catScore": 20
-          },
-          "policy": {
-            "matches": 2,
-            "catScore": 30
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 10,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "スカイドライブ、「空飛ぶクルマ」国内外で提携／量産・商用化へ着々 –",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFB6ZkdsWFR4WTgxVDRGeXIyMHlXNnYzYXJONWJoUFM2R1Y4ZWdfZ2Izc09uYmxXZl9leDlKaVN1U3JCNi02amxDM2NObVdMcjB2em1mVXhiSQ?oc=5\" target=\"_blank\">スカイドライブ、「空飛ぶクルマ」国内外で提携／量産・商用化へ着々 –</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">電気新聞ウェブサイト</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFB6ZkdsWFR4WTgxVDRGeXIyMHlXNnYzYXJONWJoUFM2R1Y4ZWdfZ2Izc09uYmxXZl9leDlKaVN1U3JCNi02amxDM2NObVdMcjB2em1mVXhiSQ?oc=5\" target=\"_blank\">スカイドライブ、「空飛ぶクルマ」国内外で提携／量産・商用化へ着々 –</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">電気新聞ウェブサイト</font>",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB6ZkdsWFR4WTgxVDRGeXIyMHlXNnYzYXJONWJoUFM2R1Y4ZWdfZ2Izc09uYmxXZl9leDlKaVN1U3JCNi02amxDM2NObVdMcjB2em1mVXhiSQ?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB6ZkdsWFR4WTgxVDRGeXIyMHlXNnYzYXJONWJoUFM2R1Y4ZWdfZ2Izc09uYmxXZl9leDlKaVN1U3JCNi02amxDM2NObVdMcjB2em1mVXhiSQ?oc=5",
-      "publishedAt": "2026-07-28T21:05:30.000Z",
-      "source": "電気新聞ウェブサイト",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP 政策/実証)",
-      "_scoring": {
-        "score": 60,
-        "categories": [
-          "技術・製品",
-          "市場・資金"
-        ],
-        "breakdown": {
-          "required": true,
-          "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "market": {
-            "matches": 1,
-            "catScore": 20
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 0,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
         },
         "pass": true
       }
