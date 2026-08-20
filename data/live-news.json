@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-19T23:26:26.906Z",
-  "rawCount": 622,
+  "generatedAt": "2026-08-20T01:31:44.419Z",
+  "rawCount": 623,
   "articles": [
     {
       "title": "Honeywell validates satellite command link for BVLOS drones, moving new antenna toward production after shared-airspace flight tests",
@@ -13,7 +13,7 @@
       "_feedRegion": "global",
       "_feedName": "Google News (Global)",
       "_scoring": {
-        "score": 91,
+        "score": 86,
         "categories": [
           "規制・政策",
           "技術・製品",
@@ -37,7 +37,7 @@
             "domain": "news.google.com",
             "multiplier": 0.8
           },
-          "freshness": 20,
+          "freshness": 15,
           "titleBonus": 10
         },
         "pass": true
@@ -161,42 +161,6 @@
             "multiplier": 0.8
           },
           "freshness": 5,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "India plans BVLOS drone certification framework by end of 2026",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNYklaWjNJY2VlYUZBM1FDWkVPREVyMGpwaWdxRHVsbkpLRjM0ODZTZFJNc3huQVhzckxNdC0tR0ljdVk2S0ZoOXdOeWVsR0JVTXg2Zm1WUEFTY0pYNlJJVWF2WEkxTVVSTDFZN0tGbVNiTy1hclplMkJmRXJPbldPS1I3cTZOV1FaUW9qaTQtTjJXYVN0MjFFeV9jY3YxdmlsT0lJcHNCSzk3WlYtY3hCSg?oc=5\" target=\"_blank\">India plans BVLOS drone certification framework by end of 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNYklaWjNJY2VlYUZBM1FDWkVPREVyMGpwaWdxRHVsbkpLRjM0ODZTZFJNc3huQVhzckxNdC0tR0ljdVk2S0ZoOXdOeWVsR0JVTXg2Zm1WUEFTY0pYNlJJVWF2WEkxTVVSTDFZN0tGbVNiTy1hclplMkJmRXJPbldPS1I3cTZOV1FaUW9qaTQtTjJXYVN0MjFFeV9jY3YxdmlsT0lJcHNCSzk3WlYtY3hCSg?oc=5\" target=\"_blank\">India plans BVLOS drone certification framework by end of 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYklaWjNJY2VlYUZBM1FDWkVPREVyMGpwaWdxRHVsbkpLRjM0ODZTZFJNc3huQVhzckxNdC0tR0ljdVk2S0ZoOXdOeWVsR0JVTXg2Zm1WUEFTY0pYNlJJVWF2WEkxTVVSTDFZN0tGbVNiTy1hclplMkJmRXJPbldPS1I3cTZOV1FaUW9qaTQtTjJXYVN0MjFFeV9jY3YxdmlsT0lJcHNCSzk3WlYtY3hCSg?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYklaWjNJY2VlYUZBM1FDWkVPREVyMGpwaWdxRHVsbkpLRjM0ODZTZFJNc3huQVhzckxNdC0tR0ljdVk2S0ZoOXdOeWVsR0JVTXg2Zm1WUEFTY0pYNlJJVWF2WEkxTVVSTDFZN0tGbVNiTy1hclplMkJmRXJPbldPS1I3cTZOV1FaUW9qaTQtTjJXYVN0MjFFeV9jY3YxdmlsT0lJcHNCSzk3WlYtY3hCSg?oc=5",
-      "publishedAt": "2026-08-19T12:47:37.000Z",
-      "source": "Unmanned airspace",
-      "_feedRegion": "global",
-      "_feedName": "Google News (Global)",
-      "_scoring": {
-        "score": 73,
-        "categories": [
-          "規制・政策",
-          "市場・資金"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 2,
-            "catScore": 40
-          },
-          "market": {
-            "matches": 1,
-            "catScore": 20
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 15,
           "titleBonus": 10
         },
         "pass": true
@@ -461,6 +425,78 @@
           "freshness": 2,
           "titleBonus": 10,
           "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "India plans BVLOS drone certification framework by end of 2026",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNYklaWjNJY2VlYUZBM1FDWkVPREVyMGpwaWdxRHVsbkpLRjM0ODZTZFJNc3huQVhzckxNdC0tR0ljdVk2S0ZoOXdOeWVsR0JVTXg2Zm1WUEFTY0pYNlJJVWF2WEkxTVVSTDFZN0tGbVNiTy1hclplMkJmRXJPbldPS1I3cTZOV1FaUW9qaTQtTjJXYVN0MjFFeV9jY3YxdmlsT0lJcHNCSzk3WlYtY3hCSg?oc=5\" target=\"_blank\">India plans BVLOS drone certification framework by end of 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNYklaWjNJY2VlYUZBM1FDWkVPREVyMGpwaWdxRHVsbkpLRjM0ODZTZFJNc3huQVhzckxNdC0tR0ljdVk2S0ZoOXdOeWVsR0JVTXg2Zm1WUEFTY0pYNlJJVWF2WEkxTVVSTDFZN0tGbVNiTy1hclplMkJmRXJPbldPS1I3cTZOV1FaUW9qaTQtTjJXYVN0MjFFeV9jY3YxdmlsT0lJcHNCSzk3WlYtY3hCSg?oc=5\" target=\"_blank\">India plans BVLOS drone certification framework by end of 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYklaWjNJY2VlYUZBM1FDWkVPREVyMGpwaWdxRHVsbkpLRjM0ODZTZFJNc3huQVhzckxNdC0tR0ljdVk2S0ZoOXdOeWVsR0JVTXg2Zm1WUEFTY0pYNlJJVWF2WEkxTVVSTDFZN0tGbVNiTy1hclplMkJmRXJPbldPS1I3cTZOV1FaUW9qaTQtTjJXYVN0MjFFeV9jY3YxdmlsT0lJcHNCSzk3WlYtY3hCSg?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYklaWjNJY2VlYUZBM1FDWkVPREVyMGpwaWdxRHVsbkpLRjM0ODZTZFJNc3huQVhzckxNdC0tR0ljdVk2S0ZoOXdOeWVsR0JVTXg2Zm1WUEFTY0pYNlJJVWF2WEkxTVVSTDFZN0tGbVNiTy1hclplMkJmRXJPbldPS1I3cTZOV1FaUW9qaTQtTjJXYVN0MjFFeV9jY3YxdmlsT0lJcHNCSzk3WlYtY3hCSg?oc=5",
+      "publishedAt": "2026-08-19T12:47:37.000Z",
+      "source": "Unmanned airspace",
+      "_feedRegion": "global",
+      "_feedName": "Google News (Global)",
+      "_scoring": {
+        "score": 68,
+        "categories": [
+          "規制・政策",
+          "市場・資金"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 2,
+            "catScore": 40
+          },
+          "market": {
+            "matches": 1,
+            "catScore": 20
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 10,
+          "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "Police warn drones near Little League World Series could violate FAA flight restrictions",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSjFZZW81UlZqcG9HNXlLWmI3UEZUeTF5Yi11MVN1cXpSZHRQSWJxMnpUd05BQVZiMi1qdVRvWEtubGd4MGYwUFFadGJaeUJNWHJsR1pKamdxVjJaRVAyT3g0QmxtelNvRWNybFc0TWQ4UTB3ZnUxVWJaNlJ5SWIyenFRWlQ5b1Z3UXRaX0QtWUM3aUZrWE9Ib1VOeEMyX2hDY0lReDFsRHRWcXBONjQ5Q0dfOGljVVh4?oc=5\" target=\"_blank\">Police warn drones near Little League World Series could violate FAA flight restrictions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">fox56.com</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSjFZZW81UlZqcG9HNXlLWmI3UEZUeTF5Yi11MVN1cXpSZHRQSWJxMnpUd05BQVZiMi1qdVRvWEtubGd4MGYwUFFadGJaeUJNWHJsR1pKamdxVjJaRVAyT3g0QmxtelNvRWNybFc0TWQ4UTB3ZnUxVWJaNlJ5SWIyenFRWlQ5b1Z3UXRaX0QtWUM3aUZrWE9Ib1VOeEMyX2hDY0lReDFsRHRWcXBONjQ5Q0dfOGljVVh4?oc=5\" target=\"_blank\">Police warn drones near Little League World Series could violate FAA flight restrictions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">fox56.com</font>",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSjFZZW81UlZqcG9HNXlLWmI3UEZUeTF5Yi11MVN1cXpSZHRQSWJxMnpUd05BQVZiMi1qdVRvWEtubGd4MGYwUFFadGJaeUJNWHJsR1pKamdxVjJaRVAyT3g0QmxtelNvRWNybFc0TWQ4UTB3ZnUxVWJaNlJ5SWIyenFRWlQ5b1Z3UXRaX0QtWUM3aUZrWE9Ib1VOeEMyX2hDY0lReDFsRHRWcXBONjQ5Q0dfOGljVVh4?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSjFZZW81UlZqcG9HNXlLWmI3UEZUeTF5Yi11MVN1cXpSZHRQSWJxMnpUd05BQVZiMi1qdVRvWEtubGd4MGYwUFFadGJaeUJNWHJsR1pKamdxVjJaRVAyT3g0QmxtelNvRWNybFc0TWQ4UTB3ZnUxVWJaNlJ5SWIyenFRWlQ5b1Z3UXRaX0QtWUM3aUZrWE9Ib1VOeEMyX2hDY0lReDFsRHRWcXBONjQ5Q0dfOGljVVh4?oc=5",
+      "publishedAt": "2026-08-19T20:01:11.000Z",
+      "source": "fox56.com",
+      "_feedRegion": "us",
+      "_feedName": "FAA",
+      "_scoring": {
+        "score": 67,
+        "categories": [
+          "規制・政策",
+          "市場・資金"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
+          "market": {
+            "matches": 1,
+            "catScore": 20
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 15,
+          "titleBonus": 10
         },
         "pass": true
       }
@@ -874,28 +910,28 @@
       }
     },
     {
-      "title": "eVTOL Air Taxis Win FAA Certification for 2026 US Launch",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNV1g0NUJfQkZjS2plUjBqbHNoeWFhUWlzVUdrdlBaTWpQbkRPX0YtbFBvRGNiTENXNkszWXgtN3JZZC05X1VtLUZnUE93aWlfYTctN0FVQ0lDVWZ2NlFpM3hZQjI4SlRhTzJ4d0MxbnNZLWFwcWVuRWhOQkNYOWFaX1ktM01EaU5Oc0cwNm01MWFiYThD?oc=5\" target=\"_blank\">eVTOL Air Taxis Win FAA Certification for 2026 US Launch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MiGFlug</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNV1g0NUJfQkZjS2plUjBqbHNoeWFhUWlzVUdrdlBaTWpQbkRPX0YtbFBvRGNiTENXNkszWXgtN3JZZC05X1VtLUZnUE93aWlfYTctN0FVQ0lDVWZ2NlFpM3hZQjI4SlRhTzJ4d0MxbnNZLWFwcWVuRWhOQkNYOWFaX1ktM01EaU5Oc0cwNm01MWFiYThD?oc=5\" target=\"_blank\">eVTOL Air Taxis Win FAA Certification for 2026 US Launch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MiGFlug</font>",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNV1g0NUJfQkZjS2plUjBqbHNoeWFhUWlzVUdrdlBaTWpQbkRPX0YtbFBvRGNiTENXNkszWXgtN3JZZC05X1VtLUZnUE93aWlfYTctN0FVQ0lDVWZ2NlFpM3hZQjI4SlRhTzJ4d0MxbnNZLWFwcWVuRWhOQkNYOWFaX1ktM01EaU5Oc0cwNm01MWFiYThD?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNV1g0NUJfQkZjS2plUjBqbHNoeWFhUWlzVUdrdlBaTWpQbkRPX0YtbFBvRGNiTENXNkszWXgtN3JZZC05X1VtLUZnUE93aWlfYTctN0FVQ0lDVWZ2NlFpM3hZQjI4SlRhTzJ4d0MxbnNZLWFwcWVuRWhOQkNYOWFaX1ktM01EaU5Oc0cwNm01MWFiYThD?oc=5",
-      "publishedAt": "2026-08-16T13:17:42.000Z",
-      "source": "MiGFlug",
-      "_feedRegion": "us",
-      "_feedName": "FAA",
+      "title": "World-first eVTOL vertiport gets the green light",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE5zVHdqV1E1TEQ5aXdJTEI5ZDAwUGNtb3B5T1VrQ1hlZEtMQ1o3SWxrRTdGSTNPSzI5OGFBTTZqaEhMRDVuSVJZV0dnWGFGcXEwdS15UGdKbHNvSEtZT3BzYkJtSF9ZTXA0Z1RDRi1PX3doTmM?oc=5\" target=\"_blank\">World-first eVTOL vertiport gets the green light</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">New Atlas</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE5zVHdqV1E1TEQ5aXdJTEI5ZDAwUGNtb3B5T1VrQ1hlZEtMQ1o3SWxrRTdGSTNPSzI5OGFBTTZqaEhMRDVuSVJZV0dnWGFGcXEwdS15UGdKbHNvSEtZT3BzYkJtSF9ZTXA0Z1RDRi1PX3doTmM?oc=5\" target=\"_blank\">World-first eVTOL vertiport gets the green light</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">New Atlas</font>",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5zVHdqV1E1TEQ5aXdJTEI5ZDAwUGNtb3B5T1VrQ1hlZEtMQ1o3SWxrRTdGSTNPSzI5OGFBTTZqaEhMRDVuSVJZV0dnWGFGcXEwdS15UGdKbHNvSEtZT3BzYkJtSF9ZTXA0Z1RDRi1PX3doTmM?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5zVHdqV1E1TEQ5aXdJTEI5ZDAwUGNtb3B5T1VrQ1hlZEtMQ1o3SWxrRTdGSTNPSzI5OGFBTTZqaEhMRDVuSVJZV0dnWGFGcXEwdS15UGdKbHNvSEtZT3BzYkJtSF9ZTXA0Z1RDRi1PX3doTmM?oc=5",
+      "publishedAt": "2026-08-19T21:03:32.000Z",
+      "source": "New Atlas",
+      "_feedRegion": "global",
+      "_feedName": "Google News (Global)",
       "_scoring": {
-        "score": 61,
+        "score": 60,
         "categories": [
-          "規制・政策",
-          "技術・製品"
+          "市場・資金",
+          "政策・インフラ"
         ],
         "breakdown": {
           "required": true,
-          "regulation": {
-            "matches": 2,
-            "catScore": 40
+          "market": {
+            "matches": 1,
+            "catScore": 20
           },
-          "technology": {
+          "policy": {
             "matches": 1,
             "catScore": 24
           },
@@ -903,7 +939,7 @@
             "domain": "news.google.com",
             "multiplier": 0.8
           },
-          "freshness": 0,
+          "freshness": 15,
           "titleBonus": 10
         },
         "pass": true
@@ -940,42 +976,6 @@
             "multiplier": 0.8
           },
           "freshness": 5,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "World-first eVTOL vertiport gets the green light",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE5zVHdqV1E1TEQ5aXdJTEI5ZDAwUGNtb3B5T1VrQ1hlZEtMQ1o3SWxrRTdGSTNPSzI5OGFBTTZqaEhMRDVuSVJZV0dnWGFGcXEwdS15UGdKbHNvSEtZT3BzYkJtSF9ZTXA0Z1RDRi1PX3doTmM?oc=5\" target=\"_blank\">World-first eVTOL vertiport gets the green light</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">New Atlas</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE5zVHdqV1E1TEQ5aXdJTEI5ZDAwUGNtb3B5T1VrQ1hlZEtMQ1o3SWxrRTdGSTNPSzI5OGFBTTZqaEhMRDVuSVJZV0dnWGFGcXEwdS15UGdKbHNvSEtZT3BzYkJtSF9ZTXA0Z1RDRi1PX3doTmM?oc=5\" target=\"_blank\">World-first eVTOL vertiport gets the green light</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">New Atlas</font>",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5zVHdqV1E1TEQ5aXdJTEI5ZDAwUGNtb3B5T1VrQ1hlZEtMQ1o3SWxrRTdGSTNPSzI5OGFBTTZqaEhMRDVuSVJZV0dnWGFGcXEwdS15UGdKbHNvSEtZT3BzYkJtSF9ZTXA0Z1RDRi1PX3doTmM?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5zVHdqV1E1TEQ5aXdJTEI5ZDAwUGNtb3B5T1VrQ1hlZEtMQ1o3SWxrRTdGSTNPSzI5OGFBTTZqaEhMRDVuSVJZV0dnWGFGcXEwdS15UGdKbHNvSEtZT3BzYkJtSF9ZTXA0Z1RDRi1PX3doTmM?oc=5",
-      "publishedAt": "2026-08-19T19:05:23.000Z",
-      "source": "New Atlas",
-      "_feedRegion": "global",
-      "_feedName": "Google News (Global)",
-      "_scoring": {
-        "score": 60,
-        "categories": [
-          "市場・資金",
-          "政策・インフラ"
-        ],
-        "breakdown": {
-          "required": true,
-          "market": {
-            "matches": 1,
-            "catScore": 20
-          },
-          "policy": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 15,
           "titleBonus": 10
         },
         "pass": true
