@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-20T16:39:23.001Z",
-  "rawCount": 617,
+  "generatedAt": "2026-08-20T17:33:49.194Z",
+  "rawCount": 619,
   "articles": [
     {
       "title": "Swedish Transport Agency approves police request to establish BVLOS drone zone – precursor to UTM",
@@ -652,38 +652,6 @@
       }
     },
     {
-      "title": "フーシ派、サウジ南西部の空港とアラムコ施設にドローン攻撃",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOVkM3XzZvc0VaaGRNN3lDM01odzB0RE5YalZtN29yQ21rZDJxb2tZd2FXdU9ORjR1VFVZXzB2RXdZTE51djRicDZsenhib0VXVUpET0VYeHA5U1h4VlpLSm1GSUJSV2poWUJIMDFpcV9TMXJ5YklEVVlWdTZtVkRUTkNn?oc=5\" target=\"_blank\">フーシ派、サウジ南西部の空港とアラムコ施設にドローン攻撃</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ロイター</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOVkM3XzZvc0VaaGRNN3lDM01odzB0RE5YalZtN29yQ21rZDJxb2tZd2FXdU9ORjR1VFVZXzB2RXdZTE51djRicDZsenhib0VXVUpET0VYeHA5U1h4VlpLSm1GSUJSV2poWUJIMDFpcV9TMXJ5YklEVVlWdTZtVkRUTkNn?oc=5\" target=\"_blank\">フーシ派、サウジ南西部の空港とアラムコ施設にドローン攻撃</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ロイター</font>",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVkM3XzZvc0VaaGRNN3lDM01odzB0RE5YalZtN29yQ21rZDJxb2tZd2FXdU9ORjR1VFVZXzB2RXdZTE51djRicDZsenhib0VXVUpET0VYeHA5U1h4VlpLSm1GSUJSV2poWUJIMDFpcV9TMXJ5YklEVVlWdTZtVkRUTkNn?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVkM3XzZvc0VaaGRNN3lDM01odzB0RE5YalZtN29yQ21rZDJxb2tZd2FXdU9ORjR1VFVZXzB2RXdZTE51djRicDZsenhib0VXVUpET0VYeHA5U1h4VlpLSm1GSUJSV2poWUJIMDFpcV9TMXJ5YklEVVlWdTZtVkRUTkNn?oc=5",
-      "publishedAt": "2026-08-20T14:32:25.000Z",
-      "source": "ロイター",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP)",
-      "_scoring": {
-        "score": 64,
-        "categories": [
-          "政策・インフラ"
-        ],
-        "breakdown": {
-          "required": true,
-          "policy": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 20,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
       "title": "India plans BVLOS drone certification framework by end of 2026",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNYklaWjNJY2VlYUZBM1FDWkVPREVyMGpwaWdxRHVsbkpLRjM0ODZTZFJNc3huQVhzckxNdC0tR0ljdVk2S0ZoOXdOeWVsR0JVTXg2Zm1WUEFTY0pYNlJJVWF2WEkxTVVSTDFZN0tGbVNiTy1hclplMkJmRXJPbldPS1I3cTZOV1FaUW9qaTQtTjJXYVN0MjFFeV9jY3YxdmlsT0lJcHNCSzk3WlYtY3hCSg?oc=5\" target=\"_blank\">India plans BVLOS drone certification framework by end of 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNYklaWjNJY2VlYUZBM1FDWkVPREVyMGpwaWdxRHVsbkpLRjM0ODZTZFJNc3huQVhzckxNdC0tR0ljdVk2S0ZoOXdOeWVsR0JVTXg2Zm1WUEFTY0pYNlJJVWF2WEkxTVVSTDFZN0tGbVNiTy1hclplMkJmRXJPbldPS1I3cTZOV1FaUW9qaTQtTjJXYVN0MjFFeV9jY3YxdmlsT0lJcHNCSzk3WlYtY3hCSg?oc=5\" target=\"_blank\">India plans BVLOS drone certification framework by end of 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
@@ -1089,6 +1057,43 @@
       "source": "TBS NEWS DIG",
       "_feedRegion": "jp",
       "_feedName": "Google News (JP)",
+      "_scoring": {
+        "score": 60,
+        "categories": [
+          "技術・製品",
+          "市場・資金"
+        ],
+        "breakdown": {
+          "required": true,
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "market": {
+            "matches": 1,
+            "catScore": 20
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 0,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "楽天、迎撃用ドローンを手がけるドイツ新興企業と提携…防衛省への納入や国内での量産化も視野に (読売新聞オンライン)",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPb3l3U0FDVUpEN1p5cTd6cnN1cWRmemVsSEFsVk9kVFp4VnhENktyaTFuX21fYW5zTHRwMTQ3OUpWcTkzSUcwcmkyRG9Ic0o0Z25BTjJISHUwbWxNQkQ5WUFTR1lmRmo3ak5kQVg5YW1CcVlzV0JMY2FPLUwyODlmaHVBRWNJMl9rY3JGSXhB?oc=5\" target=\"_blank\">楽天、迎撃用ドローンを手がけるドイツ新興企業と提携…防衛省への納入や国内での量産化も視野に (読売新聞オンライン)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPb3l3U0FDVUpEN1p5cTd6cnN1cWRmemVsSEFsVk9kVFp4VnhENktyaTFuX21fYW5zTHRwMTQ3OUpWcTkzSUcwcmkyRG9Ic0o0Z25BTjJISHUwbWxNQkQ5WUFTR1lmRmo3ak5kQVg5YW1CcVlzV0JMY2FPLUwyODlmaHVBRWNJMl9rY3JGSXhB?oc=5\" target=\"_blank\">楽天、迎撃用ドローンを手がけるドイツ新興企業と提携…防衛省への納入や国内での量産化も視野に (読売新聞オンライン)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPb3l3U0FDVUpEN1p5cTd6cnN1cWRmemVsSEFsVk9kVFp4VnhENktyaTFuX21fYW5zTHRwMTQ3OUpWcTkzSUcwcmkyRG9Ic0o0Z25BTjJISHUwbWxNQkQ5WUFTR1lmRmo3ak5kQVg5YW1CcVlzV0JMY2FPLUwyODlmaHVBRWNJMl9rY3JGSXhB?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPb3l3U0FDVUpEN1p5cTd6cnN1cWRmemVsSEFsVk9kVFp4VnhENktyaTFuX21fYW5zTHRwMTQ3OUpWcTkzSUcwcmkyRG9Ic0o0Z25BTjJISHUwbWxNQkQ5WUFTR1lmRmo3ak5kQVg5YW1CcVlzV0JMY2FPLUwyODlmaHVBRWNJMl9rY3JGSXhB?oc=5",
+      "publishedAt": "2026-08-17T11:25:39.000Z",
+      "source": "Yahoo!ニュース",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP 政策/実証)",
       "_scoring": {
         "score": 60,
         "categories": [
