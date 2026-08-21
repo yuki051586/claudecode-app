@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-21T17:32:59.236Z",
-  "rawCount": 616,
+  "generatedAt": "2026-08-21T18:42:12.414Z",
+  "rawCount": 615,
   "articles": [
     {
       "title": "Purple UAS Opens Certification Portal for Public Safety Drone Manufacturers",
@@ -13,7 +13,7 @@
       "_feedRegion": "global",
       "_feedName": "Google News (Global)",
       "_scoring": {
-        "score": 97,
+        "score": 92,
         "categories": [
           "規制・政策",
           "事故・事件",
@@ -28,6 +28,47 @@
           "incident": {
             "matches": 1,
             "catScore": 28
+          },
+          "policy": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 15,
+          "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "AV to launch uncrewed aircraft and counter-UAS venture in Greece",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxObkl6VFFNWjhLSHJmZWdaMTZZRC02YjhxMDNxbFRzOWRpNTRJVjM5ZVdUMEdCQk96UmRIY2owX2YxbG1DSXdyeUF2c2FTVkJvaVItRjNKN09kendnU052SUZ3ZFkxMGVtaWViOXR4OG9GV1dFblEyWk9veUxDZFVaUFE3U0xVLXlUeFJnOXJrX1lNb0xFMWxBT1ZlaURBWE5XU2tGNmlrUHA3dno5UGZnc3JmcWQ?oc=5\" target=\"_blank\">AV to launch uncrewed aircraft and counter-UAS venture in Greece</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Military Embedded Systems</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxObkl6VFFNWjhLSHJmZWdaMTZZRC02YjhxMDNxbFRzOWRpNTRJVjM5ZVdUMEdCQk96UmRIY2owX2YxbG1DSXdyeUF2c2FTVkJvaVItRjNKN09kendnU052SUZ3ZFkxMGVtaWViOXR4OG9GV1dFblEyWk9veUxDZFVaUFE3U0xVLXlUeFJnOXJrX1lNb0xFMWxBT1ZlaURBWE5XU2tGNmlrUHA3dno5UGZnc3JmcWQ?oc=5\" target=\"_blank\">AV to launch uncrewed aircraft and counter-UAS venture in Greece</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Military Embedded Systems</font>",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObkl6VFFNWjhLSHJmZWdaMTZZRC02YjhxMDNxbFRzOWRpNTRJVjM5ZVdUMEdCQk96UmRIY2owX2YxbG1DSXdyeUF2c2FTVkJvaVItRjNKN09kendnU052SUZ3ZFkxMGVtaWViOXR4OG9GV1dFblEyWk9veUxDZFVaUFE3U0xVLXlUeFJnOXJrX1lNb0xFMWxBT1ZlaURBWE5XU2tGNmlrUHA3dno5UGZnc3JmcWQ?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObkl6VFFNWjhLSHJmZWdaMTZZRC02YjhxMDNxbFRzOWRpNTRJVjM5ZVdUMEdCQk96UmRIY2owX2YxbG1DSXdyeUF2c2FTVkJvaVItRjNKN09kendnU052SUZ3ZFkxMGVtaWViOXR4OG9GV1dFblEyWk9veUxDZFVaUFE3U0xVLXlUeFJnOXJrX1lNb0xFMWxBT1ZlaURBWE5XU2tGNmlrUHA3dno5UGZnc3JmcWQ?oc=5",
+      "publishedAt": "2026-08-21T18:36:41.000Z",
+      "source": "Military Embedded Systems",
+      "_feedRegion": "global",
+      "_feedName": "Google News (Global)",
+      "_scoring": {
+        "score": 84,
+        "categories": [
+          "技術・製品",
+          "市場・資金",
+          "政策・インフラ"
+        ],
+        "breakdown": {
+          "required": true,
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "market": {
+            "matches": 1,
+            "catScore": 20
           },
           "policy": {
             "matches": 1,
@@ -167,20 +208,20 @@
       }
     },
     {
-      "title": "9月1日まで申請受付/航空局の空飛ぶクルマ社会実装環境整備検討",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE9TRk9LU1ZCOEZsVjVwQVk4cEVNc3VBMExnLTc0TmRKYUo5cFhpSS1Kc1BKYUhNaGVNVllKT3NqUlA3RHdZMmxqbEhYdFdWN0MtckJHNDJ5TkY?oc=5\" target=\"_blank\">9月1日まで申請受付/航空局の空飛ぶクルマ社会実装環境整備検討</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">建設通信新聞Digital</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE9TRk9LU1ZCOEZsVjVwQVk4cEVNc3VBMExnLTc0TmRKYUo5cFhpSS1Kc1BKYUhNaGVNVllKT3NqUlA3RHdZMmxqbEhYdFdWN0MtckJHNDJ5TkY?oc=5\" target=\"_blank\">9月1日まで申請受付/航空局の空飛ぶクルマ社会実装環境整備検討</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">建設通信新聞Digital</font>",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9TRk9LU1ZCOEZsVjVwQVk4cEVNc3VBMExnLTc0TmRKYUo5cFhpSS1Kc1BKYUhNaGVNVllKT3NqUlA3RHdZMmxqbEhYdFdWN0MtckJHNDJ5TkY?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9TRk9LU1ZCOEZsVjVwQVk4cEVNc3VBMExnLTc0TmRKYUo5cFhpSS1Kc1BKYUhNaGVNVllKT3NqUlA3RHdZMmxqbEhYdFdWN0MtckJHNDJ5TkY?oc=5",
-      "publishedAt": "2026-08-19T23:40:46.000Z",
-      "source": "建設通信新聞Digital",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP 政策/実証)",
+      "title": "BVLOS Goes Global: How Seven Aviation Regulators Are Building Commercial Drone Airspace",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUnNKMk5NTjJGNUVGNnpZT3ZaaE8yZjlMelp2Rm1vS1BVSmg1MU15SVZSVVpYaXJxVmd3eXdpdzNRZGNNaTlDVVptcHluVG4xOVJrTzFsT3lQQUVtNEQ4dktuUVM2Z3VPb0dVbEo0Mnd5ajN3R1NXRW9idzhjSnE4NzVreWN2eWxD?oc=5\" target=\"_blank\">BVLOS Goes Global: How Seven Aviation Regulators Are Building Commercial Drone Airspace</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Commercial UAV News</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUnNKMk5NTjJGNUVGNnpZT3ZaaE8yZjlMelp2Rm1vS1BVSmg1MU15SVZSVVpYaXJxVmd3eXdpdzNRZGNNaTlDVVptcHluVG4xOVJrTzFsT3lQQUVtNEQ4dktuUVM2Z3VPb0dVbEo0Mnd5ajN3R1NXRW9idzhjSnE4NzVreWN2eWxD?oc=5\" target=\"_blank\">BVLOS Goes Global: How Seven Aviation Regulators Are Building Commercial Drone Airspace</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Commercial UAV News</font>",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUnNKMk5NTjJGNUVGNnpZT3ZaaE8yZjlMelp2Rm1vS1BVSmg1MU15SVZSVVpYaXJxVmd3eXdpdzNRZGNNaTlDVVptcHluVG4xOVJrTzFsT3lQQUVtNEQ4dktuUVM2Z3VPb0dVbEo0Mnd5ajN3R1NXRW9idzhjSnE4NzVreWN2eWxD?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUnNKMk5NTjJGNUVGNnpZT3ZaaE8yZjlMelp2Rm1vS1BVSmg1MU15SVZSVVpYaXJxVmd3eXdpdzNRZGNNaTlDVVptcHluVG4xOVJrTzFsT3lQQUVtNEQ4dktuUVM2Z3VPb0dVbEo0Mnd5ajN3R1NXRW9idzhjSnE4NzVreWN2eWxD?oc=5",
+      "publishedAt": "2026-08-21T18:08:31.000Z",
+      "source": "Commercial UAV News",
+      "_feedRegion": "global",
+      "_feedName": "Google News (Global)",
       "_scoring": {
-        "score": 75,
+        "score": 72,
         "categories": [
           "規制・政策",
-          "政策・インフラ"
+          "市場・資金"
         ],
         "breakdown": {
           "required": true,
@@ -188,17 +229,16 @@
             "matches": 1,
             "catScore": 32
           },
-          "policy": {
+          "market": {
             "matches": 1,
-            "catScore": 24
+            "catScore": 20
           },
           "sourceTrust": {
             "domain": "news.google.com",
             "multiplier": 0.8
           },
-          "freshness": 5,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
+          "freshness": 20,
+          "titleBonus": 10
         },
         "pass": true
       }
@@ -328,7 +368,44 @@
       "content": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQUUpnUFMxaWVPSDR2WUloeXZRS3ZzVmhWTFBYMXQ2bVBvbWdiZndncFNBNWpOd2RBYXl3LW55eE5KZXc3X0ZTM2RsUWNIZERPam8za25tWld4Y0tHWC03RmVDT3FiZEx4eEFaUS1feXJpbXBXV1Z2TVpVSWEwMDhwVHU1V0lzYjNpMEpzdWRCd09fNFRFcDNuaGhEZUlob2FjbzY4bg?oc=5\" target=\"_blank\">民間航空局は、タンソンニャット空港付近での無人航空機の違法出現についてコメントを発表した。</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Vietnam.vn</font>",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUUpnUFMxaWVPSDR2WUloeXZRS3ZzVmhWTFBYMXQ2bVBvbWdiZndncFNBNWpOd2RBYXl3LW55eE5KZXc3X0ZTM2RsUWNIZERPam8za25tWld4Y0tHWC03RmVDT3FiZEx4eEFaUS1feXJpbXBXV1Z2TVpVSWEwMDhwVHU1V0lzYjNpMEpzdWRCd09fNFRFcDNuaGhEZUlob2FjbzY4bg?oc=5",
       "googleNewsUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUUpnUFMxaWVPSDR2WUloeXZRS3ZzVmhWTFBYMXQ2bVBvbWdiZndncFNBNWpOd2RBYXl3LW55eE5KZXc3X0ZTM2RsUWNIZERPam8za25tWld4Y0tHWC03RmVDT3FiZEx4eEFaUS1feXJpbXBXV1Z2TVpVSWEwMDhwVHU1V0lzYjNpMEpzdWRCd09fNFRFcDNuaGhEZUlob2FjbzY4bg?oc=5",
-      "publishedAt": "2026-08-12T07:00:00.000Z",
+      "publishedAt": "2026-08-12T14:19:47.000Z",
+      "source": "Vietnam.vn",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP 政策/実証)",
+      "_scoring": {
+        "score": 70,
+        "categories": [
+          "規制・政策",
+          "政策・インフラ"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
+          "policy": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 0,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "民間航空局は、空港における無人航空機（UAV）の探知および抑制システムへの投資を提案している。",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOcDc5MzZabVJJUF9ES2RTeVN3SVVpSFBjRmI5MTdaNVJsMGNuU2FHUFYycDFyck93T0dzVXpnS1M5UzBNa21iN0RwUHRvYmR3TTk4SzNIUmR5OHRobUZ2YTVzRHZ0WEpYUzUwa01BYzliU2s2S1lGT1pLTFJZQjhxcW11R0RFem5oSGNsZW5yWlNMYUc5M1F1NlZTZXo2dw?oc=5\" target=\"_blank\">民間航空局は、空港における無人航空機（UAV）の探知および抑制システムへの投資を提案している。</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Vietnam.vn</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOcDc5MzZabVJJUF9ES2RTeVN3SVVpSFBjRmI5MTdaNVJsMGNuU2FHUFYycDFyck93T0dzVXpnS1M5UzBNa21iN0RwUHRvYmR3TTk4SzNIUmR5OHRobUZ2YTVzRHZ0WEpYUzUwa01BYzliU2s2S1lGT1pLTFJZQjhxcW11R0RFem5oSGNsZW5yWlNMYUc5M1F1NlZTZXo2dw?oc=5\" target=\"_blank\">民間航空局は、空港における無人航空機（UAV）の探知および抑制システムへの投資を提案している。</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Vietnam.vn</font>",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcDc5MzZabVJJUF9ES2RTeVN3SVVpSFBjRmI5MTdaNVJsMGNuU2FHUFYycDFyck93T0dzVXpnS1M5UzBNa21iN0RwUHRvYmR3TTk4SzNIUmR5OHRobUZ2YTVzRHZ0WEpYUzUwa01BYzliU2s2S1lGT1pLTFJZQjhxcW11R0RFem5oSGNsZW5yWlNMYUc5M1F1NlZTZXo2dw?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcDc5MzZabVJJUF9ES2RTeVN3SVVpSFBjRmI5MTdaNVJsMGNuU2FHUFYycDFyck93T0dzVXpnS1M5UzBNa21iN0RwUHRvYmR3TTk4SzNIUmR5OHRobUZ2YTVzRHZ0WEpYUzUwa01BYzliU2s2S1lGT1pLTFJZQjhxcW11R0RFem5oSGNsZW5yWlNMYUc5M1F1NlZTZXo2dw?oc=5",
+      "publishedAt": "2026-08-12T13:27:21.000Z",
       "source": "Vietnam.vn",
       "_feedRegion": "jp",
       "_feedName": "Google News (JP 政策/実証)",
@@ -397,11 +474,11 @@
       }
     },
     {
-      "title": "民間航空局は、空港における無人航空機（UAV）の探知および抑制システムへの投資を提案している。",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOcDc5MzZabVJJUF9ES2RTeVN3SVVpSFBjRmI5MTdaNVJsMGNuU2FHUFYycDFyck93T0dzVXpnS1M5UzBNa21iN0RwUHRvYmR3TTk4SzNIUmR5OHRobUZ2YTVzRHZ0WEpYUzUwa01BYzliU2s2S1lGT1pLTFJZQjhxcW11R0RFem5oSGNsZW5yWlNMYUc5M1F1NlZTZXo2dw?oc=5\" target=\"_blank\">民間航空局は、空港における無人航空機（UAV）の探知および抑制システムへの投資を提案している。</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Vietnam.vn</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOcDc5MzZabVJJUF9ES2RTeVN3SVVpSFBjRmI5MTdaNVJsMGNuU2FHUFYycDFyck93T0dzVXpnS1M5UzBNa21iN0RwUHRvYmR3TTk4SzNIUmR5OHRobUZ2YTVzRHZ0WEpYUzUwa01BYzliU2s2S1lGT1pLTFJZQjhxcW11R0RFem5oSGNsZW5yWlNMYUc5M1F1NlZTZXo2dw?oc=5\" target=\"_blank\">民間航空局は、空港における無人航空機（UAV）の探知および抑制システムへの投資を提案している。</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Vietnam.vn</font>",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcDc5MzZabVJJUF9ES2RTeVN3SVVpSFBjRmI5MTdaNVJsMGNuU2FHUFYycDFyck93T0dzVXpnS1M5UzBNa21iN0RwUHRvYmR3TTk4SzNIUmR5OHRobUZ2YTVzRHZ0WEpYUzUwa01BYzliU2s2S1lGT1pLTFJZQjhxcW11R0RFem5oSGNsZW5yWlNMYUc5M1F1NlZTZXo2dw?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcDc5MzZabVJJUF9ES2RTeVN3SVVpSFBjRmI5MTdaNVJsMGNuU2FHUFYycDFyck93T0dzVXpnS1M5UzBNa21iN0RwUHRvYmR3TTk4SzNIUmR5OHRobUZ2YTVzRHZ0WEpYUzUwa01BYzliU2s2S1lGT1pLTFJZQjhxcW11R0RFem5oSGNsZW5yWlNMYUc5M1F1NlZTZXo2dw?oc=5",
+      "title": "ベトナム民間航空局が空港での無人航空機の目撃情報に対応。",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPdkhWT2FMZVRIYWJscXhkdkJZQmFvVm5iQnA0WnBXTlFpRGhyQTk5SThZTHBPeEZ0VFEyeE4zODd3ZVRnLXlaUFctbmNwcHFPOUtHWWozNEc3U3hRN0lWQTNvMkZZWUlUZE5qRFdLajA4aW1Ja1Vkc1c2dUFUZkhfaGM1QTF1N0c2SWdrenRYSW0?oc=5\" target=\"_blank\">ベトナム民間航空局が空港での無人航空機の目撃情報に対応。</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Vietnam.vn</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPdkhWT2FMZVRIYWJscXhkdkJZQmFvVm5iQnA0WnBXTlFpRGhyQTk5SThZTHBPeEZ0VFEyeE4zODd3ZVRnLXlaUFctbmNwcHFPOUtHWWozNEc3U3hRN0lWQTNvMkZZWUlUZE5qRFdLajA4aW1Ja1Vkc1c2dUFUZkhfaGM1QTF1N0c2SWdrenRYSW0?oc=5\" target=\"_blank\">ベトナム民間航空局が空港での無人航空機の目撃情報に対応。</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Vietnam.vn</font>",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdkhWT2FMZVRIYWJscXhkdkJZQmFvVm5iQnA0WnBXTlFpRGhyQTk5SThZTHBPeEZ0VFEyeE4zODd3ZVRnLXlaUFctbmNwcHFPOUtHWWozNEc3U3hRN0lWQTNvMkZZWUlUZE5qRFdLajA4aW1Ja1Vkc1c2dUFUZkhfaGM1QTF1N0c2SWdrenRYSW0?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdkhWT2FMZVRIYWJscXhkdkJZQmFvVm5iQnA0WnBXTlFpRGhyQTk5SThZTHBPeEZ0VFEyeE4zODd3ZVRnLXlaUFctbmNwcHFPOUtHWWozNEc3U3hRN0lWQTNvMkZZWUlUZE5qRFdLajA4aW1Ja1Vkc1c2dUFUZkhfaGM1QTF1N0c2SWdrenRYSW0?oc=5",
       "publishedAt": "2026-08-12T07:00:00.000Z",
       "source": "Vietnam.vn",
       "_feedRegion": "jp",
@@ -443,42 +520,6 @@
       "source": "TechSpot",
       "_feedRegion": "us",
       "_feedName": "FAA",
-      "_scoring": {
-        "score": 67,
-        "categories": [
-          "規制・政策",
-          "市場・資金"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 1,
-            "catScore": 32
-          },
-          "market": {
-            "matches": 1,
-            "catScore": 20
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 15,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "BVLOS Goes Global: How Seven Aviation Regulators Are Building Commercial Drone Airspace",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUnNKMk5NTjJGNUVGNnpZT3ZaaE8yZjlMelp2Rm1vS1BVSmg1MU15SVZSVVpYaXJxVmd3eXdpdzNRZGNNaTlDVVptcHluVG4xOVJrTzFsT3lQQUVtNEQ4dktuUVM2Z3VPb0dVbEo0Mnd5ajN3R1NXRW9idzhjSnE4NzVreWN2eWxD?oc=5\" target=\"_blank\">BVLOS Goes Global: How Seven Aviation Regulators Are Building Commercial Drone Airspace</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Commercial UAV News</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUnNKMk5NTjJGNUVGNnpZT3ZaaE8yZjlMelp2Rm1vS1BVSmg1MU15SVZSVVpYaXJxVmd3eXdpdzNRZGNNaTlDVVptcHluVG4xOVJrTzFsT3lQQUVtNEQ4dktuUVM2Z3VPb0dVbEo0Mnd5ajN3R1NXRW9idzhjSnE4NzVreWN2eWxD?oc=5\" target=\"_blank\">BVLOS Goes Global: How Seven Aviation Regulators Are Building Commercial Drone Airspace</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Commercial UAV News</font>",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUnNKMk5NTjJGNUVGNnpZT3ZaaE8yZjlMelp2Rm1vS1BVSmg1MU15SVZSVVpYaXJxVmd3eXdpdzNRZGNNaTlDVVptcHluVG4xOVJrTzFsT3lQQUVtNEQ4dktuUVM2Z3VPb0dVbEo0Mnd5ajN3R1NXRW9idzhjSnE4NzVreWN2eWxD?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUnNKMk5NTjJGNUVGNnpZT3ZaaE8yZjlMelp2Rm1vS1BVSmg1MU15SVZSVVpYaXJxVmd3eXdpdzNRZGNNaTlDVVptcHluVG4xOVJrTzFsT3lQQUVtNEQ4dktuUVM2Z3VPb0dVbEo0Mnd5ajN3R1NXRW9idzhjSnE4NzVreWN2eWxD?oc=5",
-      "publishedAt": "2026-08-21T12:30:53.000Z",
-      "source": "Commercial UAV News",
-      "_feedRegion": "global",
-      "_feedName": "Google News (Global)",
       "_scoring": {
         "score": 67,
         "categories": [
@@ -1055,15 +1096,15 @@
       }
     },
     {
-      "title": "Autonomy HD、次世代の「Surveyor」シリーズを公開。係留型ハイブリッド機と半固体電池採用の重量物搬送機 [国際ドローン展2026]",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE1zdno1dnZzdEpHcFNlN0J5bGxlc0tVT3BsSHVXeDhpclllZXlvY3p1MWM2MUFPSVNNLTRsdHYxVHUyOUZkOVVNZnltSDRXRl9VdlJDanVFLXNBUTRJS3dv?oc=5\" target=\"_blank\">Autonomy HD、次世代の「Surveyor」シリーズを公開。係留型ハイブリッド機と半固体電池採用の重量物搬送機 [国際ドローン展2026]</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DRONE.jp</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE1zdno1dnZzdEpHcFNlN0J5bGxlc0tVT3BsSHVXeDhpclllZXlvY3p1MWM2MUFPSVNNLTRsdHYxVHUyOUZkOVVNZnltSDRXRl9VdlJDanVFLXNBUTRJS3dv?oc=5\" target=\"_blank\">Autonomy HD、次世代の「Surveyor」シリーズを公開。係留型ハイブリッド機と半固体電池採用の重量物搬送機 [国際ドローン展2026]</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DRONE.jp</font>",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1zdno1dnZzdEpHcFNlN0J5bGxlc0tVT3BsSHVXeDhpclllZXlvY3p1MWM2MUFPSVNNLTRsdHYxVHUyOUZkOVVNZnltSDRXRl9VdlJDanVFLXNBUTRJS3dv?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1zdno1dnZzdEpHcFNlN0J5bGxlc0tVT3BsSHVXeDhpclllZXlvY3p1MWM2MUFPSVNNLTRsdHYxVHUyOUZkOVVNZnltSDRXRl9VdlJDanVFLXNBUTRJS3dv?oc=5",
-      "publishedAt": "2026-07-17T07:13:53.000Z",
-      "source": "DRONE.jp",
+      "title": "防衛装備庁「迎撃ドローン早期取得プログラム」にテラドローンが採択、国産機で量産調達を目指す",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFA0T1AwbGdzcWk4blJmMXg3NDFtWFpfYW54UGJXWFJoVEdTVGwzOWh4c09VNExEa3piWVdMVkFTUVJlaWp4ZzB4Q042LUw1Z3VjdFl3b3BwNlFKVVRyTS1iX2xlS1JCTW8xMmc?oc=5\" target=\"_blank\">防衛装備庁「迎撃ドローン早期取得プログラム」にテラドローンが採択、国産機で量産調達を目指す</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ドローンジャーナル</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFA0T1AwbGdzcWk4blJmMXg3NDFtWFpfYW54UGJXWFJoVEdTVGwzOWh4c09VNExEa3piWVdMVkFTUVJlaWp4ZzB4Q042LUw1Z3VjdFl3b3BwNlFKVVRyTS1iX2xlS1JCTW8xMmc?oc=5\" target=\"_blank\">防衛装備庁「迎撃ドローン早期取得プログラム」にテラドローンが採択、国産機で量産調達を目指す</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ドローンジャーナル</font>",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA0T1AwbGdzcWk4blJmMXg3NDFtWFpfYW54UGJXWFJoVEdTVGwzOWh4c09VNExEa3piWVdMVkFTUVJlaWp4ZzB4Q042LUw1Z3VjdFl3b3BwNlFKVVRyTS1iX2xlS1JCTW8xMmc?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA0T1AwbGdzcWk4blJmMXg3NDFtWFpfYW54UGJXWFJoVEdTVGwzOWh4c09VNExEa3piWVdMVkFTUVJlaWp4ZzB4Q042LUw1Z3VjdFl3b3BwNlFKVVRyTS1iX2xlS1JCTW8xMmc?oc=5",
+      "publishedAt": "2026-08-04T07:00:00.000Z",
+      "source": "ドローンジャーナル",
       "_feedRegion": "jp",
-      "_feedName": "Google News (JP ドローン専門)",
+      "_feedName": "Google News (JP 経済メディア)",
       "_scoring": {
         "score": 60,
         "categories": [
@@ -1087,42 +1128,6 @@
           "freshness": 0,
           "titleBonus": 10,
           "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "Powerus Secures $22.3 Million Middle East Counter-UAS Contract for Critical Energy Infrastructure",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNSlFwWE9kdXFTUWVHVXNFa2JubnJ1Y2ZvdDZ0U2NpOHhsbWNITGNlZGRRXzMyX21VSUpyaXpwajRWczdrWFRuUEFvc2Q1X0hXNDJNaFhmYTFDc1JTemZyNmJoWTAxdUNqVndJTU5pajU5SkZmRzdlenN1RVYzS1Ita1RwUkg5Y3VZVTZGSUhYSGw0WGtUT1JqZ2d1QU5IZ3hfVVlqWXQ1X1l3RExjbnZUS3pkbjlhQ3VRcndXUDVtRGtlV19iSktSUUdsQk8?oc=5\" target=\"_blank\">Powerus Secures $22.3 Million Middle East Counter-UAS Contract for Critical Energy Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quiver Quantitative</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNSlFwWE9kdXFTUWVHVXNFa2JubnJ1Y2ZvdDZ0U2NpOHhsbWNITGNlZGRRXzMyX21VSUpyaXpwajRWczdrWFRuUEFvc2Q1X0hXNDJNaFhmYTFDc1JTemZyNmJoWTAxdUNqVndJTU5pajU5SkZmRzdlenN1RVYzS1Ita1RwUkg5Y3VZVTZGSUhYSGw0WGtUT1JqZ2d1QU5IZ3hfVVlqWXQ1X1l3RExjbnZUS3pkbjlhQ3VRcndXUDVtRGtlV19iSktSUUdsQk8?oc=5\" target=\"_blank\">Powerus Secures $22.3 Million Middle East Counter-UAS Contract for Critical Energy Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quiver Quantitative</font>",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSlFwWE9kdXFTUWVHVXNFa2JubnJ1Y2ZvdDZ0U2NpOHhsbWNITGNlZGRRXzMyX21VSUpyaXpwajRWczdrWFRuUEFvc2Q1X0hXNDJNaFhmYTFDc1JTemZyNmJoWTAxdUNqVndJTU5pajU5SkZmRzdlenN1RVYzS1Ita1RwUkg5Y3VZVTZGSUhYSGw0WGtUT1JqZ2d1QU5IZ3hfVVlqWXQ1X1l3RExjbnZUS3pkbjlhQ3VRcndXUDVtRGtlV19iSktSUUdsQk8?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSlFwWE9kdXFTUWVHVXNFa2JubnJ1Y2ZvdDZ0U2NpOHhsbWNITGNlZGRRXzMyX21VSUpyaXpwajRWczdrWFRuUEFvc2Q1X0hXNDJNaFhmYTFDc1JTemZyNmJoWTAxdUNqVndJTU5pajU5SkZmRzdlenN1RVYzS1Ita1RwUkg5Y3VZVTZGSUhYSGw0WGtUT1JqZ2d1QU5IZ3hfVVlqWXQ1X1l3RExjbnZUS3pkbjlhQ3VRcndXUDVtRGtlV19iSktSUUdsQk8?oc=5",
-      "publishedAt": "2026-08-20T19:20:00.000Z",
-      "source": "Quiver Quantitative",
-      "_feedRegion": "global",
-      "_feedName": "Google News (Global)",
-      "_scoring": {
-        "score": 59,
-        "categories": [
-          "市場・資金",
-          "政策・インフラ"
-        ],
-        "breakdown": {
-          "required": true,
-          "market": {
-            "matches": 2,
-            "catScore": 25
-          },
-          "policy": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 10,
-          "titleBonus": 10
         },
         "pass": true
       }
