@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T12:56:06.054Z",
+  "generatedAt": "2026-08-21T13:50:15.608Z",
   "rawCount": 618,
   "articles": [
     {
@@ -158,6 +158,42 @@
           "freshness": 5,
           "titleBonus": 10,
           "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "Drones could be banned over most public spaces in this Colorado city, but the FAA may stand in the way",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOOWdVaXZGTTVkQ3ZXTmQ1dTZYZXl1SnJmaHM4OVNGbG5ySHVfdk5tUS1KS09TT2N2SEZGN2txd3FNTmJfN3VlUVhUZ3FEekF1VzNIY3FNbk5uMUZVdG1IT1pybGRBVHdMTjdNcFlLX250VzB4ekpIbzduVFRsRk1wQ3FiOGtfeG53Vk5TTm8wcnJGMWtWVm40blRn?oc=5\" target=\"_blank\">Drones could be banned over most public spaces in this Colorado city, but the FAA may stand in the way</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechSpot</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOOWdVaXZGTTVkQ3ZXTmQ1dTZYZXl1SnJmaHM4OVNGbG5ySHVfdk5tUS1KS09TT2N2SEZGN2txd3FNTmJfN3VlUVhUZ3FEekF1VzNIY3FNbk5uMUZVdG1IT1pybGRBVHdMTjdNcFlLX250VzB4ekpIbzduVFRsRk1wQ3FiOGtfeG53Vk5TTm8wcnJGMWtWVm40blRn?oc=5\" target=\"_blank\">Drones could be banned over most public spaces in this Colorado city, but the FAA may stand in the way</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechSpot</font>",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOWdVaXZGTTVkQ3ZXTmQ1dTZYZXl1SnJmaHM4OVNGbG5ySHVfdk5tUS1KS09TT2N2SEZGN2txd3FNTmJfN3VlUVhUZ3FEekF1VzNIY3FNbk5uMUZVdG1IT1pybGRBVHdMTjdNcFlLX250VzB4ekpIbzduVFRsRk1wQ3FiOGtfeG53Vk5TTm8wcnJGMWtWVm40blRn?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOWdVaXZGTTVkQ3ZXTmQ1dTZYZXl1SnJmaHM4OVNGbG5ySHVfdk5tUS1KS09TT2N2SEZGN2txd3FNTmJfN3VlUVhUZ3FEekF1VzNIY3FNbk5uMUZVdG1IT1pybGRBVHdMTjdNcFlLX250VzB4ekpIbzduVFRsRk1wQ3FiOGtfeG53Vk5TTm8wcnJGMWtWVm40blRn?oc=5",
+      "publishedAt": "2026-08-21T13:39:00.000Z",
+      "source": "TechSpot",
+      "_feedRegion": "us",
+      "_feedName": "FAA",
+      "_scoring": {
+        "score": 72,
+        "categories": [
+          "規制・政策",
+          "市場・資金"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
+          "market": {
+            "matches": 1,
+            "catScore": 20
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 20,
+          "titleBonus": 10
         },
         "pass": true
       }
@@ -539,7 +575,43 @@
       "content": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxQYUdlVWFQVmZKcFNlYVUtZE51a3YxSXBvWDRxcHJUR2kycHlKZUx1d29zeUhXLURrVklhOTV6VWs0MDE1SlcxSXpzWjBRelRINWE3VHFfSUNmSExRaUpRbGZSM3BWaU8zUndTYVM4QmRIamd4WmdCZU9sMHNYRnExeEsxTWJHQmM2VE5xZDNNSmZ2NHlRNlBhZk14M3R0UTN2TzVVRG4tTWxPb1NqQjNleTBFdFhMTFVFcXRoVjJNU1Zfc05oNEhtMVJRUnRxRkUtalkwOUVMM1lyZ1IxZ2tqYmdrTQ?oc=5\" target=\"_blank\">Swarmer teams up with Vectus Air Defense Systems to develop layered C-UAS systems</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQYUdlVWFQVmZKcFNlYVUtZE51a3YxSXBvWDRxcHJUR2kycHlKZUx1d29zeUhXLURrVklhOTV6VWs0MDE1SlcxSXpzWjBRelRINWE3VHFfSUNmSExRaUpRbGZSM3BWaU8zUndTYVM4QmRIamd4WmdCZU9sMHNYRnExeEsxTWJHQmM2VE5xZDNNSmZ2NHlRNlBhZk14M3R0UTN2TzVVRG4tTWxPb1NqQjNleTBFdFhMTFVFcXRoVjJNU1Zfc05oNEhtMVJRUnRxRkUtalkwOUVMM1lyZ1IxZ2tqYmdrTQ?oc=5",
       "googleNewsUrl": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQYUdlVWFQVmZKcFNlYVUtZE51a3YxSXBvWDRxcHJUR2kycHlKZUx1d29zeUhXLURrVklhOTV6VWs0MDE1SlcxSXpzWjBRelRINWE3VHFfSUNmSExRaUpRbGZSM3BWaU8zUndTYVM4QmRIamd4WmdCZU9sMHNYRnExeEsxTWJHQmM2VE5xZDNNSmZ2NHlRNlBhZk14M3R0UTN2TzVVRG4tTWxPb1NqQjNleTBFdFhMTFVFcXRoVjJNU1Zfc05oNEhtMVJRUnRxRkUtalkwOUVMM1lyZ1IxZ2tqYmdrTQ?oc=5",
-      "publishedAt": "2026-08-21T12:36:07.000Z",
+      "publishedAt": "2026-08-21T12:35:52.000Z",
+      "source": "Unmanned airspace",
+      "_feedRegion": "global",
+      "_feedName": "Google News (Global)",
+      "_scoring": {
+        "score": 65,
+        "categories": [
+          "市場・資金",
+          "政策・インフラ"
+        ],
+        "breakdown": {
+          "required": true,
+          "market": {
+            "matches": 1,
+            "catScore": 20
+          },
+          "policy": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 20,
+          "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "Powerus to protect oil and gas infrastructure in the Middle East from UAS threats",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxPVDZPcHZZY1BBUDI3TkJ4WVVyZi1oaWc1OFlwS2FNZnVZeGlQZWlFWXZmQ3Zvb3Zwd3J5Rjg5MEtfS09tU1p2S3R6eHVDV3pPTUEyWE5wcERSX19JYkxSaDFjR29nZEc4MWgydkdrUzJDejZZYjN0OVFCTkwzdWYzUGFmaUMwejBTWGd0Q05kYzJfT3NqLXdMWDMxRFJLeS1FaVdsV1cxNFI1ckRuV0pRb1RhMzhtVFp5YzBFVXVaVU5qNy1ZcVNXaG9NaXlOcFhWeGxZZl9NRWNldGg4OE4xeUliMA?oc=5\" target=\"_blank\">Powerus to protect oil and gas infrastructure in the Middle East from UAS threats</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxPVDZPcHZZY1BBUDI3TkJ4WVVyZi1oaWc1OFlwS2FNZnVZeGlQZWlFWXZmQ3Zvb3Zwd3J5Rjg5MEtfS09tU1p2S3R6eHVDV3pPTUEyWE5wcERSX19JYkxSaDFjR29nZEc4MWgydkdrUzJDejZZYjN0OVFCTkwzdWYzUGFmaUMwejBTWGd0Q05kYzJfT3NqLXdMWDMxRFJLeS1FaVdsV1cxNFI1ckRuV0pRb1RhMzhtVFp5YzBFVXVaVU5qNy1ZcVNXaG9NaXlOcFhWeGxZZl9NRWNldGg4OE4xeUliMA?oc=5\" target=\"_blank\">Powerus to protect oil and gas infrastructure in the Middle East from UAS threats</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPVDZPcHZZY1BBUDI3TkJ4WVVyZi1oaWc1OFlwS2FNZnVZeGlQZWlFWXZmQ3Zvb3Zwd3J5Rjg5MEtfS09tU1p2S3R6eHVDV3pPTUEyWE5wcERSX19JYkxSaDFjR29nZEc4MWgydkdrUzJDejZZYjN0OVFCTkwzdWYzUGFmaUMwejBTWGd0Q05kYzJfT3NqLXdMWDMxRFJLeS1FaVdsV1cxNFI1ckRuV0pRb1RhMzhtVFp5YzBFVXVaVU5qNy1ZcVNXaG9NaXlOcFhWeGxZZl9NRWNldGg4OE4xeUliMA?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPVDZPcHZZY1BBUDI3TkJ4WVVyZi1oaWc1OFlwS2FNZnVZeGlQZWlFWXZmQ3Zvb3Zwd3J5Rjg5MEtfS09tU1p2S3R6eHVDV3pPTUEyWE5wcERSX19JYkxSaDFjR29nZEc4MWgydkdrUzJDejZZYjN0OVFCTkwzdWYzUGFmaUMwejBTWGd0Q05kYzJfT3NqLXdMWDMxRFJLeS1FaVdsV1cxNFI1ckRuV0pRb1RhMzhtVFp5YzBFVXVaVU5qNy1ZcVNXaG9NaXlOcFhWeGxZZl9NRWNldGg4OE4xeUliMA?oc=5",
+      "publishedAt": "2026-08-21T12:13:21.000Z",
       "source": "Unmanned airspace",
       "_feedRegion": "global",
       "_feedName": "Google News (Global)",
@@ -606,41 +678,6 @@
           },
           "freshness": 0,
           "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "FOCA authorises Swisscom Broadcast for BVLOS SAIL III test flights at night",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcmhac2hhMGxKWmFUd055MGQyZE9jMFZfUl9NMVN4djllWGpzTEFyaEtrWHRwV1czdjFNOUd6TDF5cHVIN2F2Y3g3OF9LcEpvSDBQQ3dMQnJPTUxLNkEyZ3FlN2dYaGlub1JpNVhzNGEyRC11UFhmNXBvUmNpOEVSLWFYX0JESS1vWFc1QTBIS1UzaXRhLWFMbnJXSVRTd0NJMFp6UUxzY0k1Uk1ZQ1JnNTBsWmp0bXZPRW1rcU03b3AyUQ?oc=5\" target=\"_blank\">FOCA authorises Swisscom Broadcast for BVLOS SAIL III test flights at night</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcmhac2hhMGxKWmFUd055MGQyZE9jMFZfUl9NMVN4djllWGpzTEFyaEtrWHRwV1czdjFNOUd6TDF5cHVIN2F2Y3g3OF9LcEpvSDBQQ3dMQnJPTUxLNkEyZ3FlN2dYaGlub1JpNVhzNGEyRC11UFhmNXBvUmNpOEVSLWFYX0JESS1vWFc1QTBIS1UzaXRhLWFMbnJXSVRTd0NJMFp6UUxzY0k1Uk1ZQ1JnNTBsWmp0bXZPRW1rcU03b3AyUQ?oc=5\" target=\"_blank\">FOCA authorises Swisscom Broadcast for BVLOS SAIL III test flights at night</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcmhac2hhMGxKWmFUd055MGQyZE9jMFZfUl9NMVN4djllWGpzTEFyaEtrWHRwV1czdjFNOUd6TDF5cHVIN2F2Y3g3OF9LcEpvSDBQQ3dMQnJPTUxLNkEyZ3FlN2dYaGlub1JpNVhzNGEyRC11UFhmNXBvUmNpOEVSLWFYX0JESS1vWFc1QTBIS1UzaXRhLWFMbnJXSVRTd0NJMFp6UUxzY0k1Uk1ZQ1JnNTBsWmp0bXZPRW1rcU03b3AyUQ?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcmhac2hhMGxKWmFUd055MGQyZE9jMFZfUl9NMVN4djllWGpzTEFyaEtrWHRwV1czdjFNOUd6TDF5cHVIN2F2Y3g3OF9LcEpvSDBQQ3dMQnJPTUxLNkEyZ3FlN2dYaGlub1JpNVhzNGEyRC11UFhmNXBvUmNpOEVSLWFYX0JESS1vWFc1QTBIS1UzaXRhLWFMbnJXSVRTd0NJMFp6UUxzY0k1Uk1ZQ1JnNTBsWmp0bXZPRW1rcU03b3AyUQ?oc=5",
-      "publishedAt": "2026-08-21T10:36:28.000Z",
-      "source": "Unmanned airspace",
-      "_feedRegion": "global",
-      "_feedName": "Google News (Global)",
-      "_scoring": {
-        "score": 62,
-        "categories": [
-          "規制・政策",
-          "市場・資金"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 1,
-            "catScore": 32
-          },
-          "market": {
-            "matches": 1,
-            "catScore": 20
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 20
         },
         "pass": true
       }
@@ -754,12 +791,12 @@
     },
     {
       "title": "楽天、迎撃用ドローンを手がけるドイツ新興企業と提携…防衛省への納入や国内での量産化も視野に",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5uQXhraFBFNDRkRVE4d2djWGJZaV9tM3Q5SGNyOEsxc2NRQm1weHdWWjdaWUtqUDJWZjF5d3V6NURmTTB0QThuTU5tbTlENDFwaTdhbzg3bGIwdnV3bTZNaWh2bVY?oc=5\" target=\"_blank\">楽天、迎撃用ドローンを手がけるドイツ新興企業と提携…防衛省への納入や国内での量産化も視野に</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">読売新聞</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5uQXhraFBFNDRkRVE4d2djWGJZaV9tM3Q5SGNyOEsxc2NRQm1weHdWWjdaWUtqUDJWZjF5d3V6NURmTTB0QThuTU5tbTlENDFwaTdhbzg3bGIwdnV3bTZNaWh2bVY?oc=5\" target=\"_blank\">楽天、迎撃用ドローンを手がけるドイツ新興企業と提携…防衛省への納入や国内での量産化も視野に</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">読売新聞</font>",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5uQXhraFBFNDRkRVE4d2djWGJZaV9tM3Q5SGNyOEsxc2NRQm1weHdWWjdaWUtqUDJWZjF5d3V6NURmTTB0QThuTU5tbTlENDFwaTdhbzg3bGIwdnV3bTZNaWh2bVY?oc=5\" target=\"_blank\">楽天、迎撃用ドローンを手がけるドイツ新興企業と提携…防衛省への納入や国内での量産化も視野に</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">yomiuri.co.jp</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5uQXhraFBFNDRkRVE4d2djWGJZaV9tM3Q5SGNyOEsxc2NRQm1weHdWWjdaWUtqUDJWZjF5d3V6NURmTTB0QThuTU5tbTlENDFwaTdhbzg3bGIwdnV3bTZNaWh2bVY?oc=5\" target=\"_blank\">楽天、迎撃用ドローンを手がけるドイツ新興企業と提携…防衛省への納入や国内での量産化も視野に</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">yomiuri.co.jp</font>",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5uQXhraFBFNDRkRVE4d2djWGJZaV9tM3Q5SGNyOEsxc2NRQm1weHdWWjdaWUtqUDJWZjF5d3V6NURmTTB0QThuTU5tbTlENDFwaTdhbzg3bGIwdnV3bTZNaWh2bVY?oc=5",
       "googleNewsUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5uQXhraFBFNDRkRVE4d2djWGJZaV9tM3Q5SGNyOEsxc2NRQm1weHdWWjdaWUtqUDJWZjF5d3V6NURmTTB0QThuTU5tbTlENDFwaTdhbzg3bGIwdnV3bTZNaWh2bVY?oc=5",
       "publishedAt": "2026-08-17T11:25:00.000Z",
-      "source": "読売新聞",
+      "source": "yomiuri.co.jp",
       "_feedRegion": "jp",
       "_feedName": "Google News (JP)",
       "_scoring": {
@@ -1080,38 +1117,6 @@
           },
           "freshness": 10,
           "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "【特集】テラドローンが自律型迎撃ドローンを開発、ウクライナで培った技術をグローバル市場へ",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE9JOGx6d01nUFNlT1ZmRmRRV09QM0VNSVplS3N3bmRTZk9RbTZZaVdRTGtrbXY4a2VleUxGX0tQYkJKSENBOFNiV1lTVC1UYjRXQlRvMVJKVUcxWW1SNndmc0JTUXViQlo5MldJcVhB?oc=5\" target=\"_blank\">【特集】テラドローンが自律型迎撃ドローンを開発、ウクライナで培った技術をグローバル市場へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ドローンジャーナル</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE9JOGx6d01nUFNlT1ZmRmRRV09QM0VNSVplS3N3bmRTZk9RbTZZaVdRTGtrbXY4a2VleUxGX0tQYkJKSENBOFNiV1lTVC1UYjRXQlRvMVJKVUcxWW1SNndmc0JTUXViQlo5MldJcVhB?oc=5\" target=\"_blank\">【特集】テラドローンが自律型迎撃ドローンを開発、ウクライナで培った技術をグローバル市場へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ドローンジャーナル</font>",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9JOGx6d01nUFNlT1ZmRmRRV09QM0VNSVplS3N3bmRTZk9RbTZZaVdRTGtrbXY4a2VleUxGX0tQYkJKSENBOFNiV1lTVC1UYjRXQlRvMVJKVUcxWW1SNndmc0JTUXViQlo5MldJcVhB?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9JOGx6d01nUFNlT1ZmRmRRV09QM0VNSVplS3N3bmRTZk9RbTZZaVdRTGtrbXY4a2VleUxGX0tQYkJKSENBOFNiV1lTVC1UYjRXQlRvMVJKVUcxWW1SNndmc0JTUXViQlo5MldJcVhB?oc=5",
-      "publishedAt": "2026-08-21T06:00:13.000Z",
-      "source": "ドローンジャーナル",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP)",
-      "_scoring": {
-        "score": 59,
-        "categories": [
-          "技術・製品"
-        ],
-        "breakdown": {
-          "required": true,
-          "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 15,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
         },
         "pass": true
       }
