@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-22T14:25:47.801Z",
-  "rawCount": 621,
+  "generatedAt": "2026-08-22T15:25:55.538Z",
+  "rawCount": 620,
   "articles": [
     {
       "title": "Purple UAS Opens Certification Portal for Public Safety Drone Manufacturers",
@@ -13,7 +13,7 @@
       "_feedRegion": "global",
       "_feedName": "Google News (Global)",
       "_scoring": {
-        "score": 87,
+        "score": 82,
         "categories": [
           "規制・政策",
           "事故・事件",
@@ -37,7 +37,7 @@
             "domain": "news.google.com",
             "multiplier": 0.8
           },
-          "freshness": 10,
+          "freshness": 5,
           "titleBonus": 10
         },
         "pass": true
@@ -254,7 +254,7 @@
       "content": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQT1U4ZGV6Y19rQWZMUFVjZEVkUnBFMFlkenVDUzhCYWFRMXR4QVFSUjFMU2QxcXlSelh0N0xfZnIyTFFIbWpBVl9tcXhqRkxwV3ZRSkpodnlLRjJFVDhuQ0hEbzJqUGZiLUh5WmwtMy1NNUIyMWZ5VUhrY3oyLUtJVFRNSVVYRFA5dXAxVWJ6WVFWeW1wR0twWDd5SXE?oc=5\" target=\"_blank\">民間航空局は、タンソンニャット空港におけるドローンの侵入を抑制するための「防護壁」を提案している。</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Vietnam.vn</font>",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQT1U4ZGV6Y19rQWZMUFVjZEVkUnBFMFlkenVDUzhCYWFRMXR4QVFSUjFMU2QxcXlSelh0N0xfZnIyTFFIbWpBVl9tcXhqRkxwV3ZRSkpodnlLRjJFVDhuQ0hEbzJqUGZiLUh5WmwtMy1NNUIyMWZ5VUhrY3oyLUtJVFRNSVVYRFA5dXAxVWJ6WVFWeW1wR0twWDd5SXE?oc=5",
       "googleNewsUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQT1U4ZGV6Y19rQWZMUFVjZEVkUnBFMFlkenVDUzhCYWFRMXR4QVFSUjFMU2QxcXlSelh0N0xfZnIyTFFIbWpBVl9tcXhqRkxwV3ZRSkpodnlLRjJFVDhuQ0hEbzJqUGZiLUh5WmwtMy1NNUIyMWZ5VUhrY3oyLUtJVFRNSVVYRFA5dXAxVWJ6WVFWeW1wR0twWDd5SXE?oc=5",
-      "publishedAt": "2026-08-14T04:10:09.000Z",
+      "publishedAt": "2026-08-14T07:00:00.000Z",
       "source": "Vietnam.vn",
       "_feedRegion": "jp",
       "_feedName": "Google News (JP 政策/実証)",
@@ -382,6 +382,80 @@
             "catScore": 32
           },
           "policy": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 0,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "ベトナム民間航空局が空港での無人航空機の目撃情報に対応。",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPdkhWT2FMZVRIYWJscXhkdkJZQmFvVm5iQnA0WnBXTlFpRGhyQTk5SThZTHBPeEZ0VFEyeE4zODd3ZVRnLXlaUFctbmNwcHFPOUtHWWozNEc3U3hRN0lWQTNvMkZZWUlUZE5qRFdLajA4aW1Ja1Vkc1c2dUFUZkhfaGM1QTF1N0c2SWdrenRYSW0?oc=5\" target=\"_blank\">ベトナム民間航空局が空港での無人航空機の目撃情報に対応。</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Vietnam.vn</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPdkhWT2FMZVRIYWJscXhkdkJZQmFvVm5iQnA0WnBXTlFpRGhyQTk5SThZTHBPeEZ0VFEyeE4zODd3ZVRnLXlaUFctbmNwcHFPOUtHWWozNEc3U3hRN0lWQTNvMkZZWUlUZE5qRFdLajA4aW1Ja1Vkc1c2dUFUZkhfaGM1QTF1N0c2SWdrenRYSW0?oc=5\" target=\"_blank\">ベトナム民間航空局が空港での無人航空機の目撃情報に対応。</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Vietnam.vn</font>",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdkhWT2FMZVRIYWJscXhkdkJZQmFvVm5iQnA0WnBXTlFpRGhyQTk5SThZTHBPeEZ0VFEyeE4zODd3ZVRnLXlaUFctbmNwcHFPOUtHWWozNEc3U3hRN0lWQTNvMkZZWUlUZE5qRFdLajA4aW1Ja1Vkc1c2dUFUZkhfaGM1QTF1N0c2SWdrenRYSW0?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdkhWT2FMZVRIYWJscXhkdkJZQmFvVm5iQnA0WnBXTlFpRGhyQTk5SThZTHBPeEZ0VFEyeE4zODd3ZVRnLXlaUFctbmNwcHFPOUtHWWozNEc3U3hRN0lWQTNvMkZZWUlUZE5qRFdLajA4aW1Ja1Vkc1c2dUFUZkhfaGM1QTF1N0c2SWdrenRYSW0?oc=5",
+      "publishedAt": "2026-08-12T07:00:00.000Z",
+      "source": "Vietnam.vn",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP 政策/実証)",
+      "_scoring": {
+        "score": 70,
+        "categories": [
+          "規制・政策",
+          "政策・インフラ"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
+          "policy": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 0,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "DoorDash、FAAの認証取得を受け、自社運営のドローン配送プログラムを開始",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE9QdDhTZDZia0NlSmZDMTZ5dGpSeDVDb0xoT1BJLTFpRzM4cE0zSkU3MGpDblNWOGJVSEhiYklBTC1fQ0JJNVQ4MEEweGFSa2FUcTJZY2xpQU03U05hQmw5RThfTzFOM2VFZnVsaXowSkIycmF5c3J3?oc=5\" target=\"_blank\">DoorDash、FAAの認証取得を受け、自社運営のドローン配送プログラムを開始</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE9QdDhTZDZia0NlSmZDMTZ5dGpSeDVDb0xoT1BJLTFpRzM4cE0zSkU3MGpDblNWOGJVSEhiYklBTC1fQ0JJNVQ4MEEweGFSa2FUcTJZY2xpQU03U05hQmw5RThfTzFOM2VFZnVsaXowSkIycmF5c3J3?oc=5\" target=\"_blank\">DoorDash、FAAの認証取得を受け、自社運営のドローン配送プログラムを開始</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9QdDhTZDZia0NlSmZDMTZ5dGpSeDVDb0xoT1BJLTFpRzM4cE0zSkU3MGpDblNWOGJVSEhiYklBTC1fQ0JJNVQ4MEEweGFSa2FUcTJZY2xpQU03U05hQmw5RThfTzFOM2VFZnVsaXowSkIycmF5c3J3?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9QdDhTZDZia0NlSmZDMTZ5dGpSeDVDb0xoT1BJLTFpRzM4cE0zSkU3MGpDblNWOGJVSEhiYklBTC1fQ0JJNVQ4MEEweGFSa2FUcTJZY2xpQU03U05hQmw5RThfTzFOM2VFZnVsaXowSkIycmF5c3J3?oc=5",
+      "publishedAt": "2026-07-29T07:00:00.000Z",
+      "source": "TradingView",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP 事業者/実装)",
+      "_scoring": {
+        "score": 70,
+        "categories": [
+          "規制・政策",
+          "技術・製品"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
+          "technology": {
             "matches": 1,
             "catScore": 24
           },
@@ -1051,74 +1125,6 @@
           },
           "freshness": 5,
           "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "Amazon Plans Drone Delivery Expansion Despite FAA Scrutiny",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPZ0NybTMyWGRDbTVwUG5jend1Vk1wNG5zRkxLS2trSk9pekxXb3BBSTZEX2hwNnhlZDlWMGZic09RTmRhd2R6X3pNdFdVM0E3Rk8wLUZnYVNOeEh6ckRnY2pzYWdreWk2X1BJTzNLZzd3ZkdhQThZUW91emI4OEo0OVI5Tko0X3lsUnFPZDcwZVlfN0haaWZBVTVwTnHSAaoBQVVfeXFMTmpaRF84TGE2b0NhTjVLMWllV1JfSzVwcGNKS1V0NEExcWRSNXIyWThlb0RnQlIwSnlzWUJWcDFaX3NYc2NLODBTS1B5VW9HOFNfTHplb2ZJcWlUOGg3a1gxR3gyRk9NQkdobExXeUhJNnFZeTZFSm9nY3VBVUZfVUM2dnY5bW52RkMyczJwTnk3Rl9xMW1XUThIQ1AyalBaV21CejNLV1E1V3c?oc=5\" target=\"_blank\">Amazon Plans Drone Delivery Expansion Despite FAA Scrutiny</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Analytics Insight</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPZ0NybTMyWGRDbTVwUG5jend1Vk1wNG5zRkxLS2trSk9pekxXb3BBSTZEX2hwNnhlZDlWMGZic09RTmRhd2R6X3pNdFdVM0E3Rk8wLUZnYVNOeEh6ckRnY2pzYWdreWk2X1BJTzNLZzd3ZkdhQThZUW91emI4OEo0OVI5Tko0X3lsUnFPZDcwZVlfN0haaWZBVTVwTnHSAaoBQVVfeXFMTmpaRF84TGE2b0NhTjVLMWllV1JfSzVwcGNKS1V0NEExcWRSNXIyWThlb0RnQlIwSnlzWUJWcDFaX3NYc2NLODBTS1B5VW9HOFNfTHplb2ZJcWlUOGg3a1gxR3gyRk9NQkdobExXeUhJNnFZeTZFSm9nY3VBVUZfVUM2dnY5bW52RkMyczJwTnk3Rl9xMW1XUThIQ1AyalBaV21CejNLV1E1V3c?oc=5\" target=\"_blank\">Amazon Plans Drone Delivery Expansion Despite FAA Scrutiny</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Analytics Insight</font>",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZ0NybTMyWGRDbTVwUG5jend1Vk1wNG5zRkxLS2trSk9pekxXb3BBSTZEX2hwNnhlZDlWMGZic09RTmRhd2R6X3pNdFdVM0E3Rk8wLUZnYVNOeEh6ckRnY2pzYWdreWk2X1BJTzNLZzd3ZkdhQThZUW91emI4OEo0OVI5Tko0X3lsUnFPZDcwZVlfN0haaWZBVTVwTnHSAaoBQVVfeXFMTmpaRF84TGE2b0NhTjVLMWllV1JfSzVwcGNKS1V0NEExcWRSNXIyWThlb0RnQlIwSnlzWUJWcDFaX3NYc2NLODBTS1B5VW9HOFNfTHplb2ZJcWlUOGg3a1gxR3gyRk9NQkdobExXeUhJNnFZeTZFSm9nY3VBVUZfVUM2dnY5bW52RkMyczJwTnk3Rl9xMW1XUThIQ1AyalBaV21CejNLV1E1V3c?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZ0NybTMyWGRDbTVwUG5jend1Vk1wNG5zRkxLS2trSk9pekxXb3BBSTZEX2hwNnhlZDlWMGZic09RTmRhd2R6X3pNdFdVM0E3Rk8wLUZnYVNOeEh6ckRnY2pzYWdreWk2X1BJTzNLZzd3ZkdhQThZUW91emI4OEo0OVI5Tko0X3lsUnFPZDcwZVlfN0haaWZBVTVwTnHSAaoBQVVfeXFMTmpaRF84TGE2b0NhTjVLMWllV1JfSzVwcGNKS1V0NEExcWRSNXIyWThlb0RnQlIwSnlzWUJWcDFaX3NYc2NLODBTS1B5VW9HOFNfTHplb2ZJcWlUOGg3a1gxR3gyRk9NQkdobExXeUhJNnFZeTZFSm9nY3VBVUZfVUM2dnY5bW52RkMyczJwTnk3Rl9xMW1XUThIQ1AyalBaV21CejNLV1E1V3c?oc=5",
-      "publishedAt": "2026-08-20T08:52:49.000Z",
-      "source": "Analytics Insight",
-      "_feedRegion": "us",
-      "_feedName": "FAA",
-      "_scoring": {
-        "score": 57,
-        "categories": [
-          "規制・政策",
-          "政策・インフラ"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 1,
-            "catScore": 32
-          },
-          "policy": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 2,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "ドローン規制に新ルール、国交省 工業専用地域は許可不要に",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ReVQxMkFzUDA3WXpCVzROZ1l4b0pjWlF2ZXJGV1ZZSGtLaEdTam1VNk1BQ1R2QkNTRTZkWnZIMTBFYnE2Mk1zaW9NUHVYekZmd1g2WVotdk91TFRL?oc=5\" target=\"_blank\">ドローン規制に新ルール、国交省 工業専用地域は許可不要に</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">山陽新聞</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ReVQxMkFzUDA3WXpCVzROZ1l4b0pjWlF2ZXJGV1ZZSGtLaEdTam1VNk1BQ1R2QkNTRTZkWnZIMTBFYnE2Mk1zaW9NUHVYekZmd1g2WVotdk91TFRL?oc=5\" target=\"_blank\">ドローン規制に新ルール、国交省 工業専用地域は許可不要に</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">山陽新聞</font>",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ReVQxMkFzUDA3WXpCVzROZ1l4b0pjWlF2ZXJGV1ZZSGtLaEdTam1VNk1BQ1R2QkNTRTZkWnZIMTBFYnE2Mk1zaW9NUHVYekZmd1g2WVotdk91TFRL?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ReVQxMkFzUDA3WXpCVzROZ1l4b0pjWlF2ZXJGV1ZZSGtLaEdTam1VNk1BQ1R2QkNTRTZkWnZIMTBFYnE2Mk1zaW9NUHVYekZmd1g2WVotdk91TFRL?oc=5",
-      "publishedAt": "2026-08-15T02:19:34.000Z",
-      "source": "山陽新聞",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP 政策/実証)",
-      "_scoring": {
-        "score": 57,
-        "categories": [
-          "規制・政策"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 2,
-            "catScore": 40
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 0,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
         },
         "pass": true
       }
