@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-23T16:31:07.018Z",
-  "rawCount": 623,
+  "generatedAt": "2026-08-23T17:24:03.365Z",
+  "rawCount": 628,
   "articles": [
     {
       "title": "OWL launches GA730LR radar for C-UAS, UTM and BVLOS applications",
@@ -177,7 +177,7 @@
       "_feedRegion": "us",
       "_feedName": "FAA",
       "_scoring": {
-        "score": 76,
+        "score": 71,
         "categories": [
           "規制・政策",
           "技術・製品"
@@ -196,7 +196,7 @@
             "domain": "news.google.com",
             "multiplier": 0.8
           },
-          "freshness": 15,
+          "freshness": 10,
           "titleBonus": 10
         },
         "pass": true
@@ -502,43 +502,6 @@
           "policy": {
             "matches": 1,
             "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 0,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "点検・測量・防災現場で活用できるDJI産業用ドローンを紹介。型式認証対応「DJI Matrice 4Dシリーズ」導入セミナーを8月21日（金）に福井で開催",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9rWGF3OHBSMHpBak9yV2dHb244b1ZZMllBX25QUnFYRnlKeG81Vzlpb3NIT1hYTElEYlZubko3OGRISDE4bF9STmVZaXNwRU1IM3RGSFNjaExzdFU4T09obV9waXkzMkZrOWc?oc=5\" target=\"_blank\">点検・測量・防災現場で活用できるDJI産業用ドローンを紹介。型式認証対応「DJI Matrice 4Dシリーズ」導入セミナーを8月21日（金）に福井で開催</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR TIMES</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9rWGF3OHBSMHpBak9yV2dHb244b1ZZMllBX25QUnFYRnlKeG81Vzlpb3NIT1hYTElEYlZubko3OGRISDE4bF9STmVZaXNwRU1IM3RGSFNjaExzdFU4T09obV9waXkzMkZrOWc?oc=5\" target=\"_blank\">点検・測量・防災現場で活用できるDJI産業用ドローンを紹介。型式認証対応「DJI Matrice 4Dシリーズ」導入セミナーを8月21日（金）に福井で開催</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR TIMES</font>",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9rWGF3OHBSMHpBak9yV2dHb244b1ZZMllBX25QUnFYRnlKeG81Vzlpb3NIT1hYTElEYlZubko3OGRISDE4bF9STmVZaXNwRU1IM3RGSFNjaExzdFU4T09obV9waXkzMkZrOWc?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9rWGF3OHBSMHpBak9yV2dHb244b1ZZMllBX25QUnFYRnlKeG81Vzlpb3NIT1hYTElEYlZubko3OGRISDE4bF9STmVZaXNwRU1IM3RGSFNjaExzdFU4T09obV9waXkzMkZrOWc?oc=5",
-      "publishedAt": "2026-07-31T07:00:00.000Z",
-      "source": "PR TIMES",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP 事業者/実装)",
-      "_scoring": {
-        "score": 67,
-        "categories": [
-          "規制・政策",
-          "市場・資金"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 1,
-            "catScore": 32
-          },
-          "market": {
-            "matches": 1,
-            "catScore": 20
           },
           "sourceTrust": {
             "domain": "news.google.com",
@@ -1127,6 +1090,42 @@
             "multiplier": 0.8
           },
           "freshness": 0,
+          "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "Drones could be banned over most public spaces in this Colorado city, but the FAA may stand in the way",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOOWdVaXZGTTVkQ3ZXTmQ1dTZYZXl1SnJmaHM4OVNGbG5ySHVfdk5tUS1KS09TT2N2SEZGN2txd3FNTmJfN3VlUVhUZ3FEekF1VzNIY3FNbk5uMUZVdG1IT1pybGRBVHdMTjdNcFlLX250VzB4ekpIbzduVFRsRk1wQ3FiOGtfeG53Vk5TTm8wcnJGMWtWVm40blRn?oc=5\" target=\"_blank\">Drones could be banned over most public spaces in this Colorado city, but the FAA may stand in the way</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechSpot</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOOWdVaXZGTTVkQ3ZXTmQ1dTZYZXl1SnJmaHM4OVNGbG5ySHVfdk5tUS1KS09TT2N2SEZGN2txd3FNTmJfN3VlUVhUZ3FEekF1VzNIY3FNbk5uMUZVdG1IT1pybGRBVHdMTjdNcFlLX250VzB4ekpIbzduVFRsRk1wQ3FiOGtfeG53Vk5TTm8wcnJGMWtWVm40blRn?oc=5\" target=\"_blank\">Drones could be banned over most public spaces in this Colorado city, but the FAA may stand in the way</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechSpot</font>",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOWdVaXZGTTVkQ3ZXTmQ1dTZYZXl1SnJmaHM4OVNGbG5ySHVfdk5tUS1KS09TT2N2SEZGN2txd3FNTmJfN3VlUVhUZ3FEekF1VzNIY3FNbk5uMUZVdG1IT1pybGRBVHdMTjdNcFlLX250VzB4ekpIbzduVFRsRk1wQ3FiOGtfeG53Vk5TTm8wcnJGMWtWVm40blRn?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOWdVaXZGTTVkQ3ZXTmQ1dTZYZXl1SnJmaHM4OVNGbG5ySHVfdk5tUS1KS09TT2N2SEZGN2txd3FNTmJfN3VlUVhUZ3FEekF1VzNIY3FNbk5uMUZVdG1IT1pybGRBVHdMTjdNcFlLX250VzB4ekpIbzduVFRsRk1wQ3FiOGtfeG53Vk5TTm8wcnJGMWtWVm40blRn?oc=5",
+      "publishedAt": "2026-08-21T13:39:00.000Z",
+      "source": "TechSpot",
+      "_feedRegion": "us",
+      "_feedName": "FAA",
+      "_scoring": {
+        "score": 54,
+        "categories": [
+          "規制・政策",
+          "市場・資金"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
+          "market": {
+            "matches": 1,
+            "catScore": 20
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 2,
           "titleBonus": 10
         },
         "pass": true
