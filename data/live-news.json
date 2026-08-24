@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T13:56:39.114Z",
+  "generatedAt": "2026-08-24T14:50:58.317Z",
   "rawCount": 624,
   "articles": [
     {
@@ -136,7 +136,7 @@
       "_feedRegion": "global",
       "_feedName": "Google News (Global)",
       "_scoring": {
-        "score": 79,
+        "score": 77,
         "categories": [
           "規制・政策",
           "事故・事件",
@@ -160,45 +160,8 @@
             "domain": "news.google.com",
             "multiplier": 0.8
           },
-          "freshness": 2,
+          "freshness": 0,
           "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "迎撃ドローン開発のベンチャーに出資する自動車部品銘柄",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE9UNVJQSDMxSGtQMXdpb0lMU1kyNjdXWlFGa2lkVjZFb3RBZGg1cUEzQUd4b1hwVmtvZEFaeEVYdDYteXVlLUU0RGVVX1ZQSFRFSVBWN1VmNA?oc=5\" target=\"_blank\">迎撃ドローン開発のベンチャーに出資する自動車部品銘柄</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">四季報オンライン</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE9UNVJQSDMxSGtQMXdpb0lMU1kyNjdXWlFGa2lkVjZFb3RBZGg1cUEzQUd4b1hwVmtvZEFaeEVYdDYteXVlLUU0RGVVX1ZQSFRFSVBWN1VmNA?oc=5\" target=\"_blank\">迎撃ドローン開発のベンチャーに出資する自動車部品銘柄</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">四季報オンライン</font>",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9UNVJQSDMxSGtQMXdpb0lMU1kyNjdXWlFGa2lkVjZFb3RBZGg1cUEzQUd4b1hwVmtvZEFaeEVYdDYteXVlLUU0RGVVX1ZQSFRFSVBWN1VmNA?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9UNVJQSDMxSGtQMXdpb0lMU1kyNjdXWlFGa2lkVjZFb3RBZGg1cUEzQUd4b1hwVmtvZEFaeEVYdDYteXVlLUU0RGVVX1ZQSFRFSVBWN1VmNA?oc=5",
-      "publishedAt": "2026-08-24T02:30:00.000Z",
-      "source": "四季報オンライン",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP 経済メディア)",
-      "_scoring": {
-        "score": 75,
-        "categories": [
-          "技術・製品",
-          "市場・資金"
-        ],
-        "breakdown": {
-          "required": true,
-          "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "market": {
-            "matches": 1,
-            "catScore": 20
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 15,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
         },
         "pass": true
       }
@@ -360,7 +323,7 @@
       "content": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOSl9ha2RLYmlaeDRqX2xyZmxYR2tZS3FzNExwaEQwNFVXejVFVmVYOTVEVFRTN05VdF9CT2g5dVZ1Rl8ydHlZLUkzS1ZQQm9RaWg2WERHZlFub2M4R0dyejRGVUY2QV8yd2JRQ2FyWVdPbHBvbkUwVFZHckhwZjhtTm5ROVFvbC1NcWtkVzR6ckFuZURqaEdadE9yTS0?oc=5\" target=\"_blank\">民間航空局は、タンソンニャット空港がUAV（無人航空機）の影響で2度にわたり一時的に運航を停止した理由を説明した。</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Vietnam.vn</font>",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSl9ha2RLYmlaeDRqX2xyZmxYR2tZS3FzNExwaEQwNFVXejVFVmVYOTVEVFRTN05VdF9CT2g5dVZ1Rl8ydHlZLUkzS1ZQQm9RaWg2WERHZlFub2M4R0dyejRGVUY2QV8yd2JRQ2FyWVdPbHBvbkUwVFZHckhwZjhtTm5ROVFvbC1NcWtkVzR6ckFuZURqaEdadE9yTS0?oc=5",
       "googleNewsUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSl9ha2RLYmlaeDRqX2xyZmxYR2tZS3FzNExwaEQwNFVXejVFVmVYOTVEVFRTN05VdF9CT2g5dVZ1Rl8ydHlZLUkzS1ZQQm9RaWg2WERHZlFub2M4R0dyejRGVUY2QV8yd2JRQ2FyWVdPbHBvbkUwVFZHckhwZjhtTm5ROVFvbC1NcWtkVzR6ckFuZURqaEdadE9yTS0?oc=5",
-      "publishedAt": "2026-08-12T11:39:30.000Z",
+      "publishedAt": "2026-08-12T07:00:00.000Z",
       "source": "Vietnam.vn",
       "_feedRegion": "jp",
       "_feedName": "Google News (JP 政策/実証)",
@@ -385,6 +348,43 @@
             "multiplier": 0.8
           },
           "freshness": 0,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "迎撃ドローン開発のベンチャーに出資する自動車部品銘柄",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE9UNVJQSDMxSGtQMXdpb0lMU1kyNjdXWlFGa2lkVjZFb3RBZGg1cUEzQUd4b1hwVmtvZEFaeEVYdDYteXVlLUU0RGVVX1ZQSFRFSVBWN1VmNA?oc=5\" target=\"_blank\">迎撃ドローン開発のベンチャーに出資する自動車部品銘柄</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">四季報オンライン</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE9UNVJQSDMxSGtQMXdpb0lMU1kyNjdXWlFGa2lkVjZFb3RBZGg1cUEzQUd4b1hwVmtvZEFaeEVYdDYteXVlLUU0RGVVX1ZQSFRFSVBWN1VmNA?oc=5\" target=\"_blank\">迎撃ドローン開発のベンチャーに出資する自動車部品銘柄</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">四季報オンライン</font>",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9UNVJQSDMxSGtQMXdpb0lMU1kyNjdXWlFGa2lkVjZFb3RBZGg1cUEzQUd4b1hwVmtvZEFaeEVYdDYteXVlLUU0RGVVX1ZQSFRFSVBWN1VmNA?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9UNVJQSDMxSGtQMXdpb0lMU1kyNjdXWlFGa2lkVjZFb3RBZGg1cUEzQUd4b1hwVmtvZEFaeEVYdDYteXVlLUU0RGVVX1ZQSFRFSVBWN1VmNA?oc=5",
+      "publishedAt": "2026-08-24T02:30:00.000Z",
+      "source": "四季報オンライン",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP 経済メディア)",
+      "_scoring": {
+        "score": 70,
+        "categories": [
+          "技術・製品",
+          "市場・資金"
+        ],
+        "breakdown": {
+          "required": true,
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "market": {
+            "matches": 1,
+            "catScore": 20
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 10,
           "titleBonus": 10,
           "jpRegionBonus": 15
         },
@@ -618,6 +618,78 @@
       }
     },
     {
+      "title": "Archer Aviation unveils plans for Los Angeles' first vertiport",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQUm1salN4LVZDTFUzdUM1d0R0WlJVNG15SFBuZ0dvTC1KZHVZMVJLZ1ZiQzRjTlVONEJYQ2hWdnZWeGMwdURNb2lXSGEyZkc2UUZlUV9yUV9lNU81ZGZlREt6aUNCb3ZSUWFVdzJvRzA5NUFIQnJtM0JEQjNSZS1RMkM5Y3dJeWlsVzBrbjlodmpGWWFZd1dQVFk2b19fOVVPc0dyX3F1aFdSUlZJZmd4blByMTljVmpNbWJ2V0pTcmJfQ2M5Q19N?oc=5\" target=\"_blank\">Archer Aviation unveils plans for Los Angeles' first vertiport</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aviation Business News</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQUm1salN4LVZDTFUzdUM1d0R0WlJVNG15SFBuZ0dvTC1KZHVZMVJLZ1ZiQzRjTlVONEJYQ2hWdnZWeGMwdURNb2lXSGEyZkc2UUZlUV9yUV9lNU81ZGZlREt6aUNCb3ZSUWFVdzJvRzA5NUFIQnJtM0JEQjNSZS1RMkM5Y3dJeWlsVzBrbjlodmpGWWFZd1dQVFk2b19fOVVPc0dyX3F1aFdSUlZJZmd4blByMTljVmpNbWJ2V0pTcmJfQ2M5Q19N?oc=5\" target=\"_blank\">Archer Aviation unveils plans for Los Angeles' first vertiport</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aviation Business News</font>",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUm1salN4LVZDTFUzdUM1d0R0WlJVNG15SFBuZ0dvTC1KZHVZMVJLZ1ZiQzRjTlVONEJYQ2hWdnZWeGMwdURNb2lXSGEyZkc2UUZlUV9yUV9lNU81ZGZlREt6aUNCb3ZSUWFVdzJvRzA5NUFIQnJtM0JEQjNSZS1RMkM5Y3dJeWlsVzBrbjlodmpGWWFZd1dQVFk2b19fOVVPc0dyX3F1aFdSUlZJZmd4blByMTljVmpNbWJ2V0pTcmJfQ2M5Q19N?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUm1salN4LVZDTFUzdUM1d0R0WlJVNG15SFBuZ0dvTC1KZHVZMVJLZ1ZiQzRjTlVONEJYQ2hWdnZWeGMwdURNb2lXSGEyZkc2UUZlUV9yUV9lNU81ZGZlREt6aUNCb3ZSUWFVdzJvRzA5NUFIQnJtM0JEQjNSZS1RMkM5Y3dJeWlsVzBrbjlodmpGWWFZd1dQVFk2b19fOVVPc0dyX3F1aFdSUlZJZmd4blByMTljVmpNbWJ2V0pTcmJfQ2M5Q19N?oc=5",
+      "publishedAt": "2026-08-24T13:04:00.000Z",
+      "source": "Aviation Business News",
+      "_feedRegion": "global",
+      "_feedName": "Google News (Global)",
+      "_scoring": {
+        "score": 65,
+        "categories": [
+          "市場・資金",
+          "政策・インフラ"
+        ],
+        "breakdown": {
+          "required": true,
+          "market": {
+            "matches": 1,
+            "catScore": 20
+          },
+          "policy": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 20,
+          "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "Archer confirms downtown LA vertiport ahead of 2028 Olympics",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOUGpfd3VpRXlHWWZpUTJUQkJOdXJOdjR3bGtObjFjd0NnemxIeU5TZGdnN3JuNVRRdjYyZW02Z2FSUmxkNFZLUmRRYWFURW5JNldBNWhBRmoycERoRFZvQUFsZS1URXdXQ253WnNTMkxNZFhRc2swUUFOVUQ3dktIckltSVRVQVpjd0U2azFfSUdFZUVB?oc=5\" target=\"_blank\">Archer confirms downtown LA vertiport ahead of 2028 Olympics</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Zag Daily</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOUGpfd3VpRXlHWWZpUTJUQkJOdXJOdjR3bGtObjFjd0NnemxIeU5TZGdnN3JuNVRRdjYyZW02Z2FSUmxkNFZLUmRRYWFURW5JNldBNWhBRmoycERoRFZvQUFsZS1URXdXQ253WnNTMkxNZFhRc2swUUFOVUQ3dktIckltSVRVQVpjd0U2azFfSUdFZUVB?oc=5\" target=\"_blank\">Archer confirms downtown LA vertiport ahead of 2028 Olympics</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Zag Daily</font>",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUGpfd3VpRXlHWWZpUTJUQkJOdXJOdjR3bGtObjFjd0NnemxIeU5TZGdnN3JuNVRRdjYyZW02Z2FSUmxkNFZLUmRRYWFURW5JNldBNWhBRmoycERoRFZvQUFsZS1URXdXQ253WnNTMkxNZFhRc2swUUFOVUQ3dktIckltSVRVQVpjd0U2azFfSUdFZUVB?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUGpfd3VpRXlHWWZpUTJUQkJOdXJOdjR3bGtObjFjd0NnemxIeU5TZGdnN3JuNVRRdjYyZW02Z2FSUmxkNFZLUmRRYWFURW5JNldBNWhBRmoycERoRFZvQUFsZS1URXdXQ253WnNTMkxNZFhRc2swUUFOVUQ3dktIckltSVRVQVpjd0U2azFfSUdFZUVB?oc=5",
+      "publishedAt": "2026-08-24T12:01:38.000Z",
+      "source": "Zag Daily",
+      "_feedRegion": "global",
+      "_feedName": "Google News (Global)",
+      "_scoring": {
+        "score": 65,
+        "categories": [
+          "市場・資金",
+          "政策・インフラ"
+        ],
+        "breakdown": {
+          "required": true,
+          "market": {
+            "matches": 1,
+            "catScore": 20
+          },
+          "policy": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 20,
+          "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
       "title": "Archer, AEG Plan Downtown Los Angeles Vertiport At L.A. LIVE",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOSGgxTkNJRngtQmdZbXRVMkdnVmVvYWp1ZmJxRS02ejlJcjBjS2sxZE5zb0dNc1IyMlE2NWFmN3lsaFIwMWg3NGdNR2RNTFA2d0dvUkZZME43Yk1GdTdpclpMR01VUnJJSVBtRmpiTmdPMnNjOF9yMkhacTFpMlpqOG9TVDc2WlVja3d5U1lScXBQLXZ2MG1obkJycjA3ZEw4T1JjTjI4Nm80OFpxSmZDSw?oc=5\" target=\"_blank\">Archer, AEG Plan Downtown Los Angeles Vertiport At L.A. LIVE</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aviation Week</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOSGgxTkNJRngtQmdZbXRVMkdnVmVvYWp1ZmJxRS02ejlJcjBjS2sxZE5zb0dNc1IyMlE2NWFmN3lsaFIwMWg3NGdNR2RNTFA2d0dvUkZZME43Yk1GdTdpclpMR01VUnJJSVBtRmpiTmdPMnNjOF9yMkhacTFpMlpqOG9TVDc2WlVja3d5U1lScXBQLXZ2MG1obkJycjA3ZEw4T1JjTjI4Nm80OFpxSmZDSw?oc=5\" target=\"_blank\">Archer, AEG Plan Downtown Los Angeles Vertiport At L.A. LIVE</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aviation Week</font>",
@@ -661,42 +733,6 @@
       "googleNewsUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVV9KTHBCZXh5b29DVDJlYUhmemtxY2JfRjlXNFJ2NWJLaDJFdHpCRlVBcUJqVWFoeS04MEJmbXRjR3hSUnBCVFR0a2ItbF92N19VWDZrVnVjdXIxaFhGSWV2emRaRDZJNEg1bmhMdFVERlhtWVhqVUIza0ZpclFzVWl1eGk1SURNdFNDVU1ja0lfUTZPZUx6Rnh3eFB0QTNqSUl3V2FmelFUS0E?oc=5",
       "publishedAt": "2026-08-24T12:00:00.000Z",
       "source": "New York Post",
-      "_feedRegion": "global",
-      "_feedName": "Google News (Global)",
-      "_scoring": {
-        "score": 65,
-        "categories": [
-          "市場・資金",
-          "政策・インフラ"
-        ],
-        "breakdown": {
-          "required": true,
-          "market": {
-            "matches": 1,
-            "catScore": 20
-          },
-          "policy": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 20,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "Archer confirms downtown LA vertiport ahead of 2028 Olympics",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOUGpfd3VpRXlHWWZpUTJUQkJOdXJOdjR3bGtObjFjd0NnemxIeU5TZGdnN3JuNVRRdjYyZW02Z2FSUmxkNFZLUmRRYWFURW5JNldBNWhBRmoycERoRFZvQUFsZS1URXdXQ253WnNTMkxNZFhRc2swUUFOVUQ3dktIckltSVRVQVpjd0U2azFfSUdFZUVB?oc=5\" target=\"_blank\">Archer confirms downtown LA vertiport ahead of 2028 Olympics</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Zag Daily</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOUGpfd3VpRXlHWWZpUTJUQkJOdXJOdjR3bGtObjFjd0NnemxIeU5TZGdnN3JuNVRRdjYyZW02Z2FSUmxkNFZLUmRRYWFURW5JNldBNWhBRmoycERoRFZvQUFsZS1URXdXQ253WnNTMkxNZFhRc2swUUFOVUQ3dktIckltSVRVQVpjd0U2azFfSUdFZUVB?oc=5\" target=\"_blank\">Archer confirms downtown LA vertiport ahead of 2028 Olympics</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Zag Daily</font>",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUGpfd3VpRXlHWWZpUTJUQkJOdXJOdjR3bGtObjFjd0NnemxIeU5TZGdnN3JuNVRRdjYyZW02Z2FSUmxkNFZLUmRRYWFURW5JNldBNWhBRmoycERoRFZvQUFsZS1URXdXQ253WnNTMkxNZFhRc2swUUFOVUQ3dktIckltSVRVQVpjd0U2azFfSUdFZUVB?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUGpfd3VpRXlHWWZpUTJUQkJOdXJOdjR3bGtObjFjd0NnemxIeU5TZGdnN3JuNVRRdjYyZW02Z2FSUmxkNFZLUmRRYWFURW5JNldBNWhBRmoycERoRFZvQUFsZS1URXdXQ253WnNTMkxNZFhRc2swUUFOVUQ3dktIckltSVRVQVpjd0U2azFfSUdFZUVB?oc=5",
-      "publishedAt": "2026-08-24T12:01:38.000Z",
-      "source": "Zag Daily",
       "_feedRegion": "global",
       "_feedName": "Google News (Global)",
       "_scoring": {
@@ -1051,43 +1087,6 @@
       "googleNewsUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA5SG9SR1lqT2JVT3VvOHhwdm5HMjRJZWFXLVg5ZHpPQ0V1NHFDU29XQXZxWmtUSDd0Z01aSGZfd2pmRExHc1lwM19nTWlvcXNjUFQ3cFdnakU1ZTkwNnM0RktYMlJQbWxieFJsQlV2aE1JN29MWXpub1dvYVhuSUE?oc=5",
       "publishedAt": "2026-08-18T02:54:24.000Z",
       "source": "Yahoo!ニュース",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP)",
-      "_scoring": {
-        "score": 60,
-        "categories": [
-          "技術・製品",
-          "市場・資金"
-        ],
-        "breakdown": {
-          "required": true,
-          "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "market": {
-            "matches": 1,
-            "catScore": 20
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 0,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "楽天が迎撃ドローンで独新興と提携 防衛省への納入を支援、日本国内での量産化も視野",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5aYzVOTGxoSDB2dWpLeThKbXVWMTlUVzFMUTdkRWN4d2taX1lUR1VLNGFNQ1RqZ092c1hub0pxZng2YXNiZmNiTGU0NVlYQk5OcVhSYlZOb0VNS3VVWDYxZE1OSmdUdjQyYnVkeEVla3lSSFpiQkE?oc=5\" target=\"_blank\">楽天が迎撃ドローンで独新興と提携 防衛省への納入を支援、日本国内での量産化も視野</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">産経ニュース</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5aYzVOTGxoSDB2dWpLeThKbXVWMTlUVzFMUTdkRWN4d2taX1lUR1VLNGFNQ1RqZ092c1hub0pxZng2YXNiZmNiTGU0NVlYQk5OcVhSYlZOb0VNS3VVWDYxZE1OSmdUdjQyYnVkeEVla3lSSFpiQkE?oc=5\" target=\"_blank\">楽天が迎撃ドローンで独新興と提携 防衛省への納入を支援、日本国内での量産化も視野</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">産経ニュース</font>",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5aYzVOTGxoSDB2dWpLeThKbXVWMTlUVzFMUTdkRWN4d2taX1lUR1VLNGFNQ1RqZ092c1hub0pxZng2YXNiZmNiTGU0NVlYQk5OcVhSYlZOb0VNS3VVWDYxZE1OSmdUdjQyYnVkeEVla3lSSFpiQkE?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5aYzVOTGxoSDB2dWpLeThKbXVWMTlUVzFMUTdkRWN4d2taX1lUR1VLNGFNQ1RqZ092c1hub0pxZng2YXNiZmNiTGU0NVlYQk5OcVhSYlZOb0VNS3VVWDYxZE1OSmdUdjQyYnVkeEVla3lSSFpiQkE?oc=5",
-      "publishedAt": "2026-08-17T07:27:47.000Z",
-      "source": "産経ニュース",
       "_feedRegion": "jp",
       "_feedName": "Google News (JP)",
       "_scoring": {
