@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T19:33:10.233Z",
+  "generatedAt": "2026-08-24T20:35:05.182Z",
   "rawCount": 623,
   "articles": [
     {
@@ -203,43 +203,6 @@
           },
           "freshness": 0,
           "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "ＡｌｔｅｒＳｋｙ、台湾ドローン開発大手と提携",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTFBIdl9fM2pVekpHUm9fdDJxT1k2UzdRT2dVTnBDV3NQa0FDbmJvcWt2c0RBUUVyaXBmOFlGWTJsWm5jU1NWYUJ1SGV3TzZsd25iRDcw?oc=5\" target=\"_blank\">ＡｌｔｅｒＳｋｙ、台湾ドローン開発大手と提携</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">化学工業日報 電子版</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTFBIdl9fM2pVekpHUm9fdDJxT1k2UzdRT2dVTnBDV3NQa0FDbmJvcWt2c0RBUUVyaXBmOFlGWTJsWm5jU1NWYUJ1SGV3TzZsd25iRDcw?oc=5\" target=\"_blank\">ＡｌｔｅｒＳｋｙ、台湾ドローン開発大手と提携</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">化学工業日報 電子版</font>",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBIdl9fM2pVekpHUm9fdDJxT1k2UzdRT2dVTnBDV3NQa0FDbmJvcWt2c0RBUUVyaXBmOFlGWTJsWm5jU1NWYUJ1SGV3TzZsd25iRDcw?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBIdl9fM2pVekpHUm9fdDJxT1k2UzdRT2dVTnBDV3NQa0FDbmJvcWt2c0RBUUVyaXBmOFlGWTJsWm5jU1NWYUJ1SGV3TzZsd25iRDcw?oc=5",
-      "publishedAt": "2026-08-23T20:03:39.000Z",
-      "source": "化学工業日報 電子版",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP 政策/実証)",
-      "_scoring": {
-        "score": 70,
-        "categories": [
-          "技術・製品",
-          "市場・資金"
-        ],
-        "breakdown": {
-          "required": true,
-          "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "market": {
-            "matches": 1,
-            "catScore": 20
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 10,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
         },
         "pass": true
       }
@@ -613,6 +576,43 @@
       }
     },
     {
+      "title": "ＡｌｔｅｒＳｋｙ、台湾ドローン開発大手と提携",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTFBIdl9fM2pVekpHUm9fdDJxT1k2UzdRT2dVTnBDV3NQa0FDbmJvcWt2c0RBUUVyaXBmOFlGWTJsWm5jU1NWYUJ1SGV3TzZsd25iRDcw?oc=5\" target=\"_blank\">ＡｌｔｅｒＳｋｙ、台湾ドローン開発大手と提携</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">化学工業日報 電子版</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTFBIdl9fM2pVekpHUm9fdDJxT1k2UzdRT2dVTnBDV3NQa0FDbmJvcWt2c0RBUUVyaXBmOFlGWTJsWm5jU1NWYUJ1SGV3TzZsd25iRDcw?oc=5\" target=\"_blank\">ＡｌｔｅｒＳｋｙ、台湾ドローン開発大手と提携</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">化学工業日報 電子版</font>",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBIdl9fM2pVekpHUm9fdDJxT1k2UzdRT2dVTnBDV3NQa0FDbmJvcWt2c0RBUUVyaXBmOFlGWTJsWm5jU1NWYUJ1SGV3TzZsd25iRDcw?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBIdl9fM2pVekpHUm9fdDJxT1k2UzdRT2dVTnBDV3NQa0FDbmJvcWt2c0RBUUVyaXBmOFlGWTJsWm5jU1NWYUJ1SGV3TzZsd25iRDcw?oc=5",
+      "publishedAt": "2026-08-23T20:03:39.000Z",
+      "source": "化学工業日報 電子版",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP 政策/実証)",
+      "_scoring": {
+        "score": 65,
+        "categories": [
+          "技術・製品",
+          "市場・資金"
+        ],
+        "breakdown": {
+          "required": true,
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "market": {
+            "matches": 1,
+            "catScore": 20
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 5,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
       "title": "Archer Aviation plans downtown Los Angeles vertiport ahead of LA28 Olympics",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNczUycjFuSl9CWXdPTFpseUJ0WlZ6SW81ZWE0U3BGWWlrZVZockNGVWthLUoyVUg5TzYyanRLVzR6dE5qZTFja1VXbnlvMkx6UVg1Z3BwcmowVWVWbGthTEpfMUhhZWdJZEszQklGYjBOLXphdlBUNW1WSjd6dXdLYXVJVzVneUU?oc=5\" target=\"_blank\">Archer Aviation plans downtown Los Angeles vertiport ahead of LA28 Olympics</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aerospace Global News</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNczUycjFuSl9CWXdPTFpseUJ0WlZ6SW81ZWE0U3BGWWlrZVZockNGVWthLUoyVUg5TzYyanRLVzR6dE5qZTFja1VXbnlvMkx6UVg1Z3BwcmowVWVWbGthTEpfMUhhZWdJZEszQklGYjBOLXphdlBUNW1WSjd6dXdLYXVJVzVneUU?oc=5\" target=\"_blank\">Archer Aviation plans downtown Los Angeles vertiport ahead of LA28 Olympics</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aerospace Global News</font>",
@@ -866,13 +866,13 @@
       }
     },
     {
-      "title": "Archer and AEG plan downtown Los Angeles vertiport at L.A. LIVE",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPdmN4TWR1NTkyYjQ5aGhtNVVmWFcybW1sWk9HeGRtRWRVak80WEFkZDVKM3VfRzhZZnpoNEZZUXplLTkxRk9tZklNUzY3Y0NWMVRHOVp2ejYtVlI3SktTMTFZTkpUZGlrNXVOTjB0VjFXUkx2Qm1fcjVJbFVTWnZfWkRWNF9CYmZnNGs4V9IBkgFBVV95cUxOcTZOUjhndGdKUDRxUUhLR2FfZjVnMTd2ZGQ2ZW5fVUNUR19KaUhhTnFsV3JkRVJ5eXhwYVJ4aFg5a2NQSHFjY2VOVGh3ZEtsSzR1dzRkdnBXNV9ZVGtERFFIQ2psQW54TlVMWktmLS1nS3BmeWFuakp2U3FvdGhvT1Byd3NqREZjbE5kQXJxNzJSZw?oc=5\" target=\"_blank\">Archer and AEG plan downtown Los Angeles vertiport at L.A. LIVE</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AeroTime</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPdmN4TWR1NTkyYjQ5aGhtNVVmWFcybW1sWk9HeGRtRWRVak80WEFkZDVKM3VfRzhZZnpoNEZZUXplLTkxRk9tZklNUzY3Y0NWMVRHOVp2ejYtVlI3SktTMTFZTkpUZGlrNXVOTjB0VjFXUkx2Qm1fcjVJbFVTWnZfWkRWNF9CYmZnNGs4V9IBkgFBVV95cUxOcTZOUjhndGdKUDRxUUhLR2FfZjVnMTd2ZGQ2ZW5fVUNUR19KaUhhTnFsV3JkRVJ5eXhwYVJ4aFg5a2NQSHFjY2VOVGh3ZEtsSzR1dzRkdnBXNV9ZVGtERFFIQ2psQW54TlVMWktmLS1nS3BmeWFuakp2U3FvdGhvT1Byd3NqREZjbE5kQXJxNzJSZw?oc=5\" target=\"_blank\">Archer and AEG plan downtown Los Angeles vertiport at L.A. LIVE</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AeroTime</font>",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdmN4TWR1NTkyYjQ5aGhtNVVmWFcybW1sWk9HeGRtRWRVak80WEFkZDVKM3VfRzhZZnpoNEZZUXplLTkxRk9tZklNUzY3Y0NWMVRHOVp2ejYtVlI3SktTMTFZTkpUZGlrNXVOTjB0VjFXUkx2Qm1fcjVJbFVTWnZfWkRWNF9CYmZnNGs4V9IBkgFBVV95cUxOcTZOUjhndGdKUDRxUUhLR2FfZjVnMTd2ZGQ2ZW5fVUNUR19KaUhhTnFsV3JkRVJ5eXhwYVJ4aFg5a2NQSHFjY2VOVGh3ZEtsSzR1dzRkdnBXNV9ZVGtERFFIQ2psQW54TlVMWktmLS1nS3BmeWFuakp2U3FvdGhvT1Byd3NqREZjbE5kQXJxNzJSZw?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdmN4TWR1NTkyYjQ5aGhtNVVmWFcybW1sWk9HeGRtRWRVak80WEFkZDVKM3VfRzhZZnpoNEZZUXplLTkxRk9tZklNUzY3Y0NWMVRHOVp2ejYtVlI3SktTMTFZTkpUZGlrNXVOTjB0VjFXUkx2Qm1fcjVJbFVTWnZfWkRWNF9CYmZnNGs4V9IBkgFBVV95cUxOcTZOUjhndGdKUDRxUUhLR2FfZjVnMTd2ZGQ2ZW5fVUNUR19KaUhhTnFsV3JkRVJ5eXhwYVJ4aFg5a2NQSHFjY2VOVGh3ZEtsSzR1dzRkdnBXNV9ZVGtERFFIQ2psQW54TlVMWktmLS1nS3BmeWFuakp2U3FvdGhvT1Byd3NqREZjbE5kQXJxNzJSZw?oc=5",
-      "publishedAt": "2026-08-24T12:00:00.000Z",
-      "source": "AeroTime",
+      "title": "Archer, AEG Plan Downtown Los Angeles Vertiport",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOUG1SV24tTm5ndlBsZTdIX1NIN0JMbWkwTVJXOXQ0WVVxdHNwZUNrdEhtUXp0SGJ1Nld3QVIwampROE9zS1FuV1piS19Cb1pjbDNUdGtlLTNyVlVpVDVsbTNZRTNQNVE3NGt2VWttM09OLXd6b2xYbnFDUjhOWEtZQ1hKXzVDZVBzRVRlTDBHajBWOTFULUtqejcyb0F0TEU?oc=5\" target=\"_blank\">Archer, AEG Plan Downtown Los Angeles Vertiport</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AVweb</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOUG1SV24tTm5ndlBsZTdIX1NIN0JMbWkwTVJXOXQ0WVVxdHNwZUNrdEhtUXp0SGJ1Nld3QVIwampROE9zS1FuV1piS19Cb1pjbDNUdGtlLTNyVlVpVDVsbTNZRTNQNVE3NGt2VWttM09OLXd6b2xYbnFDUjhOWEtZQ1hKXzVDZVBzRVRlTDBHajBWOTFULUtqejcyb0F0TEU?oc=5\" target=\"_blank\">Archer, AEG Plan Downtown Los Angeles Vertiport</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AVweb</font>",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUG1SV24tTm5ndlBsZTdIX1NIN0JMbWkwTVJXOXQ0WVVxdHNwZUNrdEhtUXp0SGJ1Nld3QVIwampROE9zS1FuV1piS19Cb1pjbDNUdGtlLTNyVlVpVDVsbTNZRTNQNVE3NGt2VWttM09OLXd6b2xYbnFDUjhOWEtZQ1hKXzVDZVBzRVRlTDBHajBWOTFULUtqejcyb0F0TEU?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUG1SV24tTm5ndlBsZTdIX1NIN0JMbWkwTVJXOXQ0WVVxdHNwZUNrdEhtUXp0SGJ1Nld3QVIwampROE9zS1FuV1piS19Cb1pjbDNUdGtlLTNyVlVpVDVsbTNZRTNQNVE3NGt2VWttM09OLXd6b2xYbnFDUjhOWEtZQ1hKXzVDZVBzRVRlTDBHajBWOTFULUtqejcyb0F0TEU?oc=5",
+      "publishedAt": "2026-08-24T13:32:02.000Z",
+      "source": "AVweb",
       "_feedRegion": "global",
       "_feedName": "Google News (Global)",
       "_scoring": {
@@ -902,13 +902,13 @@
       }
     },
     {
-      "title": "Archer, AEG Plan Downtown Los Angeles Vertiport",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOUG1SV24tTm5ndlBsZTdIX1NIN0JMbWkwTVJXOXQ0WVVxdHNwZUNrdEhtUXp0SGJ1Nld3QVIwampROE9zS1FuV1piS19Cb1pjbDNUdGtlLTNyVlVpVDVsbTNZRTNQNVE3NGt2VWttM09OLXd6b2xYbnFDUjhOWEtZQ1hKXzVDZVBzRVRlTDBHajBWOTFULUtqejcyb0F0TEU?oc=5\" target=\"_blank\">Archer, AEG Plan Downtown Los Angeles Vertiport</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AVweb</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOUG1SV24tTm5ndlBsZTdIX1NIN0JMbWkwTVJXOXQ0WVVxdHNwZUNrdEhtUXp0SGJ1Nld3QVIwampROE9zS1FuV1piS19Cb1pjbDNUdGtlLTNyVlVpVDVsbTNZRTNQNVE3NGt2VWttM09OLXd6b2xYbnFDUjhOWEtZQ1hKXzVDZVBzRVRlTDBHajBWOTFULUtqejcyb0F0TEU?oc=5\" target=\"_blank\">Archer, AEG Plan Downtown Los Angeles Vertiport</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AVweb</font>",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUG1SV24tTm5ndlBsZTdIX1NIN0JMbWkwTVJXOXQ0WVVxdHNwZUNrdEhtUXp0SGJ1Nld3QVIwampROE9zS1FuV1piS19Cb1pjbDNUdGtlLTNyVlVpVDVsbTNZRTNQNVE3NGt2VWttM09OLXd6b2xYbnFDUjhOWEtZQ1hKXzVDZVBzRVRlTDBHajBWOTFULUtqejcyb0F0TEU?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUG1SV24tTm5ndlBsZTdIX1NIN0JMbWkwTVJXOXQ0WVVxdHNwZUNrdEhtUXp0SGJ1Nld3QVIwampROE9zS1FuV1piS19Cb1pjbDNUdGtlLTNyVlVpVDVsbTNZRTNQNVE3NGt2VWttM09OLXd6b2xYbnFDUjhOWEtZQ1hKXzVDZVBzRVRlTDBHajBWOTFULUtqejcyb0F0TEU?oc=5",
-      "publishedAt": "2026-08-24T13:32:02.000Z",
-      "source": "AVweb",
+      "title": "Archer and AEG plan downtown Los Angeles vertiport at L.A. LIVE",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPdmN4TWR1NTkyYjQ5aGhtNVVmWFcybW1sWk9HeGRtRWRVak80WEFkZDVKM3VfRzhZZnpoNEZZUXplLTkxRk9tZklNUzY3Y0NWMVRHOVp2ejYtVlI3SktTMTFZTkpUZGlrNXVOTjB0VjFXUkx2Qm1fcjVJbFVTWnZfWkRWNF9CYmZnNGs4V9IBkgFBVV95cUxOcTZOUjhndGdKUDRxUUhLR2FfZjVnMTd2ZGQ2ZW5fVUNUR19KaUhhTnFsV3JkRVJ5eXhwYVJ4aFg5a2NQSHFjY2VOVGh3ZEtsSzR1dzRkdnBXNV9ZVGtERFFIQ2psQW54TlVMWktmLS1nS3BmeWFuakp2U3FvdGhvT1Byd3NqREZjbE5kQXJxNzJSZw?oc=5\" target=\"_blank\">Archer and AEG plan downtown Los Angeles vertiport at L.A. LIVE</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AeroTime</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPdmN4TWR1NTkyYjQ5aGhtNVVmWFcybW1sWk9HeGRtRWRVak80WEFkZDVKM3VfRzhZZnpoNEZZUXplLTkxRk9tZklNUzY3Y0NWMVRHOVp2ejYtVlI3SktTMTFZTkpUZGlrNXVOTjB0VjFXUkx2Qm1fcjVJbFVTWnZfWkRWNF9CYmZnNGs4V9IBkgFBVV95cUxOcTZOUjhndGdKUDRxUUhLR2FfZjVnMTd2ZGQ2ZW5fVUNUR19KaUhhTnFsV3JkRVJ5eXhwYVJ4aFg5a2NQSHFjY2VOVGh3ZEtsSzR1dzRkdnBXNV9ZVGtERFFIQ2psQW54TlVMWktmLS1nS3BmeWFuakp2U3FvdGhvT1Byd3NqREZjbE5kQXJxNzJSZw?oc=5\" target=\"_blank\">Archer and AEG plan downtown Los Angeles vertiport at L.A. LIVE</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AeroTime</font>",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdmN4TWR1NTkyYjQ5aGhtNVVmWFcybW1sWk9HeGRtRWRVak80WEFkZDVKM3VfRzhZZnpoNEZZUXplLTkxRk9tZklNUzY3Y0NWMVRHOVp2ejYtVlI3SktTMTFZTkpUZGlrNXVOTjB0VjFXUkx2Qm1fcjVJbFVTWnZfWkRWNF9CYmZnNGs4V9IBkgFBVV95cUxOcTZOUjhndGdKUDRxUUhLR2FfZjVnMTd2ZGQ2ZW5fVUNUR19KaUhhTnFsV3JkRVJ5eXhwYVJ4aFg5a2NQSHFjY2VOVGh3ZEtsSzR1dzRkdnBXNV9ZVGtERFFIQ2psQW54TlVMWktmLS1nS3BmeWFuakp2U3FvdGhvT1Byd3NqREZjbE5kQXJxNzJSZw?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdmN4TWR1NTkyYjQ5aGhtNVVmWFcybW1sWk9HeGRtRWRVak80WEFkZDVKM3VfRzhZZnpoNEZZUXplLTkxRk9tZklNUzY3Y0NWMVRHOVp2ejYtVlI3SktTMTFZTkpUZGlrNXVOTjB0VjFXUkx2Qm1fcjVJbFVTWnZfWkRWNF9CYmZnNGs4V9IBkgFBVV95cUxOcTZOUjhndGdKUDRxUUhLR2FfZjVnMTd2ZGQ2ZW5fVUNUR19KaUhhTnFsV3JkRVJ5eXhwYVJ4aFg5a2NQSHFjY2VOVGh3ZEtsSzR1dzRkdnBXNV9ZVGtERFFIQ2psQW54TlVMWktmLS1nS3BmeWFuakp2U3FvdGhvT1Byd3NqREZjbE5kQXJxNzJSZw?oc=5",
+      "publishedAt": "2026-08-24T12:00:00.000Z",
+      "source": "AeroTime",
       "_feedRegion": "global",
       "_feedName": "Google News (Global)",
       "_scoring": {
