@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-24T01:39:20.835Z",
-  "rawCount": 622,
+  "generatedAt": "2026-08-24T03:07:47.685Z",
+  "rawCount": 623,
   "articles": [
     {
       "title": "OWL launches GA730LR radar for C-UAS, UTM and BVLOS applications",
@@ -121,6 +121,43 @@
           },
           "freshness": 0,
           "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "迎撃ドローン開発のベンチャーに出資する自動車部品銘柄",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE9UNVJQSDMxSGtQMXdpb0lMU1kyNjdXWlFGa2lkVjZFb3RBZGg1cUEzQUd4b1hwVmtvZEFaeEVYdDYteXVlLUU0RGVVX1ZQSFRFSVBWN1VmNA?oc=5\" target=\"_blank\">迎撃ドローン開発のベンチャーに出資する自動車部品銘柄</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">四季報オンライン</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE9UNVJQSDMxSGtQMXdpb0lMU1kyNjdXWlFGa2lkVjZFb3RBZGg1cUEzQUd4b1hwVmtvZEFaeEVYdDYteXVlLUU0RGVVX1ZQSFRFSVBWN1VmNA?oc=5\" target=\"_blank\">迎撃ドローン開発のベンチャーに出資する自動車部品銘柄</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">四季報オンライン</font>",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9UNVJQSDMxSGtQMXdpb0lMU1kyNjdXWlFGa2lkVjZFb3RBZGg1cUEzQUd4b1hwVmtvZEFaeEVYdDYteXVlLUU0RGVVX1ZQSFRFSVBWN1VmNA?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9UNVJQSDMxSGtQMXdpb0lMU1kyNjdXWlFGa2lkVjZFb3RBZGg1cUEzQUd4b1hwVmtvZEFaeEVYdDYteXVlLUU0RGVVX1ZQSFRFSVBWN1VmNA?oc=5",
+      "publishedAt": "2026-08-24T02:30:00.000Z",
+      "source": "四季報オンライン",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP 経済メディア)",
+      "_scoring": {
+        "score": 80,
+        "categories": [
+          "技術・製品",
+          "市場・資金"
+        ],
+        "breakdown": {
+          "required": true,
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "market": {
+            "matches": 1,
+            "catScore": 20
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 20,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
         },
         "pass": true
       }
@@ -281,47 +318,6 @@
       }
     },
     {
-      "title": "Swedish Transport Agency approves police request to establish BVLOS drone zone – precursor to UTM",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxOWXhOcFZxVUUwR3VKSXZBOGRRUkVKZlFVMl8zeTVxeHk2cTNHRXQ4ZV9WcTduNkNDXzNmSktUMnVYdERBYklZaGFlMmREeGtQMG1FVmhRRWEwX1dBQ0RweEZQWEtXX2NqNE1fd0VoNjdWX1A0allKX2ZjNjZlT3VmUUwxYWhoRnRoWE9BUHJ5dldraUJ5VV9vTmtJYTVEdkpPSFhMV3cwSzJvV0ZUdGlTQUZoU2R6TUNuVUxYcnVtYW1PM0VaTVlqUnJrNzlEVGpSelRYS0JZdE1XLVJf?oc=5\" target=\"_blank\">Swedish Transport Agency approves police request to establish BVLOS drone zone – precursor to UTM</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxOWXhOcFZxVUUwR3VKSXZBOGRRUkVKZlFVMl8zeTVxeHk2cTNHRXQ4ZV9WcTduNkNDXzNmSktUMnVYdERBYklZaGFlMmREeGtQMG1FVmhRRWEwX1dBQ0RweEZQWEtXX2NqNE1fd0VoNjdWX1A0allKX2ZjNjZlT3VmUUwxYWhoRnRoWE9BUHJ5dldraUJ5VV9vTmtJYTVEdkpPSFhMV3cwSzJvV0ZUdGlTQUZoU2R6TUNuVUxYcnVtYW1PM0VaTVlqUnJrNzlEVGpSelRYS0JZdE1XLVJf?oc=5\" target=\"_blank\">Swedish Transport Agency approves police request to establish BVLOS drone zone – precursor to UTM</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOWXhOcFZxVUUwR3VKSXZBOGRRUkVKZlFVMl8zeTVxeHk2cTNHRXQ4ZV9WcTduNkNDXzNmSktUMnVYdERBYklZaGFlMmREeGtQMG1FVmhRRWEwX1dBQ0RweEZQWEtXX2NqNE1fd0VoNjdWX1A0allKX2ZjNjZlT3VmUUwxYWhoRnRoWE9BUHJ5dldraUJ5VV9vTmtJYTVEdkpPSFhMV3cwSzJvV0ZUdGlTQUZoU2R6TUNuVUxYcnVtYW1PM0VaTVlqUnJrNzlEVGpSelRYS0JZdE1XLVJf?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOWXhOcFZxVUUwR3VKSXZBOGRRUkVKZlFVMl8zeTVxeHk2cTNHRXQ4ZV9WcTduNkNDXzNmSktUMnVYdERBYklZaGFlMmREeGtQMG1FVmhRRWEwX1dBQ0RweEZQWEtXX2NqNE1fd0VoNjdWX1A0allKX2ZjNjZlT3VmUUwxYWhoRnRoWE9BUHJ5dldraUJ5VV9vTmtJYTVEdkpPSFhMV3cwSzJvV0ZUdGlTQUZoU2R6TUNuVUxYcnVtYW1PM0VaTVlqUnJrNzlEVGpSelRYS0JZdE1XLVJf?oc=5",
-      "publishedAt": "2026-08-20T12:14:35.000Z",
-      "source": "Unmanned airspace",
-      "_feedRegion": "global",
-      "_feedName": "Google News (Global)",
-      "_scoring": {
-        "score": 71,
-        "categories": [
-          "規制・政策",
-          "技術・製品",
-          "市場・資金"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 1,
-            "catScore": 32
-          },
-          "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "market": {
-            "matches": 1,
-            "catScore": 20
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 0,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
       "title": "民間航空局は、タンソンニャット空港付近での無人航空機の違法出現についてコメントを発表した。",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQUUpnUFMxaWVPSDR2WUloeXZRS3ZzVmhWTFBYMXQ2bVBvbWdiZndncFNBNWpOd2RBYXl3LW55eE5KZXc3X0ZTM2RsUWNIZERPam8za25tWld4Y0tHWC03RmVDT3FiZEx4eEFaUS1feXJpbXBXV1Z2TVpVSWEwMDhwVHU1V0lzYjNpMEpzdWRCd09fNFRFcDNuaGhEZUlob2FjbzY4bg?oc=5\" target=\"_blank\">民間航空局は、タンソンニャット空港付近での無人航空機の違法出現についてコメントを発表した。</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Vietnam.vn</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQUUpnUFMxaWVPSDR2WUloeXZRS3ZzVmhWTFBYMXQ2bVBvbWdiZndncFNBNWpOd2RBYXl3LW55eE5KZXc3X0ZTM2RsUWNIZERPam8za25tWld4Y0tHWC03RmVDT3FiZEx4eEFaUS1feXJpbXBXV1Z2TVpVSWEwMDhwVHU1V0lzYjNpMEpzdWRCd09fNFRFcDNuaGhEZUlob2FjbzY4bg?oc=5\" target=\"_blank\">民間航空局は、タンソンニャット空港付近での無人航空機の違法出現についてコメントを発表した。</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Vietnam.vn</font>",
@@ -437,6 +433,42 @@
       }
     },
     {
+      "title": "Japan accepts Archer Midnight eVTOL certification application, the fifth in line to operate in its airspace",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMimgJBVV95cUxNVzRhbU0tQnIxRUdwTmZsS2Z0N3VRSmpYU01KX2VlckJUQmFJU0ZWQzJaZjNQNTg3T2QtNGFTYjhuLW5FSW8xTDZCZGJ0ZVZ6eTFhUE5DTE5lSEdjMGVmOVhHMlZJWDNWcURmdUhTUjNpdy1YMEVVT29NN01ZOVlod0xoOTJDM09LdHg3S01PS3FlVDJGcnQ1QVl6RmRQZ0dXc0RBM1prOGtJY0N1dWNjdUtyanBpNzJweHlZanNMU0lKS3IyeU4zOVZTYXRKU1JPQkZBTWVTMUlnRlBfR1FoTWNwcjZMZ01Jc3E0RUxTemNjelNyV0c0WUtiWEtDalUtc0MtWkNfbFNyQUJmaGdTcVJuYnUwMHpxWkE?oc=5\" target=\"_blank\">Japan accepts Archer Midnight eVTOL certification application, the fifth in line to operate in its airspace</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aviacionline</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMimgJBVV95cUxNVzRhbU0tQnIxRUdwTmZsS2Z0N3VRSmpYU01KX2VlckJUQmFJU0ZWQzJaZjNQNTg3T2QtNGFTYjhuLW5FSW8xTDZCZGJ0ZVZ6eTFhUE5DTE5lSEdjMGVmOVhHMlZJWDNWcURmdUhTUjNpdy1YMEVVT29NN01ZOVlod0xoOTJDM09LdHg3S01PS3FlVDJGcnQ1QVl6RmRQZ0dXc0RBM1prOGtJY0N1dWNjdUtyanBpNzJweHlZanNMU0lKS3IyeU4zOVZTYXRKU1JPQkZBTWVTMUlnRlBfR1FoTWNwcjZMZ01Jc3E0RUxTemNjelNyV0c0WUtiWEtDalUtc0MtWkNfbFNyQUJmaGdTcVJuYnUwMHpxWkE?oc=5\" target=\"_blank\">Japan accepts Archer Midnight eVTOL certification application, the fifth in line to operate in its airspace</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aviacionline</font>",
+      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNVzRhbU0tQnIxRUdwTmZsS2Z0N3VRSmpYU01KX2VlckJUQmFJU0ZWQzJaZjNQNTg3T2QtNGFTYjhuLW5FSW8xTDZCZGJ0ZVZ6eTFhUE5DTE5lSEdjMGVmOVhHMlZJWDNWcURmdUhTUjNpdy1YMEVVT29NN01ZOVlod0xoOTJDM09LdHg3S01PS3FlVDJGcnQ1QVl6RmRQZ0dXc0RBM1prOGtJY0N1dWNjdUtyanBpNzJweHlZanNMU0lKS3IyeU4zOVZTYXRKU1JPQkZBTWVTMUlnRlBfR1FoTWNwcjZMZ01Jc3E0RUxTemNjelNyV0c0WUtiWEtDalUtc0MtWkNfbFNyQUJmaGdTcVJuYnUwMHpxWkE?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNVzRhbU0tQnIxRUdwTmZsS2Z0N3VRSmpYU01KX2VlckJUQmFJU0ZWQzJaZjNQNTg3T2QtNGFTYjhuLW5FSW8xTDZCZGJ0ZVZ6eTFhUE5DTE5lSEdjMGVmOVhHMlZJWDNWcURmdUhTUjNpdy1YMEVVT29NN01ZOVlod0xoOTJDM09LdHg3S01PS3FlVDJGcnQ1QVl6RmRQZ0dXc0RBM1prOGtJY0N1dWNjdUtyanBpNzJweHlZanNMU0lKS3IyeU4zOVZTYXRKU1JPQkZBTWVTMUlnRlBfR1FoTWNwcjZMZ01Jc3E0RUxTemNjelNyV0c0WUtiWEtDalUtc0MtWkNfbFNyQUJmaGdTcVJuYnUwMHpxWkE?oc=5",
+      "publishedAt": "2026-08-23T23:36:41.000Z",
+      "source": "Aviacionline",
+      "_feedRegion": "global",
+      "_feedName": "Google News (Global)",
+      "_scoring": {
+        "score": 67,
+        "categories": [
+          "規制・政策",
+          "市場・資金"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
+          "market": {
+            "matches": 1,
+            "catScore": 20
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 15,
+          "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
       "title": "KDDI、ベトナムとフィリピンでインフラ点検へのAIドローン活用可能性を調査",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFBMeUxoYm5NVDFrTDB5dFpWUmxLOHY5RjJYeEhsYmRTeGo4R2FDbkNMYkt1LWQxNWwxMFFWTXZTaVVQbFdlN19aQk9zeGxfOWRlbGFsSTFTUG5MS2YzR1BCMkJYUW1EZ1QxQmZQUw?oc=5\" target=\"_blank\">KDDI、ベトナムとフィリピンでインフラ点検へのAIドローン活用可能性を調査</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ITmedia</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFBMeUxoYm5NVDFrTDB5dFpWUmxLOHY5RjJYeEhsYmRTeGo4R2FDbkNMYkt1LWQxNWwxMFFWTXZTaVVQbFdlN19aQk9zeGxfOWRlbGFsSTFTUG5MS2YzR1BCMkJYUW1EZ1QxQmZQUw?oc=5\" target=\"_blank\">KDDI、ベトナムとフィリピンでインフラ点検へのAIドローン活用可能性を調査</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ITmedia</font>",
@@ -542,47 +574,6 @@
           "freshness": 15,
           "titleBonus": 10,
           "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "TSA to purchase C-UAS sensors to address presence of unauthorised drones at US airports",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxQY3gtTHRiSXViWFRPV2c4YTdTWWEyRWNRSUxVNWdzalAzZ1B1dm9WY3FsYVdYNWU5WUlZdGdSb0Rnb3ExX2tWSXVGOFFmblZXaDZoT2V5aVYtVFJXbWRVWUxzWmN0YU5IYUl3WnBid2gwN2xqTlhxaHFrdnVCM2wySkZ3QXBmOHVhR0hsMVBhcXZHVDM2SmhEZ0REWFhuRVZzZWhLLXZ0eVNfUEtrVmNicFVxVm1LOXhQVGlOX1phQTJDZGYxS0ZsZnhwU3g2WEpXczJ4cXE2NmRBYVBfNThEYUxWWThHWXI3anNj?oc=5\" target=\"_blank\">TSA to purchase C-UAS sensors to address presence of unauthorised drones at US airports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxQY3gtTHRiSXViWFRPV2c4YTdTWWEyRWNRSUxVNWdzalAzZ1B1dm9WY3FsYVdYNWU5WUlZdGdSb0Rnb3ExX2tWSXVGOFFmblZXaDZoT2V5aVYtVFJXbWRVWUxzWmN0YU5IYUl3WnBid2gwN2xqTlhxaHFrdnVCM2wySkZ3QXBmOHVhR0hsMVBhcXZHVDM2SmhEZ0REWFhuRVZzZWhLLXZ0eVNfUEtrVmNicFVxVm1LOXhQVGlOX1phQTJDZGYxS0ZsZnhwU3g2WEpXczJ4cXE2NmRBYVBfNThEYUxWWThHWXI3anNj?oc=5\" target=\"_blank\">TSA to purchase C-UAS sensors to address presence of unauthorised drones at US airports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQY3gtTHRiSXViWFRPV2c4YTdTWWEyRWNRSUxVNWdzalAzZ1B1dm9WY3FsYVdYNWU5WUlZdGdSb0Rnb3ExX2tWSXVGOFFmblZXaDZoT2V5aVYtVFJXbWRVWUxzWmN0YU5IYUl3WnBid2gwN2xqTlhxaHFrdnVCM2wySkZ3QXBmOHVhR0hsMVBhcXZHVDM2SmhEZ0REWFhuRVZzZWhLLXZ0eVNfUEtrVmNicFVxVm1LOXhQVGlOX1phQTJDZGYxS0ZsZnhwU3g2WEpXczJ4cXE2NmRBYVBfNThEYUxWWThHWXI3anNj?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQY3gtTHRiSXViWFRPV2c4YTdTWWEyRWNRSUxVNWdzalAzZ1B1dm9WY3FsYVdYNWU5WUlZdGdSb0Rnb3ExX2tWSXVGOFFmblZXaDZoT2V5aVYtVFJXbWRVWUxzWmN0YU5IYUl3WnBid2gwN2xqTlhxaHFrdnVCM2wySkZ3QXBmOHVhR0hsMVBhcXZHVDM2SmhEZ0REWFhuRVZzZWhLLXZ0eVNfUEtrVmNicFVxVm1LOXhQVGlOX1phQTJDZGYxS0ZsZnhwU3g2WEpXczJ4cXE2NmRBYVBfNThEYUxWWThHWXI3anNj?oc=5",
-      "publishedAt": "2026-08-17T11:53:50.000Z",
-      "source": "Unmanned airspace",
-      "_feedRegion": "global",
-      "_feedName": "Google News (Global)",
-      "_scoring": {
-        "score": 64,
-        "categories": [
-          "技術・製品",
-          "市場・資金",
-          "政策・インフラ"
-        ],
-        "breakdown": {
-          "required": true,
-          "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "market": {
-            "matches": 1,
-            "catScore": 20
-          },
-          "policy": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 0,
-          "titleBonus": 10
         },
         "pass": true
       }
@@ -773,43 +764,6 @@
       }
     },
     {
-      "title": "楽天、独ドローン新興と提携＝攻撃型、防衛省納入に向け",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE5MSTc1VVgyLThGUThERGdRdm5Gd0l2LUY4ZWNaeDlza0xpR0ZRN09yVzV0Z2pfQ2w4bXBQVzFwUjltLWhvYlZIMGZEQ1dodE5aVnVXag?oc=5\" target=\"_blank\">楽天、独ドローン新興と提携＝攻撃型、防衛省納入に向け</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">時事通信ニュース</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE5MSTc1VVgyLThGUThERGdRdm5Gd0l2LUY4ZWNaeDlza0xpR0ZRN09yVzV0Z2pfQ2w4bXBQVzFwUjltLWhvYlZIMGZEQ1dodE5aVnVXag?oc=5\" target=\"_blank\">楽天、独ドローン新興と提携＝攻撃型、防衛省納入に向け</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">時事通信ニュース</font>",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5MSTc1VVgyLThGUThERGdRdm5Gd0l2LUY4ZWNaeDlza0xpR0ZRN09yVzV0Z2pfQ2w4bXBQVzFwUjltLWhvYlZIMGZEQ1dodE5aVnVXag?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5MSTc1VVgyLThGUThERGdRdm5Gd0l2LUY4ZWNaeDlza0xpR0ZRN09yVzV0Z2pfQ2w4bXBQVzFwUjltLWhvYlZIMGZEQ1dodE5aVnVXag?oc=5",
-      "publishedAt": "2026-08-17T11:09:48.000Z",
-      "source": "時事通信ニュース",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP 政策/実証)",
-      "_scoring": {
-        "score": 60,
-        "categories": [
-          "市場・資金",
-          "政策・インフラ"
-        ],
-        "breakdown": {
-          "required": true,
-          "market": {
-            "matches": 1,
-            "catScore": 20
-          },
-          "policy": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 0,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
       "title": "楽天、迎撃用ドローンを手がけるドイツ新興企業と提携…防衛省への納入や国内での量産化も視野に (読売新聞オンライン)",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPb3l3U0FDVUpEN1p5cTd6cnN1cWRmemVsSEFsVk9kVFp4VnhENktyaTFuX21fYW5zTHRwMTQ3OUpWcTkzSUcwcmkyRG9Ic0o0Z25BTjJISHUwbWxNQkQ5WUFTR1lmRmo3ak5kQVg5YW1CcVlzV0JMY2FPLUwyODlmaHVBRWNJMl9rY3JGSXhB?oc=5\" target=\"_blank\">楽天、迎撃用ドローンを手がけるドイツ新興企業と提携…防衛省への納入や国内での量産化も視野に (読売新聞オンライン)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPb3l3U0FDVUpEN1p5cTd6cnN1cWRmemVsSEFsVk9kVFp4VnhENktyaTFuX21fYW5zTHRwMTQ3OUpWcTkzSUcwcmkyRG9Ic0o0Z25BTjJISHUwbWxNQkQ5WUFTR1lmRmo3ak5kQVg5YW1CcVlzV0JMY2FPLUwyODlmaHVBRWNJMl9rY3JGSXhB?oc=5\" target=\"_blank\">楽天、迎撃用ドローンを手がけるドイツ新興企業と提携…防衛省への納入や国内での量産化も視野に (読売新聞オンライン)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
@@ -889,7 +843,7 @@
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE1zdno1dnZzdEpHcFNlN0J5bGxlc0tVT3BsSHVXeDhpclllZXlvY3p1MWM2MUFPSVNNLTRsdHYxVHUyOUZkOVVNZnltSDRXRl9VdlJDanVFLXNBUTRJS3dv?oc=5\" target=\"_blank\">Autonomy HD、次世代の「Surveyor」シリーズを公開。係留型ハイブリッド機と半固体電池採用の重量物搬送機 [国際ドローン展2026]</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DRONE.jp</font>",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1zdno1dnZzdEpHcFNlN0J5bGxlc0tVT3BsSHVXeDhpclllZXlvY3p1MWM2MUFPSVNNLTRsdHYxVHUyOUZkOVVNZnltSDRXRl9VdlJDanVFLXNBUTRJS3dv?oc=5",
       "googleNewsUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1zdno1dnZzdEpHcFNlN0J5bGxlc0tVT3BsSHVXeDhpclllZXlvY3p1MWM2MUFPSVNNLTRsdHYxVHUyOUZkOVVNZnltSDRXRl9VdlJDanVFLXNBUTRJS3dv?oc=5",
-      "publishedAt": "2026-07-17T07:13:53.000Z",
+      "publishedAt": "2026-07-17T07:00:00.000Z",
       "source": "DRONE.jp",
       "_feedRegion": "jp",
       "_feedName": "Google News (JP ドローン専門)",
@@ -952,38 +906,6 @@
           },
           "freshness": 0,
           "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "ドローン規制に新ルール、国交省 工業専用地域は許可不要に",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ReVQxMkFzUDA3WXpCVzROZ1l4b0pjWlF2ZXJGV1ZZSGtLaEdTam1VNk1BQ1R2QkNTRTZkWnZIMTBFYnE2Mk1zaW9NUHVYekZmd1g2WVotdk91TFRL?oc=5\" target=\"_blank\">ドローン規制に新ルール、国交省 工業専用地域は許可不要に</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">山陽新聞</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ReVQxMkFzUDA3WXpCVzROZ1l4b0pjWlF2ZXJGV1ZZSGtLaEdTam1VNk1BQ1R2QkNTRTZkWnZIMTBFYnE2Mk1zaW9NUHVYekZmd1g2WVotdk91TFRL?oc=5\" target=\"_blank\">ドローン規制に新ルール、国交省 工業専用地域は許可不要に</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">山陽新聞</font>",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ReVQxMkFzUDA3WXpCVzROZ1l4b0pjWlF2ZXJGV1ZZSGtLaEdTam1VNk1BQ1R2QkNTRTZkWnZIMTBFYnE2Mk1zaW9NUHVYekZmd1g2WVotdk91TFRL?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ReVQxMkFzUDA3WXpCVzROZ1l4b0pjWlF2ZXJGV1ZZSGtLaEdTam1VNk1BQ1R2QkNTRTZkWnZIMTBFYnE2Mk1zaW9NUHVYekZmd1g2WVotdk91TFRL?oc=5",
-      "publishedAt": "2026-08-15T02:19:34.000Z",
-      "source": "山陽新聞",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP 政策/実証)",
-      "_scoring": {
-        "score": 57,
-        "categories": [
-          "規制・政策"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 2,
-            "catScore": 40
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 0,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
         },
         "pass": true
       }
@@ -1093,20 +1015,20 @@
       }
     },
     {
-      "title": "FlybyOps Launches Enterprise Drone Platform to Scale BVLOS and Autonomous UAS Operations",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOcjBkWkJlUlJCUUdETlJNQzhjN1BpNENVNFFiTG1lZmd4bERwaWdtTjN1Q3VaQlhIMWVfMEI1UnYzR1Rmc2IzcUlDVHBYSFdWRFFVcjJaNG1VV3lIVHc3Z25PVzdmV3pjV2lHZ1FJV1V5bEdFdWpGWWZhdlZ6bDZTQ2t2RVBnMmg2VEZOeHJkOU1jVzlZa0YtZFNJZ3FmeFZnMGlTYzZtc0l1ZkI3V0V1ZHVyeUlDdUhibHFHT0Y1UQ?oc=5\" target=\"_blank\">FlybyOps Launches Enterprise Drone Platform to Scale BVLOS and Autonomous UAS Operations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">uasweekly.com</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOcjBkWkJlUlJCUUdETlJNQzhjN1BpNENVNFFiTG1lZmd4bERwaWdtTjN1Q3VaQlhIMWVfMEI1UnYzR1Rmc2IzcUlDVHBYSFdWRFFVcjJaNG1VV3lIVHc3Z25PVzdmV3pjV2lHZ1FJV1V5bEdFdWpGWWZhdlZ6bDZTQ2t2RVBnMmg2VEZOeHJkOU1jVzlZa0YtZFNJZ3FmeFZnMGlTYzZtc0l1ZkI3V0V1ZHVyeUlDdUhibHFHT0Y1UQ?oc=5\" target=\"_blank\">FlybyOps Launches Enterprise Drone Platform to Scale BVLOS and Autonomous UAS Operations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">uasweekly.com</font>",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcjBkWkJlUlJCUUdETlJNQzhjN1BpNENVNFFiTG1lZmd4bERwaWdtTjN1Q3VaQlhIMWVfMEI1UnYzR1Rmc2IzcUlDVHBYSFdWRFFVcjJaNG1VV3lIVHc3Z25PVzdmV3pjV2lHZ1FJV1V5bEdFdWpGWWZhdlZ6bDZTQ2t2RVBnMmg2VEZOeHJkOU1jVzlZa0YtZFNJZ3FmeFZnMGlTYzZtc0l1ZkI3V0V1ZHVyeUlDdUhibHFHT0Y1UQ?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcjBkWkJlUlJCUUdETlJNQzhjN1BpNENVNFFiTG1lZmd4bERwaWdtTjN1Q3VaQlhIMWVfMEI1UnYzR1Rmc2IzcUlDVHBYSFdWRFFVcjJaNG1VV3lIVHc3Z25PVzdmV3pjV2lHZ1FJV1V5bEdFdWpGWWZhdlZ6bDZTQ2t2RVBnMmg2VEZOeHJkOU1jVzlZa0YtZFNJZ3FmeFZnMGlTYzZtc0l1ZkI3V0V1ZHVyeUlDdUhibHFHT0Y1UQ?oc=5",
-      "publishedAt": "2026-08-19T10:45:31.000Z",
-      "source": "uasweekly.com",
-      "_feedRegion": "global",
-      "_feedName": "Google News (Global)",
+      "title": "Drones could be banned over most public spaces in this Colorado city, but the FAA may stand in the way",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOOWdVaXZGTTVkQ3ZXTmQ1dTZYZXl1SnJmaHM4OVNGbG5ySHVfdk5tUS1KS09TT2N2SEZGN2txd3FNTmJfN3VlUVhUZ3FEekF1VzNIY3FNbk5uMUZVdG1IT1pybGRBVHdMTjdNcFlLX250VzB4ekpIbzduVFRsRk1wQ3FiOGtfeG53Vk5TTm8wcnJGMWtWVm40blRn?oc=5\" target=\"_blank\">Drones could be banned over most public spaces in this Colorado city, but the FAA may stand in the way</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechSpot</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOOWdVaXZGTTVkQ3ZXTmQ1dTZYZXl1SnJmaHM4OVNGbG5ySHVfdk5tUS1KS09TT2N2SEZGN2txd3FNTmJfN3VlUVhUZ3FEekF1VzNIY3FNbk5uMUZVdG1IT1pybGRBVHdMTjdNcFlLX250VzB4ekpIbzduVFRsRk1wQ3FiOGtfeG53Vk5TTm8wcnJGMWtWVm40blRn?oc=5\" target=\"_blank\">Drones could be banned over most public spaces in this Colorado city, but the FAA may stand in the way</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechSpot</font>",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOWdVaXZGTTVkQ3ZXTmQ1dTZYZXl1SnJmaHM4OVNGbG5ySHVfdk5tUS1KS09TT2N2SEZGN2txd3FNTmJfN3VlUVhUZ3FEekF1VzNIY3FNbk5uMUZVdG1IT1pybGRBVHdMTjdNcFlLX250VzB4ekpIbzduVFRsRk1wQ3FiOGtfeG53Vk5TTm8wcnJGMWtWVm40blRn?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOWdVaXZGTTVkQ3ZXTmQ1dTZYZXl1SnJmaHM4OVNGbG5ySHVfdk5tUS1KS09TT2N2SEZGN2txd3FNTmJfN3VlUVhUZ3FEekF1VzNIY3FNbk5uMUZVdG1IT1pybGRBVHdMTjdNcFlLX250VzB4ekpIbzduVFRsRk1wQ3FiOGtfeG53Vk5TTm8wcnJGMWtWVm40blRn?oc=5",
+      "publishedAt": "2026-08-21T13:39:00.000Z",
+      "source": "TechSpot",
+      "_feedRegion": "us",
+      "_feedName": "FAA",
       "_scoring": {
-        "score": 55,
+        "score": 54,
         "categories": [
           "規制・政策",
-          "技術・製品"
+          "市場・資金"
         ],
         "breakdown": {
           "required": true,
@@ -1114,15 +1036,87 @@
             "matches": 1,
             "catScore": 32
           },
-          "technology": {
+          "market": {
             "matches": 1,
-            "catScore": 24
+            "catScore": 20
           },
           "sourceTrust": {
             "domain": "news.google.com",
             "multiplier": 0.8
           },
-          "freshness": 0,
+          "freshness": 2,
+          "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "BVLOS Goes Global: How Seven Aviation Regulators Are Building Commercial Drone Airspace",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUnNKMk5NTjJGNUVGNnpZT3ZaaE8yZjlMelp2Rm1vS1BVSmg1MU15SVZSVVpYaXJxVmd3eXdpdzNRZGNNaTlDVVptcHluVG4xOVJrTzFsT3lQQUVtNEQ4dktuUVM2Z3VPb0dVbEo0Mnd5ajN3R1NXRW9idzhjSnE4NzVreWN2eWxD?oc=5\" target=\"_blank\">BVLOS Goes Global: How Seven Aviation Regulators Are Building Commercial Drone Airspace</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Commercial UAV News</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUnNKMk5NTjJGNUVGNnpZT3ZaaE8yZjlMelp2Rm1vS1BVSmg1MU15SVZSVVpYaXJxVmd3eXdpdzNRZGNNaTlDVVptcHluVG4xOVJrTzFsT3lQQUVtNEQ4dktuUVM2Z3VPb0dVbEo0Mnd5ajN3R1NXRW9idzhjSnE4NzVreWN2eWxD?oc=5\" target=\"_blank\">BVLOS Goes Global: How Seven Aviation Regulators Are Building Commercial Drone Airspace</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Commercial UAV News</font>",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUnNKMk5NTjJGNUVGNnpZT3ZaaE8yZjlMelp2Rm1vS1BVSmg1MU15SVZSVVpYaXJxVmd3eXdpdzNRZGNNaTlDVVptcHluVG4xOVJrTzFsT3lQQUVtNEQ4dktuUVM2Z3VPb0dVbEo0Mnd5ajN3R1NXRW9idzhjSnE4NzVreWN2eWxD?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUnNKMk5NTjJGNUVGNnpZT3ZaaE8yZjlMelp2Rm1vS1BVSmg1MU15SVZSVVpYaXJxVmd3eXdpdzNRZGNNaTlDVVptcHluVG4xOVJrTzFsT3lQQUVtNEQ4dktuUVM2Z3VPb0dVbEo0Mnd5ajN3R1NXRW9idzhjSnE4NzVreWN2eWxD?oc=5",
+      "publishedAt": "2026-08-21T18:08:31.000Z",
+      "source": "Commercial UAV News",
+      "_feedRegion": "global",
+      "_feedName": "Google News (Global)",
+      "_scoring": {
+        "score": 54,
+        "categories": [
+          "規制・政策",
+          "市場・資金"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
+          "market": {
+            "matches": 1,
+            "catScore": 20
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 2,
+          "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "Uber Wants 1 Million Daily Drone Deliveries By 2029, But What Happens To Workers, Air Safety And Privacy?",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE90TWtmb0o4dE9POVVobV9rZ2dZenJqLTdXV0JnaHhYQnlKb3M0dDhhUlZoM2g3YnZEVHg4NjRwSjdVdmYzWmNpeEVHd3F0NUFna3VrRm9TVFZtRm4ycnNHSlU0LURUV2lvV21MVkVRS2VoRGREVlRCVA?oc=5\" target=\"_blank\">Uber Wants 1 Million Daily Drone Deliveries By 2029, But What Happens To Workers, Air Safety And Privacy?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Baller Alert</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE90TWtmb0o4dE9POVVobV9rZ2dZenJqLTdXV0JnaHhYQnlKb3M0dDhhUlZoM2g3YnZEVHg4NjRwSjdVdmYzWmNpeEVHd3F0NUFna3VrRm9TVFZtRm4ycnNHSlU0LURUV2lvV21MVkVRS2VoRGREVlRCVA?oc=5\" target=\"_blank\">Uber Wants 1 Million Daily Drone Deliveries By 2029, But What Happens To Workers, Air Safety And Privacy?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Baller Alert</font>",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE90TWtmb0o4dE9POVVobV9rZ2dZenJqLTdXV0JnaHhYQnlKb3M0dDhhUlZoM2g3YnZEVHg4NjRwSjdVdmYzWmNpeEVHd3F0NUFna3VrRm9TVFZtRm4ycnNHSlU0LURUV2lvV21MVkVRS2VoRGREVlRCVA?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTE90TWtmb0o4dE9POVVobV9rZ2dZenJqLTdXV0JnaHhYQnlKb3M0dDhhUlZoM2g3YnZEVHg4NjRwSjdVdmYzWmNpeEVHd3F0NUFna3VrRm9TVFZtRm4ycnNHSlU0LURUV2lvV21MVkVRS2VoRGREVlRCVA?oc=5",
+      "publishedAt": "2026-08-22T12:22:05.000Z",
+      "source": "Baller Alert",
+      "_feedRegion": "us",
+      "_feedName": "FAA",
+      "_scoring": {
+        "score": 53,
+        "categories": [
+          "市場・資金",
+          "事故・事件"
+        ],
+        "breakdown": {
+          "required": true,
+          "market": {
+            "matches": 1,
+            "catScore": 20
+          },
+          "incident": {
+            "matches": 1,
+            "catScore": 28
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 5,
           "titleBonus": 10
         },
         "pass": true
