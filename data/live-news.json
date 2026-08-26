@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T08:50:07.035Z",
+  "generatedAt": "2026-08-26T09:47:49.019Z",
   "rawCount": 599,
   "articles": [
     {
@@ -176,7 +176,7 @@
       "publishedAt": "2026-08-26T08:10:03.000Z",
       "source": "ロボスタ",
       "_feedRegion": "jp",
-      "_feedName": "Google News (JP 政策/実証)",
+      "_feedName": "Google News (JP)",
       "_scoring": {
         "score": 80,
         "categories": [
@@ -251,7 +251,7 @@
       "_feedRegion": "global",
       "_feedName": "Google News (Global)",
       "_scoring": {
-        "score": 78,
+        "score": 76,
         "categories": [
           "規制・政策",
           "技術・製品",
@@ -275,7 +275,7 @@
             "domain": "news.google.com",
             "multiplier": 0.8
           },
-          "freshness": 2,
+          "freshness": 0,
           "titleBonus": 10
         },
         "pass": true
@@ -289,43 +289,6 @@
       "googleNewsUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBVbjVsWmV0TkFYa2p4WFZyU3hCSHdnYmFCakR2NUVQcVZHd1NWZ2FxREJfOG5JR2w4eXVJWndzeHk5cWJKeWtHeEozTXR1dFB1cVl4anVBSVdfYlJHb05TUDkwQTIyX2xiMXc?oc=5",
       "publishedAt": "2026-08-25T10:33:17.000Z",
       "source": "ITmedia",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP)",
-      "_scoring": {
-        "score": 74,
-        "categories": [
-          "技術・製品",
-          "市場・資金"
-        ],
-        "breakdown": {
-          "required": true,
-          "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "market": {
-            "matches": 2,
-            "catScore": 25
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 10,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "防衛装備庁、迎撃ドローンでテラドローンと量産調達契約",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE1oVDdLU1kxd2liZFNvS2E5bG9xUmU2ZXgzaGVySF9LLWdXSWxNOW05aXR5U25CVEtEZ1FmeTVuMzJBTTA2VmxkY212Ymx2YmZsTUV5LXlnbWtyZEFia0tHYXBNeW5ORHVNSnY0ZF94blF3ZFZtV3FrVnI1MHdfdw?oc=5\" target=\"_blank\">防衛装備庁、迎撃ドローンでテラドローンと量産調達契約</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ロイター</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE1oVDdLU1kxd2liZFNvS2E5bG9xUmU2ZXgzaGVySF9LLWdXSWxNOW05aXR5U25CVEtEZ1FmeTVuMzJBTTA2VmxkY212Ymx2YmZsTUV5LXlnbWtyZEFia0tHYXBNeW5ORHVNSnY0ZF94blF3ZFZtV3FrVnI1MHdfdw?oc=5\" target=\"_blank\">防衛装備庁、迎撃ドローンでテラドローンと量産調達契約</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ロイター</font>",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1oVDdLU1kxd2liZFNvS2E5bG9xUmU2ZXgzaGVySF9LLWdXSWxNOW05aXR5U25CVEtEZ1FmeTVuMzJBTTA2VmxkY212Ymx2YmZsTUV5LXlnbWtyZEFia0tHYXBNeW5ORHVNSnY0ZF94blF3ZFZtV3FrVnI1MHdfdw?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1oVDdLU1kxd2liZFNvS2E5bG9xUmU2ZXgzaGVySF9LLWdXSWxNOW05aXR5U25CVEtEZ1FmeTVuMzJBTTA2VmxkY212Ymx2YmZsTUV5LXlnbWtyZEFia0tHYXBNeW5ORHVNSnY0ZF94blF3ZFZtV3FrVnI1MHdfdw?oc=5",
-      "publishedAt": "2026-08-25T09:44:49.000Z",
-      "source": "ロイター",
       "_feedRegion": "jp",
       "_feedName": "Google News (JP)",
       "_scoring": {
@@ -614,6 +577,43 @@
       }
     },
     {
+      "title": "防衛装備庁、迎撃ドローンでテラドローンと量産調達契約",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE1oVDdLU1kxd2liZFNvS2E5bG9xUmU2ZXgzaGVySF9LLWdXSWxNOW05aXR5U25CVEtEZ1FmeTVuMzJBTTA2VmxkY212Ymx2YmZsTUV5LXlnbWtyZEFia0tHYXBNeW5ORHVNSnY0ZF94blF3ZFZtV3FrVnI1MHdfdw?oc=5\" target=\"_blank\">防衛装備庁、迎撃ドローンでテラドローンと量産調達契約</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ロイター</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE1oVDdLU1kxd2liZFNvS2E5bG9xUmU2ZXgzaGVySF9LLWdXSWxNOW05aXR5U25CVEtEZ1FmeTVuMzJBTTA2VmxkY212Ymx2YmZsTUV5LXlnbWtyZEFia0tHYXBNeW5ORHVNSnY0ZF94blF3ZFZtV3FrVnI1MHdfdw?oc=5\" target=\"_blank\">防衛装備庁、迎撃ドローンでテラドローンと量産調達契約</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ロイター</font>",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1oVDdLU1kxd2liZFNvS2E5bG9xUmU2ZXgzaGVySF9LLWdXSWxNOW05aXR5U25CVEtEZ1FmeTVuMzJBTTA2VmxkY212Ymx2YmZsTUV5LXlnbWtyZEFia0tHYXBNeW5ORHVNSnY0ZF94blF3ZFZtV3FrVnI1MHdfdw?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1oVDdLU1kxd2liZFNvS2E5bG9xUmU2ZXgzaGVySF9LLWdXSWxNOW05aXR5U25CVEtEZ1FmeTVuMzJBTTA2VmxkY212Ymx2YmZsTUV5LXlnbWtyZEFia0tHYXBNeW5ORHVNSnY0ZF94blF3ZFZtV3FrVnI1MHdfdw?oc=5",
+      "publishedAt": "2026-08-25T09:44:49.000Z",
+      "source": "ロイター",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP)",
+      "_scoring": {
+        "score": 69,
+        "categories": [
+          "技術・製品",
+          "市場・資金"
+        ],
+        "breakdown": {
+          "required": true,
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "market": {
+            "matches": 2,
+            "catScore": 25
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 5,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
       "title": "AirData surpasses 65 million drone flights as the FAA’s BVLOS rule awaits publication",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPQ0JjTkRxOFB4TFhOeDh2UG9YOWdUeGpMUnlBNms2Y3lSVkN6UlEtTXp4OE1hd0JjQXMwaWwxMV9LcEotUEZjVTZlRXdKRFlkTTAxM3JRRXZqVHdMOUF6OURlVGhMZmx6OXA5cDRuMnlJSktBMDNjTHh3bEkzZDVZaFZ5SUl3ZUxSYWVUTVNzWWh2RW1vT2ttOUNPY3p4ZXpNZEV1WWlIVExXZ3JaOHdyNDdUMUxPWEpYTmc?oc=5\" target=\"_blank\">AirData surpasses 65 million drone flights as the FAA’s BVLOS rule awaits publication</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">sUAS News</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPQ0JjTkRxOFB4TFhOeDh2UG9YOWdUeGpMUnlBNms2Y3lSVkN6UlEtTXp4OE1hd0JjQXMwaWwxMV9LcEotUEZjVTZlRXdKRFlkTTAxM3JRRXZqVHdMOUF6OURlVGhMZmx6OXA5cDRuMnlJSktBMDNjTHh3bEkzZDVZaFZ5SUl3ZUxSYWVUTVNzWWh2RW1vT2ttOUNPY3p4ZXpNZEV1WWlIVExXZ3JaOHdyNDdUMUxPWEpYTmc?oc=5\" target=\"_blank\">AirData surpasses 65 million drone flights as the FAA’s BVLOS rule awaits publication</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">sUAS News</font>",
@@ -686,38 +686,6 @@
           },
           "freshness": 0,
           "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "空港にドローンポートを設置、夜間の航空灯火設備の遠隔・自動点検実証",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE13ZGJGQjBSRWVFRWh3U1M1OXFvYWhlaHpJcVpQeEhTMjhxSkwteHJhdkdxVF9mT1B0MkZkUUJHdFptQ3R6Qmc5LW5yeFlKbTRsRHpCWTl4c2R0dnRYWnYzUTdJa1d3Zw?oc=5\" target=\"_blank\">空港にドローンポートを設置、夜間の航空灯火設備の遠隔・自動点検実証</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">電波タイムズ</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE13ZGJGQjBSRWVFRWh3U1M1OXFvYWhlaHpJcVpQeEhTMjhxSkwteHJhdkdxVF9mT1B0MkZkUUJHdFptQ3R6Qmc5LW5yeFlKbTRsRHpCWTl4c2R0dnRYWnYzUTdJa1d3Zw?oc=5\" target=\"_blank\">空港にドローンポートを設置、夜間の航空灯火設備の遠隔・自動点検実証</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">電波タイムズ</font>",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE13ZGJGQjBSRWVFRWh3U1M1OXFvYWhlaHpJcVpQeEhTMjhxSkwteHJhdkdxVF9mT1B0MkZkUUJHdFptQ3R6Qmc5LW5yeFlKbTRsRHpCWTl4c2R0dnRYWnYzUTdJa1d3Zw?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE13ZGJGQjBSRWVFRWh3U1M1OXFvYWhlaHpJcVpQeEhTMjhxSkwteHJhdkdxVF9mT1B0MkZkUUJHdFptQ3R6Qmc5LW5yeFlKbTRsRHpCWTl4c2R0dnRYWnYzUTdJa1d3Zw?oc=5",
-      "publishedAt": "2026-08-26T06:01:41.000Z",
-      "source": "電波タイムズ",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP 政策/実証)",
-      "_scoring": {
-        "score": 64,
-        "categories": [
-          "政策・インフラ"
-        ],
-        "breakdown": {
-          "required": true,
-          "policy": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 20,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
         },
         "pass": true
       }
@@ -1015,7 +983,7 @@
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE1EZWRUVFFHX2IzV0FMNDU1akxUZkFZTmdLOEQ1VEN1TE5Ib0dOUUY0LWhDNVFMbk52LWI5bEg0bC1POEY1Q0lacDJaZWJDZ09OdnpVRDd1UWQtMlJDUXYw?oc=5\" target=\"_blank\">楽天グループ 迎撃ドローン開発手がけるドイツ新興企業と提携</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NHKニュース</font>",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1EZWRUVFFHX2IzV0FMNDU1akxUZkFZTmdLOEQ1VEN1TE5Ib0dOUUY0LWhDNVFMbk52LWI5bEg0bC1POEY1Q0lacDJaZWJDZ09OdnpVRDd1UWQtMlJDUXYw?oc=5",
       "googleNewsUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1EZWRUVFFHX2IzV0FMNDU1akxUZkFZTmdLOEQ1VEN1TE5Ib0dOUUY0LWhDNVFMbk52LWI5bEg0bC1POEY1Q0lacDJaZWJDZ09OdnpVRDd1UWQtMlJDUXYw?oc=5",
-      "publishedAt": "2026-08-17T21:41:00.000Z",
+      "publishedAt": "2026-08-18T07:00:00.000Z",
       "source": "NHKニュース",
       "_feedRegion": "jp",
       "_feedName": "Google News (JP)",
@@ -1091,6 +1059,43 @@
       "googleNewsUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA5SG9SR1lqT2JVT3VvOHhwdm5HMjRJZWFXLVg5ZHpPQ0V1NHFDU29XQXZxWmtUSDd0Z01aSGZfd2pmRExHc1lwM19nTWlvcXNjUFQ3cFdnakU1ZTkwNnM0RktYMlJQbWxieFJsQlV2aE1JN29MWXpub1dvYVhuSUE?oc=5",
       "publishedAt": "2026-08-18T02:54:24.000Z",
       "source": "Yahoo!ニュース",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP)",
+      "_scoring": {
+        "score": 60,
+        "categories": [
+          "技術・製品",
+          "市場・資金"
+        ],
+        "breakdown": {
+          "required": true,
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "market": {
+            "matches": 1,
+            "catScore": 20
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 0,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "楽天が迎撃ドローンで独新興と提携 防衛省への納入を支援、日本国内での量産化も視野",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5aYzVOTGxoSDB2dWpLeThKbXVWMTlUVzFMUTdkRWN4d2taX1lUR1VLNGFNQ1RqZ092c1hub0pxZng2YXNiZmNiTGU0NVlYQk5OcVhSYlZOb0VNS3VVWDYxZE1OSmdUdjQyYnVkeEVla3lSSFpiQkE?oc=5\" target=\"_blank\">楽天が迎撃ドローンで独新興と提携 防衛省への納入を支援、日本国内での量産化も視野</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">産経ニュース</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5aYzVOTGxoSDB2dWpLeThKbXVWMTlUVzFMUTdkRWN4d2taX1lUR1VLNGFNQ1RqZ092c1hub0pxZng2YXNiZmNiTGU0NVlYQk5OcVhSYlZOb0VNS3VVWDYxZE1OSmdUdjQyYnVkeEVla3lSSFpiQkE?oc=5\" target=\"_blank\">楽天が迎撃ドローンで独新興と提携 防衛省への納入を支援、日本国内での量産化も視野</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">産経ニュース</font>",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5aYzVOTGxoSDB2dWpLeThKbXVWMTlUVzFMUTdkRWN4d2taX1lUR1VLNGFNQ1RqZ092c1hub0pxZng2YXNiZmNiTGU0NVlYQk5OcVhSYlZOb0VNS3VVWDYxZE1OSmdUdjQyYnVkeEVla3lSSFpiQkE?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5aYzVOTGxoSDB2dWpLeThKbXVWMTlUVzFMUTdkRWN4d2taX1lUR1VLNGFNQ1RqZ092c1hub0pxZng2YXNiZmNiTGU0NVlYQk5OcVhSYlZOb0VNS3VVWDYxZE1OSmdUdjQyYnVkeEVla3lSSFpiQkE?oc=5",
+      "publishedAt": "2026-08-17T07:00:00.000Z",
+      "source": "産経ニュース",
       "_feedRegion": "jp",
       "_feedName": "Google News (JP)",
       "_scoring": {
