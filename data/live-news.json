@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-29T17:36:25.729Z",
-  "rawCount": 627,
+  "generatedAt": "2026-08-29T20:44:06.839Z",
+  "rawCount": 587,
   "articles": [
     {
       "title": "Choctaw ROTC's aerospace program produces 5 FAA-certified drone pilots, 15 safety certifications in breakout year",
@@ -95,7 +95,7 @@
       "_feedRegion": "us",
       "_feedName": "FAA",
       "_scoring": {
-        "score": 79,
+        "score": 77,
         "categories": [
           "規制・政策",
           "市場・資金",
@@ -119,7 +119,7 @@
             "domain": "news.google.com",
             "multiplier": 0.8
           },
-          "freshness": 2,
+          "freshness": 0,
           "titleBonus": 10
         },
         "pass": true
@@ -282,12 +282,12 @@
     },
     {
       "title": "防衛装備庁、迎撃ドローンでテラドローンと量産調達契約",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE1oVDdLU1kxd2liZFNvS2E5bG9xUmU2ZXgzaGVySF9LLWdXSWxNOW05aXR5U25CVEtEZ1FmeTVuMzJBTTA2VmxkY212Ymx2YmZsTUV5LXlnbWtyZEFia0tHYXBNeW5ORHVNSnY0ZF94blF3ZFZtV3FrVnI1MHdfdw?oc=5\" target=\"_blank\">防衛装備庁、迎撃ドローンでテラドローンと量産調達契約</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE1oVDdLU1kxd2liZFNvS2E5bG9xUmU2ZXgzaGVySF9LLWdXSWxNOW05aXR5U25CVEtEZ1FmeTVuMzJBTTA2VmxkY212Ymx2YmZsTUV5LXlnbWtyZEFia0tHYXBNeW5ORHVNSnY0ZF94blF3ZFZtV3FrVnI1MHdfdw?oc=5\" target=\"_blank\">防衛装備庁、迎撃ドローンでテラドローンと量産調達契約</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE1oVDdLU1kxd2liZFNvS2E5bG9xUmU2ZXgzaGVySF9LLWdXSWxNOW05aXR5U25CVEtEZ1FmeTVuMzJBTTA2VmxkY212Ymx2YmZsTUV5LXlnbWtyZEFia0tHYXBNeW5ORHVNSnY0ZF94blF3ZFZtV3FrVnI1MHdfdw?oc=5\" target=\"_blank\">防衛装備庁、迎撃ドローンでテラドローンと量産調達契約</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ロイター</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE1oVDdLU1kxd2liZFNvS2E5bG9xUmU2ZXgzaGVySF9LLWdXSWxNOW05aXR5U25CVEtEZ1FmeTVuMzJBTTA2VmxkY212Ymx2YmZsTUV5LXlnbWtyZEFia0tHYXBNeW5ORHVNSnY0ZF94blF3ZFZtV3FrVnI1MHdfdw?oc=5\" target=\"_blank\">防衛装備庁、迎撃ドローンでテラドローンと量産調達契約</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ロイター</font>",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1oVDdLU1kxd2liZFNvS2E5bG9xUmU2ZXgzaGVySF9LLWdXSWxNOW05aXR5U25CVEtEZ1FmeTVuMzJBTTA2VmxkY212Ymx2YmZsTUV5LXlnbWtyZEFia0tHYXBNeW5ORHVNSnY0ZF94blF3ZFZtV3FrVnI1MHdfdw?oc=5",
       "googleNewsUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1oVDdLU1kxd2liZFNvS2E5bG9xUmU2ZXgzaGVySF9LLWdXSWxNOW05aXR5U25CVEtEZ1FmeTVuMzJBTTA2VmxkY212Ymx2YmZsTUV5LXlnbWtyZEFia0tHYXBNeW5ORHVNSnY0ZF94blF3ZFZtV3FrVnI1MHdfdw?oc=5",
       "publishedAt": "2026-08-25T09:44:49.000Z",
-      "source": "Reuters",
+      "source": "ロイター",
       "_feedRegion": "jp",
       "_feedName": "Google News (JP)",
       "_scoring": {
@@ -327,6 +327,43 @@
       "source": "J ディフェンス ニュース",
       "_feedRegion": "jp",
       "_feedName": "Google News (JP)",
+      "_scoring": {
+        "score": 64,
+        "categories": [
+          "技術・製品",
+          "市場・資金"
+        ],
+        "breakdown": {
+          "required": true,
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "market": {
+            "matches": 2,
+            "catScore": 25
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 0,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "ドローンショー・ジャパンが中国電力NW・TSSと業務提携、中国地方で常設型ドローンショー推進へ",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE1DZnF0dWdnZE5wMUtmblUzMlZIVy0weEpkN0xTNVVFNF9fZWJLazRHMjZJNUltMGVKTjJWWmZydVRrcE8wWWdhemZQTEVDY0h0SGsyYmtrSkdBTWQxNWtqMWpVZ1o0dEwtRXc?oc=5\" target=\"_blank\">ドローンショー・ジャパンが中国電力NW・TSSと業務提携、中国地方で常設型ドローンショー推進へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ドローンジャーナル</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE1DZnF0dWdnZE5wMUtmblUzMlZIVy0weEpkN0xTNVVFNF9fZWJLazRHMjZJNUltMGVKTjJWWmZydVRrcE8wWWdhemZQTEVDY0h0SGsyYmtrSkdBTWQxNWtqMWpVZ1o0dEwtRXc?oc=5\" target=\"_blank\">ドローンショー・ジャパンが中国電力NW・TSSと業務提携、中国地方で常設型ドローンショー推進へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ドローンジャーナル</font>",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1DZnF0dWdnZE5wMUtmblUzMlZIVy0weEpkN0xTNVVFNF9fZWJLazRHMjZJNUltMGVKTjJWWmZydVRrcE8wWWdhemZQTEVDY0h0SGsyYmtrSkdBTWQxNWtqMWpVZ1o0dEwtRXc?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1DZnF0dWdnZE5wMUtmblUzMlZIVy0weEpkN0xTNVVFNF9fZWJLazRHMjZJNUltMGVKTjJWWmZydVRrcE8wWWdhemZQTEVDY0h0SGsyYmtrSkdBTWQxNWtqMWpVZ1o0dEwtRXc?oc=5",
+      "publishedAt": "2026-08-04T07:00:00.000Z",
+      "source": "ドローンジャーナル",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP 政策/実証)",
       "_scoring": {
         "score": 64,
         "categories": [
@@ -612,38 +649,6 @@
       }
     },
     {
-      "title": "米連邦航空局、ドローン目視外飛行の実証拡大",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTFBrYUd2VFdTR1NreEp2ZEZFcktVYVJsTjRWTUJlcF9xWk5MbEphdFFzdFd0TEQ1UHJHSFlEUGdPMDN5QTZjdmZ5RA?oc=5\" target=\"_blank\">米連邦航空局、ドローン目視外飛行の実証拡大</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LOGISTICS TODAY</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTFBrYUd2VFdTR1NreEp2ZEZFcktVYVJsTjRWTUJlcF9xWk5MbEphdFFzdFd0TEQ1UHJHSFlEUGdPMDN5QTZjdmZ5RA?oc=5\" target=\"_blank\">米連邦航空局、ドローン目視外飛行の実証拡大</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LOGISTICS TODAY</font>",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBrYUd2VFdTR1NreEp2ZEZFcktVYVJsTjRWTUJlcF9xWk5MbEphdFFzdFd0TEQ1UHJHSFlEUGdPMDN5QTZjdmZ5RA?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBrYUd2VFdTR1NreEp2ZEZFcktVYVJsTjRWTUJlcF9xWk5MbEphdFFzdFd0TEQ1UHJHSFlEUGdPMDN5QTZjdmZ5RA?oc=5",
-      "publishedAt": "2026-08-28T19:11:09.000Z",
-      "source": "LOGISTICS TODAY",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP 政策/実証)",
-      "_scoring": {
-        "score": 61,
-        "categories": [
-          "規制・政策"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 1,
-            "catScore": 32
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 10,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
       "title": "Thales, Kelly Hills Launch BVLOS Drone Network for Kansas Farms",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNaEtwSmVVOUs0cW1YYnJjU1ZBT2N6VUR2c3NsWVY2ancycTk2ZDQ3SkZrUVpqMUl1Tl9ucmtSeDNwQnZaY2w4bGtzVUpPcTFZdW1nUVhNc2dwUHlZQ1YzdzMyd2hpZFpkX3BXN01DMF9OTDJPbEZ6WGNmMUJUSmp2VUVrN0xfLWFIVWJtb2VtSmRnbWZ5VEprOWM5dVg?oc=5\" target=\"_blank\">Thales, Kelly Hills Launch BVLOS Drone Network for Kansas Farms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dronelife</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNaEtwSmVVOUs0cW1YYnJjU1ZBT2N6VUR2c3NsWVY2ancycTk2ZDQ3SkZrUVpqMUl1Tl9ucmtSeDNwQnZaY2w4bGtzVUpPcTFZdW1nUVhNc2dwUHlZQ1YzdzMyd2hpZFpkX3BXN01DMF9OTDJPbEZ6WGNmMUJUSmp2VUVrN0xfLWFIVWJtb2VtSmRnbWZ5VEprOWM5dVg?oc=5\" target=\"_blank\">Thales, Kelly Hills Launch BVLOS Drone Network for Kansas Farms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dronelife</font>",
@@ -828,13 +833,13 @@
       }
     },
     {
-      "title": "楽天が迎撃ドローンで独新興と提携 防衛省への納入を支援、日本国内での量産化も視野",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5aYzVOTGxoSDB2dWpLeThKbXVWMTlUVzFMUTdkRWN4d2taX1lUR1VLNGFNQ1RqZ092c1hub0pxZng2YXNiZmNiTGU0NVlYQk5OcVhSYlZOb0VNS3VVWDYxZE1OSmdUdjQyYnVkeEVla3lSSFpiQkE?oc=5\" target=\"_blank\">楽天が迎撃ドローンで独新興と提携 防衛省への納入を支援、日本国内での量産化も視野</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">産経ニュース</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5aYzVOTGxoSDB2dWpLeThKbXVWMTlUVzFMUTdkRWN4d2taX1lUR1VLNGFNQ1RqZ092c1hub0pxZng2YXNiZmNiTGU0NVlYQk5OcVhSYlZOb0VNS3VVWDYxZE1OSmdUdjQyYnVkeEVla3lSSFpiQkE?oc=5\" target=\"_blank\">楽天が迎撃ドローンで独新興と提携 防衛省への納入を支援、日本国内での量産化も視野</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">産経ニュース</font>",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5aYzVOTGxoSDB2dWpLeThKbXVWMTlUVzFMUTdkRWN4d2taX1lUR1VLNGFNQ1RqZ092c1hub0pxZng2YXNiZmNiTGU0NVlYQk5OcVhSYlZOb0VNS3VVWDYxZE1OSmdUdjQyYnVkeEVla3lSSFpiQkE?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5aYzVOTGxoSDB2dWpLeThKbXVWMTlUVzFMUTdkRWN4d2taX1lUR1VLNGFNQ1RqZ092c1hub0pxZng2YXNiZmNiTGU0NVlYQk5OcVhSYlZOb0VNS3VVWDYxZE1OSmdUdjQyYnVkeEVla3lSSFpiQkE?oc=5",
-      "publishedAt": "2026-08-17T07:00:00.000Z",
-      "source": "産経ニュース",
+      "title": "小型ドローン向け技術の開発でスウォーマーと提携＝ラントロニクス〔GNW〕(時事通信)",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE5BVGt6ajhYNkxvUEtfbXZ4ZXVGLURnaVVsdGVJX1ZjZVA0bzBCUVlxeUFqdDNab0FfQ2tIQTNWS1JBRjlnNEExc2pmRVZ5UFVtWWMtLWdqYzR4ZkxwU1JXaEhOMW41U2N5dFZjSUtKNmJqOWFVd2M3RXZyV2R0Zw?oc=5\" target=\"_blank\">小型ドローン向け技術の開発でスウォーマーと提携＝ラントロニクス〔GNW〕(時事通信)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ファイナンス</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE5BVGt6ajhYNkxvUEtfbXZ4ZXVGLURnaVVsdGVJX1ZjZVA0bzBCUVlxeUFqdDNab0FfQ2tIQTNWS1JBRjlnNEExc2pmRVZ5UFVtWWMtLWdqYzR4ZkxwU1JXaEhOMW41U2N5dFZjSUtKNmJqOWFVd2M3RXZyV2R0Zw?oc=5\" target=\"_blank\">小型ドローン向け技術の開発でスウォーマーと提携＝ラントロニクス〔GNW〕(時事通信)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ファイナンス</font>",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5BVGt6ajhYNkxvUEtfbXZ4ZXVGLURnaVVsdGVJX1ZjZVA0bzBCUVlxeUFqdDNab0FfQ2tIQTNWS1JBRjlnNEExc2pmRVZ5UFVtWWMtLWdqYzR4ZkxwU1JXaEhOMW41U2N5dFZjSUtKNmJqOWFVd2M3RXZyV2R0Zw?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5BVGt6ajhYNkxvUEtfbXZ4ZXVGLURnaVVsdGVJX1ZjZVA0bzBCUVlxeUFqdDNab0FfQ2tIQTNWS1JBRjlnNEExc2pmRVZ5UFVtWWMtLWdqYzR4ZkxwU1JXaEhOMW41U2N5dFZjSUtKNmJqOWFVd2M3RXZyV2R0Zw?oc=5",
+      "publishedAt": "2026-08-03T07:00:00.000Z",
+      "source": "Yahoo!ファイナンス",
       "_feedRegion": "jp",
       "_feedName": "Google News (JP 政策/実証)",
       "_scoring": {
@@ -852,43 +857,6 @@
           "market": {
             "matches": 1,
             "catScore": 20
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 0,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "楽天、独ドローン新興と提携＝攻撃型、防衛省納入に向け",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE5MSTc1VVgyLThGUThERGdRdm5Gd0l2LUY4ZWNaeDlza0xpR0ZRN09yVzV0Z2pfQ2w4bXBQVzFwUjltLWhvYlZIMGZEQ1dodE5aVnVXag?oc=5\" target=\"_blank\">楽天、独ドローン新興と提携＝攻撃型、防衛省納入に向け</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">時事通信ニュース</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE5MSTc1VVgyLThGUThERGdRdm5Gd0l2LUY4ZWNaeDlza0xpR0ZRN09yVzV0Z2pfQ2w4bXBQVzFwUjltLWhvYlZIMGZEQ1dodE5aVnVXag?oc=5\" target=\"_blank\">楽天、独ドローン新興と提携＝攻撃型、防衛省納入に向け</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">時事通信ニュース</font>",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5MSTc1VVgyLThGUThERGdRdm5Gd0l2LUY4ZWNaeDlza0xpR0ZRN09yVzV0Z2pfQ2w4bXBQVzFwUjltLWhvYlZIMGZEQ1dodE5aVnVXag?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5MSTc1VVgyLThGUThERGdRdm5Gd0l2LUY4ZWNaeDlza0xpR0ZRN09yVzV0Z2pfQ2w4bXBQVzFwUjltLWhvYlZIMGZEQ1dodE5aVnVXag?oc=5",
-      "publishedAt": "2026-08-17T07:00:00.000Z",
-      "source": "時事通信ニュース",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP 政策/実証)",
-      "_scoring": {
-        "score": 60,
-        "categories": [
-          "市場・資金",
-          "政策・インフラ"
-        ],
-        "breakdown": {
-          "required": true,
-          "market": {
-            "matches": 1,
-            "catScore": 20
-          },
-          "policy": {
-            "matches": 1,
-            "catScore": 24
           },
           "sourceTrust": {
             "domain": "news.google.com",
@@ -909,80 +877,6 @@
       "googleNewsUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5lUF9EeVduV3BoWWVOZVJoMmZlczRSVk0ySmM1ZGFFY3AxdFBjM1JvLW4wLUF6cldRRm1jSG10bGRUOUJIUWFWM2pPdnEtLTk1WVIxdVpQMFNuZ2diQW8xeVNvNzFIMkdkMTloVW9DR0Rlcjg?oc=5",
       "publishedAt": "2026-08-26T08:10:03.000Z",
       "source": "ロボスタ",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP 政策/実証)",
-      "_scoring": {
-        "score": 60,
-        "categories": [
-          "技術・製品",
-          "市場・資金"
-        ],
-        "breakdown": {
-          "required": true,
-          "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "market": {
-            "matches": 1,
-            "catScore": 20
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 0,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "ＡｌｔｅｒＳｋｙ、台湾ドローン開発大手と提携",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTFBIdl9fM2pVekpHUm9fdDJxT1k2UzdRT2dVTnBDV3NQa0FDbmJvcWt2c0RBUUVyaXBmOFlGWTJsWm5jU1NWYUJ1SGV3TzZsd25iRDcw?oc=5\" target=\"_blank\">ＡｌｔｅｒＳｋｙ、台湾ドローン開発大手と提携</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">化学工業日報 電子版</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTFBIdl9fM2pVekpHUm9fdDJxT1k2UzdRT2dVTnBDV3NQa0FDbmJvcWt2c0RBUUVyaXBmOFlGWTJsWm5jU1NWYUJ1SGV3TzZsd25iRDcw?oc=5\" target=\"_blank\">ＡｌｔｅｒＳｋｙ、台湾ドローン開発大手と提携</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">化学工業日報 電子版</font>",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBIdl9fM2pVekpHUm9fdDJxT1k2UzdRT2dVTnBDV3NQa0FDbmJvcWt2c0RBUUVyaXBmOFlGWTJsWm5jU1NWYUJ1SGV3TzZsd25iRDcw?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBIdl9fM2pVekpHUm9fdDJxT1k2UzdRT2dVTnBDV3NQa0FDbmJvcWt2c0RBUUVyaXBmOFlGWTJsWm5jU1NWYUJ1SGV3TzZsd25iRDcw?oc=5",
-      "publishedAt": "2026-08-23T20:03:39.000Z",
-      "source": "化学工業日報 電子版",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP 政策/実証)",
-      "_scoring": {
-        "score": 60,
-        "categories": [
-          "技術・製品",
-          "市場・資金"
-        ],
-        "breakdown": {
-          "required": true,
-          "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "market": {
-            "matches": 1,
-            "catScore": 20
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 0,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "テラドローン、国産迎撃ドローン「Terra B1」の量産契約を締結 9月に海自へ納入",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE5rN2tqUTRJcVpmU3pRazBYM1NadnVqNXJMYU1yYlV4Z0h4Y1N6ZXQ2Xy1GWmlSRWQyYnZpX25jVlV1RWxVV1ZsMFNpdnVyc3VZd3lGOThSMldRaXI0VnM5cnd0SlVYOHh5NzdOMWU4ekR5Znc2?oc=5\" target=\"_blank\">テラドローン、国産迎撃ドローン「Terra B1」の量産契約を締結 9月に海自へ納入</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BigGo ファイナンス</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE5rN2tqUTRJcVpmU3pRazBYM1NadnVqNXJMYU1yYlV4Z0h4Y1N6ZXQ2Xy1GWmlSRWQyYnZpX25jVlV1RWxVV1ZsMFNpdnVyc3VZd3lGOThSMldRaXI0VnM5cnd0SlVYOHh5NzdOMWU4ekR5Znc2?oc=5\" target=\"_blank\">テラドローン、国産迎撃ドローン「Terra B1」の量産契約を締結 9月に海自へ納入</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BigGo ファイナンス</font>",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5rN2tqUTRJcVpmU3pRazBYM1NadnVqNXJMYU1yYlV4Z0h4Y1N6ZXQ2Xy1GWmlSRWQyYnZpX25jVlV1RWxVV1ZsMFNpdnVyc3VZd3lGOThSMldRaXI0VnM5cnd0SlVYOHh5NzdOMWU4ekR5Znc2?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5rN2tqUTRJcVpmU3pRazBYM1NadnVqNXJMYU1yYlV4Z0h4Y1N6ZXQ2Xy1GWmlSRWQyYnZpX25jVlV1RWxVV1ZsMFNpdnVyc3VZd3lGOThSMldRaXI0VnM5cnd0SlVYOHh5NzdOMWU4ekR5Znc2?oc=5",
-      "publishedAt": "2026-08-25T10:06:00.000Z",
-      "source": "BigGo ファイナンス",
       "_feedRegion": "jp",
       "_feedName": "Google News (JP 政策/実証)",
       "_scoring": {
@@ -1119,6 +1013,114 @@
           "freshness": 0,
           "titleBonus": 10,
           "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "ブルーイノベーション、高水位下水道を「ELIOS 3」の3Dマッピング用LiDARで安全調査。八戸市の下水道点検実証",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE00SFZxdHMtaFVlczRSRGJWTHJ1WW9qcURLbHRhbHVRU1hyU21TcGFMM0ZDVzlIdmYxdVJCVG1sYWFsM2phOW8yNjUwRUNSdDJQbWp2bGZieEdtZ2s?oc=5\" target=\"_blank\">ブルーイノベーション、高水位下水道を「ELIOS 3」の3Dマッピング用LiDARで安全調査。八戸市の下水道点検実証</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DRONE.jp</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE00SFZxdHMtaFVlczRSRGJWTHJ1WW9qcURLbHRhbHVRU1hyU21TcGFMM0ZDVzlIdmYxdVJCVG1sYWFsM2phOW8yNjUwRUNSdDJQbWp2bGZieEdtZ2s?oc=5\" target=\"_blank\">ブルーイノベーション、高水位下水道を「ELIOS 3」の3Dマッピング用LiDARで安全調査。八戸市の下水道点検実証</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DRONE.jp</font>",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE00SFZxdHMtaFVlczRSRGJWTHJ1WW9qcURLbHRhbHVRU1hyU21TcGFMM0ZDVzlIdmYxdVJCVG1sYWFsM2phOW8yNjUwRUNSdDJQbWp2bGZieEdtZ2s?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE00SFZxdHMtaFVlczRSRGJWTHJ1WW9qcURLbHRhbHVRU1hyU21TcGFMM0ZDVzlIdmYxdVJCVG1sYWFsM2phOW8yNjUwRUNSdDJQbWp2bGZieEdtZ2s?oc=5",
+      "publishedAt": "2026-08-27T07:07:41.000Z",
+      "source": "DRONE.jp",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP ドローン専門)",
+      "_scoring": {
+        "score": 59,
+        "categories": [
+          "技術・製品",
+          "事故・事件"
+        ],
+        "breakdown": {
+          "required": true,
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "incident": {
+            "matches": 1,
+            "catScore": 28
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 2,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "AirData surpasses 65 million drone flights as the FAA’s BVLOS rule awaits publication",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPQ0JjTkRxOFB4TFhOeDh2UG9YOWdUeGpMUnlBNms2Y3lSVkN6UlEtTXp4OE1hd0JjQXMwaWwxMV9LcEotUEZjVTZlRXdKRFlkTTAxM3JRRXZqVHdMOUF6OURlVGhMZmx6OXA5cDRuMnlJSktBMDNjTHh3bEkzZDVZaFZ5SUl3ZUxSYWVUTVNzWWh2RW1vT2ttOUNPY3p4ZXpNZEV1WWlIVExXZ3JaOHdyNDdUMUxPWEpYTmc?oc=5\" target=\"_blank\">AirData surpasses 65 million drone flights as the FAA’s BVLOS rule awaits publication</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">sUAS News</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPQ0JjTkRxOFB4TFhOeDh2UG9YOWdUeGpMUnlBNms2Y3lSVkN6UlEtTXp4OE1hd0JjQXMwaWwxMV9LcEotUEZjVTZlRXdKRFlkTTAxM3JRRXZqVHdMOUF6OURlVGhMZmx6OXA5cDRuMnlJSktBMDNjTHh3bEkzZDVZaFZ5SUl3ZUxSYWVUTVNzWWh2RW1vT2ttOUNPY3p4ZXpNZEV1WWlIVExXZ3JaOHdyNDdUMUxPWEpYTmc?oc=5\" target=\"_blank\">AirData surpasses 65 million drone flights as the FAA’s BVLOS rule awaits publication</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">sUAS News</font>",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQ0JjTkRxOFB4TFhOeDh2UG9YOWdUeGpMUnlBNms2Y3lSVkN6UlEtTXp4OE1hd0JjQXMwaWwxMV9LcEotUEZjVTZlRXdKRFlkTTAxM3JRRXZqVHdMOUF6OURlVGhMZmx6OXA5cDRuMnlJSktBMDNjTHh3bEkzZDVZaFZ5SUl3ZUxSYWVUTVNzWWh2RW1vT2ttOUNPY3p4ZXpNZEV1WWlIVExXZ3JaOHdyNDdUMUxPWEpYTmc?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQ0JjTkRxOFB4TFhOeDh2UG9YOWdUeGpMUnlBNms2Y3lSVkN6UlEtTXp4OE1hd0JjQXMwaWwxMV9LcEotUEZjVTZlRXdKRFlkTTAxM3JRRXZqVHdMOUF6OURlVGhMZmx6OXA5cDRuMnlJSktBMDNjTHh3bEkzZDVZaFZ5SUl3ZUxSYWVUTVNzWWh2RW1vT2ttOUNPY3p4ZXpNZEV1WWlIVExXZ3JaOHdyNDdUMUxPWEpYTmc?oc=5",
+      "publishedAt": "2026-08-25T15:05:55.000Z",
+      "source": "sUAS News",
+      "_feedRegion": "us",
+      "_feedName": "FAA",
+      "_scoring": {
+        "score": 58,
+        "categories": [
+          "規制・政策",
+          "市場・資金"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 3,
+            "catScore": 40
+          },
+          "market": {
+            "matches": 1,
+            "catScore": 20
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 0,
+          "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "AirData hits 65 million drone flights as FAA’s BVLOS rule nears",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE9Ual85WC15U0VoZ2otR0IwMWxHVVNKQmJtWUVBUXhSRzlueGlDOHdNcnF2bVRKV0dYcndzc3hqZTdBOU15eW1EQkNBQndBTWpPWjVFSGJtR0NvcGhOSUFJdVVtRUxTcmZCRVVtMFhIZEQzUnZT?oc=5\" target=\"_blank\">AirData hits 65 million drone flights as FAA’s BVLOS rule nears</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DroneDJ</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE9Ual85WC15U0VoZ2otR0IwMWxHVVNKQmJtWUVBUXhSRzlueGlDOHdNcnF2bVRKV0dYcndzc3hqZTdBOU15eW1EQkNBQndBTWpPWjVFSGJtR0NvcGhOSUFJdVVtRUxTcmZCRVVtMFhIZEQzUnZT?oc=5\" target=\"_blank\">AirData hits 65 million drone flights as FAA’s BVLOS rule nears</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DroneDJ</font>",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9Ual85WC15U0VoZ2otR0IwMWxHVVNKQmJtWUVBUXhSRzlueGlDOHdNcnF2bVRKV0dYcndzc3hqZTdBOU15eW1EQkNBQndBTWpPWjVFSGJtR0NvcGhOSUFJdVVtRUxTcmZCRVVtMFhIZEQzUnZT?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9Ual85WC15U0VoZ2otR0IwMWxHVVNKQmJtWUVBUXhSRzlueGlDOHdNcnF2bVRKV0dYcndzc3hqZTdBOU15eW1EQkNBQndBTWpPWjVFSGJtR0NvcGhOSUFJdVVtRUxTcmZCRVVtMFhIZEQzUnZT?oc=5",
+      "publishedAt": "2026-08-26T07:40:00.000Z",
+      "source": "DroneDJ",
+      "_feedRegion": "us",
+      "_feedName": "FAA",
+      "_scoring": {
+        "score": 58,
+        "categories": [
+          "規制・政策",
+          "市場・資金"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 3,
+            "catScore": 40
+          },
+          "market": {
+            "matches": 1,
+            "catScore": 20
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 0,
+          "titleBonus": 10
         },
         "pass": true
       }
