@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-30T04:44:25.436Z",
-  "rawCount": 625,
+  "generatedAt": "2026-08-30T10:24:03.732Z",
+  "rawCount": 624,
   "articles": [
     {
       "title": "Choctaw ROTC's aerospace program produces 5 FAA-certified drone pilots, 15 safety certifications in breakout year",
@@ -173,7 +173,7 @@
       "_feedRegion": "global",
       "_feedName": "Google News (Global)",
       "_scoring": {
-        "score": 73,
+        "score": 71,
         "categories": [
           "規制・政策",
           "技術・製品",
@@ -197,7 +197,7 @@
             "domain": "news.google.com",
             "multiplier": 0.8
           },
-          "freshness": 2,
+          "freshness": 0,
           "titleBonus": 10
         },
         "pass": true
@@ -214,7 +214,7 @@
       "_feedRegion": "jp",
       "_feedName": "Google News (JP 政策/実証)",
       "_scoring": {
-        "score": 70,
+        "score": 65,
         "categories": [
           "技術・製品",
           "市場・資金"
@@ -233,49 +233,9 @@
             "domain": "news.google.com",
             "multiplier": 0.8
           },
-          "freshness": 10,
+          "freshness": 5,
           "titleBonus": 10,
           "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "FAA launches BEYOND Phase 2, invites additional participants",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPLXRSNlBWMDU3UGFRSG93TmhGVmZCNElnUmxQOXF1SG1LUWpUd3djcUxoaC1MbEJiNjFwRFBoTnBKQWRPMHhlZ0tHQjdLZk54N2NUYzNvTUh0NDZjX3pOQm9uTXh1VWtqSjJmelJKektRdzlzaTlzSjF1ZXA5VkJkNXpBWXZwZEduWEx1MFQ5VHJXdUdONERuVHZ4c2xEb3lGNWVJQ3BBbUxWVDA2MHNHUmgwR0dGM1gweG9HbWxnejkyWUR2Zm9HUjNXdG1oTHZi?oc=5\" target=\"_blank\">FAA launches BEYOND Phase 2, invites additional participants</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPLXRSNlBWMDU3UGFRSG93TmhGVmZCNElnUmxQOXF1SG1LUWpUd3djcUxoaC1MbEJiNjFwRFBoTnBKQWRPMHhlZ0tHQjdLZk54N2NUYzNvTUh0NDZjX3pOQm9uTXh1VWtqSjJmelJKektRdzlzaTlzSjF1ZXA5VkJkNXpBWXZwZEduWEx1MFQ5VHJXdUdONERuVHZ4c2xEb3lGNWVJQ3BBbUxWVDA2MHNHUmgwR0dGM1gweG9HbWxnejkyWUR2Zm9HUjNXdG1oTHZi?oc=5\" target=\"_blank\">FAA launches BEYOND Phase 2, invites additional participants</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPLXRSNlBWMDU3UGFRSG93TmhGVmZCNElnUmxQOXF1SG1LUWpUd3djcUxoaC1MbEJiNjFwRFBoTnBKQWRPMHhlZ0tHQjdLZk54N2NUYzNvTUh0NDZjX3pOQm9uTXh1VWtqSjJmelJKektRdzlzaTlzSjF1ZXA5VkJkNXpBWXZwZEduWEx1MFQ5VHJXdUdONERuVHZ4c2xEb3lGNWVJQ3BBbUxWVDA2MHNHUmgwR0dGM1gweG9HbWxnejkyWUR2Zm9HUjNXdG1oTHZi?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPLXRSNlBWMDU3UGFRSG93TmhGVmZCNElnUmxQOXF1SG1LUWpUd3djcUxoaC1MbEJiNjFwRFBoTnBKQWRPMHhlZ0tHQjdLZk54N2NUYzNvTUh0NDZjX3pOQm9uTXh1VWtqSjJmelJKektRdzlzaTlzSjF1ZXA5VkJkNXpBWXZwZEduWEx1MFQ5VHJXdUdONERuVHZ4c2xEb3lGNWVJQ3BBbUxWVDA2MHNHUmgwR0dGM1gweG9HbWxnejkyWUR2Zm9HUjNXdG1oTHZi?oc=5",
-      "publishedAt": "2026-08-28T08:52:44.000Z",
-      "source": "Unmanned airspace",
-      "_feedRegion": "us",
-      "_feedName": "FAA",
-      "_scoring": {
-        "score": 66,
-        "categories": [
-          "規制・政策",
-          "技術・製品",
-          "市場・資金"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 1,
-            "catScore": 32
-          },
-          "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "market": {
-            "matches": 1,
-            "catScore": 20
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 5
         },
         "pass": true
       }
@@ -540,6 +500,46 @@
       }
     },
     {
+      "title": "FAA launches BEYOND Phase 2, invites additional participants",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPLXRSNlBWMDU3UGFRSG93TmhGVmZCNElnUmxQOXF1SG1LUWpUd3djcUxoaC1MbEJiNjFwRFBoTnBKQWRPMHhlZ0tHQjdLZk54N2NUYzNvTUh0NDZjX3pOQm9uTXh1VWtqSjJmelJKektRdzlzaTlzSjF1ZXA5VkJkNXpBWXZwZEduWEx1MFQ5VHJXdUdONERuVHZ4c2xEb3lGNWVJQ3BBbUxWVDA2MHNHUmgwR0dGM1gweG9HbWxnejkyWUR2Zm9HUjNXdG1oTHZi?oc=5\" target=\"_blank\">FAA launches BEYOND Phase 2, invites additional participants</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPLXRSNlBWMDU3UGFRSG93TmhGVmZCNElnUmxQOXF1SG1LUWpUd3djcUxoaC1MbEJiNjFwRFBoTnBKQWRPMHhlZ0tHQjdLZk54N2NUYzNvTUh0NDZjX3pOQm9uTXh1VWtqSjJmelJKektRdzlzaTlzSjF1ZXA5VkJkNXpBWXZwZEduWEx1MFQ5VHJXdUdONERuVHZ4c2xEb3lGNWVJQ3BBbUxWVDA2MHNHUmgwR0dGM1gweG9HbWxnejkyWUR2Zm9HUjNXdG1oTHZi?oc=5\" target=\"_blank\">FAA launches BEYOND Phase 2, invites additional participants</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPLXRSNlBWMDU3UGFRSG93TmhGVmZCNElnUmxQOXF1SG1LUWpUd3djcUxoaC1MbEJiNjFwRFBoTnBKQWRPMHhlZ0tHQjdLZk54N2NUYzNvTUh0NDZjX3pOQm9uTXh1VWtqSjJmelJKektRdzlzaTlzSjF1ZXA5VkJkNXpBWXZwZEduWEx1MFQ5VHJXdUdONERuVHZ4c2xEb3lGNWVJQ3BBbUxWVDA2MHNHUmgwR0dGM1gweG9HbWxnejkyWUR2Zm9HUjNXdG1oTHZi?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPLXRSNlBWMDU3UGFRSG93TmhGVmZCNElnUmxQOXF1SG1LUWpUd3djcUxoaC1MbEJiNjFwRFBoTnBKQWRPMHhlZ0tHQjdLZk54N2NUYzNvTUh0NDZjX3pOQm9uTXh1VWtqSjJmelJKektRdzlzaTlzSjF1ZXA5VkJkNXpBWXZwZEduWEx1MFQ5VHJXdUdONERuVHZ4c2xEb3lGNWVJQ3BBbUxWVDA2MHNHUmgwR0dGM1gweG9HbWxnejkyWUR2Zm9HUjNXdG1oTHZi?oc=5",
+      "publishedAt": "2026-08-28T08:52:44.000Z",
+      "source": "Unmanned airspace",
+      "_feedRegion": "us",
+      "_feedName": "FAA",
+      "_scoring": {
+        "score": 63,
+        "categories": [
+          "規制・政策",
+          "技術・製品",
+          "市場・資金"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "market": {
+            "matches": 1,
+            "catScore": 20
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 2
+        },
+        "pass": true
+      }
+    },
+    {
       "title": "Clarity for emergency, law enforcement ops requested from FAA on drone rule",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQUXhZeDBhWkIzMGZkWktjY1RsbEEtTEVuTy1tcXRSemtVMmxTVXR0amVsZGNaeDY0Tm1MR2RiOG1GRnc2Y25tY0ZNNWF6ZkJCWXhBb0ZiWGFsM1l3YmVGTXlMOXB3aVZyTHVBcFNQNmx3YUF6bExPR01qVzkwNnRmNjhHajNtQWNwd044dmhULW1xeFE1QkRVZ3pUODXSAaIBQVVfeXFMT0FZZ2g4X2sxUE5ocnhCdVhOUENveV9uQzNoQkRYWDg2eDB1YVB3S0VpcmhscVFPWnVDOFVjbkdaNmQyaXotT2ZLNVk4TUhtQzJzQ25IdkswenhUUXJUMDg0M0F0Q3ZrZkhjelF6bU8ySGF2el9WWXR3allvb09sSHhFallCQzRtZ1dlRFQ2a1Q1RVZVcm1qVnBpWnlrNVI0Wm1B?oc=5\" target=\"_blank\">Clarity for emergency, law enforcement ops requested from FAA on drone rule</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Center Square</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQUXhZeDBhWkIzMGZkWktjY1RsbEEtTEVuTy1tcXRSemtVMmxTVXR0amVsZGNaeDY0Tm1MR2RiOG1GRnc2Y25tY0ZNNWF6ZkJCWXhBb0ZiWGFsM1l3YmVGTXlMOXB3aVZyTHVBcFNQNmx3YUF6bExPR01qVzkwNnRmNjhHajNtQWNwd044dmhULW1xeFE1QkRVZ3pUODXSAaIBQVVfeXFMT0FZZ2g4X2sxUE5ocnhCdVhOUENveV9uQzNoQkRYWDg2eDB1YVB3S0VpcmhscVFPWnVDOFVjbkdaNmQyaXotT2ZLNVk4TUhtQzJzQ25IdkswenhUUXJUMDg0M0F0Q3ZrZkhjelF6bU8ySGF2el9WWXR3allvb09sSHhFallCQzRtZ1dlRFQ2a1Q1RVZVcm1qVnBpWnlrNVI0Wm1B?oc=5\" target=\"_blank\">Clarity for emergency, law enforcement ops requested from FAA on drone rule</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Center Square</font>",
@@ -577,11 +577,11 @@
     },
     {
       "title": "eVTOL Air Taxis Win FAA Certification for 2026 US Launch",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNTDlIUUFmQTIwOTk1LWo0SmZBamVyQkoxUFlScnN2U2N0MFRYMmhETHhMN2tFRzFod1BmUU44S0JIY0daQlNmZU1mNFdZVU8tbkZJSjA5Y2pKVFVRT21JTzBFMGtKY2VWZVZHQ0ZqRzE1SURCZkx6X01XcHdsRWpBcmtCUTdLZnlkTElfT3VhemRxUUxTR1E?oc=5\" target=\"_blank\">eVTOL Air Taxis Win FAA Certification for 2026 US Launch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MiGFlug</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNTDlIUUFmQTIwOTk1LWo0SmZBamVyQkoxUFlScnN2U2N0MFRYMmhETHhMN2tFRzFod1BmUU44S0JIY0daQlNmZU1mNFdZVU8tbkZJSjA5Y2pKVFVRT21JTzBFMGtKY2VWZVZHQ0ZqRzE1SURCZkx6X01XcHdsRWpBcmtCUTdLZnlkTElfT3VhemRxUUxTR1E?oc=5\" target=\"_blank\">eVTOL Air Taxis Win FAA Certification for 2026 US Launch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MiGFlug</font>",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTDlIUUFmQTIwOTk1LWo0SmZBamVyQkoxUFlScnN2U2N0MFRYMmhETHhMN2tFRzFod1BmUU44S0JIY0daQlNmZU1mNFdZVU8tbkZJSjA5Y2pKVFVRT21JTzBFMGtKY2VWZVZHQ0ZqRzE1SURCZkx6X01XcHdsRWpBcmtCUTdLZnlkTElfT3VhemRxUUxTR1E?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTDlIUUFmQTIwOTk1LWo0SmZBamVyQkoxUFlScnN2U2N0MFRYMmhETHhMN2tFRzFod1BmUU44S0JIY0daQlNmZU1mNFdZVU8tbkZJSjA5Y2pKVFVRT21JTzBFMGtKY2VWZVZHQ0ZqRzE1SURCZkx6X01XcHdsRWpBcmtCUTdLZnlkTElfT3VhemRxUUxTR1E?oc=5",
-      "publishedAt": "2026-08-25T12:05:40.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOcFFBSG9WVlh4MjBma1RVV1hGQk9BdHpjU0IzTDFpVW1ZUXZzV2FUNC1iVkprR0wyY2w2N084eHFvem5IeEJDNXpJQnNWdGtkR0hfTktLMkU1cXI2UUhlNHJ1YVNybzVjMWlVUXppTGtPYXBRYTFKSU4td3VVdUhBRzZkR0RaNGRNSlNoTEYzVUcwRkMtM2c?oc=5\" target=\"_blank\">eVTOL Air Taxis Win FAA Certification for 2026 US Launch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MiGFlug</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOcFFBSG9WVlh4MjBma1RVV1hGQk9BdHpjU0IzTDFpVW1ZUXZzV2FUNC1iVkprR0wyY2w2N084eHFvem5IeEJDNXpJQnNWdGtkR0hfTktLMkU1cXI2UUhlNHJ1YVNybzVjMWlVUXppTGtPYXBRYTFKSU4td3VVdUhBRzZkR0RaNGRNSlNoTEYzVUcwRkMtM2c?oc=5\" target=\"_blank\">eVTOL Air Taxis Win FAA Certification for 2026 US Launch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MiGFlug</font>",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcFFBSG9WVlh4MjBma1RVV1hGQk9BdHpjU0IzTDFpVW1ZUXZzV2FUNC1iVkprR0wyY2w2N084eHFvem5IeEJDNXpJQnNWdGtkR0hfTktLMkU1cXI2UUhlNHJ1YVNybzVjMWlVUXppTGtPYXBRYTFKSU4td3VVdUhBRzZkR0RaNGRNSlNoTEYzVUcwRkMtM2c?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcFFBSG9WVlh4MjBma1RVV1hGQk9BdHpjU0IzTDFpVW1ZUXZzV2FUNC1iVkprR0wyY2w2N084eHFvem5IeEJDNXpJQnNWdGtkR0hfTktLMkU1cXI2UUhlNHJ1YVNybzVjMWlVUXppTGtPYXBRYTFKSU4td3VVdUhBRzZkR0RaNGRNSlNoTEYzVUcwRkMtM2c?oc=5",
+      "publishedAt": "2026-08-25T22:24:59.000Z",
       "source": "MiGFlug",
       "_feedRegion": "us",
       "_feedName": "FAA",
@@ -722,43 +722,6 @@
       }
     },
     {
-      "title": "楽天G 攻撃型ドローンの国内導入を支援へ ドイツのヘルシング社と提携 日本国内での量産化も視野に",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE9GY3c5MTZKUEJJazZBZklFX3NxbGVkOXZSc281X3VndDg2bWxhY1hwcUNqYm9pWWQtcGVXQU5wUVNLUDZyaFlBM2dvd2JRVkZ4SV9IYV9hdw?oc=5\" target=\"_blank\">楽天G 攻撃型ドローンの国内導入を支援へ ドイツのヘルシング社と提携 日本国内での量産化も視野に</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TBS NEWS DIG</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE9GY3c5MTZKUEJJazZBZklFX3NxbGVkOXZSc281X3VndDg2bWxhY1hwcUNqYm9pWWQtcGVXQU5wUVNLUDZyaFlBM2dvd2JRVkZ4SV9IYV9hdw?oc=5\" target=\"_blank\">楽天G 攻撃型ドローンの国内導入を支援へ ドイツのヘルシング社と提携 日本国内での量産化も視野に</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TBS NEWS DIG</font>",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9GY3c5MTZKUEJJazZBZklFX3NxbGVkOXZSc281X3VndDg2bWxhY1hwcUNqYm9pWWQtcGVXQU5wUVNLUDZyaFlBM2dvd2JRVkZ4SV9IYV9hdw?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9GY3c5MTZKUEJJazZBZklFX3NxbGVkOXZSc281X3VndDg2bWxhY1hwcUNqYm9pWWQtcGVXQU5wUVNLUDZyaFlBM2dvd2JRVkZ4SV9IYV9hdw?oc=5",
-      "publishedAt": "2026-08-18T07:00:00.000Z",
-      "source": "TBS NEWS DIG",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP 政策/実証)",
-      "_scoring": {
-        "score": 60,
-        "categories": [
-          "技術・製品",
-          "市場・資金"
-        ],
-        "breakdown": {
-          "required": true,
-          "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "market": {
-            "matches": 1,
-            "catScore": 20
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 0,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
       "title": "テラドローンの国産迎撃ドローン「Terra B1」が防衛装備庁の実証試験を単独通過 量産調達フェーズへ",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBGX3dQRlY1ZU1wbVE5a1RJQ1JHTU9QLUtrQjJhR0FyZE1UMk5tbGc1MGd6UkdySHFPWC1TMVAyWUl5NUVuWGRmZmg3SFh5NFBLRmUwYUNFU1pUelQwdlAtR0hxSG8?oc=5\" target=\"_blank\">テラドローンの国産迎撃ドローン「Terra B1」が防衛装備庁の実証試験を単独通過 量産調達フェーズへ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ロボスタ</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBGX3dQRlY1ZU1wbVE5a1RJQ1JHTU9QLUtrQjJhR0FyZE1UMk5tbGc1MGd6UkdySHFPWC1TMVAyWUl5NUVuWGRmZmg3SFh5NFBLRmUwYUNFU1pUelQwdlAtR0hxSG8?oc=5\" target=\"_blank\">テラドローンの国産迎撃ドローン「Terra B1」が防衛装備庁の実証試験を単独通過 量産調達フェーズへ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ロボスタ</font>",
@@ -796,13 +759,13 @@
       }
     },
     {
-      "title": "楽天が迎撃ドローンで独新興と提携 防衛省への納入を支援、日本国内での量産化も視野",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5aYzVOTGxoSDB2dWpLeThKbXVWMTlUVzFMUTdkRWN4d2taX1lUR1VLNGFNQ1RqZ092c1hub0pxZng2YXNiZmNiTGU0NVlYQk5OcVhSYlZOb0VNS3VVWDYxZE1OSmdUdjQyYnVkeEVla3lSSFpiQkE?oc=5\" target=\"_blank\">楽天が迎撃ドローンで独新興と提携 防衛省への納入を支援、日本国内での量産化も視野</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">産経ニュース</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5aYzVOTGxoSDB2dWpLeThKbXVWMTlUVzFMUTdkRWN4d2taX1lUR1VLNGFNQ1RqZ092c1hub0pxZng2YXNiZmNiTGU0NVlYQk5OcVhSYlZOb0VNS3VVWDYxZE1OSmdUdjQyYnVkeEVla3lSSFpiQkE?oc=5\" target=\"_blank\">楽天が迎撃ドローンで独新興と提携 防衛省への納入を支援、日本国内での量産化も視野</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">産経ニュース</font>",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5aYzVOTGxoSDB2dWpLeThKbXVWMTlUVzFMUTdkRWN4d2taX1lUR1VLNGFNQ1RqZ092c1hub0pxZng2YXNiZmNiTGU0NVlYQk5OcVhSYlZOb0VNS3VVWDYxZE1OSmdUdjQyYnVkeEVla3lSSFpiQkE?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5aYzVOTGxoSDB2dWpLeThKbXVWMTlUVzFMUTdkRWN4d2taX1lUR1VLNGFNQ1RqZ092c1hub0pxZng2YXNiZmNiTGU0NVlYQk5OcVhSYlZOb0VNS3VVWDYxZE1OSmdUdjQyYnVkeEVla3lSSFpiQkE?oc=5",
+      "title": "楽天GがAI戦闘ドローンの国内導入を支援へ ドイツのヘルシング社と提携 日本国内での量産化も視野",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE9tbmZnWmlRQjI4bkc0UjIxLVJuaGxRRWI4RXhMS2wwYmQ2SzdrcE5IR1ZpUVJrZXRmdWpzZkVJLUl0Nll6X1ctQnlFVXRReUMxMXdfZWZMNA?oc=5\" target=\"_blank\">楽天GがAI戦闘ドローンの国内導入を支援へ ドイツのヘルシング社と提携 日本国内での量産化も視野</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TBS NEWS DIG</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE9tbmZnWmlRQjI4bkc0UjIxLVJuaGxRRWI4RXhMS2wwYmQ2SzdrcE5IR1ZpUVJrZXRmdWpzZkVJLUl0Nll6X1ctQnlFVXRReUMxMXdfZWZMNA?oc=5\" target=\"_blank\">楽天GがAI戦闘ドローンの国内導入を支援へ ドイツのヘルシング社と提携 日本国内での量産化も視野</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TBS NEWS DIG</font>",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9tbmZnWmlRQjI4bkc0UjIxLVJuaGxRRWI4RXhMS2wwYmQ2SzdrcE5IR1ZpUVJrZXRmdWpzZkVJLUl0Nll6X1ctQnlFVXRReUMxMXdfZWZMNA?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9tbmZnWmlRQjI4bkc0UjIxLVJuaGxRRWI4RXhMS2wwYmQ2SzdrcE5IR1ZpUVJrZXRmdWpzZkVJLUl0Nll6X1ctQnlFVXRReUMxMXdfZWZMNA?oc=5",
       "publishedAt": "2026-08-17T07:00:00.000Z",
-      "source": "産経ニュース",
+      "source": "TBS NEWS DIG",
       "_feedRegion": "jp",
       "_feedName": "Google News (JP 政策/実証)",
       "_scoring": {
@@ -833,13 +796,50 @@
       }
     },
     {
-      "title": "楽天GがAI戦闘ドローンの国内導入を支援へ ドイツのヘルシング社と提携 日本国内での量産化も視野",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE5TTnBDdmhwMkJsd0hsb3hEYXp4ZGg4NXREV0VMbXo5N19mRkdaWXdxQ01mUmI1Zl9DTUhNYmI3dERGUE5mck0xTXZQWHVHY1BfVkJTWE1aX1hIc2tWZG83QUYxaHRSdUVRWmhvVlVCVFFYbXhV?oc=5\" target=\"_blank\">楽天GがAI戦闘ドローンの国内導入を支援へ ドイツのヘルシング社と提携 日本国内での量産化も視野</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TBS NEWS DIG</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE5TTnBDdmhwMkJsd0hsb3hEYXp4ZGg4NXREV0VMbXo5N19mRkdaWXdxQ01mUmI1Zl9DTUhNYmI3dERGUE5mck0xTXZQWHVHY1BfVkJTWE1aX1hIc2tWZG83QUYxaHRSdUVRWmhvVlVCVFFYbXhV?oc=5\" target=\"_blank\">楽天GがAI戦闘ドローンの国内導入を支援へ ドイツのヘルシング社と提携 日本国内での量産化も視野</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TBS NEWS DIG</font>",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5TTnBDdmhwMkJsd0hsb3hEYXp4ZGg4NXREV0VMbXo5N19mRkdaWXdxQ01mUmI1Zl9DTUhNYmI3dERGUE5mck0xTXZQWHVHY1BfVkJTWE1aX1hIc2tWZG83QUYxaHRSdUVRWmhvVlVCVFFYbXhV?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5TTnBDdmhwMkJsd0hsb3hEYXp4ZGg4NXREV0VMbXo5N19mRkdaWXdxQ01mUmI1Zl9DTUhNYmI3dERGUE5mck0xTXZQWHVHY1BfVkJTWE1aX1hIc2tWZG83QUYxaHRSdUVRWmhvVlVCVFFYbXhV?oc=5",
-      "publishedAt": "2026-08-17T07:00:00.000Z",
+      "title": "楽天G 攻撃型ドローンの国内導入を支援へ ドイツのヘルシング社と提携 日本国内での量産化も視野に",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE5PMWx3WGFlbmJ6NmhEekRMUkREMFF6WHpTQW9vZjM0OXZnVW9fclJxQnpZRXlobUVER0VXdlV1UVZpY1c1OUppMTVPTnBmZjdQZ0g5MFJieWJHOWVYOW84Y0IzTlZoWXFJeWloMVhnQjA2Q2xV?oc=5\" target=\"_blank\">楽天G 攻撃型ドローンの国内導入を支援へ ドイツのヘルシング社と提携 日本国内での量産化も視野に</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TBS NEWS DIG</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE5PMWx3WGFlbmJ6NmhEekRMUkREMFF6WHpTQW9vZjM0OXZnVW9fclJxQnpZRXlobUVER0VXdlV1UVZpY1c1OUppMTVPTnBmZjdQZ0g5MFJieWJHOWVYOW84Y0IzTlZoWXFJeWloMVhnQjA2Q2xV?oc=5\" target=\"_blank\">楽天G 攻撃型ドローンの国内導入を支援へ ドイツのヘルシング社と提携 日本国内での量産化も視野に</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TBS NEWS DIG</font>",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5PMWx3WGFlbmJ6NmhEekRMUkREMFF6WHpTQW9vZjM0OXZnVW9fclJxQnpZRXlobUVER0VXdlV1UVZpY1c1OUppMTVPTnBmZjdQZ0g5MFJieWJHOWVYOW84Y0IzTlZoWXFJeWloMVhnQjA2Q2xV?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5PMWx3WGFlbmJ6NmhEekRMUkREMFF6WHpTQW9vZjM0OXZnVW9fclJxQnpZRXlobUVER0VXdlV1UVZpY1c1OUppMTVPTnBmZjdQZ0g5MFJieWJHOWVYOW84Y0IzTlZoWXFJeWloMVhnQjA2Q2xV?oc=5",
+      "publishedAt": "2026-08-18T07:00:00.000Z",
       "source": "TBS NEWS DIG",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP 政策/実証)",
+      "_scoring": {
+        "score": 60,
+        "categories": [
+          "技術・製品",
+          "市場・資金"
+        ],
+        "breakdown": {
+          "required": true,
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "market": {
+            "matches": 1,
+            "catScore": 20
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 0,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "楽天が迎撃ドローンで独新興と提携 防衛省への納入を支援、日本国内での量産化も視野",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5aYzVOTGxoSDB2dWpLeThKbXVWMTlUVzFMUTdkRWN4d2taX1lUR1VLNGFNQ1RqZ092c1hub0pxZng2YXNiZmNiTGU0NVlYQk5OcVhSYlZOb0VNS3VVWDYxZE1OSmdUdjQyYnVkeEVla3lSSFpiQkE?oc=5\" target=\"_blank\">楽天が迎撃ドローンで独新興と提携 防衛省への納入を支援、日本国内での量産化も視野</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">産経ニュース</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5aYzVOTGxoSDB2dWpLeThKbXVWMTlUVzFMUTdkRWN4d2taX1lUR1VLNGFNQ1RqZ092c1hub0pxZng2YXNiZmNiTGU0NVlYQk5OcVhSYlZOb0VNS3VVWDYxZE1OSmdUdjQyYnVkeEVla3lSSFpiQkE?oc=5\" target=\"_blank\">楽天が迎撃ドローンで独新興と提携 防衛省への納入を支援、日本国内での量産化も視野</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">産経ニュース</font>",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5aYzVOTGxoSDB2dWpLeThKbXVWMTlUVzFMUTdkRWN4d2taX1lUR1VLNGFNQ1RqZ092c1hub0pxZng2YXNiZmNiTGU0NVlYQk5OcVhSYlZOb0VNS3VVWDYxZE1OSmdUdjQyYnVkeEVla3lSSFpiQkE?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5aYzVOTGxoSDB2dWpLeThKbXVWMTlUVzFMUTdkRWN4d2taX1lUR1VLNGFNQ1RqZ092c1hub0pxZng2YXNiZmNiTGU0NVlYQk5OcVhSYlZOb0VNS3VVWDYxZE1OSmdUdjQyYnVkeEVla3lSSFpiQkE?oc=5",
+      "publishedAt": "2026-08-17T07:00:00.000Z",
+      "source": "産経ニュース",
       "_feedRegion": "jp",
       "_feedName": "Google News (JP 政策/実証)",
       "_scoring": {
