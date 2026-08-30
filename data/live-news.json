@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-29T23:08:48.355Z",
-  "rawCount": 626,
+  "generatedAt": "2026-08-30T04:44:25.436Z",
+  "rawCount": 625,
   "articles": [
     {
       "title": "Choctaw ROTC's aerospace program produces 5 FAA-certified drone pilots, 15 safety certifications in breakout year",
@@ -325,43 +325,6 @@
       "googleNewsUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1oVDdLU1kxd2liZFNvS2E5bG9xUmU2ZXgzaGVySF9LLWdXSWxNOW05aXR5U25CVEtEZ1FmeTVuMzJBTTA2VmxkY212Ymx2YmZsTUV5LXlnbWtyZEFia0tHYXBNeW5ORHVNSnY0ZF94blF3ZFZtV3FrVnI1MHdfdw?oc=5",
       "publishedAt": "2026-08-25T09:44:49.000Z",
       "source": "ロイター",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP)",
-      "_scoring": {
-        "score": 64,
-        "categories": [
-          "技術・製品",
-          "市場・資金"
-        ],
-        "breakdown": {
-          "required": true,
-          "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "market": {
-            "matches": 2,
-            "catScore": 25
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 0,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "防衛装備庁の迎撃ドローン早期取得プログラム 量産調達契約をTerraDroneと締結（8月25日）",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE1uZWMyUzI4SDdxTUNLYWMzRjdOTTlUUEpwcnRFOUd2dnZ2Z1A4dnVHODFHMlB2Uk05bmFjT0FSZ3hPaVMzeHVQWGZlRlotNVotWUhqbkI3RVJpd2lC?oc=5\" target=\"_blank\">防衛装備庁の迎撃ドローン早期取得プログラム 量産調達契約をTerraDroneと締結（8月25日）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">J ディフェンス ニュース</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE1uZWMyUzI4SDdxTUNLYWMzRjdOTTlUUEpwcnRFOUd2dnZ2Z1A4dnVHODFHMlB2Uk05bmFjT0FSZ3hPaVMzeHVQWGZlRlotNVotWUhqbkI3RVJpd2lC?oc=5\" target=\"_blank\">防衛装備庁の迎撃ドローン早期取得プログラム 量産調達契約をTerraDroneと締結（8月25日）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">J ディフェンス ニュース</font>",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1uZWMyUzI4SDdxTUNLYWMzRjdOTTlUUEpwcnRFOUd2dnZ2Z1A4dnVHODFHMlB2Uk05bmFjT0FSZ3hPaVMzeHVQWGZlRlotNVotWUhqbkI3RVJpd2lC?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1uZWMyUzI4SDdxTUNLYWMzRjdOTTlUUEpwcnRFOUd2dnZ2Z1A4dnVHODFHMlB2Uk05bmFjT0FSZ3hPaVMzeHVQWGZlRlotNVotWUhqbkI3RVJpd2lC?oc=5",
-      "publishedAt": "2026-08-26T07:25:00.000Z",
-      "source": "J ディフェンス ニュース",
       "_feedRegion": "jp",
       "_feedName": "Google News (JP)",
       "_scoring": {
@@ -840,6 +803,43 @@
       "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5aYzVOTGxoSDB2dWpLeThKbXVWMTlUVzFMUTdkRWN4d2taX1lUR1VLNGFNQ1RqZ092c1hub0pxZng2YXNiZmNiTGU0NVlYQk5OcVhSYlZOb0VNS3VVWDYxZE1OSmdUdjQyYnVkeEVla3lSSFpiQkE?oc=5",
       "publishedAt": "2026-08-17T07:00:00.000Z",
       "source": "産経ニュース",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP 政策/実証)",
+      "_scoring": {
+        "score": 60,
+        "categories": [
+          "技術・製品",
+          "市場・資金"
+        ],
+        "breakdown": {
+          "required": true,
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "market": {
+            "matches": 1,
+            "catScore": 20
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 0,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "楽天GがAI戦闘ドローンの国内導入を支援へ ドイツのヘルシング社と提携 日本国内での量産化も視野",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE5TTnBDdmhwMkJsd0hsb3hEYXp4ZGg4NXREV0VMbXo5N19mRkdaWXdxQ01mUmI1Zl9DTUhNYmI3dERGUE5mck0xTXZQWHVHY1BfVkJTWE1aX1hIc2tWZG83QUYxaHRSdUVRWmhvVlVCVFFYbXhV?oc=5\" target=\"_blank\">楽天GがAI戦闘ドローンの国内導入を支援へ ドイツのヘルシング社と提携 日本国内での量産化も視野</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TBS NEWS DIG</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE5TTnBDdmhwMkJsd0hsb3hEYXp4ZGg4NXREV0VMbXo5N19mRkdaWXdxQ01mUmI1Zl9DTUhNYmI3dERGUE5mck0xTXZQWHVHY1BfVkJTWE1aX1hIc2tWZG83QUYxaHRSdUVRWmhvVlVCVFFYbXhV?oc=5\" target=\"_blank\">楽天GがAI戦闘ドローンの国内導入を支援へ ドイツのヘルシング社と提携 日本国内での量産化も視野</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TBS NEWS DIG</font>",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5TTnBDdmhwMkJsd0hsb3hEYXp4ZGg4NXREV0VMbXo5N19mRkdaWXdxQ01mUmI1Zl9DTUhNYmI3dERGUE5mck0xTXZQWHVHY1BfVkJTWE1aX1hIc2tWZG83QUYxaHRSdUVRWmhvVlVCVFFYbXhV?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5TTnBDdmhwMkJsd0hsb3hEYXp4ZGg4NXREV0VMbXo5N19mRkdaWXdxQ01mUmI1Zl9DTUhNYmI3dERGUE5mck0xTXZQWHVHY1BfVkJTWE1aX1hIc2tWZG83QUYxaHRSdUVRWmhvVlVCVFFYbXhV?oc=5",
+      "publishedAt": "2026-08-17T07:00:00.000Z",
+      "source": "TBS NEWS DIG",
       "_feedRegion": "jp",
       "_feedName": "Google News (JP 政策/実証)",
       "_scoring": {
