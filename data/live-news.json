@@ -1,7 +1,44 @@
 {
-  "generatedAt": "2026-09-02T20:49:57.828Z",
-  "rawCount": 540,
+  "generatedAt": "2026-09-02T23:10:16.122Z",
+  "rawCount": 624,
   "articles": [
+    {
+      "title": "ＥＵ、独空港ドローン事件巡り対ロ圧力強化へ ロシア反発",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9JcVo5VHlYclFUMmd0el9rVXRnM0dhVWdKU21vTHRTejVjUnRnQThZdXN0clYtd0U2VGtzaGZGVWNrUXZMbm1WNGtWSzhpLUhrRWp6N24zUjREWGFHQnpWamRYeDdBNDZRdEJpWk1oZHVOdGp3eENtNnpFYm9RTEk?oc=5\" target=\"_blank\">ＥＵ、独空港ドローン事件巡り対ロ圧力強化へ ロシア反発</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ロイター</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9JcVo5VHlYclFUMmd0el9rVXRnM0dhVWdKU21vTHRTejVjUnRnQThZdXN0clYtd0U2VGtzaGZGVWNrUXZMbm1WNGtWSzhpLUhrRWp6N24zUjREWGFHQnpWamRYeDdBNDZRdEJpWk1oZHVOdGp3eENtNnpFYm9RTEk?oc=5\" target=\"_blank\">ＥＵ、独空港ドローン事件巡り対ロ圧力強化へ ロシア反発</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ロイター</font>",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9JcVo5VHlYclFUMmd0el9rVXRnM0dhVWdKU21vTHRTejVjUnRnQThZdXN0clYtd0U2VGtzaGZGVWNrUXZMbm1WNGtWSzhpLUhrRWp6N24zUjREWGFHQnpWamRYeDdBNDZRdEJpWk1oZHVOdGp3eENtNnpFYm9RTEk?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9JcVo5VHlYclFUMmd0el9rVXRnM0dhVWdKU21vTHRTejVjUnRnQThZdXN0clYtd0U2VGtzaGZGVWNrUXZMbm1WNGtWSzhpLUhrRWp6N24zUjREWGFHQnpWamRYeDdBNDZRdEJpWk1oZHVOdGp3eENtNnpFYm9RTEk?oc=5",
+      "publishedAt": "2026-09-02T16:32:18.000Z",
+      "source": "ロイター",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP)",
+      "_scoring": {
+        "score": 82,
+        "categories": [
+          "事故・事件",
+          "政策・インフラ"
+        ],
+        "breakdown": {
+          "required": true,
+          "incident": {
+            "matches": 1,
+            "catScore": 28
+          },
+          "policy": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 15,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
     {
       "title": "A2Z Drone Delivery Launches Longtail Dual for BVLOS Urban Authorization",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQemVUOGpOMnJYWHJQZXREUzJmRDlraFpxMkhFaklpSXlGSUJ6TnpwNXNGYTlJTzVfUTh3RTUxQklkV1pjcWFsTzVmRlhEWnJWZGFKRG1NRnJSelZCUGl4OWROSGRfZmI5bElydU80NGlnSlM1bmZGZ1V3UHcwQzlDcXpoZzk0Qmx1ZGxoYlkzQ3ZNZVNibzJFMTBNRHdoUzdsNkJ2TC1uVUtqYjJsU2N1Z0NpcVUtaTdnWGplQWtnWQ?oc=5\" target=\"_blank\">A2Z Drone Delivery Launches Longtail Dual for BVLOS Urban Authorization</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tech Times</font>",
@@ -10,8 +47,8 @@
       "googleNewsUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQemVUOGpOMnJYWHJQZXREUzJmRDlraFpxMkhFaklpSXlGSUJ6TnpwNXNGYTlJTzVfUTh3RTUxQklkV1pjcWFsTzVmRlhEWnJWZGFKRG1NRnJSelZCUGl4OWROSGRfZmI5bElydU80NGlnSlM1bmZGZ1V3UHcwQzlDcXpoZzk0Qmx1ZGxoYlkzQ3ZNZVNibzJFMTBNRHdoUzdsNkJ2TC1uVUtqYjJsU2N1Z0NpcVUtaTdnWGplQWtnWQ?oc=5",
       "publishedAt": "2026-09-01T20:26:18.000Z",
       "source": "Tech Times",
-      "_feedRegion": "us",
-      "_feedName": "FAA",
+      "_feedRegion": "eu",
+      "_feedName": "EASA",
       "_scoring": {
         "score": 79,
         "categories": [
@@ -44,50 +81,13 @@
       }
     },
     {
-      "title": "Prodrone、パーソルから資金調達を実施。人材採用・育成の強化で「国産ドローンの量産体制」構築を推進",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE8wb3VXVkRxYTBldlhaXzdYSHJHOG1KN2RaZ3dCUlVWOXF3SVl2VEg2dHY0Z2RBaHNNQkNHSnBYQzJ3MVhZMDFYLXY0cExqRlB1WVVRY2hDeUMtY1E?oc=5\" target=\"_blank\">Prodrone、パーソルから資金調達を実施。人材採用・育成の強化で「国産ドローンの量産体制」構築を推進</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DRONE.jp</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE8wb3VXVkRxYTBldlhaXzdYSHJHOG1KN2RaZ3dCUlVWOXF3SVl2VEg2dHY0Z2RBaHNNQkNHSnBYQzJ3MVhZMDFYLXY0cExqRlB1WVVRY2hDeUMtY1E?oc=5\" target=\"_blank\">Prodrone、パーソルから資金調達を実施。人材採用・育成の強化で「国産ドローンの量産体制」構築を推進</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DRONE.jp</font>",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8wb3VXVkRxYTBldlhaXzdYSHJHOG1KN2RaZ3dCUlVWOXF3SVl2VEg2dHY0Z2RBaHNNQkNHSnBYQzJ3MVhZMDFYLXY0cExqRlB1WVVRY2hDeUMtY1E?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8wb3VXVkRxYTBldlhaXzdYSHJHOG1KN2RaZ3dCUlVWOXF3SVl2VEg2dHY0Z2RBaHNNQkNHSnBYQzJ3MVhZMDFYLXY0cExqRlB1WVVRY2hDeUMtY1E?oc=5",
-      "publishedAt": "2026-09-02T09:35:10.000Z",
-      "source": "DRONE.jp",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP 政策/実証)",
-      "_scoring": {
-        "score": 79,
-        "categories": [
-          "技術・製品",
-          "市場・資金"
-        ],
-        "breakdown": {
-          "required": true,
-          "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "market": {
-            "matches": 2,
-            "catScore": 25
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 15,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
       "title": "FAA clears Draganfly (DPRO) heavy-lift drone for bigger payloads in U.S. airspace",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQbEx5REUwRmswUC1NWkE1aHB1UEphNUlvR0s2aDhQdWRUZ0VMY0lkN1BhT0FCSm9vNGNBc3lDQ09OSUxXODZTVWhERnJpYXRhOGc3M005aGZXby13Y3JIczVDUTdSQ3ZtUDdubzVLVHoxZTM0T29iX1dxX2NQRjlJLWgtc1BZcnZMRS1kRXk3OXFYSzY0QU1oSTMwRnpyYWtLbnhZYmlrZ2R6TTZudGc?oc=5\" target=\"_blank\">FAA clears Draganfly (DPRO) heavy-lift drone for bigger payloads in U.S. airspace</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stock Titan</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQbEx5REUwRmswUC1NWkE1aHB1UEphNUlvR0s2aDhQdWRUZ0VMY0lkN1BhT0FCSm9vNGNBc3lDQ09OSUxXODZTVWhERnJpYXRhOGc3M005aGZXby13Y3JIczVDUTdSQ3ZtUDdubzVLVHoxZTM0T29iX1dxX2NQRjlJLWgtc1BZcnZMRS1kRXk3OXFYSzY0QU1oSTMwRnpyYWtLbnhZYmlrZ2R6TTZudGc?oc=5\" target=\"_blank\">FAA clears Draganfly (DPRO) heavy-lift drone for bigger payloads in U.S. airspace</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stock Titan</font>",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQbEx5REUwRmswUC1NWkE1aHB1UEphNUlvR0s2aDhQdWRUZ0VMY0lkN1BhT0FCSm9vNGNBc3lDQ09OSUxXODZTVWhERnJpYXRhOGc3M005aGZXby13Y3JIczVDUTdSQ3ZtUDdubzVLVHoxZTM0T29iX1dxX2NQRjlJLWgtc1BZcnZMRS1kRXk3OXFYSzY0QU1oSTMwRnpyYWtLbnhZYmlrZ2R6TTZudGc?oc=5\" target=\"_blank\">FAA clears Draganfly (DPRO) heavy-lift drone for bigger payloads in U.S. airspace</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">stocktitan.net</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQbEx5REUwRmswUC1NWkE1aHB1UEphNUlvR0s2aDhQdWRUZ0VMY0lkN1BhT0FCSm9vNGNBc3lDQ09OSUxXODZTVWhERnJpYXRhOGc3M005aGZXby13Y3JIczVDUTdSQ3ZtUDdubzVLVHoxZTM0T29iX1dxX2NQRjlJLWgtc1BZcnZMRS1kRXk3OXFYSzY0QU1oSTMwRnpyYWtLbnhZYmlrZ2R6TTZudGc?oc=5\" target=\"_blank\">FAA clears Draganfly (DPRO) heavy-lift drone for bigger payloads in U.S. airspace</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">stocktitan.net</font>",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbEx5REUwRmswUC1NWkE1aHB1UEphNUlvR0s2aDhQdWRUZ0VMY0lkN1BhT0FCSm9vNGNBc3lDQ09OSUxXODZTVWhERnJpYXRhOGc3M005aGZXby13Y3JIczVDUTdSQ3ZtUDdubzVLVHoxZTM0T29iX1dxX2NQRjlJLWgtc1BZcnZMRS1kRXk3OXFYSzY0QU1oSTMwRnpyYWtLbnhZYmlrZ2R6TTZudGc?oc=5",
       "googleNewsUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbEx5REUwRmswUC1NWkE1aHB1UEphNUlvR0s2aDhQdWRUZ0VMY0lkN1BhT0FCSm9vNGNBc3lDQ09OSUxXODZTVWhERnJpYXRhOGc3M005aGZXby13Y3JIczVDUTdSQ3ZtUDdubzVLVHoxZTM0T29iX1dxX2NQRjlJLWgtc1BZcnZMRS1kRXk3OXFYSzY0QU1oSTMwRnpyYWtLbnhZYmlrZ2R6TTZudGc?oc=5",
       "publishedAt": "2026-09-01T13:06:32.000Z",
-      "source": "Stock Titan",
+      "source": "stocktitan.net",
       "_feedRegion": "us",
       "_feedName": "FAA",
       "_scoring": {
@@ -163,17 +163,17 @@
       }
     },
     {
-      "title": "三菱重工とNEC、防衛で提携 ドローンやAI技術開発",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFB4SWNEZXhVTUJXMWhVZjc2SzNTckZKd1JYSThDSDNOSnFwUzhfYkpfLUxnbkJFbndfYkJFQUJkOUN6NVFIWHB2Z193M3RVU3pxYUh0aHAtVHdlZw?oc=5\" target=\"_blank\">三菱重工とNEC、防衛で提携 ドローンやAI技術開発</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">北海道新聞デジタル</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFB4SWNEZXhVTUJXMWhVZjc2SzNTckZKd1JYSThDSDNOSnFwUzhfYkpfLUxnbkJFbndfYkJFQUJkOUN6NVFIWHB2Z193M3RVU3pxYUh0aHAtVHdlZw?oc=5\" target=\"_blank\">三菱重工とNEC、防衛で提携 ドローンやAI技術開発</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">北海道新聞デジタル</font>",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB4SWNEZXhVTUJXMWhVZjc2SzNTckZKd1JYSThDSDNOSnFwUzhfYkpfLUxnbkJFbndfYkJFQUJkOUN6NVFIWHB2Z193M3RVU3pxYUh0aHAtVHdlZw?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB4SWNEZXhVTUJXMWhVZjc2SzNTckZKd1JYSThDSDNOSnFwUzhfYkpfLUxnbkJFbndfYkJFQUJkOUN6NVFIWHB2Z193M3RVU3pxYUh0aHAtVHdlZw?oc=5",
-      "publishedAt": "2026-09-02T10:33:44.000Z",
-      "source": "北海道新聞デジタル",
+      "title": "Prodrone、パーソルから資金調達を実施。人材採用・育成の強化で「国産ドローンの量産体制」構築を推進",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE8wb3VXVkRxYTBldlhaXzdYSHJHOG1KN2RaZ3dCUlVWOXF3SVl2VEg2dHY0Z2RBaHNNQkNHSnBYQzJ3MVhZMDFYLXY0cExqRlB1WVVRY2hDeUMtY1E?oc=5\" target=\"_blank\">Prodrone、パーソルから資金調達を実施。人材採用・育成の強化で「国産ドローンの量産体制」構築を推進</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DRONE.jp</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE8wb3VXVkRxYTBldlhaXzdYSHJHOG1KN2RaZ3dCUlVWOXF3SVl2VEg2dHY0Z2RBaHNNQkNHSnBYQzJ3MVhZMDFYLXY0cExqRlB1WVVRY2hDeUMtY1E?oc=5\" target=\"_blank\">Prodrone、パーソルから資金調達を実施。人材採用・育成の強化で「国産ドローンの量産体制」構築を推進</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DRONE.jp</font>",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8wb3VXVkRxYTBldlhaXzdYSHJHOG1KN2RaZ3dCUlVWOXF3SVl2VEg2dHY0Z2RBaHNNQkNHSnBYQzJ3MVhZMDFYLXY0cExqRlB1WVVRY2hDeUMtY1E?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8wb3VXVkRxYTBldlhaXzdYSHJHOG1KN2RaZ3dCUlVWOXF3SVl2VEg2dHY0Z2RBaHNNQkNHSnBYQzJ3MVhZMDFYLXY0cExqRlB1WVVRY2hDeUMtY1E?oc=5",
+      "publishedAt": "2026-09-02T09:35:10.000Z",
+      "source": "DRONE.jp",
       "_feedRegion": "jp",
-      "_feedName": "Google News (JP 政策/実証)",
+      "_feedName": "Google News (JP ドローン専門)",
       "_scoring": {
-        "score": 75,
+        "score": 74,
         "categories": [
           "技術・製品",
           "市場・資金"
@@ -185,162 +185,14 @@
             "catScore": 24
           },
           "market": {
-            "matches": 1,
-            "catScore": 20
+            "matches": 2,
+            "catScore": 25
           },
           "sourceTrust": {
             "domain": "news.google.com",
             "multiplier": 0.8
           },
-          "freshness": 15,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "三菱重工とＮＥＣ、防衛で提携 ドローンやＡＩ技術開発 | | 全国のニュース",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE40enpvM1hMQzM3MFZMa1hLcXBmT0JhUGFTZUJJd3I2XzVyY05MT2lDVFlob1MteUZjLXNnOEwySVMxZVpOME94VW5SNktlQ25QLUp0aWdR?oc=5\" target=\"_blank\">三菱重工とＮＥＣ、防衛で提携 ドローンやＡＩ技術開発 | | 全国のニュース</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">佐賀新聞</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE40enpvM1hMQzM3MFZMa1hLcXBmT0JhUGFTZUJJd3I2XzVyY05MT2lDVFlob1MteUZjLXNnOEwySVMxZVpOME94VW5SNktlQ25QLUp0aWdR?oc=5\" target=\"_blank\">三菱重工とＮＥＣ、防衛で提携 ドローンやＡＩ技術開発 | | 全国のニュース</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">佐賀新聞</font>",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE40enpvM1hMQzM3MFZMa1hLcXBmT0JhUGFTZUJJd3I2XzVyY05MT2lDVFlob1MteUZjLXNnOEwySVMxZVpOME94VW5SNktlQ25QLUp0aWdR?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE40enpvM1hMQzM3MFZMa1hLcXBmT0JhUGFTZUJJd3I2XzVyY05MT2lDVFlob1MteUZjLXNnOEwySVMxZVpOME94VW5SNktlQ25QLUp0aWdR?oc=5",
-      "publishedAt": "2026-09-02T10:26:00.000Z",
-      "source": "佐賀新聞",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP 政策/実証)",
-      "_scoring": {
-        "score": 75,
-        "categories": [
-          "技術・製品",
-          "市場・資金"
-        ],
-        "breakdown": {
-          "required": true,
-          "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "market": {
-            "matches": 1,
-            "catScore": 20
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 15,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "三菱重工とＮＥＣ、防衛で提携 ドローンやＡＩ技術開発｜全国のニュース｜Web東奥",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE0zbWF2RTAwbTVNQ2UxTVZjVGRsVTFaMkVUYTQ3N1RlNHZxNTdDNldjS0huVDV6b1luNlk2eEFQTTV6am1Sd0ZMcnI0a0gybTh5TmdvQjU2VjA?oc=5\" target=\"_blank\">三菱重工とＮＥＣ、防衛で提携 ドローンやＡＩ技術開発｜全国のニュース｜Web東奥</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">東奥日報社</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE0zbWF2RTAwbTVNQ2UxTVZjVGRsVTFaMkVUYTQ3N1RlNHZxNTdDNldjS0huVDV6b1luNlk2eEFQTTV6am1Sd0ZMcnI0a0gybTh5TmdvQjU2VjA?oc=5\" target=\"_blank\">三菱重工とＮＥＣ、防衛で提携 ドローンやＡＩ技術開発｜全国のニュース｜Web東奥</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">東奥日報社</font>",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0zbWF2RTAwbTVNQ2UxTVZjVGRsVTFaMkVUYTQ3N1RlNHZxNTdDNldjS0huVDV6b1luNlk2eEFQTTV6am1Sd0ZMcnI0a0gybTh5TmdvQjU2VjA?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0zbWF2RTAwbTVNQ2UxTVZjVGRsVTFaMkVUYTQ3N1RlNHZxNTdDNldjS0huVDV6b1luNlk2eEFQTTV6am1Sd0ZMcnI0a0gybTh5TmdvQjU2VjA?oc=5",
-      "publishedAt": "2026-09-02T10:26:50.000Z",
-      "source": "東奥日報社",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP 政策/実証)",
-      "_scoring": {
-        "score": 75,
-        "categories": [
-          "技術・製品",
-          "市場・資金"
-        ],
-        "breakdown": {
-          "required": true,
-          "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "market": {
-            "matches": 1,
-            "catScore": 20
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 15,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "三菱重工とNEC、防衛で提携 ドローンやAI技術開発（共同通信）",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBEZFBOV0lTZXlieDZvdG90VlJqUTUwOW9qalVaMGJuNG9RVy1Mbzc0c0ZIcXVGUFRTSXNWNTdTS3FXaFo3U1BMbnlhZXpJVkV2XzM0blhQQkJTSnZLbVB2cU92Rm9vZzBFQUtQb0pvcXRsci02cjlWUGFReGtLOTA?oc=5\" target=\"_blank\">三菱重工とNEC、防衛で提携 ドローンやAI技術開発（共同通信）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBEZFBOV0lTZXlieDZvdG90VlJqUTUwOW9qalVaMGJuNG9RVy1Mbzc0c0ZIcXVGUFRTSXNWNTdTS3FXaFo3U1BMbnlhZXpJVkV2XzM0blhQQkJTSnZLbVB2cU92Rm9vZzBFQUtQb0pvcXRsci02cjlWUGFReGtLOTA?oc=5\" target=\"_blank\">三菱重工とNEC、防衛で提携 ドローンやAI技術開発（共同通信）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBEZFBOV0lTZXlieDZvdG90VlJqUTUwOW9qalVaMGJuNG9RVy1Mbzc0c0ZIcXVGUFRTSXNWNTdTS3FXaFo3U1BMbnlhZXpJVkV2XzM0blhQQkJTSnZLbVB2cU92Rm9vZzBFQUtQb0pvcXRsci02cjlWUGFReGtLOTA?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBEZFBOV0lTZXlieDZvdG90VlJqUTUwOW9qalVaMGJuNG9RVy1Mbzc0c0ZIcXVGUFRTSXNWNTdTS3FXaFo3U1BMbnlhZXpJVkV2XzM0blhQQkJTSnZLbVB2cU92Rm9vZzBFQUtQb0pvcXRsci02cjlWUGFReGtLOTA?oc=5",
-      "publishedAt": "2026-09-02T10:26:45.000Z",
-      "source": "Yahoo!ニュース",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP 政策/実証)",
-      "_scoring": {
-        "score": 75,
-        "categories": [
-          "技術・製品",
-          "市場・資金"
-        ],
-        "breakdown": {
-          "required": true,
-          "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "market": {
-            "matches": 1,
-            "catScore": 20
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 15,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "三菱重工とＮＥＣ、防衛で提携 ドローンやＡＩ技術開発",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE1hNUwyVEZvUlp1bnVNdjl3ZXF3U1hVYzRzOFZsX1lpQ2x4UjRndlc5Q0hYN0J4VHQyRC10UzJqcjZRQkJVeFFoV1N4THkxMmZYUF9ONTQtbFRFTy15?oc=5\" target=\"_blank\">三菱重工とＮＥＣ、防衛で提携 ドローンやＡＩ技術開発</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">琉球新報デジタル</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE1hNUwyVEZvUlp1bnVNdjl3ZXF3U1hVYzRzOFZsX1lpQ2x4UjRndlc5Q0hYN0J4VHQyRC10UzJqcjZRQkJVeFFoV1N4THkxMmZYUF9ONTQtbFRFTy15?oc=5\" target=\"_blank\">三菱重工とＮＥＣ、防衛で提携 ドローンやＡＩ技術開発</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">琉球新報デジタル</font>",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1hNUwyVEZvUlp1bnVNdjl3ZXF3U1hVYzRzOFZsX1lpQ2x4UjRndlc5Q0hYN0J4VHQyRC10UzJqcjZRQkJVeFFoV1N4THkxMmZYUF9ONTQtbFRFTy15?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1hNUwyVEZvUlp1bnVNdjl3ZXF3U1hVYzRzOFZsX1lpQ2x4UjRndlc5Q0hYN0J4VHQyRC10UzJqcjZRQkJVeFFoV1N4THkxMmZYUF9ONTQtbFRFTy15?oc=5",
-      "publishedAt": "2026-09-02T10:26:50.000Z",
-      "source": "琉球新報デジタル",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP 政策/実証)",
-      "_scoring": {
-        "score": 75,
-        "categories": [
-          "技術・製品",
-          "市場・資金"
-        ],
-        "breakdown": {
-          "required": true,
-          "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "market": {
-            "matches": 1,
-            "catScore": 20
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 15,
+          "freshness": 10,
           "titleBonus": 10,
           "jpRegionBonus": 15
         },
@@ -385,49 +237,12 @@
       }
     },
     {
-      "title": "軍開発のドローンが数秒で墜落 「発射機に問題」韓国の説明に浮かぶ疑問（金賢） - エキスパート",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaUVBSkRLdGl0T1F0LXEtbkhCclpXeGRWMy1yRHA0MU5mRFNNMGltTkZDN2JoaDZpN0dXVk5EYkJpTHpZTGhKOVZOcjUwWlg2cXpsdUdROWt6V1V6RlJtbWxUOHlZY19OX0tnbWpZQy1LYmlfdGs1UFVseUhMMEY3RGRHUkRyVm1v?oc=5\" target=\"_blank\">軍開発のドローンが数秒で墜落 「発射機に問題」韓国の説明に浮かぶ疑問（金賢） - エキスパート</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaUVBSkRLdGl0T1F0LXEtbkhCclpXeGRWMy1yRHA0MU5mRFNNMGltTkZDN2JoaDZpN0dXVk5EYkJpTHpZTGhKOVZOcjUwWlg2cXpsdUdROWt6V1V6RlJtbWxUOHlZY19OX0tnbWpZQy1LYmlfdGs1UFVseUhMMEY3RGRHUkRyVm1v?oc=5\" target=\"_blank\">軍開発のドローンが数秒で墜落 「発射機に問題」韓国の説明に浮かぶ疑問（金賢） - エキスパート</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaUVBSkRLdGl0T1F0LXEtbkhCclpXeGRWMy1yRHA0MU5mRFNNMGltTkZDN2JoaDZpN0dXVk5EYkJpTHpZTGhKOVZOcjUwWlg2cXpsdUdROWt6V1V6RlJtbWxUOHlZY19OX0tnbWpZQy1LYmlfdGs1UFVseUhMMEY3RGRHUkRyVm1v?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaUVBSkRLdGl0T1F0LXEtbkhCclpXeGRWMy1yRHA0MU5mRFNNMGltTkZDN2JoaDZpN0dXVk5EYkJpTHpZTGhKOVZOcjUwWlg2cXpsdUdROWt6V1V6RlJtbWxUOHlZY19OX0tnbWpZQy1LYmlfdGs1UFVseUhMMEY3RGRHUkRyVm1v?oc=5",
-      "publishedAt": "2026-08-31T21:15:31.000Z",
-      "source": "Yahoo!ニュース",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP)",
-      "_scoring": {
-        "score": 72,
-        "categories": [
-          "技術・製品",
-          "事故・事件"
-        ],
-        "breakdown": {
-          "required": true,
-          "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "incident": {
-            "matches": 1,
-            "catScore": 28
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 5,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
       "title": "ドイツ空港のドローン事件「ロシアに責任」 総領事館閉鎖の対抗措置",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1hNTdVdGxMdk5UdWd2aGFndFIzbFozUEZ3SmV6ZzhYTGU2QTM4RDJZOUduYlhDREVzUVRsUldyNjlpRk5YNkdha2VLYXVYaW1ZZlgxdG5RUUpmS2txT3I5ZHk5VTZIZw?oc=5\" target=\"_blank\">ドイツ空港のドローン事件「ロシアに責任」 総領事館閉鎖の対抗措置</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">朝日新聞</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1hNTdVdGxMdk5UdWd2aGFndFIzbFozUEZ3SmV6ZzhYTGU2QTM4RDJZOUduYlhDREVzUVRsUldyNjlpRk5YNkdha2VLYXVYaW1ZZlgxdG5RUUpmS2txT3I5ZHk5VTZIZw?oc=5\" target=\"_blank\">ドイツ空港のドローン事件「ロシアに責任」 総領事館閉鎖の対抗措置</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">朝日新聞</font>",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1hNTdVdGxMdk5UdWd2aGFndFIzbFozUEZ3SmV6ZzhYTGU2QTM4RDJZOUduYlhDREVzUVRsUldyNjlpRk5YNkdha2VLYXVYaW1ZZlgxdG5RUUpmS2txT3I5ZHk5VTZIZw?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1hNTdVdGxMdk5UdWd2aGFndFIzbFozUEZ3SmV6ZzhYTGU2QTM4RDJZOUduYlhDREVzUVRsUldyNjlpRk5YNkdha2VLYXVYaW1ZZlgxdG5RUUpmS2txT3I5ZHk5VTZIZw?oc=5",
-      "publishedAt": "2026-09-01T16:55:38.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1GRGp2NDBVMGtXbGV6YTJDUFJ2RVZna3dkNU9YZjBsRWV2eGN0YXhLd2EtSndCRHBHaGZpY1g4RkdzeFZIc2sxdTYzSlpPN2dDVU5wRVBmdDNKYmxacFJNcGtBM2d1S2c?oc=5\" target=\"_blank\">ドイツ空港のドローン事件「ロシアに責任」 総領事館閉鎖の対抗措置</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">朝日新聞</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1GRGp2NDBVMGtXbGV6YTJDUFJ2RVZna3dkNU9YZjBsRWV2eGN0YXhLd2EtSndCRHBHaGZpY1g4RkdzeFZIc2sxdTYzSlpPN2dDVU5wRVBmdDNKYmxacFJNcGtBM2d1S2c?oc=5\" target=\"_blank\">ドイツ空港のドローン事件「ロシアに責任」 総領事館閉鎖の対抗措置</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">朝日新聞</font>",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1GRGp2NDBVMGtXbGV6YTJDUFJ2RVZna3dkNU9YZjBsRWV2eGN0YXhLd2EtSndCRHBHaGZpY1g4RkdzeFZIc2sxdTYzSlpPN2dDVU5wRVBmdDNKYmxacFJNcGtBM2d1S2c?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1GRGp2NDBVMGtXbGV6YTJDUFJ2RVZna3dkNU9YZjBsRWV2eGN0YXhLd2EtSndCRHBHaGZpY1g4RkdzeFZIc2sxdTYzSlpPN2dDVU5wRVBmdDNKYmxacFJNcGtBM2d1S2c?oc=5",
+      "publishedAt": "2026-09-01T16:55:00.000Z",
       "source": "朝日新聞",
       "_feedRegion": "jp",
       "_feedName": "Google News (JP)",
@@ -460,12 +275,12 @@
     },
     {
       "title": "US military shoots down “cartel-linked” drones with high-energy laser",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbjhhZXFEZUZlcmpGY0VLZ3Y5ODE2QkJ5QURLMUZGWUw2SFQ4YUd0VWJTdWMteXJubC1HUHB6U2p3OXdEa2wxX3NldHdGS0h4b29GWW1Sa3hKSUxiM3dmUjd3SVVfNmROVV9fVW9hcTBHMkp1d2dweUVXb0FTZjV6VVRjck5hMFItZWN0RlZaNktQeXcxNDFQZXV2bkpJVjJTbklPYUFTdlh1T1NhNl9lbGFaaWhwYU1nNDQ4aS0yaG1MdEQzcWF2TDlPcUhidjBm?oc=5\" target=\"_blank\">US military shoots down “cartel-linked” drones with high-energy laser</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">unmannedairspace.info</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbjhhZXFEZUZlcmpGY0VLZ3Y5ODE2QkJ5QURLMUZGWUw2SFQ4YUd0VWJTdWMteXJubC1HUHB6U2p3OXdEa2wxX3NldHdGS0h4b29GWW1Sa3hKSUxiM3dmUjd3SVVfNmROVV9fVW9hcTBHMkp1d2dweUVXb0FTZjV6VVRjck5hMFItZWN0RlZaNktQeXcxNDFQZXV2bkpJVjJTbklPYUFTdlh1T1NhNl9lbGFaaWhwYU1nNDQ4aS0yaG1MdEQzcWF2TDlPcUhidjBm?oc=5\" target=\"_blank\">US military shoots down “cartel-linked” drones with high-energy laser</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">unmannedairspace.info</font>",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbjhhZXFEZUZlcmpGY0VLZ3Y5ODE2QkJ5QURLMUZGWUw2SFQ4YUd0VWJTdWMteXJubC1HUHB6U2p3OXdEa2wxX3NldHdGS0h4b29GWW1Sa3hKSUxiM3dmUjd3SVVfNmROVV9fVW9hcTBHMkp1d2dweUVXb0FTZjV6VVRjck5hMFItZWN0RlZaNktQeXcxNDFQZXV2bkpJVjJTbklPYUFTdlh1T1NhNl9lbGFaaWhwYU1nNDQ4aS0yaG1MdEQzcWF2TDlPcUhidjBm?oc=5\" target=\"_blank\">US military shoots down “cartel-linked” drones with high-energy laser</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbjhhZXFEZUZlcmpGY0VLZ3Y5ODE2QkJ5QURLMUZGWUw2SFQ4YUd0VWJTdWMteXJubC1HUHB6U2p3OXdEa2wxX3NldHdGS0h4b29GWW1Sa3hKSUxiM3dmUjd3SVVfNmROVV9fVW9hcTBHMkp1d2dweUVXb0FTZjV6VVRjck5hMFItZWN0RlZaNktQeXcxNDFQZXV2bkpJVjJTbklPYUFTdlh1T1NhNl9lbGFaaWhwYU1nNDQ4aS0yaG1MdEQzcWF2TDlPcUhidjBm?oc=5\" target=\"_blank\">US military shoots down “cartel-linked” drones with high-energy laser</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbjhhZXFEZUZlcmpGY0VLZ3Y5ODE2QkJ5QURLMUZGWUw2SFQ4YUd0VWJTdWMteXJubC1HUHB6U2p3OXdEa2wxX3NldHdGS0h4b29GWW1Sa3hKSUxiM3dmUjd3SVVfNmROVV9fVW9hcTBHMkp1d2dweUVXb0FTZjV6VVRjck5hMFItZWN0RlZaNktQeXcxNDFQZXV2bkpJVjJTbklPYUFTdlh1T1NhNl9lbGFaaWhwYU1nNDQ4aS0yaG1MdEQzcWF2TDlPcUhidjBm?oc=5",
       "googleNewsUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbjhhZXFEZUZlcmpGY0VLZ3Y5ODE2QkJ5QURLMUZGWUw2SFQ4YUd0VWJTdWMteXJubC1HUHB6U2p3OXdEa2wxX3NldHdGS0h4b29GWW1Sa3hKSUxiM3dmUjd3SVVfNmROVV9fVW9hcTBHMkp1d2dweUVXb0FTZjV6VVRjck5hMFItZWN0RlZaNktQeXcxNDFQZXV2bkpJVjJTbklPYUFTdlh1T1NhNl9lbGFaaWhwYU1nNDQ4aS0yaG1MdEQzcWF2TDlPcUhidjBm?oc=5",
       "publishedAt": "2026-08-28T11:33:49.000Z",
-      "source": "unmannedairspace.info",
+      "source": "Unmanned airspace",
       "_feedRegion": "global",
       "_feedName": "Google News (Global)",
       "_scoring": {
@@ -574,6 +389,154 @@
       }
     },
     {
+      "title": "三菱重工とNEC、防衛で提携 ドローンやAI技術開発",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFB4SWNEZXhVTUJXMWhVZjc2SzNTckZKd1JYSThDSDNOSnFwUzhfYkpfLUxnbkJFbndfYkJFQUJkOUN6NVFIWHB2Z193M3RVU3pxYUh0aHAtVHdlZw?oc=5\" target=\"_blank\">三菱重工とNEC、防衛で提携 ドローンやAI技術開発</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">北海道新聞デジタル</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFB4SWNEZXhVTUJXMWhVZjc2SzNTckZKd1JYSThDSDNOSnFwUzhfYkpfLUxnbkJFbndfYkJFQUJkOUN6NVFIWHB2Z193M3RVU3pxYUh0aHAtVHdlZw?oc=5\" target=\"_blank\">三菱重工とNEC、防衛で提携 ドローンやAI技術開発</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">北海道新聞デジタル</font>",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB4SWNEZXhVTUJXMWhVZjc2SzNTckZKd1JYSThDSDNOSnFwUzhfYkpfLUxnbkJFbndfYkJFQUJkOUN6NVFIWHB2Z193M3RVU3pxYUh0aHAtVHdlZw?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB4SWNEZXhVTUJXMWhVZjc2SzNTckZKd1JYSThDSDNOSnFwUzhfYkpfLUxnbkJFbndfYkJFQUJkOUN6NVFIWHB2Z193M3RVU3pxYUh0aHAtVHdlZw?oc=5",
+      "publishedAt": "2026-09-02T10:33:44.000Z",
+      "source": "北海道新聞デジタル",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP 政策/実証)",
+      "_scoring": {
+        "score": 70,
+        "categories": [
+          "技術・製品",
+          "市場・資金"
+        ],
+        "breakdown": {
+          "required": true,
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "market": {
+            "matches": 1,
+            "catScore": 20
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 10,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "三菱重工とＮＥＣ、防衛で提携 ドローンやＡＩ技術開発 | | 全国のニュース",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE40enpvM1hMQzM3MFZMa1hLcXBmT0JhUGFTZUJJd3I2XzVyY05MT2lDVFlob1MteUZjLXNnOEwySVMxZVpOME94VW5SNktlQ25QLUp0aWdR?oc=5\" target=\"_blank\">三菱重工とＮＥＣ、防衛で提携 ドローンやＡＩ技術開発 | | 全国のニュース</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">佐賀新聞</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE40enpvM1hMQzM3MFZMa1hLcXBmT0JhUGFTZUJJd3I2XzVyY05MT2lDVFlob1MteUZjLXNnOEwySVMxZVpOME94VW5SNktlQ25QLUp0aWdR?oc=5\" target=\"_blank\">三菱重工とＮＥＣ、防衛で提携 ドローンやＡＩ技術開発 | | 全国のニュース</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">佐賀新聞</font>",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE40enpvM1hMQzM3MFZMa1hLcXBmT0JhUGFTZUJJd3I2XzVyY05MT2lDVFlob1MteUZjLXNnOEwySVMxZVpOME94VW5SNktlQ25QLUp0aWdR?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE40enpvM1hMQzM3MFZMa1hLcXBmT0JhUGFTZUJJd3I2XzVyY05MT2lDVFlob1MteUZjLXNnOEwySVMxZVpOME94VW5SNktlQ25QLUp0aWdR?oc=5",
+      "publishedAt": "2026-09-02T10:26:00.000Z",
+      "source": "佐賀新聞",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP 政策/実証)",
+      "_scoring": {
+        "score": 70,
+        "categories": [
+          "技術・製品",
+          "市場・資金"
+        ],
+        "breakdown": {
+          "required": true,
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "market": {
+            "matches": 1,
+            "catScore": 20
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 10,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "三菱重工とＮＥＣ、防衛で提携 ドローンやＡＩ技術開発｜全国のニュース｜Web東奥",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE0zbWF2RTAwbTVNQ2UxTVZjVGRsVTFaMkVUYTQ3N1RlNHZxNTdDNldjS0huVDV6b1luNlk2eEFQTTV6am1Sd0ZMcnI0a0gybTh5TmdvQjU2VjA?oc=5\" target=\"_blank\">三菱重工とＮＥＣ、防衛で提携 ドローンやＡＩ技術開発｜全国のニュース｜Web東奥</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">東奥日報社</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE0zbWF2RTAwbTVNQ2UxTVZjVGRsVTFaMkVUYTQ3N1RlNHZxNTdDNldjS0huVDV6b1luNlk2eEFQTTV6am1Sd0ZMcnI0a0gybTh5TmdvQjU2VjA?oc=5\" target=\"_blank\">三菱重工とＮＥＣ、防衛で提携 ドローンやＡＩ技術開発｜全国のニュース｜Web東奥</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">東奥日報社</font>",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0zbWF2RTAwbTVNQ2UxTVZjVGRsVTFaMkVUYTQ3N1RlNHZxNTdDNldjS0huVDV6b1luNlk2eEFQTTV6am1Sd0ZMcnI0a0gybTh5TmdvQjU2VjA?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0zbWF2RTAwbTVNQ2UxTVZjVGRsVTFaMkVUYTQ3N1RlNHZxNTdDNldjS0huVDV6b1luNlk2eEFQTTV6am1Sd0ZMcnI0a0gybTh5TmdvQjU2VjA?oc=5",
+      "publishedAt": "2026-09-02T10:26:50.000Z",
+      "source": "東奥日報社",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP 政策/実証)",
+      "_scoring": {
+        "score": 70,
+        "categories": [
+          "技術・製品",
+          "市場・資金"
+        ],
+        "breakdown": {
+          "required": true,
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "market": {
+            "matches": 1,
+            "catScore": 20
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 10,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "三菱重工とＮＥＣ、防衛で提携 ドローンやＡＩ技術開発",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTFB5dmhqMTlFVEdwQmxMck43bXNKZjRPZzB2eHU5eXM5UEgtTDV6a0pxdlliUWxuREh1UC1XeWtfQXRteTYzWHRjZnVpR21UTEJj?oc=5\" target=\"_blank\">三菱重工とＮＥＣ、防衛で提携 ドローンやＡＩ技術開発</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">nnn.co.jp</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTFB5dmhqMTlFVEdwQmxMck43bXNKZjRPZzB2eHU5eXM5UEgtTDV6a0pxdlliUWxuREh1UC1XeWtfQXRteTYzWHRjZnVpR21UTEJj?oc=5\" target=\"_blank\">三菱重工とＮＥＣ、防衛で提携 ドローンやＡＩ技術開発</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">nnn.co.jp</font>",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB5dmhqMTlFVEdwQmxMck43bXNKZjRPZzB2eHU5eXM5UEgtTDV6a0pxdlliUWxuREh1UC1XeWtfQXRteTYzWHRjZnVpR21UTEJj?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB5dmhqMTlFVEdwQmxMck43bXNKZjRPZzB2eHU5eXM5UEgtTDV6a0pxdlliUWxuREh1UC1XeWtfQXRteTYzWHRjZnVpR21UTEJj?oc=5",
+      "publishedAt": "2026-09-02T10:26:50.000Z",
+      "source": "nnn.co.jp",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP 政策/実証)",
+      "_scoring": {
+        "score": 70,
+        "categories": [
+          "技術・製品",
+          "市場・資金"
+        ],
+        "breakdown": {
+          "required": true,
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "market": {
+            "matches": 1,
+            "catScore": 20
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 10,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
       "title": "クマ対策やインフラ点検で時間短縮も 北海道で進むドローン活用最前線、遠隔操作で進化する現場と普及を阻む「法規制の壁」",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1BdFRWaThYQTRTR2xVaWN1cUdKRkVpdlBJZVFDbnU1b1JXNE11RDEzT1hiemhraUJXaUU2RXh2M2lXcUVldEx6aTlMenI3VEcwZzlkOXZoUWFCMlg2UW1aTXpWRW1zVlk?oc=5\" target=\"_blank\">クマ対策やインフラ点検で時間短縮も 北海道で進むドローン活用最前線、遠隔操作で進化する現場と普及を阻む「法規制の壁」</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TBS NEWS DIG</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1BdFRWaThYQTRTR2xVaWN1cUdKRkVpdlBJZVFDbnU1b1JXNE11RDEzT1hiemhraUJXaUU2RXh2M2lXcUVldEx6aTlMenI3VEcwZzlkOXZoUWFCMlg2UW1aTXpWRW1zVlk?oc=5\" target=\"_blank\">クマ対策やインフラ点検で時間短縮も 北海道で進むドローン活用最前線、遠隔操作で進化する現場と普及を阻む「法規制の壁」</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TBS NEWS DIG</font>",
@@ -611,6 +574,84 @@
       }
     },
     {
+      "title": "Auriga Space field-tests electromagnetic launcher for counter-UAS",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOeWxBa3BMOVRpRWNlQ1prS3RSS2VnUGo0OVFrV0dranVLOEt6QWtuQ28wLXZsX21WVk9RUmFic2lqc2FZLVNtUDU4SGpMZVZ0eE1iSEFjOC1hZkgxenpGdFVFVlpIeF9tWlEzbkJLNHhNZXFlMGhPUnBIaERNYlh3VlhHVURTLTNFQm5GaF8ybUkwMFV1TDBTWFJNbkF5MkFpTER2cFJ0YkZ1eTJzNnB2YW9UdXNSRFdFZjA3Y0ZUTQ?oc=5\" target=\"_blank\">Auriga Space field-tests electromagnetic launcher for counter-UAS</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Military Aerospace</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOeWxBa3BMOVRpRWNlQ1prS3RSS2VnUGo0OVFrV0dranVLOEt6QWtuQ28wLXZsX21WVk9RUmFic2lqc2FZLVNtUDU4SGpMZVZ0eE1iSEFjOC1hZkgxenpGdFVFVlpIeF9tWlEzbkJLNHhNZXFlMGhPUnBIaERNYlh3VlhHVURTLTNFQm5GaF8ybUkwMFV1TDBTWFJNbkF5MkFpTER2cFJ0YkZ1eTJzNnB2YW9UdXNSRFdFZjA3Y0ZUTQ?oc=5\" target=\"_blank\">Auriga Space field-tests electromagnetic launcher for counter-UAS</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Military Aerospace</font>",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOeWxBa3BMOVRpRWNlQ1prS3RSS2VnUGo0OVFrV0dranVLOEt6QWtuQ28wLXZsX21WVk9RUmFic2lqc2FZLVNtUDU4SGpMZVZ0eE1iSEFjOC1hZkgxenpGdFVFVlpIeF9tWlEzbkJLNHhNZXFlMGhPUnBIaERNYlh3VlhHVURTLTNFQm5GaF8ybUkwMFV1TDBTWFJNbkF5MkFpTER2cFJ0YkZ1eTJzNnB2YW9UdXNSRFdFZjA3Y0ZUTQ?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOeWxBa3BMOVRpRWNlQ1prS3RSS2VnUGo0OVFrV0dranVLOEt6QWtuQ28wLXZsX21WVk9RUmFic2lqc2FZLVNtUDU4SGpMZVZ0eE1iSEFjOC1hZkgxenpGdFVFVlpIeF9tWlEzbkJLNHhNZXFlMGhPUnBIaERNYlh3VlhHVURTLTNFQm5GaF8ybUkwMFV1TDBTWFJNbkF5MkFpTER2cFJ0YkZ1eTJzNnB2YW9UdXNSRFdFZjA3Y0ZUTQ?oc=5",
+      "publishedAt": "2026-09-01T08:40:18.000Z",
+      "source": "Military Aerospace",
+      "_feedRegion": "global",
+      "_feedName": "Google News (Global)",
+      "_scoring": {
+        "score": 69,
+        "categories": [
+          "技術・製品",
+          "市場・資金",
+          "政策・インフラ"
+        ],
+        "breakdown": {
+          "required": true,
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "market": {
+            "matches": 1,
+            "catScore": 20
+          },
+          "policy": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 5,
+          "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "軍開発のドローンが数秒で墜落 「発射機に問題」韓国の説明に浮かぶ疑問（金賢） - エキスパート",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaUVBSkRLdGl0T1F0LXEtbkhCclpXeGRWMy1yRHA0MU5mRFNNMGltTkZDN2JoaDZpN0dXVk5EYkJpTHpZTGhKOVZOcjUwWlg2cXpsdUdROWt6V1V6RlJtbWxUOHlZY19OX0tnbWpZQy1LYmlfdGs1UFVseUhMMEY3RGRHUkRyVm1v?oc=5\" target=\"_blank\">軍開発のドローンが数秒で墜落 「発射機に問題」韓国の説明に浮かぶ疑問（金賢） - エキスパート</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaUVBSkRLdGl0T1F0LXEtbkhCclpXeGRWMy1yRHA0MU5mRFNNMGltTkZDN2JoaDZpN0dXVk5EYkJpTHpZTGhKOVZOcjUwWlg2cXpsdUdROWt6V1V6RlJtbWxUOHlZY19OX0tnbWpZQy1LYmlfdGs1UFVseUhMMEY3RGRHUkRyVm1v?oc=5\" target=\"_blank\">軍開発のドローンが数秒で墜落 「発射機に問題」韓国の説明に浮かぶ疑問（金賢） - エキスパート</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaUVBSkRLdGl0T1F0LXEtbkhCclpXeGRWMy1yRHA0MU5mRFNNMGltTkZDN2JoaDZpN0dXVk5EYkJpTHpZTGhKOVZOcjUwWlg2cXpsdUdROWt6V1V6RlJtbWxUOHlZY19OX0tnbWpZQy1LYmlfdGs1UFVseUhMMEY3RGRHUkRyVm1v?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaUVBSkRLdGl0T1F0LXEtbkhCclpXeGRWMy1yRHA0MU5mRFNNMGltTkZDN2JoaDZpN0dXVk5EYkJpTHpZTGhKOVZOcjUwWlg2cXpsdUdROWt6V1V6RlJtbWxUOHlZY19OX0tnbWpZQy1LYmlfdGs1UFVseUhMMEY3RGRHUkRyVm1v?oc=5",
+      "publishedAt": "2026-08-31T21:15:31.000Z",
+      "source": "Yahoo!ニュース",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP)",
+      "_scoring": {
+        "score": 69,
+        "categories": [
+          "技術・製品",
+          "事故・事件"
+        ],
+        "breakdown": {
+          "required": true,
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "incident": {
+            "matches": 1,
+            "catScore": 28
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 2,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
       "title": "エアロネクストと昭栄薬品が資本・業務提携、ドローンと機能性商材を融合した新ソリューション開発へ",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBkVXZSdlpnY1hyU3lybmRrVE1MTnlVU2hhVzVMZTV6MWIxYkhpRmZ1WVJoeXd2S1ZPWUh3MHNVQUNtYjNkTFBaTUxLZFExcjFvdVRIeWhPVUlkUnh1XzdIVDFaR2M3Nzl0RFk4RTBGR1RrWE5PdXZwZQ?oc=5\" target=\"_blank\">エアロネクストと昭栄薬品が資本・業務提携、ドローンと機能性商材を融合した新ソリューション開発へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ドローンジャーナル</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBkVXZSdlpnY1hyU3lybmRrVE1MTnlVU2hhVzVMZTV6MWIxYkhpRmZ1WVJoeXd2S1ZPWUh3MHNVQUNtYjNkTFBaTUxLZFExcjFvdVRIeWhPVUlkUnh1XzdIVDFaR2M3Nzl0RFk4RTBGR1RrWE5PdXZwZQ?oc=5\" target=\"_blank\">エアロネクストと昭栄薬品が資本・業務提携、ドローンと機能性商材を融合した新ソリューション開発へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ドローンジャーナル</font>",
@@ -619,7 +660,7 @@
       "publishedAt": "2026-09-01T07:28:21.000Z",
       "source": "ドローンジャーナル",
       "_feedRegion": "jp",
-      "_feedName": "Google News (JP)",
+      "_feedName": "Google News (JP 政策/実証)",
       "_scoring": {
         "score": 69,
         "categories": [
@@ -649,10 +690,10 @@
     },
     {
       "title": "テラドローン、重要インフラを防護するC-UAS（対ドローン）システムの開発を開始",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9sQjEwclFBMmxSLUJZYm1XamRDalZkVW5iN0RoYnZ4Rk5DZ3ZSdXQyUG55cE9qdDRjRlE3R21yeDN6UzRrbGlkQTRFMktrc0dtTlV2MlBUVnk5eXJoaWNTTTZDbWRKMV9Bbnc?oc=5\" target=\"_blank\">テラドローン、重要インフラを防護するC-UAS（対ドローン）システムの開発を開始</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ドローンジャーナル</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9sQjEwclFBMmxSLUJZYm1XamRDalZkVW5iN0RoYnZ4Rk5DZ3ZSdXQyUG55cE9qdDRjRlE3R21yeDN6UzRrbGlkQTRFMktrc0dtTlV2MlBUVnk5eXJoaWNTTTZDbWRKMV9Bbnc?oc=5\" target=\"_blank\">テラドローン、重要インフラを防護するC-UAS（対ドローン）システムの開発を開始</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ドローンジャーナル</font>",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9sQjEwclFBMmxSLUJZYm1XamRDalZkVW5iN0RoYnZ4Rk5DZ3ZSdXQyUG55cE9qdDRjRlE3R21yeDN6UzRrbGlkQTRFMktrc0dtTlV2MlBUVnk5eXJoaWNTTTZDbWRKMV9Bbnc?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9sQjEwclFBMmxSLUJZYm1XamRDalZkVW5iN0RoYnZ4Rk5DZ3ZSdXQyUG55cE9qdDRjRlE3R21yeDN6UzRrbGlkQTRFMktrc0dtTlV2MlBUVnk5eXJoaWNTTTZDbWRKMV9Bbnc?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE42cE5sLUR3R29IVlhSSTAtQ0hxWVhhaTJraGI4Nzdvb1diMzcwSnUtYVFOOU9yUjI5WWVuMVZ2YVJMd1BoNEd1c1R6Y014V3JVdGlwN2dxNGxDZGtWRm1KRG5aSDJaejhicnhmeXgtNmJ1RnJrOUdOcQ?oc=5\" target=\"_blank\">テラドローン、重要インフラを防護するC-UAS（対ドローン）システムの開発を開始</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ドローンジャーナル</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE42cE5sLUR3R29IVlhSSTAtQ0hxWVhhaTJraGI4Nzdvb1diMzcwSnUtYVFOOU9yUjI5WWVuMVZ2YVJMd1BoNEd1c1R6Y014V3JVdGlwN2dxNGxDZGtWRm1KRG5aSDJaejhicnhmeXgtNmJ1RnJrOUdOcQ?oc=5\" target=\"_blank\">テラドローン、重要インフラを防護するC-UAS（対ドローン）システムの開発を開始</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ドローンジャーナル</font>",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE42cE5sLUR3R29IVlhSSTAtQ0hxWVhhaTJraGI4Nzdvb1diMzcwSnUtYVFOOU9yUjI5WWVuMVZ2YVJMd1BoNEd1c1R6Y014V3JVdGlwN2dxNGxDZGtWRm1KRG5aSDJaejhicnhmeXgtNmJ1RnJrOUdOcQ?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTE42cE5sLUR3R29IVlhSSTAtQ0hxWVhhaTJraGI4Nzdvb1diMzcwSnUtYVFOOU9yUjI5WWVuMVZ2YVJMd1BoNEd1c1R6Y014V3JVdGlwN2dxNGxDZGtWRm1KRG5aSDJaejhicnhmeXgtNmJ1RnJrOUdOcQ?oc=5",
       "publishedAt": "2026-09-01T07:27:52.000Z",
       "source": "ドローンジャーナル",
       "_feedRegion": "jp",
@@ -685,13 +726,13 @@
       }
     },
     {
-      "title": "Terra Drone、重要インフラ向けC-UAS開発 - logi-today.com",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE4yTmVKaTZoVFl1UHl3TVJLdGFwd1B1UVluX3d2emFrY0Jwd2xoX1kxQ0tjN0hKRmlPT2phN3hWeGhGQTVrc1ZoaA?oc=5\" target=\"_blank\">Terra Drone、重要インフラ向けC-UAS開発</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">logi-today.com</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE4yTmVKaTZoVFl1UHl3TVJLdGFwd1B1UVluX3d2emFrY0Jwd2xoX1kxQ0tjN0hKRmlPT2phN3hWeGhGQTVrc1ZoaA?oc=5\" target=\"_blank\">Terra Drone、重要インフラ向けC-UAS開発</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">logi-today.com</font>",
+      "title": "Terra Drone、重要インフラ向けC-UAS開発",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE4yTmVKaTZoVFl1UHl3TVJLdGFwd1B1UVluX3d2emFrY0Jwd2xoX1kxQ0tjN0hKRmlPT2phN3hWeGhGQTVrc1ZoaA?oc=5\" target=\"_blank\">Terra Drone、重要インフラ向けC-UAS開発</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LOGISTICS TODAY</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE4yTmVKaTZoVFl1UHl3TVJLdGFwd1B1UVluX3d2emFrY0Jwd2xoX1kxQ0tjN0hKRmlPT2phN3hWeGhGQTVrc1ZoaA?oc=5\" target=\"_blank\">Terra Drone、重要インフラ向けC-UAS開発</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LOGISTICS TODAY</font>",
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4yTmVKaTZoVFl1UHl3TVJLdGFwd1B1UVluX3d2emFrY0Jwd2xoX1kxQ0tjN0hKRmlPT2phN3hWeGhGQTVrc1ZoaA?oc=5",
       "googleNewsUrl": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4yTmVKaTZoVFl1UHl3TVJLdGFwd1B1UVluX3d2emFrY0Jwd2xoX1kxQ0tjN0hKRmlPT2phN3hWeGhGQTVrc1ZoaA?oc=5",
       "publishedAt": "2026-09-01T18:50:05.000Z",
-      "source": "logi-today.com",
+      "source": "LOGISTICS TODAY",
       "_feedRegion": "jp",
       "_feedName": "Google News (JP)",
       "_scoring": {
@@ -759,15 +800,79 @@
       }
     },
     {
-      "title": "防衛装備庁、迎撃ドローン早期取得に向けTerraDroneと量産調達契約を締結",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxPZU9HTkt5bmluc01IaTFlS2hKUTRSRmJXbWZXLUx3YThVUEZocjFrdHZxUWswdEUtSWF5T0pfTENLOFV1YTdWX1RPTEpVOURWcTlPaEdpbzgwNEtscEdYOEJmX3ZJQ2xnRWFXLVdpUmJhbExGU3gtZFJXVG1PVExaU0JvM2tFdnVRck53X01oRWZFZGwxYW9FcEZTVElDTFAzeTdVZXUzTG85M1JLcURBSWlHRWZ4c1lEeW9zVURwOUk3a3A0VkVCMzA0SGp4TmNNcVUxSENocUlJUnM4bzRRM1Boam5BOXA3UzVPcHVOcUtZZmRZSUFqa3dWWDJSN1U?oc=5\" target=\"_blank\">防衛装備庁、迎撃ドローン早期取得に向けTerraDroneと量産調達契約を締結</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">航空万能論GF</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxPZU9HTkt5bmluc01IaTFlS2hKUTRSRmJXbWZXLUx3YThVUEZocjFrdHZxUWswdEUtSWF5T0pfTENLOFV1YTdWX1RPTEpVOURWcTlPaEdpbzgwNEtscEdYOEJmX3ZJQ2xnRWFXLVdpUmJhbExGU3gtZFJXVG1PVExaU0JvM2tFdnVRck53X01oRWZFZGwxYW9FcEZTVElDTFAzeTdVZXUzTG85M1JLcURBSWlHRWZ4c1lEeW9zVURwOUk3a3A0VkVCMzA0SGp4TmNNcVUxSENocUlJUnM4bzRRM1Boam5BOXA3UzVPcHVOcUtZZmRZSUFqa3dWWDJSN1U?oc=5\" target=\"_blank\">防衛装備庁、迎撃ドローン早期取得に向けTerraDroneと量産調達契約を締結</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">航空万能論GF</font>",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPZU9HTkt5bmluc01IaTFlS2hKUTRSRmJXbWZXLUx3YThVUEZocjFrdHZxUWswdEUtSWF5T0pfTENLOFV1YTdWX1RPTEpVOURWcTlPaEdpbzgwNEtscEdYOEJmX3ZJQ2xnRWFXLVdpUmJhbExGU3gtZFJXVG1PVExaU0JvM2tFdnVRck53X01oRWZFZGwxYW9FcEZTVElDTFAzeTdVZXUzTG85M1JLcURBSWlHRWZ4c1lEeW9zVURwOUk3a3A0VkVCMzA0SGp4TmNNcVUxSENocUlJUnM4bzRRM1Boam5BOXA3UzVPcHVOcUtZZmRZSUFqa3dWWDJSN1U?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPZU9HTkt5bmluc01IaTFlS2hKUTRSRmJXbWZXLUx3YThVUEZocjFrdHZxUWswdEUtSWF5T0pfTENLOFV1YTdWX1RPTEpVOURWcTlPaEdpbzgwNEtscEdYOEJmX3ZJQ2xnRWFXLVdpUmJhbExGU3gtZFJXVG1PVExaU0JvM2tFdnVRck53X01oRWZFZGwxYW9FcEZTVElDTFAzeTdVZXUzTG85M1JLcURBSWlHRWZ4c1lEeW9zVURwOUk3a3A0VkVCMzA0SGp4TmNNcVUxSENocUlJUnM4bzRRM1Boam5BOXA3UzVPcHVOcUtZZmRZSUFqa3dWWDJSN1U?oc=5",
-      "publishedAt": "2026-08-25T07:00:00.000Z",
-      "source": "航空万能論GF",
+      "title": "愛知県内で量産工場 プロドローン、29年までに 年５万８千機を計画 - chukei-news.co.jp",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFBnQklzeXA3REpCWDJ6WW1meXUwc29iUUNXeDYyVmNhYkRodUt4VnVSa2pXYVdEUXd0ZklLZDZocHRmcm9OdjZsaWRDcWY3ZVJpNE9sU2tZT1NMaUdRTlpIZWF6RzZsT2Z5X01XU2tKVjVzWkE?oc=5\" target=\"_blank\">愛知県内で量産工場 プロドローン、29年までに 年５万８千機を計画</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">chukei-news.co.jp</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFBnQklzeXA3REpCWDJ6WW1meXUwc29iUUNXeDYyVmNhYkRodUt4VnVSa2pXYVdEUXd0ZklLZDZocHRmcm9OdjZsaWRDcWY3ZVJpNE9sU2tZT1NMaUdRTlpIZWF6RzZsT2Z5X01XU2tKVjVzWkE?oc=5\" target=\"_blank\">愛知県内で量産工場 プロドローン、29年までに 年５万８千機を計画</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">chukei-news.co.jp</font>",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBnQklzeXA3REpCWDJ6WW1meXUwc29iUUNXeDYyVmNhYkRodUt4VnVSa2pXYVdEUXd0ZklLZDZocHRmcm9OdjZsaWRDcWY3ZVJpNE9sU2tZT1NMaUdRTlpIZWF6RzZsT2Z5X01XU2tKVjVzWkE?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBnQklzeXA3REpCWDJ6WW1meXUwc29iUUNXeDYyVmNhYkRodUt4VnVSa2pXYVdEUXd0ZklLZDZocHRmcm9OdjZsaWRDcWY3ZVJpNE9sU2tZT1NMaUdRTlpIZWF6RzZsT2Z5X01XU2tKVjVzWkE?oc=5",
+      "publishedAt": "2026-09-02T20:11:05.000Z",
+      "source": "chukei-news.co.jp",
       "_feedRegion": "jp",
       "_feedName": "Google News (JP)",
+      "_scoring": {
+        "score": 64,
+        "categories": [
+          "技術・製品"
+        ],
+        "breakdown": {
+          "required": true,
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 20,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "首都高、ドローンや巡回車両などの点検機器を連携する道路点検の仕組みを実証",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9BNzJmaXJTMHBibUYxbDJqMVJZa0JFclZSd3dmNkhHRlB1S0VlWFZuTmdvc1JjWFdBZ1U0ZHNYWmNfOW4xZURNT3hMVjJqUkJQVWVzc1RWZEpvd2VxOTljS1p1OA?oc=5\" target=\"_blank\">首都高、ドローンや巡回車両などの点検機器を連携する道路点検の仕組みを実証</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">dcross.impress.co.jp</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9BNzJmaXJTMHBibUYxbDJqMVJZa0JFclZSd3dmNkhHRlB1S0VlWFZuTmdvc1JjWFdBZ1U0ZHNYWmNfOW4xZURNT3hMVjJqUkJQVWVzc1RWZEpvd2VxOTljS1p1OA?oc=5\" target=\"_blank\">首都高、ドローンや巡回車両などの点検機器を連携する道路点検の仕組みを実証</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">dcross.impress.co.jp</font>",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9BNzJmaXJTMHBibUYxbDJqMVJZa0JFclZSd3dmNkhHRlB1S0VlWFZuTmdvc1JjWFdBZ1U0ZHNYWmNfOW4xZURNT3hMVjJqUkJQVWVzc1RWZEpvd2VxOTljS1p1OA?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9BNzJmaXJTMHBibUYxbDJqMVJZa0JFclZSd3dmNkhHRlB1S0VlWFZuTmdvc1JjWFdBZ1U0ZHNYWmNfOW4xZURNT3hMVjJqUkJQVWVzc1RWZEpvd2VxOTljS1p1OA?oc=5",
+      "publishedAt": "2026-09-02T21:00:00.000Z",
+      "source": "dcross.impress.co.jp",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP)",
+      "_scoring": {
+        "score": 64,
+        "categories": [
+          "技術・製品"
+        ],
+        "breakdown": {
+          "required": true,
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 20,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "防衛装備庁、迎撃ドローンでテラドローンと量産調達契約",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE1YVGZYNjV6MzcxNXFWR0FaVm9XNkpoUGJvbkc2eUNsN25PczR0OXN0SU9SS3BmSGk5UGN6SFNMbGwxdkFvTnI1eFRuem1EUlM3Tm5QbWFuMnR2WDcwUXY5OFpOQlU4c3JKZjVaVlZn?oc=5\" target=\"_blank\">防衛装備庁、迎撃ドローンでテラドローンと量産調達契約</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">news.infoseek.co.jp</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE1YVGZYNjV6MzcxNXFWR0FaVm9XNkpoUGJvbkc2eUNsN25PczR0OXN0SU9SS3BmSGk5UGN6SFNMbGwxdkFvTnI1eFRuem1EUlM3Tm5QbWFuMnR2WDcwUXY5OFpOQlU4c3JKZjVaVlZn?oc=5\" target=\"_blank\">防衛装備庁、迎撃ドローンでテラドローンと量産調達契約</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">news.infoseek.co.jp</font>",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1YVGZYNjV6MzcxNXFWR0FaVm9XNkpoUGJvbkc2eUNsN25PczR0OXN0SU9SS3BmSGk5UGN6SFNMbGwxdkFvTnI1eFRuem1EUlM3Tm5QbWFuMnR2WDcwUXY5OFpOQlU4c3JKZjVaVlZn?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1YVGZYNjV6MzcxNXFWR0FaVm9XNkpoUGJvbkc2eUNsN25PczR0OXN0SU9SS3BmSGk5UGN6SFNMbGwxdkFvTnI1eFRuem1EUlM3Tm5QbWFuMnR2WDcwUXY5OFpOQlU4c3JKZjVaVlZn?oc=5",
+      "publishedAt": "2026-08-25T09:44:37.000Z",
+      "source": "news.infoseek.co.jp",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP 政策/実証)",
       "_scoring": {
         "score": 64,
         "categories": [
@@ -796,19 +901,20 @@
       }
     },
     {
-      "title": "愛知県内で量産工場 プロドローン、29年までに 年５万８千機を計画",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFBnQklzeXA3REpCWDJ6WW1meXUwc29iUUNXeDYyVmNhYkRodUt4VnVSa2pXYVdEUXd0ZklLZDZocHRmcm9OdjZsaWRDcWY3ZVJpNE9sU2tZT1NMaUdRTlpIZWF6RzZsT2Z5X01XU2tKVjVzWkE?oc=5\" target=\"_blank\">愛知県内で量産工場 プロドローン、29年までに 年５万８千機を計画</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">中部経済新聞</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFBnQklzeXA3REpCWDJ6WW1meXUwc29iUUNXeDYyVmNhYkRodUt4VnVSa2pXYVdEUXd0ZklLZDZocHRmcm9OdjZsaWRDcWY3ZVJpNE9sU2tZT1NMaUdRTlpIZWF6RzZsT2Z5X01XU2tKVjVzWkE?oc=5\" target=\"_blank\">愛知県内で量産工場 プロドローン、29年までに 年５万８千機を計画</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">中部経済新聞</font>",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBnQklzeXA3REpCWDJ6WW1meXUwc29iUUNXeDYyVmNhYkRodUt4VnVSa2pXYVdEUXd0ZklLZDZocHRmcm9OdjZsaWRDcWY3ZVJpNE9sU2tZT1NMaUdRTlpIZWF6RzZsT2Z5X01XU2tKVjVzWkE?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBnQklzeXA3REpCWDJ6WW1meXUwc29iUUNXeDYyVmNhYkRodUt4VnVSa2pXYVdEUXd0ZklLZDZocHRmcm9OdjZsaWRDcWY3ZVJpNE9sU2tZT1NMaUdRTlpIZWF6RzZsT2Z5X01XU2tKVjVzWkE?oc=5",
-      "publishedAt": "2026-09-02T20:11:05.000Z",
-      "source": "中部経済新聞",
+      "title": "防衛装備庁、テラドローンと迎撃ドローンの量産契約を正式締結 国産機「Terra B1」を調達へ（1/2 ページ）",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFBVbjVsWmV0TkFYa2p4WFZyU3hCSHdnYmFCakR2NUVQcVZHd1NWZ2FxREJfOG5JR2w4eXVJWndzeHk5cWJKeWtHeEozTXR1dFB1cVl4anVBSVdfYlJHb05TUDkwQTIyX2xiMXc?oc=5\" target=\"_blank\">防衛装備庁、テラドローンと迎撃ドローンの量産契約を正式締結 国産機「Terra B1」を調達へ（1/2 ページ）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ITmedia</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFBVbjVsWmV0TkFYa2p4WFZyU3hCSHdnYmFCakR2NUVQcVZHd1NWZ2FxREJfOG5JR2w4eXVJWndzeHk5cWJKeWtHeEozTXR1dFB1cVl4anVBSVdfYlJHb05TUDkwQTIyX2xiMXc?oc=5\" target=\"_blank\">防衛装備庁、テラドローンと迎撃ドローンの量産契約を正式締結 国産機「Terra B1」を調達へ（1/2 ページ）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ITmedia</font>",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBVbjVsWmV0TkFYa2p4WFZyU3hCSHdnYmFCakR2NUVQcVZHd1NWZ2FxREJfOG5JR2w4eXVJWndzeHk5cWJKeWtHeEozTXR1dFB1cVl4anVBSVdfYlJHb05TUDkwQTIyX2xiMXc?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBVbjVsWmV0TkFYa2p4WFZyU3hCSHdnYmFCakR2NUVQcVZHd1NWZ2FxREJfOG5JR2w4eXVJWndzeHk5cWJKeWtHeEozTXR1dFB1cVl4anVBSVdfYlJHb05TUDkwQTIyX2xiMXc?oc=5",
+      "publishedAt": "2026-08-25T10:33:17.000Z",
+      "source": "ITmedia",
       "_feedRegion": "jp",
-      "_feedName": "Google News (JP)",
+      "_feedName": "Google News (JP 経済メディア)",
       "_scoring": {
         "score": 64,
         "categories": [
-          "技術・製品"
+          "技術・製品",
+          "市場・資金"
         ],
         "breakdown": {
           "required": true,
@@ -816,11 +922,15 @@
             "matches": 1,
             "catScore": 24
           },
+          "market": {
+            "matches": 2,
+            "catScore": 25
+          },
           "sourceTrust": {
             "domain": "news.google.com",
             "multiplier": 0.8
           },
-          "freshness": 20,
+          "freshness": 0,
           "titleBonus": 10,
           "jpRegionBonus": 15
         },
@@ -939,12 +1049,12 @@
     },
     {
       "title": "FAA launches BEYOND Phase 2, invites additional participants",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPLXRSNlBWMDU3UGFRSG93TmhGVmZCNElnUmxQOXF1SG1LUWpUd3djcUxoaC1MbEJiNjFwRFBoTnBKQWRPMHhlZ0tHQjdLZk54N2NUYzNvTUh0NDZjX3pOQm9uTXh1VWtqSjJmelJKektRdzlzaTlzSjF1ZXA5VkJkNXpBWXZwZEduWEx1MFQ5VHJXdUdONERuVHZ4c2xEb3lGNWVJQ3BBbUxWVDA2MHNHUmgwR0dGM1gweG9HbWxnejkyWUR2Zm9HUjNXdG1oTHZi?oc=5\" target=\"_blank\">FAA launches BEYOND Phase 2, invites additional participants</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">unmannedairspace.info</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPLXRSNlBWMDU3UGFRSG93TmhGVmZCNElnUmxQOXF1SG1LUWpUd3djcUxoaC1MbEJiNjFwRFBoTnBKQWRPMHhlZ0tHQjdLZk54N2NUYzNvTUh0NDZjX3pOQm9uTXh1VWtqSjJmelJKektRdzlzaTlzSjF1ZXA5VkJkNXpBWXZwZEduWEx1MFQ5VHJXdUdONERuVHZ4c2xEb3lGNWVJQ3BBbUxWVDA2MHNHUmgwR0dGM1gweG9HbWxnejkyWUR2Zm9HUjNXdG1oTHZi?oc=5\" target=\"_blank\">FAA launches BEYOND Phase 2, invites additional participants</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">unmannedairspace.info</font>",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPLXRSNlBWMDU3UGFRSG93TmhGVmZCNElnUmxQOXF1SG1LUWpUd3djcUxoaC1MbEJiNjFwRFBoTnBKQWRPMHhlZ0tHQjdLZk54N2NUYzNvTUh0NDZjX3pOQm9uTXh1VWtqSjJmelJKektRdzlzaTlzSjF1ZXA5VkJkNXpBWXZwZEduWEx1MFQ5VHJXdUdONERuVHZ4c2xEb3lGNWVJQ3BBbUxWVDA2MHNHUmgwR0dGM1gweG9HbWxnejkyWUR2Zm9HUjNXdG1oTHZi?oc=5\" target=\"_blank\">FAA launches BEYOND Phase 2, invites additional participants</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPLXRSNlBWMDU3UGFRSG93TmhGVmZCNElnUmxQOXF1SG1LUWpUd3djcUxoaC1MbEJiNjFwRFBoTnBKQWRPMHhlZ0tHQjdLZk54N2NUYzNvTUh0NDZjX3pOQm9uTXh1VWtqSjJmelJKektRdzlzaTlzSjF1ZXA5VkJkNXpBWXZwZEduWEx1MFQ5VHJXdUdONERuVHZ4c2xEb3lGNWVJQ3BBbUxWVDA2MHNHUmgwR0dGM1gweG9HbWxnejkyWUR2Zm9HUjNXdG1oTHZi?oc=5\" target=\"_blank\">FAA launches BEYOND Phase 2, invites additional participants</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPLXRSNlBWMDU3UGFRSG93TmhGVmZCNElnUmxQOXF1SG1LUWpUd3djcUxoaC1MbEJiNjFwRFBoTnBKQWRPMHhlZ0tHQjdLZk54N2NUYzNvTUh0NDZjX3pOQm9uTXh1VWtqSjJmelJKektRdzlzaTlzSjF1ZXA5VkJkNXpBWXZwZEduWEx1MFQ5VHJXdUdONERuVHZ4c2xEb3lGNWVJQ3BBbUxWVDA2MHNHUmgwR0dGM1gweG9HbWxnejkyWUR2Zm9HUjNXdG1oTHZi?oc=5",
       "googleNewsUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPLXRSNlBWMDU3UGFRSG93TmhGVmZCNElnUmxQOXF1SG1LUWpUd3djcUxoaC1MbEJiNjFwRFBoTnBKQWRPMHhlZ0tHQjdLZk54N2NUYzNvTUh0NDZjX3pOQm9uTXh1VWtqSjJmelJKektRdzlzaTlzSjF1ZXA5VkJkNXpBWXZwZEduWEx1MFQ5VHJXdUdONERuVHZ4c2xEb3lGNWVJQ3BBbUxWVDA2MHNHUmgwR0dGM1gweG9HbWxnejkyWUR2Zm9HUjNXdG1oTHZi?oc=5",
       "publishedAt": "2026-08-28T08:52:44.000Z",
-      "source": "unmannedairspace.info",
+      "source": "Unmanned airspace",
       "_feedRegion": "us",
       "_feedName": "FAA",
       "_scoring": {
@@ -978,15 +1088,15 @@
       }
     },
     {
-      "title": "国交省、Archerの「空飛ぶクルマ」型式証明申請を受理 国内5件目",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE13OWozZDZ6UVY5Z1oyekFVR0NIb2VoV1lWYnJXOFpBN2Rka20ycVVwNFAwTVVFSjVVb0VzQlNQWndlY1NlemNXSUVpeDVCOTBJeWRNVw?oc=5\" target=\"_blank\">国交省、Archerの「空飛ぶクルマ」型式証明申請を受理 国内5件目</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">観光経済新聞</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE13OWozZDZ6UVY5Z1oyekFVR0NIb2VoV1lWYnJXOFpBN2Rka20ycVVwNFAwTVVFSjVVb0VzQlNQWndlY1NlemNXSUVpeDVCOTBJeWRNVw?oc=5\" target=\"_blank\">国交省、Archerの「空飛ぶクルマ」型式証明申請を受理 国内5件目</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">観光経済新聞</font>",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE13OWozZDZ6UVY5Z1oyekFVR0NIb2VoV1lWYnJXOFpBN2Rka20ycVVwNFAwTVVFSjVVb0VzQlNQWndlY1NlemNXSUVpeDVCOTBJeWRNVw?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE13OWozZDZ6UVY5Z1oyekFVR0NIb2VoV1lWYnJXOFpBN2Rka20ycVVwNFAwTVVFSjVVb0VzQlNQWndlY1NlemNXSUVpeDVCOTBJeWRNVw?oc=5",
-      "publishedAt": "2026-09-01T22:30:54.000Z",
-      "source": "観光経済新聞",
+      "title": "国土交通省、米国Archer Aviation社の空飛ぶクルマ型式証明申請を受理",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5oYkJUX2JPbnNnaEo1WFgwbXJjRVgtODBQYjVMVmduNG5DZ2ZvQVhrQktWcUVyRVFpLS1iWTRSWU0xWjBRbTgzZHlnSTVuSlZMbjBYMmlwSFpOaGZ4RWxFRFJRZkIzQ2hEQXY3eG5VZnMzTy03X2RTRw?oc=5\" target=\"_blank\">国土交通省、米国Archer Aviation社の空飛ぶクルマ型式証明申請を受理</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ドローンジャーナル</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5oYkJUX2JPbnNnaEo1WFgwbXJjRVgtODBQYjVMVmduNG5DZ2ZvQVhrQktWcUVyRVFpLS1iWTRSWU0xWjBRbTgzZHlnSTVuSlZMbjBYMmlwSFpOaGZ4RWxFRFJRZkIzQ2hEQXY3eG5VZnMzTy03X2RTRw?oc=5\" target=\"_blank\">国土交通省、米国Archer Aviation社の空飛ぶクルマ型式証明申請を受理</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ドローンジャーナル</font>",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5oYkJUX2JPbnNnaEo1WFgwbXJjRVgtODBQYjVMVmduNG5DZ2ZvQVhrQktWcUVyRVFpLS1iWTRSWU0xWjBRbTgzZHlnSTVuSlZMbjBYMmlwSFpOaGZ4RWxFRFJRZkIzQ2hEQXY3eG5VZnMzTy03X2RTRw?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5oYkJUX2JPbnNnaEo1WFgwbXJjRVgtODBQYjVMVmduNG5DZ2ZvQVhrQktWcUVyRVFpLS1iWTRSWU0xWjBRbTgzZHlnSTVuSlZMbjBYMmlwSFpOaGZ4RWxFRFJRZkIzQ2hEQXY3eG5VZnMzTy03X2RTRw?oc=5",
+      "publishedAt": "2026-09-02T02:46:08.000Z",
+      "source": "ドローンジャーナル",
       "_feedRegion": "jp",
-      "_feedName": "Google News (JP 政策/実証)",
+      "_feedName": "Google News (JP 経済メディア)",
       "_scoring": {
         "score": 61,
         "categories": [
@@ -1003,117 +1113,6 @@
             "multiplier": 0.8
           },
           "freshness": 10,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "「通販生活」が楽天市場から撤退 「迎撃ドローン」企業との提携を受け「理念に反する」（産経新聞）",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9JS3NHbkJDYWR5N1h1RmxUY2pzdkpSRnY2bTVYanBPdEpyd3JFUzYzOUdaaXNVTTVUWjNUWHRaTTdqNEFwblU0TmhtZjJwLUEzbHVVdkhnV1Q1MmhQNi1tem12WEViNGt2VjRyNWxwektlNTgtcVh0c0xtZVo1Rlk?oc=5\" target=\"_blank\">「通販生活」が楽天市場から撤退 「迎撃ドローン」企業との提携を受け「理念に反する」（産経新聞）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9JS3NHbkJDYWR5N1h1RmxUY2pzdkpSRnY2bTVYanBPdEpyd3JFUzYzOUdaaXNVTTVUWjNUWHRaTTdqNEFwblU0TmhtZjJwLUEzbHVVdkhnV1Q1MmhQNi1tem12WEViNGt2VjRyNWxwektlNTgtcVh0c0xtZVo1Rlk?oc=5\" target=\"_blank\">「通販生活」が楽天市場から撤退 「迎撃ドローン」企業との提携を受け「理念に反する」（産経新聞）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9JS3NHbkJDYWR5N1h1RmxUY2pzdkpSRnY2bTVYanBPdEpyd3JFUzYzOUdaaXNVTTVUWjNUWHRaTTdqNEFwblU0TmhtZjJwLUEzbHVVdkhnV1Q1MmhQNi1tem12WEViNGt2VjRyNWxwektlNTgtcVh0c0xtZVo1Rlk?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9JS3NHbkJDYWR5N1h1RmxUY2pzdkpSRnY2bTVYanBPdEpyd3JFUzYzOUdaaXNVTTVUWjNUWHRaTTdqNEFwblU0TmhtZjJwLUEzbHVVdkhnV1Q1MmhQNi1tem12WEViNGt2VjRyNWxwektlNTgtcVh0c0xtZVo1Rlk?oc=5",
-      "publishedAt": "2026-08-19T07:00:00.000Z",
-      "source": "Yahoo!ニュース",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP 政策/実証)",
-      "_scoring": {
-        "score": 60,
-        "categories": [
-          "技術・製品",
-          "市場・資金"
-        ],
-        "breakdown": {
-          "required": true,
-          "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "market": {
-            "matches": 1,
-            "catScore": 20
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 0,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "楽天が迎撃ドローンで独新興と提携 防衛省への納入を支援、日本国内での量産化も視野",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5aYzVOTGxoSDB2dWpLeThKbXVWMTlUVzFMUTdkRWN4d2taX1lUR1VLNGFNQ1RqZ092c1hub0pxZng2YXNiZmNiTGU0NVlYQk5OcVhSYlZOb0VNS3VVWDYxZE1OSmdUdjQyYnVkeEVla3lSSFpiQkE?oc=5\" target=\"_blank\">楽天が迎撃ドローンで独新興と提携 防衛省への納入を支援、日本国内での量産化も視野</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">産経ニュース</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5aYzVOTGxoSDB2dWpLeThKbXVWMTlUVzFMUTdkRWN4d2taX1lUR1VLNGFNQ1RqZ092c1hub0pxZng2YXNiZmNiTGU0NVlYQk5OcVhSYlZOb0VNS3VVWDYxZE1OSmdUdjQyYnVkeEVla3lSSFpiQkE?oc=5\" target=\"_blank\">楽天が迎撃ドローンで独新興と提携 防衛省への納入を支援、日本国内での量産化も視野</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">産経ニュース</font>",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5aYzVOTGxoSDB2dWpLeThKbXVWMTlUVzFMUTdkRWN4d2taX1lUR1VLNGFNQ1RqZ092c1hub0pxZng2YXNiZmNiTGU0NVlYQk5OcVhSYlZOb0VNS3VVWDYxZE1OSmdUdjQyYnVkeEVla3lSSFpiQkE?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5aYzVOTGxoSDB2dWpLeThKbXVWMTlUVzFMUTdkRWN4d2taX1lUR1VLNGFNQ1RqZ092c1hub0pxZng2YXNiZmNiTGU0NVlYQk5OcVhSYlZOb0VNS3VVWDYxZE1OSmdUdjQyYnVkeEVla3lSSFpiQkE?oc=5",
-      "publishedAt": "2026-08-17T07:00:00.000Z",
-      "source": "産経ニュース",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP 政策/実証)",
-      "_scoring": {
-        "score": 60,
-        "categories": [
-          "技術・製品",
-          "市場・資金"
-        ],
-        "breakdown": {
-          "required": true,
-          "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "market": {
-            "matches": 1,
-            "catScore": 20
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 0,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "楽天G 攻撃型ドローンの国内導入を支援へ ドイツのヘルシング社と提携 日本国内での量産化も視野に",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE52eWhxLXBwVXI2WTI2SlBzeThrTndlTFRzUWFjZDR0Z2t4YWZyU1VQZ0dwZU9OT0dia1J3NnhQV21qa3FoRHBpUENzeFRIclFlSXlyd2NhVFNveUUtNE5yRjFvSG9OOG8?oc=5\" target=\"_blank\">楽天G 攻撃型ドローンの国内導入を支援へ ドイツのヘルシング社と提携 日本国内での量産化も視野に</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TBS NEWS DIG</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE52eWhxLXBwVXI2WTI2SlBzeThrTndlTFRzUWFjZDR0Z2t4YWZyU1VQZ0dwZU9OT0dia1J3NnhQV21qa3FoRHBpUENzeFRIclFlSXlyd2NhVFNveUUtNE5yRjFvSG9OOG8?oc=5\" target=\"_blank\">楽天G 攻撃型ドローンの国内導入を支援へ ドイツのヘルシング社と提携 日本国内での量産化も視野に</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TBS NEWS DIG</font>",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE52eWhxLXBwVXI2WTI2SlBzeThrTndlTFRzUWFjZDR0Z2t4YWZyU1VQZ0dwZU9OT0dia1J3NnhQV21qa3FoRHBpUENzeFRIclFlSXlyd2NhVFNveUUtNE5yRjFvSG9OOG8?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE52eWhxLXBwVXI2WTI2SlBzeThrTndlTFRzUWFjZDR0Z2t4YWZyU1VQZ0dwZU9OT0dia1J3NnhQV21qa3FoRHBpUENzeFRIclFlSXlyd2NhVFNveUUtNE5yRjFvSG9OOG8?oc=5",
-      "publishedAt": "2026-08-18T07:00:00.000Z",
-      "source": "TBS NEWS DIG",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP 政策/実証)",
-      "_scoring": {
-        "score": 60,
-        "categories": [
-          "技術・製品",
-          "市場・資金"
-        ],
-        "breakdown": {
-          "required": true,
-          "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "market": {
-            "matches": 1,
-            "catScore": 20
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 0,
           "titleBonus": 10,
           "jpRegionBonus": 15
         },
