@@ -1,15 +1,52 @@
 {
-  "generatedAt": "2026-09-08T23:17:50.081Z",
-  "rawCount": 658,
+  "generatedAt": "2026-09-09T04:01:15.670Z",
+  "rawCount": 660,
   "articles": [
     {
+      "title": "垂直離着陸型の配送ドローンを開発するAirbound、シリーズAで3,700万ドルを調達",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE82aGNEZUFQc05aU1BEX2FKdHRiR1drbmwydUdDNU1jOXNfVnJycEdyR0U4RjlxQnZoNEgyZ0NabHFOV0JjRVdQQXNRTGFhU0tSc1JhMXRpVVhDMDloVnVPZ2YzM3FpdXNtajUxV213?oc=5\" target=\"_blank\">垂直離着陸型の配送ドローンを開発するAirbound、シリーズAで3,700万ドルを調達</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BRIDGE（ブリッジ）</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE82aGNEZUFQc05aU1BEX2FKdHRiR1drbmwydUdDNU1jOXNfVnJycEdyR0U4RjlxQnZoNEgyZ0NabHFOV0JjRVdQQXNRTGFhU0tSc1JhMXRpVVhDMDloVnVPZ2YzM3FpdXNtajUxV213?oc=5\" target=\"_blank\">垂直離着陸型の配送ドローンを開発するAirbound、シリーズAで3,700万ドルを調達</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BRIDGE（ブリッジ）</font>",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE82aGNEZUFQc05aU1BEX2FKdHRiR1drbmwydUdDNU1jOXNfVnJycEdyR0U4RjlxQnZoNEgyZ0NabHFOV0JjRVdQQXNRTGFhU0tSc1JhMXRpVVhDMDloVnVPZ2YzM3FpdXNtajUxV213?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTE82aGNEZUFQc05aU1BEX2FKdHRiR1drbmwydUdDNU1jOXNfVnJycEdyR0U4RjlxQnZoNEgyZ0NabHFOV0JjRVdQQXNRTGFhU0tSc1JhMXRpVVhDMDloVnVPZ2YzM3FpdXNtajUxV213?oc=5",
+      "publishedAt": "2026-09-08T23:42:50.000Z",
+      "source": "BRIDGE（ブリッジ）",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP)",
+      "_scoring": {
+        "score": 79,
+        "categories": [
+          "技術・製品",
+          "市場・資金"
+        ],
+        "breakdown": {
+          "required": true,
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "market": {
+            "matches": 2,
+            "catScore": 25
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 15,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
       "title": "A2Z Drone Delivery Launches Longtail Dual for BVLOS Urban Missions",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOQi03aWdvQXQ1eHJxUmNoOXo2SERTRnhuNm9UcUswaFV0VWF5X2dTN0p2WUR3SUhDVnFablRnNEFxM1lKQmxqMWlId2I4MGlUYW5CR2p5ZVFOQVEzeFlBczlpY2VGcmhVeS0yVHZiNXlqYTRicmljUDN0UEFKZl9OcHRUblB4czB5WEN4VGh2Q2xJSUp0clFJRGdkcmhWZEZmdnc?oc=5\" target=\"_blank\">A2Z Drone Delivery Launches Longtail Dual for BVLOS Urban Missions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">dronelife.com</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOQi03aWdvQXQ1eHJxUmNoOXo2SERTRnhuNm9UcUswaFV0VWF5X2dTN0p2WUR3SUhDVnFablRnNEFxM1lKQmxqMWlId2I4MGlUYW5CR2p5ZVFOQVEzeFlBczlpY2VGcmhVeS0yVHZiNXlqYTRicmljUDN0UEFKZl9OcHRUblB4czB5WEN4VGh2Q2xJSUp0clFJRGdkcmhWZEZmdnc?oc=5\" target=\"_blank\">A2Z Drone Delivery Launches Longtail Dual for BVLOS Urban Missions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">dronelife.com</font>",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOQi03aWdvQXQ1eHJxUmNoOXo2SERTRnhuNm9UcUswaFV0VWF5X2dTN0p2WUR3SUhDVnFablRnNEFxM1lKQmxqMWlId2I4MGlUYW5CR2p5ZVFOQVEzeFlBczlpY2VGcmhVeS0yVHZiNXlqYTRicmljUDN0UEFKZl9OcHRUblB4czB5WEN4VGh2Q2xJSUp0clFJRGdkcmhWZEZmdnc?oc=5\" target=\"_blank\">A2Z Drone Delivery Launches Longtail Dual for BVLOS Urban Missions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dronelife</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOQi03aWdvQXQ1eHJxUmNoOXo2SERTRnhuNm9UcUswaFV0VWF5X2dTN0p2WUR3SUhDVnFablRnNEFxM1lKQmxqMWlId2I4MGlUYW5CR2p5ZVFOQVEzeFlBczlpY2VGcmhVeS0yVHZiNXlqYTRicmljUDN0UEFKZl9OcHRUblB4czB5WEN4VGh2Q2xJSUp0clFJRGdkcmhWZEZmdnc?oc=5\" target=\"_blank\">A2Z Drone Delivery Launches Longtail Dual for BVLOS Urban Missions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dronelife</font>",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQi03aWdvQXQ1eHJxUmNoOXo2SERTRnhuNm9UcUswaFV0VWF5X2dTN0p2WUR3SUhDVnFablRnNEFxM1lKQmxqMWlId2I4MGlUYW5CR2p5ZVFOQVEzeFlBczlpY2VGcmhVeS0yVHZiNXlqYTRicmljUDN0UEFKZl9OcHRUblB4czB5WEN4VGh2Q2xJSUp0clFJRGdkcmhWZEZmdnc?oc=5",
       "googleNewsUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQi03aWdvQXQ1eHJxUmNoOXo2SERTRnhuNm9UcUswaFV0VWF5X2dTN0p2WUR3SUhDVnFablRnNEFxM1lKQmxqMWlId2I4MGlUYW5CR2p5ZVFOQVEzeFlBczlpY2VGcmhVeS0yVHZiNXlqYTRicmljUDN0UEFKZl9OcHRUblB4czB5WEN4VGh2Q2xJSUp0clFJRGdkcmhWZEZmdnc?oc=5",
       "publishedAt": "2026-08-31T14:36:32.000Z",
-      "source": "dronelife.com",
+      "source": "Dronelife",
       "_feedRegion": "eu",
       "_feedName": "EASA",
       "_scoring": {
@@ -86,86 +123,12 @@
     },
     {
       "title": "ロシアとドイツ、「対抗措置」の応酬 ドイツ空港のドローン事件で",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBDcDZyWllyejB5bjhiNktVelg3cEhxMjM0TWVFX1ZLZWQ4dFB3cGNta2Z3STU0a3ZIRjUtaFJFSHozZ1hMdVJVaEtDNjlmeW9DWHZaZTlwQlp4Z0hXNDN2YnFJUF9OX3M?oc=5\" target=\"_blank\">ロシアとドイツ、「対抗措置」の応酬 ドイツ空港のドローン事件で</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">asahi.com</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBDcDZyWllyejB5bjhiNktVelg3cEhxMjM0TWVFX1ZLZWQ4dFB3cGNta2Z3STU0a3ZIRjUtaFJFSHozZ1hMdVJVaEtDNjlmeW9DWHZaZTlwQlp4Z0hXNDN2YnFJUF9OX3M?oc=5\" target=\"_blank\">ロシアとドイツ、「対抗措置」の応酬 ドイツ空港のドローン事件で</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">asahi.com</font>",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBDcDZyWllyejB5bjhiNktVelg3cEhxMjM0TWVFX1ZLZWQ4dFB3cGNta2Z3STU0a3ZIRjUtaFJFSHozZ1hMdVJVaEtDNjlmeW9DWHZaZTlwQlp4Z0hXNDN2YnFJUF9OX3M?oc=5\" target=\"_blank\">ロシアとドイツ、「対抗措置」の応酬 ドイツ空港のドローン事件で</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">朝日新聞</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBDcDZyWllyejB5bjhiNktVelg3cEhxMjM0TWVFX1ZLZWQ4dFB3cGNta2Z3STU0a3ZIRjUtaFJFSHozZ1hMdVJVaEtDNjlmeW9DWHZaZTlwQlp4Z0hXNDN2YnFJUF9OX3M?oc=5\" target=\"_blank\">ロシアとドイツ、「対抗措置」の応酬 ドイツ空港のドローン事件で</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">朝日新聞</font>",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBDcDZyWllyejB5bjhiNktVelg3cEhxMjM0TWVFX1ZLZWQ4dFB3cGNta2Z3STU0a3ZIRjUtaFJFSHozZ1hMdVJVaEtDNjlmeW9DWHZaZTlwQlp4Z0hXNDN2YnFJUF9OX3M?oc=5",
       "googleNewsUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBDcDZyWllyejB5bjhiNktVelg3cEhxMjM0TWVFX1ZLZWQ4dFB3cGNta2Z3STU0a3ZIRjUtaFJFSHozZ1hMdVJVaEtDNjlmeW9DWHZaZTlwQlp4Z0hXNDN2YnFJUF9OX3M?oc=5",
       "publishedAt": "2026-09-07T14:49:01.000Z",
-      "source": "asahi.com",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP)",
-      "_scoring": {
-        "score": 72,
-        "categories": [
-          "事故・事件",
-          "政策・インフラ"
-        ],
-        "breakdown": {
-          "required": true,
-          "incident": {
-            "matches": 1,
-            "catScore": 28
-          },
-          "policy": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 5,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "ドイツ、破壊工作への防御強化へ 空港ドローン事件受け",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPYmpGdXBQSGRJUGlqdFQ1TGppWE5kS3BuMWYwWV9fZGJoR0llcUJ1cTJTYkQ0X1F4clRXZ3NBa3p1QUhtM2t2cTJsVnV1ZGdGd05jeVd3V3hmeWlBMHJmTkQyQ1ZhUmVUdENXcUNNVW84RXJpV192ZDRHZG0xLWhtRg?oc=5\" target=\"_blank\">ドイツ、破壊工作への防御強化へ 空港ドローン事件受け</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">jp.reuters.com</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPYmpGdXBQSGRJUGlqdFQ1TGppWE5kS3BuMWYwWV9fZGJoR0llcUJ1cTJTYkQ0X1F4clRXZ3NBa3p1QUhtM2t2cTJsVnV1ZGdGd05jeVd3V3hmeWlBMHJmTkQyQ1ZhUmVUdENXcUNNVW84RXJpV192ZDRHZG0xLWhtRg?oc=5\" target=\"_blank\">ドイツ、破壊工作への防御強化へ 空港ドローン事件受け</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">jp.reuters.com</font>",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPYmpGdXBQSGRJUGlqdFQ1TGppWE5kS3BuMWYwWV9fZGJoR0llcUJ1cTJTYkQ0X1F4clRXZ3NBa3p1QUhtM2t2cTJsVnV1ZGdGd05jeVd3V3hmeWlBMHJmTkQyQ1ZhUmVUdENXcUNNVW84RXJpV192ZDRHZG0xLWhtRg?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPYmpGdXBQSGRJUGlqdFQ1TGppWE5kS3BuMWYwWV9fZGJoR0llcUJ1cTJTYkQ0X1F4clRXZ3NBa3p1QUhtM2t2cTJsVnV1ZGdGd05jeVd3V3hmeWlBMHJmTkQyQ1ZhUmVUdENXcUNNVW84RXJpV192ZDRHZG0xLWhtRg?oc=5",
-      "publishedAt": "2026-09-07T01:15:00.000Z",
-      "source": "jp.reuters.com",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP)",
-      "_scoring": {
-        "score": 72,
-        "categories": [
-          "事故・事件",
-          "政策・インフラ"
-        ],
-        "breakdown": {
-          "required": true,
-          "incident": {
-            "matches": 1,
-            "catScore": 28
-          },
-          "policy": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 5,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "ロ外相、独空港ドローン事件巡る非難「真の戦争の始まり」＝タス",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNdDIxUTlJZG1ET192azJYSXN2cHZiUWE1V0lSeGwwNmhJaUZLVFR4SDEwTjRObFdmVlpiR3c0QmdCek9qenNhTTVxRTFZV3lIV0hJOXN6NU1DcnZSNjNWQ1Fad3pxQUNudmlkOEgzY3h6Z3lMNEVMb2Q5UGdOaXM2eg?oc=5\" target=\"_blank\">ロ外相、独空港ドローン事件巡る非難「真の戦争の始まり」＝タス</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">jp.reuters.com</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNdDIxUTlJZG1ET192azJYSXN2cHZiUWE1V0lSeGwwNmhJaUZLVFR4SDEwTjRObFdmVlpiR3c0QmdCek9qenNhTTVxRTFZV3lIV0hJOXN6NU1DcnZSNjNWQ1Fad3pxQUNudmlkOEgzY3h6Z3lMNEVMb2Q5UGdOaXM2eg?oc=5\" target=\"_blank\">ロ外相、独空港ドローン事件巡る非難「真の戦争の始まり」＝タス</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">jp.reuters.com</font>",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdDIxUTlJZG1ET192azJYSXN2cHZiUWE1V0lSeGwwNmhJaUZLVFR4SDEwTjRObFdmVlpiR3c0QmdCek9qenNhTTVxRTFZV3lIV0hJOXN6NU1DcnZSNjNWQ1Fad3pxQUNudmlkOEgzY3h6Z3lMNEVMb2Q5UGdOaXM2eg?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdDIxUTlJZG1ET192azJYSXN2cHZiUWE1V0lSeGwwNmhJaUZLVFR4SDEwTjRObFdmVlpiR3c0QmdCek9qenNhTTVxRTFZV3lIV0hJOXN6NU1DcnZSNjNWQ1Fad3pxQUNudmlkOEgzY3h6Z3lMNEVMb2Q5UGdOaXM2eg?oc=5",
-      "publishedAt": "2026-09-07T02:00:00.000Z",
-      "source": "jp.reuters.com",
+      "source": "朝日新聞",
       "_feedRegion": "jp",
       "_feedName": "Google News (JP)",
       "_scoring": {
@@ -274,13 +237,87 @@
       }
     },
     {
+      "title": "ドイツ、破壊工作への防御強化へ 空港ドローン事件受け",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPYmpGdXBQSGRJUGlqdFQ1TGppWE5kS3BuMWYwWV9fZGJoR0llcUJ1cTJTYkQ0X1F4clRXZ3NBa3p1QUhtM2t2cTJsVnV1ZGdGd05jeVd3V3hmeWlBMHJmTkQyQ1ZhUmVUdENXcUNNVW84RXJpV192ZDRHZG0xLWhtRg?oc=5\" target=\"_blank\">ドイツ、破壊工作への防御強化へ 空港ドローン事件受け</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPYmpGdXBQSGRJUGlqdFQ1TGppWE5kS3BuMWYwWV9fZGJoR0llcUJ1cTJTYkQ0X1F4clRXZ3NBa3p1QUhtM2t2cTJsVnV1ZGdGd05jeVd3V3hmeWlBMHJmTkQyQ1ZhUmVUdENXcUNNVW84RXJpV192ZDRHZG0xLWhtRg?oc=5\" target=\"_blank\">ドイツ、破壊工作への防御強化へ 空港ドローン事件受け</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPYmpGdXBQSGRJUGlqdFQ1TGppWE5kS3BuMWYwWV9fZGJoR0llcUJ1cTJTYkQ0X1F4clRXZ3NBa3p1QUhtM2t2cTJsVnV1ZGdGd05jeVd3V3hmeWlBMHJmTkQyQ1ZhUmVUdENXcUNNVW84RXJpV192ZDRHZG0xLWhtRg?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPYmpGdXBQSGRJUGlqdFQ1TGppWE5kS3BuMWYwWV9fZGJoR0llcUJ1cTJTYkQ0X1F4clRXZ3NBa3p1QUhtM2t2cTJsVnV1ZGdGd05jeVd3V3hmeWlBMHJmTkQyQ1ZhUmVUdENXcUNNVW84RXJpV192ZDRHZG0xLWhtRg?oc=5",
+      "publishedAt": "2026-09-07T01:15:00.000Z",
+      "source": "Reuters",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP)",
+      "_scoring": {
+        "score": 69,
+        "categories": [
+          "事故・事件",
+          "政策・インフラ"
+        ],
+        "breakdown": {
+          "required": true,
+          "incident": {
+            "matches": 1,
+            "catScore": 28
+          },
+          "policy": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 2,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "ロ外相、独空港ドローン事件巡る非難「真の戦争の始まり」＝タス",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNdDIxUTlJZG1ET192azJYSXN2cHZiUWE1V0lSeGwwNmhJaUZLVFR4SDEwTjRObFdmVlpiR3c0QmdCek9qenNhTTVxRTFZV3lIV0hJOXN6NU1DcnZSNjNWQ1Fad3pxQUNudmlkOEgzY3h6Z3lMNEVMb2Q5UGdOaXM2eg?oc=5\" target=\"_blank\">ロ外相、独空港ドローン事件巡る非難「真の戦争の始まり」＝タス</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNdDIxUTlJZG1ET192azJYSXN2cHZiUWE1V0lSeGwwNmhJaUZLVFR4SDEwTjRObFdmVlpiR3c0QmdCek9qenNhTTVxRTFZV3lIV0hJOXN6NU1DcnZSNjNWQ1Fad3pxQUNudmlkOEgzY3h6Z3lMNEVMb2Q5UGdOaXM2eg?oc=5\" target=\"_blank\">ロ外相、独空港ドローン事件巡る非難「真の戦争の始まり」＝タス</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdDIxUTlJZG1ET192azJYSXN2cHZiUWE1V0lSeGwwNmhJaUZLVFR4SDEwTjRObFdmVlpiR3c0QmdCek9qenNhTTVxRTFZV3lIV0hJOXN6NU1DcnZSNjNWQ1Fad3pxQUNudmlkOEgzY3h6Z3lMNEVMb2Q5UGdOaXM2eg?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdDIxUTlJZG1ET192azJYSXN2cHZiUWE1V0lSeGwwNmhJaUZLVFR4SDEwTjRObFdmVlpiR3c0QmdCek9qenNhTTVxRTFZV3lIV0hJOXN6NU1DcnZSNjNWQ1Fad3pxQUNudmlkOEgzY3h6Z3lMNEVMb2Q5UGdOaXM2eg?oc=5",
+      "publishedAt": "2026-09-07T02:00:00.000Z",
+      "source": "Reuters",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP)",
+      "_scoring": {
+        "score": 69,
+        "categories": [
+          "事故・事件",
+          "政策・インフラ"
+        ],
+        "breakdown": {
+          "required": true,
+          "incident": {
+            "matches": 1,
+            "catScore": 28
+          },
+          "policy": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 2,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
       "title": "ＥＵ、独空港ドローン事件巡り対ロ圧力強化へ ロシア反発",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9JcVo5VHlYclFUMmd0el9rVXRnM0dhVWdKU21vTHRTejVjUnRnQThZdXN0clYtd0U2VGtzaGZGVWNrUXZMbm1WNGtWSzhpLUhrRWp6N24zUjREWGFHQnpWamRYeDdBNDZRdEJpWk1oZHVOdGp3eENtNnpFYm9RTEk?oc=5\" target=\"_blank\">ＥＵ、独空港ドローン事件巡り対ロ圧力強化へ ロシア反発</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">jp.reuters.com</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9JcVo5VHlYclFUMmd0el9rVXRnM0dhVWdKU21vTHRTejVjUnRnQThZdXN0clYtd0U2VGtzaGZGVWNrUXZMbm1WNGtWSzhpLUhrRWp6N24zUjREWGFHQnpWamRYeDdBNDZRdEJpWk1oZHVOdGp3eENtNnpFYm9RTEk?oc=5\" target=\"_blank\">ＥＵ、独空港ドローン事件巡り対ロ圧力強化へ ロシア反発</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">jp.reuters.com</font>",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9JcVo5VHlYclFUMmd0el9rVXRnM0dhVWdKU21vTHRTejVjUnRnQThZdXN0clYtd0U2VGtzaGZGVWNrUXZMbm1WNGtWSzhpLUhrRWp6N24zUjREWGFHQnpWamRYeDdBNDZRdEJpWk1oZHVOdGp3eENtNnpFYm9RTEk?oc=5\" target=\"_blank\">ＥＵ、独空港ドローン事件巡り対ロ圧力強化へ ロシア反発</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9JcVo5VHlYclFUMmd0el9rVXRnM0dhVWdKU21vTHRTejVjUnRnQThZdXN0clYtd0U2VGtzaGZGVWNrUXZMbm1WNGtWSzhpLUhrRWp6N24zUjREWGFHQnpWamRYeDdBNDZRdEJpWk1oZHVOdGp3eENtNnpFYm9RTEk?oc=5\" target=\"_blank\">ＥＵ、独空港ドローン事件巡り対ロ圧力強化へ ロシア反発</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9JcVo5VHlYclFUMmd0el9rVXRnM0dhVWdKU21vTHRTejVjUnRnQThZdXN0clYtd0U2VGtzaGZGVWNrUXZMbm1WNGtWSzhpLUhrRWp6N24zUjREWGFHQnpWamRYeDdBNDZRdEJpWk1oZHVOdGp3eENtNnpFYm9RTEk?oc=5",
       "googleNewsUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9JcVo5VHlYclFUMmd0el9rVXRnM0dhVWdKU21vTHRTejVjUnRnQThZdXN0clYtd0U2VGtzaGZGVWNrUXZMbm1WNGtWSzhpLUhrRWp6N24zUjREWGFHQnpWamRYeDdBNDZRdEJpWk1oZHVOdGp3eENtNnpFYm9RTEk?oc=5",
       "publishedAt": "2026-09-02T10:32:00.000Z",
-      "source": "jp.reuters.com",
+      "source": "Reuters",
       "_feedRegion": "jp",
       "_feedName": "Google News (JP)",
       "_scoring": {
@@ -312,12 +349,12 @@
     },
     {
       "title": "Aeroberm Vertiport — eVTOL Infrastructure Breakthrough",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPMlBvNDdnbHFNNTdBT3A5XzM4NmpacXpqbV8wWTJhc1RmUXBnemprejYtckFfMUR2blBfZ3RXcmlhR1pRUS1uNjlXdWNtOE9IX05wNlBnV1VfOFQtdFU4d05ROHVUMEtEMmZETGY2NnFNSm9jOVFNZE9PU2pYZXM1S09EQmNSaUlHdW9EMmI3ZkVrMWJR?oc=5\" target=\"_blank\">Aeroberm Vertiport — eVTOL Infrastructure Breakthrough</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">migflug.com</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPMlBvNDdnbHFNNTdBT3A5XzM4NmpacXpqbV8wWTJhc1RmUXBnemprejYtckFfMUR2blBfZ3RXcmlhR1pRUS1uNjlXdWNtOE9IX05wNlBnV1VfOFQtdFU4d05ROHVUMEtEMmZETGY2NnFNSm9jOVFNZE9PU2pYZXM1S09EQmNSaUlHdW9EMmI3ZkVrMWJR?oc=5\" target=\"_blank\">Aeroberm Vertiport — eVTOL Infrastructure Breakthrough</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">migflug.com</font>",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPMlBvNDdnbHFNNTdBT3A5XzM4NmpacXpqbV8wWTJhc1RmUXBnemprejYtckFfMUR2blBfZ3RXcmlhR1pRUS1uNjlXdWNtOE9IX05wNlBnV1VfOFQtdFU4d05ROHVUMEtEMmZETGY2NnFNSm9jOVFNZE9PU2pYZXM1S09EQmNSaUlHdW9EMmI3ZkVrMWJR?oc=5\" target=\"_blank\">Aeroberm Vertiport — eVTOL Infrastructure Breakthrough</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MiGFlug</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPMlBvNDdnbHFNNTdBT3A5XzM4NmpacXpqbV8wWTJhc1RmUXBnemprejYtckFfMUR2blBfZ3RXcmlhR1pRUS1uNjlXdWNtOE9IX05wNlBnV1VfOFQtdFU4d05ROHVUMEtEMmZETGY2NnFNSm9jOVFNZE9PU2pYZXM1S09EQmNSaUlHdW9EMmI3ZkVrMWJR?oc=5\" target=\"_blank\">Aeroberm Vertiport — eVTOL Infrastructure Breakthrough</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MiGFlug</font>",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMlBvNDdnbHFNNTdBT3A5XzM4NmpacXpqbV8wWTJhc1RmUXBnemprejYtckFfMUR2blBfZ3RXcmlhR1pRUS1uNjlXdWNtOE9IX05wNlBnV1VfOFQtdFU4d05ROHVUMEtEMmZETGY2NnFNSm9jOVFNZE9PU2pYZXM1S09EQmNSaUlHdW9EMmI3ZkVrMWJR?oc=5",
       "googleNewsUrl": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMlBvNDdnbHFNNTdBT3A5XzM4NmpacXpqbV8wWTJhc1RmUXBnemprejYtckFfMUR2blBfZ3RXcmlhR1pRUS1uNjlXdWNtOE9IX05wNlBnV1VfOFQtdFU4d05ROHVUMEtEMmZETGY2NnFNSm9jOVFNZE9PU2pYZXM1S09EQmNSaUlHdW9EMmI3ZkVrMWJR?oc=5",
       "publishedAt": "2026-09-08T16:35:01.000Z",
-      "source": "migflug.com",
+      "source": "MiGFlug",
       "_feedRegion": "global",
       "_feedName": "Google News (Global)",
       "_scoring": {
@@ -347,82 +384,13 @@
       }
     },
     {
-      "title": "豊和工業、プロドローンに出資 迎撃用ドローンを開発・工場建設",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE5RWHVLUGM2UFhXc3ZmU0p6Tjh2Ml9ocW5kYV95UUZQeGlFei1ZQlpPYldURFNpOW1oOVNvZ2xRZ3NZQzhrSnZtQUNfNlZTVTExdncyS19pZG9VbWkzajR5TWxraGJNR2xQVjJnSg?oc=5\" target=\"_blank\">豊和工業、プロドローンに出資 迎撃用ドローンを開発・工場建設</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE5RWHVLUGM2UFhXc3ZmU0p6Tjh2Ml9ocW5kYV95UUZQeGlFei1ZQlpPYldURFNpOW1oOVNvZ2xRZ3NZQzhrSnZtQUNfNlZTVTExdncyS19pZG9VbWkzajR5TWxraGJNR2xQVjJnSg?oc=5\" target=\"_blank\">豊和工業、プロドローンに出資 迎撃用ドローンを開発・工場建設</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5RWHVLUGM2UFhXc3ZmU0p6Tjh2Ml9ocW5kYV95UUZQeGlFei1ZQlpPYldURFNpOW1oOVNvZ2xRZ3NZQzhrSnZtQUNfNlZTVTExdncyS19pZG9VbWkzajR5TWxraGJNR2xQVjJnSg?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5RWHVLUGM2UFhXc3ZmU0p6Tjh2Ml9ocW5kYV95UUZQeGlFei1ZQlpPYldURFNpOW1oOVNvZ2xRZ3NZQzhrSnZtQUNfNlZTVTExdncyS19pZG9VbWkzajR5TWxraGJNR2xQVjJnSg?oc=5",
-      "publishedAt": "2026-09-07T03:41:29.000Z",
-      "source": "日本経済新聞",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP)",
-      "_scoring": {
-        "score": 65,
-        "categories": [
-          "技術・製品",
-          "市場・資金"
-        ],
-        "breakdown": {
-          "required": true,
-          "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "market": {
-            "matches": 1,
-            "catScore": 20
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 5,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "年産5万8000機可能な体制整備へ…プロドローン、「無人機」安定供給",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiQkFVX3lxTE5zZ19OQnMzbGhlOVVYUXBfVTNjV3FtRS1pdTZUcFR4QXNzRnhsWnROTmtOX2doLTNySXYyNi10dXhUZw?oc=5\" target=\"_blank\">年産5万8000機可能な体制整備へ…プロドローン、「無人機」安定供給</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ニュースイッチ by 日刊工業新聞社</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiQkFVX3lxTE5zZ19OQnMzbGhlOVVYUXBfVTNjV3FtRS1pdTZUcFR4QXNzRnhsWnROTmtOX2doLTNySXYyNi10dXhUZw?oc=5\" target=\"_blank\">年産5万8000機可能な体制整備へ…プロドローン、「無人機」安定供給</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ニュースイッチ by 日刊工業新聞社</font>",
-      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5zZ19OQnMzbGhlOVVYUXBfVTNjV3FtRS1pdTZUcFR4QXNzRnhsWnROTmtOX2doLTNySXYyNi10dXhUZw?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5zZ19OQnMzbGhlOVVYUXBfVTNjV3FtRS1pdTZUcFR4QXNzRnhsWnROTmtOX2doLTNySXYyNi10dXhUZw?oc=5",
-      "publishedAt": "2026-09-08T21:04:05.000Z",
-      "source": "ニュースイッチ by 日刊工業新聞社",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP)",
-      "_scoring": {
-        "score": 64,
-        "categories": [
-          "政策・インフラ"
-        ],
-        "breakdown": {
-          "required": true,
-          "policy": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 20,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
       "title": "水中ドローンのFullDepthとエイト日本技術開発が資本業務提携",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE00bGJZMWpxN1FRSFl2bVU4M05Ob0M5UXpfT2NQY2V1NHZkV3Qzb1ljLW9DTWQxdVpjSlpBZnllWVg3MTJmRUdTVmxGQmszNGJhV0JrUWlaSzJlMHdlcmNVT19sM0hSVmNPUXc?oc=5\" target=\"_blank\">水中ドローンのFullDepthとエイト日本技術開発が資本業務提携</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR TIMES</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE00bGJZMWpxN1FRSFl2bVU4M05Ob0M5UXpfT2NQY2V1NHZkV3Qzb1ljLW9DTWQxdVpjSlpBZnllWVg3MTJmRUdTVmxGQmszNGJhV0JrUWlaSzJlMHdlcmNVT19sM0hSVmNPUXc?oc=5\" target=\"_blank\">水中ドローンのFullDepthとエイト日本技術開発が資本業務提携</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR TIMES</font>",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE00bGJZMWpxN1FRSFl2bVU4M05Ob0M5UXpfT2NQY2V1NHZkV3Qzb1ljLW9DTWQxdVpjSlpBZnllWVg3MTJmRUdTVmxGQmszNGJhV0JrUWlaSzJlMHdlcmNVT19sM0hSVmNPUXc?oc=5\" target=\"_blank\">水中ドローンのFullDepthとエイト日本技術開発が資本業務提携</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">prtimes.jp</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE00bGJZMWpxN1FRSFl2bVU4M05Ob0M5UXpfT2NQY2V1NHZkV3Qzb1ljLW9DTWQxdVpjSlpBZnllWVg3MTJmRUdTVmxGQmszNGJhV0JrUWlaSzJlMHdlcmNVT19sM0hSVmNPUXc?oc=5\" target=\"_blank\">水中ドローンのFullDepthとエイト日本技術開発が資本業務提携</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">prtimes.jp</font>",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE00bGJZMWpxN1FRSFl2bVU4M05Ob0M5UXpfT2NQY2V1NHZkV3Qzb1ljLW9DTWQxdVpjSlpBZnllWVg3MTJmRUdTVmxGQmszNGJhV0JrUWlaSzJlMHdlcmNVT19sM0hSVmNPUXc?oc=5",
       "googleNewsUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE00bGJZMWpxN1FRSFl2bVU4M05Ob0M5UXpfT2NQY2V1NHZkV3Qzb1ljLW9DTWQxdVpjSlpBZnllWVg3MTJmRUdTVmxGQmszNGJhV0JrUWlaSzJlMHdlcmNVT19sM0hSVmNPUXc?oc=5",
       "publishedAt": "2026-08-31T05:00:01.000Z",
-      "source": "PR TIMES",
+      "source": "prtimes.jp",
       "_feedRegion": "jp",
       "_feedName": "Google News (JP 政策/実証)",
       "_scoring": {
@@ -460,43 +428,6 @@
       "googleNewsUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5LTHRzZWxfQTNMV0Z2aVpDc1ZsbFFtLWNYbTdBYXJMUGtzWDgyblFUMHkxMlNSU2tUWmplVnRycndNb2UzRWo0WDBaT3ZRalFKMXZrMWpGUDh6RkJoVGVQWmhjRmI5LVNsWFE?oc=5",
       "publishedAt": "2026-09-01T07:28:21.000Z",
       "source": "ドローンジャーナル",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP 政策/実証)",
-      "_scoring": {
-        "score": 64,
-        "categories": [
-          "技術・製品",
-          "市場・資金"
-        ],
-        "breakdown": {
-          "required": true,
-          "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "market": {
-            "matches": 2,
-            "catScore": 25
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 0,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "防衛装備庁、迎撃ドローンでテラドローンと量産調達契約",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE1oVDdLU1kxd2liZFNvS2E5bG9xUmU2ZXgzaGVySF9LLWdXSWxNOW05aXR5U25CVEtEZ1FmeTVuMzJBTTA2VmxkY212Ymx2YmZsTUV5LXlnbWtyZEFia0tHYXBNeW5ORHVNSnY0ZF94blF3ZFZtV3FrVnI1MHdfdw?oc=5\" target=\"_blank\">防衛装備庁、迎撃ドローンでテラドローンと量産調達契約</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">jp.reuters.com</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE1oVDdLU1kxd2liZFNvS2E5bG9xUmU2ZXgzaGVySF9LLWdXSWxNOW05aXR5U25CVEtEZ1FmeTVuMzJBTTA2VmxkY212Ymx2YmZsTUV5LXlnbWtyZEFia0tHYXBNeW5ORHVNSnY0ZF94blF3ZFZtV3FrVnI1MHdfdw?oc=5\" target=\"_blank\">防衛装備庁、迎撃ドローンでテラドローンと量産調達契約</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">jp.reuters.com</font>",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1oVDdLU1kxd2liZFNvS2E5bG9xUmU2ZXgzaGVySF9LLWdXSWxNOW05aXR5U25CVEtEZ1FmeTVuMzJBTTA2VmxkY212Ymx2YmZsTUV5LXlnbWtyZEFia0tHYXBNeW5ORHVNSnY0ZF94blF3ZFZtV3FrVnI1MHdfdw?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1oVDdLU1kxd2liZFNvS2E5bG9xUmU2ZXgzaGVySF9LLWdXSWxNOW05aXR5U25CVEtEZ1FmeTVuMzJBTTA2VmxkY212Ymx2YmZsTUV5LXlnbWtyZEFia0tHYXBNeW5ORHVNSnY0ZF94blF3ZFZtV3FrVnI1MHdfdw?oc=5",
-      "publishedAt": "2026-08-25T07:00:00.000Z",
-      "source": "jp.reuters.com",
       "_feedRegion": "jp",
       "_feedName": "Google News (JP 政策/実証)",
       "_scoring": {
@@ -602,12 +533,12 @@
     },
     {
       "title": "九電ドローン、倒木リスク低減へ提携／ＡＩで枯れ木調査 –",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFBUZUJvTnEzRk83QVpSMS1aNWJvLV9McnNQelJOdnhETGhLYnpVemIwM05qT2NBVEtFdDY3MHJmWTNSZ1Y4b2dkTDlEUUpKTGlNY3d2ZHhIdw?oc=5\" target=\"_blank\">九電ドローン、倒木リスク低減へ提携／ＡＩで枯れ木調査 –</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">denkishimbun.com</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFBUZUJvTnEzRk83QVpSMS1aNWJvLV9McnNQelJOdnhETGhLYnpVemIwM05qT2NBVEtFdDY3MHJmWTNSZ1Y4b2dkTDlEUUpKTGlNY3d2ZHhIdw?oc=5\" target=\"_blank\">九電ドローン、倒木リスク低減へ提携／ＡＩで枯れ木調査 –</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">denkishimbun.com</font>",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFBUZUJvTnEzRk83QVpSMS1aNWJvLV9McnNQelJOdnhETGhLYnpVemIwM05qT2NBVEtFdDY3MHJmWTNSZ1Y4b2dkTDlEUUpKTGlNY3d2ZHhIdw?oc=5\" target=\"_blank\">九電ドローン、倒木リスク低減へ提携／ＡＩで枯れ木調査 –</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">電気新聞ウェブサイト</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFBUZUJvTnEzRk83QVpSMS1aNWJvLV9McnNQelJOdnhETGhLYnpVemIwM05qT2NBVEtFdDY3MHJmWTNSZ1Y4b2dkTDlEUUpKTGlNY3d2ZHhIdw?oc=5\" target=\"_blank\">九電ドローン、倒木リスク低減へ提携／ＡＩで枯れ木調査 –</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">電気新聞ウェブサイト</font>",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBUZUJvTnEzRk83QVpSMS1aNWJvLV9McnNQelJOdnhETGhLYnpVemIwM05qT2NBVEtFdDY3MHJmWTNSZ1Y4b2dkTDlEUUpKTGlNY3d2ZHhIdw?oc=5",
       "googleNewsUrl": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBUZUJvTnEzRk83QVpSMS1aNWJvLV9McnNQelJOdnhETGhLYnpVemIwM05qT2NBVEtFdDY3MHJmWTNSZ1Y4b2dkTDlEUUpKTGlNY3d2ZHhIdw?oc=5",
       "publishedAt": "2026-09-03T21:01:15.000Z",
-      "source": "denkishimbun.com",
+      "source": "電気新聞ウェブサイト",
       "_feedRegion": "jp",
       "_feedName": "Google News (JP 政策/実証)",
       "_scoring": {
@@ -638,37 +569,38 @@
       }
     },
     {
-      "title": "New report urges UK regional airports to be used as drone and AAM hubs",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSFVmVUkzWnNGalFiYWJ3WVpGVXRXSXNzSElsNEFsdk9rc1JLYW5qS3ZNVGRZTm5kaWVVLW1OZmlXbnBHUGFoZUtNeDhYR0w1UnZXUVNsb0NvWTZOYnpLd1VQSFczRVAwWm1WSHRBeW1FSFZRd1hKdmJSZnlZNnpVYnhXVHRLN25lSXdDRzNLY2JRZ0kyeldxUERET1htbW9CZmRWTmFNWDVQN0lrRjdoVmNpMUl2aU5jdU8w?oc=5\" target=\"_blank\">New report urges UK regional airports to be used as drone and AAM hubs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSFVmVUkzWnNGalFiYWJ3WVpGVXRXSXNzSElsNEFsdk9rc1JLYW5qS3ZNVGRZTm5kaWVVLW1OZmlXbnBHUGFoZUtNeDhYR0w1UnZXUVNsb0NvWTZOYnpLd1VQSFczRVAwWm1WSHRBeW1FSFZRd1hKdmJSZnlZNnpVYnhXVHRLN25lSXdDRzNLY2JRZ0kyeldxUERET1htbW9CZmRWTmFNWDVQN0lrRjdoVmNpMUl2aU5jdU8w?oc=5\" target=\"_blank\">New report urges UK regional airports to be used as drone and AAM hubs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSFVmVUkzWnNGalFiYWJ3WVpGVXRXSXNzSElsNEFsdk9rc1JLYW5qS3ZNVGRZTm5kaWVVLW1OZmlXbnBHUGFoZUtNeDhYR0w1UnZXUVNsb0NvWTZOYnpLd1VQSFczRVAwWm1WSHRBeW1FSFZRd1hKdmJSZnlZNnpVYnhXVHRLN25lSXdDRzNLY2JRZ0kyeldxUERET1htbW9CZmRWTmFNWDVQN0lrRjdoVmNpMUl2aU5jdU8w?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSFVmVUkzWnNGalFiYWJ3WVpGVXRXSXNzSElsNEFsdk9rc1JLYW5qS3ZNVGRZTm5kaWVVLW1OZmlXbnBHUGFoZUtNeDhYR0w1UnZXUVNsb0NvWTZOYnpLd1VQSFczRVAwWm1WSHRBeW1FSFZRd1hKdmJSZnlZNnpVYnhXVHRLN25lSXdDRzNLY2JRZ0kyeldxUERET1htbW9CZmRWTmFNWDVQN0lrRjdoVmNpMUl2aU5jdU8w?oc=5",
-      "publishedAt": "2026-09-08T12:13:45.000Z",
-      "source": "Unmanned airspace",
-      "_feedRegion": "eu",
-      "_feedName": "EASA",
+      "title": "豊和工業、プロドローンに出資 迎撃用ドローンを開発・工場建設",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE5RWHVLUGM2UFhXc3ZmU0p6Tjh2Ml9ocW5kYV95UUZQeGlFei1ZQlpPYldURFNpOW1oOVNvZ2xRZ3NZQzhrSnZtQUNfNlZTVTExdncyS19pZG9VbWkzajR5TWxraGJNR2xQVjJnSg?oc=5\" target=\"_blank\">豊和工業、プロドローンに出資 迎撃用ドローンを開発・工場建設</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE5RWHVLUGM2UFhXc3ZmU0p6Tjh2Ml9ocW5kYV95UUZQeGlFei1ZQlpPYldURFNpOW1oOVNvZ2xRZ3NZQzhrSnZtQUNfNlZTVTExdncyS19pZG9VbWkzajR5TWxraGJNR2xQVjJnSg?oc=5\" target=\"_blank\">豊和工業、プロドローンに出資 迎撃用ドローンを開発・工場建設</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5RWHVLUGM2UFhXc3ZmU0p6Tjh2Ml9ocW5kYV95UUZQeGlFei1ZQlpPYldURFNpOW1oOVNvZ2xRZ3NZQzhrSnZtQUNfNlZTVTExdncyS19pZG9VbWkzajR5TWxraGJNR2xQVjJnSg?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5RWHVLUGM2UFhXc3ZmU0p6Tjh2Ml9ocW5kYV95UUZQeGlFei1ZQlpPYldURFNpOW1oOVNvZ2xRZ3NZQzhrSnZtQUNfNlZTVTExdncyS19pZG9VbWkzajR5TWxraGJNR2xQVjJnSg?oc=5",
+      "publishedAt": "2026-09-07T03:41:29.000Z",
+      "source": "日本経済新聞",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP)",
       "_scoring": {
-        "score": 60,
+        "score": 62,
         "categories": [
-          "市場・資金",
-          "政策・インフラ"
+          "技術・製品",
+          "市場・資金"
         ],
         "breakdown": {
           "required": true,
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
           "market": {
             "matches": 1,
             "catScore": 20
-          },
-          "policy": {
-            "matches": 1,
-            "catScore": 24
           },
           "sourceTrust": {
             "domain": "news.google.com",
             "multiplier": 0.8
           },
-          "freshness": 15,
-          "titleBonus": 10
+          "freshness": 2,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
         },
         "pass": true
       }
@@ -1003,12 +935,12 @@
     },
     {
       "title": "パーソル、国産ドローンの開発・製造を手掛けるProdrone（プロドローン）へ出資",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE5NbGpmbVdyOU1mSWRQSWF6b0UxMmN0alZTSE52LXNvOFBuTlRQRjFfWUVRUkJYXzhXa0gzYXNBTlgzOGVPMjJMZmNsblZLMGloczBXbU1IeUxxWnlfQnl3Zzd1cEFDb3ZQWXc?oc=5\" target=\"_blank\">パーソル、国産ドローンの開発・製造を手掛けるProdrone（プロドローン）へ出資</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR TIMES</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE5NbGpmbVdyOU1mSWRQSWF6b0UxMmN0alZTSE52LXNvOFBuTlRQRjFfWUVRUkJYXzhXa0gzYXNBTlgzOGVPMjJMZmNsblZLMGloczBXbU1IeUxxWnlfQnl3Zzd1cEFDb3ZQWXc?oc=5\" target=\"_blank\">パーソル、国産ドローンの開発・製造を手掛けるProdrone（プロドローン）へ出資</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR TIMES</font>",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE5NbGpmbVdyOU1mSWRQSWF6b0UxMmN0alZTSE52LXNvOFBuTlRQRjFfWUVRUkJYXzhXa0gzYXNBTlgzOGVPMjJMZmNsblZLMGloczBXbU1IeUxxWnlfQnl3Zzd1cEFDb3ZQWXc?oc=5\" target=\"_blank\">パーソル、国産ドローンの開発・製造を手掛けるProdrone（プロドローン）へ出資</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">prtimes.jp</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE5NbGpmbVdyOU1mSWRQSWF6b0UxMmN0alZTSE52LXNvOFBuTlRQRjFfWUVRUkJYXzhXa0gzYXNBTlgzOGVPMjJMZmNsblZLMGloczBXbU1IeUxxWnlfQnl3Zzd1cEFDb3ZQWXc?oc=5\" target=\"_blank\">パーソル、国産ドローンの開発・製造を手掛けるProdrone（プロドローン）へ出資</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">prtimes.jp</font>",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5NbGpmbVdyOU1mSWRQSWF6b0UxMmN0alZTSE52LXNvOFBuTlRQRjFfWUVRUkJYXzhXa0gzYXNBTlgzOGVPMjJMZmNsblZLMGloczBXbU1IeUxxWnlfQnl3Zzd1cEFDb3ZQWXc?oc=5",
       "googleNewsUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5NbGpmbVdyOU1mSWRQSWF6b0UxMmN0alZTSE52LXNvOFBuTlRQRjFfWUVRUkJYXzhXa0gzYXNBTlgzOGVPMjJMZmNsblZLMGloczBXbU1IeUxxWnlfQnl3Zzd1cEFDb3ZQWXc?oc=5",
       "publishedAt": "2026-09-02T07:19:11.000Z",
-      "source": "PR TIMES",
+      "source": "prtimes.jp",
       "_feedRegion": "jp",
       "_feedName": "Google News (JP 事業者/実装)",
       "_scoring": {
@@ -1076,23 +1008,23 @@
       }
     },
     {
-      "title": "「空飛ぶジンバルカメラ」日本上陸 手持ち撮影＋ドローンに装着して空中撮影もできる“合体メカ”だった（画像）（6/10枚目）",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE16WVlYbnBKZlVuWV9iTjB5TnVmOXY3ZFFPcHdnc0l1X0g5bXNZX0FTeTJTUUxPRUE5TXBUdk8taUZvNzNXNmcyTjNPVEZhYmJkTUI4YVh4dmZ2UW9VU2JISDdLVjJuTm11dkZxZ3hKakZDcF8ybnhLRXJfR2JPQQ?oc=5\" target=\"_blank\">「空飛ぶジンバルカメラ」日本上陸 手持ち撮影＋ドローンに装着して空中撮影もできる“合体メカ”だった（画像）（6/10枚目）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ITmedia</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE16WVlYbnBKZlVuWV9iTjB5TnVmOXY3ZFFPcHdnc0l1X0g5bXNZX0FTeTJTUUxPRUE5TXBUdk8taUZvNzNXNmcyTjNPVEZhYmJkTUI4YVh4dmZ2UW9VU2JISDdLVjJuTm11dkZxZ3hKakZDcF8ybnhLRXJfR2JPQQ?oc=5\" target=\"_blank\">「空飛ぶジンバルカメラ」日本上陸 手持ち撮影＋ドローンに装着して空中撮影もできる“合体メカ”だった（画像）（6/10枚目）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ITmedia</font>",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE16WVlYbnBKZlVuWV9iTjB5TnVmOXY3ZFFPcHdnc0l1X0g5bXNZX0FTeTJTUUxPRUE5TXBUdk8taUZvNzNXNmcyTjNPVEZhYmJkTUI4YVh4dmZ2UW9VU2JISDdLVjJuTm11dkZxZ3hKakZDcF8ybnhLRXJfR2JPQQ?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTE16WVlYbnBKZlVuWV9iTjB5TnVmOXY3ZFFPcHdnc0l1X0g5bXNZX0FTeTJTUUxPRUE5TXBUdk8taUZvNzNXNmcyTjNPVEZhYmJkTUI4YVh4dmZ2UW9VU2JISDdLVjJuTm11dkZxZ3hKakZDcF8ybnhLRXJfR2JPQQ?oc=5",
-      "publishedAt": "2026-09-08T11:49:12.000Z",
-      "source": "ITmedia",
+      "title": "年産5万8000機可能な体制整備へ…プロドローン、「無人機」安定供給",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiQkFVX3lxTE5zZ19OQnMzbGhlOVVYUXBfVTNjV3FtRS1pdTZUcFR4QXNzRnhsWnROTmtOX2doLTNySXYyNi10dXhUZw?oc=5\" target=\"_blank\">年産5万8000機可能な体制整備へ…プロドローン、「無人機」安定供給</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ニュースイッチ by 日刊工業新聞社</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiQkFVX3lxTE5zZ19OQnMzbGhlOVVYUXBfVTNjV3FtRS1pdTZUcFR4QXNzRnhsWnROTmtOX2doLTNySXYyNi10dXhUZw?oc=5\" target=\"_blank\">年産5万8000機可能な体制整備へ…プロドローン、「無人機」安定供給</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ニュースイッチ by 日刊工業新聞社</font>",
+      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5zZ19OQnMzbGhlOVVYUXBfVTNjV3FtRS1pdTZUcFR4QXNzRnhsWnROTmtOX2doLTNySXYyNi10dXhUZw?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5zZ19OQnMzbGhlOVVYUXBfVTNjV3FtRS1pdTZUcFR4QXNzRnhsWnROTmtOX2doLTNySXYyNi10dXhUZw?oc=5",
+      "publishedAt": "2026-09-08T21:05:20.000Z",
+      "source": "ニュースイッチ by 日刊工業新聞社",
       "_feedRegion": "jp",
-      "_feedName": "Google News (JP 経済メディア)",
+      "_feedName": "Google News (JP)",
       "_scoring": {
         "score": 59,
         "categories": [
-          "技術・製品"
+          "政策・インフラ"
         ],
         "breakdown": {
           "required": true,
-          "technology": {
+          "policy": {
             "matches": 1,
             "catScore": 24
           },
@@ -1103,6 +1035,78 @@
           "freshness": 15,
           "titleBonus": 10,
           "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "AirData surpasses 65 million drone flights as the FAA’s BVLOS rule awaits publication",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPYnpnZXQ1TGRaeXMtS1dmX0V6S214eTA3VHZDZ2tXOHg4em1rN0ZPeUF1Zk1DNmtMMkxTX2tGZHg4Rk85ckhvbi0yc216ZWozRmtPMVBWRkhVMWdDUVQxSklBOE1oUEg1QzlGWS1uNHdsdzdiYWtZMHNpaWd2X2xBeTZ3SkJ6aFV3MUF1TVg4ZExkeXJ2cmVjRjlzWDVoMWlSc2dGelByUi1YQmdwdmg1cTRFMlJRUndlZmo1MtIBwgFBVV95cUxPTDhuTXZEUm5ZR2ZwaVNmaTN0eEgxbDNUN0I2Mjd5X3d0dGdYRi1OY25nQnk4eDBjcG04RHd4NTZKZ3JIazZ2Vi1ENkFRdS1FZDZrREk0TlVmZkFuQ2dxVXNGWDNjVC0wU05ndlZiVTlId1FrX0lZTWFjMGx3TEpCZXoxUkU2Z3hsQXJuWWVOa0hwb2ZEbnRLcXllUllUVTlnSlNWOVEzT2xlZ2tabzQ3RzlfOEpuZ29GcERxU1M3SjRqdw?oc=5\" target=\"_blank\">AirData surpasses 65 million drone flights as the FAA’s BVLOS rule awaits publication</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MundoGEO</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPYnpnZXQ1TGRaeXMtS1dmX0V6S214eTA3VHZDZ2tXOHg4em1rN0ZPeUF1Zk1DNmtMMkxTX2tGZHg4Rk85ckhvbi0yc216ZWozRmtPMVBWRkhVMWdDUVQxSklBOE1oUEg1QzlGWS1uNHdsdzdiYWtZMHNpaWd2X2xBeTZ3SkJ6aFV3MUF1TVg4ZExkeXJ2cmVjRjlzWDVoMWlSc2dGelByUi1YQmdwdmg1cTRFMlJRUndlZmo1MtIBwgFBVV95cUxPTDhuTXZEUm5ZR2ZwaVNmaTN0eEgxbDNUN0I2Mjd5X3d0dGdYRi1OY25nQnk4eDBjcG04RHd4NTZKZ3JIazZ2Vi1ENkFRdS1FZDZrREk0TlVmZkFuQ2dxVXNGWDNjVC0wU05ndlZiVTlId1FrX0lZTWFjMGx3TEpCZXoxUkU2Z3hsQXJuWWVOa0hwb2ZEbnRLcXllUllUVTlnSlNWOVEzT2xlZ2tabzQ3RzlfOEpuZ29GcERxU1M3SjRqdw?oc=5\" target=\"_blank\">AirData surpasses 65 million drone flights as the FAA’s BVLOS rule awaits publication</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MundoGEO</font>",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYnpnZXQ1TGRaeXMtS1dmX0V6S214eTA3VHZDZ2tXOHg4em1rN0ZPeUF1Zk1DNmtMMkxTX2tGZHg4Rk85ckhvbi0yc216ZWozRmtPMVBWRkhVMWdDUVQxSklBOE1oUEg1QzlGWS1uNHdsdzdiYWtZMHNpaWd2X2xBeTZ3SkJ6aFV3MUF1TVg4ZExkeXJ2cmVjRjlzWDVoMWlSc2dGelByUi1YQmdwdmg1cTRFMlJRUndlZmo1MtIBwgFBVV95cUxPTDhuTXZEUm5ZR2ZwaVNmaTN0eEgxbDNUN0I2Mjd5X3d0dGdYRi1OY25nQnk4eDBjcG04RHd4NTZKZ3JIazZ2Vi1ENkFRdS1FZDZrREk0TlVmZkFuQ2dxVXNGWDNjVC0wU05ndlZiVTlId1FrX0lZTWFjMGx3TEpCZXoxUkU2Z3hsQXJuWWVOa0hwb2ZEbnRLcXllUllUVTlnSlNWOVEzT2xlZ2tabzQ3RzlfOEpuZ29GcERxU1M3SjRqdw?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYnpnZXQ1TGRaeXMtS1dmX0V6S214eTA3VHZDZ2tXOHg4em1rN0ZPeUF1Zk1DNmtMMkxTX2tGZHg4Rk85ckhvbi0yc216ZWozRmtPMVBWRkhVMWdDUVQxSklBOE1oUEg1QzlGWS1uNHdsdzdiYWtZMHNpaWd2X2xBeTZ3SkJ6aFV3MUF1TVg4ZExkeXJ2cmVjRjlzWDVoMWlSc2dGelByUi1YQmdwdmg1cTRFMlJRUndlZmo1MtIBwgFBVV95cUxPTDhuTXZEUm5ZR2ZwaVNmaTN0eEgxbDNUN0I2Mjd5X3d0dGdYRi1OY25nQnk4eDBjcG04RHd4NTZKZ3JIazZ2Vi1ENkFRdS1FZDZrREk0TlVmZkFuQ2dxVXNGWDNjVC0wU05ndlZiVTlId1FrX0lZTWFjMGx3TEpCZXoxUkU2Z3hsQXJuWWVOa0hwb2ZEbnRLcXllUllUVTlnSlNWOVEzT2xlZ2tabzQ3RzlfOEpuZ29GcERxU1M3SjRqdw?oc=5",
+      "publishedAt": "2026-08-26T19:48:00.000Z",
+      "source": "MundoGEO",
+      "_feedRegion": "us",
+      "_feedName": "FAA",
+      "_scoring": {
+        "score": 58,
+        "categories": [
+          "規制・政策",
+          "市場・資金"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 3,
+            "catScore": 40
+          },
+          "market": {
+            "matches": 1,
+            "catScore": 20
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 0,
+          "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "AirData hits 65 million drone flights as FAA’s BVLOS rule nears",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE9Ual85WC15U0VoZ2otR0IwMWxHVVNKQmJtWUVBUXhSRzlueGlDOHdNcnF2bVRKV0dYcndzc3hqZTdBOU15eW1EQkNBQndBTWpPWjVFSGJtR0NvcGhOSUFJdVVtRUxTcmZCRVVtMFhIZEQzUnZT?oc=5\" target=\"_blank\">AirData hits 65 million drone flights as FAA’s BVLOS rule nears</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DroneDJ</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE9Ual85WC15U0VoZ2otR0IwMWxHVVNKQmJtWUVBUXhSRzlueGlDOHdNcnF2bVRKV0dYcndzc3hqZTdBOU15eW1EQkNBQndBTWpPWjVFSGJtR0NvcGhOSUFJdVVtRUxTcmZCRVVtMFhIZEQzUnZT?oc=5\" target=\"_blank\">AirData hits 65 million drone flights as FAA’s BVLOS rule nears</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DroneDJ</font>",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9Ual85WC15U0VoZ2otR0IwMWxHVVNKQmJtWUVBUXhSRzlueGlDOHdNcnF2bVRKV0dYcndzc3hqZTdBOU15eW1EQkNBQndBTWpPWjVFSGJtR0NvcGhOSUFJdVVtRUxTcmZCRVVtMFhIZEQzUnZT?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9Ual85WC15U0VoZ2otR0IwMWxHVVNKQmJtWUVBUXhSRzlueGlDOHdNcnF2bVRKV0dYcndzc3hqZTdBOU15eW1EQkNBQndBTWpPWjVFSGJtR0NvcGhOSUFJdVVtRUxTcmZCRVVtMFhIZEQzUnZT?oc=5",
+      "publishedAt": "2026-08-26T07:00:00.000Z",
+      "source": "DroneDJ",
+      "_feedRegion": "us",
+      "_feedName": "FAA",
+      "_scoring": {
+        "score": 58,
+        "categories": [
+          "規制・政策",
+          "市場・資金"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 3,
+            "catScore": 40
+          },
+          "market": {
+            "matches": 1,
+            "catScore": 20
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 0,
+          "titleBonus": 10
         },
         "pass": true
       }
