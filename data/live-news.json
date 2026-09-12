@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T23:06:21.610Z",
+  "generatedAt": "2026-09-12T03:59:06.924Z",
   "rawCount": 674,
   "articles": [
     {
@@ -13,7 +13,7 @@
       "_feedRegion": "global",
       "_feedName": "Google News (Global)",
       "_scoring": {
-        "score": 86,
+        "score": 81,
         "categories": [
           "規制・政策",
           "市場・資金",
@@ -37,7 +37,7 @@
             "domain": "news.google.com",
             "multiplier": 0.8
           },
-          "freshness": 15,
+          "freshness": 10,
           "titleBonus": 10
         },
         "pass": true
@@ -204,42 +204,6 @@
       }
     },
     {
-      "title": "Texas Launches Air Taxi Testing Program at Alliance Airport",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQa2E5ei1IOERKd1BYY05sOHN2Qk1jREo0WXRVNk5kUzRBaGVfenhpN1BPQ3JjcndDWTZweVhwajVLOU1aMWtxbEh2MTNYREpJclRRQ2wtdmNSUDJHRUJVaTNKOVFITm11aTBXRmpnaFRVM0xZT0lTWlpyM0V6MmtITVYtRkhKWVlzNFVwM0E3YlhHRlJP?oc=5\" target=\"_blank\">Texas Launches Air Taxi Testing Program at Alliance Airport</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fort Worth Inc.</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQa2E5ei1IOERKd1BYY05sOHN2Qk1jREo0WXRVNk5kUzRBaGVfenhpN1BPQ3JjcndDWTZweVhwajVLOU1aMWtxbEh2MTNYREpJclRRQ2wtdmNSUDJHRUJVaTNKOVFITm11aTBXRmpnaFRVM0xZT0lTWlpyM0V6MmtITVYtRkhKWVlzNFVwM0E3YlhHRlJP?oc=5\" target=\"_blank\">Texas Launches Air Taxi Testing Program at Alliance Airport</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fort Worth Inc.</font>",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQa2E5ei1IOERKd1BYY05sOHN2Qk1jREo0WXRVNk5kUzRBaGVfenhpN1BPQ3JjcndDWTZweVhwajVLOU1aMWtxbEh2MTNYREpJclRRQ2wtdmNSUDJHRUJVaTNKOVFITm11aTBXRmpnaFRVM0xZT0lTWlpyM0V6MmtITVYtRkhKWVlzNFVwM0E3YlhHRlJP?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQa2E5ei1IOERKd1BYY05sOHN2Qk1jREo0WXRVNk5kUzRBaGVfenhpN1BPQ3JjcndDWTZweVhwajVLOU1aMWtxbEh2MTNYREpJclRRQ2wtdmNSUDJHRUJVaTNKOVFITm11aTBXRmpnaFRVM0xZT0lTWlpyM0V6MmtITVYtRkhKWVlzNFVwM0E3YlhHRlJP?oc=5",
-      "publishedAt": "2026-09-11T20:32:58.000Z",
-      "source": "Fort Worth Inc.",
-      "_feedRegion": "global",
-      "_feedName": "Google News (Global)",
-      "_scoring": {
-        "score": 68,
-        "categories": [
-          "技術・製品",
-          "政策・インフラ"
-        ],
-        "breakdown": {
-          "required": true,
-          "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "policy": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 20,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
       "title": "ロシアとドイツ、「対抗措置」の応酬 ドイツ空港のドローン事件で",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBDcDZyWllyejB5bjhiNktVelg3cEhxMjM0TWVFX1ZLZWQ4dFB3cGNta2Z3STU0a3ZIRjUtaFJFSHozZ1hMdVJVaEtDNjlmeW9DWHZaZTlwQlp4Z0hXNDN2YnFJUF9OX3M?oc=5\" target=\"_blank\">ロシアとドイツ、「対抗措置」の応酬 ドイツ空港のドローン事件で</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">朝日新聞</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBDcDZyWllyejB5bjhiNktVelg3cEhxMjM0TWVFX1ZLZWQ4dFB3cGNta2Z3STU0a3ZIRjUtaFJFSHozZ1hMdVJVaEtDNjlmeW9DWHZaZTlwQlp4Z0hXNDN2YnFJUF9OX3M?oc=5\" target=\"_blank\">ロシアとドイツ、「対抗措置」の応酬 ドイツ空港のドローン事件で</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">朝日新聞</font>",
@@ -314,118 +278,13 @@
       }
     },
     {
-      "title": "垂直離着陸型の配送ドローンを開発するAirbound、シリーズAで3,700万ドルを調達",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE82aGNEZUFQc05aU1BEX2FKdHRiR1drbmwydUdDNU1jOXNfVnJycEdyR0U4RjlxQnZoNEgyZ0NabHFOV0JjRVdQQXNRTGFhU0tSc1JhMXRpVVhDMDloVnVPZ2YzM3FpdXNtajUxV213?oc=5\" target=\"_blank\">垂直離着陸型の配送ドローンを開発するAirbound、シリーズAで3,700万ドルを調達</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BRIDGE（ブリッジ）</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE82aGNEZUFQc05aU1BEX2FKdHRiR1drbmwydUdDNU1jOXNfVnJycEdyR0U4RjlxQnZoNEgyZ0NabHFOV0JjRVdQQXNRTGFhU0tSc1JhMXRpVVhDMDloVnVPZ2YzM3FpdXNtajUxV213?oc=5\" target=\"_blank\">垂直離着陸型の配送ドローンを開発するAirbound、シリーズAで3,700万ドルを調達</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BRIDGE（ブリッジ）</font>",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE82aGNEZUFQc05aU1BEX2FKdHRiR1drbmwydUdDNU1jOXNfVnJycEdyR0U4RjlxQnZoNEgyZ0NabHFOV0JjRVdQQXNRTGFhU0tSc1JhMXRpVVhDMDloVnVPZ2YzM3FpdXNtajUxV213?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTE82aGNEZUFQc05aU1BEX2FKdHRiR1drbmwydUdDNU1jOXNfVnJycEdyR0U4RjlxQnZoNEgyZ0NabHFOV0JjRVdQQXNRTGFhU0tSc1JhMXRpVVhDMDloVnVPZ2YzM3FpdXNtajUxV213?oc=5",
-      "publishedAt": "2026-09-08T23:42:50.000Z",
-      "source": "BRIDGE（ブリッジ）",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP 事業者/実装)",
-      "_scoring": {
-        "score": 66,
-        "categories": [
-          "技術・製品",
-          "市場・資金"
-        ],
-        "breakdown": {
-          "required": true,
-          "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "market": {
-            "matches": 2,
-            "catScore": 25
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 2,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "Aeroberm Vertiport — eVTOL Infrastructure Breakthrough",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPMlBvNDdnbHFNNTdBT3A5XzM4NmpacXpqbV8wWTJhc1RmUXBnemprejYtckFfMUR2blBfZ3RXcmlhR1pRUS1uNjlXdWNtOE9IX05wNlBnV1VfOFQtdFU4d05ROHVUMEtEMmZETGY2NnFNSm9jOVFNZE9PU2pYZXM1S09EQmNSaUlHdW9EMmI3ZkVrMWJR?oc=5\" target=\"_blank\">Aeroberm Vertiport — eVTOL Infrastructure Breakthrough</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MiGFlug</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPMlBvNDdnbHFNNTdBT3A5XzM4NmpacXpqbV8wWTJhc1RmUXBnemprejYtckFfMUR2blBfZ3RXcmlhR1pRUS1uNjlXdWNtOE9IX05wNlBnV1VfOFQtdFU4d05ROHVUMEtEMmZETGY2NnFNSm9jOVFNZE9PU2pYZXM1S09EQmNSaUlHdW9EMmI3ZkVrMWJR?oc=5\" target=\"_blank\">Aeroberm Vertiport — eVTOL Infrastructure Breakthrough</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MiGFlug</font>",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMlBvNDdnbHFNNTdBT3A5XzM4NmpacXpqbV8wWTJhc1RmUXBnemprejYtckFfMUR2blBfZ3RXcmlhR1pRUS1uNjlXdWNtOE9IX05wNlBnV1VfOFQtdFU4d05ROHVUMEtEMmZETGY2NnFNSm9jOVFNZE9PU2pYZXM1S09EQmNSaUlHdW9EMmI3ZkVrMWJR?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMlBvNDdnbHFNNTdBT3A5XzM4NmpacXpqbV8wWTJhc1RmUXBnemprejYtckFfMUR2blBfZ3RXcmlhR1pRUS1uNjlXdWNtOE9IX05wNlBnV1VfOFQtdFU4d05ROHVUMEtEMmZETGY2NnFNSm9jOVFNZE9PU2pYZXM1S09EQmNSaUlHdW9EMmI3ZkVrMWJR?oc=5",
-      "publishedAt": "2026-09-11T12:37:06.000Z",
-      "source": "MiGFlug",
-      "_feedRegion": "global",
-      "_feedName": "Google News (Global)",
-      "_scoring": {
-        "score": 65,
-        "categories": [
-          "市場・資金",
-          "政策・インフラ"
-        ],
-        "breakdown": {
-          "required": true,
-          "market": {
-            "matches": 1,
-            "catScore": 20
-          },
-          "policy": {
-            "matches": 2,
-            "catScore": 30
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 15,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "JAL、自動飛行のドローンで航空機を検査 羽田空港で国内初の検証 [千葉県]",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE04S29HdGRWUjJoODh0c1V5T1FaR0x0ejNITE1XeDB2SlVacl9ERmVpZUxYT0tVdnExdDhxQndTUUZrYXM2YXkwZ3ZkU2lsTC1PUDJra3Vnc1YxVmZWNm5vQkw2Q3FrUTQ?oc=5\" target=\"_blank\">JAL、自動飛行のドローンで航空機を検査 羽田空港で国内初の検証 [千葉県]</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">朝日新聞</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE04S29HdGRWUjJoODh0c1V5T1FaR0x0ejNITE1XeDB2SlVacl9ERmVpZUxYT0tVdnExdDhxQndTUUZrYXM2YXkwZ3ZkU2lsTC1PUDJra3Vnc1YxVmZWNm5vQkw2Q3FrUTQ?oc=5\" target=\"_blank\">JAL、自動飛行のドローンで航空機を検査 羽田空港で国内初の検証 [千葉県]</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">朝日新聞</font>",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE04S29HdGRWUjJoODh0c1V5T1FaR0x0ejNITE1XeDB2SlVacl9ERmVpZUxYT0tVdnExdDhxQndTUUZrYXM2YXkwZ3ZkU2lsTC1PUDJra3Vnc1YxVmZWNm5vQkw2Q3FrUTQ?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE04S29HdGRWUjJoODh0c1V5T1FaR0x0ejNITE1XeDB2SlVacl9ERmVpZUxYT0tVdnExdDhxQndTUUZrYXM2YXkwZ3ZkU2lsTC1PUDJra3Vnc1YxVmZWNm5vQkw2Q3FrUTQ?oc=5",
-      "publishedAt": "2026-09-11T22:00:00.000Z",
-      "source": "朝日新聞",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP)",
-      "_scoring": {
-        "score": 64,
-        "categories": [
-          "政策・インフラ"
-        ],
-        "breakdown": {
-          "required": true,
-          "policy": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 20,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "エアロネクストと昭栄薬品が資本・業務提携、ドローンと機能性商材を融合した新ソリューション開発へ - drone-journal.impress.co.jp",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE5LTHRzZWxfQTNMV0Z2aVpDc1ZsbFFtLWNYbTdBYXJMUGtzWDgyblFUMHkxMlNSU2tUWmplVnRycndNb2UzRWo0WDBaT3ZRalFKMXZrMWpGUDh6RkJoVGVQWmhjRmI5LVNsWFE?oc=5\" target=\"_blank\">エアロネクストと昭栄薬品が資本・業務提携、ドローンと機能性商材を融合した新ソリューション開発へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">drone-journal.impress.co.jp</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE5LTHRzZWxfQTNMV0Z2aVpDc1ZsbFFtLWNYbTdBYXJMUGtzWDgyblFUMHkxMlNSU2tUWmplVnRycndNb2UzRWo0WDBaT3ZRalFKMXZrMWpGUDh6RkJoVGVQWmhjRmI5LVNsWFE?oc=5\" target=\"_blank\">エアロネクストと昭栄薬品が資本・業務提携、ドローンと機能性商材を融合した新ソリューション開発へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">drone-journal.impress.co.jp</font>",
+      "title": "エアロネクストと昭栄薬品が資本・業務提携、ドローンと機能性商材を融合した新ソリューション開発へ",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE5LTHRzZWxfQTNMV0Z2aVpDc1ZsbFFtLWNYbTdBYXJMUGtzWDgyblFUMHkxMlNSU2tUWmplVnRycndNb2UzRWo0WDBaT3ZRalFKMXZrMWpGUDh6RkJoVGVQWmhjRmI5LVNsWFE?oc=5\" target=\"_blank\">エアロネクストと昭栄薬品が資本・業務提携、ドローンと機能性商材を融合した新ソリューション開発へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ドローンジャーナル</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE5LTHRzZWxfQTNMV0Z2aVpDc1ZsbFFtLWNYbTdBYXJMUGtzWDgyblFUMHkxMlNSU2tUWmplVnRycndNb2UzRWo0WDBaT3ZRalFKMXZrMWpGUDh6RkJoVGVQWmhjRmI5LVNsWFE?oc=5\" target=\"_blank\">エアロネクストと昭栄薬品が資本・業務提携、ドローンと機能性商材を融合した新ソリューション開発へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ドローンジャーナル</font>",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5LTHRzZWxfQTNMV0Z2aVpDc1ZsbFFtLWNYbTdBYXJMUGtzWDgyblFUMHkxMlNSU2tUWmplVnRycndNb2UzRWo0WDBaT3ZRalFKMXZrMWpGUDh6RkJoVGVQWmhjRmI5LVNsWFE?oc=5",
       "googleNewsUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5LTHRzZWxfQTNMV0Z2aVpDc1ZsbFFtLWNYbTdBYXJMUGtzWDgyblFUMHkxMlNSU2tUWmplVnRycndNb2UzRWo0WDBaT3ZRalFKMXZrMWpGUDh6RkJoVGVQWmhjRmI5LVNsWFE?oc=5",
       "publishedAt": "2026-09-01T07:28:21.000Z",
-      "source": "drone-journal.impress.co.jp",
+      "source": "ドローンジャーナル",
       "_feedRegion": "jp",
       "_feedName": "Google News (JP 政策/実証)",
       "_scoring": {
@@ -567,13 +426,50 @@
       }
     },
     {
+      "title": "垂直離着陸型の配送ドローンを開発するAirbound、シリーズAで3,700万ドルを調達",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE82aGNEZUFQc05aU1BEX2FKdHRiR1drbmwydUdDNU1jOXNfVnJycEdyR0U4RjlxQnZoNEgyZ0NabHFOV0JjRVdQQXNRTGFhU0tSc1JhMXRpVVhDMDloVnVPZ2YzM3FpdXNtajUxV213?oc=5\" target=\"_blank\">垂直離着陸型の配送ドローンを開発するAirbound、シリーズAで3,700万ドルを調達</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BRIDGE（ブリッジ）</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE82aGNEZUFQc05aU1BEX2FKdHRiR1drbmwydUdDNU1jOXNfVnJycEdyR0U4RjlxQnZoNEgyZ0NabHFOV0JjRVdQQXNRTGFhU0tSc1JhMXRpVVhDMDloVnVPZ2YzM3FpdXNtajUxV213?oc=5\" target=\"_blank\">垂直離着陸型の配送ドローンを開発するAirbound、シリーズAで3,700万ドルを調達</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BRIDGE（ブリッジ）</font>",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE82aGNEZUFQc05aU1BEX2FKdHRiR1drbmwydUdDNU1jOXNfVnJycEdyR0U4RjlxQnZoNEgyZ0NabHFOV0JjRVdQQXNRTGFhU0tSc1JhMXRpVVhDMDloVnVPZ2YzM3FpdXNtajUxV213?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTE82aGNEZUFQc05aU1BEX2FKdHRiR1drbmwydUdDNU1jOXNfVnJycEdyR0U4RjlxQnZoNEgyZ0NabHFOV0JjRVdQQXNRTGFhU0tSc1JhMXRpVVhDMDloVnVPZ2YzM3FpdXNtajUxV213?oc=5",
+      "publishedAt": "2026-09-08T23:42:50.000Z",
+      "source": "BRIDGE（ブリッジ）",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP 事業者/実装)",
+      "_scoring": {
+        "score": 64,
+        "categories": [
+          "技術・製品",
+          "市場・資金"
+        ],
+        "breakdown": {
+          "required": true,
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "market": {
+            "matches": 2,
+            "catScore": 25
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 0,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
       "title": "九電ドローン、倒木リスク低減へ提携／ＡＩで枯れ木調査 –",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFBUZUJvTnEzRk83QVpSMS1aNWJvLV9McnNQelJOdnhETGhLYnpVemIwM05qT2NBVEtFdDY3MHJmWTNSZ1Y4b2dkTDlEUUpKTGlNY3d2ZHhIdw?oc=5\" target=\"_blank\">九電ドローン、倒木リスク低減へ提携／ＡＩで枯れ木調査 –</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">denkishimbun.com</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFBUZUJvTnEzRk83QVpSMS1aNWJvLV9McnNQelJOdnhETGhLYnpVemIwM05qT2NBVEtFdDY3MHJmWTNSZ1Y4b2dkTDlEUUpKTGlNY3d2ZHhIdw?oc=5\" target=\"_blank\">九電ドローン、倒木リスク低減へ提携／ＡＩで枯れ木調査 –</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">denkishimbun.com</font>",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFBUZUJvTnEzRk83QVpSMS1aNWJvLV9McnNQelJOdnhETGhLYnpVemIwM05qT2NBVEtFdDY3MHJmWTNSZ1Y4b2dkTDlEUUpKTGlNY3d2ZHhIdw?oc=5\" target=\"_blank\">九電ドローン、倒木リスク低減へ提携／ＡＩで枯れ木調査 –</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">電気新聞ウェブサイト</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFBUZUJvTnEzRk83QVpSMS1aNWJvLV9McnNQelJOdnhETGhLYnpVemIwM05qT2NBVEtFdDY3MHJmWTNSZ1Y4b2dkTDlEUUpKTGlNY3d2ZHhIdw?oc=5\" target=\"_blank\">九電ドローン、倒木リスク低減へ提携／ＡＩで枯れ木調査 –</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">電気新聞ウェブサイト</font>",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBUZUJvTnEzRk83QVpSMS1aNWJvLV9McnNQelJOdnhETGhLYnpVemIwM05qT2NBVEtFdDY3MHJmWTNSZ1Y4b2dkTDlEUUpKTGlNY3d2ZHhIdw?oc=5",
       "googleNewsUrl": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBUZUJvTnEzRk83QVpSMS1aNWJvLV9McnNQelJOdnhETGhLYnpVemIwM05qT2NBVEtFdDY3MHJmWTNSZ1Y4b2dkTDlEUUpKTGlNY3d2ZHhIdw?oc=5",
       "publishedAt": "2026-09-03T21:01:15.000Z",
-      "source": "denkishimbun.com",
+      "source": "電気新聞ウェブサイト",
       "_feedRegion": "jp",
       "_feedName": "Google News (JP 政策/実証)",
       "_scoring": {
@@ -706,42 +602,6 @@
             "multiplier": 0.8
           },
           "freshness": 5,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "Virtuix to demonstrate C-UAS training simulator to US defence officials",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxQUDZzZEpzdkh0dFN4ajUxSjJRY1FDYVdGbnV6TUgwOGhYQmdybExDYkkzZU9FeHlyeHJQc0lickFmQ0YwUHByWlFySkFDN3JpQ3MzQ2NobVlTZ3djSXNtekNQOWNrbkNuTmN3SXppRDBtNERkMXBFVlBQMEdqbXhvSmJNODdIWVEteUpiUkdjXzFwWE1SYjhHbEFwczZmWUxZUWlTVWxtZDlFRmd4YnFONzctNkFqYWwzdXpyN0ZJNV80V3dRSWNCcUpMMkR6VDJkb3h4cDlR?oc=5\" target=\"_blank\">Virtuix to demonstrate C-UAS training simulator to US defence officials</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxQUDZzZEpzdkh0dFN4ajUxSjJRY1FDYVdGbnV6TUgwOGhYQmdybExDYkkzZU9FeHlyeHJQc0lickFmQ0YwUHByWlFySkFDN3JpQ3MzQ2NobVlTZ3djSXNtekNQOWNrbkNuTmN3SXppRDBtNERkMXBFVlBQMEdqbXhvSmJNODdIWVEteUpiUkdjXzFwWE1SYjhHbEFwczZmWUxZUWlTVWxtZDlFRmd4YnFONzctNkFqYWwzdXpyN0ZJNV80V3dRSWNCcUpMMkR6VDJkb3h4cDlR?oc=5\" target=\"_blank\">Virtuix to demonstrate C-UAS training simulator to US defence officials</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQUDZzZEpzdkh0dFN4ajUxSjJRY1FDYVdGbnV6TUgwOGhYQmdybExDYkkzZU9FeHlyeHJQc0lickFmQ0YwUHByWlFySkFDN3JpQ3MzQ2NobVlTZ3djSXNtekNQOWNrbkNuTmN3SXppRDBtNERkMXBFVlBQMEdqbXhvSmJNODdIWVEteUpiUkdjXzFwWE1SYjhHbEFwczZmWUxZUWlTVWxtZDlFRmd4YnFONzctNkFqYWwzdXpyN0ZJNV80V3dRSWNCcUpMMkR6VDJkb3h4cDlR?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQUDZzZEpzdkh0dFN4ajUxSjJRY1FDYVdGbnV6TUgwOGhYQmdybExDYkkzZU9FeHlyeHJQc0lickFmQ0YwUHByWlFySkFDN3JpQ3MzQ2NobVlTZ3djSXNtekNQOWNrbkNuTmN3SXppRDBtNERkMXBFVlBQMEdqbXhvSmJNODdIWVEteUpiUkdjXzFwWE1SYjhHbEFwczZmWUxZUWlTVWxtZDlFRmd4YnFONzctNkFqYWwzdXpyN0ZJNV80V3dRSWNCcUpMMkR6VDJkb3h4cDlR?oc=5",
-      "publishedAt": "2026-09-11T11:22:06.000Z",
-      "source": "Unmanned airspace",
-      "_feedRegion": "eu",
-      "_feedName": "EASA",
-      "_scoring": {
-        "score": 60,
-        "categories": [
-          "技術・製品",
-          "市場・資金"
-        ],
-        "breakdown": {
-          "required": true,
-          "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "market": {
-            "matches": 1,
-            "catScore": 20
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 15,
           "titleBonus": 10
         },
         "pass": true
@@ -1110,6 +970,139 @@
             "multiplier": 0.8
           },
           "freshness": 0,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "ドローン測量・インフラ点検・建設DX向け産業用ドローン無料セミナーを9月25日（金）徳島で開催。DJI Matrice 400・Matrice 4シリーズ・Dock 3を実演紹介。",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE4xaHFKRXB2dFpHR1hLbzFTVTRfd0UyMWNxenpLVC1RZGxGQTFqMWlFN2xzYlZuNFFFM1kyT05tZFZGUzNmaGFfUGRNM21GQk01SkN4Szd4ZkZzb0tDTG1RWG9FRWxFV0d6Z0E?oc=5\" target=\"_blank\">ドローン測量・インフラ点検・建設DX向け産業用ドローン無料セミナーを9月25日（金）徳島で開催。DJI Matrice 400・Matrice 4シリーズ・Dock 3を実演紹介。</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR TIMES</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE4xaHFKRXB2dFpHR1hLbzFTVTRfd0UyMWNxenpLVC1RZGxGQTFqMWlFN2xzYlZuNFFFM1kyT05tZFZGUzNmaGFfUGRNM21GQk01SkN4Szd4ZkZzb0tDTG1RWG9FRWxFV0d6Z0E?oc=5\" target=\"_blank\">ドローン測量・インフラ点検・建設DX向け産業用ドローン無料セミナーを9月25日（金）徳島で開催。DJI Matrice 400・Matrice 4シリーズ・Dock 3を実演紹介。</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR TIMES</font>",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4xaHFKRXB2dFpHR1hLbzFTVTRfd0UyMWNxenpLVC1RZGxGQTFqMWlFN2xzYlZuNFFFM1kyT05tZFZGUzNmaGFfUGRNM21GQk01SkN4Szd4ZkZzb0tDTG1RWG9FRWxFV0d6Z0E?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4xaHFKRXB2dFpHR1hLbzFTVTRfd0UyMWNxenpLVC1RZGxGQTFqMWlFN2xzYlZuNFFFM1kyT05tZFZGUzNmaGFfUGRNM21GQk01SkN4Szd4ZkZzb0tDTG1RWG9FRWxFV0d6Z0E?oc=5",
+      "publishedAt": "2026-08-31T07:00:00.000Z",
+      "source": "PR TIMES",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP 事業者/実装)",
+      "_scoring": {
+        "score": 60,
+        "categories": [
+          "市場・資金",
+          "政策・インフラ"
+        ],
+        "breakdown": {
+          "required": true,
+          "market": {
+            "matches": 1,
+            "catScore": 20
+          },
+          "policy": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 0,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "JAL、自動飛行のドローンで航空機を検査 羽田空港で国内初の検証 [千葉県]",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE04S29HdGRWUjJoODh0c1V5T1FaR0x0ejNITE1XeDB2SlVacl9ERmVpZUxYT0tVdnExdDhxQndTUUZrYXM2YXkwZ3ZkU2lsTC1PUDJra3Vnc1YxVmZWNm5vQkw2Q3FrUTQ?oc=5\" target=\"_blank\">JAL、自動飛行のドローンで航空機を検査 羽田空港で国内初の検証 [千葉県]</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">朝日新聞</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE04S29HdGRWUjJoODh0c1V5T1FaR0x0ejNITE1XeDB2SlVacl9ERmVpZUxYT0tVdnExdDhxQndTUUZrYXM2YXkwZ3ZkU2lsTC1PUDJra3Vnc1YxVmZWNm5vQkw2Q3FrUTQ?oc=5\" target=\"_blank\">JAL、自動飛行のドローンで航空機を検査 羽田空港で国内初の検証 [千葉県]</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">朝日新聞</font>",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE04S29HdGRWUjJoODh0c1V5T1FaR0x0ejNITE1XeDB2SlVacl9ERmVpZUxYT0tVdnExdDhxQndTUUZrYXM2YXkwZ3ZkU2lsTC1PUDJra3Vnc1YxVmZWNm5vQkw2Q3FrUTQ?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE04S29HdGRWUjJoODh0c1V5T1FaR0x0ejNITE1XeDB2SlVacl9ERmVpZUxYT0tVdnExdDhxQndTUUZrYXM2YXkwZ3ZkU2lsTC1PUDJra3Vnc1YxVmZWNm5vQkw2Q3FrUTQ?oc=5",
+      "publishedAt": "2026-09-11T22:00:00.000Z",
+      "source": "朝日新聞",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP)",
+      "_scoring": {
+        "score": 59,
+        "categories": [
+          "政策・インフラ"
+        ],
+        "breakdown": {
+          "required": true,
+          "policy": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 15,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "そらメディア - 中京テレビがお届けするドローンスクール｜中京テレビ放送 ビジネス開発グループ SWINGプロジェクト",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE1FcUUwYzBHNzRVWEQwMjFFRERDeGIxY2l3NmdxREcxSURLNDB4S1ZuYy1BZC1UbGpXVW04WjJRRGkwYWxlal9CSHI5WWtCWWs1Vm9wQWw2MVk3RDFTNVI5V1k2UVNTakJxUldz?oc=5\" target=\"_blank\">そらメディア - 中京テレビがお届けするドローンスクール｜中京テレビ放送 ビジネス開発グループ SWINGプロジェクト</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ctv.co.jp</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE1FcUUwYzBHNzRVWEQwMjFFRERDeGIxY2l3NmdxREcxSURLNDB4S1ZuYy1BZC1UbGpXVW04WjJRRGkwYWxlal9CSHI5WWtCWWs1Vm9wQWw2MVk3RDFTNVI5V1k2UVNTakJxUldz?oc=5\" target=\"_blank\">そらメディア - 中京テレビがお届けするドローンスクール｜中京テレビ放送 ビジネス開発グループ SWINGプロジェクト</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ctv.co.jp</font>",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1FcUUwYzBHNzRVWEQwMjFFRERDeGIxY2l3NmdxREcxSURLNDB4S1ZuYy1BZC1UbGpXVW04WjJRRGkwYWxlal9CSHI5WWtCWWs1Vm9wQWw2MVk3RDFTNVI5V1k2UVNTakJxUldz?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1FcUUwYzBHNzRVWEQwMjFFRERDeGIxY2l3NmdxREcxSURLNDB4S1ZuYy1BZC1UbGpXVW04WjJRRGkwYWxlal9CSHI5WWtCWWs1Vm9wQWw2MVk3RDFTNVI5V1k2UVNTakJxUldz?oc=5",
+      "publishedAt": "2026-09-11T23:31:23.000Z",
+      "source": "ctv.co.jp",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP)",
+      "_scoring": {
+        "score": 59,
+        "categories": [
+          "技術・製品"
+        ],
+        "breakdown": {
+          "required": true,
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 15,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "JAL、自動飛行のドローンで航空機を検査 羽田空港で国内初の検証 (朝日新聞)",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQRFQtR3pZZnhVckZXdThZRDlfeFRPWHA2dXY2MjlzTlFscVFzdGJCR2R4eW5vXy1QT0phRkNQQ1RuNFpwTXB3R1h5SzdBbk40cnpWWkJCcFFSOG5BUVh4NmEtNktFZTVzbFM5akM4RS1SVzY4dm8zT1ZwdDR6Vjc4dWlaZlpPVEVLLTE2Y2tR?oc=5\" target=\"_blank\">JAL、自動飛行のドローンで航空機を検査 羽田空港で国内初の検証 (朝日新聞)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQRFQtR3pZZnhVckZXdThZRDlfeFRPWHA2dXY2MjlzTlFscVFzdGJCR2R4eW5vXy1QT0phRkNQQ1RuNFpwTXB3R1h5SzdBbk40cnpWWkJCcFFSOG5BUVh4NmEtNktFZTVzbFM5akM4RS1SVzY4dm8zT1ZwdDR6Vjc4dWlaZlpPVEVLLTE2Y2tR?oc=5\" target=\"_blank\">JAL、自動飛行のドローンで航空機を検査 羽田空港で国内初の検証 (朝日新聞)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRFQtR3pZZnhVckZXdThZRDlfeFRPWHA2dXY2MjlzTlFscVFzdGJCR2R4eW5vXy1QT0phRkNQQ1RuNFpwTXB3R1h5SzdBbk40cnpWWkJCcFFSOG5BUVh4NmEtNktFZTVzbFM5akM4RS1SVzY4dm8zT1ZwdDR6Vjc4dWlaZlpPVEVLLTE2Y2tR?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRFQtR3pZZnhVckZXdThZRDlfeFRPWHA2dXY2MjlzTlFscVFzdGJCR2R4eW5vXy1QT0phRkNQQ1RuNFpwTXB3R1h5SzdBbk40cnpWWkJCcFFSOG5BUVh4NmEtNktFZTVzbFM5akM4RS1SVzY4dm8zT1ZwdDR6Vjc4dWlaZlpPVEVLLTE2Y2tR?oc=5",
+      "publishedAt": "2026-09-11T22:00:00.000Z",
+      "source": "Yahoo!ニュース",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP 事業者/実装)",
+      "_scoring": {
+        "score": 59,
+        "categories": [
+          "政策・インフラ"
+        ],
+        "breakdown": {
+          "required": true,
+          "policy": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 15,
           "titleBonus": 10,
           "jpRegionBonus": 15
         },
