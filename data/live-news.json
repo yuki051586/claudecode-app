@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-15T22:00:09.420Z",
-  "rawCount": 657,
+  "generatedAt": "2026-09-16T00:11:56.839Z",
+  "rawCount": 655,
   "articles": [
     {
       "title": "ウクライナ西部でロシアのドローンが旅客列車を攻撃、乗客ら避難 外交官ら標的か（ロイター）",
@@ -13,7 +13,7 @@
       "_feedRegion": "jp",
       "_feedName": "Google News (JP)",
       "_scoring": {
-        "score": 80,
+        "score": 75,
         "categories": [
           "規制・政策",
           "技術・製品"
@@ -32,7 +32,7 @@
             "domain": "news.google.com",
             "multiplier": 0.8
           },
-          "freshness": 10,
+          "freshness": 5,
           "titleBonus": 10,
           "jpRegionBonus": 15
         },
@@ -75,78 +75,6 @@
             "multiplier": 0.8
           },
           "freshness": 0,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "Surf Air Mobility attends FAA eVTOL integration program launch",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQX2pSMDZqN2pFMnlFUUtFUnlRUWZxaDNBTUdGcXc0cnRvYk43T21uR3dwcTd5Z21hUE5CUHQ1NmFMN3JDZ0hSeHFjWjZTY3RNTXFTVkl4MHRvUHBlaGRsY29vR3ZoQ2dtTTBiY05uNFRJQ0JqSVh1SFhrMjZjQVluUFN3V282cFNVbFJhUUdZaEZyS3haNHJ3dTNfMklFVE1Nb0thTFotQWVEeVNuY2JOZS04SldsWmQ0SmI4?oc=5\" target=\"_blank\">Surf Air Mobility attends FAA eVTOL integration program launch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQX2pSMDZqN2pFMnlFUUtFUnlRUWZxaDNBTUdGcXc0cnRvYk43T21uR3dwcTd5Z21hUE5CUHQ1NmFMN3JDZ0hSeHFjWjZTY3RNTXFTVkl4MHRvUHBlaGRsY29vR3ZoQ2dtTTBiY05uNFRJQ0JqSVh1SFhrMjZjQVluUFN3V282cFNVbFJhUUdZaEZyS3haNHJ3dTNfMklFVE1Nb0thTFotQWVEeVNuY2JOZS04SldsWmQ0SmI4?oc=5\" target=\"_blank\">Surf Air Mobility attends FAA eVTOL integration program launch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com</font>",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQX2pSMDZqN2pFMnlFUUtFUnlRUWZxaDNBTUdGcXc0cnRvYk43T21uR3dwcTd5Z21hUE5CUHQ1NmFMN3JDZ0hSeHFjWjZTY3RNTXFTVkl4MHRvUHBlaGRsY29vR3ZoQ2dtTTBiY05uNFRJQ0JqSVh1SFhrMjZjQVluUFN3V282cFNVbFJhUUdZaEZyS3haNHJ3dTNfMklFVE1Nb0thTFotQWVEeVNuY2JOZS04SldsWmQ0SmI4?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQX2pSMDZqN2pFMnlFUUtFUnlRUWZxaDNBTUdGcXc0cnRvYk43T21uR3dwcTd5Z21hUE5CUHQ1NmFMN3JDZ0hSeHFjWjZTY3RNTXFTVkl4MHRvUHBlaGRsY29vR3ZoQ2dtTTBiY05uNFRJQ0JqSVh1SFhrMjZjQVluUFN3V282cFNVbFJhUUdZaEZyS3haNHJ3dTNfMklFVE1Nb0thTFotQWVEeVNuY2JOZS04SldsWmQ0SmI4?oc=5",
-      "publishedAt": "2026-09-15T11:08:50.000Z",
-      "source": "Investing.com",
-      "_feedRegion": "us",
-      "_feedName": "FAA",
-      "_scoring": {
-        "score": 70,
-        "categories": [
-          "規制・政策",
-          "技術・製品"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 1,
-            "catScore": 32
-          },
-          "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 15,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "Surf Air Mobility attends FAA eVTOL integration program launch By Investing.com",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPejhSQ0xhSEZpQW1tMnJHYjZkdFhnRlBsME1rV1I3VkhZbU02YXozWENQemZYdHNKa0xlQ2xGbWZDcm55dnRzVGxOc24wOTNpUmdLSjFPbHlRWlc5T0FDVkhuNWRyQlR5RVBlRzJHeU1RUi0xZm5lSjZjaGVBS1RneGNGLU1Qc3ZGZjVPSVpRdjZPTE9heGIzMV9iSzUycGJmSXlXQ0k4Rkh4Mjd3N2V1bFZ0NnhzM0dRcDRlY3dvSGU?oc=5\" target=\"_blank\">Surf Air Mobility attends FAA eVTOL integration program launch By Investing.com</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com Australia</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPejhSQ0xhSEZpQW1tMnJHYjZkdFhnRlBsME1rV1I3VkhZbU02YXozWENQemZYdHNKa0xlQ2xGbWZDcm55dnRzVGxOc24wOTNpUmdLSjFPbHlRWlc5T0FDVkhuNWRyQlR5RVBlRzJHeU1RUi0xZm5lSjZjaGVBS1RneGNGLU1Qc3ZGZjVPSVpRdjZPTE9heGIzMV9iSzUycGJmSXlXQ0k4Rkh4Mjd3N2V1bFZ0NnhzM0dRcDRlY3dvSGU?oc=5\" target=\"_blank\">Surf Air Mobility attends FAA eVTOL integration program launch By Investing.com</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com Australia</font>",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPejhSQ0xhSEZpQW1tMnJHYjZkdFhnRlBsME1rV1I3VkhZbU02YXozWENQemZYdHNKa0xlQ2xGbWZDcm55dnRzVGxOc24wOTNpUmdLSjFPbHlRWlc5T0FDVkhuNWRyQlR5RVBlRzJHeU1RUi0xZm5lSjZjaGVBS1RneGNGLU1Qc3ZGZjVPSVpRdjZPTE9heGIzMV9iSzUycGJmSXlXQ0k4Rkh4Mjd3N2V1bFZ0NnhzM0dRcDRlY3dvSGU?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPejhSQ0xhSEZpQW1tMnJHYjZkdFhnRlBsME1rV1I3VkhZbU02YXozWENQemZYdHNKa0xlQ2xGbWZDcm55dnRzVGxOc24wOTNpUmdLSjFPbHlRWlc5T0FDVkhuNWRyQlR5RVBlRzJHeU1RUi0xZm5lSjZjaGVBS1RneGNGLU1Qc3ZGZjVPSVpRdjZPTE9heGIzMV9iSzUycGJmSXlXQ0k4Rkh4Mjd3N2V1bFZ0NnhzM0dRcDRlY3dvSGU?oc=5",
-      "publishedAt": "2026-09-15T11:30:03.000Z",
-      "source": "Investing.com Australia",
-      "_feedRegion": "us",
-      "_feedName": "FAA",
-      "_scoring": {
-        "score": 70,
-        "categories": [
-          "規制・政策",
-          "技術・製品"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 1,
-            "catScore": 32
-          },
-          "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 15,
           "titleBonus": 10
         },
         "pass": true
@@ -222,6 +150,42 @@
           "freshness": 0,
           "titleBonus": 10,
           "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "Surf Air Mobility attends FAA eVTOL integration program launch",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQX2pSMDZqN2pFMnlFUUtFUnlRUWZxaDNBTUdGcXc0cnRvYk43T21uR3dwcTd5Z21hUE5CUHQ1NmFMN3JDZ0hSeHFjWjZTY3RNTXFTVkl4MHRvUHBlaGRsY29vR3ZoQ2dtTTBiY05uNFRJQ0JqSVh1SFhrMjZjQVluUFN3V282cFNVbFJhUUdZaEZyS3haNHJ3dTNfMklFVE1Nb0thTFotQWVEeVNuY2JOZS04SldsWmQ0SmI4?oc=5\" target=\"_blank\">Surf Air Mobility attends FAA eVTOL integration program launch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQX2pSMDZqN2pFMnlFUUtFUnlRUWZxaDNBTUdGcXc0cnRvYk43T21uR3dwcTd5Z21hUE5CUHQ1NmFMN3JDZ0hSeHFjWjZTY3RNTXFTVkl4MHRvUHBlaGRsY29vR3ZoQ2dtTTBiY05uNFRJQ0JqSVh1SFhrMjZjQVluUFN3V282cFNVbFJhUUdZaEZyS3haNHJ3dTNfMklFVE1Nb0thTFotQWVEeVNuY2JOZS04SldsWmQ0SmI4?oc=5\" target=\"_blank\">Surf Air Mobility attends FAA eVTOL integration program launch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com</font>",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQX2pSMDZqN2pFMnlFUUtFUnlRUWZxaDNBTUdGcXc0cnRvYk43T21uR3dwcTd5Z21hUE5CUHQ1NmFMN3JDZ0hSeHFjWjZTY3RNTXFTVkl4MHRvUHBlaGRsY29vR3ZoQ2dtTTBiY05uNFRJQ0JqSVh1SFhrMjZjQVluUFN3V282cFNVbFJhUUdZaEZyS3haNHJ3dTNfMklFVE1Nb0thTFotQWVEeVNuY2JOZS04SldsWmQ0SmI4?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQX2pSMDZqN2pFMnlFUUtFUnlRUWZxaDNBTUdGcXc0cnRvYk43T21uR3dwcTd5Z21hUE5CUHQ1NmFMN3JDZ0hSeHFjWjZTY3RNTXFTVkl4MHRvUHBlaGRsY29vR3ZoQ2dtTTBiY05uNFRJQ0JqSVh1SFhrMjZjQVluUFN3V282cFNVbFJhUUdZaEZyS3haNHJ3dTNfMklFVE1Nb0thTFotQWVEeVNuY2JOZS04SldsWmQ0SmI4?oc=5",
+      "publishedAt": "2026-09-15T11:08:50.000Z",
+      "source": "Investing.com",
+      "_feedRegion": "us",
+      "_feedName": "FAA",
+      "_scoring": {
+        "score": 65,
+        "categories": [
+          "規制・政策",
+          "技術・製品"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 10,
+          "titleBonus": 10
         },
         "pass": true
       }
@@ -407,42 +371,6 @@
           "freshness": 0,
           "titleBonus": 10,
           "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "British Army soldiers test new C-UAS tactics with shotgun and RF sensors combination",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxQN21zMHFUVGxoRG1EdVBfUGpjTHB1a0tWSElBQmZQOG1VN2VVdHdSWVBTdjQ5T2k3bThLZkp4TE5zaDZ5Nm04R0x5OUpFcDJzVDR3aGs3cEVOQzFlaE43Q3RNVG1PT1hkdG9JWkt5STNLYW5DN3NkbU11SmR0S0RycmN5c1J6cWZPUzhEN2E4MDZQSzlqU3F5UEl4UUJUbXo5NFZWbEFkTmZpZ1gyMWtJcHlDYkctSjdiaWRRb01LWnYweW5Zd21Nci1NU2FYZWlyYjJ2clBXOS1DS3VBaEl4cjdmVlA1Y00?oc=5\" target=\"_blank\">British Army soldiers test new C-UAS tactics with shotgun and RF sensors combination</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxQN21zMHFUVGxoRG1EdVBfUGpjTHB1a0tWSElBQmZQOG1VN2VVdHdSWVBTdjQ5T2k3bThLZkp4TE5zaDZ5Nm04R0x5OUpFcDJzVDR3aGs3cEVOQzFlaE43Q3RNVG1PT1hkdG9JWkt5STNLYW5DN3NkbU11SmR0S0RycmN5c1J6cWZPUzhEN2E4MDZQSzlqU3F5UEl4UUJUbXo5NFZWbEFkTmZpZ1gyMWtJcHlDYkctSjdiaWRRb01LWnYweW5Zd21Nci1NU2FYZWlyYjJ2clBXOS1DS3VBaEl4cjdmVlA1Y00?oc=5\" target=\"_blank\">British Army soldiers test new C-UAS tactics with shotgun and RF sensors combination</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQN21zMHFUVGxoRG1EdVBfUGpjTHB1a0tWSElBQmZQOG1VN2VVdHdSWVBTdjQ5T2k3bThLZkp4TE5zaDZ5Nm04R0x5OUpFcDJzVDR3aGs3cEVOQzFlaE43Q3RNVG1PT1hkdG9JWkt5STNLYW5DN3NkbU11SmR0S0RycmN5c1J6cWZPUzhEN2E4MDZQSzlqU3F5UEl4UUJUbXo5NFZWbEFkTmZpZ1gyMWtJcHlDYkctSjdiaWRRb01LWnYweW5Zd21Nci1NU2FYZWlyYjJ2clBXOS1DS3VBaEl4cjdmVlA1Y00?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQN21zMHFUVGxoRG1EdVBfUGpjTHB1a0tWSElBQmZQOG1VN2VVdHdSWVBTdjQ5T2k3bThLZkp4TE5zaDZ5Nm04R0x5OUpFcDJzVDR3aGs3cEVOQzFlaE43Q3RNVG1PT1hkdG9JWkt5STNLYW5DN3NkbU11SmR0S0RycmN5c1J6cWZPUzhEN2E4MDZQSzlqU3F5UEl4UUJUbXo5NFZWbEFkTmZpZ1gyMWtJcHlDYkctSjdiaWRRb01LWnYweW5Zd21Nci1NU2FYZWlyYjJ2clBXOS1DS3VBaEl4cjdmVlA1Y00?oc=5",
-      "publishedAt": "2026-09-15T10:24:11.000Z",
-      "source": "Unmanned airspace",
-      "_feedRegion": "eu",
-      "_feedName": "EASA",
-      "_scoring": {
-        "score": 60,
-        "categories": [
-          "技術・製品",
-          "市場・資金"
-        ],
-        "breakdown": {
-          "required": true,
-          "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "market": {
-            "matches": 1,
-            "catScore": 20
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 15,
-          "titleBonus": 10
         },
         "pass": true
       }
@@ -780,43 +708,6 @@
       }
     },
     {
-      "title": "三菱重工とNEC、防衛で提携 ドローンやAI技術開発",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFB4SWNEZXhVTUJXMWhVZjc2SzNTckZKd1JYSThDSDNOSnFwUzhfYkpfLUxnbkJFbndfYkJFQUJkOUN6NVFIWHB2Z193M3RVU3pxYUh0aHAtVHdlZw?oc=5\" target=\"_blank\">三菱重工とNEC、防衛で提携 ドローンやAI技術開発</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">北海道新聞デジタル</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFB4SWNEZXhVTUJXMWhVZjc2SzNTckZKd1JYSThDSDNOSnFwUzhfYkpfLUxnbkJFbndfYkJFQUJkOUN6NVFIWHB2Z193M3RVU3pxYUh0aHAtVHdlZw?oc=5\" target=\"_blank\">三菱重工とNEC、防衛で提携 ドローンやAI技術開発</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">北海道新聞デジタル</font>",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB4SWNEZXhVTUJXMWhVZjc2SzNTckZKd1JYSThDSDNOSnFwUzhfYkpfLUxnbkJFbndfYkJFQUJkOUN6NVFIWHB2Z193M3RVU3pxYUh0aHAtVHdlZw?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB4SWNEZXhVTUJXMWhVZjc2SzNTckZKd1JYSThDSDNOSnFwUzhfYkpfLUxnbkJFbndfYkJFQUJkOUN6NVFIWHB2Z193M3RVU3pxYUh0aHAtVHdlZw?oc=5",
-      "publishedAt": "2026-09-02T07:00:00.000Z",
-      "source": "北海道新聞デジタル",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP 政策/実証)",
-      "_scoring": {
-        "score": 60,
-        "categories": [
-          "技術・製品",
-          "市場・資金"
-        ],
-        "breakdown": {
-          "required": true,
-          "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "market": {
-            "matches": 1,
-            "catScore": 20
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 0,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
       "title": "Texas, Joby Begin FAA-Backed Air Taxi Airport Demonstrations",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9PbnU0VlNEdzdxOWg5VFYzdW1yMm5xWmd1QUI5WDR4Ukt0aktHZHE5Vi1GNmxQNW1kZHl5ZU5mX3BOMnB3NnFaRlFhZmMycmY4TFBpVXhxUzZpM08xSVlTWk5ibXYtOW9mUUd3LWRUUU9EdHBCZGNUdG9scw?oc=5\" target=\"_blank\">Texas, Joby Begin FAA-Backed Air Taxi Airport Demonstrations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FLYING Magazine</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9PbnU0VlNEdzdxOWg5VFYzdW1yMm5xWmd1QUI5WDR4Ukt0aktHZHE5Vi1GNmxQNW1kZHl5ZU5mX3BOMnB3NnFaRlFhZmMycmY4TFBpVXhxUzZpM08xSVlTWk5ibXYtOW9mUUd3LWRUUU9EdHBCZGNUdG9scw?oc=5\" target=\"_blank\">Texas, Joby Begin FAA-Backed Air Taxi Airport Demonstrations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FLYING Magazine</font>",
@@ -853,36 +744,36 @@
       }
     },
     {
-      "title": "Vertiport Infrastructure Joins eVTOL Simulation Platform",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQaVc2OVlBd2FMZkhDVnhQUURZZWJKdGw3RnRleUppSUxpNU9rYTl0QnRLTzFYcHN1ZGp2RHV5OHVPSzlJLTNaYTl2NG05akthVzR6VER0YmJYTE40cGtNcWdpLU9aSU5EZnFyT29UNWNja3FCcnVWM0VkU0VRUWtNNWZZSW1mRk12eEdGaGNzSDlkT21GVjU3YV9teUc?oc=5\" target=\"_blank\">Vertiport Infrastructure Joins eVTOL Simulation Platform</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Halldale Group</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQaVc2OVlBd2FMZkhDVnhQUURZZWJKdGw3RnRleUppSUxpNU9rYTl0QnRLTzFYcHN1ZGp2RHV5OHVPSzlJLTNaYTl2NG05akthVzR6VER0YmJYTE40cGtNcWdpLU9aSU5EZnFyT29UNWNja3FCcnVWM0VkU0VRUWtNNWZZSW1mRk12eEdGaGNzSDlkT21GVjU3YV9teUc?oc=5\" target=\"_blank\">Vertiport Infrastructure Joins eVTOL Simulation Platform</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Halldale Group</font>",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQaVc2OVlBd2FMZkhDVnhQUURZZWJKdGw3RnRleUppSUxpNU9rYTl0QnRLTzFYcHN1ZGp2RHV5OHVPSzlJLTNaYTl2NG05akthVzR6VER0YmJYTE40cGtNcWdpLU9aSU5EZnFyT29UNWNja3FCcnVWM0VkU0VRUWtNNWZZSW1mRk12eEdGaGNzSDlkT21GVjU3YV9teUc?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQaVc2OVlBd2FMZkhDVnhQUURZZWJKdGw3RnRleUppSUxpNU9rYTl0QnRLTzFYcHN1ZGp2RHV5OHVPSzlJLTNaYTl2NG05akthVzR6VER0YmJYTE40cGtNcWdpLU9aSU5EZnFyT29UNWNja3FCcnVWM0VkU0VRUWtNNWZZSW1mRk12eEdGaGNzSDlkT21GVjU3YV9teUc?oc=5",
-      "publishedAt": "2026-09-14T08:57:05.000Z",
-      "source": "Halldale Group",
-      "_feedRegion": "global",
-      "_feedName": "Google News (Global)",
+      "title": "British Army soldiers test new C-UAS tactics with shotgun and RF sensors combination",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxQN21zMHFUVGxoRG1EdVBfUGpjTHB1a0tWSElBQmZQOG1VN2VVdHdSWVBTdjQ5T2k3bThLZkp4TE5zaDZ5Nm04R0x5OUpFcDJzVDR3aGs3cEVOQzFlaE43Q3RNVG1PT1hkdG9JWkt5STNLYW5DN3NkbU11SmR0S0RycmN5c1J6cWZPUzhEN2E4MDZQSzlqU3F5UEl4UUJUbXo5NFZWbEFkTmZpZ1gyMWtJcHlDYkctSjdiaWRRb01LWnYweW5Zd21Nci1NU2FYZWlyYjJ2clBXOS1DS3VBaEl4cjdmVlA1Y00?oc=5\" target=\"_blank\">British Army soldiers test new C-UAS tactics with shotgun and RF sensors combination</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxQN21zMHFUVGxoRG1EdVBfUGpjTHB1a0tWSElBQmZQOG1VN2VVdHdSWVBTdjQ5T2k3bThLZkp4TE5zaDZ5Nm04R0x5OUpFcDJzVDR3aGs3cEVOQzFlaE43Q3RNVG1PT1hkdG9JWkt5STNLYW5DN3NkbU11SmR0S0RycmN5c1J6cWZPUzhEN2E4MDZQSzlqU3F5UEl4UUJUbXo5NFZWbEFkTmZpZ1gyMWtJcHlDYkctSjdiaWRRb01LWnYweW5Zd21Nci1NU2FYZWlyYjJ2clBXOS1DS3VBaEl4cjdmVlA1Y00?oc=5\" target=\"_blank\">British Army soldiers test new C-UAS tactics with shotgun and RF sensors combination</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQN21zMHFUVGxoRG1EdVBfUGpjTHB1a0tWSElBQmZQOG1VN2VVdHdSWVBTdjQ5T2k3bThLZkp4TE5zaDZ5Nm04R0x5OUpFcDJzVDR3aGs3cEVOQzFlaE43Q3RNVG1PT1hkdG9JWkt5STNLYW5DN3NkbU11SmR0S0RycmN5c1J6cWZPUzhEN2E4MDZQSzlqU3F5UEl4UUJUbXo5NFZWbEFkTmZpZ1gyMWtJcHlDYkctSjdiaWRRb01LWnYweW5Zd21Nci1NU2FYZWlyYjJ2clBXOS1DS3VBaEl4cjdmVlA1Y00?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQN21zMHFUVGxoRG1EdVBfUGpjTHB1a0tWSElBQmZQOG1VN2VVdHdSWVBTdjQ5T2k3bThLZkp4TE5zaDZ5Nm04R0x5OUpFcDJzVDR3aGs3cEVOQzFlaE43Q3RNVG1PT1hkdG9JWkt5STNLYW5DN3NkbU11SmR0S0RycmN5c1J6cWZPUzhEN2E4MDZQSzlqU3F5UEl4UUJUbXo5NFZWbEFkTmZpZ1gyMWtJcHlDYkctSjdiaWRRb01LWnYweW5Zd21Nci1NU2FYZWlyYjJ2clBXOS1DS3VBaEl4cjdmVlA1Y00?oc=5",
+      "publishedAt": "2026-09-15T10:24:11.000Z",
+      "source": "Unmanned airspace",
+      "_feedRegion": "eu",
+      "_feedName": "EASA",
       "_scoring": {
         "score": 55,
         "categories": [
-          "市場・資金",
-          "政策・インフラ"
+          "技術・製品",
+          "市場・資金"
         ],
         "breakdown": {
           "required": true,
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
           "market": {
             "matches": 1,
             "catScore": 20
-          },
-          "policy": {
-            "matches": 2,
-            "catScore": 30
           },
           "sourceTrust": {
             "domain": "news.google.com",
             "multiplier": 0.8
           },
-          "freshness": 5,
+          "freshness": 10,
           "titleBonus": 10
         },
         "pass": true
@@ -1084,6 +975,114 @@
           "freshness": 2,
           "titleBonus": 10,
           "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "Joby flies Texas eVTOL routes to shape commercial airspace rules",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbWRCSlhVOWZwOVhXZnRBNG0wblhiSzItb1dzQTRYb3l4czZnTmR3Vl9LS29qQ05RMjctZUFHVTJKLVV1T2hCbklrcWptalNjV18tX3owNG5BTnNJQWwtMDVYaTMtcnpTcDZtTGtmZHF6eXdBdjgwM3Y0R2R5SU0taVdxa2VQNDI4NkdISWpXb09zRFN6eUx6TTN4S255eW9uVUR1Rlp2ampxc2VkZ2YwZC1NNXh2ZEc5SXF6TnlwaUxyMEJDLTNEYllKNGNpM3poRGNB?oc=5\" target=\"_blank\">Joby flies Texas eVTOL routes to shape commercial airspace rules</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">aerospacetestinginternational.com</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbWRCSlhVOWZwOVhXZnRBNG0wblhiSzItb1dzQTRYb3l4czZnTmR3Vl9LS29qQ05RMjctZUFHVTJKLVV1T2hCbklrcWptalNjV18tX3owNG5BTnNJQWwtMDVYaTMtcnpTcDZtTGtmZHF6eXdBdjgwM3Y0R2R5SU0taVdxa2VQNDI4NkdISWpXb09zRFN6eUx6TTN4S255eW9uVUR1Rlp2ampxc2VkZ2YwZC1NNXh2ZEc5SXF6TnlwaUxyMEJDLTNEYllKNGNpM3poRGNB?oc=5\" target=\"_blank\">Joby flies Texas eVTOL routes to shape commercial airspace rules</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">aerospacetestinginternational.com</font>",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbWRCSlhVOWZwOVhXZnRBNG0wblhiSzItb1dzQTRYb3l4czZnTmR3Vl9LS29qQ05RMjctZUFHVTJKLVV1T2hCbklrcWptalNjV18tX3owNG5BTnNJQWwtMDVYaTMtcnpTcDZtTGtmZHF6eXdBdjgwM3Y0R2R5SU0taVdxa2VQNDI4NkdISWpXb09zRFN6eUx6TTN4S255eW9uVUR1Rlp2ampxc2VkZ2YwZC1NNXh2ZEc5SXF6TnlwaUxyMEJDLTNEYllKNGNpM3poRGNB?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbWRCSlhVOWZwOVhXZnRBNG0wblhiSzItb1dzQTRYb3l4czZnTmR3Vl9LS29qQ05RMjctZUFHVTJKLVV1T2hCbklrcWptalNjV18tX3owNG5BTnNJQWwtMDVYaTMtcnpTcDZtTGtmZHF6eXdBdjgwM3Y0R2R5SU0taVdxa2VQNDI4NkdISWpXb09zRFN6eUx6TTN4S255eW9uVUR1Rlp2ampxc2VkZ2YwZC1NNXh2ZEc5SXF6TnlwaUxyMEJDLTNEYllKNGNpM3poRGNB?oc=5",
+      "publishedAt": "2026-09-11T09:03:20.000Z",
+      "source": "aerospacetestinginternational.com",
+      "_feedRegion": "us",
+      "_feedName": "FAA",
+      "_scoring": {
+        "score": 52,
+        "categories": [
+          "規制・政策",
+          "市場・資金"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
+          "market": {
+            "matches": 1,
+            "catScore": 20
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 0,
+          "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "Europe’s drone trade associations seek amendments to EASA’s “U-space light” proposal",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQWGhYcklTRVBtSFllQWhSWWZuX0xQVnprMUtxSS1Zb0lkX3g5N1RMNjZkdWxWck55M19Fb2xwbW9pRnBjM0h3TXBOZUIybzI1cC13bE9qdk82SFYxdmVTSUhUZXVYQ2FMTnl6MXNIdVl0SGRJeU1rd0RKYmQ3bi1obGNZVG9OMkVKeWZoWnByX3JETUUyZ29jWmp5cWtvb0NBS2c?oc=5\" target=\"_blank\">Europe’s drone trade associations seek amendments to EASA’s “U-space light” proposal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQWGhYcklTRVBtSFllQWhSWWZuX0xQVnprMUtxSS1Zb0lkX3g5N1RMNjZkdWxWck55M19Fb2xwbW9pRnBjM0h3TXBOZUIybzI1cC13bE9qdk82SFYxdmVTSUhUZXVYQ2FMTnl6MXNIdVl0SGRJeU1rd0RKYmQ3bi1obGNZVG9OMkVKeWZoWnByX3JETUUyZ29jWmp5cWtvb0NBS2c?oc=5\" target=\"_blank\">Europe’s drone trade associations seek amendments to EASA’s “U-space light” proposal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWGhYcklTRVBtSFllQWhSWWZuX0xQVnprMUtxSS1Zb0lkX3g5N1RMNjZkdWxWck55M19Fb2xwbW9pRnBjM0h3TXBOZUIybzI1cC13bE9qdk82SFYxdmVTSUhUZXVYQ2FMTnl6MXNIdVl0SGRJeU1rd0RKYmQ3bi1obGNZVG9OMkVKeWZoWnByX3JETUUyZ29jWmp5cWtvb0NBS2c?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWGhYcklTRVBtSFllQWhSWWZuX0xQVnprMUtxSS1Zb0lkX3g5N1RMNjZkdWxWck55M19Fb2xwbW9pRnBjM0h3TXBOZUIybzI1cC13bE9qdk82SFYxdmVTSUhUZXVYQ2FMTnl6MXNIdVl0SGRJeU1rd0RKYmQ3bi1obGNZVG9OMkVKeWZoWnByX3JETUUyZ29jWmp5cWtvb0NBS2c?oc=5",
+      "publishedAt": "2026-09-04T12:17:00.000Z",
+      "source": "Unmanned airspace",
+      "_feedRegion": "eu",
+      "_feedName": "EASA",
+      "_scoring": {
+        "score": 52,
+        "categories": [
+          "規制・政策",
+          "市場・資金"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
+          "market": {
+            "matches": 1,
+            "catScore": 20
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 0,
+          "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "Karnataka in India to open drone testing hub for BVLOS and other complex operations",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQMWtmdHh0YUFMMmRkTDdKX2pQMzBNRm1IZTViUjNvWmF5c2twODZHM3Rnc2djamRnU2hXU0tBeVlIVTJWWmFZUVFxSGVSc0dDSmhrQ2hjemw5STF4X3BkSEtzM1RBR0VnQUFDYWYxUFk5VnJyNjQ2MnNtRE1Lc1RKRXh2NzRraHlOMjZ4enNacUdhaG1seUw4SGZCUzFrQmhZUFFWcDl5cXNha3pNdllVNVdtblhNVXRBRTRxdThPQ3pyTm9TN3dBaFR6YnY?oc=5\" target=\"_blank\">Karnataka in India to open drone testing hub for BVLOS and other complex operations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQMWtmdHh0YUFMMmRkTDdKX2pQMzBNRm1IZTViUjNvWmF5c2twODZHM3Rnc2djamRnU2hXU0tBeVlIVTJWWmFZUVFxSGVSc0dDSmhrQ2hjemw5STF4X3BkSEtzM1RBR0VnQUFDYWYxUFk5VnJyNjQ2MnNtRE1Lc1RKRXh2NzRraHlOMjZ4enNacUdhaG1seUw4SGZCUzFrQmhZUFFWcDl5cXNha3pNdllVNVdtblhNVXRBRTRxdThPQ3pyTm9TN3dBaFR6YnY?oc=5\" target=\"_blank\">Karnataka in India to open drone testing hub for BVLOS and other complex operations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQMWtmdHh0YUFMMmRkTDdKX2pQMzBNRm1IZTViUjNvWmF5c2twODZHM3Rnc2djamRnU2hXU0tBeVlIVTJWWmFZUVFxSGVSc0dDSmhrQ2hjemw5STF4X3BkSEtzM1RBR0VnQUFDYWYxUFk5VnJyNjQ2MnNtRE1Lc1RKRXh2NzRraHlOMjZ4enNacUdhaG1seUw4SGZCUzFrQmhZUFFWcDl5cXNha3pNdllVNVdtblhNVXRBRTRxdThPQ3pyTm9TN3dBaFR6YnY?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQMWtmdHh0YUFMMmRkTDdKX2pQMzBNRm1IZTViUjNvWmF5c2twODZHM3Rnc2djamRnU2hXU0tBeVlIVTJWWmFZUVFxSGVSc0dDSmhrQ2hjemw5STF4X3BkSEtzM1RBR0VnQUFDYWYxUFk5VnJyNjQ2MnNtRE1Lc1RKRXh2NzRraHlOMjZ4enNacUdhaG1seUw4SGZCUzFrQmhZUFFWcDl5cXNha3pNdllVNVdtblhNVXRBRTRxdThPQ3pyTm9TN3dBaFR6YnY?oc=5",
+      "publishedAt": "2026-09-11T09:03:49.000Z",
+      "source": "Unmanned airspace",
+      "_feedRegion": "eu",
+      "_feedName": "EASA",
+      "_scoring": {
+        "score": 52,
+        "categories": [
+          "規制・政策",
+          "市場・資金"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
+          "market": {
+            "matches": 1,
+            "catScore": 20
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 0,
+          "titleBonus": 10
         },
         "pass": true
       }
