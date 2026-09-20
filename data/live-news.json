@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-20T00:51:27.724Z",
-  "rawCount": 645,
+  "generatedAt": "2026-09-20T05:54:59.993Z",
+  "rawCount": 639,
   "articles": [
     {
       "title": "【独自】ライトアップ撮影のドローンが名古屋市役所の西庁舎に衝突 愛知県からの委託で撮影中に事故 国に「飛行計画」出されておらず 航空法違反か（CBCテレビ）",
@@ -13,7 +13,7 @@
       "_feedRegion": "jp",
       "_feedName": "Google News (JP)",
       "_scoring": {
-        "score": 89,
+        "score": 84,
         "categories": [
           "規制・政策",
           "事故・事件"
@@ -32,7 +32,7 @@
             "domain": "news.google.com",
             "multiplier": 0.8
           },
-          "freshness": 10,
+          "freshness": 5,
           "titleBonus": 10,
           "jpRegionBonus": 15
         },
@@ -50,7 +50,7 @@
       "_feedRegion": "jp",
       "_feedName": "Google News (JP 経済メディア)",
       "_scoring": {
-        "score": 88,
+        "score": 83,
         "categories": [
           "規制・政策",
           "事故・事件"
@@ -69,7 +69,7 @@
             "domain": "news.google.com",
             "multiplier": 0.8
           },
-          "freshness": 15,
+          "freshness": 10,
           "titleBonus": 10,
           "jpRegionBonus": 15
         },
@@ -85,7 +85,7 @@
       "publishedAt": "2026-09-16T06:50:31.000Z",
       "source": "lnews.jp",
       "_feedRegion": "jp",
-      "_feedName": "Google News (JP)",
+      "_feedName": "Google News (JP 政策/実証)",
       "_scoring": {
         "score": 76,
         "categories": [
@@ -156,7 +156,7 @@
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTFByMTVrN01nY3FrTHNfTzA0YkRxMXhsQTNuZ1ozWGhpZUtmVmxXRURhcDBnQ0I3c2g5Zzh2SE9yWFptOTUwUmNSX2F5alFaaXM?oc=5\" target=\"_blank\">日本商用ドローン市場は2035年に290億8,830万米ドルへ、CAGR31.26％の急成長｜物流・点検・農業で進む商用化</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">アットプレス</font>",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFByMTVrN01nY3FrTHNfTzA0YkRxMXhsQTNuZ1ozWGhpZUtmVmxXRURhcDBnQ0I3c2g5Zzh2SE9yWFptOTUwUmNSX2F5alFaaXM?oc=5",
       "googleNewsUrl": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFByMTVrN01nY3FrTHNfTzA0YkRxMXhsQTNuZ1ozWGhpZUtmVmxXRURhcDBnQ0I3c2g5Zzh2SE9yWFptOTUwUmNSX2F5alFaaXM?oc=5",
-      "publishedAt": "2026-09-11T04:05:00.000Z",
+      "publishedAt": "2026-09-11T07:00:00.000Z",
       "source": "アットプレス",
       "_feedRegion": "jp",
       "_feedName": "Google News (JP 事業者/実装)",
@@ -173,43 +173,6 @@
             "catScore": 32
           },
           "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 0,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "ドイツ、破壊工作への防御強化へ 空港ドローン事件受け | ロイター",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQSmVZNU96Qjdqb19zcG1JUF84QmtBSWxOQkJjVDZEdTV6R2U3aHBPYWZldlBIVTdnY0F5amY2Qm1peFRienk3bWhLeW1TVHgtSWRZek5oZkl4cEZkaU1BcDBZenJJaTB2Q3VVSV9QcnNscjVUY3pwM3BsVlVSODQ4YUZxY09QQQ?oc=5\" target=\"_blank\">ドイツ、破壊工作への防御強化へ 空港ドローン事件受け | ロイター</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQSmVZNU96Qjdqb19zcG1JUF84QmtBSWxOQkJjVDZEdTV6R2U3aHBPYWZldlBIVTdnY0F5amY2Qm1peFRienk3bWhLeW1TVHgtSWRZek5oZkl4cEZkaU1BcDBZenJJaTB2Q3VVSV9QcnNscjVUY3pwM3BsVlVSODQ4YUZxY09QQQ?oc=5\" target=\"_blank\">ドイツ、破壊工作への防御強化へ 空港ドローン事件受け | ロイター</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSmVZNU96Qjdqb19zcG1JUF84QmtBSWxOQkJjVDZEdTV6R2U3aHBPYWZldlBIVTdnY0F5amY2Qm1peFRienk3bWhLeW1TVHgtSWRZek5oZkl4cEZkaU1BcDBZenJJaTB2Q3VVSV9QcnNscjVUY3pwM3BsVlVSODQ4YUZxY09QQQ?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSmVZNU96Qjdqb19zcG1JUF84QmtBSWxOQkJjVDZEdTV6R2U3aHBPYWZldlBIVTdnY0F5amY2Qm1peFRienk3bWhLeW1TVHgtSWRZek5oZkl4cEZkaU1BcDBZenJJaTB2Q3VVSV9QcnNscjVUY3pwM3BsVlVSODQ4YUZxY09QQQ?oc=5",
-      "publishedAt": "2026-09-06T07:00:00.000Z",
-      "source": "Reuters",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP)",
-      "_scoring": {
-        "score": 67,
-        "categories": [
-          "事故・事件",
-          "政策・インフラ"
-        ],
-        "breakdown": {
-          "required": true,
-          "incident": {
-            "matches": 1,
-            "catScore": 28
-          },
-          "policy": {
             "matches": 1,
             "catScore": 24
           },
@@ -300,12 +263,12 @@
     },
     {
       "title": "防衛装備庁、迎撃ドローンでテラドローンと量産調達契約 | ロイター",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOc3U2Z3U3YURCV0xsU3VGbkRnMHZ4WlNoYnJOSm05SEJoanBHUmI5eGpkNHNMOWtJUm1NWEpGeGYya25fTTlsRERvcVYtMWZJbWs0UFFHMzI0X2VVTnNEa3BFRWluQnptazBiWWVCbjVDdFdEeHh4QVN0R1Q3aFVvNmE3MA?oc=5\" target=\"_blank\">防衛装備庁、迎撃ドローンでテラドローンと量産調達契約 | ロイター</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOc3U2Z3U3YURCV0xsU3VGbkRnMHZ4WlNoYnJOSm05SEJoanBHUmI5eGpkNHNMOWtJUm1NWEpGeGYya25fTTlsRERvcVYtMWZJbWs0UFFHMzI0X2VVTnNEa3BFRWluQnptazBiWWVCbjVDdFdEeHh4QVN0R1Q3aFVvNmE3MA?oc=5\" target=\"_blank\">防衛装備庁、迎撃ドローンでテラドローンと量産調達契約 | ロイター</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOc3U2Z3U3YURCV0xsU3VGbkRnMHZ4WlNoYnJOSm05SEJoanBHUmI5eGpkNHNMOWtJUm1NWEpGeGYya25fTTlsRERvcVYtMWZJbWs0UFFHMzI0X2VVTnNEa3BFRWluQnptazBiWWVCbjVDdFdEeHh4QVN0R1Q3aFVvNmE3MA?oc=5\" target=\"_blank\">防衛装備庁、迎撃ドローンでテラドローンと量産調達契約 | ロイター</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">reuters.com</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOc3U2Z3U3YURCV0xsU3VGbkRnMHZ4WlNoYnJOSm05SEJoanBHUmI5eGpkNHNMOWtJUm1NWEpGeGYya25fTTlsRERvcVYtMWZJbWs0UFFHMzI0X2VVTnNEa3BFRWluQnptazBiWWVCbjVDdFdEeHh4QVN0R1Q3aFVvNmE3MA?oc=5\" target=\"_blank\">防衛装備庁、迎撃ドローンでテラドローンと量産調達契約 | ロイター</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">reuters.com</font>",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOc3U2Z3U3YURCV0xsU3VGbkRnMHZ4WlNoYnJOSm05SEJoanBHUmI5eGpkNHNMOWtJUm1NWEpGeGYya25fTTlsRERvcVYtMWZJbWs0UFFHMzI0X2VVTnNEa3BFRWluQnptazBiWWVCbjVDdFdEeHh4QVN0R1Q3aFVvNmE3MA?oc=5",
       "googleNewsUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOc3U2Z3U3YURCV0xsU3VGbkRnMHZ4WlNoYnJOSm05SEJoanBHUmI5eGpkNHNMOWtJUm1NWEpGeGYya25fTTlsRERvcVYtMWZJbWs0UFFHMzI0X2VVTnNEa3BFRWluQnptazBiWWVCbjVDdFdEeHh4QVN0R1Q3aFVvNmE3MA?oc=5",
       "publishedAt": "2026-08-25T07:00:00.000Z",
-      "source": "Reuters",
+      "source": "reuters.com",
       "_feedRegion": "jp",
       "_feedName": "Google News (JP 政策/実証)",
       "_scoring": {
@@ -521,43 +484,6 @@
       }
     },
     {
-      "title": "三菱重工とＮＥＣ、防衛で提携 ドローンやＡＩ技術開発 | | 全国のニュース",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE40enpvM1hMQzM3MFZMa1hLcXBmT0JhUGFTZUJJd3I2XzVyY05MT2lDVFlob1MteUZjLXNnOEwySVMxZVpOME94VW5SNktlQ25QLUp0aWdR?oc=5\" target=\"_blank\">三菱重工とＮＥＣ、防衛で提携 ドローンやＡＩ技術開発 | | 全国のニュース</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">佐賀新聞</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE40enpvM1hMQzM3MFZMa1hLcXBmT0JhUGFTZUJJd3I2XzVyY05MT2lDVFlob1MteUZjLXNnOEwySVMxZVpOME94VW5SNktlQ25QLUp0aWdR?oc=5\" target=\"_blank\">三菱重工とＮＥＣ、防衛で提携 ドローンやＡＩ技術開発 | | 全国のニュース</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">佐賀新聞</font>",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE40enpvM1hMQzM3MFZMa1hLcXBmT0JhUGFTZUJJd3I2XzVyY05MT2lDVFlob1MteUZjLXNnOEwySVMxZVpOME94VW5SNktlQ25QLUp0aWdR?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE40enpvM1hMQzM3MFZMa1hLcXBmT0JhUGFTZUJJd3I2XzVyY05MT2lDVFlob1MteUZjLXNnOEwySVMxZVpOME94VW5SNktlQ25QLUp0aWdR?oc=5",
-      "publishedAt": "2026-09-02T07:00:00.000Z",
-      "source": "佐賀新聞",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP 政策/実証)",
-      "_scoring": {
-        "score": 60,
-        "categories": [
-          "技術・製品",
-          "市場・資金"
-        ],
-        "breakdown": {
-          "required": true,
-          "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "market": {
-            "matches": 1,
-            "catScore": 20
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 0,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
       "title": "三菱重工とＮＥＣ、防衛で提携 ドローンやＡＩ技術開発｜全国のニュース｜Web東奥",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE0zbWF2RTAwbTVNQ2UxTVZjVGRsVTFaMkVUYTQ3N1RlNHZxNTdDNldjS0huVDV6b1luNlk2eEFQTTV6am1Sd0ZMcnI0a0gybTh5TmdvQjU2VjA?oc=5\" target=\"_blank\">三菱重工とＮＥＣ、防衛で提携 ドローンやＡＩ技術開発｜全国のニュース｜Web東奥</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">東奥日報社</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE0zbWF2RTAwbTVNQ2UxTVZjVGRsVTFaMkVUYTQ3N1RlNHZxNTdDNldjS0huVDV6b1luNlk2eEFQTTV6am1Sd0ZMcnI0a0gybTh5TmdvQjU2VjA?oc=5\" target=\"_blank\">三菱重工とＮＥＣ、防衛で提携 ドローンやＡＩ技術開発｜全国のニュース｜Web東奥</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">東奥日報社</font>",
@@ -632,13 +558,13 @@
       }
     },
     {
-      "title": "テラドローン、国産迎撃ドローン「Terra B1」の量産契約を締結 9月に海自へ納入",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE5rN2tqUTRJcVpmU3pRazBYM1NadnVqNXJMYU1yYlV4Z0h4Y1N6ZXQ2Xy1GWmlSRWQyYnZpX25jVlV1RWxVV1ZsMFNpdnVyc3VZd3lGOThSMldRaXI0VnM5cnd0SlVYOHh5NzdOMWU4ekR5Znc2?oc=5\" target=\"_blank\">テラドローン、国産迎撃ドローン「Terra B1」の量産契約を締結 9月に海自へ納入</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BigGo ファイナンス</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE5rN2tqUTRJcVpmU3pRazBYM1NadnVqNXJMYU1yYlV4Z0h4Y1N6ZXQ2Xy1GWmlSRWQyYnZpX25jVlV1RWxVV1ZsMFNpdnVyc3VZd3lGOThSMldRaXI0VnM5cnd0SlVYOHh5NzdOMWU4ekR5Znc2?oc=5\" target=\"_blank\">テラドローン、国産迎撃ドローン「Terra B1」の量産契約を締結 9月に海自へ納入</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BigGo ファイナンス</font>",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5rN2tqUTRJcVpmU3pRazBYM1NadnVqNXJMYU1yYlV4Z0h4Y1N6ZXQ2Xy1GWmlSRWQyYnZpX25jVlV1RWxVV1ZsMFNpdnVyc3VZd3lGOThSMldRaXI0VnM5cnd0SlVYOHh5NzdOMWU4ekR5Znc2?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5rN2tqUTRJcVpmU3pRazBYM1NadnVqNXJMYU1yYlV4Z0h4Y1N6ZXQ2Xy1GWmlSRWQyYnZpX25jVlV1RWxVV1ZsMFNpdnVyc3VZd3lGOThSMldRaXI0VnM5cnd0SlVYOHh5NzdOMWU4ekR5Znc2?oc=5",
-      "publishedAt": "2026-08-25T07:00:00.000Z",
-      "source": "BigGo ファイナンス",
+      "title": "テラドローンの国産迎撃ドローン「Terra B1」が防衛装備庁の実証試験を単独通過 量産調達フェーズへ",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTFBkOHZhVXhpei1QOHVUd253MDZoM2FIb2l1Zi1jTHNKVWpZWndQOExWY28yZ1FoZmxlWDZsWnAwclBveEpRcUp5RkhhN0hLR28yQWVtLU9zbGN4NFRpaXBXblRvUXNNTHZRQjNzSldn?oc=5\" target=\"_blank\">テラドローンの国産迎撃ドローン「Terra B1」が防衛装備庁の実証試験を単独通過 量産調達フェーズへ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">au Webポータル</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTFBkOHZhVXhpei1QOHVUd253MDZoM2FIb2l1Zi1jTHNKVWpZWndQOExWY28yZ1FoZmxlWDZsWnAwclBveEpRcUp5RkhhN0hLR28yQWVtLU9zbGN4NFRpaXBXblRvUXNNTHZRQjNzSldn?oc=5\" target=\"_blank\">テラドローンの国産迎撃ドローン「Terra B1」が防衛装備庁の実証試験を単独通過 量産調達フェーズへ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">au Webポータル</font>",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBkOHZhVXhpei1QOHVUd253MDZoM2FIb2l1Zi1jTHNKVWpZWndQOExWY28yZ1FoZmxlWDZsWnAwclBveEpRcUp5RkhhN0hLR28yQWVtLU9zbGN4NFRpaXBXblRvUXNNTHZRQjNzSldn?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBkOHZhVXhpei1QOHVUd253MDZoM2FIb2l1Zi1jTHNKVWpZWndQOExWY28yZ1FoZmxlWDZsWnAwclBveEpRcUp5RkhhN0hLR28yQWVtLU9zbGN4NFRpaXBXblRvUXNNTHZRQjNzSldn?oc=5",
+      "publishedAt": "2026-08-26T07:00:00.000Z",
+      "source": "au Webポータル",
       "_feedRegion": "jp",
       "_feedName": "Google News (JP 政策/実証)",
       "_scoring": {
@@ -662,38 +588,6 @@
             "multiplier": 0.8
           },
           "freshness": 0,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "ウクライナがジェット推進式迎撃ドローンの開発に成功、ロシア軍のジェット推進式シャヘド自爆無人機を迎撃",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbi1yQUxpOURkR0g2RXdYU0tWS1lOV1E4R0FpSkZycVVjelFuaFR6Q3ZBekREMTNQOGYwSmRjcnVYUS1hUHJ2d0NuZzY5bkVQcU0yWnAyRnhLajdDd1pPclg1Z2xMS2lWOEgtQkxLWl8zMlNHV1pqNDJTTXJfNkowX2NidnctclB6?oc=5\" target=\"_blank\">ウクライナがジェット推進式迎撃ドローンの開発に成功、ロシア軍のジェット推進式シャヘド自爆無人機を迎撃</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbi1yQUxpOURkR0g2RXdYU0tWS1lOV1E4R0FpSkZycVVjelFuaFR6Q3ZBekREMTNQOGYwSmRjcnVYUS1hUHJ2d0NuZzY5bkVQcU0yWnAyRnhLajdDd1pPclg1Z2xMS2lWOEgtQkxLWl8zMlNHV1pqNDJTTXJfNkowX2NidnctclB6?oc=5\" target=\"_blank\">ウクライナがジェット推進式迎撃ドローンの開発に成功、ロシア軍のジェット推進式シャヘド自爆無人機を迎撃</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbi1yQUxpOURkR0g2RXdYU0tWS1lOV1E4R0FpSkZycVVjelFuaFR6Q3ZBekREMTNQOGYwSmRjcnVYUS1hUHJ2d0NuZzY5bkVQcU0yWnAyRnhLajdDd1pPclg1Z2xMS2lWOEgtQkxLWl8zMlNHV1pqNDJTTXJfNkowX2NidnctclB6?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbi1yQUxpOURkR0g2RXdYU0tWS1lOV1E4R0FpSkZycVVjelFuaFR6Q3ZBekREMTNQOGYwSmRjcnVYUS1hUHJ2d0NuZzY5bkVQcU0yWnAyRnhLajdDd1pPclg1Z2xMS2lWOEgtQkxLWl8zMlNHV1pqNDJTTXJfNkowX2NidnctclB6?oc=5",
-      "publishedAt": "2026-09-19T21:36:42.000Z",
-      "source": "Yahoo!ニュース",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP)",
-      "_scoring": {
-        "score": 59,
-        "categories": [
-          "技術・製品"
-        ],
-        "breakdown": {
-          "required": true,
-          "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 15,
           "titleBonus": 10,
           "jpRegionBonus": 15
         },
@@ -738,12 +632,12 @@
     },
     {
       "title": "Northern Plains UAS Test Site Flies Medical and Agricultural BVLOS Demos on Vantis at NASAO",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxONnFFSzRaVTFWdnZUdUZkcV9IQlRHQmNYVXpRWnoxRWkxTFBmMC1mZ3RJRUtjbE5ocVA1NXdqVF9FeXR4bDZXYjV5WHNXU2VPZnY1R25iQXlfSzdxczE5MWNxRDNWQ1Uwak9wVXJ4blN5VTdPdDJBV0Z3dmJrUDVjSHdCZWdNZ0tmU19TUFI0T3JpX3E2RXVpTUs2MDRJS0toQXpBbE9IaTZVTkxaREM0c2dzVjVITnlEOTg0dk1JcHlpcGM?oc=5\" target=\"_blank\">Northern Plains UAS Test Site Flies Medical and Agricultural BVLOS Demos on Vantis at NASAO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dronelife</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxONnFFSzRaVTFWdnZUdUZkcV9IQlRHQmNYVXpRWnoxRWkxTFBmMC1mZ3RJRUtjbE5ocVA1NXdqVF9FeXR4bDZXYjV5WHNXU2VPZnY1R25iQXlfSzdxczE5MWNxRDNWQ1Uwak9wVXJ4blN5VTdPdDJBV0Z3dmJrUDVjSHdCZWdNZ0tmU19TUFI0T3JpX3E2RXVpTUs2MDRJS0toQXpBbE9IaTZVTkxaREM0c2dzVjVITnlEOTg0dk1JcHlpcGM?oc=5\" target=\"_blank\">Northern Plains UAS Test Site Flies Medical and Agricultural BVLOS Demos on Vantis at NASAO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dronelife</font>",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxONnFFSzRaVTFWdnZUdUZkcV9IQlRHQmNYVXpRWnoxRWkxTFBmMC1mZ3RJRUtjbE5ocVA1NXdqVF9FeXR4bDZXYjV5WHNXU2VPZnY1R25iQXlfSzdxczE5MWNxRDNWQ1Uwak9wVXJ4blN5VTdPdDJBV0Z3dmJrUDVjSHdCZWdNZ0tmU19TUFI0T3JpX3E2RXVpTUs2MDRJS0toQXpBbE9IaTZVTkxaREM0c2dzVjVITnlEOTg0dk1JcHlpcGM?oc=5\" target=\"_blank\">Northern Plains UAS Test Site Flies Medical and Agricultural BVLOS Demos on Vantis at NASAO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">dronelife.com</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxONnFFSzRaVTFWdnZUdUZkcV9IQlRHQmNYVXpRWnoxRWkxTFBmMC1mZ3RJRUtjbE5ocVA1NXdqVF9FeXR4bDZXYjV5WHNXU2VPZnY1R25iQXlfSzdxczE5MWNxRDNWQ1Uwak9wVXJ4blN5VTdPdDJBV0Z3dmJrUDVjSHdCZWdNZ0tmU19TUFI0T3JpX3E2RXVpTUs2MDRJS0toQXpBbE9IaTZVTkxaREM0c2dzVjVITnlEOTg0dk1JcHlpcGM?oc=5\" target=\"_blank\">Northern Plains UAS Test Site Flies Medical and Agricultural BVLOS Demos on Vantis at NASAO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">dronelife.com</font>",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONnFFSzRaVTFWdnZUdUZkcV9IQlRHQmNYVXpRWnoxRWkxTFBmMC1mZ3RJRUtjbE5ocVA1NXdqVF9FeXR4bDZXYjV5WHNXU2VPZnY1R25iQXlfSzdxczE5MWNxRDNWQ1Uwak9wVXJ4blN5VTdPdDJBV0Z3dmJrUDVjSHdCZWdNZ0tmU19TUFI0T3JpX3E2RXVpTUs2MDRJS0toQXpBbE9IaTZVTkxaREM0c2dzVjVITnlEOTg0dk1JcHlpcGM?oc=5",
       "googleNewsUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONnFFSzRaVTFWdnZUdUZkcV9IQlRHQmNYVXpRWnoxRWkxTFBmMC1mZ3RJRUtjbE5ocVA1NXdqVF9FeXR4bDZXYjV5WHNXU2VPZnY1R25iQXlfSzdxczE5MWNxRDNWQ1Uwak9wVXJ4blN5VTdPdDJBV0Z3dmJrUDVjSHdCZWdNZ0tmU19TUFI0T3JpX3E2RXVpTUs2MDRJS0toQXpBbE9IaTZVTkxaREM0c2dzVjVITnlEOTg0dk1JcHlpcGM?oc=5",
       "publishedAt": "2026-09-17T22:23:06.000Z",
-      "source": "Dronelife",
+      "source": "dronelife.com",
       "_feedRegion": "us",
       "_feedName": "FAA",
       "_scoring": {
@@ -773,13 +667,13 @@
       }
     },
     {
-      "title": "Unmanned Safety Institute (USI) Launches Industry Advisory Board to Help Prepare the UAS Workforce for What Comes Next - 24-7PressRelease.com",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxOaVJhaXI0Z2szS2dFQnF0Umt3T3hkMkVmb3d5eUVnOVJnXzAyVjVPZkY0TDdtQUpfQnJUeC01Wk5uWWhBakdwU19ZUHl1REtVa0VkbGNSeE9ERnc2MVdTMEtsZGVSUnRJc3JTb0V3SEJHMVpmMjZ2VnMwX24tWkl0WUtERHlCb0psTHJRNU40amxqSFB0TWZTQzRYVHZ5TDlvR25OM0FYRmlFMGtCdl9PVXlENG1xOTNtT214RGZHd0lRSjRtMmN6YW9yaXBVSC04NkF5VXlxZ1ptajNwX091THE5aEFrczFIdHRFdmhNdjFlcURlazBFVG9hMW1ZNHc?oc=5\" target=\"_blank\">Unmanned Safety Institute (USI) Launches Industry Advisory Board to Help Prepare the UAS Workforce for What Comes Next</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">24-7PressRelease.com</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxOaVJhaXI0Z2szS2dFQnF0Umt3T3hkMkVmb3d5eUVnOVJnXzAyVjVPZkY0TDdtQUpfQnJUeC01Wk5uWWhBakdwU19ZUHl1REtVa0VkbGNSeE9ERnc2MVdTMEtsZGVSUnRJc3JTb0V3SEJHMVpmMjZ2VnMwX24tWkl0WUtERHlCb0psTHJRNU40amxqSFB0TWZTQzRYVHZ5TDlvR25OM0FYRmlFMGtCdl9PVXlENG1xOTNtT214RGZHd0lRSjRtMmN6YW9yaXBVSC04NkF5VXlxZ1ptajNwX091THE5aEFrczFIdHRFdmhNdjFlcURlazBFVG9hMW1ZNHc?oc=5\" target=\"_blank\">Unmanned Safety Institute (USI) Launches Industry Advisory Board to Help Prepare the UAS Workforce for What Comes Next</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">24-7PressRelease.com</font>",
+      "title": "Unmanned Safety Institute (USI) Launches Industry Advisory Board to Help Prepare the UAS Workforce for What Comes Next - 24-7pressrelease.com",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxOaVJhaXI0Z2szS2dFQnF0Umt3T3hkMkVmb3d5eUVnOVJnXzAyVjVPZkY0TDdtQUpfQnJUeC01Wk5uWWhBakdwU19ZUHl1REtVa0VkbGNSeE9ERnc2MVdTMEtsZGVSUnRJc3JTb0V3SEJHMVpmMjZ2VnMwX24tWkl0WUtERHlCb0psTHJRNU40amxqSFB0TWZTQzRYVHZ5TDlvR25OM0FYRmlFMGtCdl9PVXlENG1xOTNtT214RGZHd0lRSjRtMmN6YW9yaXBVSC04NkF5VXlxZ1ptajNwX091THE5aEFrczFIdHRFdmhNdjFlcURlazBFVG9hMW1ZNHc?oc=5\" target=\"_blank\">Unmanned Safety Institute (USI) Launches Industry Advisory Board to Help Prepare the UAS Workforce for What Comes Next</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">24-7pressrelease.com</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxOaVJhaXI0Z2szS2dFQnF0Umt3T3hkMkVmb3d5eUVnOVJnXzAyVjVPZkY0TDdtQUpfQnJUeC01Wk5uWWhBakdwU19ZUHl1REtVa0VkbGNSeE9ERnc2MVdTMEtsZGVSUnRJc3JTb0V3SEJHMVpmMjZ2VnMwX24tWkl0WUtERHlCb0psTHJRNU40amxqSFB0TWZTQzRYVHZ5TDlvR25OM0FYRmlFMGtCdl9PVXlENG1xOTNtT214RGZHd0lRSjRtMmN6YW9yaXBVSC04NkF5VXlxZ1ptajNwX091THE5aEFrczFIdHRFdmhNdjFlcURlazBFVG9hMW1ZNHc?oc=5\" target=\"_blank\">Unmanned Safety Institute (USI) Launches Industry Advisory Board to Help Prepare the UAS Workforce for What Comes Next</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">24-7pressrelease.com</font>",
       "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOaVJhaXI0Z2szS2dFQnF0Umt3T3hkMkVmb3d5eUVnOVJnXzAyVjVPZkY0TDdtQUpfQnJUeC01Wk5uWWhBakdwU19ZUHl1REtVa0VkbGNSeE9ERnc2MVdTMEtsZGVSUnRJc3JTb0V3SEJHMVpmMjZ2VnMwX24tWkl0WUtERHlCb0psTHJRNU40amxqSFB0TWZTQzRYVHZ5TDlvR25OM0FYRmlFMGtCdl9PVXlENG1xOTNtT214RGZHd0lRSjRtMmN6YW9yaXBVSC04NkF5VXlxZ1ptajNwX091THE5aEFrczFIdHRFdmhNdjFlcURlazBFVG9hMW1ZNHc?oc=5",
       "googleNewsUrl": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOaVJhaXI0Z2szS2dFQnF0Umt3T3hkMkVmb3d5eUVnOVJnXzAyVjVPZkY0TDdtQUpfQnJUeC01Wk5uWWhBakdwU19ZUHl1REtVa0VkbGNSeE9ERnc2MVdTMEtsZGVSUnRJc3JTb0V3SEJHMVpmMjZ2VnMwX24tWkl0WUtERHlCb0psTHJRNU40amxqSFB0TWZTQzRYVHZ5TDlvR25OM0FYRmlFMGtCdl9PVXlENG1xOTNtT214RGZHd0lRSjRtMmN6YW9yaXBVSC04NkF5VXlxZ1ptajNwX091THE5aEFrczFIdHRFdmhNdjFlcURlazBFVG9hMW1ZNHc?oc=5",
       "publishedAt": "2026-09-18T07:14:43.000Z",
-      "source": "24-7PressRelease.com",
+      "source": "24-7pressrelease.com",
       "_feedRegion": "global",
       "_feedName": "Google News (Global)",
       "_scoring": {
@@ -878,12 +772,12 @@
     },
     {
       "title": "Texas, Joby Begin FAA-Backed Air Taxi Airport Demonstrations",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOV3FIUkRkWVo1bEliU19DN3kzeFA5UFV4cFZkdGxtRUNxd0RaRFlwRGFIX3VPbmpBMGZCT2NBU3lVVnRCa01JUXJWdzUwX0tRNVd6alVfZnoxeDNYdFRoVEhZMDlpVU5kaDh0b1ZhMkcwRDRaV0ZjVXdHUFJCdU1Ga1o1RldyZ0g4?oc=5\" target=\"_blank\">Texas, Joby Begin FAA-Backed Air Taxi Airport Demonstrations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">yahoo.com</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOV3FIUkRkWVo1bEliU19DN3kzeFA5UFV4cFZkdGxtRUNxd0RaRFlwRGFIX3VPbmpBMGZCT2NBU3lVVnRCa01JUXJWdzUwX0tRNVd6alVfZnoxeDNYdFRoVEhZMDlpVU5kaDh0b1ZhMkcwRDRaV0ZjVXdHUFJCdU1Ga1o1RldyZ0g4?oc=5\" target=\"_blank\">Texas, Joby Begin FAA-Backed Air Taxi Airport Demonstrations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">yahoo.com</font>",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOV3FIUkRkWVo1bEliU19DN3kzeFA5UFV4cFZkdGxtRUNxd0RaRFlwRGFIX3VPbmpBMGZCT2NBU3lVVnRCa01JUXJWdzUwX0tRNVd6alVfZnoxeDNYdFRoVEhZMDlpVU5kaDh0b1ZhMkcwRDRaV0ZjVXdHUFJCdU1Ga1o1RldyZ0g4?oc=5\" target=\"_blank\">Texas, Joby Begin FAA-Backed Air Taxi Airport Demonstrations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOV3FIUkRkWVo1bEliU19DN3kzeFA5UFV4cFZkdGxtRUNxd0RaRFlwRGFIX3VPbmpBMGZCT2NBU3lVVnRCa01JUXJWdzUwX0tRNVd6alVfZnoxeDNYdFRoVEhZMDlpVU5kaDh0b1ZhMkcwRDRaV0ZjVXdHUFJCdU1Ga1o1RldyZ0g4?oc=5\" target=\"_blank\">Texas, Joby Begin FAA-Backed Air Taxi Airport Demonstrations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOV3FIUkRkWVo1bEliU19DN3kzeFA5UFV4cFZkdGxtRUNxd0RaRFlwRGFIX3VPbmpBMGZCT2NBU3lVVnRCa01JUXJWdzUwX0tRNVd6alVfZnoxeDNYdFRoVEhZMDlpVU5kaDh0b1ZhMkcwRDRaV0ZjVXdHUFJCdU1Ga1o1RldyZ0g4?oc=5",
       "googleNewsUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOV3FIUkRkWVo1bEliU19DN3kzeFA5UFV4cFZkdGxtRUNxd0RaRFlwRGFIX3VPbmpBMGZCT2NBU3lVVnRCa01JUXJWdzUwX0tRNVd6alVfZnoxeDNYdFRoVEhZMDlpVU5kaDh0b1ZhMkcwRDRaV0ZjVXdHUFJCdU1Ga1o1RldyZ0g4?oc=5",
       "publishedAt": "2026-09-10T07:00:00.000Z",
-      "source": "yahoo.com",
+      "source": "Yahoo",
       "_feedRegion": "us",
       "_feedName": "FAA",
       "_scoring": {
@@ -985,6 +879,38 @@
       }
     },
     {
+      "title": "韓国「国防ドローン技術展」で最新無人機が相次ぎ墜落…軍が原因調査（KOREA WAVE）",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBnVnMzSXZiUmRUcmRKczJySFluaGltaTZKYUtEdU93VDhKWWt4Slphak9QamNxMHh5LV9UR2RwV0tJR1dkQmp6bEpGTk9IczhXWHg1LVJHd2hxTm95VVdKR1hWNnkxdjZrMEJXWjNOaUh1SUpkNDlZVVF0UndvZlU?oc=5\" target=\"_blank\">韓国「国防ドローン技術展」で最新無人機が相次ぎ墜落…軍が原因調査（KOREA WAVE）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBnVnMzSXZiUmRUcmRKczJySFluaGltaTZKYUtEdU93VDhKWWt4Slphak9QamNxMHh5LV9UR2RwV0tJR1dkQmp6bEpGTk9IczhXWHg1LVJHd2hxTm95VVdKR1hWNnkxdjZrMEJXWjNOaUh1SUpkNDlZVVF0UndvZlU?oc=5\" target=\"_blank\">韓国「国防ドローン技術展」で最新無人機が相次ぎ墜落…軍が原因調査（KOREA WAVE）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBnVnMzSXZiUmRUcmRKczJySFluaGltaTZKYUtEdU93VDhKWWt4Slphak9QamNxMHh5LV9UR2RwV0tJR1dkQmp6bEpGTk9IczhXWHg1LVJHd2hxTm95VVdKR1hWNnkxdjZrMEJXWjNOaUh1SUpkNDlZVVF0UndvZlU?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBnVnMzSXZiUmRUcmRKczJySFluaGltaTZKYUtEdU93VDhKWWt4Slphak9QamNxMHh5LV9UR2RwV0tJR1dkQmp6bEpGTk9IczhXWHg1LVJHd2hxTm95VVdKR1hWNnkxdjZrMEJXWjNOaUh1SUpkNDlZVVF0UndvZlU?oc=5",
+      "publishedAt": "2026-09-17T10:21:16.000Z",
+      "source": "Yahoo!ニュース",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP)",
+      "_scoring": {
+        "score": 55,
+        "categories": [
+          "事故・事件"
+        ],
+        "breakdown": {
+          "required": true,
+          "incident": {
+            "matches": 2,
+            "catScore": 35
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 2,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
       "title": "SkyDrive, Verty partner to develop AAM flight ops, ATM and vertiports in South Korea",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQMDJDVFRERjUyWV9uaDlHT3BQNjluYWNMZ1ptWXZrR3lfU0NjWHRVRHdoVUpUd2h1ajRMN3BDRWhsTVZLMWJ3QkVIUjIzTzZWMmZ5UXI1U1BxRlhaZHl1ZG9nd1hUXzRJWlgwUENyWWl6aVBZUHR1TjZ2Ui1PbmNYOGt3MHhPeWpVbU45NEh6a1NXN253VERrano1NUtaY0xsUUNVd1gwdDBQTGFXZ09zR1JCUHNXTE9kcTR4am1LZm5OMkdzaS1yNnduWQ?oc=5\" target=\"_blank\">SkyDrive, Verty partner to develop AAM flight ops, ATM and vertiports in South Korea</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQMDJDVFRERjUyWV9uaDlHT3BQNjluYWNMZ1ptWXZrR3lfU0NjWHRVRHdoVUpUd2h1ajRMN3BDRWhsTVZLMWJ3QkVIUjIzTzZWMmZ5UXI1U1BxRlhaZHl1ZG9nd1hUXzRJWlgwUENyWWl6aVBZUHR1TjZ2Ui1PbmNYOGt3MHhPeWpVbU45NEh6a1NXN253VERrano1NUtaY0xsUUNVd1gwdDBQTGFXZ09zR1JCUHNXTE9kcTR4am1LZm5OMkdzaS1yNnduWQ?oc=5\" target=\"_blank\">SkyDrive, Verty partner to develop AAM flight ops, ATM and vertiports in South Korea</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
@@ -1016,6 +942,38 @@
           },
           "freshness": 5,
           "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "ウクライナがジェット推進式迎撃ドローンの開発に成功、ロシア軍のジェット推進式シャヘド自爆無人機を迎撃",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbi1yQUxpOURkR0g2RXdYU0tWS1lOV1E4R0FpSkZycVVjelFuaFR6Q3ZBekREMTNQOGYwSmRjcnVYUS1hUHJ2d0NuZzY5bkVQcU0yWnAyRnhLajdDd1pPclg1Z2xMS2lWOEgtQkxLWl8zMlNHV1pqNDJTTXJfNkowX2NidnctclB6?oc=5\" target=\"_blank\">ウクライナがジェット推進式迎撃ドローンの開発に成功、ロシア軍のジェット推進式シャヘド自爆無人機を迎撃</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbi1yQUxpOURkR0g2RXdYU0tWS1lOV1E4R0FpSkZycVVjelFuaFR6Q3ZBekREMTNQOGYwSmRjcnVYUS1hUHJ2d0NuZzY5bkVQcU0yWnAyRnhLajdDd1pPclg1Z2xMS2lWOEgtQkxLWl8zMlNHV1pqNDJTTXJfNkowX2NidnctclB6?oc=5\" target=\"_blank\">ウクライナがジェット推進式迎撃ドローンの開発に成功、ロシア軍のジェット推進式シャヘド自爆無人機を迎撃</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbi1yQUxpOURkR0g2RXdYU0tWS1lOV1E4R0FpSkZycVVjelFuaFR6Q3ZBekREMTNQOGYwSmRjcnVYUS1hUHJ2d0NuZzY5bkVQcU0yWnAyRnhLajdDd1pPclg1Z2xMS2lWOEgtQkxLWl8zMlNHV1pqNDJTTXJfNkowX2NidnctclB6?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbi1yQUxpOURkR0g2RXdYU0tWS1lOV1E4R0FpSkZycVVjelFuaFR6Q3ZBekREMTNQOGYwSmRjcnVYUS1hUHJ2d0NuZzY5bkVQcU0yWnAyRnhLajdDd1pPclg1Z2xMS2lWOEgtQkxLWl8zMlNHV1pqNDJTTXJfNkowX2NidnctclB6?oc=5",
+      "publishedAt": "2026-09-19T15:25:45.000Z",
+      "source": "Yahoo!ニュース",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP)",
+      "_scoring": {
+        "score": 54,
+        "categories": [
+          "技術・製品"
+        ],
+        "breakdown": {
+          "required": true,
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 10,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
         },
         "pass": true
       }
@@ -1062,6 +1020,42 @@
       "source": "Aerospace Testing International",
       "_feedRegion": "us",
       "_feedName": "FAA",
+      "_scoring": {
+        "score": 52,
+        "categories": [
+          "規制・政策",
+          "市場・資金"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
+          "market": {
+            "matches": 1,
+            "catScore": 20
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 0,
+          "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "Karnataka in India to open drone testing hub for BVLOS and other complex operations",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQMWtmdHh0YUFMMmRkTDdKX2pQMzBNRm1IZTViUjNvWmF5c2twODZHM3Rnc2djamRnU2hXU0tBeVlIVTJWWmFZUVFxSGVSc0dDSmhrQ2hjemw5STF4X3BkSEtzM1RBR0VnQUFDYWYxUFk5VnJyNjQ2MnNtRE1Lc1RKRXh2NzRraHlOMjZ4enNacUdhaG1seUw4SGZCUzFrQmhZUFFWcDl5cXNha3pNdllVNVdtblhNVXRBRTRxdThPQ3pyTm9TN3dBaFR6YnY?oc=5\" target=\"_blank\">Karnataka in India to open drone testing hub for BVLOS and other complex operations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQMWtmdHh0YUFMMmRkTDdKX2pQMzBNRm1IZTViUjNvWmF5c2twODZHM3Rnc2djamRnU2hXU0tBeVlIVTJWWmFZUVFxSGVSc0dDSmhrQ2hjemw5STF4X3BkSEtzM1RBR0VnQUFDYWYxUFk5VnJyNjQ2MnNtRE1Lc1RKRXh2NzRraHlOMjZ4enNacUdhaG1seUw4SGZCUzFrQmhZUFFWcDl5cXNha3pNdllVNVdtblhNVXRBRTRxdThPQ3pyTm9TN3dBaFR6YnY?oc=5\" target=\"_blank\">Karnataka in India to open drone testing hub for BVLOS and other complex operations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQMWtmdHh0YUFMMmRkTDdKX2pQMzBNRm1IZTViUjNvWmF5c2twODZHM3Rnc2djamRnU2hXU0tBeVlIVTJWWmFZUVFxSGVSc0dDSmhrQ2hjemw5STF4X3BkSEtzM1RBR0VnQUFDYWYxUFk5VnJyNjQ2MnNtRE1Lc1RKRXh2NzRraHlOMjZ4enNacUdhaG1seUw4SGZCUzFrQmhZUFFWcDl5cXNha3pNdllVNVdtblhNVXRBRTRxdThPQ3pyTm9TN3dBaFR6YnY?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQMWtmdHh0YUFMMmRkTDdKX2pQMzBNRm1IZTViUjNvWmF5c2twODZHM3Rnc2djamRnU2hXU0tBeVlIVTJWWmFZUVFxSGVSc0dDSmhrQ2hjemw5STF4X3BkSEtzM1RBR0VnQUFDYWYxUFk5VnJyNjQ2MnNtRE1Lc1RKRXh2NzRraHlOMjZ4enNacUdhaG1seUw4SGZCUzFrQmhZUFFWcDl5cXNha3pNdllVNVdtblhNVXRBRTRxdThPQ3pyTm9TN3dBaFR6YnY?oc=5",
+      "publishedAt": "2026-09-11T09:03:49.000Z",
+      "source": "Unmanned airspace",
+      "_feedRegion": "eu",
+      "_feedName": "EASA",
       "_scoring": {
         "score": 52,
         "categories": [
