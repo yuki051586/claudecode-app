@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-20T23:59:42.555Z",
-  "rawCount": 638,
+  "generatedAt": "2026-09-21T04:45:51.862Z",
+  "rawCount": 641,
   "articles": [
     {
       "title": "【独自】ライトアップ撮影のドローンが名古屋市役所の西庁舎に衝突 愛知県からの委託で撮影中に事故 国に「飛行計画」出されておらず 航空法違反か（CBCテレビ）",
@@ -13,7 +13,7 @@
       "_feedRegion": "jp",
       "_feedName": "Google News (JP)",
       "_scoring": {
-        "score": 84,
+        "score": 81,
         "categories": [
           "規制・政策",
           "事故・事件"
@@ -32,7 +32,7 @@
             "domain": "news.google.com",
             "multiplier": 0.8
           },
-          "freshness": 5,
+          "freshness": 2,
           "titleBonus": 10,
           "jpRegionBonus": 15
         },
@@ -97,6 +97,43 @@
           "regulation": {
             "matches": 2,
             "catScore": 40
+          },
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 0,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "ウクライナ西部でロシアのドローンが旅客列車を攻撃、乗客ら避難 外交官ら標的か（ロイター）",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBUMk9fWlZSRDZ3Z2U4RERBck1IV1VadmFIazM5OFoySDhXQkNzTXVNMHJRVVo5WFdaaVFaaVlIT2tVLVNyNDlSQ19XWnlwbUtUQnlYdTJYUW9JNThmSTFVM202N0wzUmk0NVI0MDlaNEFsVjVJR0l4WEhyU09NMTg?oc=5\" target=\"_blank\">ウクライナ西部でロシアのドローンが旅客列車を攻撃、乗客ら避難 外交官ら標的か（ロイター）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBUMk9fWlZSRDZ3Z2U4RERBck1IV1VadmFIazM5OFoySDhXQkNzTXVNMHJRVVo5WFdaaVFaaVlIT2tVLVNyNDlSQ19XWnlwbUtUQnlYdTJYUW9JNThmSTFVM202N0wzUmk0NVI0MDlaNEFsVjVJR0l4WEhyU09NMTg?oc=5\" target=\"_blank\">ウクライナ西部でロシアのドローンが旅客列車を攻撃、乗客ら避難 外交官ら標的か（ロイター）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUMk9fWlZSRDZ3Z2U4RERBck1IV1VadmFIazM5OFoySDhXQkNzTXVNMHJRVVo5WFdaaVFaaVlIT2tVLVNyNDlSQ19XWnlwbUtUQnlYdTJYUW9JNThmSTFVM202N0wzUmk0NVI0MDlaNEFsVjVJR0l4WEhyU09NMTg?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUMk9fWlZSRDZ3Z2U4RERBck1IV1VadmFIazM5OFoySDhXQkNzTXVNMHJRVVo5WFdaaVFaaVlIT2tVLVNyNDlSQ19XWnlwbUtUQnlYdTJYUW9JNThmSTFVM202N0wzUmk0NVI0MDlaNEFsVjVJR0l4WEhyU09NMTg?oc=5",
+      "publishedAt": "2026-09-14T23:51:58.000Z",
+      "source": "Yahoo!ニュース",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP)",
+      "_scoring": {
+        "score": 70,
+        "categories": [
+          "規制・政策",
+          "技術・製品"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
           },
           "technology": {
             "matches": 1,
@@ -188,13 +225,45 @@
       }
     },
     {
+      "title": "北京でドローン所持禁止へ 市から300キロ圏飛行も規制 高層ビル衝突受け、上空の安全優先か（西日本新聞me）",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1ubEVyb0pXNVlMaFZGZV9wbEdIelVQTUNCOENUUmZQdTk2T3ptbk5aWGZ1Z1NNcHYtTFlnelh5eGdIOUlLYWJsa01YUnpZT2FORjlLcmRxbHg4NDZhT0hYa2xURGV0V3dTNzItcjQyNDJ5dlFFNUlxdWNlM1FVMTQ?oc=5\" target=\"_blank\">北京でドローン所持禁止へ 市から300キロ圏飛行も規制 高層ビル衝突受け、上空の安全優先か（西日本新聞me）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1ubEVyb0pXNVlMaFZGZV9wbEdIelVQTUNCOENUUmZQdTk2T3ptbk5aWGZ1Z1NNcHYtTFlnelh5eGdIOUlLYWJsa01YUnpZT2FORjlLcmRxbHg4NDZhT0hYa2xURGV0V3dTNzItcjQyNDJ5dlFFNUlxdWNlM1FVMTQ?oc=5\" target=\"_blank\">北京でドローン所持禁止へ 市から300キロ圏飛行も規制 高層ビル衝突受け、上空の安全優先か（西日本新聞me）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ubEVyb0pXNVlMaFZGZV9wbEdIelVQTUNCOENUUmZQdTk2T3ptbk5aWGZ1Z1NNcHYtTFlnelh5eGdIOUlLYWJsa01YUnpZT2FORjlLcmRxbHg4NDZhT0hYa2xURGV0V3dTNzItcjQyNDJ5dlFFNUlxdWNlM1FVMTQ?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ubEVyb0pXNVlMaFZGZV9wbEdIelVQTUNCOENUUmZQdTk2T3ptbk5aWGZ1Z1NNcHYtTFlnelh5eGdIOUlLYWJsa01YUnpZT2FORjlLcmRxbHg4NDZhT0hYa2xURGV0V3dTNzItcjQyNDJ5dlFFNUlxdWNlM1FVMTQ?oc=5",
+      "publishedAt": "2026-09-21T01:13:20.000Z",
+      "source": "Yahoo!ニュース",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP)",
+      "_scoring": {
+        "score": 66,
+        "categories": [
+          "規制・政策"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 15,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
       "title": "水中ドローンのFullDepthとエイト日本技術開発が資本業務提携",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE00bGJZMWpxN1FRSFl2bVU4M05Ob0M5UXpfT2NQY2V1NHZkV3Qzb1ljLW9DTWQxdVpjSlpBZnllWVg3MTJmRUdTVmxGQmszNGJhV0JrUWlaSzJlMHdlcmNVT19sM0hSVmNPUXc?oc=5\" target=\"_blank\">水中ドローンのFullDepthとエイト日本技術開発が資本業務提携</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR TIMES</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE00bGJZMWpxN1FRSFl2bVU4M05Ob0M5UXpfT2NQY2V1NHZkV3Qzb1ljLW9DTWQxdVpjSlpBZnllWVg3MTJmRUdTVmxGQmszNGJhV0JrUWlaSzJlMHdlcmNVT19sM0hSVmNPUXc?oc=5\" target=\"_blank\">水中ドローンのFullDepthとエイト日本技術開発が資本業務提携</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR TIMES</font>",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE00bGJZMWpxN1FRSFl2bVU4M05Ob0M5UXpfT2NQY2V1NHZkV3Qzb1ljLW9DTWQxdVpjSlpBZnllWVg3MTJmRUdTVmxGQmszNGJhV0JrUWlaSzJlMHdlcmNVT19sM0hSVmNPUXc?oc=5\" target=\"_blank\">水中ドローンのFullDepthとエイト日本技術開発が資本業務提携</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">prtimes.jp</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE00bGJZMWpxN1FRSFl2bVU4M05Ob0M5UXpfT2NQY2V1NHZkV3Qzb1ljLW9DTWQxdVpjSlpBZnllWVg3MTJmRUdTVmxGQmszNGJhV0JrUWlaSzJlMHdlcmNVT19sM0hSVmNPUXc?oc=5\" target=\"_blank\">水中ドローンのFullDepthとエイト日本技術開発が資本業務提携</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">prtimes.jp</font>",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE00bGJZMWpxN1FRSFl2bVU4M05Ob0M5UXpfT2NQY2V1NHZkV3Qzb1ljLW9DTWQxdVpjSlpBZnllWVg3MTJmRUdTVmxGQmszNGJhV0JrUWlaSzJlMHdlcmNVT19sM0hSVmNPUXc?oc=5",
       "googleNewsUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE00bGJZMWpxN1FRSFl2bVU4M05Ob0M5UXpfT2NQY2V1NHZkV3Qzb1ljLW9DTWQxdVpjSlpBZnllWVg3MTJmRUdTVmxGQmszNGJhV0JrUWlaSzJlMHdlcmNVT19sM0hSVmNPUXc?oc=5",
       "publishedAt": "2026-08-31T07:00:00.000Z",
-      "source": "PR TIMES",
+      "source": "prtimes.jp",
       "_feedRegion": "jp",
       "_feedName": "Google News (JP 政策/実証)",
       "_scoring": {
@@ -410,6 +479,38 @@
       }
     },
     {
+      "title": "“人口集中地区”では日本初 大阪の団地で「レベル3.5」のドローン実証実験 立ち入り制限なしで目視外飛行 人手不足深刻な団地管理に活用目指す",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxNeERYcmVVY0ZsMnVTNGd0UnNhaVVBdllKSXJJRnpwc3lMSXhWYmstQ3VfNFRZWTZSOExWazlRRC1EcFNRUWJnRHFCeW4yLW9SdVZSNHZ6aVBTWGp2SUdEdmxKMmx5YWQycHlSdm5tYmoxeHN4a2VQT2JkTHZ0Tlg1dE9ON2xGN0JjNWRBS0JJNnZvaW1hYUpWRlh6TjZfSzJHNGV5VFltODcxV3Jza1J3QU1iamFRN2FRdVdpd3hfZ2Z1dE03Yk1rblBTTm1HaGY0UEdzbnRpLTRzYW5FblHSAX9BVV95cUxPS3hSdTNxaFEyakhIMWUzYUU2N0JKbGRWTmZ0VFplMXh0NmlUVXM5OGNyOUtIS29YLWRWVEc0MzNweUNnTFJPRGkxSWIzMXpXb2lUQXJzNmpUWmlobXZwMXRacENzWlprMXBGeDE4VGc0QjBtVEZqMkphVmRCc0VN?oc=5\" target=\"_blank\">“人口集中地区”では日本初 大阪の団地で「レベル3.5」のドローン実証実験 立ち入り制限なしで目視外飛行 人手不足深刻な団地管理に活用目指す</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ｄメニューニュース</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxNeERYcmVVY0ZsMnVTNGd0UnNhaVVBdllKSXJJRnpwc3lMSXhWYmstQ3VfNFRZWTZSOExWazlRRC1EcFNRUWJnRHFCeW4yLW9SdVZSNHZ6aVBTWGp2SUdEdmxKMmx5YWQycHlSdm5tYmoxeHN4a2VQT2JkTHZ0Tlg1dE9ON2xGN0JjNWRBS0JJNnZvaW1hYUpWRlh6TjZfSzJHNGV5VFltODcxV3Jza1J3QU1iamFRN2FRdVdpd3hfZ2Z1dE03Yk1rblBTTm1HaGY0UEdzbnRpLTRzYW5FblHSAX9BVV95cUxPS3hSdTNxaFEyakhIMWUzYUU2N0JKbGRWTmZ0VFplMXh0NmlUVXM5OGNyOUtIS29YLWRWVEc0MzNweUNnTFJPRGkxSWIzMXpXb2lUQXJzNmpUWmlobXZwMXRacENzWlprMXBGeDE4VGc0QjBtVEZqMkphVmRCc0VN?oc=5\" target=\"_blank\">“人口集中地区”では日本初 大阪の団地で「レベル3.5」のドローン実証実験 立ち入り制限なしで目視外飛行 人手不足深刻な団地管理に活用目指す</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ｄメニューニュース</font>",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNeERYcmVVY0ZsMnVTNGd0UnNhaVVBdllKSXJJRnpwc3lMSXhWYmstQ3VfNFRZWTZSOExWazlRRC1EcFNRUWJnRHFCeW4yLW9SdVZSNHZ6aVBTWGp2SUdEdmxKMmx5YWQycHlSdm5tYmoxeHN4a2VQT2JkTHZ0Tlg1dE9ON2xGN0JjNWRBS0JJNnZvaW1hYUpWRlh6TjZfSzJHNGV5VFltODcxV3Jza1J3QU1iamFRN2FRdVdpd3hfZ2Z1dE03Yk1rblBTTm1HaGY0UEdzbnRpLTRzYW5FblHSAX9BVV95cUxPS3hSdTNxaFEyakhIMWUzYUU2N0JKbGRWTmZ0VFplMXh0NmlUVXM5OGNyOUtIS29YLWRWVEc0MzNweUNnTFJPRGkxSWIzMXpXb2lUQXJzNmpUWmlobXZwMXRacENzWlprMXBGeDE4VGc0QjBtVEZqMkphVmRCc0VN?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNeERYcmVVY0ZsMnVTNGd0UnNhaVVBdllKSXJJRnpwc3lMSXhWYmstQ3VfNFRZWTZSOExWazlRRC1EcFNRUWJnRHFCeW4yLW9SdVZSNHZ6aVBTWGp2SUdEdmxKMmx5YWQycHlSdm5tYmoxeHN4a2VQT2JkTHZ0Tlg1dE9ON2xGN0JjNWRBS0JJNnZvaW1hYUpWRlh6TjZfSzJHNGV5VFltODcxV3Jza1J3QU1iamFRN2FRdVdpd3hfZ2Z1dE03Yk1rblBTTm1HaGY0UEdzbnRpLTRzYW5FblHSAX9BVV95cUxPS3hSdTNxaFEyakhIMWUzYUU2N0JKbGRWTmZ0VFplMXh0NmlUVXM5OGNyOUtIS29YLWRWVEc0MzNweUNnTFJPRGkxSWIzMXpXb2lUQXJzNmpUWmlobXZwMXRacENzWlprMXBGeDE4VGc0QjBtVEZqMkphVmRCc0VN?oc=5",
+      "publishedAt": "2026-09-21T02:10:00.000Z",
+      "source": "ｄメニューニュース",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP 政策/実証)",
+      "_scoring": {
+        "score": 64,
+        "categories": [
+          "技術・製品"
+        ],
+        "breakdown": {
+          "required": true,
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 20,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
       "title": "Prodrone、日本政策投資銀行から資金調達。国産ドローンの量産体制構築を加速",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE1SNFZCQUZRdzR5Y2NmT3N1aVphVjRmZy1pSm9kNXNjRkJKQ3ZCeGNwX052RzdJUUI1QWJ1VWF2NlVLYm9DeDZUdjhSYUR0M09acDBZNTY3cmxCQnc?oc=5\" target=\"_blank\">Prodrone、日本政策投資銀行から資金調達。国産ドローンの量産体制構築を加速</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DRONE.jp</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE1SNFZCQUZRdzR5Y2NmT3N1aVphVjRmZy1pSm9kNXNjRkJKQ3ZCeGNwX052RzdJUUI1QWJ1VWF2NlVLYm9DeDZUdjhSYUR0M09acDBZNTY3cmxCQnc?oc=5\" target=\"_blank\">Prodrone、日本政策投資銀行から資金調達。国産ドローンの量産体制構築を加速</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DRONE.jp</font>",
@@ -440,38 +541,6 @@
             "multiplier": 0.8
           },
           "freshness": 0,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "「沖縄かなさ花火」歌と花火とドローンで彩る夜空のショー",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE42NHJrWVhtRUFaaC1TbkFJZHRZa3BCbkFxTnlNbUVyMlE0Y2NDRGd2UlhQRWxFamxTZ1QtUjllZkNpckRhWjlEUjROcFo2NWw0bDVKTVFWSlgtUQ?oc=5\" target=\"_blank\">「沖縄かなさ花火」歌と花火とドローンで彩る夜空のショー</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">QAB 琉球朝日放送</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE42NHJrWVhtRUFaaC1TbkFJZHRZa3BCbkFxTnlNbUVyMlE0Y2NDRGd2UlhQRWxFamxTZ1QtUjllZkNpckRhWjlEUjROcFo2NWw0bDVKTVFWSlgtUQ?oc=5\" target=\"_blank\">「沖縄かなさ花火」歌と花火とドローンで彩る夜空のショー</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">QAB 琉球朝日放送</font>",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE42NHJrWVhtRUFaaC1TbkFJZHRZa3BCbkFxTnlNbUVyMlE0Y2NDRGd2UlhQRWxFamxTZ1QtUjllZkNpckRhWjlEUjROcFo2NWw0bDVKTVFWSlgtUQ?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE42NHJrWVhtRUFaaC1TbkFJZHRZa3BCbkFxTnlNbUVyMlE0Y2NDRGd2UlhQRWxFamxTZ1QtUjllZkNpckRhWjlEUjROcFo2NWw0bDVKTVFWSlgtUQ?oc=5",
-      "publishedAt": "2026-09-20T03:07:42.000Z",
-      "source": "QAB 琉球朝日放送",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP)",
-      "_scoring": {
-        "score": 61,
-        "categories": [
-          "規制・政策"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 1,
-            "catScore": 32
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 10,
           "titleBonus": 10,
           "jpRegionBonus": 15
         },
@@ -590,6 +659,38 @@
       }
     },
     {
+      "title": "防衛事業さらに推進、テラドローンが子会社設立",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiQkFVX3lxTE1OZnFXNFFfNFhvY051RUdodEhxVFZQUmxTVnprSUV3YlR3bWZvX0FHYWRXMFBtMk1tdTRzSEFGM3VMUQ?oc=5\" target=\"_blank\">防衛事業さらに推進、テラドローンが子会社設立</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ニュースイッチ by 日刊工業新聞社</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiQkFVX3lxTE1OZnFXNFFfNFhvY051RUdodEhxVFZQUmxTVnprSUV3YlR3bWZvX0FHYWRXMFBtMk1tdTRzSEFGM3VMUQ?oc=5\" target=\"_blank\">防衛事業さらに推進、テラドローンが子会社設立</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ニュースイッチ by 日刊工業新聞社</font>",
+      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1OZnFXNFFfNFhvY051RUdodEhxVFZQUmxTVnprSUV3YlR3bWZvX0FHYWRXMFBtMk1tdTRzSEFGM3VMUQ?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1OZnFXNFFfNFhvY051RUdodEhxVFZQUmxTVnprSUV3YlR3bWZvX0FHYWRXMFBtMk1tdTRzSEFGM3VMUQ?oc=5",
+      "publishedAt": "2026-09-20T21:28:59.000Z",
+      "source": "ニュースイッチ by 日刊工業新聞社",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP)",
+      "_scoring": {
+        "score": 59,
+        "categories": [
+          "政策・インフラ"
+        ],
+        "breakdown": {
+          "required": true,
+          "policy": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 15,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
       "title": "AirData Tops 65 Million Drone Flights as U.S. Industry Prepares for FAA BVLOS Rule",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPQW5QXzNkaVhabW1wSUw4b3JOZzcza085b3lwN1JDcHlsZi1mbG92V1dfUzg3RC1WUEhEQnVEbno3SkJkTHVGYTRmUEdic1Uwbk1mdjBadmhxQ1dSajhOUjNwYVZDU0FrNzY4OXlIUDFJQlI5YnUyRmRpV2VsM2xXNnljRV9mak91Yl9HZnd1WlhENkFEbzVTUmVTOEJSMTBNNHl6bzc0X0F0TFZFdlZheUdpaGpHdw?oc=5\" target=\"_blank\">AirData Tops 65 Million Drone Flights as U.S. Industry Prepares for FAA BVLOS Rule</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">uasweekly.com</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPQW5QXzNkaVhabW1wSUw4b3JOZzcza085b3lwN1JDcHlsZi1mbG92V1dfUzg3RC1WUEhEQnVEbno3SkJkTHVGYTRmUEdic1Uwbk1mdjBadmhxQ1dSajhOUjNwYVZDU0FrNzY4OXlIUDFJQlI5YnUyRmRpV2VsM2xXNnljRV9mak91Yl9HZnd1WlhENkFEbzVTUmVTOEJSMTBNNHl6bzc0X0F0TFZFdlZheUdpaGpHdw?oc=5\" target=\"_blank\">AirData Tops 65 Million Drone Flights as U.S. Industry Prepares for FAA BVLOS Rule</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">uasweekly.com</font>",
@@ -651,6 +752,38 @@
             "multiplier": 0.8
           },
           "freshness": 0,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "「沖縄かなさ花火」歌と花火とドローンで彩る夜空のショー",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE42NHJrWVhtRUFaaC1TbkFJZHRZa3BCbkFxTnlNbUVyMlE0Y2NDRGd2UlhQRWxFamxTZ1QtUjllZkNpckRhWjlEUjROcFo2NWw0bDVKTVFWSlgtUQ?oc=5\" target=\"_blank\">「沖縄かなさ花火」歌と花火とドローンで彩る夜空のショー</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">QAB 琉球朝日放送</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE42NHJrWVhtRUFaaC1TbkFJZHRZa3BCbkFxTnlNbUVyMlE0Y2NDRGd2UlhQRWxFamxTZ1QtUjllZkNpckRhWjlEUjROcFo2NWw0bDVKTVFWSlgtUQ?oc=5\" target=\"_blank\">「沖縄かなさ花火」歌と花火とドローンで彩る夜空のショー</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">QAB 琉球朝日放送</font>",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE42NHJrWVhtRUFaaC1TbkFJZHRZa3BCbkFxTnlNbUVyMlE0Y2NDRGd2UlhQRWxFamxTZ1QtUjllZkNpckRhWjlEUjROcFo2NWw0bDVKTVFWSlgtUQ?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE42NHJrWVhtRUFaaC1TbkFJZHRZa3BCbkFxTnlNbUVyMlE0Y2NDRGd2UlhQRWxFamxTZ1QtUjllZkNpckRhWjlEUjROcFo2NWw0bDVKTVFWSlgtUQ?oc=5",
+      "publishedAt": "2026-09-20T03:07:42.000Z",
+      "source": "QAB 琉球朝日放送",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP)",
+      "_scoring": {
+        "score": 56,
+        "categories": [
+          "規制・政策"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 5,
           "titleBonus": 10,
           "jpRegionBonus": 15
         },
@@ -731,12 +864,12 @@
     },
     {
       "title": "Texas, Joby Begin FAA-Backed Air Taxi Airport Demonstrations",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOV3FIUkRkWVo1bEliU19DN3kzeFA5UFV4cFZkdGxtRUNxd0RaRFlwRGFIX3VPbmpBMGZCT2NBU3lVVnRCa01JUXJWdzUwX0tRNVd6alVfZnoxeDNYdFRoVEhZMDlpVU5kaDh0b1ZhMkcwRDRaV0ZjVXdHUFJCdU1Ga1o1RldyZ0g4?oc=5\" target=\"_blank\">Texas, Joby Begin FAA-Backed Air Taxi Airport Demonstrations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOV3FIUkRkWVo1bEliU19DN3kzeFA5UFV4cFZkdGxtRUNxd0RaRFlwRGFIX3VPbmpBMGZCT2NBU3lVVnRCa01JUXJWdzUwX0tRNVd6alVfZnoxeDNYdFRoVEhZMDlpVU5kaDh0b1ZhMkcwRDRaV0ZjVXdHUFJCdU1Ga1o1RldyZ0g4?oc=5\" target=\"_blank\">Texas, Joby Begin FAA-Backed Air Taxi Airport Demonstrations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOV3FIUkRkWVo1bEliU19DN3kzeFA5UFV4cFZkdGxtRUNxd0RaRFlwRGFIX3VPbmpBMGZCT2NBU3lVVnRCa01JUXJWdzUwX0tRNVd6alVfZnoxeDNYdFRoVEhZMDlpVU5kaDh0b1ZhMkcwRDRaV0ZjVXdHUFJCdU1Ga1o1RldyZ0g4?oc=5\" target=\"_blank\">Texas, Joby Begin FAA-Backed Air Taxi Airport Demonstrations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">yahoo.com</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOV3FIUkRkWVo1bEliU19DN3kzeFA5UFV4cFZkdGxtRUNxd0RaRFlwRGFIX3VPbmpBMGZCT2NBU3lVVnRCa01JUXJWdzUwX0tRNVd6alVfZnoxeDNYdFRoVEhZMDlpVU5kaDh0b1ZhMkcwRDRaV0ZjVXdHUFJCdU1Ga1o1RldyZ0g4?oc=5\" target=\"_blank\">Texas, Joby Begin FAA-Backed Air Taxi Airport Demonstrations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">yahoo.com</font>",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOV3FIUkRkWVo1bEliU19DN3kzeFA5UFV4cFZkdGxtRUNxd0RaRFlwRGFIX3VPbmpBMGZCT2NBU3lVVnRCa01JUXJWdzUwX0tRNVd6alVfZnoxeDNYdFRoVEhZMDlpVU5kaDh0b1ZhMkcwRDRaV0ZjVXdHUFJCdU1Ga1o1RldyZ0g4?oc=5",
       "googleNewsUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOV3FIUkRkWVo1bEliU19DN3kzeFA5UFV4cFZkdGxtRUNxd0RaRFlwRGFIX3VPbmpBMGZCT2NBU3lVVnRCa01JUXJWdzUwX0tRNVd6alVfZnoxeDNYdFRoVEhZMDlpVU5kaDh0b1ZhMkcwRDRaV0ZjVXdHUFJCdU1Ga1o1RldyZ0g4?oc=5",
       "publishedAt": "2026-09-10T07:00:00.000Z",
-      "source": "Yahoo",
+      "source": "yahoo.com",
       "_feedRegion": "us",
       "_feedName": "FAA",
       "_scoring": {
@@ -802,45 +935,13 @@
       }
     },
     {
-      "title": "【社説】韓国防衛産業の信頼を失墜させたドローン実演会の墜落事故（中央日報日本語版）",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1Cb2ZRcFpzQV9pQ1pPT080U0c2d3FyZmhzWjIxVkFZZ1lSM0RjRUdyZ2dYRFYzbmI4dkNselB5THpaajJSbXlPaHNudXhiMUgwYy1wdzkxUzdSM0UwREtIZ1N2WmdSNFMzRDBDc2ZyVkVxaUx3eXozeHc1aHFWQTQ?oc=5\" target=\"_blank\">【社説】韓国防衛産業の信頼を失墜させたドローン実演会の墜落事故（中央日報日本語版）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1Cb2ZRcFpzQV9pQ1pPT080U0c2d3FyZmhzWjIxVkFZZ1lSM0RjRUdyZ2dYRFYzbmI4dkNselB5THpaajJSbXlPaHNudXhiMUgwYy1wdzkxUzdSM0UwREtIZ1N2WmdSNFMzRDBDc2ZyVkVxaUx3eXozeHc1aHFWQTQ?oc=5\" target=\"_blank\">【社説】韓国防衛産業の信頼を失墜させたドローン実演会の墜落事故（中央日報日本語版）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Cb2ZRcFpzQV9pQ1pPT080U0c2d3FyZmhzWjIxVkFZZ1lSM0RjRUdyZ2dYRFYzbmI4dkNselB5THpaajJSbXlPaHNudXhiMUgwYy1wdzkxUzdSM0UwREtIZ1N2WmdSNFMzRDBDc2ZyVkVxaUx3eXozeHc1aHFWQTQ?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Cb2ZRcFpzQV9pQ1pPT080U0c2d3FyZmhzWjIxVkFZZ1lSM0RjRUdyZ2dYRFYzbmI4dkNselB5THpaajJSbXlPaHNudXhiMUgwYy1wdzkxUzdSM0UwREtIZ1N2WmdSNFMzRDBDc2ZyVkVxaUx3eXozeHc1aHFWQTQ?oc=5",
-      "publishedAt": "2026-09-18T07:03:52.000Z",
-      "source": "Yahoo!ニュース",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP)",
-      "_scoring": {
-        "score": 55,
-        "categories": [
-          "事故・事件"
-        ],
-        "breakdown": {
-          "required": true,
-          "incident": {
-            "matches": 2,
-            "catScore": 35
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 2,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "Unmanned Safety Institute (USI) Launches Industry Advisory Board to Help Prepare the UAS Workforce for What Comes Next - 24-7PressRelease.com",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxOaVJhaXI0Z2szS2dFQnF0Umt3T3hkMkVmb3d5eUVnOVJnXzAyVjVPZkY0TDdtQUpfQnJUeC01Wk5uWWhBakdwU19ZUHl1REtVa0VkbGNSeE9ERnc2MVdTMEtsZGVSUnRJc3JTb0V3SEJHMVpmMjZ2VnMwX24tWkl0WUtERHlCb0psTHJRNU40amxqSFB0TWZTQzRYVHZ5TDlvR25OM0FYRmlFMGtCdl9PVXlENG1xOTNtT214RGZHd0lRSjRtMmN6YW9yaXBVSC04NkF5VXlxZ1ptajNwX091THE5aEFrczFIdHRFdmhNdjFlcURlazBFVG9hMW1ZNHc?oc=5\" target=\"_blank\">Unmanned Safety Institute (USI) Launches Industry Advisory Board to Help Prepare the UAS Workforce for What Comes Next</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">24-7PressRelease.com</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxOaVJhaXI0Z2szS2dFQnF0Umt3T3hkMkVmb3d5eUVnOVJnXzAyVjVPZkY0TDdtQUpfQnJUeC01Wk5uWWhBakdwU19ZUHl1REtVa0VkbGNSeE9ERnc2MVdTMEtsZGVSUnRJc3JTb0V3SEJHMVpmMjZ2VnMwX24tWkl0WUtERHlCb0psTHJRNU40amxqSFB0TWZTQzRYVHZ5TDlvR25OM0FYRmlFMGtCdl9PVXlENG1xOTNtT214RGZHd0lRSjRtMmN6YW9yaXBVSC04NkF5VXlxZ1ptajNwX091THE5aEFrczFIdHRFdmhNdjFlcURlazBFVG9hMW1ZNHc?oc=5\" target=\"_blank\">Unmanned Safety Institute (USI) Launches Industry Advisory Board to Help Prepare the UAS Workforce for What Comes Next</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">24-7PressRelease.com</font>",
+      "title": "Unmanned Safety Institute (USI) Launches Industry Advisory Board to Help Prepare the UAS Workforce for What Comes Next - 24-7pressrelease.com",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxOaVJhaXI0Z2szS2dFQnF0Umt3T3hkMkVmb3d5eUVnOVJnXzAyVjVPZkY0TDdtQUpfQnJUeC01Wk5uWWhBakdwU19ZUHl1REtVa0VkbGNSeE9ERnc2MVdTMEtsZGVSUnRJc3JTb0V3SEJHMVpmMjZ2VnMwX24tWkl0WUtERHlCb0psTHJRNU40amxqSFB0TWZTQzRYVHZ5TDlvR25OM0FYRmlFMGtCdl9PVXlENG1xOTNtT214RGZHd0lRSjRtMmN6YW9yaXBVSC04NkF5VXlxZ1ptajNwX091THE5aEFrczFIdHRFdmhNdjFlcURlazBFVG9hMW1ZNHc?oc=5\" target=\"_blank\">Unmanned Safety Institute (USI) Launches Industry Advisory Board to Help Prepare the UAS Workforce for What Comes Next</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">24-7pressrelease.com</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxOaVJhaXI0Z2szS2dFQnF0Umt3T3hkMkVmb3d5eUVnOVJnXzAyVjVPZkY0TDdtQUpfQnJUeC01Wk5uWWhBakdwU19ZUHl1REtVa0VkbGNSeE9ERnc2MVdTMEtsZGVSUnRJc3JTb0V3SEJHMVpmMjZ2VnMwX24tWkl0WUtERHlCb0psTHJRNU40amxqSFB0TWZTQzRYVHZ5TDlvR25OM0FYRmlFMGtCdl9PVXlENG1xOTNtT214RGZHd0lRSjRtMmN6YW9yaXBVSC04NkF5VXlxZ1ptajNwX091THE5aEFrczFIdHRFdmhNdjFlcURlazBFVG9hMW1ZNHc?oc=5\" target=\"_blank\">Unmanned Safety Institute (USI) Launches Industry Advisory Board to Help Prepare the UAS Workforce for What Comes Next</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">24-7pressrelease.com</font>",
       "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOaVJhaXI0Z2szS2dFQnF0Umt3T3hkMkVmb3d5eUVnOVJnXzAyVjVPZkY0TDdtQUpfQnJUeC01Wk5uWWhBakdwU19ZUHl1REtVa0VkbGNSeE9ERnc2MVdTMEtsZGVSUnRJc3JTb0V3SEJHMVpmMjZ2VnMwX24tWkl0WUtERHlCb0psTHJRNU40amxqSFB0TWZTQzRYVHZ5TDlvR25OM0FYRmlFMGtCdl9PVXlENG1xOTNtT214RGZHd0lRSjRtMmN6YW9yaXBVSC04NkF5VXlxZ1ptajNwX091THE5aEFrczFIdHRFdmhNdjFlcURlazBFVG9hMW1ZNHc?oc=5",
       "googleNewsUrl": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOaVJhaXI0Z2szS2dFQnF0Umt3T3hkMkVmb3d5eUVnOVJnXzAyVjVPZkY0TDdtQUpfQnJUeC01Wk5uWWhBakdwU19ZUHl1REtVa0VkbGNSeE9ERnc2MVdTMEtsZGVSUnRJc3JTb0V3SEJHMVpmMjZ2VnMwX24tWkl0WUtERHlCb0psTHJRNU40amxqSFB0TWZTQzRYVHZ5TDlvR25OM0FYRmlFMGtCdl9PVXlENG1xOTNtT214RGZHd0lRSjRtMmN6YW9yaXBVSC04NkF5VXlxZ1ptajNwX091THE5aEFrczFIdHRFdmhNdjFlcURlazBFVG9hMW1ZNHc?oc=5",
       "publishedAt": "2026-09-18T07:14:43.000Z",
-      "source": "24-7PressRelease.com",
+      "source": "24-7pressrelease.com",
       "_feedRegion": "global",
       "_feedName": "Google News (Global)",
       "_scoring": {
@@ -865,38 +966,6 @@
           },
           "freshness": 2,
           "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "フーシ派が犯行声明「ドローンや弾道ミサイルで攻撃」 サウジ首都の空港近くで炎と黒煙 市内では複数の爆発音も",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9WMWRacFhNY1NTTnlKLThDb1I3SVZrT05KN2QzNGFzRjk5YW00WS1NTWNmYVA3ckxFNFk5VzRINHhfY1J3bFdxT0c1T1BwQVJZbHhZV0NyNW5VUDBjSG1QOXJwTVhKN21LOV85M3AtUHllYXNSLXNjcVhjT0NfMEE?oc=5\" target=\"_blank\">フーシ派が犯行声明「ドローンや弾道ミサイルで攻撃」 サウジ首都の空港近くで炎と黒煙 市内では複数の爆発音も</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9WMWRacFhNY1NTTnlKLThDb1I3SVZrT05KN2QzNGFzRjk5YW00WS1NTWNmYVA3ckxFNFk5VzRINHhfY1J3bFdxT0c1T1BwQVJZbHhZV0NyNW5VUDBjSG1QOXJwTVhKN21LOV85M3AtUHllYXNSLXNjcVhjT0NfMEE?oc=5\" target=\"_blank\">フーシ派が犯行声明「ドローンや弾道ミサイルで攻撃」 サウジ首都の空港近くで炎と黒煙 市内では複数の爆発音も</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9WMWRacFhNY1NTTnlKLThDb1I3SVZrT05KN2QzNGFzRjk5YW00WS1NTWNmYVA3ckxFNFk5VzRINHhfY1J3bFdxT0c1T1BwQVJZbHhZV0NyNW5VUDBjSG1QOXJwTVhKN21LOV85M3AtUHllYXNSLXNjcVhjT0NfMEE?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9WMWRacFhNY1NTTnlKLThDb1I3SVZrT05KN2QzNGFzRjk5YW00WS1NTWNmYVA3ckxFNFk5VzRINHhfY1J3bFdxT0c1T1BwQVJZbHhZV0NyNW5VUDBjSG1QOXJwTVhKN21LOV85M3AtUHllYXNSLXNjcVhjT0NfMEE?oc=5",
-      "publishedAt": "2026-09-20T03:44:19.000Z",
-      "source": "Yahoo!ニュース",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP)",
-      "_scoring": {
-        "score": 54,
-        "categories": [
-          "政策・インフラ"
-        ],
-        "breakdown": {
-          "required": true,
-          "policy": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 10,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
         },
         "pass": true
       }
@@ -932,37 +1001,6 @@
             "multiplier": 0.8
           },
           "freshness": 0,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "Army Has 40,000 Drones and Too Few Pilots. FAA Data Shows Why",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE42Q3pPbEpaeUlDWkpXZkd2NnBSZ0NOaWMwR3ZTZ3NlQ3Q1dV8zSC10bWIzd1BwRjhlZlVPRE5hVGVoMGxGS1psU1R1X3hTTGJvLVE1YU1mc2puN2J1QnhUZFFxeWRQR29UUXlNTEloQUxUSHNPeEJ1SHFLTkE?oc=5\" target=\"_blank\">Army Has 40,000 Drones and Too Few Pilots. FAA Data Shows Why</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DroneXL</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE42Q3pPbEpaeUlDWkpXZkd2NnBSZ0NOaWMwR3ZTZ3NlQ3Q1dV8zSC10bWIzd1BwRjhlZlVPRE5hVGVoMGxGS1psU1R1X3hTTGJvLVE1YU1mc2puN2J1QnhUZFFxeWRQR29UUXlNTEloQUxUSHNPeEJ1SHFLTkE?oc=5\" target=\"_blank\">Army Has 40,000 Drones and Too Few Pilots. FAA Data Shows Why</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DroneXL</font>",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE42Q3pPbEpaeUlDWkpXZkd2NnBSZ0NOaWMwR3ZTZ3NlQ3Q1dV8zSC10bWIzd1BwRjhlZlVPRE5hVGVoMGxGS1psU1R1X3hTTGJvLVE1YU1mc2puN2J1QnhUZFFxeWRQR29UUXlNTEloQUxUSHNPeEJ1SHFLTkE?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMifEFVX3lxTE42Q3pPbEpaeUlDWkpXZkd2NnBSZ0NOaWMwR3ZTZ3NlQ3Q1dV8zSC10bWIzd1BwRjhlZlVPRE5hVGVoMGxGS1psU1R1X3hTTGJvLVE1YU1mc2puN2J1QnhUZFFxeWRQR29UUXlNTEloQUxUSHNPeEJ1SHFLTkE?oc=5",
-      "publishedAt": "2026-09-20T15:06:00.000Z",
-      "source": "DroneXL",
-      "_feedRegion": "us",
-      "_feedName": "FAA",
-      "_scoring": {
-        "score": 51,
-        "categories": [
-          "規制・政策"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 1,
-            "catScore": 32
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 15,
           "titleBonus": 10
         },
         "pass": true
@@ -1012,38 +1050,6 @@
       "googleNewsUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE04SmJqUTBWdXVKOE9hbW96MEQ4V3ZMVGw5dnJrbkZaMF8tZFM0aDFybG9xNDFyVjhoSEp4LTdDUGhnc1RINUpyWjl6Q21GVnBXbWl2RmFtOHdpRmpkWUttTUhSRWU2Rm54OVRlOEtoWW40eTI5X1BYa05TV1czSU0?oc=5",
       "publishedAt": "2026-09-14T20:50:00.000Z",
       "source": "Yahoo!ニュース",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP)",
-      "_scoring": {
-        "score": 51,
-        "categories": [
-          "規制・政策"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 1,
-            "catScore": 32
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 0,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "中国・北京で“ドローン所持禁止”へ、首都の安全確保で規制強化",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE5pVWVkT3VFb0YyN1ZMR2pUdkZGXzVCTTZ4YVZPclVZb1dqTU1KaC1GaURkTWh0OVlaS0ZWaWFISkxhNzVxZVpjdU40YmlqU1FlMWdiUGMySQ?oc=5\" target=\"_blank\">中国・北京で“ドローン所持禁止”へ、首都の安全確保で規制強化</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TBS NEWS DIG</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE5pVWVkT3VFb0YyN1ZMR2pUdkZGXzVCTTZ4YVZPclVZb1dqTU1KaC1GaURkTWh0OVlaS0ZWaWFISkxhNzVxZVpjdU40YmlqU1FlMWdiUGMySQ?oc=5\" target=\"_blank\">中国・北京で“ドローン所持禁止”へ、首都の安全確保で規制強化</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TBS NEWS DIG</font>",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5pVWVkT3VFb0YyN1ZMR2pUdkZGXzVCTTZ4YVZPclVZb1dqTU1KaC1GaURkTWh0OVlaS0ZWaWFISkxhNzVxZVpjdU40YmlqU1FlMWdiUGMySQ?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5pVWVkT3VFb0YyN1ZMR2pUdkZGXzVCTTZ4YVZPclVZb1dqTU1KaC1GaURkTWh0OVlaS0ZWaWFISkxhNzVxZVpjdU40YmlqU1FlMWdiUGMySQ?oc=5",
-      "publishedAt": "2026-09-13T21:00:50.000Z",
-      "source": "TBS NEWS DIG",
       "_feedRegion": "jp",
       "_feedName": "Google News (JP)",
       "_scoring": {
