@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-27T21:56:29.393Z",
-  "rawCount": 611,
+  "generatedAt": "2026-09-28T00:29:48.825Z",
+  "rawCount": 613,
   "articles": [
     {
       "title": "【独自】ライトアップ撮影のドローンが名古屋市役所の西庁舎に衝突 愛知県からの委託で撮影中に事故 国に「飛行計画」出されておらず 航空法違反か（CBCテレビ）",
@@ -64,6 +64,43 @@
           "technology": {
             "matches": 1,
             "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 0,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "撮影ドローンが名古屋市庁舎衝突 アジア大会関連、航空法違反か（共同通信）",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBMaTlDT0JNQnh3SWI3WldEUVBGUjl0aDIwZWNsTGNkbC1LMGtSbkxxM2ZBRGR5dHRMZnVVX2Q2eTFlb1NlSzJYWDVzeGtPTFNILUYyRmpjdENncm43YzN6VGNMUkxPck5renNmaVlIODhjblFaSmUtQThCY3RnbEk?oc=5\" target=\"_blank\">撮影ドローンが名古屋市庁舎衝突 アジア大会関連、航空法違反か（共同通信）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBMaTlDT0JNQnh3SWI3WldEUVBGUjl0aDIwZWNsTGNkbC1LMGtSbkxxM2ZBRGR5dHRMZnVVX2Q2eTFlb1NlSzJYWDVzeGtPTFNILUYyRmpjdENncm43YzN6VGNMUkxPck5renNmaVlIODhjblFaSmUtQThCY3RnbEk?oc=5\" target=\"_blank\">撮影ドローンが名古屋市庁舎衝突 アジア大会関連、航空法違反か（共同通信）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBMaTlDT0JNQnh3SWI3WldEUVBGUjl0aDIwZWNsTGNkbC1LMGtSbkxxM2ZBRGR5dHRMZnVVX2Q2eTFlb1NlSzJYWDVzeGtPTFNILUYyRmpjdENncm43YzN6VGNMUkxPck5renNmaVlIODhjblFaSmUtQThCY3RnbEk?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBMaTlDT0JNQnh3SWI3WldEUVBGUjl0aDIwZWNsTGNkbC1LMGtSbkxxM2ZBRGR5dHRMZnVVX2Q2eTFlb1NlSzJYWDVzeGtPTFNILUYyRmpjdENncm43YzN6VGNMUkxPck5renNmaVlIODhjblFaSmUtQThCY3RnbEk?oc=5",
+      "publishedAt": "2026-09-19T07:00:00.000Z",
+      "source": "Yahoo!ニュース",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP)",
+      "_scoring": {
+        "score": 73,
+        "categories": [
+          "規制・政策",
+          "事故・事件"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
+          "incident": {
+            "matches": 1,
+            "catScore": 28
           },
           "sourceTrust": {
             "domain": "news.google.com",
@@ -149,38 +186,6 @@
             "multiplier": 0.8
           },
           "freshness": 0
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "《経済やわらかゼミ》防衛用ドローンの開発加速 変わる戦い方、新興も参入 | 上毛新聞電子版｜群馬県のニュース・スポーツ情報",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE82SGlENlQxOHJxUmZvRFVmU3Z6ai1VWjlCUDdMQVlpN3lxZ2d5dWpjQjFDZzBCSGlzNHE5cTJnV1o5MWNwakotbUlGNWhwMWxLU1RBeFFzRlJvdw?oc=5\" target=\"_blank\">《経済やわらかゼミ》防衛用ドローンの開発加速 変わる戦い方、新興も参入 | 上毛新聞電子版｜群馬県のニュース・スポーツ情報</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">上毛新聞電子版</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE82SGlENlQxOHJxUmZvRFVmU3Z6ai1VWjlCUDdMQVlpN3lxZ2d5dWpjQjFDZzBCSGlzNHE5cTJnV1o5MWNwakotbUlGNWhwMWxLU1RBeFFzRlJvdw?oc=5\" target=\"_blank\">《経済やわらかゼミ》防衛用ドローンの開発加速 変わる戦い方、新興も参入 | 上毛新聞電子版｜群馬県のニュース・スポーツ情報</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">上毛新聞電子版</font>",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE82SGlENlQxOHJxUmZvRFVmU3Z6ai1VWjlCUDdMQVlpN3lxZ2d5dWpjQjFDZzBCSGlzNHE5cTJnV1o5MWNwakotbUlGNWhwMWxLU1RBeFFzRlJvdw?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE82SGlENlQxOHJxUmZvRFVmU3Z6ai1VWjlCUDdMQVlpN3lxZ2d5dWpjQjFDZzBCSGlzNHE5cTJnV1o5MWNwakotbUlGNWhwMWxLU1RBeFFzRlJvdw?oc=5",
-      "publishedAt": "2026-09-27T20:00:00.000Z",
-      "source": "上毛新聞電子版",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP)",
-      "_scoring": {
-        "score": 64,
-        "categories": [
-          "技術・製品"
-        ],
-        "breakdown": {
-          "required": true,
-          "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 20,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
         },
         "pass": true
       }
@@ -519,13 +524,13 @@
       }
     },
     {
-      "title": "左翼が仕掛ける「楽天不買運動」、ドローンを開発するドイツ企業との提携を問題視するも、ご都合主義の言動に批判が殺到 - the-liberty.com",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE5EYktlN2p3MG81T1EtUGNTWHlIUWcyNnNwbjBORjdMS1N6aXdPcmpmQkJ1bUhRX2NNVDhOcmdLTUFKVDZHLTFYSGVaT2hZSkXSAVRBVV95cUxOZTRwTUxqb3VmeWxuazFJWDQtYklsSVRrUGg1UzRPUmFBWjVneUdQOFNpM2tYcGtGWnM3a0gtaEU5akVOUVYyQTFBaXlTWmNxbTM5YTM?oc=5\" target=\"_blank\">左翼が仕掛ける「楽天不買運動」、ドローンを開発するドイツ企業との提携を問題視するも、ご都合主義の言動に批判が殺到</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">the-liberty.com</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE5EYktlN2p3MG81T1EtUGNTWHlIUWcyNnNwbjBORjdMS1N6aXdPcmpmQkJ1bUhRX2NNVDhOcmdLTUFKVDZHLTFYSGVaT2hZSkXSAVRBVV95cUxOZTRwTUxqb3VmeWxuazFJWDQtYklsSVRrUGg1UzRPUmFBWjVneUdQOFNpM2tYcGtGWnM3a0gtaEU5akVOUVYyQTFBaXlTWmNxbTM5YTM?oc=5\" target=\"_blank\">左翼が仕掛ける「楽天不買運動」、ドローンを開発するドイツ企業との提携を問題視するも、ご都合主義の言動に批判が殺到</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">the-liberty.com</font>",
+      "title": "左翼が仕掛ける「楽天不買運動」、ドローンを開発するドイツ企業との提携を問題視するも、ご都合主義の言動に批判が殺到",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE5EYktlN2p3MG81T1EtUGNTWHlIUWcyNnNwbjBORjdMS1N6aXdPcmpmQkJ1bUhRX2NNVDhOcmdLTUFKVDZHLTFYSGVaT2hZSkXSAVRBVV95cUxOZTRwTUxqb3VmeWxuazFJWDQtYklsSVRrUGg1UzRPUmFBWjVneUdQOFNpM2tYcGtGWnM3a0gtaEU5akVOUVYyQTFBaXlTWmNxbTM5YTM?oc=5\" target=\"_blank\">左翼が仕掛ける「楽天不買運動」、ドローンを開発するドイツ企業との提携を問題視するも、ご都合主義の言動に批判が殺到</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Liberty Web</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE5EYktlN2p3MG81T1EtUGNTWHlIUWcyNnNwbjBORjdMS1N6aXdPcmpmQkJ1bUhRX2NNVDhOcmdLTUFKVDZHLTFYSGVaT2hZSkXSAVRBVV95cUxOZTRwTUxqb3VmeWxuazFJWDQtYklsSVRrUGg1UzRPUmFBWjVneUdQOFNpM2tYcGtGWnM3a0gtaEU5akVOUVYyQTFBaXlTWmNxbTM5YTM?oc=5\" target=\"_blank\">左翼が仕掛ける「楽天不買運動」、ドローンを開発するドイツ企業との提携を問題視するも、ご都合主義の言動に批判が殺到</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Liberty Web</font>",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5EYktlN2p3MG81T1EtUGNTWHlIUWcyNnNwbjBORjdMS1N6aXdPcmpmQkJ1bUhRX2NNVDhOcmdLTUFKVDZHLTFYSGVaT2hZSkXSAVRBVV95cUxOZTRwTUxqb3VmeWxuazFJWDQtYklsSVRrUGg1UzRPUmFBWjVneUdQOFNpM2tYcGtGWnM3a0gtaEU5akVOUVYyQTFBaXlTWmNxbTM5YTM?oc=5",
       "googleNewsUrl": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5EYktlN2p3MG81T1EtUGNTWHlIUWcyNnNwbjBORjdMS1N6aXdPcmpmQkJ1bUhRX2NNVDhOcmdLTUFKVDZHLTFYSGVaT2hZSkXSAVRBVV95cUxOZTRwTUxqb3VmeWxuazFJWDQtYklsSVRrUGg1UzRPUmFBWjVneUdQOFNpM2tYcGtGWnM3a0gtaEU5akVOUVYyQTFBaXlTWmNxbTM5YTM?oc=5",
       "publishedAt": "2026-09-05T07:00:00.000Z",
-      "source": "the-liberty.com",
+      "source": "The Liberty Web",
       "_feedRegion": "jp",
       "_feedName": "Google News (JP 政策/実証)",
       "_scoring": {
@@ -549,6 +554,38 @@
             "multiplier": 0.8
           },
           "freshness": 0,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "《経済やわらかゼミ》防衛用ドローンの開発加速 変わる戦い方、新興も参入 | 上毛新聞電子版｜群馬県のニュース・スポーツ情報",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE82SGlENlQxOHJxUmZvRFVmU3Z6ai1VWjlCUDdMQVlpN3lxZ2d5dWpjQjFDZzBCSGlzNHE5cTJnV1o5MWNwakotbUlGNWhwMWxLU1RBeFFzRlJvdw?oc=5\" target=\"_blank\">《経済やわらかゼミ》防衛用ドローンの開発加速 変わる戦い方、新興も参入 | 上毛新聞電子版｜群馬県のニュース・スポーツ情報</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">上毛新聞電子版</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE82SGlENlQxOHJxUmZvRFVmU3Z6ai1VWjlCUDdMQVlpN3lxZ2d5dWpjQjFDZzBCSGlzNHE5cTJnV1o5MWNwakotbUlGNWhwMWxLU1RBeFFzRlJvdw?oc=5\" target=\"_blank\">《経済やわらかゼミ》防衛用ドローンの開発加速 変わる戦い方、新興も参入 | 上毛新聞電子版｜群馬県のニュース・スポーツ情報</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">上毛新聞電子版</font>",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE82SGlENlQxOHJxUmZvRFVmU3Z6ai1VWjlCUDdMQVlpN3lxZ2d5dWpjQjFDZzBCSGlzNHE5cTJnV1o5MWNwakotbUlGNWhwMWxLU1RBeFFzRlJvdw?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE82SGlENlQxOHJxUmZvRFVmU3Z6ai1VWjlCUDdMQVlpN3lxZ2d5dWpjQjFDZzBCSGlzNHE5cTJnV1o5MWNwakotbUlGNWhwMWxLU1RBeFFzRlJvdw?oc=5",
+      "publishedAt": "2026-09-27T20:00:00.000Z",
+      "source": "上毛新聞電子版",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP)",
+      "_scoring": {
+        "score": 59,
+        "categories": [
+          "技術・製品"
+        ],
+        "breakdown": {
+          "required": true,
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 15,
           "titleBonus": 10,
           "jpRegionBonus": 15
         },
@@ -623,38 +660,6 @@
           },
           "freshness": 0,
           "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "中国・北京がドローンを全面規制、飛行だけでなく所持・保管・持ち込みも禁止へ",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE0ydWZaNmVJbmUtU0JxTlhwSHZ6amFwOVM4cUQ5MmxielJ0Q1l6OWdEYjVvZTQ5T18teGZZdVZIckVfbG0tMWEzSG4wbER0TVIwbzREX2tPZ3Jad1V6ZzUwcEw4aw?oc=5\" target=\"_blank\">中国・北京がドローンを全面規制、飛行だけでなく所持・保管・持ち込みも禁止へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GIGAZINE</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE0ydWZaNmVJbmUtU0JxTlhwSHZ6amFwOVM4cUQ5MmxielJ0Q1l6OWdEYjVvZTQ5T18teGZZdVZIckVfbG0tMWEzSG4wbER0TVIwbzREX2tPZ3Jad1V6ZzUwcEw4aw?oc=5\" target=\"_blank\">中国・北京がドローンを全面規制、飛行だけでなく所持・保管・持ち込みも禁止へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GIGAZINE</font>",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0ydWZaNmVJbmUtU0JxTlhwSHZ6amFwOVM4cUQ5MmxielJ0Q1l6OWdEYjVvZTQ5T18teGZZdVZIckVfbG0tMWEzSG4wbER0TVIwbzREX2tPZ3Jad1V6ZzUwcEw4aw?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0ydWZaNmVJbmUtU0JxTlhwSHZ6amFwOVM4cUQ5MmxielJ0Q1l6OWdEYjVvZTQ5T18teGZZdVZIckVfbG0tMWEzSG4wbER0TVIwbzREX2tPZ3Jad1V6ZzUwcEw4aw?oc=5",
-      "publishedAt": "2026-09-25T23:07:53.000Z",
-      "source": "GIGAZINE",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP)",
-      "_scoring": {
-        "score": 56,
-        "categories": [
-          "規制・政策"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 1,
-            "catScore": 32
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 5,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
         },
         "pass": true
       }
@@ -768,31 +773,31 @@
       }
     },
     {
-      "title": "ドイツ外相がロシア外相に警告「反撃することも可能」空港での爆発物搭載ドローン発見 会談はウクライナ侵攻後初めて",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBjZnBfd0VzbmtOb2dIX21rcVkyRVJ2c3ZiVkxOYm5DZUs3YllXSG8yN3V5dE9kQUtGRUNKMDA1RlFDd080V3dITWpMZVR1RlpVR1RMNlRyRzFoTWxuWHM0WTZPLWdFQjU0T2lpbzVRN1RrN2QyRUhVdlhueVJKLVU?oc=5\" target=\"_blank\">ドイツ外相がロシア外相に警告「反撃することも可能」空港での爆発物搭載ドローン発見 会談はウクライナ侵攻後初めて</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBjZnBfd0VzbmtOb2dIX21rcVkyRVJ2c3ZiVkxOYm5DZUs3YllXSG8yN3V5dE9kQUtGRUNKMDA1RlFDd080V3dITWpMZVR1RlpVR1RMNlRyRzFoTWxuWHM0WTZPLWdFQjU0T2lpbzVRN1RrN2QyRUhVdlhueVJKLVU?oc=5\" target=\"_blank\">ドイツ外相がロシア外相に警告「反撃することも可能」空港での爆発物搭載ドローン発見 会談はウクライナ侵攻後初めて</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBjZnBfd0VzbmtOb2dIX21rcVkyRVJ2c3ZiVkxOYm5DZUs3YllXSG8yN3V5dE9kQUtGRUNKMDA1RlFDd080V3dITWpMZVR1RlpVR1RMNlRyRzFoTWxuWHM0WTZPLWdFQjU0T2lpbzVRN1RrN2QyRUhVdlhueVJKLVU?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBjZnBfd0VzbmtOb2dIX21rcVkyRVJ2c3ZiVkxOYm5DZUs3YllXSG8yN3V5dE9kQUtGRUNKMDA1RlFDd080V3dITWpMZVR1RlpVR1RMNlRyRzFoTWxuWHM0WTZPLWdFQjU0T2lpbzVRN1RrN2QyRUhVdlhueVJKLVU?oc=5",
-      "publishedAt": "2026-09-26T23:11:24.000Z",
-      "source": "Yahoo!ニュース",
+      "title": "中国・北京がドローンを全面規制、飛行だけでなく所持・保管・持ち込みも禁止へ",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE0ydWZaNmVJbmUtU0JxTlhwSHZ6amFwOVM4cUQ5MmxielJ0Q1l6OWdEYjVvZTQ5T18teGZZdVZIckVfbG0tMWEzSG4wbER0TVIwbzREX2tPZ3Jad1V6ZzUwcEw4aw?oc=5\" target=\"_blank\">中国・北京がドローンを全面規制、飛行だけでなく所持・保管・持ち込みも禁止へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GIGAZINE</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE0ydWZaNmVJbmUtU0JxTlhwSHZ6amFwOVM4cUQ5MmxielJ0Q1l6OWdEYjVvZTQ5T18teGZZdVZIckVfbG0tMWEzSG4wbER0TVIwbzREX2tPZ3Jad1V6ZzUwcEw4aw?oc=5\" target=\"_blank\">中国・北京がドローンを全面規制、飛行だけでなく所持・保管・持ち込みも禁止へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GIGAZINE</font>",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0ydWZaNmVJbmUtU0JxTlhwSHZ6amFwOVM4cUQ5MmxielJ0Q1l6OWdEYjVvZTQ5T18teGZZdVZIckVfbG0tMWEzSG4wbER0TVIwbzREX2tPZ3Jad1V6ZzUwcEw4aw?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0ydWZaNmVJbmUtU0JxTlhwSHZ6amFwOVM4cUQ5MmxielJ0Q1l6OWdEYjVvZTQ5T18teGZZdVZIckVfbG0tMWEzSG4wbER0TVIwbzREX2tPZ3Jad1V6ZzUwcEw4aw?oc=5",
+      "publishedAt": "2026-09-25T23:07:53.000Z",
+      "source": "GIGAZINE",
       "_feedRegion": "jp",
       "_feedName": "Google News (JP)",
       "_scoring": {
-        "score": 54,
+        "score": 53,
         "categories": [
-          "政策・インフラ"
+          "規制・政策"
         ],
         "breakdown": {
           "required": true,
-          "policy": {
+          "regulation": {
             "matches": 1,
-            "catScore": 24
+            "catScore": 32
           },
           "sourceTrust": {
             "domain": "news.google.com",
             "multiplier": 0.8
           },
-          "freshness": 10,
+          "freshness": 2,
           "titleBonus": 10,
           "jpRegionBonus": 15
         },
@@ -1040,37 +1045,33 @@
       }
     },
     {
-      "title": "BETA launches North Carolina eVTOL integration pilot program",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQRVB6WEJiTWZqMG0xSWZ4UFRMYVlIOS1TLU5NdWp0cmkxV0JLclZXeExGY1NiYXJDUkN6bERQYVdZOTZobnBfYTlWSjNpZDlSVjFKTVdEbUpwRTFvOHIwdEZPMGpqUlZTZXRZUTFhdGo3MG9WQmh4OHRXLVZSNGtncm5SaGhSMFJTaldmZXkxWHZxYVVZQjRrTWg0TEtjRi05ZXpqWTZXMUZTXzByd05JY0xzV1Q?oc=5\" target=\"_blank\">BETA launches North Carolina eVTOL integration pilot program</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aerospace Manufacturing and Design</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQRVB6WEJiTWZqMG0xSWZ4UFRMYVlIOS1TLU5NdWp0cmkxV0JLclZXeExGY1NiYXJDUkN6bERQYVdZOTZobnBfYTlWSjNpZDlSVjFKTVdEbUpwRTFvOHIwdEZPMGpqUlZTZXRZUTFhdGo3MG9WQmh4OHRXLVZSNGtncm5SaGhSMFJTaldmZXkxWHZxYVVZQjRrTWg0TEtjRi05ZXpqWTZXMUZTXzByd05JY0xzV1Q?oc=5\" target=\"_blank\">BETA launches North Carolina eVTOL integration pilot program</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aerospace Manufacturing and Design</font>",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRVB6WEJiTWZqMG0xSWZ4UFRMYVlIOS1TLU5NdWp0cmkxV0JLclZXeExGY1NiYXJDUkN6bERQYVdZOTZobnBfYTlWSjNpZDlSVjFKTVdEbUpwRTFvOHIwdEZPMGpqUlZTZXRZUTFhdGo3MG9WQmh4OHRXLVZSNGtncm5SaGhSMFJTaldmZXkxWHZxYVVZQjRrTWg0TEtjRi05ZXpqWTZXMUZTXzByd05JY0xzV1Q?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRVB6WEJiTWZqMG0xSWZ4UFRMYVlIOS1TLU5NdWp0cmkxV0JLclZXeExGY1NiYXJDUkN6bERQYVdZOTZobnBfYTlWSjNpZDlSVjFKTVdEbUpwRTFvOHIwdEZPMGpqUlZTZXRZUTFhdGo3MG9WQmh4OHRXLVZSNGtncm5SaGhSMFJTaldmZXkxWHZxYVVZQjRrTWg0TEtjRi05ZXpqWTZXMUZTXzByd05JY0xzV1Q?oc=5",
-      "publishedAt": "2026-09-25T07:00:00.000Z",
-      "source": "Aerospace Manufacturing and Design",
-      "_feedRegion": "global",
-      "_feedName": "Google News (Global)",
+      "title": "ドイツ外相がロシア外相に警告「反撃することも可能」空港での爆発物搭載ドローン発見 会談はウクライナ侵攻後初めて",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBjZnBfd0VzbmtOb2dIX21rcVkyRVJ2c3ZiVkxOYm5DZUs3YllXSG8yN3V5dE9kQUtGRUNKMDA1RlFDd080V3dITWpMZVR1RlpVR1RMNlRyRzFoTWxuWHM0WTZPLWdFQjU0T2lpbzVRN1RrN2QyRUhVdlhueVJKLVU?oc=5\" target=\"_blank\">ドイツ外相がロシア外相に警告「反撃することも可能」空港での爆発物搭載ドローン発見 会談はウクライナ侵攻後初めて</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBjZnBfd0VzbmtOb2dIX21rcVkyRVJ2c3ZiVkxOYm5DZUs3YllXSG8yN3V5dE9kQUtGRUNKMDA1RlFDd080V3dITWpMZVR1RlpVR1RMNlRyRzFoTWxuWHM0WTZPLWdFQjU0T2lpbzVRN1RrN2QyRUhVdlhueVJKLVU?oc=5\" target=\"_blank\">ドイツ外相がロシア外相に警告「反撃することも可能」空港での爆発物搭載ドローン発見 会談はウクライナ侵攻後初めて</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBjZnBfd0VzbmtOb2dIX21rcVkyRVJ2c3ZiVkxOYm5DZUs3YllXSG8yN3V5dE9kQUtGRUNKMDA1RlFDd080V3dITWpMZVR1RlpVR1RMNlRyRzFoTWxuWHM0WTZPLWdFQjU0T2lpbzVRN1RrN2QyRUhVdlhueVJKLVU?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBjZnBfd0VzbmtOb2dIX21rcVkyRVJ2c3ZiVkxOYm5DZUs3YllXSG8yN3V5dE9kQUtGRUNKMDA1RlFDd080V3dITWpMZVR1RlpVR1RMNlRyRzFoTWxuWHM0WTZPLWdFQjU0T2lpbzVRN1RrN2QyRUhVdlhueVJKLVU?oc=5",
+      "publishedAt": "2026-09-26T23:11:24.000Z",
+      "source": "Yahoo!ニュース",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP)",
       "_scoring": {
-        "score": 47,
+        "score": 49,
         "categories": [
-          "技術・製品",
-          "市場・資金"
+          "政策・インフラ"
         ],
         "breakdown": {
           "required": true,
-          "technology": {
+          "policy": {
             "matches": 1,
             "catScore": 24
-          },
-          "market": {
-            "matches": 1,
-            "catScore": 20
           },
           "sourceTrust": {
             "domain": "news.google.com",
             "multiplier": 0.8
           },
-          "freshness": 2,
-          "titleBonus": 10
+          "freshness": 5,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
         },
         "pass": true
       }
