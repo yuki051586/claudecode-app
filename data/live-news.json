@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-28T15:10:02.457Z",
-  "rawCount": 628,
+  "generatedAt": "2026-09-28T21:43:35.784Z",
+  "rawCount": 631,
   "articles": [
     {
       "title": "【八潮市・道路大陥没事故】発生からまもなく1年8ヵ月「現地のいま」をドローン撮（FRIDAY）",
@@ -128,7 +128,7 @@
       "_feedRegion": "jp",
       "_feedName": "Google News (JP 政策/実証)",
       "_scoring": {
-        "score": 72,
+        "score": 70,
         "categories": [
           "規制・政策",
           "技術・製品"
@@ -147,9 +147,45 @@
             "domain": "news.google.com",
             "multiplier": 0.8
           },
-          "freshness": 2,
+          "freshness": 0,
           "titleBonus": 10,
           "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "Skyports, Ras Al Khaimah Transport Authority finalise plans for a four-vertiport AAM network",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxPQ2Z1b1pMdHJFVnlhM2NLU1pUajNWZzNjU2NkaEtaOS1lRUw4MjBic2NZUEJiaVFVbGVPT2NzZmN6bi1oZ2ZmclNLbHlGMkljcDQyZm5SZmg4TnZBbC03SUdZNDVVZ3lxRE01QkZRdC12MzdHRDR5Rm5hal9kSUxUZnhWMVg3QU1GbFI4QmFCbVduQndYcGNXQTZJVndVWjZXUWg0UUJUVi1iWGJEbzQ4QlNraWlVTm9oWEdsSVV5N2VETDN2anhfeTJfZ0oyTldHdHdhSnpuQQ?oc=5\" target=\"_blank\">Skyports, Ras Al Khaimah Transport Authority finalise plans for a four-vertiport AAM network</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxPQ2Z1b1pMdHJFVnlhM2NLU1pUajNWZzNjU2NkaEtaOS1lRUw4MjBic2NZUEJiaVFVbGVPT2NzZmN6bi1oZ2ZmclNLbHlGMkljcDQyZm5SZmg4TnZBbC03SUdZNDVVZ3lxRE01QkZRdC12MzdHRDR5Rm5hal9kSUxUZnhWMVg3QU1GbFI4QmFCbVduQndYcGNXQTZJVndVWjZXUWg0UUJUVi1iWGJEbzQ4QlNraWlVTm9oWEdsSVV5N2VETDN2anhfeTJfZ0oyTldHdHdhSnpuQQ?oc=5\" target=\"_blank\">Skyports, Ras Al Khaimah Transport Authority finalise plans for a four-vertiport AAM network</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPQ2Z1b1pMdHJFVnlhM2NLU1pUajNWZzNjU2NkaEtaOS1lRUw4MjBic2NZUEJiaVFVbGVPT2NzZmN6bi1oZ2ZmclNLbHlGMkljcDQyZm5SZmg4TnZBbC03SUdZNDVVZ3lxRE01QkZRdC12MzdHRDR5Rm5hal9kSUxUZnhWMVg3QU1GbFI4QmFCbVduQndYcGNXQTZJVndVWjZXUWg0UUJUVi1iWGJEbzQ4QlNraWlVTm9oWEdsSVV5N2VETDN2anhfeTJfZ0oyTldHdHdhSnpuQQ?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPQ2Z1b1pMdHJFVnlhM2NLU1pUajNWZzNjU2NkaEtaOS1lRUw4MjBic2NZUEJiaVFVbGVPT2NzZmN6bi1oZ2ZmclNLbHlGMkljcDQyZm5SZmg4TnZBbC03SUdZNDVVZ3lxRE01QkZRdC12MzdHRDR5Rm5hal9kSUxUZnhWMVg3QU1GbFI4QmFCbVduQndYcGNXQTZJVndVWjZXUWg0UUJUVi1iWGJEbzQ4QlNraWlVTm9oWEdsSVV5N2VETDN2anhfeTJfZ0oyTldHdHdhSnpuQQ?oc=5",
+      "publishedAt": "2026-09-28T15:10:09.000Z",
+      "source": "Unmanned airspace",
+      "_feedRegion": "global",
+      "_feedName": "Google News (Global)",
+      "_scoring": {
+        "score": 69,
+        "categories": [
+          "市場・資金",
+          "政策・インフラ"
+        ],
+        "breakdown": {
+          "required": true,
+          "market": {
+            "matches": 2,
+            "catScore": 25
+          },
+          "policy": {
+            "matches": 2,
+            "catScore": 30
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 15,
+          "titleBonus": 10
         },
         "pass": true
       }
@@ -190,74 +226,6 @@
             "multiplier": 0.8
           },
           "freshness": 0
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "Eastern Oregon Regional Airport highlights $1.8M revenue, UAS growth in annual update",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOZlJHNUhsQkVNWFZXeGpPNzlyTXZ3Mjg1M1VrbGFSQkxMWHFjNENxWnRzaGlVNUl5UnFnNFRvRlEzUDdRSGQ3cmRUNUg0cnFReDh5R244RFIycWVMOC1iNHlvVFdBVW1IY0ZZVmlVck1YdGQ2bUNUc0ctQkNTLU44blhTZi03bDRoYW5rRHNHdTJBaW5ta2pKLW9VbV9JM1JoMDBZa1ZqcHpqemdmN3VJaW1iX2c?oc=5\" target=\"_blank\">Eastern Oregon Regional Airport highlights $1.8M revenue, UAS growth in annual update</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Elkhorn Media Group</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOZlJHNUhsQkVNWFZXeGpPNzlyTXZ3Mjg1M1VrbGFSQkxMWHFjNENxWnRzaGlVNUl5UnFnNFRvRlEzUDdRSGQ3cmRUNUg0cnFReDh5R244RFIycWVMOC1iNHlvVFdBVW1IY0ZZVmlVck1YdGQ2bUNUc0ctQkNTLU44blhTZi03bDRoYW5rRHNHdTJBaW5ta2pKLW9VbV9JM1JoMDBZa1ZqcHpqemdmN3VJaW1iX2c?oc=5\" target=\"_blank\">Eastern Oregon Regional Airport highlights $1.8M revenue, UAS growth in annual update</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Elkhorn Media Group</font>",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZlJHNUhsQkVNWFZXeGpPNzlyTXZ3Mjg1M1VrbGFSQkxMWHFjNENxWnRzaGlVNUl5UnFnNFRvRlEzUDdRSGQ3cmRUNUg0cnFReDh5R244RFIycWVMOC1iNHlvVFdBVW1IY0ZZVmlVck1YdGQ2bUNUc0ctQkNTLU44blhTZi03bDRoYW5rRHNHdTJBaW5ta2pKLW9VbV9JM1JoMDBZa1ZqcHpqemdmN3VJaW1iX2c?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZlJHNUhsQkVNWFZXeGpPNzlyTXZ3Mjg1M1VrbGFSQkxMWHFjNENxWnRzaGlVNUl5UnFnNFRvRlEzUDdRSGQ3cmRUNUg0cnFReDh5R244RFIycWVMOC1iNHlvVFdBVW1IY0ZZVmlVck1YdGQ2bUNUc0ctQkNTLU44blhTZi03bDRoYW5rRHNHdTJBaW5ta2pKLW9VbV9JM1JoMDBZa1ZqcHpqemdmN3VJaW1iX2c?oc=5",
-      "publishedAt": "2026-09-28T13:38:07.000Z",
-      "source": "Elkhorn Media Group",
-      "_feedRegion": "global",
-      "_feedName": "Google News (Global)",
-      "_scoring": {
-        "score": 65,
-        "categories": [
-          "市場・資金",
-          "政策・インフラ"
-        ],
-        "breakdown": {
-          "required": true,
-          "market": {
-            "matches": 1,
-            "catScore": 20
-          },
-          "policy": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 20,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "ドローンの「頭脳」を国産で。テラドローン、防衛用ドローン向けフライトコントローラー「Terra DFC」を自社開発、量産体制を構築 - digital-construction.jp",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE02S3FXSktsSjg2MXBWZzRuenpWTzNFQlJxSXZaa25IWVdCamtwdGpzd1RsVmVHZk9BenpLQzFDc2FZYzVlcHBTVC0zZzNUVElHQ1hZ?oc=5\" target=\"_blank\">ドローンの「頭脳」を国産で。テラドローン、防衛用ドローン向けフライトコントローラー「Terra DFC」を自社開発、量産体制を構築</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">digital-construction.jp</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE02S3FXSktsSjg2MXBWZzRuenpWTzNFQlJxSXZaa25IWVdCamtwdGpzd1RsVmVHZk9BenpLQzFDc2FZYzVlcHBTVC0zZzNUVElHQ1hZ?oc=5\" target=\"_blank\">ドローンの「頭脳」を国産で。テラドローン、防衛用ドローン向けフライトコントローラー「Terra DFC」を自社開発、量産体制を構築</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">digital-construction.jp</font>",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE02S3FXSktsSjg2MXBWZzRuenpWTzNFQlJxSXZaa25IWVdCamtwdGpzd1RsVmVHZk9BenpLQzFDc2FZYzVlcHBTVC0zZzNUVElHQ1hZ?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE02S3FXSktsSjg2MXBWZzRuenpWTzNFQlJxSXZaa25IWVdCamtwdGpzd1RsVmVHZk9BenpLQzFDc2FZYzVlcHBTVC0zZzNUVElHQ1hZ?oc=5",
-      "publishedAt": "2026-09-28T05:52:21.000Z",
-      "source": "digital-construction.jp",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP)",
-      "_scoring": {
-        "score": 64,
-        "categories": [
-          "技術・製品"
-        ],
-        "breakdown": {
-          "required": true,
-          "technology": {
-            "matches": 2,
-            "catScore": 30
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 15,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
         },
         "pass": true
       }
@@ -447,13 +415,45 @@
       }
     },
     {
-      "title": "Hackathon’s C-UAS technologies demonstrated at HCA Airport",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRnNSbkFYRFotOXQxdXFVcXZvRUNSRGlkb29QOG9VNXp3SHZEbUdPOW8ydXBXaGFWRDFNN0xCeEhxQjBZN2hta0tPN3RVeHlZblliX1FJYkxPUzZfY2E5WGtLX3FrT005Tl91aHhBVVdrYnlwN283eUpfc0NxcTJVbkJ2Uk12TGREenlKck5oUlJPckwyRi1ENnEwblh1VUhvQWh4Z3p5V2NqN3ZYUnM3bWFjLU5HLURUYTlCdGcyQkZkcjA?oc=5\" target=\"_blank\">Hackathon’s C-UAS technologies demonstrated at HCA Airport</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRnNSbkFYRFotOXQxdXFVcXZvRUNSRGlkb29QOG9VNXp3SHZEbUdPOW8ydXBXaGFWRDFNN0xCeEhxQjBZN2hta0tPN3RVeHlZblliX1FJYkxPUzZfY2E5WGtLX3FrT005Tl91aHhBVVdrYnlwN283eUpfc0NxcTJVbkJ2Uk12TGREenlKck5oUlJPckwyRi1ENnEwblh1VUhvQWh4Z3p5V2NqN3ZYUnM3bWFjLU5HLURUYTlCdGcyQkZkcjA?oc=5\" target=\"_blank\">Hackathon’s C-UAS technologies demonstrated at HCA Airport</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRnNSbkFYRFotOXQxdXFVcXZvRUNSRGlkb29QOG9VNXp3SHZEbUdPOW8ydXBXaGFWRDFNN0xCeEhxQjBZN2hta0tPN3RVeHlZblliX1FJYkxPUzZfY2E5WGtLX3FrT005Tl91aHhBVVdrYnlwN283eUpfc0NxcTJVbkJ2Uk12TGREenlKck5oUlJPckwyRi1ENnEwblh1VUhvQWh4Z3p5V2NqN3ZYUnM3bWFjLU5HLURUYTlCdGcyQkZkcjA?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRnNSbkFYRFotOXQxdXFVcXZvRUNSRGlkb29QOG9VNXp3SHZEbUdPOW8ydXBXaGFWRDFNN0xCeEhxQjBZN2hta0tPN3RVeHlZblliX1FJYkxPUzZfY2E5WGtLX3FrT005Tl91aHhBVVdrYnlwN283eUpfc0NxcTJVbkJ2Uk12TGREenlKck5oUlJPckwyRi1ENnEwblh1VUhvQWh4Z3p5V2NqN3ZYUnM3bWFjLU5HLURUYTlCdGcyQkZkcjA?oc=5",
-      "publishedAt": "2026-09-28T09:41:12.000Z",
-      "source": "Unmanned airspace",
+      "title": "国交省、日本スタートアップ大賞2026の国土交通スタートアップ賞を決定。「空飛ぶクルマ」のSkyDriveが国土交通大臣賞 - digital-construction.jp",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE1OOWFCNUg3NENVUjVWZXQ1OEhXNFJfcUh3SThrRjg1T3gtSkNuVnJVV0JMYnZLaXJNZEpSRkhNUG04OUd4U2NMbGY4S0cyOUc2d3ZV?oc=5\" target=\"_blank\">国交省、日本スタートアップ大賞2026の国土交通スタートアップ賞を決定。「空飛ぶクルマ」のSkyDriveが国土交通大臣賞</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">digital-construction.jp</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE1OOWFCNUg3NENVUjVWZXQ1OEhXNFJfcUh3SThrRjg1T3gtSkNuVnJVV0JMYnZLaXJNZEpSRkhNUG04OUd4U2NMbGY4S0cyOUc2d3ZV?oc=5\" target=\"_blank\">国交省、日本スタートアップ大賞2026の国土交通スタートアップ賞を決定。「空飛ぶクルマ」のSkyDriveが国土交通大臣賞</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">digital-construction.jp</font>",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1OOWFCNUg3NENVUjVWZXQ1OEhXNFJfcUh3SThrRjg1T3gtSkNuVnJVV0JMYnZLaXJNZEpSRkhNUG04OUd4U2NMbGY4S0cyOUc2d3ZV?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1OOWFCNUg3NENVUjVWZXQ1OEhXNFJfcUh3SThrRjg1T3gtSkNuVnJVV0JMYnZLaXJNZEpSRkhNUG04OUd4U2NMbGY4S0cyOUc2d3ZV?oc=5",
+      "publishedAt": "2026-09-28T05:37:21.000Z",
+      "source": "digital-construction.jp",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP 政策/実証)",
+      "_scoring": {
+        "score": 61,
+        "categories": [
+          "規制・政策"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 10,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "Eastern Oregon Regional Airport highlights $1.8M revenue, UAS growth in annual update",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOZlJHNUhsQkVNWFZXeGpPNzlyTXZ3Mjg1M1VrbGFSQkxMWHFjNENxWnRzaGlVNUl5UnFnNFRvRlEzUDdRSGQ3cmRUNUg0cnFReDh5R244RFIycWVMOC1iNHlvVFdBVW1IY0ZZVmlVck1YdGQ2bUNUc0ctQkNTLU44blhTZi03bDRoYW5rRHNHdTJBaW5ta2pKLW9VbV9JM1JoMDBZa1ZqcHpqemdmN3VJaW1iX2c?oc=5\" target=\"_blank\">Eastern Oregon Regional Airport highlights $1.8M revenue, UAS growth in annual update</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Elkhorn Media Group</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOZlJHNUhsQkVNWFZXeGpPNzlyTXZ3Mjg1M1VrbGFSQkxMWHFjNENxWnRzaGlVNUl5UnFnNFRvRlEzUDdRSGQ3cmRUNUg0cnFReDh5R244RFIycWVMOC1iNHlvVFdBVW1IY0ZZVmlVck1YdGQ2bUNUc0ctQkNTLU44blhTZi03bDRoYW5rRHNHdTJBaW5ta2pKLW9VbV9JM1JoMDBZa1ZqcHpqemdmN3VJaW1iX2c?oc=5\" target=\"_blank\">Eastern Oregon Regional Airport highlights $1.8M revenue, UAS growth in annual update</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Elkhorn Media Group</font>",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZlJHNUhsQkVNWFZXeGpPNzlyTXZ3Mjg1M1VrbGFSQkxMWHFjNENxWnRzaGlVNUl5UnFnNFRvRlEzUDdRSGQ3cmRUNUg0cnFReDh5R244RFIycWVMOC1iNHlvVFdBVW1IY0ZZVmlVck1YdGQ2bUNUc0ctQkNTLU44blhTZi03bDRoYW5rRHNHdTJBaW5ta2pKLW9VbV9JM1JoMDBZa1ZqcHpqemdmN3VJaW1iX2c?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZlJHNUhsQkVNWFZXeGpPNzlyTXZ3Mjg1M1VrbGFSQkxMWHFjNENxWnRzaGlVNUl5UnFnNFRvRlEzUDdRSGQ3cmRUNUg0cnFReDh5R244RFIycWVMOC1iNHlvVFdBVW1IY0ZZVmlVck1YdGQ2bUNUc0ctQkNTLU44blhTZi03bDRoYW5rRHNHdTJBaW5ta2pKLW9VbV9JM1JoMDBZa1ZqcHpqemdmN3VJaW1iX2c?oc=5",
+      "publishedAt": "2026-09-28T13:54:05.000Z",
+      "source": "Elkhorn Media Group",
       "_feedRegion": "global",
       "_feedName": "Google News (Global)",
       "_scoring": {
@@ -668,13 +668,13 @@
       }
     },
     {
-      "title": "台湾、ドローン開発で民主主義諸国との連携深化を 頼総統訴え",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOX0ZkMUxGTzJ1RHBnZXZZTkMyaFpwWWwyVGdwZllPTUdJeDgwM0VjRERQYkg1TnhlZXl2X1Zab0dOazZUTXFJSXBUV2tuUkpETVROcjl3TUV3SWc5aW5Qd2ozdzh6bmNyMUNQM0xIelVyRVhRYklvb2dVc1lqNGxKRDRmaVA?oc=5\" target=\"_blank\">台湾、ドローン開発で民主主義諸国との連携深化を 頼総統訴え</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOX0ZkMUxGTzJ1RHBnZXZZTkMyaFpwWWwyVGdwZllPTUdJeDgwM0VjRERQYkg1TnhlZXl2X1Zab0dOazZUTXFJSXBUV2tuUkpETVROcjl3TUV3SWc5aW5Qd2ozdzh6bmNyMUNQM0xIelVyRVhRYklvb2dVc1lqNGxKRDRmaVA?oc=5\" target=\"_blank\">台湾、ドローン開発で民主主義諸国との連携深化を 頼総統訴え</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOX0ZkMUxGTzJ1RHBnZXZZTkMyaFpwWWwyVGdwZllPTUdJeDgwM0VjRERQYkg1TnhlZXl2X1Zab0dOazZUTXFJSXBUV2tuUkpETVROcjl3TUV3SWc5aW5Qd2ozdzh6bmNyMUNQM0xIelVyRVhRYklvb2dVc1lqNGxKRDRmaVA?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOX0ZkMUxGTzJ1RHBnZXZZTkMyaFpwWWwyVGdwZllPTUdJeDgwM0VjRERQYkg1TnhlZXl2X1Zab0dOazZUTXFJSXBUV2tuUkpETVROcjl3TUV3SWc5aW5Qd2ozdzh6bmNyMUNQM0xIelVyRVhRYklvb2dVc1lqNGxKRDRmaVA?oc=5",
-      "publishedAt": "2026-09-28T04:06:00.000Z",
-      "source": "Reuters",
+      "title": "ドローンの「頭脳」を国産で。テラドローン、防衛用ドローン向けフライトコントローラー「Terra DFC」を自社開発、量産体制を構築 - digital-construction.jp",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE02S3FXSktsSjg2MXBWZzRuenpWTzNFQlJxSXZaa25IWVdCamtwdGpzd1RsVmVHZk9BenpLQzFDc2FZYzVlcHBTVC0zZzNUVElHQ1hZ?oc=5\" target=\"_blank\">ドローンの「頭脳」を国産で。テラドローン、防衛用ドローン向けフライトコントローラー「Terra DFC」を自社開発、量産体制を構築</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">digital-construction.jp</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE02S3FXSktsSjg2MXBWZzRuenpWTzNFQlJxSXZaa25IWVdCamtwdGpzd1RsVmVHZk9BenpLQzFDc2FZYzVlcHBTVC0zZzNUVElHQ1hZ?oc=5\" target=\"_blank\">ドローンの「頭脳」を国産で。テラドローン、防衛用ドローン向けフライトコントローラー「Terra DFC」を自社開発、量産体制を構築</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">digital-construction.jp</font>",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE02S3FXSktsSjg2MXBWZzRuenpWTzNFQlJxSXZaa25IWVdCamtwdGpzd1RsVmVHZk9BenpLQzFDc2FZYzVlcHBTVC0zZzNUVElHQ1hZ?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE02S3FXSktsSjg2MXBWZzRuenpWTzNFQlJxSXZaa25IWVdCamtwdGpzd1RsVmVHZk9BenpLQzFDc2FZYzVlcHBTVC0zZzNUVElHQ1hZ?oc=5",
+      "publishedAt": "2026-09-28T05:52:21.000Z",
+      "source": "digital-construction.jp",
       "_feedRegion": "jp",
       "_feedName": "Google News (JP)",
       "_scoring": {
@@ -685,14 +685,14 @@
         "breakdown": {
           "required": true,
           "technology": {
-            "matches": 1,
-            "catScore": 24
+            "matches": 2,
+            "catScore": 30
           },
           "sourceTrust": {
             "domain": "news.google.com",
             "multiplier": 0.8
           },
-          "freshness": 15,
+          "freshness": 10,
           "titleBonus": 10,
           "jpRegionBonus": 15
         },
@@ -700,77 +700,13 @@
       }
     },
     {
-      "title": "郵便局の屋上をドローン拠点に 日本郵便とKDDIが実証実験",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFBILVJfLVdmaGh5N0NqWmtPQWZzUkxoX2JkOGoyY0ZHX1M3aGxMemZvV3l1dW1rSUNmazlUTU1vaDRULVdwNklKd3JjSDZvazYzOWFHNUJkUQ?oc=5\" target=\"_blank\">郵便局の屋上をドローン拠点に 日本郵便とKDDIが実証実験</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TBS NEWS DIG</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFBILVJfLVdmaGh5N0NqWmtPQWZzUkxoX2JkOGoyY0ZHX1M3aGxMemZvV3l1dW1rSUNmazlUTU1vaDRULVdwNklKd3JjSDZvazYzOWFHNUJkUQ?oc=5\" target=\"_blank\">郵便局の屋上をドローン拠点に 日本郵便とKDDIが実証実験</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TBS NEWS DIG</font>",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBILVJfLVdmaGh5N0NqWmtPQWZzUkxoX2JkOGoyY0ZHX1M3aGxMemZvV3l1dW1rSUNmazlUTU1vaDRULVdwNklKd3JjSDZvazYzOWFHNUJkUQ?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBILVJfLVdmaGh5N0NqWmtPQWZzUkxoX2JkOGoyY0ZHX1M3aGxMemZvV3l1dW1rSUNmazlUTU1vaDRULVdwNklKd3JjSDZvazYzOWFHNUJkUQ?oc=5",
-      "publishedAt": "2026-09-28T03:20:45.000Z",
-      "source": "TBS NEWS DIG",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP)",
-      "_scoring": {
-        "score": 59,
-        "categories": [
-          "技術・製品"
-        ],
-        "breakdown": {
-          "required": true,
-          "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 15,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "台湾、ドローン開発で民主主義諸国との連携深化を 頼総統訴え（ロイター）",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9XRUZRMmRFWC1pRnNGMUNSZkRwZ0hpTVBkNlRtZGNvemsxV0xocG9VYmhoSzBJVXo0dWgwdlNXN2Jxb3dkVWRzdDRoNy0wdE1NVldZaFMwSl9sWHYyQjRybTZMYWE2dWdIUWlqbDFtdk54eGJJZVl5aWtMcF8tOUU?oc=5\" target=\"_blank\">台湾、ドローン開発で民主主義諸国との連携深化を 頼総統訴え（ロイター）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9XRUZRMmRFWC1pRnNGMUNSZkRwZ0hpTVBkNlRtZGNvemsxV0xocG9VYmhoSzBJVXo0dWgwdlNXN2Jxb3dkVWRzdDRoNy0wdE1NVldZaFMwSl9sWHYyQjRybTZMYWE2dWdIUWlqbDFtdk54eGJJZVl5aWtMcF8tOUU?oc=5\" target=\"_blank\">台湾、ドローン開発で民主主義諸国との連携深化を 頼総統訴え（ロイター）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9XRUZRMmRFWC1pRnNGMUNSZkRwZ0hpTVBkNlRtZGNvemsxV0xocG9VYmhoSzBJVXo0dWgwdlNXN2Jxb3dkVWRzdDRoNy0wdE1NVldZaFMwSl9sWHYyQjRybTZMYWE2dWdIUWlqbDFtdk54eGJJZVl5aWtMcF8tOUU?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9XRUZRMmRFWC1pRnNGMUNSZkRwZ0hpTVBkNlRtZGNvemsxV0xocG9VYmhoSzBJVXo0dWgwdlNXN2Jxb3dkVWRzdDRoNy0wdE1NVldZaFMwSl9sWHYyQjRybTZMYWE2dWdIUWlqbDFtdk54eGJJZVl5aWtMcF8tOUU?oc=5",
-      "publishedAt": "2026-09-28T04:06:19.000Z",
-      "source": "Yahoo!ニュース",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP)",
-      "_scoring": {
-        "score": 59,
-        "categories": [
-          "技術・製品"
-        ],
-        "breakdown": {
-          "required": true,
-          "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 15,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "【速報】郵便局をドローン拠点に KDDIと日本郵便が実証実験 防災や子どもの見守りに活用",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE16bHNHckNwSXVBcGJkM2FpbE14OEVlMnZWX1ZqRjNUU250Z3VDbGNMRXRtVW0xOTY5NlMwb09qeGx1cjUySWN4VHY4WQ?oc=5\" target=\"_blank\">【速報】郵便局をドローン拠点に KDDIと日本郵便が実証実験 防災や子どもの見守りに活用</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">47NEWS</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE16bHNHckNwSXVBcGJkM2FpbE14OEVlMnZWX1ZqRjNUU250Z3VDbGNMRXRtVW0xOTY5NlMwb09qeGx1cjUySWN4VHY4WQ?oc=5\" target=\"_blank\">【速報】郵便局をドローン拠点に KDDIと日本郵便が実証実験 防災や子どもの見守りに活用</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">47NEWS</font>",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE16bHNHckNwSXVBcGJkM2FpbE14OEVlMnZWX1ZqRjNUU250Z3VDbGNMRXRtVW0xOTY5NlMwb09qeGx1cjUySWN4VHY4WQ?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE16bHNHckNwSXVBcGJkM2FpbE14OEVlMnZWX1ZqRjNUU250Z3VDbGNMRXRtVW0xOTY5NlMwb09qeGx1cjUySWN4VHY4WQ?oc=5",
-      "publishedAt": "2026-09-28T07:55:22.000Z",
-      "source": "47NEWS",
+      "title": "全国の郵便局へドローン常設化を検討！日本郵便とKDDIが2027年度の本格運用を見据えた実証実験",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTFB5YzA3aW1uSUdraGE3NUxqUndQWC1TOXc4OXpHc0dPaGNsTUVvM0hyaFBGRVg1X1dLOFllZi1YdzV6dFY2WWQxQmtOcXk?oc=5\" target=\"_blank\">全国の郵便局へドローン常設化を検討！日本郵便とKDDIが2027年度の本格運用を見据えた実証実験</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DXマガジン</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTFB5YzA3aW1uSUdraGE3NUxqUndQWC1TOXc4OXpHc0dPaGNsTUVvM0hyaFBGRVg1X1dLOFllZi1YdzV6dFY2WWQxQmtOcXk?oc=5\" target=\"_blank\">全国の郵便局へドローン常設化を検討！日本郵便とKDDIが2027年度の本格運用を見据えた実証実験</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DXマガジン</font>",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB5YzA3aW1uSUdraGE3NUxqUndQWC1TOXc4OXpHc0dPaGNsTUVvM0hyaFBGRVg1X1dLOFllZi1YdzV6dFY2WWQxQmtOcXk?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB5YzA3aW1uSUdraGE3NUxqUndQWC1TOXc4OXpHc0dPaGNsTUVvM0hyaFBGRVg1X1dLOFllZi1YdzV6dFY2WWQxQmtOcXk?oc=5",
+      "publishedAt": "2026-09-28T13:33:45.000Z",
+      "source": "DXマガジン",
       "_feedRegion": "jp",
       "_feedName": "Google News (JP 政策/実証)",
       "_scoring": {
@@ -796,45 +732,13 @@
       }
     },
     {
-      "title": "郵便局をドローン拠点に KDDIと日本郵便が実験",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE5oZXJwM3E3cTRYUGc2SkhkSnA4dkx2dmYxbWxXSWZtbjVmVW8tN1B4TnFwMUt3cWgyd2pQRzBZRFdoQXktaEZmYlpHNEdtc19wVVJIYWdOdlE3aElSS1B4ZFNrUjZqclkxejV3eDZOUdIBdEFVX3lxTFBoLS1La1Z5S2dhS3Q3ZC14SXBpdUR6RWJiRDBCS2ZUQ3lvbHVjNjctdFBPamNDVkxQcENFa01OcDM0OWJTTU85X3dtb0JUS0FoZlVxZTI2NGRfLWpWbjYyeW40NUpBaGJ0Zk5iYklpNzk0bzBD?oc=5\" target=\"_blank\">郵便局をドローン拠点に KDDIと日本郵便が実験</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Infoseek</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE5oZXJwM3E3cTRYUGc2SkhkSnA4dkx2dmYxbWxXSWZtbjVmVW8tN1B4TnFwMUt3cWgyd2pQRzBZRFdoQXktaEZmYlpHNEdtc19wVVJIYWdOdlE3aElSS1B4ZFNrUjZqclkxejV3eDZOUdIBdEFVX3lxTFBoLS1La1Z5S2dhS3Q3ZC14SXBpdUR6RWJiRDBCS2ZUQ3lvbHVjNjctdFBPamNDVkxQcENFa01OcDM0OWJTTU85X3dtb0JUS0FoZlVxZTI2NGRfLWpWbjYyeW40NUpBaGJ0Zk5iYklpNzk0bzBD?oc=5\" target=\"_blank\">郵便局をドローン拠点に KDDIと日本郵便が実験</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Infoseek</font>",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5oZXJwM3E3cTRYUGc2SkhkSnA4dkx2dmYxbWxXSWZtbjVmVW8tN1B4TnFwMUt3cWgyd2pQRzBZRFdoQXktaEZmYlpHNEdtc19wVVJIYWdOdlE3aElSS1B4ZFNrUjZqclkxejV3eDZOUdIBdEFVX3lxTFBoLS1La1Z5S2dhS3Q3ZC14SXBpdUR6RWJiRDBCS2ZUQ3lvbHVjNjctdFBPamNDVkxQcENFa01OcDM0OWJTTU85X3dtb0JUS0FoZlVxZTI2NGRfLWpWbjYyeW40NUpBaGJ0Zk5iYklpNzk0bzBD?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5oZXJwM3E3cTRYUGc2SkhkSnA4dkx2dmYxbWxXSWZtbjVmVW8tN1B4TnFwMUt3cWgyd2pQRzBZRFdoQXktaEZmYlpHNEdtc19wVVJIYWdOdlE3aElSS1B4ZFNrUjZqclkxejV3eDZOUdIBdEFVX3lxTFBoLS1La1Z5S2dhS3Q3ZC14SXBpdUR6RWJiRDBCS2ZUQ3lvbHVjNjctdFBPamNDVkxQcENFa01OcDM0OWJTTU85X3dtb0JUS0FoZlVxZTI2NGRfLWpWbjYyeW40NUpBaGJ0Zk5iYklpNzk0bzBD?oc=5",
-      "publishedAt": "2026-09-28T06:43:31.000Z",
-      "source": "Infoseek",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP 政策/実証)",
-      "_scoring": {
-        "score": 59,
-        "categories": [
-          "政策・インフラ"
-        ],
-        "breakdown": {
-          "required": true,
-          "policy": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 15,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "国土交通スタートアップ賞、eVTOL開発のSkyDriveに",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFA0VkZJWlVjS2NmQnNkWm03NzlIVjY5Y2sxMHZkSHVKX3BVZXktX2s3UkhJNmo0VXZtTUtKWXFTOXVNaVViaXp1Z1p5X2wwbzRETGs2YzBINE92VW1GeExTRk9n0gFiQVVfeXFMUDRWRklaVWNLY2ZCc2RabTc3OUhWNjljazEwdmRIdUpfcFVleS1fazdSSEk2ajRVdm1NS0pZcVM5dU1pVWJpenVnWnlfbDBvNERMazZjMEg0T3ZVbUZ4TFNGT2c?oc=5\" target=\"_blank\">国土交通スタートアップ賞、eVTOL開発のSkyDriveに</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">最新不動産ニュースサイト「R.E.port」</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFA0VkZJWlVjS2NmQnNkWm03NzlIVjY5Y2sxMHZkSHVKX3BVZXktX2s3UkhJNmo0VXZtTUtKWXFTOXVNaVViaXp1Z1p5X2wwbzRETGs2YzBINE92VW1GeExTRk9n0gFiQVVfeXFMUDRWRklaVWNLY2ZCc2RabTc3OUhWNjljazEwdmRIdUpfcFVleS1fazdSSEk2ajRVdm1NS0pZcVM5dU1pVWJpenVnWnlfbDBvNERMazZjMEg0T3ZVbUZ4TFNGT2c?oc=5\" target=\"_blank\">国土交通スタートアップ賞、eVTOL開発のSkyDriveに</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">最新不動産ニュースサイト「R.E.port」</font>",
+      "title": "国土交通スタートアップ賞、eVTOL開発のSkyDriveに - re-port.net",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFA0VkZJWlVjS2NmQnNkWm03NzlIVjY5Y2sxMHZkSHVKX3BVZXktX2s3UkhJNmo0VXZtTUtKWXFTOXVNaVViaXp1Z1p5X2wwbzRETGs2YzBINE92VW1GeExTRk9n0gFiQVVfeXFMUDRWRklaVWNLY2ZCc2RabTc3OUhWNjljazEwdmRIdUpfcFVleS1fazdSSEk2ajRVdm1NS0pZcVM5dU1pVWJpenVnWnlfbDBvNERMazZjMEg0T3ZVbUZ4TFNGT2c?oc=5\" target=\"_blank\">国土交通スタートアップ賞、eVTOL開発のSkyDriveに</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">re-port.net</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFA0VkZJWlVjS2NmQnNkWm03NzlIVjY5Y2sxMHZkSHVKX3BVZXktX2s3UkhJNmo0VXZtTUtKWXFTOXVNaVViaXp1Z1p5X2wwbzRETGs2YzBINE92VW1GeExTRk9n0gFiQVVfeXFMUDRWRklaVWNLY2ZCc2RabTc3OUhWNjljazEwdmRIdUpfcFVleS1fazdSSEk2ajRVdm1NS0pZcVM5dU1pVWJpenVnWnlfbDBvNERMazZjMEg0T3ZVbUZ4TFNGT2c?oc=5\" target=\"_blank\">国土交通スタートアップ賞、eVTOL開発のSkyDriveに</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">re-port.net</font>",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA0VkZJWlVjS2NmQnNkWm03NzlIVjY5Y2sxMHZkSHVKX3BVZXktX2s3UkhJNmo0VXZtTUtKWXFTOXVNaVViaXp1Z1p5X2wwbzRETGs2YzBINE92VW1GeExTRk9n0gFiQVVfeXFMUDRWRklaVWNLY2ZCc2RabTc3OUhWNjljazEwdmRIdUpfcFVleS1fazdSSEk2ajRVdm1NS0pZcVM5dU1pVWJpenVnWnlfbDBvNERMazZjMEg0T3ZVbUZ4TFNGT2c?oc=5",
       "googleNewsUrl": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA0VkZJWlVjS2NmQnNkWm03NzlIVjY5Y2sxMHZkSHVKX3BVZXktX2s3UkhJNmo0VXZtTUtKWXFTOXVNaVViaXp1Z1p5X2wwbzRETGs2YzBINE92VW1GeExTRk9n0gFiQVVfeXFMUDRWRklaVWNLY2ZCc2RabTc3OUhWNjljazEwdmRIdUpfcFVleS1fazdSSEk2ajRVdm1NS0pZcVM5dU1pVWJpenVnWnlfbDBvNERMazZjMEg0T3ZVbUZ4TFNGT2c?oc=5",
       "publishedAt": "2026-09-28T10:58:53.000Z",
-      "source": "最新不動産ニュースサイト「R.E.port」",
+      "source": "re-port.net",
       "_feedRegion": "jp",
       "_feedName": "Google News (JP 事業者/実装)",
       "_scoring": {
@@ -964,14 +868,14 @@
     },
     {
       "title": "JISDA、ウクライナ現地調査に基づく「ドローン戦時代の戦術医療」レポートを公開",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFA5X1ZBQjBrRGc0c2JrNFppR0diWmh2cGpuZ0x2a1ZMS0dpTTYyT04xckFNUEVZUnF3Y0l1RWtJckxURkhUejJXdlN3ZUR2X0dGdDgzWjBnblN0WVZDdV9fWVZyQUFzSUFra05OdFBlSHdIbmoydWYyMg?oc=5\" target=\"_blank\">JISDA、ウクライナ現地調査に基づく「ドローン戦時代の戦術医療」レポートを公開</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ドローンジャーナル</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFA5X1ZBQjBrRGc0c2JrNFppR0diWmh2cGpuZ0x2a1ZMS0dpTTYyT04xckFNUEVZUnF3Y0l1RWtJckxURkhUejJXdlN3ZUR2X0dGdDgzWjBnblN0WVZDdV9fWVZyQUFzSUFra05OdFBlSHdIbmoydWYyMg?oc=5\" target=\"_blank\">JISDA、ウクライナ現地調査に基づく「ドローン戦時代の戦術医療」レポートを公開</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ドローンジャーナル</font>",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA5X1ZBQjBrRGc0c2JrNFppR0diWmh2cGpuZ0x2a1ZMS0dpTTYyT04xckFNUEVZUnF3Y0l1RWtJckxURkhUejJXdlN3ZUR2X0dGdDgzWjBnblN0WVZDdV9fWVZyQUFzSUFra05OdFBlSHdIbmoydWYyMg?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA5X1ZBQjBrRGc0c2JrNFppR0diWmh2cGpuZ0x2a1ZMS0dpTTYyT04xckFNUEVZUnF3Y0l1RWtJckxURkhUejJXdlN3ZUR2X0dGdDgzWjBnblN0WVZDdV9fWVZyQUFzSUFra05OdFBlSHdIbmoydWYyMg?oc=5",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9zUHlEOHpmZjVFZVRyRFZlbUw2elF2NS00UVFNZTltbXctV3lfRGpseU5LLWtQTXpmTGpqdWIzYzd1LWZwTEhHX0JkZUdBWmZuczhpbFNlNEhqYTIxQ1NLeF80UjVCbkVZN3c?oc=5\" target=\"_blank\">JISDA、ウクライナ現地調査に基づく「ドローン戦時代の戦術医療」レポートを公開</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ドローンジャーナル</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9zUHlEOHpmZjVFZVRyRFZlbUw2elF2NS00UVFNZTltbXctV3lfRGpseU5LLWtQTXpmTGpqdWIzYzd1LWZwTEhHX0JkZUdBWmZuczhpbFNlNEhqYTIxQ1NLeF80UjVCbkVZN3c?oc=5\" target=\"_blank\">JISDA、ウクライナ現地調査に基づく「ドローン戦時代の戦術医療」レポートを公開</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ドローンジャーナル</font>",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9zUHlEOHpmZjVFZVRyRFZlbUw2elF2NS00UVFNZTltbXctV3lfRGpseU5LLWtQTXpmTGpqdWIzYzd1LWZwTEhHX0JkZUdBWmZuczhpbFNlNEhqYTIxQ1NLeF80UjVCbkVZN3c?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9zUHlEOHpmZjVFZVRyRFZlbUw2elF2NS00UVFNZTltbXctV3lfRGpseU5LLWtQTXpmTGpqdWIzYzd1LWZwTEhHX0JkZUdBWmZuczhpbFNlNEhqYTIxQ1NLeF80UjVCbkVZN3c?oc=5",
       "publishedAt": "2026-09-27T23:41:43.000Z",
       "source": "ドローンジャーナル",
       "_feedRegion": "jp",
-      "_feedName": "Google News (JP 経済メディア)",
+      "_feedName": "Google News (JP)",
       "_scoring": {
         "score": 57,
         "categories": [
@@ -1062,6 +966,110 @@
           },
           "freshness": 0,
           "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "Northern Plains UAS Test Site Flies Medical and Agricultural BVLOS Demos on Vantis at NASAO",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxONnFFSzRaVTFWdnZUdUZkcV9IQlRHQmNYVXpRWnoxRWkxTFBmMC1mZ3RJRUtjbE5ocVA1NXdqVF9FeXR4bDZXYjV5WHNXU2VPZnY1R25iQXlfSzdxczE5MWNxRDNWQ1Uwak9wVXJ4blN5VTdPdDJBV0Z3dmJrUDVjSHdCZWdNZ0tmU19TUFI0T3JpX3E2RXVpTUs2MDRJS0toQXpBbE9IaTZVTkxaREM0c2dzVjVITnlEOTg0dk1JcHlpcGM?oc=5\" target=\"_blank\">Northern Plains UAS Test Site Flies Medical and Agricultural BVLOS Demos on Vantis at NASAO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dronelife</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxONnFFSzRaVTFWdnZUdUZkcV9IQlRHQmNYVXpRWnoxRWkxTFBmMC1mZ3RJRUtjbE5ocVA1NXdqVF9FeXR4bDZXYjV5WHNXU2VPZnY1R25iQXlfSzdxczE5MWNxRDNWQ1Uwak9wVXJ4blN5VTdPdDJBV0Z3dmJrUDVjSHdCZWdNZ0tmU19TUFI0T3JpX3E2RXVpTUs2MDRJS0toQXpBbE9IaTZVTkxaREM0c2dzVjVITnlEOTg0dk1JcHlpcGM?oc=5\" target=\"_blank\">Northern Plains UAS Test Site Flies Medical and Agricultural BVLOS Demos on Vantis at NASAO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dronelife</font>",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONnFFSzRaVTFWdnZUdUZkcV9IQlRHQmNYVXpRWnoxRWkxTFBmMC1mZ3RJRUtjbE5ocVA1NXdqVF9FeXR4bDZXYjV5WHNXU2VPZnY1R25iQXlfSzdxczE5MWNxRDNWQ1Uwak9wVXJ4blN5VTdPdDJBV0Z3dmJrUDVjSHdCZWdNZ0tmU19TUFI0T3JpX3E2RXVpTUs2MDRJS0toQXpBbE9IaTZVTkxaREM0c2dzVjVITnlEOTg0dk1JcHlpcGM?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONnFFSzRaVTFWdnZUdUZkcV9IQlRHQmNYVXpRWnoxRWkxTFBmMC1mZ3RJRUtjbE5ocVA1NXdqVF9FeXR4bDZXYjV5WHNXU2VPZnY1R25iQXlfSzdxczE5MWNxRDNWQ1Uwak9wVXJ4blN5VTdPdDJBV0Z3dmJrUDVjSHdCZWdNZ0tmU19TUFI0T3JpX3E2RXVpTUs2MDRJS0toQXpBbE9IaTZVTkxaREM0c2dzVjVITnlEOTg0dk1JcHlpcGM?oc=5",
+      "publishedAt": "2026-09-17T07:00:00.000Z",
+      "source": "Dronelife",
+      "_feedRegion": "us",
+      "_feedName": "FAA",
+      "_scoring": {
+        "score": 55,
+        "categories": [
+          "規制・政策",
+          "政策・インフラ"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
+          "policy": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 0,
+          "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "Hackathon’s C-UAS technologies demonstrated at HCA Airport",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRnNSbkFYRFotOXQxdXFVcXZvRUNSRGlkb29QOG9VNXp3SHZEbUdPOW8ydXBXaGFWRDFNN0xCeEhxQjBZN2hta0tPN3RVeHlZblliX1FJYkxPUzZfY2E5WGtLX3FrT005Tl91aHhBVVdrYnlwN283eUpfc0NxcTJVbkJ2Uk12TGREenlKck5oUlJPckwyRi1ENnEwblh1VUhvQWh4Z3p5V2NqN3ZYUnM3bWFjLU5HLURUYTlCdGcyQkZkcjA?oc=5\" target=\"_blank\">Hackathon’s C-UAS technologies demonstrated at HCA Airport</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRnNSbkFYRFotOXQxdXFVcXZvRUNSRGlkb29QOG9VNXp3SHZEbUdPOW8ydXBXaGFWRDFNN0xCeEhxQjBZN2hta0tPN3RVeHlZblliX1FJYkxPUzZfY2E5WGtLX3FrT005Tl91aHhBVVdrYnlwN283eUpfc0NxcTJVbkJ2Uk12TGREenlKck5oUlJPckwyRi1ENnEwblh1VUhvQWh4Z3p5V2NqN3ZYUnM3bWFjLU5HLURUYTlCdGcyQkZkcjA?oc=5\" target=\"_blank\">Hackathon’s C-UAS technologies demonstrated at HCA Airport</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRnNSbkFYRFotOXQxdXFVcXZvRUNSRGlkb29QOG9VNXp3SHZEbUdPOW8ydXBXaGFWRDFNN0xCeEhxQjBZN2hta0tPN3RVeHlZblliX1FJYkxPUzZfY2E5WGtLX3FrT005Tl91aHhBVVdrYnlwN283eUpfc0NxcTJVbkJ2Uk12TGREenlKck5oUlJPckwyRi1ENnEwblh1VUhvQWh4Z3p5V2NqN3ZYUnM3bWFjLU5HLURUYTlCdGcyQkZkcjA?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRnNSbkFYRFotOXQxdXFVcXZvRUNSRGlkb29QOG9VNXp3SHZEbUdPOW8ydXBXaGFWRDFNN0xCeEhxQjBZN2hta0tPN3RVeHlZblliX1FJYkxPUzZfY2E5WGtLX3FrT005Tl91aHhBVVdrYnlwN283eUpfc0NxcTJVbkJ2Uk12TGREenlKck5oUlJPckwyRi1ENnEwblh1VUhvQWh4Z3p5V2NqN3ZYUnM3bWFjLU5HLURUYTlCdGcyQkZkcjA?oc=5",
+      "publishedAt": "2026-09-28T09:41:12.000Z",
+      "source": "Unmanned airspace",
+      "_feedRegion": "global",
+      "_feedName": "Google News (Global)",
+      "_scoring": {
+        "score": 55,
+        "categories": [
+          "市場・資金",
+          "政策・インフラ"
+        ],
+        "breakdown": {
+          "required": true,
+          "market": {
+            "matches": 1,
+            "catScore": 20
+          },
+          "policy": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 10,
+          "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "台湾、ドローン開発で民主主義諸国との連携深化を 頼総統訴え",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOX0ZkMUxGTzJ1RHBnZXZZTkMyaFpwWWwyVGdwZllPTUdJeDgwM0VjRERQYkg1TnhlZXl2X1Zab0dOazZUTXFJSXBUV2tuUkpETVROcjl3TUV3SWc5aW5Qd2ozdzh6bmNyMUNQM0xIelVyRVhRYklvb2dVc1lqNGxKRDRmaVA?oc=5\" target=\"_blank\">台湾、ドローン開発で民主主義諸国との連携深化を 頼総統訴え</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOX0ZkMUxGTzJ1RHBnZXZZTkMyaFpwWWwyVGdwZllPTUdJeDgwM0VjRERQYkg1TnhlZXl2X1Zab0dOazZUTXFJSXBUV2tuUkpETVROcjl3TUV3SWc5aW5Qd2ozdzh6bmNyMUNQM0xIelVyRVhRYklvb2dVc1lqNGxKRDRmaVA?oc=5\" target=\"_blank\">台湾、ドローン開発で民主主義諸国との連携深化を 頼総統訴え</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOX0ZkMUxGTzJ1RHBnZXZZTkMyaFpwWWwyVGdwZllPTUdJeDgwM0VjRERQYkg1TnhlZXl2X1Zab0dOazZUTXFJSXBUV2tuUkpETVROcjl3TUV3SWc5aW5Qd2ozdzh6bmNyMUNQM0xIelVyRVhRYklvb2dVc1lqNGxKRDRmaVA?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOX0ZkMUxGTzJ1RHBnZXZZTkMyaFpwWWwyVGdwZllPTUdJeDgwM0VjRERQYkg1TnhlZXl2X1Zab0dOazZUTXFJSXBUV2tuUkpETVROcjl3TUV3SWc5aW5Qd2ozdzh6bmNyMUNQM0xIelVyRVhRYklvb2dVc1lqNGxKRDRmaVA?oc=5",
+      "publishedAt": "2026-09-28T04:06:00.000Z",
+      "source": "Reuters",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP)",
+      "_scoring": {
+        "score": 54,
+        "categories": [
+          "技術・製品"
+        ],
+        "breakdown": {
+          "required": true,
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 10,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
         },
         "pass": true
       }
