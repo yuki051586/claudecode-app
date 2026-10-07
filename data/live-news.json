@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-07T01:18:27.506Z",
-  "rawCount": 645,
+  "generatedAt": "2026-10-07T08:22:36.821Z",
+  "rawCount": 652,
   "articles": [
     {
       "title": "US states challenge FAA drone delivery review over noise and safety concerns",
@@ -39,42 +39,6 @@
           },
           "freshness": 0,
           "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "国交省・江口氏がGUTMAキーノートに登壇 「日本の規制はリスクベース」",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTFAyN2pBTTJVQk9kdU5lR2hkaHRSN3R0NXFIS3RkckJPcl9LdmYzcjZyVGVjak5xNDM4WGVhM2RpaXpKUWxmMkhUQXp3dDNxY3dH?oc=5\" target=\"_blank\">国交省・江口氏がGUTMAキーノートに登壇 「日本の規制はリスクベース」</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ドローントリビューン</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTFAyN2pBTTJVQk9kdU5lR2hkaHRSN3R0NXFIS3RkckJPcl9LdmYzcjZyVGVjak5xNDM4WGVhM2RpaXpKUWxmMkhUQXp3dDNxY3dH?oc=5\" target=\"_blank\">国交省・江口氏がGUTMAキーノートに登壇 「日本の規制はリスクベース」</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ドローントリビューン</font>",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAyN2pBTTJVQk9kdU5lR2hkaHRSN3R0NXFIS3RkckJPcl9LdmYzcjZyVGVjak5xNDM4WGVhM2RpaXpKUWxmMkhUQXp3dDNxY3dH?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAyN2pBTTJVQk9kdU5lR2hkaHRSN3R0NXFIS3RkckJPcl9LdmYzcjZyVGVjak5xNDM4WGVhM2RpaXpKUWxmMkhUQXp3dDNxY3dH?oc=5",
-      "publishedAt": "2026-10-06T04:14:14.000Z",
-      "source": "ドローントリビューン",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP 政策/実証)",
-      "_scoring": {
-        "score": 76,
-        "categories": [
-          "規制・政策",
-          "技術・製品"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 2,
-            "catScore": 40
-          },
-          "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 10,
-          "jpRegionBonus": 15
         },
         "pass": true
       }
@@ -121,6 +85,42 @@
       }
     },
     {
+      "title": "国交省・江口氏がGUTMAキーノートに登壇 「日本の規制はリスクベース」",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTFAyN2pBTTJVQk9kdU5lR2hkaHRSN3R0NXFIS3RkckJPcl9LdmYzcjZyVGVjak5xNDM4WGVhM2RpaXpKUWxmMkhUQXp3dDNxY3dH?oc=5\" target=\"_blank\">国交省・江口氏がGUTMAキーノートに登壇 「日本の規制はリスクベース」</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ドローントリビューン</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTFAyN2pBTTJVQk9kdU5lR2hkaHRSN3R0NXFIS3RkckJPcl9LdmYzcjZyVGVjak5xNDM4WGVhM2RpaXpKUWxmMkhUQXp3dDNxY3dH?oc=5\" target=\"_blank\">国交省・江口氏がGUTMAキーノートに登壇 「日本の規制はリスクベース」</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ドローントリビューン</font>",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAyN2pBTTJVQk9kdU5lR2hkaHRSN3R0NXFIS3RkckJPcl9LdmYzcjZyVGVjak5xNDM4WGVhM2RpaXpKUWxmMkhUQXp3dDNxY3dH?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAyN2pBTTJVQk9kdU5lR2hkaHRSN3R0NXFIS3RkckJPcl9LdmYzcjZyVGVjak5xNDM4WGVhM2RpaXpKUWxmMkhUQXp3dDNxY3dH?oc=5",
+      "publishedAt": "2026-10-06T04:14:14.000Z",
+      "source": "ドローントリビューン",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP 政策/実証)",
+      "_scoring": {
+        "score": 71,
+        "categories": [
+          "規制・政策",
+          "技術・製品"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 2,
+            "catScore": 40
+          },
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 5,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
       "title": "規制の十勝岳 ドローン計測 北大が実証実験",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VRGp4OEtjNGxFYTVhUUcyaDhlTG0xdDlQRGlKcGZpYnVNTWpFamxQMW9KZm0wVU1EQVlNYWxSU0JuT0xtYnJ5cnVlZDNNdTI1ZTFENzI1WVZLdw?oc=5\" target=\"_blank\">規制の十勝岳 ドローン計測 北大が実証実験</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">北海道新聞デジタル</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VRGp4OEtjNGxFYTVhUUcyaDhlTG0xdDlQRGlKcGZpYnVNTWpFamxQMW9KZm0wVU1EQVlNYWxSU0JuT0xtYnJ5cnVlZDNNdTI1ZTFENzI1WVZLdw?oc=5\" target=\"_blank\">規制の十勝岳 ドローン計測 北大が実証実験</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">北海道新聞デジタル</font>",
@@ -158,73 +158,33 @@
       }
     },
     {
-      "title": "FAA Awards $12 Million to 19 Drone Research Projects",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOZ0ZFZTdRQ2JUakR5SVUtQ1hvanNUbTFtZWo3bEEtWjduNk9Bcl9BbjlvMGVFWkdSWXREcXZ0dFBaY1dCX0xjRDBZY1ZCcFJHZ2NWRmlOVjVHZm45dk16ZURyTE5ULVZTcFBMN3J1b0RRQ2ZxOGh4T183X2E5SmJvbk5LVG8zQQ?oc=5\" target=\"_blank\">FAA Awards $12 Million to 19 Drone Research Projects</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Commercial UAV News</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOZ0ZFZTdRQ2JUakR5SVUtQ1hvanNUbTFtZWo3bEEtWjduNk9Bcl9BbjlvMGVFWkdSWXREcXZ0dFBaY1dCX0xjRDBZY1ZCcFJHZ2NWRmlOVjVHZm45dk16ZURyTE5ULVZTcFBMN3J1b0RRQ2ZxOGh4T183X2E5SmJvbk5LVG8zQQ?oc=5\" target=\"_blank\">FAA Awards $12 Million to 19 Drone Research Projects</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Commercial UAV News</font>",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZ0ZFZTdRQ2JUakR5SVUtQ1hvanNUbTFtZWo3bEEtWjduNk9Bcl9BbjlvMGVFWkdSWXREcXZ0dFBaY1dCX0xjRDBZY1ZCcFJHZ2NWRmlOVjVHZm45dk16ZURyTE5ULVZTcFBMN3J1b0RRQ2ZxOGh4T183X2E5SmJvbk5LVG8zQQ?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZ0ZFZTdRQ2JUakR5SVUtQ1hvanNUbTFtZWo3bEEtWjduNk9Bcl9BbjlvMGVFWkdSWXREcXZ0dFBaY1dCX0xjRDBZY1ZCcFJHZ2NWRmlOVjVHZm45dk16ZURyTE5ULVZTcFBMN3J1b0RRQ2ZxOGh4T183X2E5SmJvbk5LVG8zQQ?oc=5",
-      "publishedAt": "2026-10-06T18:10:07.000Z",
-      "source": "Commercial UAV News",
-      "_feedRegion": "us",
-      "_feedName": "FAA",
+      "title": "農地調査ドローンの9割が中国製 当局は「予算問題」と釈明＝韓国",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1EcnB4OU15UEgwblhlOE9DVl9lMjQ5N2pYY2ZfTEdYUjRkQ2xlSGhWQ1FJWUlvNHEzWFFuVGxCRUxHbmo4dUc5WDFoa0J3RDRzTTlBYnRhbTA1eERZOVFkdS04OTNJYWd0WjN5OVlBVGYtNy1EQlFEN2VldklRU0k?oc=5\" target=\"_blank\">農地調査ドローンの9割が中国製 当局は「予算問題」と釈明＝韓国</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1EcnB4OU15UEgwblhlOE9DVl9lMjQ5N2pYY2ZfTEdYUjRkQ2xlSGhWQ1FJWUlvNHEzWFFuVGxCRUxHbmo4dUc5WDFoa0J3RDRzTTlBYnRhbTA1eERZOVFkdS04OTNJYWd0WjN5OVlBVGYtNy1EQlFEN2VldklRU0k?oc=5\" target=\"_blank\">農地調査ドローンの9割が中国製 当局は「予算問題」と釈明＝韓国</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1EcnB4OU15UEgwblhlOE9DVl9lMjQ5N2pYY2ZfTEdYUjRkQ2xlSGhWQ1FJWUlvNHEzWFFuVGxCRUxHbmo4dUc5WDFoa0J3RDRzTTlBYnRhbTA1eERZOVFkdS04OTNJYWd0WjN5OVlBVGYtNy1EQlFEN2VldklRU0k?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1EcnB4OU15UEgwblhlOE9DVl9lMjQ5N2pYY2ZfTEdYUjRkQ2xlSGhWQ1FJWUlvNHEzWFFuVGxCRUxHbmo4dUc5WDFoa0J3RDRzTTlBYnRhbTA1eERZOVFkdS04OTNJYWd0WjN5OVlBVGYtNy1EQlFEN2VldklRU0k?oc=5",
+      "publishedAt": "2026-10-07T06:47:26.000Z",
+      "source": "Yahoo!ニュース",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP)",
       "_scoring": {
         "score": 67,
         "categories": [
-          "規制・政策",
-          "市場・資金"
+          "事故・事件"
         ],
         "breakdown": {
           "required": true,
-          "regulation": {
+          "incident": {
             "matches": 1,
-            "catScore": 32
-          },
-          "market": {
-            "matches": 1,
-            "catScore": 20
+            "catScore": 28
           },
           "sourceTrust": {
             "domain": "news.google.com",
             "multiplier": 0.8
           },
-          "freshness": 15,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "FAA Awards 19 Companies Drone Integration Funding",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNb3Foa2NUaVdYRlhDRHpkck5PY2h6dmVKMGp1VnBzQ2o0MW9MUUJpR1VFQzJORmVEQnBNRzktQzBWaE9CSlZwcm03UHc3clFWbEQ3eWdVSFplUFBfcnpnTm12T21vS0V5STQ4M1RyMnk0V1dPVWpJVWJWOVJpSmtGc0ZuWTZpM0pjTTdF?oc=5\" target=\"_blank\">FAA Awards 19 Companies Drone Integration Funding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ExecutiveGov</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNb3Foa2NUaVdYRlhDRHpkck5PY2h6dmVKMGp1VnBzQ2o0MW9MUUJpR1VFQzJORmVEQnBNRzktQzBWaE9CSlZwcm03UHc3clFWbEQ3eWdVSFplUFBfcnpnTm12T21vS0V5STQ4M1RyMnk0V1dPVWpJVWJWOVJpSmtGc0ZuWTZpM0pjTTdF?oc=5\" target=\"_blank\">FAA Awards 19 Companies Drone Integration Funding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ExecutiveGov</font>",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNb3Foa2NUaVdYRlhDRHpkck5PY2h6dmVKMGp1VnBzQ2o0MW9MUUJpR1VFQzJORmVEQnBNRzktQzBWaE9CSlZwcm03UHc3clFWbEQ3eWdVSFplUFBfcnpnTm12T21vS0V5STQ4M1RyMnk0V1dPVWpJVWJWOVJpSmtGc0ZuWTZpM0pjTTdF?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNb3Foa2NUaVdYRlhDRHpkck5PY2h6dmVKMGp1VnBzQ2o0MW9MUUJpR1VFQzJORmVEQnBNRzktQzBWaE9CSlZwcm03UHc3clFWbEQ3eWdVSFplUFBfcnpnTm12T21vS0V5STQ4M1RyMnk0V1dPVWpJVWJWOVJpSmtGc0ZuWTZpM0pjTTdF?oc=5",
-      "publishedAt": "2026-10-06T20:24:06.000Z",
-      "source": "ExecutiveGov",
-      "_feedRegion": "us",
-      "_feedName": "FAA",
-      "_scoring": {
-        "score": 67,
-        "categories": [
-          "規制・政策",
-          "市場・資金"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 1,
-            "catScore": 32
-          },
-          "market": {
-            "matches": 1,
-            "catScore": 20
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 15,
-          "titleBonus": 10
+          "freshness": 20,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
         },
         "pass": true
       }
@@ -260,38 +220,6 @@
             "multiplier": 0.8
           },
           "freshness": 0,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "【期待】万博で注目の空飛ぶクルマ 商用運航実現に向けタッグ！関西の企業など15社が開発会社と協業へ",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNTHFYYnNUUzdzTUxIcU5tOHJYYkV5dVhtal9oRm83aHh0ZGx2dDJoV2dwVk5WUjgwUGYtTlBtelI2UlFKX3VvNUVvUUFHYTZrTG1xVkxTUndpRURHUlNZQUFVOFVNclEybjRTVl85cFdLR013WGJCcFdPUFNoMDN0SjI0cjdicEE?oc=5\" target=\"_blank\">【期待】万博で注目の空飛ぶクルマ 商用運航実現に向けタッグ！関西の企業など15社が開発会社と協業へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日テレNEWS NNN</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNTHFYYnNUUzdzTUxIcU5tOHJYYkV5dVhtal9oRm83aHh0ZGx2dDJoV2dwVk5WUjgwUGYtTlBtelI2UlFKX3VvNUVvUUFHYTZrTG1xVkxTUndpRURHUlNZQUFVOFVNclEybjRTVl85cFdLR013WGJCcFdPUFNoMDN0SjI0cjdicEE?oc=5\" target=\"_blank\">【期待】万博で注目の空飛ぶクルマ 商用運航実現に向けタッグ！関西の企業など15社が開発会社と協業へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日テレNEWS NNN</font>",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTHFYYnNUUzdzTUxIcU5tOHJYYkV5dVhtal9oRm83aHh0ZGx2dDJoV2dwVk5WUjgwUGYtTlBtelI2UlFKX3VvNUVvUUFHYTZrTG1xVkxTUndpRURHUlNZQUFVOFVNclEybjRTVl85cFdLR013WGJCcFdPUFNoMDN0SjI0cjdicEE?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTHFYYnNUUzdzTUxIcU5tOHJYYkV5dVhtal9oRm83aHh0ZGx2dDJoV2dwVk5WUjgwUGYtTlBtelI2UlFKX3VvNUVvUUFHYTZrTG1xVkxTUndpRURHUlNZQUFVOFVNclEybjRTVl85cFdLR013WGJCcFdPUFNoMDN0SjI0cjdicEE?oc=5",
-      "publishedAt": "2026-10-07T00:15:00.000Z",
-      "source": "日テレNEWS NNN",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP)",
-      "_scoring": {
-        "score": 64,
-        "categories": [
-          "技術・製品"
-        ],
-        "breakdown": {
-          "required": true,
-          "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 20,
           "titleBonus": 10,
           "jpRegionBonus": 15
         },
@@ -482,6 +410,42 @@
       }
     },
     {
+      "title": "FAA Awards $12 Million to 19 Drone Research Projects",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOZ0ZFZTdRQ2JUakR5SVUtQ1hvanNUbTFtZWo3bEEtWjduNk9Bcl9BbjlvMGVFWkdSWXREcXZ0dFBaY1dCX0xjRDBZY1ZCcFJHZ2NWRmlOVjVHZm45dk16ZURyTE5ULVZTcFBMN3J1b0RRQ2ZxOGh4T183X2E5SmJvbk5LVG8zQQ?oc=5\" target=\"_blank\">FAA Awards $12 Million to 19 Drone Research Projects</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Commercial UAV News</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOZ0ZFZTdRQ2JUakR5SVUtQ1hvanNUbTFtZWo3bEEtWjduNk9Bcl9BbjlvMGVFWkdSWXREcXZ0dFBaY1dCX0xjRDBZY1ZCcFJHZ2NWRmlOVjVHZm45dk16ZURyTE5ULVZTcFBMN3J1b0RRQ2ZxOGh4T183X2E5SmJvbk5LVG8zQQ?oc=5\" target=\"_blank\">FAA Awards $12 Million to 19 Drone Research Projects</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Commercial UAV News</font>",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZ0ZFZTdRQ2JUakR5SVUtQ1hvanNUbTFtZWo3bEEtWjduNk9Bcl9BbjlvMGVFWkdSWXREcXZ0dFBaY1dCX0xjRDBZY1ZCcFJHZ2NWRmlOVjVHZm45dk16ZURyTE5ULVZTcFBMN3J1b0RRQ2ZxOGh4T183X2E5SmJvbk5LVG8zQQ?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZ0ZFZTdRQ2JUakR5SVUtQ1hvanNUbTFtZWo3bEEtWjduNk9Bcl9BbjlvMGVFWkdSWXREcXZ0dFBaY1dCX0xjRDBZY1ZCcFJHZ2NWRmlOVjVHZm45dk16ZURyTE5ULVZTcFBMN3J1b0RRQ2ZxOGh4T183X2E5SmJvbk5LVG8zQQ?oc=5",
+      "publishedAt": "2026-10-06T18:10:07.000Z",
+      "source": "Commercial UAV News",
+      "_feedRegion": "us",
+      "_feedName": "FAA",
+      "_scoring": {
+        "score": 62,
+        "categories": [
+          "規制・政策",
+          "市場・資金"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
+          "market": {
+            "matches": 1,
+            "catScore": 20
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 10,
+          "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
       "title": "Switzerland’s drone association gives its response to EASA’s latest U-space proposals",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPcmluMVRMZ2FrZ1pYaTFOaHdNUEk5WjJqWTJUZnlsbURWbzJKN0pzbmFtbGVtYmJmUVFjcG9HREVqSWlIU1ZqUG5ZS3hWUW5Ld1JMVTZmOGc5N0x3SG9NWjFTVV85c0xjbzdqSlRRQjAwbGlXOGZPNFRPelAwREZ6RzktaGJadzJ2eWR0dXZJS3U3S0J0bjQzUHBCWjJlTlREY2pjcXpfenhIdTltT0wzUzB2bmVzQjB6bFMtUWhMVVVUQ1l5eFdKSml2MTg?oc=5\" target=\"_blank\">Switzerland’s drone association gives its response to EASA’s latest U-space proposals</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPcmluMVRMZ2FrZ1pYaTFOaHdNUEk5WjJqWTJUZnlsbURWbzJKN0pzbmFtbGVtYmJmUVFjcG9HREVqSWlIU1ZqUG5ZS3hWUW5Ld1JMVTZmOGc5N0x3SG9NWjFTVV85c0xjbzdqSlRRQjAwbGlXOGZPNFRPelAwREZ6RzktaGJadzJ2eWR0dXZJS3U3S0J0bjQzUHBCWjJlTlREY2pjcXpfenhIdTltT0wzUzB2bmVzQjB6bFMtUWhMVVVUQ1l5eFdKSml2MTg?oc=5\" target=\"_blank\">Switzerland’s drone association gives its response to EASA’s latest U-space proposals</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
@@ -518,6 +482,38 @@
       }
     },
     {
+      "title": "日本ドローン市場調査レポート：市場規模・シェア・需要・主要企業・成長トレンドおよび展望（2026年～2034年）",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTFBIWWg3Y0NuMWdnY1I4cmRfLWtzVUtrMzFZdXV4UGdrQTF5NElWSE1uTGdWc1NjWTI1aERDQmw3X2s4c2hqcHMzaHFCLThJMzg?oc=5\" target=\"_blank\">日本ドローン市場調査レポート：市場規模・シェア・需要・主要企業・成長トレンドおよび展望（2026年～2034年）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Newscast.jp</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTFBIWWg3Y0NuMWdnY1I4cmRfLWtzVUtrMzFZdXV4UGdrQTF5NElWSE1uTGdWc1NjWTI1aERDQmw3X2s4c2hqcHMzaHFCLThJMzg?oc=5\" target=\"_blank\">日本ドローン市場調査レポート：市場規模・シェア・需要・主要企業・成長トレンドおよび展望（2026年～2034年）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Newscast.jp</font>",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBIWWg3Y0NuMWdnY1I4cmRfLWtzVUtrMzFZdXV4UGdrQTF5NElWSE1uTGdWc1NjWTI1aERDQmw3X2s4c2hqcHMzaHFCLThJMzg?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBIWWg3Y0NuMWdnY1I4cmRfLWtzVUtrMzFZdXV4UGdrQTF5NElWSE1uTGdWc1NjWTI1aERDQmw3X2s4c2hqcHMzaHFCLThJMzg?oc=5",
+      "publishedAt": "2026-10-06T22:06:00.000Z",
+      "source": "Newscast.jp",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP 事業者/実装)",
+      "_scoring": {
+        "score": 62,
+        "categories": [
+          "事故・事件"
+        ],
+        "breakdown": {
+          "required": true,
+          "incident": {
+            "matches": 1,
+            "catScore": 28
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 15,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
       "title": "15 States Sue FAA Over Drone Delivery Rules, Say Noise Review Fell Short",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQMEJpeEFyZGJzanZQbTZZcUdxcDdMZ1l2UXI3amxDQmNoUVFtYmNWZzRfNE9jYUcwNVp6cGRRT3BqVFgtWTVYM2g4THZXeHF0dWlzNWszYllNeHVLMUZPa01Ya2lvaUlIVUxQWUlsMnNjU1dJZEs1OUQ0b3JHczExWjRib0IxX0xzNDJTLWtDeGlDaFhQMXZ5Zy1qZWk2bUx6UnBV?oc=5\" target=\"_blank\">15 States Sue FAA Over Drone Delivery Rules, Say Noise Review Fell Short</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hoodline</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQMEJpeEFyZGJzanZQbTZZcUdxcDdMZ1l2UXI3amxDQmNoUVFtYmNWZzRfNE9jYUcwNVp6cGRRT3BqVFgtWTVYM2g4THZXeHF0dWlzNWszYllNeHVLMUZPa01Ya2lvaUlIVUxQWUlsMnNjU1dJZEs1OUQ0b3JHczExWjRib0IxX0xzNDJTLWtDeGlDaFhQMXZ5Zy1qZWk2bUx6UnBV?oc=5\" target=\"_blank\">15 States Sue FAA Over Drone Delivery Rules, Say Noise Review Fell Short</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hoodline</font>",
@@ -549,46 +545,6 @@
           },
           "freshness": 0,
           "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "When GNSS degradation affects more than navigation – the hidden impact on UTM and BVLOS decision-making",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxNXzh2YXVKTmtjc0F5RHhWZlRfUzdPSGhZZGN6WnZMZnBKY1pDckVBUE9KZEFpWlBkREFVMnVRUTJ2QmlWSy1BQkhoZlV6cnFZRkxnSDVING1xMEFBQjFDYTFQUWlmZmgxOFV5VzdlejBOSklLblF2R2JYQnVHZVVmYVhSWlh0R2Z0QkZJV1h5cXVHRnllemppNnhmd1k4QUU1czlqSnpVYWtaTXpZajZ0ZVZITVZVMHhXdEo4ZjMwYUZLTGNTWDM1WFY2V2VJWHNZWFM5M2RNREdOcFF6M2RqNWpxcVk?oc=5\" target=\"_blank\">When GNSS degradation affects more than navigation – the hidden impact on UTM and BVLOS decision-making</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxNXzh2YXVKTmtjc0F5RHhWZlRfUzdPSGhZZGN6WnZMZnBKY1pDckVBUE9KZEFpWlBkREFVMnVRUTJ2QmlWSy1BQkhoZlV6cnFZRkxnSDVING1xMEFBQjFDYTFQUWlmZmgxOFV5VzdlejBOSklLblF2R2JYQnVHZVVmYVhSWlh0R2Z0QkZJV1h5cXVHRnllemppNnhmd1k4QUU1czlqSnpVYWtaTXpZajZ0ZVZITVZVMHhXdEo4ZjMwYUZLTGNTWDM1WFY2V2VJWHNZWFM5M2RNREdOcFF6M2RqNWpxcVk?oc=5\" target=\"_blank\">When GNSS degradation affects more than navigation – the hidden impact on UTM and BVLOS decision-making</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNXzh2YXVKTmtjc0F5RHhWZlRfUzdPSGhZZGN6WnZMZnBKY1pDckVBUE9KZEFpWlBkREFVMnVRUTJ2QmlWSy1BQkhoZlV6cnFZRkxnSDVING1xMEFBQjFDYTFQUWlmZmgxOFV5VzdlejBOSklLblF2R2JYQnVHZVVmYVhSWlh0R2Z0QkZJV1h5cXVHRnllemppNnhmd1k4QUU1czlqSnpVYWtaTXpZajZ0ZVZITVZVMHhXdEo4ZjMwYUZLTGNTWDM1WFY2V2VJWHNZWFM5M2RNREdOcFF6M2RqNWpxcVk?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNXzh2YXVKTmtjc0F5RHhWZlRfUzdPSGhZZGN6WnZMZnBKY1pDckVBUE9KZEFpWlBkREFVMnVRUTJ2QmlWSy1BQkhoZlV6cnFZRkxnSDVING1xMEFBQjFDYTFQUWlmZmgxOFV5VzdlejBOSklLblF2R2JYQnVHZVVmYVhSWlh0R2Z0QkZJV1h5cXVHRnllemppNnhmd1k4QUU1czlqSnpVYWtaTXpZajZ0ZVZITVZVMHhXdEo4ZjMwYUZLTGNTWDM1WFY2V2VJWHNZWFM5M2RNREdOcFF6M2RqNWpxcVk?oc=5",
-      "publishedAt": "2026-09-30T08:06:10.000Z",
-      "source": "Unmanned airspace",
-      "_feedRegion": "global",
-      "_feedName": "Google News (Global)",
-      "_scoring": {
-        "score": 61,
-        "categories": [
-          "規制・政策",
-          "技術・製品",
-          "市場・資金"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 1,
-            "catScore": 32
-          },
-          "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "market": {
-            "matches": 1,
-            "catScore": 20
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 0
         },
         "pass": true
       }
@@ -703,117 +659,13 @@
       }
     },
     {
-      "title": "【特集】関空―京都を約25分、Space Aviationがヘリシャトル就航 1席2万円から",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE1QSVNJRDN1SnYzZGhYdzBBRy1Xb1A3dWVYWDE3aUZQWjRYRUlfVzUxam1xdFVmNzN6SVYxNmltR1JyT0F2cUZTUVk0dG1hRVgxMUphRmFNWkN4V2ExOTAxVjdyM01YMUtMZmYwdUdTZlo1YUtUZHFiY0NsOXY?oc=5\" target=\"_blank\">【特集】関空―京都を約25分、Space Aviationがヘリシャトル就航 1席2万円から</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ドローンジャーナル</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE1QSVNJRDN1SnYzZGhYdzBBRy1Xb1A3dWVYWDE3aUZQWjRYRUlfVzUxam1xdFVmNzN6SVYxNmltR1JyT0F2cUZTUVk0dG1hRVgxMUphRmFNWkN4V2ExOTAxVjdyM01YMUtMZmYwdUdTZlo1YUtUZHFiY0NsOXY?oc=5\" target=\"_blank\">【特集】関空―京都を約25分、Space Aviationがヘリシャトル就航 1席2万円から</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ドローンジャーナル</font>",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1QSVNJRDN1SnYzZGhYdzBBRy1Xb1A3dWVYWDE3aUZQWjRYRUlfVzUxam1xdFVmNzN6SVYxNmltR1JyT0F2cUZTUVk0dG1hRVgxMUphRmFNWkN4V2ExOTAxVjdyM01YMUtMZmYwdUdTZlo1YUtUZHFiY0NsOXY?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1QSVNJRDN1SnYzZGhYdzBBRy1Xb1A3dWVYWDE3aUZQWjRYRUlfVzUxam1xdFVmNzN6SVYxNmltR1JyT0F2cUZTUVk0dG1hRVgxMUphRmFNWkN4V2ExOTAxVjdyM01YMUtMZmYwdUdTZlo1YUtUZHFiY0NsOXY?oc=5",
-      "publishedAt": "2026-10-06T03:16:59.000Z",
-      "source": "ドローンジャーナル",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP 経済メディア)",
-      "_scoring": {
-        "score": 60,
-        "categories": [
-          "技術・製品",
-          "市場・資金"
-        ],
-        "breakdown": {
-          "required": true,
-          "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "market": {
-            "matches": 1,
-            "catScore": 20
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "Echodyne awarded $250 million JIATF-401 counter-UAS contract",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQblRQNWtwVlRoNkdUdzg5STd6U3RjbDhZSnBHd1FUN3hzTHl4YlFKOWpjNWM1M1VXWjJ1M19VaXA0U21LNnpDMlhHUDBseWhqM2l6dzJHOVJraWVFNWlvVFFCR1BWNmJEZG1hQXJTd1lIbUxWZmRZbVFVUUZZeUg5V3BnZ2xoY2gzSmJWRnlDOS1EWmdDMzJUWVFDY2R2a1NTSkhTRGYyT0pBUmJ5?oc=5\" target=\"_blank\">Echodyne awarded $250 million JIATF-401 counter-UAS contract</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Defense and Munitions</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQblRQNWtwVlRoNkdUdzg5STd6U3RjbDhZSnBHd1FUN3hzTHl4YlFKOWpjNWM1M1VXWjJ1M19VaXA0U21LNnpDMlhHUDBseWhqM2l6dzJHOVJraWVFNWlvVFFCR1BWNmJEZG1hQXJTd1lIbUxWZmRZbVFVUUZZeUg5V3BnZ2xoY2gzSmJWRnlDOS1EWmdDMzJUWVFDY2R2a1NTSkhTRGYyT0pBUmJ5?oc=5\" target=\"_blank\">Echodyne awarded $250 million JIATF-401 counter-UAS contract</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Defense and Munitions</font>",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQblRQNWtwVlRoNkdUdzg5STd6U3RjbDhZSnBHd1FUN3hzTHl4YlFKOWpjNWM1M1VXWjJ1M19VaXA0U21LNnpDMlhHUDBseWhqM2l6dzJHOVJraWVFNWlvVFFCR1BWNmJEZG1hQXJTd1lIbUxWZmRZbVFVUUZZeUg5V3BnZ2xoY2gzSmJWRnlDOS1EWmdDMzJUWVFDY2R2a1NTSkhTRGYyT0pBUmJ5?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQblRQNWtwVlRoNkdUdzg5STd6U3RjbDhZSnBHd1FUN3hzTHl4YlFKOWpjNWM1M1VXWjJ1M19VaXA0U21LNnpDMlhHUDBseWhqM2l6dzJHOVJraWVFNWlvVFFCR1BWNmJEZG1hQXJTd1lIbUxWZmRZbVFVUUZZeUg5V3BnZ2xoY2gzSmJWRnlDOS1EWmdDMzJUWVFDY2R2a1NTSkhTRGYyT0pBUmJ5?oc=5",
-      "publishedAt": "2026-10-06T07:00:00.000Z",
-      "source": "Defense and Munitions",
-      "_feedRegion": "global",
-      "_feedName": "Google News (Global)",
-      "_scoring": {
-        "score": 59,
-        "categories": [
-          "市場・資金",
-          "政策・インフラ"
-        ],
-        "breakdown": {
-          "required": true,
-          "market": {
-            "matches": 2,
-            "catScore": 25
-          },
-          "policy": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 10,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "防衛ドローン加速、主役は新興 防衛省も早期量産へ本腰",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQQzI1M1B0c29hRFEybjNkSXZoTGdvUEhKb1lCdjYyRkJSQU9uOHpfZHludEgxTl92ZWxSSER6WlJzdVRZVFY5c2ltM1dhcHRjTGlCZHlNZFhSc1g3cWdNeUlrTU42SXhjcVlTLVEyUHZQMUdtOG9tdnJjWmxvSHJKcjc2NE9vdUE?oc=5\" target=\"_blank\">防衛ドローン加速、主役は新興 防衛省も早期量産へ本腰</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQQzI1M1B0c29hRFEybjNkSXZoTGdvUEhKb1lCdjYyRkJSQU9uOHpfZHludEgxTl92ZWxSSER6WlJzdVRZVFY5c2ltM1dhcHRjTGlCZHlNZFhSc1g3cWdNeUlrTU42SXhjcVlTLVEyUHZQMUdtOG9tdnJjWmxvSHJKcjc2NE9vdUE?oc=5\" target=\"_blank\">防衛ドローン加速、主役は新興 防衛省も早期量産へ本腰</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQzI1M1B0c29hRFEybjNkSXZoTGdvUEhKb1lCdjYyRkJSQU9uOHpfZHludEgxTl92ZWxSSER6WlJzdVRZVFY5c2ltM1dhcHRjTGlCZHlNZFhSc1g3cWdNeUlrTU42SXhjcVlTLVEyUHZQMUdtOG9tdnJjWmxvSHJKcjc2NE9vdUE?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQzI1M1B0c29hRFEybjNkSXZoTGdvUEhKb1lCdjYyRkJSQU9uOHpfZHludEgxTl92ZWxSSER6WlJzdVRZVFY5c2ltM1dhcHRjTGlCZHlNZFhSc1g3cWdNeUlrTU42SXhjcVlTLVEyUHZQMUdtOG9tdnJjWmxvSHJKcjc2NE9vdUE?oc=5",
-      "publishedAt": "2026-10-06T20:00:00.000Z",
-      "source": "日本経済新聞",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP)",
-      "_scoring": {
-        "score": 59,
-        "categories": [
-          "技術・製品"
-        ],
-        "breakdown": {
-          "required": true,
-          "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 15,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "ルノー、車の量産力を軍用ドローンへ 低コストで大量生産",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE5YOEFPQU55XzBERXlVZU9DVTFkQUlHUHMtTmg4Y05oLUczcFB4SVg1Q1ppaDVidnVIYXhMZk5IZXVBNzRrbG90OXdZaFFROTdpLWRzdXNtbGJXUTZrSEx2dUFxNzdsNWlCVk9FMFdrU1JPVkExZzJr?oc=5\" target=\"_blank\">ルノー、車の量産力を軍用ドローンへ 低コストで大量生産</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE5YOEFPQU55XzBERXlVZU9DVTFkQUlHUHMtTmg4Y05oLUczcFB4SVg1Q1ppaDVidnVIYXhMZk5IZXVBNzRrbG90OXdZaFFROTdpLWRzdXNtbGJXUTZrSEx2dUFxNzdsNWlCVk9FMFdrU1JPVkExZzJr?oc=5\" target=\"_blank\">ルノー、車の量産力を軍用ドローンへ 低コストで大量生産</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5YOEFPQU55XzBERXlVZU9DVTFkQUlHUHMtTmg4Y05oLUczcFB4SVg1Q1ppaDVidnVIYXhMZk5IZXVBNzRrbG90OXdZaFFROTdpLWRzdXNtbGJXUTZrSEx2dUFxNzdsNWlCVk9FMFdrU1JPVkExZzJr?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5YOEFPQU55XzBERXlVZU9DVTFkQUlHUHMtTmg4Y05oLUczcFB4SVg1Q1ppaDVidnVIYXhMZk5IZXVBNzRrbG90OXdZaFFROTdpLWRzdXNtbGJXUTZrSEx2dUFxNzdsNWlCVk9FMFdrU1JPVkExZzJr?oc=5",
-      "publishedAt": "2026-10-06T15:00:00.000Z",
-      "source": "日本経済新聞",
+      "title": "【期待】万博で注目の空飛ぶクルマ 商用運航実現に向けタッグ！関西の企業など15社が開発会社と協業へ",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNTHFYYnNUUzdzTUxIcU5tOHJYYkV5dVhtal9oRm83aHh0ZGx2dDJoV2dwVk5WUjgwUGYtTlBtelI2UlFKX3VvNUVvUUFHYTZrTG1xVkxTUndpRURHUlNZQUFVOFVNclEybjRTVl85cFdLR013WGJCcFdPUFNoMDN0SjI0cjdicEE?oc=5\" target=\"_blank\">【期待】万博で注目の空飛ぶクルマ 商用運航実現に向けタッグ！関西の企業など15社が開発会社と協業へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日テレNEWS NNN</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNTHFYYnNUUzdzTUxIcU5tOHJYYkV5dVhtal9oRm83aHh0ZGx2dDJoV2dwVk5WUjgwUGYtTlBtelI2UlFKX3VvNUVvUUFHYTZrTG1xVkxTUndpRURHUlNZQUFVOFVNclEybjRTVl85cFdLR013WGJCcFdPUFNoMDN0SjI0cjdicEE?oc=5\" target=\"_blank\">【期待】万博で注目の空飛ぶクルマ 商用運航実現に向けタッグ！関西の企業など15社が開発会社と協業へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日テレNEWS NNN</font>",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTHFYYnNUUzdzTUxIcU5tOHJYYkV5dVhtal9oRm83aHh0ZGx2dDJoV2dwVk5WUjgwUGYtTlBtelI2UlFKX3VvNUVvUUFHYTZrTG1xVkxTUndpRURHUlNZQUFVOFVNclEybjRTVl85cFdLR013WGJCcFdPUFNoMDN0SjI0cjdicEE?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTHFYYnNUUzdzTUxIcU5tOHJYYkV5dVhtal9oRm83aHh0ZGx2dDJoV2dwVk5WUjgwUGYtTlBtelI2UlFKX3VvNUVvUUFHYTZrTG1xVkxTUndpRURHUlNZQUFVOFVNclEybjRTVl85cFdLR013WGJCcFdPUFNoMDN0SjI0cjdicEE?oc=5",
+      "publishedAt": "2026-10-07T00:15:00.000Z",
+      "source": "日テレNEWS NNN",
       "_feedRegion": "jp",
       "_feedName": "Google News (JP)",
       "_scoring": {
@@ -947,6 +799,42 @@
       }
     },
     {
+      "title": "TEXCON 2026 Brings Texas' Premier Public Safety UAS Conference to Globe Life Field",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNcDhHRUMtSTd0S2FUOUhKTkRWcmJ5MThmUlJyOGhqUlJtMmx0eFhjT3dxbU1ULUUxU09fS2lWT0hvSHF5MzhhX3VBaHY2MUs2c01Ya1JNRHU3bDZKcnkyN3loTVpSRWQxR3NZSFBKSnZZbVVDdHYtYTgweDcxUFNmZERrenZkUnNVY25XREVqSy1xNXFObHNMcUpHNmxhblZua1UwM1kzT2FFUHpEOUFSWUh3?oc=5\" target=\"_blank\">TEXCON 2026 Brings Texas' Premier Public Safety UAS Conference to Globe Life Field</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The National Law Review</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNcDhHRUMtSTd0S2FUOUhKTkRWcmJ5MThmUlJyOGhqUlJtMmx0eFhjT3dxbU1ULUUxU09fS2lWT0hvSHF5MzhhX3VBaHY2MUs2c01Ya1JNRHU3bDZKcnkyN3loTVpSRWQxR3NZSFBKSnZZbVVDdHYtYTgweDcxUFNmZERrenZkUnNVY25XREVqSy1xNXFObHNMcUpHNmxhblZua1UwM1kzT2FFUHpEOUFSWUh3?oc=5\" target=\"_blank\">TEXCON 2026 Brings Texas' Premier Public Safety UAS Conference to Globe Life Field</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The National Law Review</font>",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcDhHRUMtSTd0S2FUOUhKTkRWcmJ5MThmUlJyOGhqUlJtMmx0eFhjT3dxbU1ULUUxU09fS2lWT0hvSHF5MzhhX3VBaHY2MUs2c01Ya1JNRHU3bDZKcnkyN3loTVpSRWQxR3NZSFBKSnZZbVVDdHYtYTgweDcxUFNmZERrenZkUnNVY25XREVqSy1xNXFObHNMcUpHNmxhblZua1UwM1kzT2FFUHpEOUFSWUh3?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcDhHRUMtSTd0S2FUOUhKTkRWcmJ5MThmUlJyOGhqUlJtMmx0eFhjT3dxbU1ULUUxU09fS2lWT0hvSHF5MzhhX3VBaHY2MUs2c01Ya1JNRHU3bDZKcnkyN3loTVpSRWQxR3NZSFBKSnZZbVVDdHYtYTgweDcxUFNmZERrenZkUnNVY25XREVqSy1xNXFObHNMcUpHNmxhblZua1UwM1kzT2FFUHpEOUFSWUh3?oc=5",
+      "publishedAt": "2026-10-05T15:55:59.000Z",
+      "source": "The National Law Review",
+      "_feedRegion": "global",
+      "_feedName": "Google News (Global)",
+      "_scoring": {
+        "score": 57,
+        "categories": [
+          "事故・事件",
+          "政策・インフラ"
+        ],
+        "breakdown": {
+          "required": true,
+          "incident": {
+            "matches": 1,
+            "catScore": 28
+          },
+          "policy": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 5,
+          "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
       "title": "ブルーイノベーション、高水位下水道を「ELIOS 3」の3Dマッピング用LiDARで安全調査。八戸市の下水道点検実証",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE00SFZxdHMtaFVlczRSRGJWTHJ1WW9qcURLbHRhbHVRU1hyU21TcGFMM0ZDVzlIdmYxdVJCVG1sYWFsM2phOW8yNjUwRUNSdDJQbWp2bGZieEdtZ2s?oc=5\" target=\"_blank\">ブルーイノベーション、高水位下水道を「ELIOS 3」の3Dマッピング用LiDARで安全調査。八戸市の下水道点検実証</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DRONE.jp</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE00SFZxdHMtaFVlczRSRGJWTHJ1WW9qcURLbHRhbHVRU1hyU21TcGFMM0ZDVzlIdmYxdVJCVG1sYWFsM2phOW8yNjUwRUNSdDJQbWp2bGZieEdtZ2s?oc=5\" target=\"_blank\">ブルーイノベーション、高水位下水道を「ELIOS 3」の3Dマッピング用LiDARで安全調査。八戸市の下水道点検実証</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DRONE.jp</font>",
@@ -977,38 +865,6 @@
             "multiplier": 0.8
           },
           "freshness": 0,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "建設を革新するドローン、その最前線に迫る",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYWlYZFNyX25IR3RDbHRrUFJ5b3dfaTluRWpROXdGNlJ2eVpkZHVqUlJkS0UwZlpETzFDdUU5LXdXYUN4V0FzVDRuRDNsbjJkeWlncGpTTl96Mm5mRU1MR1ptTjJXdk9EYnVnNDhpc3NTbGoxZ3FLdjUwS2tOVlZubVB3OGQxUGdOZ1k0Z1ZtYzdSUzFTbHQ0aVNDQVFpR1JtbnVHZHE0dHBrTk1PQ3lYWG16Ry1pclFaalBxbV9kZjJ2OEU?oc=5\" target=\"_blank\">建設を革新するドローン、その最前線に迫る</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日経クロステック（xTECH）</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYWlYZFNyX25IR3RDbHRrUFJ5b3dfaTluRWpROXdGNlJ2eVpkZHVqUlJkS0UwZlpETzFDdUU5LXdXYUN4V0FzVDRuRDNsbjJkeWlncGpTTl96Mm5mRU1MR1ptTjJXdk9EYnVnNDhpc3NTbGoxZ3FLdjUwS2tOVlZubVB3OGQxUGdOZ1k0Z1ZtYzdSUzFTbHQ0aVNDQVFpR1JtbnVHZHE0dHBrTk1PQ3lYWG16Ry1pclFaalBxbV9kZjJ2OEU?oc=5\" target=\"_blank\">建設を革新するドローン、その最前線に迫る</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日経クロステック（xTECH）</font>",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYWlYZFNyX25IR3RDbHRrUFJ5b3dfaTluRWpROXdGNlJ2eVpkZHVqUlJkS0UwZlpETzFDdUU5LXdXYUN4V0FzVDRuRDNsbjJkeWlncGpTTl96Mm5mRU1MR1ptTjJXdk9EYnVnNDhpc3NTbGoxZ3FLdjUwS2tOVlZubVB3OGQxUGdOZ1k0Z1ZtYzdSUzFTbHQ0aVNDQVFpR1JtbnVHZHE0dHBrTk1PQ3lYWG16Ry1pclFaalBxbV9kZjJ2OEU?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYWlYZFNyX25IR3RDbHRrUFJ5b3dfaTluRWpROXdGNlJ2eVpkZHVqUlJkS0UwZlpETzFDdUU5LXdXYUN4V0FzVDRuRDNsbjJkeWlncGpTTl96Mm5mRU1MR1ptTjJXdk9EYnVnNDhpc3NTbGoxZ3FLdjUwS2tOVlZubVB3OGQxUGdOZ1k0Z1ZtYzdSUzFTbHQ0aVNDQVFpR1JtbnVHZHE0dHBrTk1PQ3lYWG16Ry1pclFaalBxbV9kZjJ2OEU?oc=5",
-      "publishedAt": "2026-10-05T07:56:33.000Z",
-      "source": "日経クロステック（xTECH）",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP 経済メディア)",
-      "_scoring": {
-        "score": 56,
-        "categories": [
-          "規制・政策"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 1,
-            "catScore": 32
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 5,
-          "titleBonus": 10,
           "jpRegionBonus": 15
         },
         "pass": true
@@ -1058,6 +914,150 @@
       "googleNewsUrl": "https://news.google.com/rss/articles/CBMiswpBVV95cUxOUXBrb2NwcDVzR0M2NUVjQ1BJQzdKUFlsUXhsTE5RZzJoRnhQVUxFU2ZRNkJCU09vVldaMzRQTWFyTVgyWFlvUU5QcmxZaDFNTnk0RWdYN3VGNHBvOGMxeGIxUFJkdjBMTTBYOURoTDVNYWlCZnJGU1Y5c2NhYXd5LUZaSlFOek1FY0xUckhNV292cFhTb1NVRlViZTRLb094UnNYVC1QRFZXWkdoOTRfYWViRHIwWFNyYktXMzVfM29QUTlaeTJpalllRUVRX3lCWmlzSVJxTmxfZi1VeFh3MFNrS0tscnQycUdEdkI3dzRtWEJtU052cV8tX1N1MGtJcG81T3p3UlBndWpwdFVnMGIzWVdsUzVfS1pRN1dRSE52WDBxN0tmZ19IVXA3elFwRENuVUd6djh5Mlc1ZFZYWk9yeEEyQ1p1c1VrOXV3aVpfUUpQTVpXOENCU0RQalBCS0RYUVp1VU9PVGxiRUFsV3l6UVhpTGdWUlY5YldPZDJEYnFXVDJYRHRkTVZfY05vQ1VkYy0yeVlUZjRkV1VfU0p6azBrczJsamZHN0Y1alk3X2s5Vy1oUmRtdlZ2d08tWVVrdW51dHRIS0dKV2owemJ5TWhGeFl2Vy1raVd6UWt2aVdPRV9lWEFfVFBZclQtWkJyamtjUFdxRDRPNGpuVGx6Q3lXcFdWc0NZNmd6cllvTHhIZnRBLWVrMDFVU0d5VUpsNV9veFJSZGhkYlY0SE1QeVB0WnY5MnNCNlZrbEMzaEktYlNzS1lrWXZNNDFQbWc5Q2dKX3VvY1dSbl9KR1NxSnpCR09SVHliSGU0ZnRGWllrX1pPaXpUYUF2QS1HZmh4SndIWmxISll1LVhhX3pqNlM5M09ZZzN0ZVBlelh3UUVGU1g0Wlo2bDh4WXdKQ2VibURFUmVNN2lubjBnZTYtLTlIMThiOW1obnY1SXkzZUd5NVVHLTkxWmhhckVoWVNNVVRJcGNEdkl2bnF3TkRVVTRIejlqamkwemhET3Y3aTV4TXc1WW5tYkh2TlZiNjViak91X3d2dWhMeVNtanVKR2tDN2pwZTRlMVY0V045NjE2N3l5YWJWcTJhR2hOYk1rZVdqczRSOEhTSWdrSDVCTEhGQ3BPOUlTbG5HZ2k0UDJYVFdyVVlpVFh1YmRhQmVFdUdxMGUzR1lsT0lKYkE3ZWJFQjlkUE1lVEcyYWRrSi12YzdOZEFJR3k1NnYzVEJLRFZWalhFclhqdTNhRmRxMXh0N0hfWU1IdDJxWFpSdDJQYzBldlJRaWx1MlpEcl9GQmRuU2Rwc1RMVTZoSjFlaEVLM2NiVTU5WEFYNzAyeDRta203TDZ3am9STWNCV2NRcXBldlhacXR2NVluUHFFdF91V2NjdmloQ09SVkhGZER3d2E3a1dvZlFuR3hsVnNBbDBRVG1UQWY3QTQzZ25ZU3EyUmwwQkZrdDBfbVlYVXEtc3Zzd2wwbjZNRTZtV002X0x0TVY4bGZGOHUwRHluajd2bDhERXVWZVJDTk5ncWhHM3FKNkxXUm12OU1vcFR4cTFCRVJ0XzRHSk5fYWdFa0J1VDA3WThUWkhlLURSel9SVFFEWWZ3cl9YdTFqcDFCR1V0TVRXWTZ3TEwtaEw5bFJaQ0JKSVRfQjZhNGk1eVZXeDdzdHd5V0dxdVEyWUJKbkRfRDRVaUhjZUgzMkdhUUhoSVpBU2NtTVAwNTMyakFQX0ZPdEF3bm5SYkFuZG8yRlJDblRzel9ZSmpjbldYWdIB1AFBVV95cUxNSDFRT19tQnhMaVZkSUxRYV9RdkE4V0ZuWU1xRjhWeFBXaHNrNDVRNkQ4bnlKeWt4VWkyRFNFeUh0MTFtRGUxMXdldXAxNU1oUjVxM3phZWNtTWtLUzNodGkzb3lBYTE3Z2FrREg5cXc4Y3hleHBkNWhJeVJsdHBMMTZVOXFfSEd6NmNKb25MclVnMnlyXzVjTzNOeEtWZzFlQmRaOVp4ekJjaG5GdkhVZlM0NVllV1FIa21JQjVoemF3bWczVFc0U0ZNOFk0YVV4ZjFmdA?oc=5",
       "publishedAt": "2026-10-04T00:19:01.000Z",
       "source": "ABC7 Los Angeles",
+      "_feedRegion": "us",
+      "_feedName": "FAA",
+      "_scoring": {
+        "score": 55,
+        "categories": [
+          "規制・政策",
+          "政策・インフラ"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
+          "policy": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 0,
+          "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "FAA Sued by 15 States Over Drone Delivery Clearance Amazon Runs On",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNWmZJMEg0eHpUeWoxNlJSTVphb1ZUdTh2UmRJc2luWmk4Vmdncjh5UkZkMEpiVG5tQWRIaXBjTGE4QXVwYnFzV0VVOVlKdGIydFZSa1o1TTI5R0tSY2ttbGJEd2QyWDRaT1NyS2lEZDFkazVxejFpLU5ISV84MlQ4QmZIR2dGTm1lOVZrUA?oc=5\" target=\"_blank\">FAA Sued by 15 States Over Drone Delivery Clearance Amazon Runs On</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DroneXL</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNWmZJMEg0eHpUeWoxNlJSTVphb1ZUdTh2UmRJc2luWmk4Vmdncjh5UkZkMEpiVG5tQWRIaXBjTGE4QXVwYnFzV0VVOVlKdGIydFZSa1o1TTI5R0tSY2ttbGJEd2QyWDRaT1NyS2lEZDFkazVxejFpLU5ISV84MlQ4QmZIR2dGTm1lOVZrUA?oc=5\" target=\"_blank\">FAA Sued by 15 States Over Drone Delivery Clearance Amazon Runs On</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DroneXL</font>",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWmZJMEg0eHpUeWoxNlJSTVphb1ZUdTh2UmRJc2luWmk4Vmdncjh5UkZkMEpiVG5tQWRIaXBjTGE4QXVwYnFzV0VVOVlKdGIydFZSa1o1TTI5R0tSY2ttbGJEd2QyWDRaT1NyS2lEZDFkazVxejFpLU5ISV84MlQ4QmZIR2dGTm1lOVZrUA?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWmZJMEg0eHpUeWoxNlJSTVphb1ZUdTh2UmRJc2luWmk4Vmdncjh5UkZkMEpiVG5tQWRIaXBjTGE4QXVwYnFzV0VVOVlKdGIydFZSa1o1TTI5R0tSY2ttbGJEd2QyWDRaT1NyS2lEZDFkazVxejFpLU5ISV84MlQ4QmZIR2dGTm1lOVZrUA?oc=5",
+      "publishedAt": "2026-09-29T04:52:00.000Z",
+      "source": "DroneXL",
+      "_feedRegion": "us",
+      "_feedName": "FAA",
+      "_scoring": {
+        "score": 55,
+        "categories": [
+          "規制・政策",
+          "政策・インフラ"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
+          "policy": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 0,
+          "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "Group of 15 States Sue FAA Over Drone Delivery Environmental Review",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPeWRnaXVDazA0eTJXcHJyZzhaZ3REWXVWYUNTakl1cFkyN1ZqWjcwa2gyV2ltcmNEa1ZjcEYtM2VITFZiVGJTakVkWEJlTDJLeXJkcFZhckpMSTB5cW80SHNrLTNsaTVQN2g2anlkTFF4TS1rdUFxeGtDV0VIUnZmR0xRdmVGNkR5dVM3Vw?oc=5\" target=\"_blank\">Group of 15 States Sue FAA Over Drone Delivery Environmental Review</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Commercial UAV News</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPeWRnaXVDazA0eTJXcHJyZzhaZ3REWXVWYUNTakl1cFkyN1ZqWjcwa2gyV2ltcmNEa1ZjcEYtM2VITFZiVGJTakVkWEJlTDJLeXJkcFZhckpMSTB5cW80SHNrLTNsaTVQN2g2anlkTFF4TS1rdUFxeGtDV0VIUnZmR0xRdmVGNkR5dVM3Vw?oc=5\" target=\"_blank\">Group of 15 States Sue FAA Over Drone Delivery Environmental Review</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Commercial UAV News</font>",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeWRnaXVDazA0eTJXcHJyZzhaZ3REWXVWYUNTakl1cFkyN1ZqWjcwa2gyV2ltcmNEa1ZjcEYtM2VITFZiVGJTakVkWEJlTDJLeXJkcFZhckpMSTB5cW80SHNrLTNsaTVQN2g2anlkTFF4TS1rdUFxeGtDV0VIUnZmR0xRdmVGNkR5dVM3Vw?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeWRnaXVDazA0eTJXcHJyZzhaZ3REWXVWYUNTakl1cFkyN1ZqWjcwa2gyV2ltcmNEa1ZjcEYtM2VITFZiVGJTakVkWEJlTDJLeXJkcFZhckpMSTB5cW80SHNrLTNsaTVQN2g2anlkTFF4TS1rdUFxeGtDV0VIUnZmR0xRdmVGNkR5dVM3Vw?oc=5",
+      "publishedAt": "2026-09-30T15:44:19.000Z",
+      "source": "Commercial UAV News",
+      "_feedRegion": "us",
+      "_feedName": "FAA",
+      "_scoring": {
+        "score": 55,
+        "categories": [
+          "規制・政策",
+          "政策・インフラ"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
+          "policy": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 0,
+          "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "States Sue FAA Over Drone Delivery Review",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1aUVh6X0FHSEtjRzVzbjZWbzhRTDZUd05jbC1YQ09GYTJqTExZaTNuM05wWGM2LXhFT2FSRGxNOG9jWGUtZHU5WnBwN0tWX1RTaDNlZ0J3RVllQkNUWWJvbVBPUkkzMUtWLXR2OFIyZWVfVTV3a05aYzVQdDhLaGs?oc=5\" target=\"_blank\">States Sue FAA Over Drone Delivery Review</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AVweb</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1aUVh6X0FHSEtjRzVzbjZWbzhRTDZUd05jbC1YQ09GYTJqTExZaTNuM05wWGM2LXhFT2FSRGxNOG9jWGUtZHU5WnBwN0tWX1RTaDNlZ0J3RVllQkNUWWJvbVBPUkkzMUtWLXR2OFIyZWVfVTV3a05aYzVQdDhLaGs?oc=5\" target=\"_blank\">States Sue FAA Over Drone Delivery Review</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AVweb</font>",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1aUVh6X0FHSEtjRzVzbjZWbzhRTDZUd05jbC1YQ09GYTJqTExZaTNuM05wWGM2LXhFT2FSRGxNOG9jWGUtZHU5WnBwN0tWX1RTaDNlZ0J3RVllQkNUWWJvbVBPUkkzMUtWLXR2OFIyZWVfVTV3a05aYzVQdDhLaGs?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1aUVh6X0FHSEtjRzVzbjZWbzhRTDZUd05jbC1YQ09GYTJqTExZaTNuM05wWGM2LXhFT2FSRGxNOG9jWGUtZHU5WnBwN0tWX1RTaDNlZ0J3RVllQkNUWWJvbVBPUkkzMUtWLXR2OFIyZWVfVTV3a05aYzVQdDhLaGs?oc=5",
+      "publishedAt": "2026-09-29T13:41:42.000Z",
+      "source": "AVweb",
+      "_feedRegion": "us",
+      "_feedName": "FAA",
+      "_scoring": {
+        "score": 55,
+        "categories": [
+          "規制・政策",
+          "政策・インフラ"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
+          "policy": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 0,
+          "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "Fifteen States Sue FAA Over Delivery Drones Environmental Review",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOZGoyZmZxT3dyc05ycWhBRVd0Rk1DamxscVZCVm1WQTRhbTJoanZRZnNfbFI1QmQxTzlDZFg3WHA1bzJDYUl1b2hFS0VpRzVnTzh6S1g3LWFjaE9SaFNiR0EwY19NYVRMaW1VYlM5ZUlsOEMxUTR3cE5mbnYyMUtFaVFOWF93SVBMVVJkd1JxSDN3emVIUlBma1l6Mk1ITHlKb2JMN0FyTkcyRWdVM1FnY0pEQ0tLTUhsYlVoakZn?oc=5\" target=\"_blank\">Fifteen States Sue FAA Over Delivery Drones Environmental Review</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aviation Week</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOZGoyZmZxT3dyc05ycWhBRVd0Rk1DamxscVZCVm1WQTRhbTJoanZRZnNfbFI1QmQxTzlDZFg3WHA1bzJDYUl1b2hFS0VpRzVnTzh6S1g3LWFjaE9SaFNiR0EwY19NYVRMaW1VYlM5ZUlsOEMxUTR3cE5mbnYyMUtFaVFOWF93SVBMVVJkd1JxSDN3emVIUlBma1l6Mk1ITHlKb2JMN0FyTkcyRWdVM1FnY0pEQ0tLTUhsYlVoakZn?oc=5\" target=\"_blank\">Fifteen States Sue FAA Over Delivery Drones Environmental Review</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aviation Week</font>",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZGoyZmZxT3dyc05ycWhBRVd0Rk1DamxscVZCVm1WQTRhbTJoanZRZnNfbFI1QmQxTzlDZFg3WHA1bzJDYUl1b2hFS0VpRzVnTzh6S1g3LWFjaE9SaFNiR0EwY19NYVRMaW1VYlM5ZUlsOEMxUTR3cE5mbnYyMUtFaVFOWF93SVBMVVJkd1JxSDN3emVIUlBma1l6Mk1ITHlKb2JMN0FyTkcyRWdVM1FnY0pEQ0tLTUhsYlVoakZn?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZGoyZmZxT3dyc05ycWhBRVd0Rk1DamxscVZCVm1WQTRhbTJoanZRZnNfbFI1QmQxTzlDZFg3WHA1bzJDYUl1b2hFS0VpRzVnTzh6S1g3LWFjaE9SaFNiR0EwY19NYVRMaW1VYlM5ZUlsOEMxUTR3cE5mbnYyMUtFaVFOWF93SVBMVVJkd1JxSDN3emVIUlBma1l6Mk1ITHlKb2JMN0FyTkcyRWdVM1FnY0pEQ0tLTUhsYlVoakZn?oc=5",
+      "publishedAt": "2026-09-29T22:25:55.000Z",
+      "source": "Aviation Week",
       "_feedRegion": "us",
       "_feedName": "FAA",
       "_scoring": {
