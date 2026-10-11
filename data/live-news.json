@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-10T22:20:41.455Z",
-  "rawCount": 665,
+  "generatedAt": "2026-10-11T01:43:07.731Z",
+  "rawCount": 664,
   "articles": [
     {
       "title": "US states challenge FAA drone delivery review over noise and safety concerns",
@@ -433,7 +433,7 @@
       "content": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1VM1BGd1BHS1JBSVByaG9waFp4ZTlUblNYajY0cElCM0RLcWFvd1hESENkclF4MHExckdoV25oWVBaMTdyWXRjWloxbzQ0RmRlVTdzLTV5SDZSMWlBd09uY0FJNDVaQ0F5NUh0OTQ1MUxlZTBZTTk2QzJkMnc3Y3M?oc=5\" target=\"_blank\">ドローンで鳥を「追い払い」 バードストライク抑止へ旭川空港で実証実験（テレビ北海道）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1VM1BGd1BHS1JBSVByaG9waFp4ZTlUblNYajY0cElCM0RLcWFvd1hESENkclF4MHExckdoV25oWVBaMTdyWXRjWloxbzQ0RmRlVTdzLTV5SDZSMWlBd09uY0FJNDVaQ0F5NUh0OTQ1MUxlZTBZTTk2QzJkMnc3Y3M?oc=5",
       "googleNewsUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1VM1BGd1BHS1JBSVByaG9waFp4ZTlUblNYajY0cElCM0RLcWFvd1hESENkclF4MHExckdoV25oWVBaMTdyWXRjWloxbzQ0RmRlVTdzLTV5SDZSMWlBd09uY0FJNDVaQ0F5NUh0OTQ1MUxlZTBZTTk2QzJkMnc3Y3M?oc=5",
-      "publishedAt": "2026-10-02T08:22:23.000Z",
+      "publishedAt": "2026-10-02T07:00:00.000Z",
       "source": "Yahoo!ニュース",
       "_feedRegion": "jp",
       "_feedName": "Google News (JP 政策/実証)",
@@ -657,6 +657,78 @@
       "source": "DroneDJ",
       "_feedRegion": "us",
       "_feedName": "FAA",
+      "_scoring": {
+        "score": 57,
+        "categories": [
+          "規制・政策",
+          "市場・資金"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
+          "market": {
+            "matches": 1,
+            "catScore": 20
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 5,
+          "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "FAA Awards $12 Million For Drone Research And Testing",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE9MU2RJZW9CakxlV3Z1cmNUNm9hZDY4N2N5STJpT19kbmoxa0xIc0tTRkNia2pzbTFyWDBiZVp2bTNqRXAxaUxtZGpOdVJNQUR2RE1pZmt4anRKN1dyYUlGc25qOGVoZ1d1bHRpTWdsMDd6LVVjZl9XUUtIYkXSAYIBQVVfeXFMTWJ4OXJBTTdLM3loakZkQnpPazg3U0Y1d0MyNHNXNG0za2FwbmZIV3BlYk5nRTlYMjRIaFEtWjFVREJkUG8xTzhFSk5FRXFPOVZ4aU1wVldEYmhFdVhKdWQ4NVBkUUo3eTczTmVwLWpoTUVUdGJJMWp2eE9rUnBSMmpKUQ?oc=5\" target=\"_blank\">FAA Awards $12 Million For Drone Research And Testing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Pulse 2.0</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE9MU2RJZW9CakxlV3Z1cmNUNm9hZDY4N2N5STJpT19kbmoxa0xIc0tTRkNia2pzbTFyWDBiZVp2bTNqRXAxaUxtZGpOdVJNQUR2RE1pZmt4anRKN1dyYUlGc25qOGVoZ1d1bHRpTWdsMDd6LVVjZl9XUUtIYkXSAYIBQVVfeXFMTWJ4OXJBTTdLM3loakZkQnpPazg3U0Y1d0MyNHNXNG0za2FwbmZIV3BlYk5nRTlYMjRIaFEtWjFVREJkUG8xTzhFSk5FRXFPOVZ4aU1wVldEYmhFdVhKdWQ4NVBkUUo3eTczTmVwLWpoTUVUdGJJMWp2eE9rUnBSMmpKUQ?oc=5\" target=\"_blank\">FAA Awards $12 Million For Drone Research And Testing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Pulse 2.0</font>",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9MU2RJZW9CakxlV3Z1cmNUNm9hZDY4N2N5STJpT19kbmoxa0xIc0tTRkNia2pzbTFyWDBiZVp2bTNqRXAxaUxtZGpOdVJNQUR2RE1pZmt4anRKN1dyYUlGc25qOGVoZ1d1bHRpTWdsMDd6LVVjZl9XUUtIYkXSAYIBQVVfeXFMTWJ4OXJBTTdLM3loakZkQnpPazg3U0Y1d0MyNHNXNG0za2FwbmZIV3BlYk5nRTlYMjRIaFEtWjFVREJkUG8xTzhFSk5FRXFPOVZ4aU1wVldEYmhFdVhKdWQ4NVBkUUo3eTczTmVwLWpoTUVUdGJJMWp2eE9rUnBSMmpKUQ?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9MU2RJZW9CakxlV3Z1cmNUNm9hZDY4N2N5STJpT19kbmoxa0xIc0tTRkNia2pzbTFyWDBiZVp2bTNqRXAxaUxtZGpOdVJNQUR2RE1pZmt4anRKN1dyYUlGc25qOGVoZ1d1bHRpTWdsMDd6LVVjZl9XUUtIYkXSAYIBQVVfeXFMTWJ4OXJBTTdLM3loakZkQnpPazg3U0Y1d0MyNHNXNG0za2FwbmZIV3BlYk5nRTlYMjRIaFEtWjFVREJkUG8xTzhFSk5FRXFPOVZ4aU1wVldEYmhFdVhKdWQ4NVBkUUo3eTczTmVwLWpoTUVUdGJJMWp2eE9rUnBSMmpKUQ?oc=5",
+      "publishedAt": "2026-10-09T11:38:26.000Z",
+      "source": "Pulse 2.0",
+      "_feedRegion": "us",
+      "_feedName": "FAA",
+      "_scoring": {
+        "score": 57,
+        "categories": [
+          "規制・政策",
+          "市場・資金"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
+          "market": {
+            "matches": 1,
+            "catScore": 20
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 5,
+          "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "DroneFlight announces plans for BVLOS operations in Romania",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPZG1EeGNMbnFoX1Zod2dLNXdRVHNFTEJEeEZyNjMyQ3VWdERia1hCN2pEdTlRM3NxMkhpUzNsazlNeDBmeHlnaEdqQm9zSUpKbGlRbU1jOUZJUDVJVGNRSlY3N1dzcDJaa0JlUG5PQ0F2WW9xenVtUTNmNjUzaG9kMlAxbkpfaE9nak1sdUI2NXdROXJVb0pGU3l1R19ocDJkVFpCSXQ1bURqZGsx?oc=5\" target=\"_blank\">DroneFlight announces plans for BVLOS operations in Romania</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPZG1EeGNMbnFoX1Zod2dLNXdRVHNFTEJEeEZyNjMyQ3VWdERia1hCN2pEdTlRM3NxMkhpUzNsazlNeDBmeHlnaEdqQm9zSUpKbGlRbU1jOUZJUDVJVGNRSlY3N1dzcDJaa0JlUG5PQ0F2WW9xenVtUTNmNjUzaG9kMlAxbkpfaE9nak1sdUI2NXdROXJVb0pGU3l1R19ocDJkVFpCSXQ1bURqZGsx?oc=5\" target=\"_blank\">DroneFlight announces plans for BVLOS operations in Romania</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZG1EeGNMbnFoX1Zod2dLNXdRVHNFTEJEeEZyNjMyQ3VWdERia1hCN2pEdTlRM3NxMkhpUzNsazlNeDBmeHlnaEdqQm9zSUpKbGlRbU1jOUZJUDVJVGNRSlY3N1dzcDJaa0JlUG5PQ0F2WW9xenVtUTNmNjUzaG9kMlAxbkpfaE9nak1sdUI2NXdROXJVb0pGU3l1R19ocDJkVFpCSXQ1bURqZGsx?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZG1EeGNMbnFoX1Zod2dLNXdRVHNFTEJEeEZyNjMyQ3VWdERia1hCN2pEdTlRM3NxMkhpUzNsazlNeDBmeHlnaEdqQm9zSUpKbGlRbU1jOUZJUDVJVGNRSlY3N1dzcDJaa0JlUG5PQ0F2WW9xenVtUTNmNjUzaG9kMlAxbkpfaE9nak1sdUI2NXdROXJVb0pGU3l1R19ocDJkVFpCSXQ1bURqZGsx?oc=5",
+      "publishedAt": "2026-10-09T08:49:32.000Z",
+      "source": "Unmanned airspace",
+      "_feedRegion": "global",
+      "_feedName": "Google News (Global)",
       "_scoring": {
         "score": 57,
         "categories": [
@@ -1008,42 +1080,6 @@
       }
     },
     {
-      "title": "FAA Awards $12 Million for Drone Research and Testing",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTFBsOGxOYkQwMENTMFNyeUNraWRyUXA0UWY4Vk91SElaR3ZEOHVlUEpReWNwRXJzdU9YVkFrSGpEQXkxRGxqTDJEc2Y1YjVWYm5nRzh6MjBCTks2ZWVScUFKVFk0d3NnWnAtVVQ5R3BhUERHVHl5UnhBbWc5NA?oc=5\" target=\"_blank\">FAA Awards $12 Million for Drone Research and Testing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dronelife</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTFBsOGxOYkQwMENTMFNyeUNraWRyUXA0UWY4Vk91SElaR3ZEOHVlUEpReWNwRXJzdU9YVkFrSGpEQXkxRGxqTDJEc2Y1YjVWYm5nRzh6MjBCTks2ZWVScUFKVFk0d3NnWnAtVVQ5R3BhUERHVHl5UnhBbWc5NA?oc=5\" target=\"_blank\">FAA Awards $12 Million for Drone Research and Testing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dronelife</font>",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBsOGxOYkQwMENTMFNyeUNraWRyUXA0UWY4Vk91SElaR3ZEOHVlUEpReWNwRXJzdU9YVkFrSGpEQXkxRGxqTDJEc2Y1YjVWYm5nRzh6MjBCTks2ZWVScUFKVFk0d3NnWnAtVVQ5R3BhUERHVHl5UnhBbWc5NA?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBsOGxOYkQwMENTMFNyeUNraWRyUXA0UWY4Vk91SElaR3ZEOHVlUEpReWNwRXJzdU9YVkFrSGpEQXkxRGxqTDJEc2Y1YjVWYm5nRzh6MjBCTks2ZWVScUFKVFk0d3NnWnAtVVQ5R3BhUERHVHl5UnhBbWc5NA?oc=5",
-      "publishedAt": "2026-10-05T20:29:06.000Z",
-      "source": "Dronelife",
-      "_feedRegion": "us",
-      "_feedName": "FAA",
-      "_scoring": {
-        "score": 52,
-        "categories": [
-          "規制・政策",
-          "市場・資金"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 1,
-            "catScore": 32
-          },
-          "market": {
-            "matches": 1,
-            "catScore": 20
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 0,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
       "title": "FAA Awards 19 Companies Drone Integration Funding",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNb3Foa2NUaVdYRlhDRHpkck5PY2h6dmVKMGp1VnBzQ2o0MW9MUUJpR1VFQzJORmVEQnBNRzktQzBWaE9CSlZwcm03UHc3clFWbEQ3eWdVSFplUFBfcnpnTm12T21vS0V5STQ4M1RyMnk0V1dPVWpJVWJWOVJpSmtGc0ZuWTZpM0pjTTdF?oc=5\" target=\"_blank\">FAA Awards 19 Companies Drone Integration Funding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ExecutiveGov</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNb3Foa2NUaVdYRlhDRHpkck5PY2h6dmVKMGp1VnBzQ2o0MW9MUUJpR1VFQzJORmVEQnBNRzktQzBWaE9CSlZwcm03UHc3clFWbEQ3eWdVSFplUFBfcnpnTm12T21vS0V5STQ4M1RyMnk0V1dPVWpJVWJWOVJpSmtGc0ZuWTZpM0pjTTdF?oc=5\" target=\"_blank\">FAA Awards 19 Companies Drone Integration Funding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ExecutiveGov</font>",
@@ -1051,42 +1087,6 @@
       "googleNewsUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNb3Foa2NUaVdYRlhDRHpkck5PY2h6dmVKMGp1VnBzQ2o0MW9MUUJpR1VFQzJORmVEQnBNRzktQzBWaE9CSlZwcm03UHc3clFWbEQ3eWdVSFplUFBfcnpnTm12T21vS0V5STQ4M1RyMnk0V1dPVWpJVWJWOVJpSmtGc0ZuWTZpM0pjTTdF?oc=5",
       "publishedAt": "2026-10-06T20:24:06.000Z",
       "source": "ExecutiveGov",
-      "_feedRegion": "us",
-      "_feedName": "FAA",
-      "_scoring": {
-        "score": 52,
-        "categories": [
-          "規制・政策",
-          "市場・資金"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 1,
-            "catScore": 32
-          },
-          "market": {
-            "matches": 1,
-            "catScore": 20
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 0,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "FAA Invests in Drone and UAS Research to Advance Safe Airspace Integration",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQVlE4a2F5YkhJc3ZtRkRLTWZsc0RLVkVHM0FybFVvTmwzUjhkX3hvYzFLamlZRXFhX0ZNM3lSZ01fTXlVMmkzeTloOVpVN1Rma3YwekRGM1lEZG40ejFLTGlfR21GSWxiVGxFdmw1MVE1MEx2YmlQcmg4TUJlY09uU193UzV2MVpIa1JXdTRYY3NMazF5OXZ1NUp3NFprTEE3Zm96dTFON0ctT196?oc=5\" target=\"_blank\">FAA Invests in Drone and UAS Research to Advance Safe Airspace Integration</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">UASweekly.com</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQVlE4a2F5YkhJc3ZtRkRLTWZsc0RLVkVHM0FybFVvTmwzUjhkX3hvYzFLamlZRXFhX0ZNM3lSZ01fTXlVMmkzeTloOVpVN1Rma3YwekRGM1lEZG40ejFLTGlfR21GSWxiVGxFdmw1MVE1MEx2YmlQcmg4TUJlY09uU193UzV2MVpIa1JXdTRYY3NMazF5OXZ1NUp3NFprTEE3Zm96dTFON0ctT196?oc=5\" target=\"_blank\">FAA Invests in Drone and UAS Research to Advance Safe Airspace Integration</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">UASweekly.com</font>",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVlE4a2F5YkhJc3ZtRkRLTWZsc0RLVkVHM0FybFVvTmwzUjhkX3hvYzFLamlZRXFhX0ZNM3lSZ01fTXlVMmkzeTloOVpVN1Rma3YwekRGM1lEZG40ejFLTGlfR21GSWxiVGxFdmw1MVE1MEx2YmlQcmg4TUJlY09uU193UzV2MVpIa1JXdTRYY3NMazF5OXZ1NUp3NFprTEE3Zm96dTFON0ctT196?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVlE4a2F5YkhJc3ZtRkRLTWZsc0RLVkVHM0FybFVvTmwzUjhkX3hvYzFLamlZRXFhX0ZNM3lSZ01fTXlVMmkzeTloOVpVN1Rma3YwekRGM1lEZG40ejFLTGlfR21GSWxiVGxFdmw1MVE1MEx2YmlQcmg4TUJlY09uU193UzV2MVpIa1JXdTRYY3NMazF5OXZ1NUp3NFprTEE3Zm96dTFON0ctT196?oc=5",
-      "publishedAt": "2026-10-06T12:11:38.000Z",
-      "source": "UASweekly.com",
       "_feedRegion": "us",
       "_feedName": "FAA",
       "_scoring": {
