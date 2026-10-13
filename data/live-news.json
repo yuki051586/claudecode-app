@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-13T15:45:35.583Z",
-  "rawCount": 675,
+  "generatedAt": "2026-10-13T21:05:26.581Z",
+  "rawCount": 673,
   "articles": [
     {
       "title": "Phantom Defense acquires Karakurt and integrates net launchers into C-UAS range",
@@ -208,6 +208,43 @@
       }
     },
     {
+      "title": "規制の十勝岳 ドローン計測 北大が実証実験",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VRGp4OEtjNGxFYTVhUUcyaDhlTG0xdDlQRGlKcGZpYnVNTWpFamxQMW9KZm0wVU1EQVlNYWxSU0JuT0xtYnJ5cnVlZDNNdTI1ZTFENzI1WVZLdw?oc=5\" target=\"_blank\">規制の十勝岳 ドローン計測 北大が実証実験</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">北海道新聞デジタル</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VRGp4OEtjNGxFYTVhUUcyaDhlTG0xdDlQRGlKcGZpYnVNTWpFamxQMW9KZm0wVU1EQVlNYWxSU0JuT0xtYnJ5cnVlZDNNdTI1ZTFENzI1WVZLdw?oc=5\" target=\"_blank\">規制の十勝岳 ドローン計測 北大が実証実験</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">北海道新聞デジタル</font>",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VRGp4OEtjNGxFYTVhUUcyaDhlTG0xdDlQRGlKcGZpYnVNTWpFamxQMW9KZm0wVU1EQVlNYWxSU0JuT0xtYnJ5cnVlZDNNdTI1ZTFENzI1WVZLdw?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VRGp4OEtjNGxFYTVhUUcyaDhlTG0xdDlQRGlKcGZpYnVNTWpFamxQMW9KZm0wVU1EQVlNYWxSU0JuT0xtYnJ5cnVlZDNNdTI1ZTFENzI1WVZLdw?oc=5",
+      "publishedAt": "2026-09-26T07:00:00.000Z",
+      "source": "北海道新聞デジタル",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP 政策/実証)",
+      "_scoring": {
+        "score": 70,
+        "categories": [
+          "規制・政策",
+          "技術・製品"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 0,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
       "title": "Regulator urges drone and eVTOL noise testing to guide rules",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOVzRoZUxqT0g2RVhpQjJvdWU2Qlh3NnNra1VXWThsaEQ2aGY1X1J1akVqUHpTVTF2RENlSXZYQzR5aUdsbV9FMWdGSFdMLTIzTzRmclpqVXA3eTk1SkJ4V3lKeHo2NDF5blJXbkNodjd1aV84RFRBTmJUbDRCSWVRV0VhVFhhZEl0dUlSTWpYV1J0bzFqR2JhRGE2VzVGU05COWoybWRqQllIMW5USUt4eUNhN2Zva3M?oc=5\" target=\"_blank\">Regulator urges drone and eVTOL noise testing to guide rules</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aerospace Testing International</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOVzRoZUxqT0g2RVhpQjJvdWU2Qlh3NnNra1VXWThsaEQ2aGY1X1J1akVqUHpTVTF2RENlSXZYQzR5aUdsbV9FMWdGSFdMLTIzTzRmclpqVXA3eTk1SkJ4V3lKeHo2NDF5blJXbkNodjd1aV84RFRBTmJUbDRCSWVRV0VhVFhhZEl0dUlSTWpYV1J0bzFqR2JhRGE2VzVGU05COWoybWRqQllIMW5USUt4eUNhN2Zva3M?oc=5\" target=\"_blank\">Regulator urges drone and eVTOL noise testing to guide rules</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aerospace Testing International</font>",
@@ -311,6 +348,102 @@
           },
           "freshness": 5,
           "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "［新連載］秋田のアスター、「挑戦を促すストレス」でドローン用モーター開発",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFA2c25JNHFNeTVJOUtwRTZSNmpmYVpVV2F3QWhMQ25HWlUzcVlFS19VNk5OZWUtZTF0MzA3TjVlbEJjY2E5NVZqeHBodWVhc0JiVGNwclJoRW5EbUhtN1NFWFBZdnBuR2t6N1FWaXRlMEI0ejlx?oc=5\" target=\"_blank\">［新連載］秋田のアスター、「挑戦を促すストレス」でドローン用モーター開発</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日経ビジネス電子版</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFA2c25JNHFNeTVJOUtwRTZSNmpmYVpVV2F3QWhMQ25HWlUzcVlFS19VNk5OZWUtZTF0MzA3TjVlbEJjY2E5NVZqeHBodWVhc0JiVGNwclJoRW5EbUhtN1NFWFBZdnBuR2t6N1FWaXRlMEI0ejlx?oc=5\" target=\"_blank\">［新連載］秋田のアスター、「挑戦を促すストレス」でドローン用モーター開発</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日経ビジネス電子版</font>",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA2c25JNHFNeTVJOUtwRTZSNmpmYVpVV2F3QWhMQ25HWlUzcVlFS19VNk5OZWUtZTF0MzA3TjVlbEJjY2E5NVZqeHBodWVhc0JiVGNwclJoRW5EbUhtN1NFWFBZdnBuR2t6N1FWaXRlMEI0ejlx?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA2c25JNHFNeTVJOUtwRTZSNmpmYVpVV2F3QWhMQ25HWlUzcVlFS19VNk5OZWUtZTF0MzA3TjVlbEJjY2E5NVZqeHBodWVhc0JiVGNwclJoRW5EbUhtN1NFWFBZdnBuR2t6N1FWaXRlMEI0ejlx?oc=5",
+      "publishedAt": "2026-10-13T20:00:00.000Z",
+      "source": "日経ビジネス電子版",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP)",
+      "_scoring": {
+        "score": 64,
+        "categories": [
+          "技術・製品"
+        ],
+        "breakdown": {
+          "required": true,
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 20,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "ドローンとＡＩで密漁検知 実証実験、摘発に成功",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE5uZm1rVklmQUJGM2xJUkpTbzFSZ0J2OGdmVlhTWVB2YlNRMjZIQ01xckhveTFXRzBQZVlGbE9BU05iRHVXcUwzRkFRNDN2blYw?oc=5\" target=\"_blank\">ドローンとＡＩで密漁検知 実証実験、摘発に成功</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本海新聞</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE5uZm1rVklmQUJGM2xJUkpTbzFSZ0J2OGdmVlhTWVB2YlNRMjZIQ01xckhveTFXRzBQZVlGbE9BU05iRHVXcUwzRkFRNDN2blYw?oc=5\" target=\"_blank\">ドローンとＡＩで密漁検知 実証実験、摘発に成功</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本海新聞</font>",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5uZm1rVklmQUJGM2xJUkpTbzFSZ0J2OGdmVlhTWVB2YlNRMjZIQ01xckhveTFXRzBQZVlGbE9BU05iRHVXcUwzRkFRNDN2blYw?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5uZm1rVklmQUJGM2xJUkpTbzFSZ0J2OGdmVlhTWVB2YlNRMjZIQ01xckhveTFXRzBQZVlGbE9BU05iRHVXcUwzRkFRNDN2blYw?oc=5",
+      "publishedAt": "2026-10-13T20:46:07.000Z",
+      "source": "日本海新聞",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP 政策/実証)",
+      "_scoring": {
+        "score": 64,
+        "categories": [
+          "技術・製品"
+        ],
+        "breakdown": {
+          "required": true,
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 20,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "ドローンとＡＩで密漁検知 実証実験、摘発に成功 | | 全国のニュース",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFBiNnhRRlloNVotcnJLRmlvdEtqRms5R1hQRW1jVW5fZkp2dkF4WVZsQlVJYjQyS2FsMzE1UTRIT3pMZktCTmhCRUxLR0U2UGxFNGQxX2ZR?oc=5\" target=\"_blank\">ドローンとＡＩで密漁検知 実証実験、摘発に成功 | | 全国のニュース</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">佐賀新聞</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFBiNnhRRlloNVotcnJLRmlvdEtqRms5R1hQRW1jVW5fZkp2dkF4WVZsQlVJYjQyS2FsMzE1UTRIT3pMZktCTmhCRUxLR0U2UGxFNGQxX2ZR?oc=5\" target=\"_blank\">ドローンとＡＩで密漁検知 実証実験、摘発に成功 | | 全国のニュース</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">佐賀新聞</font>",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBiNnhRRlloNVotcnJLRmlvdEtqRms5R1hQRW1jVW5fZkp2dkF4WVZsQlVJYjQyS2FsMzE1UTRIT3pMZktCTmhCRUxLR0U2UGxFNGQxX2ZR?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBiNnhRRlloNVotcnJLRmlvdEtqRms5R1hQRW1jVW5fZkp2dkF4WVZsQlVJYjQyS2FsMzE1UTRIT3pMZktCTmhCRUxLR0U2UGxFNGQxX2ZR?oc=5",
+      "publishedAt": "2026-10-13T20:46:00.000Z",
+      "source": "佐賀新聞",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP 政策/実証)",
+      "_scoring": {
+        "score": 64,
+        "categories": [
+          "技術・製品"
+        ],
+        "breakdown": {
+          "required": true,
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 20,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
         },
         "pass": true
       }
@@ -501,41 +634,6 @@
       }
     },
     {
-      "title": "New Eurocontrol EASA U-space implementation course validated at the Luxembourg training centre",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxPdklWMmV0UmZ6OHBOaVRCY3B5RFlJdkotd2N5Q3FINzVKandBMmZjNEpZR2V3QUhCZkIxYWhCbUhhZklKeVpCZFNBMlFzNUFMa0xEcjkzLURVOVZ4NGRCRVQ4U2R4VjU0eGNVbEVrV1JVSDkyamFhaThPU3A3dy1aSEdNSmxPVU9kVEJCUE1vaTZVRnBiZGV3OVVFVVVvMDhSUDR4OWloYXFacHhYQk5BTUZUa1hSTjJqUndqRTF6Nmp3dFh6V0tKNGdtaG1hZlE0QVR6MjNBX3liVVU?oc=5\" target=\"_blank\">New Eurocontrol EASA U-space implementation course validated at the Luxembourg training centre</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxPdklWMmV0UmZ6OHBOaVRCY3B5RFlJdkotd2N5Q3FINzVKandBMmZjNEpZR2V3QUhCZkIxYWhCbUhhZklKeVpCZFNBMlFzNUFMa0xEcjkzLURVOVZ4NGRCRVQ4U2R4VjU0eGNVbEVrV1JVSDkyamFhaThPU3A3dy1aSEdNSmxPVU9kVEJCUE1vaTZVRnBiZGV3OVVFVVVvMDhSUDR4OWloYXFacHhYQk5BTUZUa1hSTjJqUndqRTF6Nmp3dFh6V0tKNGdtaG1hZlE0QVR6MjNBX3liVVU?oc=5\" target=\"_blank\">New Eurocontrol EASA U-space implementation course validated at the Luxembourg training centre</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPdklWMmV0UmZ6OHBOaVRCY3B5RFlJdkotd2N5Q3FINzVKandBMmZjNEpZR2V3QUhCZkIxYWhCbUhhZklKeVpCZFNBMlFzNUFMa0xEcjkzLURVOVZ4NGRCRVQ4U2R4VjU0eGNVbEVrV1JVSDkyamFhaThPU3A3dy1aSEdNSmxPVU9kVEJCUE1vaTZVRnBiZGV3OVVFVVVvMDhSUDR4OWloYXFacHhYQk5BTUZUa1hSTjJqUndqRTF6Nmp3dFh6V0tKNGdtaG1hZlE0QVR6MjNBX3liVVU?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPdklWMmV0UmZ6OHBOaVRCY3B5RFlJdkotd2N5Q3FINzVKandBMmZjNEpZR2V3QUhCZkIxYWhCbUhhZklKeVpCZFNBMlFzNUFMa0xEcjkzLURVOVZ4NGRCRVQ4U2R4VjU0eGNVbEVrV1JVSDkyamFhaThPU3A3dy1aSEdNSmxPVU9kVEJCUE1vaTZVRnBiZGV3OVVFVVVvMDhSUDR4OWloYXFacHhYQk5BTUZUa1hSTjJqUndqRTF6Nmp3dFh6V0tKNGdtaG1hZlE0QVR6MjNBX3liVVU?oc=5",
-      "publishedAt": "2026-10-13T14:09:14.000Z",
-      "source": "Unmanned airspace",
-      "_feedRegion": "eu",
-      "_feedName": "EASA",
-      "_scoring": {
-        "score": 62,
-        "categories": [
-          "規制・政策",
-          "市場・資金"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 1,
-            "catScore": 32
-          },
-          "market": {
-            "matches": 1,
-            "catScore": 20
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 20
-        },
-        "pass": true
-      }
-    },
-    {
       "title": "Counter-UAS portfolio shown by Rafael USA",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPbmR5bk9kVkt6REVOdzloeXJPMDV6TTF3ZVd0RFRSVm5UbXd2ZmFaamxsdk51ZnlDWGtMYmVEMFE0djlJamhwOGQ2cVExbHBPZnhPYm9wdklTSGhYbEM4cDljYmFQZHFkUUo1Nl9QVi02MV9wV3JnMmZDRTRPeEtwQ1p3NVpzUFBEbF9GcFhjWW1EUDU5dmc?oc=5\" target=\"_blank\">Counter-UAS portfolio shown by Rafael USA</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Military Embedded Systems</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPbmR5bk9kVkt6REVOdzloeXJPMDV6TTF3ZVd0RFRSVm5UbXd2ZmFaamxsdk51ZnlDWGtMYmVEMFE0djlJamhwOGQ2cVExbHBPZnhPYm9wdklTSGhYbEM4cDljYmFQZHFkUUo1Nl9QVi02MV9wV3JnMmZDRTRPeEtwQ1p3NVpzUFBEbF9GcFhjWW1EUDU5dmc?oc=5\" target=\"_blank\">Counter-UAS portfolio shown by Rafael USA</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Military Embedded Systems</font>",
@@ -567,38 +665,6 @@
           },
           "freshness": 5,
           "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "ドローンショーのWhite Crow、大阪信用金庫・ABAKAMの「おおさか地域活性化ファンド」から資金調達",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFBVb2pseFAyOU1mY0Nud3lVZHczN3h5QU5VXzh3bWY0dFA3TjAyejk2Yk1RVGg0b2JYN0JneENsUWFiMlJyc2dqc3NFM1UzdEtTV2JjZEE1TWlTTDZMSllyRVVnbjRTMURkNWc?oc=5\" target=\"_blank\">ドローンショーのWhite Crow、大阪信用金庫・ABAKAMの「おおさか地域活性化ファンド」から資金調達</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR TIMES</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFBVb2pseFAyOU1mY0Nud3lVZHczN3h5QU5VXzh3bWY0dFA3TjAyejk2Yk1RVGg0b2JYN0JneENsUWFiMlJyc2dqc3NFM1UzdEtTV2JjZEE1TWlTTDZMSllyRVVnbjRTMURkNWc?oc=5\" target=\"_blank\">ドローンショーのWhite Crow、大阪信用金庫・ABAKAMの「おおさか地域活性化ファンド」から資金調達</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR TIMES</font>",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBVb2pseFAyOU1mY0Nud3lVZHczN3h5QU5VXzh3bWY0dFA3TjAyejk2Yk1RVGg0b2JYN0JneENsUWFiMlJyc2dqc3NFM1UzdEtTV2JjZEE1TWlTTDZMSllyRVVnbjRTMURkNWc?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBVb2pseFAyOU1mY0Nud3lVZHczN3h5QU5VXzh3bWY0dFA3TjAyejk2Yk1RVGg0b2JYN0JneENsUWFiMlJyc2dqc3NFM1UzdEtTV2JjZEE1TWlTTDZMSllyRVVnbjRTMURkNWc?oc=5",
-      "publishedAt": "2026-10-13T04:00:01.000Z",
-      "source": "PR TIMES",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP)",
-      "_scoring": {
-        "score": 60,
-        "categories": [
-          "市場・資金"
-        ],
-        "breakdown": {
-          "required": true,
-          "market": {
-            "matches": 2,
-            "catScore": 25
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 15,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
         },
         "pass": true
       }
@@ -710,6 +776,41 @@
       }
     },
     {
+      "title": "New Eurocontrol EASA U-space implementation course validated at the Luxembourg training centre",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxPdklWMmV0UmZ6OHBOaVRCY3B5RFlJdkotd2N5Q3FINzVKandBMmZjNEpZR2V3QUhCZkIxYWhCbUhhZklKeVpCZFNBMlFzNUFMa0xEcjkzLURVOVZ4NGRCRVQ4U2R4VjU0eGNVbEVrV1JVSDkyamFhaThPU3A3dy1aSEdNSmxPVU9kVEJCUE1vaTZVRnBiZGV3OVVFVVVvMDhSUDR4OWloYXFacHhYQk5BTUZUa1hSTjJqUndqRTF6Nmp3dFh6V0tKNGdtaG1hZlE0QVR6MjNBX3liVVU?oc=5\" target=\"_blank\">New Eurocontrol EASA U-space implementation course validated at the Luxembourg training centre</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxPdklWMmV0UmZ6OHBOaVRCY3B5RFlJdkotd2N5Q3FINzVKandBMmZjNEpZR2V3QUhCZkIxYWhCbUhhZklKeVpCZFNBMlFzNUFMa0xEcjkzLURVOVZ4NGRCRVQ4U2R4VjU0eGNVbEVrV1JVSDkyamFhaThPU3A3dy1aSEdNSmxPVU9kVEJCUE1vaTZVRnBiZGV3OVVFVVVvMDhSUDR4OWloYXFacHhYQk5BTUZUa1hSTjJqUndqRTF6Nmp3dFh6V0tKNGdtaG1hZlE0QVR6MjNBX3liVVU?oc=5\" target=\"_blank\">New Eurocontrol EASA U-space implementation course validated at the Luxembourg training centre</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPdklWMmV0UmZ6OHBOaVRCY3B5RFlJdkotd2N5Q3FINzVKandBMmZjNEpZR2V3QUhCZkIxYWhCbUhhZklKeVpCZFNBMlFzNUFMa0xEcjkzLURVOVZ4NGRCRVQ4U2R4VjU0eGNVbEVrV1JVSDkyamFhaThPU3A3dy1aSEdNSmxPVU9kVEJCUE1vaTZVRnBiZGV3OVVFVVVvMDhSUDR4OWloYXFacHhYQk5BTUZUa1hSTjJqUndqRTF6Nmp3dFh6V0tKNGdtaG1hZlE0QVR6MjNBX3liVVU?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPdklWMmV0UmZ6OHBOaVRCY3B5RFlJdkotd2N5Q3FINzVKandBMmZjNEpZR2V3QUhCZkIxYWhCbUhhZklKeVpCZFNBMlFzNUFMa0xEcjkzLURVOVZ4NGRCRVQ4U2R4VjU0eGNVbEVrV1JVSDkyamFhaThPU3A3dy1aSEdNSmxPVU9kVEJCUE1vaTZVRnBiZGV3OVVFVVVvMDhSUDR4OWloYXFacHhYQk5BTUZUa1hSTjJqUndqRTF6Nmp3dFh6V0tKNGdtaG1hZlE0QVR6MjNBX3liVVU?oc=5",
+      "publishedAt": "2026-10-13T14:09:14.000Z",
+      "source": "Unmanned airspace",
+      "_feedRegion": "eu",
+      "_feedName": "EASA",
+      "_scoring": {
+        "score": 57,
+        "categories": [
+          "規制・政策",
+          "市場・資金"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
+          "market": {
+            "matches": 1,
+            "catScore": 20
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 15
+        },
+        "pass": true
+      }
+    },
+    {
       "title": "ブルーイノベーション、高水位下水道を「ELIOS 3」の3Dマッピング用LiDARで安全調査。八戸市の下水道点検実証",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE00SFZxdHMtaFVlczRSRGJWTHJ1WW9qcURLbHRhbHVRU1hyU21TcGFMM0ZDVzlIdmYxdVJCVG1sYWFsM2phOW8yNjUwRUNSdDJQbWp2bGZieEdtZ2s?oc=5\" target=\"_blank\">ブルーイノベーション、高水位下水道を「ELIOS 3」の3Dマッピング用LiDARで安全調査。八戸市の下水道点検実証</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DRONE.jp</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE00SFZxdHMtaFVlczRSRGJWTHJ1WW9qcURLbHRhbHVRU1hyU21TcGFMM0ZDVzlIdmYxdVJCVG1sYWFsM2phOW8yNjUwRUNSdDJQbWp2bGZieEdtZ2s?oc=5\" target=\"_blank\">ブルーイノベーション、高水位下水道を「ELIOS 3」の3Dマッピング用LiDARで安全調査。八戸市の下水道点検実証</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DRONE.jp</font>",
@@ -741,6 +842,37 @@
           },
           "freshness": 0,
           "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "Yavapai College Earns FAA Recognition for Drone Program",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQZnd2eXJ1OG1jVzU2bTIxUmhCckpzMExwYjZBSjJrMlJBRWNXem8xTDRWTWFUeW5mTWQ2TTdTV3FiMDJwNkllcGVRMlp0NmZFT2VqNzRyOFRiTjk2cU50M1l5Q0VwNERnTTAtZlV5aE9aQ0tSSDR2c3Z3ZVRPNE5zdGlkZnFNdFZFTjVod25KTFFNOWFmRXc?oc=5\" target=\"_blank\">Yavapai College Earns FAA Recognition for Drone Program</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Signals AZ</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQZnd2eXJ1OG1jVzU2bTIxUmhCckpzMExwYjZBSjJrMlJBRWNXem8xTDRWTWFUeW5mTWQ2TTdTV3FiMDJwNkllcGVRMlp0NmZFT2VqNzRyOFRiTjk2cU50M1l5Q0VwNERnTTAtZlV5aE9aQ0tSSDR2c3Z3ZVRPNE5zdGlkZnFNdFZFTjVod25KTFFNOWFmRXc?oc=5\" target=\"_blank\">Yavapai College Earns FAA Recognition for Drone Program</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Signals AZ</font>",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZnd2eXJ1OG1jVzU2bTIxUmhCckpzMExwYjZBSjJrMlJBRWNXem8xTDRWTWFUeW5mTWQ2TTdTV3FiMDJwNkllcGVRMlp0NmZFT2VqNzRyOFRiTjk2cU50M1l5Q0VwNERnTTAtZlV5aE9aQ0tSSDR2c3Z3ZVRPNE5zdGlkZnFNdFZFTjVod25KTFFNOWFmRXc?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZnd2eXJ1OG1jVzU2bTIxUmhCckpzMExwYjZBSjJrMlJBRWNXem8xTDRWTWFUeW5mTWQ2TTdTV3FiMDJwNkllcGVRMlp0NmZFT2VqNzRyOFRiTjk2cU50M1l5Q0VwNERnTTAtZlV5aE9aQ0tSSDR2c3Z3ZVRPNE5zdGlkZnFNdFZFTjVod25KTFFNOWFmRXc?oc=5",
+      "publishedAt": "2026-10-13T18:05:58.000Z",
+      "source": "Signals AZ",
+      "_feedRegion": "us",
+      "_feedName": "FAA",
+      "_scoring": {
+        "score": 56,
+        "categories": [
+          "規制・政策"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 20,
+          "titleBonus": 10
         },
         "pass": true
       }
@@ -890,42 +1022,6 @@
       }
     },
     {
-      "title": "Fifteen States Sue FAA Over Delivery Drones Environmental Review",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOZGoyZmZxT3dyc05ycWhBRVd0Rk1DamxscVZCVm1WQTRhbTJoanZRZnNfbFI1QmQxTzlDZFg3WHA1bzJDYUl1b2hFS0VpRzVnTzh6S1g3LWFjaE9SaFNiR0EwY19NYVRMaW1VYlM5ZUlsOEMxUTR3cE5mbnYyMUtFaVFOWF93SVBMVVJkd1JxSDN3emVIUlBma1l6Mk1ITHlKb2JMN0FyTkcyRWdVM1FnY0pEQ0tLTUhsYlVoakZn?oc=5\" target=\"_blank\">Fifteen States Sue FAA Over Delivery Drones Environmental Review</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aviation Week</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOZGoyZmZxT3dyc05ycWhBRVd0Rk1DamxscVZCVm1WQTRhbTJoanZRZnNfbFI1QmQxTzlDZFg3WHA1bzJDYUl1b2hFS0VpRzVnTzh6S1g3LWFjaE9SaFNiR0EwY19NYVRMaW1VYlM5ZUlsOEMxUTR3cE5mbnYyMUtFaVFOWF93SVBMVVJkd1JxSDN3emVIUlBma1l6Mk1ITHlKb2JMN0FyTkcyRWdVM1FnY0pEQ0tLTUhsYlVoakZn?oc=5\" target=\"_blank\">Fifteen States Sue FAA Over Delivery Drones Environmental Review</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aviation Week</font>",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZGoyZmZxT3dyc05ycWhBRVd0Rk1DamxscVZCVm1WQTRhbTJoanZRZnNfbFI1QmQxTzlDZFg3WHA1bzJDYUl1b2hFS0VpRzVnTzh6S1g3LWFjaE9SaFNiR0EwY19NYVRMaW1VYlM5ZUlsOEMxUTR3cE5mbnYyMUtFaVFOWF93SVBMVVJkd1JxSDN3emVIUlBma1l6Mk1ITHlKb2JMN0FyTkcyRWdVM1FnY0pEQ0tLTUhsYlVoakZn?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZGoyZmZxT3dyc05ycWhBRVd0Rk1DamxscVZCVm1WQTRhbTJoanZRZnNfbFI1QmQxTzlDZFg3WHA1bzJDYUl1b2hFS0VpRzVnTzh6S1g3LWFjaE9SaFNiR0EwY19NYVRMaW1VYlM5ZUlsOEMxUTR3cE5mbnYyMUtFaVFOWF93SVBMVVJkd1JxSDN3emVIUlBma1l6Mk1ITHlKb2JMN0FyTkcyRWdVM1FnY0pEQ0tLTUhsYlVoakZn?oc=5",
-      "publishedAt": "2026-09-29T22:25:55.000Z",
-      "source": "Aviation Week",
-      "_feedRegion": "us",
-      "_feedName": "FAA",
-      "_scoring": {
-        "score": 55,
-        "categories": [
-          "規制・政策",
-          "政策・インフラ"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 1,
-            "catScore": 32
-          },
-          "policy": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 0,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
       "title": "DroneClear Launches ChatGPT App to Help Travelers Navigate Thailand’s Drone Rules",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE4yOFluQnJBVVdzQkdZeERMbWF2REpFX2xHd3pESEdPd1RFa1lNaDc5c1R1cERtT0tHelRCaG9sLVRLOUxYSkVTVlZ3SXA2M3F2ZGZBYjZBQ2VRdW1jNWVWVW5nb1k5NFVnSENkUk1nS1ZFMnFJcDdRUmQzSmw?oc=5\" target=\"_blank\">DroneClear Launches ChatGPT App to Help Travelers Navigate Thailand’s Drone Rules</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dronelife</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE4yOFluQnJBVVdzQkdZeERMbWF2REpFX2xHd3pESEdPd1RFa1lNaDc5c1R1cERtT0tHelRCaG9sLVRLOUxYSkVTVlZ3SXA2M3F2ZGZBYjZBQ2VRdW1jNWVWVW5nb1k5NFVnSENkUk1nS1ZFMnFJcDdRUmQzSmw?oc=5\" target=\"_blank\">DroneClear Launches ChatGPT App to Help Travelers Navigate Thailand’s Drone Rules</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dronelife</font>",
@@ -962,145 +1058,33 @@
       }
     },
     {
-      "title": "DroneXL Adds 20 Drone Delivery Town Guides as Local Votes Pile Up",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE40bzlEbURITjJjcHNJWlBfRkllNHpudjRuOFVTY3YzNnpvbkpmRGpxdXlGMkZMS1drYXVMWmxnNUljRHFnMVNDY3RSSjVueVdOLVA1MVl4a1pJLUEzWUlLMmVXTDZZZHBKT3VBSGhuTmtBa0tqd05pYU13?oc=5\" target=\"_blank\">DroneXL Adds 20 Drone Delivery Town Guides as Local Votes Pile Up</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DroneXL</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE40bzlEbURITjJjcHNJWlBfRkllNHpudjRuOFVTY3YzNnpvbkpmRGpxdXlGMkZMS1drYXVMWmxnNUljRHFnMVNDY3RSSjVueVdOLVA1MVl4a1pJLUEzWUlLMmVXTDZZZHBKT3VBSGhuTmtBa0tqd05pYU13?oc=5\" target=\"_blank\">DroneXL Adds 20 Drone Delivery Town Guides as Local Votes Pile Up</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DroneXL</font>",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE40bzlEbURITjJjcHNJWlBfRkllNHpudjRuOFVTY3YzNnpvbkpmRGpxdXlGMkZMS1drYXVMWmxnNUljRHFnMVNDY3RSSjVueVdOLVA1MVl4a1pJLUEzWUlLMmVXTDZZZHBKT3VBSGhuTmtBa0tqd05pYU13?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiekFVX3lxTE40bzlEbURITjJjcHNJWlBfRkllNHpudjRuOFVTY3YzNnpvbkpmRGpxdXlGMkZMS1drYXVMWmxnNUljRHFnMVNDY3RSSjVueVdOLVA1MVl4a1pJLUEzWUlLMmVXTDZZZHBKT3VBSGhuTmtBa0tqd05pYU13?oc=5",
-      "publishedAt": "2026-10-12T00:50:00.000Z",
-      "source": "DroneXL",
-      "_feedRegion": "us",
-      "_feedName": "FAA",
+      "title": "ドローンショーのWhite Crow、大阪信用金庫・ABAKAMの「おおさか地域活性化ファンド」から資金調達",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFBVb2pseFAyOU1mY0Nud3lVZHczN3h5QU5VXzh3bWY0dFA3TjAyejk2Yk1RVGg0b2JYN0JneENsUWFiMlJyc2dqc3NFM1UzdEtTV2JjZEE1TWlTTDZMSllyRVVnbjRTMURkNWc?oc=5\" target=\"_blank\">ドローンショーのWhite Crow、大阪信用金庫・ABAKAMの「おおさか地域活性化ファンド」から資金調達</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR TIMES</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFBVb2pseFAyOU1mY0Nud3lVZHczN3h5QU5VXzh3bWY0dFA3TjAyejk2Yk1RVGg0b2JYN0JneENsUWFiMlJyc2dqc3NFM1UzdEtTV2JjZEE1TWlTTDZMSllyRVVnbjRTMURkNWc?oc=5\" target=\"_blank\">ドローンショーのWhite Crow、大阪信用金庫・ABAKAMの「おおさか地域活性化ファンド」から資金調達</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR TIMES</font>",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBVb2pseFAyOU1mY0Nud3lVZHczN3h5QU5VXzh3bWY0dFA3TjAyejk2Yk1RVGg0b2JYN0JneENsUWFiMlJyc2dqc3NFM1UzdEtTV2JjZEE1TWlTTDZMSllyRVVnbjRTMURkNWc?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBVb2pseFAyOU1mY0Nud3lVZHczN3h5QU5VXzh3bWY0dFA3TjAyejk2Yk1RVGg0b2JYN0JneENsUWFiMlJyc2dqc3NFM1UzdEtTV2JjZEE1TWlTTDZMSllyRVVnbjRTMURkNWc?oc=5",
+      "publishedAt": "2026-10-13T04:00:01.000Z",
+      "source": "PR TIMES",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP)",
       "_scoring": {
-        "score": 53,
+        "score": 55,
         "categories": [
-          "技術・製品",
-          "政策・インフラ"
-        ],
-        "breakdown": {
-          "required": true,
-          "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "policy": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 5,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "FAA puts $12 million behind 19 drone research projects",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1DdW9WbEhNZUlDOENmcFdEMFFYT3FCZ0JESzFaVWFpZnpKaU0zWEhFVHVUeTJSN2RrZlllZ3E2RjlrZmx6S0kzOEhtc1RPMnR4N3Z3OXRkaThCemZVSUZQS1BxMV8xS2xPSldtOF9CUm5VLTR1c2c?oc=5\" target=\"_blank\">FAA puts $12 million behind 19 drone research projects</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DroneDJ</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1DdW9WbEhNZUlDOENmcFdEMFFYT3FCZ0JESzFaVWFpZnpKaU0zWEhFVHVUeTJSN2RrZlllZ3E2RjlrZmx6S0kzOEhtc1RPMnR4N3Z3OXRkaThCemZVSUZQS1BxMV8xS2xPSldtOF9CUm5VLTR1c2c?oc=5\" target=\"_blank\">FAA puts $12 million behind 19 drone research projects</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DroneDJ</font>",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1DdW9WbEhNZUlDOENmcFdEMFFYT3FCZ0JESzFaVWFpZnpKaU0zWEhFVHVUeTJSN2RrZlllZ3E2RjlrZmx6S0kzOEhtc1RPMnR4N3Z3OXRkaThCemZVSUZQS1BxMV8xS2xPSldtOF9CUm5VLTR1c2c?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1DdW9WbEhNZUlDOENmcFdEMFFYT3FCZ0JESzFaVWFpZnpKaU0zWEhFVHVUeTJSN2RrZlllZ3E2RjlrZmx6S0kzOEhtc1RPMnR4N3Z3OXRkaThCemZVSUZQS1BxMV8xS2xPSldtOF9CUm5VLTR1c2c?oc=5",
-      "publishedAt": "2026-10-09T06:02:00.000Z",
-      "source": "DroneDJ",
-      "_feedRegion": "us",
-      "_feedName": "FAA",
-      "_scoring": {
-        "score": 52,
-        "categories": [
-          "規制・政策",
           "市場・資金"
         ],
         "breakdown": {
           "required": true,
-          "regulation": {
-            "matches": 1,
-            "catScore": 32
-          },
           "market": {
-            "matches": 1,
-            "catScore": 20
+            "matches": 2,
+            "catScore": 25
           },
           "sourceTrust": {
             "domain": "news.google.com",
             "multiplier": 0.8
           },
-          "freshness": 0,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "FAA Awards 19 Companies Drone Integration Funding",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNb3Foa2NUaVdYRlhDRHpkck5PY2h6dmVKMGp1VnBzQ2o0MW9MUUJpR1VFQzJORmVEQnBNRzktQzBWaE9CSlZwcm03UHc3clFWbEQ3eWdVSFplUFBfcnpnTm12T21vS0V5STQ4M1RyMnk0V1dPVWpJVWJWOVJpSmtGc0ZuWTZpM0pjTTdF?oc=5\" target=\"_blank\">FAA Awards 19 Companies Drone Integration Funding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ExecutiveGov</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNb3Foa2NUaVdYRlhDRHpkck5PY2h6dmVKMGp1VnBzQ2o0MW9MUUJpR1VFQzJORmVEQnBNRzktQzBWaE9CSlZwcm03UHc3clFWbEQ3eWdVSFplUFBfcnpnTm12T21vS0V5STQ4M1RyMnk0V1dPVWpJVWJWOVJpSmtGc0ZuWTZpM0pjTTdF?oc=5\" target=\"_blank\">FAA Awards 19 Companies Drone Integration Funding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ExecutiveGov</font>",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNb3Foa2NUaVdYRlhDRHpkck5PY2h6dmVKMGp1VnBzQ2o0MW9MUUJpR1VFQzJORmVEQnBNRzktQzBWaE9CSlZwcm03UHc3clFWbEQ3eWdVSFplUFBfcnpnTm12T21vS0V5STQ4M1RyMnk0V1dPVWpJVWJWOVJpSmtGc0ZuWTZpM0pjTTdF?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNb3Foa2NUaVdYRlhDRHpkck5PY2h6dmVKMGp1VnBzQ2o0MW9MUUJpR1VFQzJORmVEQnBNRzktQzBWaE9CSlZwcm03UHc3clFWbEQ3eWdVSFplUFBfcnpnTm12T21vS0V5STQ4M1RyMnk0V1dPVWpJVWJWOVJpSmtGc0ZuWTZpM0pjTTdF?oc=5",
-      "publishedAt": "2026-10-06T20:24:06.000Z",
-      "source": "ExecutiveGov",
-      "_feedRegion": "us",
-      "_feedName": "FAA",
-      "_scoring": {
-        "score": 52,
-        "categories": [
-          "規制・政策",
-          "市場・資金"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 1,
-            "catScore": 32
-          },
-          "market": {
-            "matches": 1,
-            "catScore": 20
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 0,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "FAA Invests in Drone and UAS Research to Advance Safe Airspace Integration",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQVlE4a2F5YkhJc3ZtRkRLTWZsc0RLVkVHM0FybFVvTmwzUjhkX3hvYzFLamlZRXFhX0ZNM3lSZ01fTXlVMmkzeTloOVpVN1Rma3YwekRGM1lEZG40ejFLTGlfR21GSWxiVGxFdmw1MVE1MEx2YmlQcmg4TUJlY09uU193UzV2MVpIa1JXdTRYY3NMazF5OXZ1NUp3NFprTEE3Zm96dTFON0ctT196?oc=5\" target=\"_blank\">FAA Invests in Drone and UAS Research to Advance Safe Airspace Integration</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">UASweekly.com</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQVlE4a2F5YkhJc3ZtRkRLTWZsc0RLVkVHM0FybFVvTmwzUjhkX3hvYzFLamlZRXFhX0ZNM3lSZ01fTXlVMmkzeTloOVpVN1Rma3YwekRGM1lEZG40ejFLTGlfR21GSWxiVGxFdmw1MVE1MEx2YmlQcmg4TUJlY09uU193UzV2MVpIa1JXdTRYY3NMazF5OXZ1NUp3NFprTEE3Zm96dTFON0ctT196?oc=5\" target=\"_blank\">FAA Invests in Drone and UAS Research to Advance Safe Airspace Integration</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">UASweekly.com</font>",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVlE4a2F5YkhJc3ZtRkRLTWZsc0RLVkVHM0FybFVvTmwzUjhkX3hvYzFLamlZRXFhX0ZNM3lSZ01fTXlVMmkzeTloOVpVN1Rma3YwekRGM1lEZG40ejFLTGlfR21GSWxiVGxFdmw1MVE1MEx2YmlQcmg4TUJlY09uU193UzV2MVpIa1JXdTRYY3NMazF5OXZ1NUp3NFprTEE3Zm96dTFON0ctT196?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVlE4a2F5YkhJc3ZtRkRLTWZsc0RLVkVHM0FybFVvTmwzUjhkX3hvYzFLamlZRXFhX0ZNM3lSZ01fTXlVMmkzeTloOVpVN1Rma3YwekRGM1lEZG40ejFLTGlfR21GSWxiVGxFdmw1MVE1MEx2YmlQcmg4TUJlY09uU193UzV2MVpIa1JXdTRYY3NMazF5OXZ1NUp3NFprTEE3Zm96dTFON0ctT196?oc=5",
-      "publishedAt": "2026-10-06T12:11:38.000Z",
-      "source": "UASweekly.com",
-      "_feedRegion": "us",
-      "_feedName": "FAA",
-      "_scoring": {
-        "score": 52,
-        "categories": [
-          "規制・政策",
-          "市場・資金"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 1,
-            "catScore": 32
-          },
-          "market": {
-            "matches": 1,
-            "catScore": 20
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 0,
-          "titleBonus": 10
+          "freshness": 10,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
         },
         "pass": true
       }
