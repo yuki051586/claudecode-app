@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-14T17:52:51.708Z",
-  "rawCount": 677,
+  "generatedAt": "2026-10-14T21:27:03.935Z",
+  "rawCount": 679,
   "articles": [
     {
       "title": "Teledyne FLIR Defense launches mid-range C-UAS radar at AUSA 2026",
@@ -13,7 +13,7 @@
       "_feedRegion": "global",
       "_feedName": "Google News (Global)",
       "_scoring": {
-        "score": 84,
+        "score": 79,
         "categories": [
           "技術・製品",
           "市場・資金",
@@ -37,7 +37,7 @@
             "domain": "news.google.com",
             "multiplier": 0.8
           },
-          "freshness": 15,
+          "freshness": 10,
           "titleBonus": 10
         },
         "pass": true
@@ -73,119 +73,6 @@
           "policy": {
             "matches": 2,
             "catScore": 30
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 0,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "States Challenge FAA’s Nationwide Environmental Review for Drone Package Delivery",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNeURKMDhrY1dxbkRtZ1lLcjN4ekFKX1RVNjNxakNISS1PelNTZF9WOC00WTc0Zk1BbXkyemtxRGg2MERfMm1wWWRYSDVZWDFxNmFMLVpobUtsN01iYXhsQkhRUEZuc0t1ZEtVRXlJYTlMVGdIWnVVVTRraEk0U0QwSlo1R1BNN1p0OWU5SHl4TWYtM0VTMUNFMUFrNC1sZEFQenNLb1pZbWMwM0pyTEHSAbMBQVVfeXFMT0V0RFRQdzc5TS1WNm9hTHFoMmk1Rk9obk1jbDdZaWhuSExwX2RlbHFIMThPLXQzaTI4VVVwUGZNbWJmYWhMcGZNVWY4NGFaQXRMRHBjSXU0Sl9EY1ktY2dIRVlrQlZfallfazdiY1FEMkl5bU8tcEQxbEFEVEhyZmRmREIxMzBmUTBrWk9JMWx2YVc0dWhPa09mUjNUTGlTTl9ENTc0M05kdnlzdUl3V0oyYkk?oc=5\" target=\"_blank\">States Challenge FAA’s Nationwide Environmental Review for Drone Package Delivery</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The National Law Review</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNeURKMDhrY1dxbkRtZ1lLcjN4ekFKX1RVNjNxakNISS1PelNTZF9WOC00WTc0Zk1BbXkyemtxRGg2MERfMm1wWWRYSDVZWDFxNmFMLVpobUtsN01iYXhsQkhRUEZuc0t1ZEtVRXlJYTlMVGdIWnVVVTRraEk0U0QwSlo1R1BNN1p0OWU5SHl4TWYtM0VTMUNFMUFrNC1sZEFQenNLb1pZbWMwM0pyTEHSAbMBQVVfeXFMT0V0RFRQdzc5TS1WNm9hTHFoMmk1Rk9obk1jbDdZaWhuSExwX2RlbHFIMThPLXQzaTI4VVVwUGZNbWJmYWhMcGZNVWY4NGFaQXRMRHBjSXU0Sl9EY1ktY2dIRVlrQlZfallfazdiY1FEMkl5bU8tcEQxbEFEVEhyZmRmREIxMzBmUTBrWk9JMWx2YVc0dWhPa09mUjNUTGlTTl9ENTc0M05kdnlzdUl3V0oyYkk?oc=5\" target=\"_blank\">States Challenge FAA’s Nationwide Environmental Review for Drone Package Delivery</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The National Law Review</font>",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNeURKMDhrY1dxbkRtZ1lLcjN4ekFKX1RVNjNxakNISS1PelNTZF9WOC00WTc0Zk1BbXkyemtxRGg2MERfMm1wWWRYSDVZWDFxNmFMLVpobUtsN01iYXhsQkhRUEZuc0t1ZEtVRXlJYTlMVGdIWnVVVTRraEk0U0QwSlo1R1BNN1p0OWU5SHl4TWYtM0VTMUNFMUFrNC1sZEFQenNLb1pZbWMwM0pyTEHSAbMBQVVfeXFMT0V0RFRQdzc5TS1WNm9hTHFoMmk1Rk9obk1jbDdZaWhuSExwX2RlbHFIMThPLXQzaTI4VVVwUGZNbWJmYWhMcGZNVWY4NGFaQXRMRHBjSXU0Sl9EY1ktY2dIRVlrQlZfallfazdiY1FEMkl5bU8tcEQxbEFEVEhyZmRmREIxMzBmUTBrWk9JMWx2YVc0dWhPa09mUjNUTGlTTl9ENTc0M05kdnlzdUl3V0oyYkk?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNeURKMDhrY1dxbkRtZ1lLcjN4ekFKX1RVNjNxakNISS1PelNTZF9WOC00WTc0Zk1BbXkyemtxRGg2MERfMm1wWWRYSDVZWDFxNmFMLVpobUtsN01iYXhsQkhRUEZuc0t1ZEtVRXlJYTlMVGdIWnVVVTRraEk0U0QwSlo1R1BNN1p0OWU5SHl4TWYtM0VTMUNFMUFrNC1sZEFQenNLb1pZbWMwM0pyTEHSAbMBQVVfeXFMT0V0RFRQdzc5TS1WNm9hTHFoMmk1Rk9obk1jbDdZaWhuSExwX2RlbHFIMThPLXQzaTI4VVVwUGZNbWJmYWhMcGZNVWY4NGFaQXRMRHBjSXU0Sl9EY1ktY2dIRVlrQlZfallfazdiY1FEMkl5bU8tcEQxbEFEVEhyZmRmREIxMzBmUTBrWk9JMWx2YVc0dWhPa09mUjNUTGlTTl9ENTc0M05kdnlzdUl3V0oyYkk?oc=5",
-      "publishedAt": "2026-10-14T16:53:59.000Z",
-      "source": "The National Law Review",
-      "_feedRegion": "us",
-      "_feedName": "FAA",
-      "_scoring": {
-        "score": 75,
-        "categories": [
-          "規制・政策",
-          "政策・インフラ"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 1,
-            "catScore": 32
-          },
-          "policy": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 20,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "Lawmakers Demand FAA Review of Amazon ($AMZN) Drone Delivery Hub",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQYzZkcXhvZGdFT2FnN1BoYS02aVdtNU1kOWFoaDk4Vl92YmdjLUkyc1E4Zi1HdG9WejlIZUNZTklUQi1MZ1FUeDgxNm5pWFp3b05fTXpEN29EOEdwZzUyb1Z5Q1lIN21ZMmFrdkxmdWpoeUVMLUs2TXdxYmdKaHZDbmRyMThPckxXbXUzOEt4UG9FSUVwai1adkM2b1FlYmd5Y3lQTkFn?oc=5\" target=\"_blank\">Lawmakers Demand FAA Review of Amazon ($AMZN) Drone Delivery Hub</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quiver Quantitative</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQYzZkcXhvZGdFT2FnN1BoYS02aVdtNU1kOWFoaDk4Vl92YmdjLUkyc1E4Zi1HdG9WejlIZUNZTklUQi1MZ1FUeDgxNm5pWFp3b05fTXpEN29EOEdwZzUyb1Z5Q1lIN21ZMmFrdkxmdWpoeUVMLUs2TXdxYmdKaHZDbmRyMThPckxXbXUzOEt4UG9FSUVwai1adkM2b1FlYmd5Y3lQTkFn?oc=5\" target=\"_blank\">Lawmakers Demand FAA Review of Amazon ($AMZN) Drone Delivery Hub</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quiver Quantitative</font>",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYzZkcXhvZGdFT2FnN1BoYS02aVdtNU1kOWFoaDk4Vl92YmdjLUkyc1E4Zi1HdG9WejlIZUNZTklUQi1MZ1FUeDgxNm5pWFp3b05fTXpEN29EOEdwZzUyb1Z5Q1lIN21ZMmFrdkxmdWpoeUVMLUs2TXdxYmdKaHZDbmRyMThPckxXbXUzOEt4UG9FSUVwai1adkM2b1FlYmd5Y3lQTkFn?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYzZkcXhvZGdFT2FnN1BoYS02aVdtNU1kOWFoaDk4Vl92YmdjLUkyc1E4Zi1HdG9WejlIZUNZTklUQi1MZ1FUeDgxNm5pWFp3b05fTXpEN29EOEdwZzUyb1Z5Q1lIN21ZMmFrdkxmdWpoeUVMLUs2TXdxYmdKaHZDbmRyMThPckxXbXUzOEt4UG9FSUVwai1adkM2b1FlYmd5Y3lQTkFn?oc=5",
-      "publishedAt": "2026-10-14T17:19:00.000Z",
-      "source": "Quiver Quantitative",
-      "_feedRegion": "us",
-      "_feedName": "FAA",
-      "_scoring": {
-        "score": 75,
-        "categories": [
-          "規制・政策",
-          "政策・インフラ"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 1,
-            "catScore": 32
-          },
-          "policy": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 20,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "A2Z Drone Delivery, Grab and SKYY Network Launch BVLOS Food Delivery Pilot in Bali",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPY0ZHaDFDSURtZzJtUnBMQzlLUHpXNkhNOG5tblBXVGJzM3k2UjV0NG1SRzBDeUo0dVRaSUQyQVpjRzE5TlEwTmxyUEVqTUQ2MUFTU1lSZ1JMWkt0WjgxOHEyWERGVi1NVFhOYlR3QUZXLVQxUHlxOXQ0SDE4dnlZeDk5ejlFLWNnY2ZNaDlQdFJ4a1dCTW5hbk8wUQ?oc=5\" target=\"_blank\">A2Z Drone Delivery, Grab and SKYY Network Launch BVLOS Food Delivery Pilot in Bali</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Commercial UAV News</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPY0ZHaDFDSURtZzJtUnBMQzlLUHpXNkhNOG5tblBXVGJzM3k2UjV0NG1SRzBDeUo0dVRaSUQyQVpjRzE5TlEwTmxyUEVqTUQ2MUFTU1lSZ1JMWkt0WjgxOHEyWERGVi1NVFhOYlR3QUZXLVQxUHlxOXQ0SDE4dnlZeDk5ejlFLWNnY2ZNaDlQdFJ4a1dCTW5hbk8wUQ?oc=5\" target=\"_blank\">A2Z Drone Delivery, Grab and SKYY Network Launch BVLOS Food Delivery Pilot in Bali</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Commercial UAV News</font>",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPY0ZHaDFDSURtZzJtUnBMQzlLUHpXNkhNOG5tblBXVGJzM3k2UjV0NG1SRzBDeUo0dVRaSUQyQVpjRzE5TlEwTmxyUEVqTUQ2MUFTU1lSZ1JMWkt0WjgxOHEyWERGVi1NVFhOYlR3QUZXLVQxUHlxOXQ0SDE4dnlZeDk5ejlFLWNnY2ZNaDlQdFJ4a1dCTW5hbk8wUQ?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPY0ZHaDFDSURtZzJtUnBMQzlLUHpXNkhNOG5tblBXVGJzM3k2UjV0NG1SRzBDeUo0dVRaSUQyQVpjRzE5TlEwTmxyUEVqTUQ2MUFTU1lSZ1JMWkt0WjgxOHEyWERGVi1NVFhOYlR3QUZXLVQxUHlxOXQ0SDE4dnlZeDk5ejlFLWNnY2ZNaDlQdFJ4a1dCTW5hbk8wUQ?oc=5",
-      "publishedAt": "2026-10-07T18:35:47.000Z",
-      "source": "Commercial UAV News",
-      "_feedRegion": "global",
-      "_feedName": "Google News (Global)",
-      "_scoring": {
-        "score": 74,
-        "categories": [
-          "規制・政策",
-          "技術・製品",
-          "政策・インフラ"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 1,
-            "catScore": 32
-          },
-          "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "policy": {
-            "matches": 1,
-            "catScore": 24
           },
           "sourceTrust": {
             "domain": "news.google.com",
@@ -239,13 +126,85 @@
       }
     },
     {
+      "title": "States Challenge FAA’s Nationwide Environmental Review for Drone Package Delivery",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNeURKMDhrY1dxbkRtZ1lLcjN4ekFKX1RVNjNxakNISS1PelNTZF9WOC00WTc0Zk1BbXkyemtxRGg2MERfMm1wWWRYSDVZWDFxNmFMLVpobUtsN01iYXhsQkhRUEZuc0t1ZEtVRXlJYTlMVGdIWnVVVTRraEk0U0QwSlo1R1BNN1p0OWU5SHl4TWYtM0VTMUNFMUFrNC1sZEFQenNLb1pZbWMwM0pyTEHSAbMBQVVfeXFMT0V0RFRQdzc5TS1WNm9hTHFoMmk1Rk9obk1jbDdZaWhuSExwX2RlbHFIMThPLXQzaTI4VVVwUGZNbWJmYWhMcGZNVWY4NGFaQXRMRHBjSXU0Sl9EY1ktY2dIRVlrQlZfallfazdiY1FEMkl5bU8tcEQxbEFEVEhyZmRmREIxMzBmUTBrWk9JMWx2YVc0dWhPa09mUjNUTGlTTl9ENTc0M05kdnlzdUl3V0oyYkk?oc=5\" target=\"_blank\">States Challenge FAA’s Nationwide Environmental Review for Drone Package Delivery</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The National Law Review</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNeURKMDhrY1dxbkRtZ1lLcjN4ekFKX1RVNjNxakNISS1PelNTZF9WOC00WTc0Zk1BbXkyemtxRGg2MERfMm1wWWRYSDVZWDFxNmFMLVpobUtsN01iYXhsQkhRUEZuc0t1ZEtVRXlJYTlMVGdIWnVVVTRraEk0U0QwSlo1R1BNN1p0OWU5SHl4TWYtM0VTMUNFMUFrNC1sZEFQenNLb1pZbWMwM0pyTEHSAbMBQVVfeXFMT0V0RFRQdzc5TS1WNm9hTHFoMmk1Rk9obk1jbDdZaWhuSExwX2RlbHFIMThPLXQzaTI4VVVwUGZNbWJmYWhMcGZNVWY4NGFaQXRMRHBjSXU0Sl9EY1ktY2dIRVlrQlZfallfazdiY1FEMkl5bU8tcEQxbEFEVEhyZmRmREIxMzBmUTBrWk9JMWx2YVc0dWhPa09mUjNUTGlTTl9ENTc0M05kdnlzdUl3V0oyYkk?oc=5\" target=\"_blank\">States Challenge FAA’s Nationwide Environmental Review for Drone Package Delivery</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The National Law Review</font>",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNeURKMDhrY1dxbkRtZ1lLcjN4ekFKX1RVNjNxakNISS1PelNTZF9WOC00WTc0Zk1BbXkyemtxRGg2MERfMm1wWWRYSDVZWDFxNmFMLVpobUtsN01iYXhsQkhRUEZuc0t1ZEtVRXlJYTlMVGdIWnVVVTRraEk0U0QwSlo1R1BNN1p0OWU5SHl4TWYtM0VTMUNFMUFrNC1sZEFQenNLb1pZbWMwM0pyTEHSAbMBQVVfeXFMT0V0RFRQdzc5TS1WNm9hTHFoMmk1Rk9obk1jbDdZaWhuSExwX2RlbHFIMThPLXQzaTI4VVVwUGZNbWJmYWhMcGZNVWY4NGFaQXRMRHBjSXU0Sl9EY1ktY2dIRVlrQlZfallfazdiY1FEMkl5bU8tcEQxbEFEVEhyZmRmREIxMzBmUTBrWk9JMWx2YVc0dWhPa09mUjNUTGlTTl9ENTc0M05kdnlzdUl3V0oyYkk?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNeURKMDhrY1dxbkRtZ1lLcjN4ekFKX1RVNjNxakNISS1PelNTZF9WOC00WTc0Zk1BbXkyemtxRGg2MERfMm1wWWRYSDVZWDFxNmFMLVpobUtsN01iYXhsQkhRUEZuc0t1ZEtVRXlJYTlMVGdIWnVVVTRraEk0U0QwSlo1R1BNN1p0OWU5SHl4TWYtM0VTMUNFMUFrNC1sZEFQenNLb1pZbWMwM0pyTEHSAbMBQVVfeXFMT0V0RFRQdzc5TS1WNm9hTHFoMmk1Rk9obk1jbDdZaWhuSExwX2RlbHFIMThPLXQzaTI4VVVwUGZNbWJmYWhMcGZNVWY4NGFaQXRMRHBjSXU0Sl9EY1ktY2dIRVlrQlZfallfazdiY1FEMkl5bU8tcEQxbEFEVEhyZmRmREIxMzBmUTBrWk9JMWx2YVc0dWhPa09mUjNUTGlTTl9ENTc0M05kdnlzdUl3V0oyYkk?oc=5",
+      "publishedAt": "2026-10-14T16:53:59.000Z",
+      "source": "The National Law Review",
+      "_feedRegion": "us",
+      "_feedName": "FAA",
+      "_scoring": {
+        "score": 70,
+        "categories": [
+          "規制・政策",
+          "政策・インフラ"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
+          "policy": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 15,
+          "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
       "title": "Federal officials request Amazon, FAA reconsider drone delivery",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQRFhTcUMzMXJtUDNaYVNsN2RtOFRsMzAyUTltRTF1OXg0Y0JwbVZZd1BnMERmcUhwVmpRUDVTYUR5Z2lIS29zX0tQVFFBRTBaLU9sVFRDOTE3S1NXTURtZTFndk12UEdWeU56NDM0TzRMSkpHOU5lSFdKd3JaekZUWktHSG40eWVVQW5aX1V0bVhCUzIwazN3RXA4QWxLc2lUZ3BQUjh3UTJNMTk2SUJXNFZoV09fdTRIaW4tNWRoTllaYUFYc0JpSy1R?oc=5\" target=\"_blank\">Federal officials request Amazon, FAA reconsider drone delivery</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Worcester Telegram</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQRFhTcUMzMXJtUDNaYVNsN2RtOFRsMzAyUTltRTF1OXg0Y0JwbVZZd1BnMERmcUhwVmpRUDVTYUR5Z2lIS29zX0tQVFFBRTBaLU9sVFRDOTE3S1NXTURtZTFndk12UEdWeU56NDM0TzRMSkpHOU5lSFdKd3JaekZUWktHSG40eWVVQW5aX1V0bVhCUzIwazN3RXA4QWxLc2lUZ3BQUjh3UTJNMTk2SUJXNFZoV09fdTRIaW4tNWRoTllaYUFYc0JpSy1R?oc=5\" target=\"_blank\">Federal officials request Amazon, FAA reconsider drone delivery</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Worcester Telegram</font>",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRFhTcUMzMXJtUDNaYVNsN2RtOFRsMzAyUTltRTF1OXg0Y0JwbVZZd1BnMERmcUhwVmpRUDVTYUR5Z2lIS29zX0tQVFFBRTBaLU9sVFRDOTE3S1NXTURtZTFndk12UEdWeU56NDM0TzRMSkpHOU5lSFdKd3JaekZUWktHSG40eWVVQW5aX1V0bVhCUzIwazN3RXA4QWxLc2lUZ3BQUjh3UTJNMTk2SUJXNFZoV09fdTRIaW4tNWRoTllaYUFYc0JpSy1R?oc=5",
       "googleNewsUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRFhTcUMzMXJtUDNaYVNsN2RtOFRsMzAyUTltRTF1OXg0Y0JwbVZZd1BnMERmcUhwVmpRUDVTYUR5Z2lIS29zX0tQVFFBRTBaLU9sVFRDOTE3S1NXTURtZTFndk12UEdWeU56NDM0TzRMSkpHOU5lSFdKd3JaekZUWktHSG40eWVVQW5aX1V0bVhCUzIwazN3RXA4QWxLc2lUZ3BQUjh3UTJNMTk2SUJXNFZoV09fdTRIaW4tNWRoTllaYUFYc0JpSy1R?oc=5",
-      "publishedAt": "2026-10-14T09:07:00.000Z",
+      "publishedAt": "2026-10-14T18:05:00.000Z",
       "source": "Worcester Telegram",
+      "_feedRegion": "us",
+      "_feedName": "FAA",
+      "_scoring": {
+        "score": 70,
+        "categories": [
+          "規制・政策",
+          "政策・インフラ"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
+          "policy": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 15,
+          "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "Lawmakers Demand FAA Review of Amazon ($AMZN) Drone Delivery Hub",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQYzZkcXhvZGdFT2FnN1BoYS02aVdtNU1kOWFoaDk4Vl92YmdjLUkyc1E4Zi1HdG9WejlIZUNZTklUQi1MZ1FUeDgxNm5pWFp3b05fTXpEN29EOEdwZzUyb1Z5Q1lIN21ZMmFrdkxmdWpoeUVMLUs2TXdxYmdKaHZDbmRyMThPckxXbXUzOEt4UG9FSUVwai1adkM2b1FlYmd5Y3lQTkFn?oc=5\" target=\"_blank\">Lawmakers Demand FAA Review of Amazon ($AMZN) Drone Delivery Hub</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quiver Quantitative</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQYzZkcXhvZGdFT2FnN1BoYS02aVdtNU1kOWFoaDk4Vl92YmdjLUkyc1E4Zi1HdG9WejlIZUNZTklUQi1MZ1FUeDgxNm5pWFp3b05fTXpEN29EOEdwZzUyb1Z5Q1lIN21ZMmFrdkxmdWpoeUVMLUs2TXdxYmdKaHZDbmRyMThPckxXbXUzOEt4UG9FSUVwai1adkM2b1FlYmd5Y3lQTkFn?oc=5\" target=\"_blank\">Lawmakers Demand FAA Review of Amazon ($AMZN) Drone Delivery Hub</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quiver Quantitative</font>",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYzZkcXhvZGdFT2FnN1BoYS02aVdtNU1kOWFoaDk4Vl92YmdjLUkyc1E4Zi1HdG9WejlIZUNZTklUQi1MZ1FUeDgxNm5pWFp3b05fTXpEN29EOEdwZzUyb1Z5Q1lIN21ZMmFrdkxmdWpoeUVMLUs2TXdxYmdKaHZDbmRyMThPckxXbXUzOEt4UG9FSUVwai1adkM2b1FlYmd5Y3lQTkFn?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYzZkcXhvZGdFT2FnN1BoYS02aVdtNU1kOWFoaDk4Vl92YmdjLUkyc1E4Zi1HdG9WejlIZUNZTklUQi1MZ1FUeDgxNm5pWFp3b05fTXpEN29EOEdwZzUyb1Z5Q1lIN21ZMmFrdkxmdWpoeUVMLUs2TXdxYmdKaHZDbmRyMThPckxXbXUzOEt4UG9FSUVwai1adkM2b1FlYmd5Y3lQTkFn?oc=5",
+      "publishedAt": "2026-10-14T17:19:00.000Z",
+      "source": "Quiver Quantitative",
       "_feedRegion": "us",
       "_feedName": "FAA",
       "_scoring": {
@@ -383,6 +342,38 @@
             "multiplier": 0.8
           },
           "freshness": 0,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "防衛ドローン、新興企業が主役 アジャイル型で開発加速も課題は山積",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFBIM01jampLM3BXNXR0ZGd2cDl2cFl6d0FTeW5xZUNzWGNyN2Y3RE9DbkVwOEN2d3Vmdng2TnlrNlBYMWZFdXQxTGhhVUEwTzdqQnp5ZjZfVUNaUnRDU2hOT0JjRjd4Zm9lN1gxdg?oc=5\" target=\"_blank\">防衛ドローン、新興企業が主役 アジャイル型で開発加速も課題は山積</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日経クロステック</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFBIM01jampLM3BXNXR0ZGd2cDl2cFl6d0FTeW5xZUNzWGNyN2Y3RE9DbkVwOEN2d3Vmdng2TnlrNlBYMWZFdXQxTGhhVUEwTzdqQnp5ZjZfVUNaUnRDU2hOT0JjRjd4Zm9lN1gxdg?oc=5\" target=\"_blank\">防衛ドローン、新興企業が主役 アジャイル型で開発加速も課題は山積</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日経クロステック</font>",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBIM01jampLM3BXNXR0ZGd2cDl2cFl6d0FTeW5xZUNzWGNyN2Y3RE9DbkVwOEN2d3Vmdng2TnlrNlBYMWZFdXQxTGhhVUEwTzdqQnp5ZjZfVUNaUnRDU2hOT0JjRjd4Zm9lN1gxdg?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBIM01jampLM3BXNXR0ZGd2cDl2cFl6d0FTeW5xZUNzWGNyN2Y3RE9DbkVwOEN2d3Vmdng2TnlrNlBYMWZFdXQxTGhhVUEwTzdqQnp5ZjZfVUNaUnRDU2hOT0JjRjd4Zm9lN1gxdg?oc=5",
+      "publishedAt": "2026-10-14T20:00:00.000Z",
+      "source": "日経クロステック",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP)",
+      "_scoring": {
+        "score": 64,
+        "categories": [
+          "技術・製品"
+        ],
+        "breakdown": {
+          "required": true,
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 20,
+          "titleBonus": 10,
           "jpRegionBonus": 15
         },
         "pass": true
@@ -610,6 +601,74 @@
       }
     },
     {
+      "title": "楽天提携の独ドローン新興、宇宙と車の知見が工場支える 月4000機生産",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE92UG8yNm5zWXhUQWJ5S2lYOHpXNGR2YTJaVE1YMDNpM0tmVHZwYnpjbEZxZzFPejBrQlE4aW5fMVpod2F6eFczVGotVUl3R0dYTjlqTUhFLW5vUUxLTzRfSlB0Z1ZOdkFFVzBmUA?oc=5\" target=\"_blank\">楽天提携の独ドローン新興、宇宙と車の知見が工場支える 月4000機生産</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE92UG8yNm5zWXhUQWJ5S2lYOHpXNGR2YTJaVE1YMDNpM0tmVHZwYnpjbEZxZzFPejBrQlE4aW5fMVpod2F6eFczVGotVUl3R0dYTjlqTUhFLW5vUUxLTzRfSlB0Z1ZOdkFFVzBmUA?oc=5\" target=\"_blank\">楽天提携の独ドローン新興、宇宙と車の知見が工場支える 月4000機生産</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE92UG8yNm5zWXhUQWJ5S2lYOHpXNGR2YTJaVE1YMDNpM0tmVHZwYnpjbEZxZzFPejBrQlE4aW5fMVpod2F6eFczVGotVUl3R0dYTjlqTUhFLW5vUUxLTzRfSlB0Z1ZOdkFFVzBmUA?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTE92UG8yNm5zWXhUQWJ5S2lYOHpXNGR2YTJaVE1YMDNpM0tmVHZwYnpjbEZxZzFPejBrQlE4aW5fMVpod2F6eFczVGotVUl3R0dYTjlqTUhFLW5vUUxLTzRfSlB0Z1ZOdkFFVzBmUA?oc=5",
+      "publishedAt": "2026-10-14T20:00:00.000Z",
+      "source": "日本経済新聞",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP)",
+      "_scoring": {
+        "score": 61,
+        "categories": [
+          "市場・資金"
+        ],
+        "breakdown": {
+          "required": true,
+          "market": {
+            "matches": 1,
+            "catScore": 20
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 20,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "Leonardo DRS awarded JIATF-401 IDIQ contract to accelerate delivery of tactical expeditionary sensing capabilities for critical counter UAS mission - EDR Magazine",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMihAJBVV95cUxNU18wOGpXZ1RZLWRPOUV1T0ZVaHhMQzVHWVJsLWEyd2VpaUdHdkJaN0V2NWVuX3JMLUlIbjd6U0FqVklNNXpnUnhGVERrSkxEVUFRV21YdHBXQVNxTjlDRUJ4bF8tdVdUVURmUFoxc1hnRmFzd0NqbXhRNlpmR0Q0QTI3QlNWYnVrRllyVWZSVWJyY01SNWxMY3dUOE5qNGo1TGFHZ3lKSEVEYWdjZWlzTzZITXQyaWlmeU1PalpDYWxzZ0NFVGtEZVFnc1U3aWxYcnFHcjBmWnFqVHdwUHJTaGRCaXF0MmwwOWZxMUMtMDFob2dSdGxDeVUxdlIzXzlGbVlUTg?oc=5\" target=\"_blank\">Leonardo DRS awarded JIATF-401 IDIQ contract to accelerate delivery of tactical expeditionary sensing capabilities for critical counter UAS mission</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">EDR Magazine - European Defence Review</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMihAJBVV95cUxNU18wOGpXZ1RZLWRPOUV1T0ZVaHhMQzVHWVJsLWEyd2VpaUdHdkJaN0V2NWVuX3JMLUlIbjd6U0FqVklNNXpnUnhGVERrSkxEVUFRV21YdHBXQVNxTjlDRUJ4bF8tdVdUVURmUFoxc1hnRmFzd0NqbXhRNlpmR0Q0QTI3QlNWYnVrRllyVWZSVWJyY01SNWxMY3dUOE5qNGo1TGFHZ3lKSEVEYWdjZWlzTzZITXQyaWlmeU1PalpDYWxzZ0NFVGtEZVFnc1U3aWxYcnFHcjBmWnFqVHdwUHJTaGRCaXF0MmwwOWZxMUMtMDFob2dSdGxDeVUxdlIzXzlGbVlUTg?oc=5\" target=\"_blank\">Leonardo DRS awarded JIATF-401 IDIQ contract to accelerate delivery of tactical expeditionary sensing capabilities for critical counter UAS mission</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">EDR Magazine - European Defence Review</font>",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNU18wOGpXZ1RZLWRPOUV1T0ZVaHhMQzVHWVJsLWEyd2VpaUdHdkJaN0V2NWVuX3JMLUlIbjd6U0FqVklNNXpnUnhGVERrSkxEVUFRV21YdHBXQVNxTjlDRUJ4bF8tdVdUVURmUFoxc1hnRmFzd0NqbXhRNlpmR0Q0QTI3QlNWYnVrRllyVWZSVWJyY01SNWxMY3dUOE5qNGo1TGFHZ3lKSEVEYWdjZWlzTzZITXQyaWlmeU1PalpDYWxzZ0NFVGtEZVFnc1U3aWxYcnFHcjBmWnFqVHdwUHJTaGRCaXF0MmwwOWZxMUMtMDFob2dSdGxDeVUxdlIzXzlGbVlUTg?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNU18wOGpXZ1RZLWRPOUV1T0ZVaHhMQzVHWVJsLWEyd2VpaUdHdkJaN0V2NWVuX3JMLUlIbjd6U0FqVklNNXpnUnhGVERrSkxEVUFRV21YdHBXQVNxTjlDRUJ4bF8tdVdUVURmUFoxc1hnRmFzd0NqbXhRNlpmR0Q0QTI3QlNWYnVrRllyVWZSVWJyY01SNWxMY3dUOE5qNGo1TGFHZ3lKSEVEYWdjZWlzTzZITXQyaWlmeU1PalpDYWxzZ0NFVGtEZVFnc1U3aWxYcnFHcjBmWnFqVHdwUHJTaGRCaXF0MmwwOWZxMUMtMDFob2dSdGxDeVUxdlIzXzlGbVlUTg?oc=5",
+      "publishedAt": "2026-10-14T14:44:16.000Z",
+      "source": "EDR Magazine - European Defence Review",
+      "_feedRegion": "global",
+      "_feedName": "Google News (Global)",
+      "_scoring": {
+        "score": 60,
+        "categories": [
+          "市場・資金",
+          "政策・インフラ"
+        ],
+        "breakdown": {
+          "required": true,
+          "market": {
+            "matches": 1,
+            "catScore": 20
+          },
+          "policy": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 15,
+          "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
       "title": "インフラ点検・獣害対策・防災のドローン活用を実演解説。DJI Matrice 400／Matrice 4シリーズの無料セミナーを10月30日（金）に栃木県茂木町で開催",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE1STGJiTmE1UnUxamZ2V29SYWVTQWZXTE9Za2NlM2VNcV9hdEUwQkFyR1VHeGlwVGJ5YzdHWGxkelVJTFZ5Znk5UW1GYU5Hb1k?oc=5\" target=\"_blank\">インフラ点検・獣害対策・防災のドローン活用を実演解説。DJI Matrice 400／Matrice 4シリーズの無料セミナーを10月30日（金）に栃木県茂木町で開催</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">https://sekidocorp.com/</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE1STGJiTmE1UnUxamZ2V29SYWVTQWZXTE9Za2NlM2VNcV9hdEUwQkFyR1VHeGlwVGJ5YzdHWGxkelVJTFZ5Znk5UW1GYU5Hb1k?oc=5\" target=\"_blank\">インフラ点検・獣害対策・防災のドローン活用を実演解説。DJI Matrice 400／Matrice 4シリーズの無料セミナーを10月30日（金）に栃木県茂木町で開催</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">https://sekidocorp.com/</font>",
@@ -647,47 +706,15 @@
       }
     },
     {
-      "title": "ドローンとAIで密漁検知 実証実験、摘発に成功 (共同通信)",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQZVJwNUlSM2E5V1Iyc0sxdHFmemExa281UDhtYVhPekNBeXRPSDJMYnVESzhJZmpoaWo5WGtBWGxOZFpLaXNtUzBYMk9uWDJONVVzZTlIT2FqcXgyZnA5c2JadTJPY3pmYWVtSHJtM3N3bEE0a2NqcVNfRGgxcV8xRHNVUTMtbG10dGx6N2tB?oc=5\" target=\"_blank\">ドローンとAIで密漁検知 実証実験、摘発に成功 (共同通信)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQZVJwNUlSM2E5V1Iyc0sxdHFmemExa281UDhtYVhPekNBeXRPSDJMYnVESzhJZmpoaWo5WGtBWGxOZFpLaXNtUzBYMk9uWDJONVVzZTlIT2FqcXgyZnA5c2JadTJPY3pmYWVtSHJtM3N3bEE0a2NqcVNfRGgxcV8xRHNVUTMtbG10dGx6N2tB?oc=5\" target=\"_blank\">ドローンとAIで密漁検知 実証実験、摘発に成功 (共同通信)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZVJwNUlSM2E5V1Iyc0sxdHFmemExa281UDhtYVhPekNBeXRPSDJMYnVESzhJZmpoaWo5WGtBWGxOZFpLaXNtUzBYMk9uWDJONVVzZTlIT2FqcXgyZnA5c2JadTJPY3pmYWVtSHJtM3N3bEE0a2NqcVNfRGgxcV8xRHNVUTMtbG10dGx6N2tB?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZVJwNUlSM2E5V1Iyc0sxdHFmemExa281UDhtYVhPekNBeXRPSDJMYnVESzhJZmpoaWo5WGtBWGxOZFpLaXNtUzBYMk9uWDJONVVzZTlIT2FqcXgyZnA5c2JadTJPY3pmYWVtSHJtM3N3bEE0a2NqcVNfRGgxcV8xRHNVUTMtbG10dGx6N2tB?oc=5",
-      "publishedAt": "2026-10-13T20:46:12.000Z",
+      "title": "産官学連携で開発「水稲直まきドローン」 国のスマート農業研究事業に採択 2029年度全国普及へ 秋田（秋田テレビ）",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBNRHViQlY1UFo2a1J6NTZLYXJEZzdUWnhTXzFNYm1JX1ZRWnhHYi1fbndDdFVLRnd3R2tjcGpXb2h3QmxnUm4zSXJPb1R4MlhkMnRMczc4bjVMRi1UQ2dEcjJjTE5fWkgyYTFKQUhnX1Y2RVRPVGRYY0YzSEpvS28?oc=5\" target=\"_blank\">産官学連携で開発「水稲直まきドローン」 国のスマート農業研究事業に採択 2029年度全国普及へ 秋田（秋田テレビ）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBNRHViQlY1UFo2a1J6NTZLYXJEZzdUWnhTXzFNYm1JX1ZRWnhHYi1fbndDdFVLRnd3R2tjcGpXb2h3QmxnUm4zSXJPb1R4MlhkMnRMczc4bjVMRi1UQ2dEcjJjTE5fWkgyYTFKQUhnX1Y2RVRPVGRYY0YzSEpvS28?oc=5\" target=\"_blank\">産官学連携で開発「水稲直まきドローン」 国のスマート農業研究事業に採択 2029年度全国普及へ 秋田（秋田テレビ）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBNRHViQlY1UFo2a1J6NTZLYXJEZzdUWnhTXzFNYm1JX1ZRWnhHYi1fbndDdFVLRnd3R2tjcGpXb2h3QmxnUm4zSXJPb1R4MlhkMnRMczc4bjVMRi1UQ2dEcjJjTE5fWkgyYTFKQUhnX1Y2RVRPVGRYY0YzSEpvS28?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBNRHViQlY1UFo2a1J6NTZLYXJEZzdUWnhTXzFNYm1JX1ZRWnhHYi1fbndDdFVLRnd3R2tjcGpXb2h3QmxnUm4zSXJPb1R4MlhkMnRMczc4bjVMRi1UQ2dEcjJjTE5fWkgyYTFKQUhnX1Y2RVRPVGRYY0YzSEpvS28?oc=5",
+      "publishedAt": "2026-10-14T10:27:01.000Z",
       "source": "Yahoo!ニュース",
       "_feedRegion": "jp",
-      "_feedName": "Google News (JP 政策/実証)",
-      "_scoring": {
-        "score": 59,
-        "categories": [
-          "技術・製品"
-        ],
-        "breakdown": {
-          "required": true,
-          "technology": {
-            "matches": 2,
-            "catScore": 30
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 10,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "「NTTイードローンアカデミー」開校、未経験者向け「短期集中プラン」を新設",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBSQ0M3M1U5TktvZ19mR1JES1ctOS1wTk1YT3B5aFdYQllaYUpMOGREaDRuWmlkbmUtMldRbU9MS0hLVlRxQ3JMcVNydUU0X2RTQmh6NGdFeDkxWFVod0ZTNWJDNVVvcmhVdmZuQUNvWHQzYkZWdVMwSw?oc=5\" target=\"_blank\">「NTTイードローンアカデミー」開校、未経験者向け「短期集中プラン」を新設</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ドローンジャーナル</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBSQ0M3M1U5TktvZ19mR1JES1ctOS1wTk1YT3B5aFdYQllaYUpMOGREaDRuWmlkbmUtMldRbU9MS0hLVlRxQ3JMcVNydUU0X2RTQmh6NGdFeDkxWFVod0ZTNWJDNVVvcmhVdmZuQUNvWHQzYkZWdVMwSw?oc=5\" target=\"_blank\">「NTTイードローンアカデミー」開校、未経験者向け「短期集中プラン」を新設</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ドローンジャーナル</font>",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBSQ0M3M1U5TktvZ19mR1JES1ctOS1wTk1YT3B5aFdYQllaYUpMOGREaDRuWmlkbmUtMldRbU9MS0hLVlRxQ3JMcVNydUU0X2RTQmh6NGdFeDkxWFVod0ZTNWJDNVVvcmhVdmZuQUNvWHQzYkZWdVMwSw?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBSQ0M3M1U5TktvZ19mR1JES1ctOS1wTk1YT3B5aFdYQllaYUpMOGREaDRuWmlkbmUtMldRbU9MS0hLVlRxQ3JMcVNydUU0X2RTQmh6NGdFeDkxWFVod0ZTNWJDNVVvcmhVdmZuQUNvWHQzYkZWdVMwSw?oc=5",
-      "publishedAt": "2026-10-14T06:21:44.000Z",
-      "source": "ドローンジャーナル",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP 経済メディア)",
+      "_feedName": "Google News (JP)",
       "_scoring": {
         "score": 59,
         "categories": [
@@ -850,75 +877,13 @@
       }
     },
     {
-      "title": "US lawmakers ask FAA to conduct review before allowing Amazon drone hub near Boston",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxPd3hFTE1XNWZDQm1jMXloNlREQnljaTljaE93LThlTGsyUlBzdVEzbEgwUEdtckNjQm5wVVNNNUtXeURqUk5pS3hEWFpsbDhqQS1yVnRQcjRVMUVza1JyVlUwYVA4T3ZOMS16am5QWEJVSU9wQ2N5VUxIOEE4SGdFZXVaSFBNZGNmdjNfMXRnVk1iNEFFVlBycUxwMk13MjNOWnlqd01pQ2xmQ1BmeWZMR2Y3cXl4Ml9WX2czTmJqVDROTHJuVkZoOHA3SXdRTWZWWHhVOXhycHE?oc=5\" target=\"_blank\">US lawmakers ask FAA to conduct review before allowing Amazon drone hub near Boston</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxPd3hFTE1XNWZDQm1jMXloNlREQnljaTljaE93LThlTGsyUlBzdVEzbEgwUEdtckNjQm5wVVNNNUtXeURqUk5pS3hEWFpsbDhqQS1yVnRQcjRVMUVza1JyVlUwYVA4T3ZOMS16am5QWEJVSU9wQ2N5VUxIOEE4SGdFZXVaSFBNZGNmdjNfMXRnVk1iNEFFVlBycUxwMk13MjNOWnlqd01pQ2xmQ1BmeWZMR2Y3cXl4Ml9WX2czTmJqVDROTHJuVkZoOHA3SXdRTWZWWHhVOXhycHE?oc=5\" target=\"_blank\">US lawmakers ask FAA to conduct review before allowing Amazon drone hub near Boston</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPd3hFTE1XNWZDQm1jMXloNlREQnljaTljaE93LThlTGsyUlBzdVEzbEgwUEdtckNjQm5wVVNNNUtXeURqUk5pS3hEWFpsbDhqQS1yVnRQcjRVMUVza1JyVlUwYVA4T3ZOMS16am5QWEJVSU9wQ2N5VUxIOEE4SGdFZXVaSFBNZGNmdjNfMXRnVk1iNEFFVlBycUxwMk13MjNOWnlqd01pQ2xmQ1BmeWZMR2Y3cXl4Ml9WX2czTmJqVDROTHJuVkZoOHA3SXdRTWZWWHhVOXhycHE?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPd3hFTE1XNWZDQm1jMXloNlREQnljaTljaE93LThlTGsyUlBzdVEzbEgwUEdtckNjQm5wVVNNNUtXeURqUk5pS3hEWFpsbDhqQS1yVnRQcjRVMUVza1JyVlUwYVA4T3ZOMS16am5QWEJVSU9wQ2N5VUxIOEE4SGdFZXVaSFBNZGNmdjNfMXRnVk1iNEFFVlBycUxwMk13MjNOWnlqd01pQ2xmQ1BmeWZMR2Y3cXl4Ml9WX2czTmJqVDROTHJuVkZoOHA3SXdRTWZWWHhVOXhycHE?oc=5",
-      "publishedAt": "2026-10-14T17:16:53.000Z",
-      "source": "Reuters",
-      "_feedRegion": "us",
-      "_feedName": "FAA",
-      "_scoring": {
-        "score": 56,
-        "categories": [
-          "規制・政策"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 1,
-            "catScore": 32
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 20,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "Lawmakers ask FAA to conduct review before allowing Amazon.com drone hub near Boston",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxPMFFfUnhHbmw2ZjdCbGFHcWRwME9vZVh0V001MTNDRUptTjZVX05PU2pxdUswaFM3bW1qT1Rfa01sQkxCb3Z0dUdjNE1XLXhVcE1SZXVsbDZES254Z2NTMWRjUmtjMXU0T2NBdHNHMkF6TGRoMXQwa3I0M2xJMTQtQkxtUnd6bnBZb0wtZThwNE8zWFcyemJrTGxWcDJQamVOUEdtRGpRalVOakdJNEVkZ1JmeEMyY3pYelVQT3F1bVRGRWNXd1ZTUFNPY0xVRXJRYXhwT3E4elVUQdIB3wFBVV95cUxNRTdwVWNIRWZ2RHpxa3NGdk4zTFRzcXBxRmtmQlNLN28wRFdDcFA1NGcyMm1oRGNoSGlhdnJtTmEtcWNfZERwMjVHRVIzSjVBRUhDdTdtellfWjlxWFIwUlREcnd0U0VOV1h0eUxqQk1FQ0ZHZ05PNTY1TEZQMnlVOHUtbzdjUjloRURlQzdHTjZEcktMakkyMnNpSUV1ak9wZ0FNRVJVcGRUWS11MFBvRjdSOTVPdmh3UE4tbHB3N1BSTi1ya0xaM0V4TDlBMlhyRnc5azl1RnZMdkVBY2Yw?oc=5\" target=\"_blank\">Lawmakers ask FAA to conduct review before allowing Amazon.com drone hub near Boston</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Devdiscourse</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxPMFFfUnhHbmw2ZjdCbGFHcWRwME9vZVh0V001MTNDRUptTjZVX05PU2pxdUswaFM3bW1qT1Rfa01sQkxCb3Z0dUdjNE1XLXhVcE1SZXVsbDZES254Z2NTMWRjUmtjMXU0T2NBdHNHMkF6TGRoMXQwa3I0M2xJMTQtQkxtUnd6bnBZb0wtZThwNE8zWFcyemJrTGxWcDJQamVOUEdtRGpRalVOakdJNEVkZ1JmeEMyY3pYelVQT3F1bVRGRWNXd1ZTUFNPY0xVRXJRYXhwT3E4elVUQdIB3wFBVV95cUxNRTdwVWNIRWZ2RHpxa3NGdk4zTFRzcXBxRmtmQlNLN28wRFdDcFA1NGcyMm1oRGNoSGlhdnJtTmEtcWNfZERwMjVHRVIzSjVBRUhDdTdtellfWjlxWFIwUlREcnd0U0VOV1h0eUxqQk1FQ0ZHZ05PNTY1TEZQMnlVOHUtbzdjUjloRURlQzdHTjZEcktMakkyMnNpSUV1ak9wZ0FNRVJVcGRUWS11MFBvRjdSOTVPdmh3UE4tbHB3N1BSTi1ya0xaM0V4TDlBMlhyRnc5azl1RnZMdkVBY2Yw?oc=5\" target=\"_blank\">Lawmakers ask FAA to conduct review before allowing Amazon.com drone hub near Boston</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Devdiscourse</font>",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPMFFfUnhHbmw2ZjdCbGFHcWRwME9vZVh0V001MTNDRUptTjZVX05PU2pxdUswaFM3bW1qT1Rfa01sQkxCb3Z0dUdjNE1XLXhVcE1SZXVsbDZES254Z2NTMWRjUmtjMXU0T2NBdHNHMkF6TGRoMXQwa3I0M2xJMTQtQkxtUnd6bnBZb0wtZThwNE8zWFcyemJrTGxWcDJQamVOUEdtRGpRalVOakdJNEVkZ1JmeEMyY3pYelVQT3F1bVRGRWNXd1ZTUFNPY0xVRXJRYXhwT3E4elVUQdIB3wFBVV95cUxNRTdwVWNIRWZ2RHpxa3NGdk4zTFRzcXBxRmtmQlNLN28wRFdDcFA1NGcyMm1oRGNoSGlhdnJtTmEtcWNfZERwMjVHRVIzSjVBRUhDdTdtellfWjlxWFIwUlREcnd0U0VOV1h0eUxqQk1FQ0ZHZ05PNTY1TEZQMnlVOHUtbzdjUjloRURlQzdHTjZEcktMakkyMnNpSUV1ak9wZ0FNRVJVcGRUWS11MFBvRjdSOTVPdmh3UE4tbHB3N1BSTi1ya0xaM0V4TDlBMlhyRnc5azl1RnZMdkVBY2Yw?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPMFFfUnhHbmw2ZjdCbGFHcWRwME9vZVh0V001MTNDRUptTjZVX05PU2pxdUswaFM3bW1qT1Rfa01sQkxCb3Z0dUdjNE1XLXhVcE1SZXVsbDZES254Z2NTMWRjUmtjMXU0T2NBdHNHMkF6TGRoMXQwa3I0M2xJMTQtQkxtUnd6bnBZb0wtZThwNE8zWFcyemJrTGxWcDJQamVOUEdtRGpRalVOakdJNEVkZ1JmeEMyY3pYelVQT3F1bVRGRWNXd1ZTUFNPY0xVRXJRYXhwT3E4elVUQdIB3wFBVV95cUxNRTdwVWNIRWZ2RHpxa3NGdk4zTFRzcXBxRmtmQlNLN28wRFdDcFA1NGcyMm1oRGNoSGlhdnJtTmEtcWNfZERwMjVHRVIzSjVBRUhDdTdtellfWjlxWFIwUlREcnd0U0VOV1h0eUxqQk1FQ0ZHZ05PNTY1TEZQMnlVOHUtbzdjUjloRURlQzdHTjZEcktMakkyMnNpSUV1ak9wZ0FNRVJVcGRUWS11MFBvRjdSOTVPdmh3UE4tbHB3N1BSTi1ya0xaM0V4TDlBMlhyRnc5azl1RnZMdkVBY2Yw?oc=5",
-      "publishedAt": "2026-10-14T15:38:25.000Z",
-      "source": "Devdiscourse",
-      "_feedRegion": "us",
-      "_feedName": "FAA",
-      "_scoring": {
-        "score": 56,
-        "categories": [
-          "規制・政策"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 1,
-            "catScore": 32
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 20,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "U.S. lawmakers seek FAA environmental review for Amazon drone hub near Boston",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOS1M3ZGxWQlVRV1QwOWNKR0lRSnEyeHk1d1FDQnVzQ0JFcjVQRE9OckVYT3JrcWhZRXVlNUx5QU9iMzBDd09OMHVBcFVWbC1CVHlPaEtJdTk0VVZNcmE0dzdULWwxVjdxTWJUd2djYWJCN29nT3pfN25pSlpjUDAtMkpZMzFndXdGZUpualQ4bzkzN1U?oc=5\" target=\"_blank\">U.S. lawmakers seek FAA environmental review for Amazon drone hub near Boston</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Traders Union</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOS1M3ZGxWQlVRV1QwOWNKR0lRSnEyeHk1d1FDQnVzQ0JFcjVQRE9OckVYT3JrcWhZRXVlNUx5QU9iMzBDd09OMHVBcFVWbC1CVHlPaEtJdTk0VVZNcmE0dzdULWwxVjdxTWJUd2djYWJCN29nT3pfN25pSlpjUDAtMkpZMzFndXdGZUpualQ4bzkzN1U?oc=5\" target=\"_blank\">U.S. lawmakers seek FAA environmental review for Amazon drone hub near Boston</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Traders Union</font>",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOS1M3ZGxWQlVRV1QwOWNKR0lRSnEyeHk1d1FDQnVzQ0JFcjVQRE9OckVYT3JrcWhZRXVlNUx5QU9iMzBDd09OMHVBcFVWbC1CVHlPaEtJdTk0VVZNcmE0dzdULWwxVjdxTWJUd2djYWJCN29nT3pfN25pSlpjUDAtMkpZMzFndXdGZUpualQ4bzkzN1U?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOS1M3ZGxWQlVRV1QwOWNKR0lRSnEyeHk1d1FDQnVzQ0JFcjVQRE9OckVYT3JrcWhZRXVlNUx5QU9iMzBDd09OMHVBcFVWbC1CVHlPaEtJdTk0VVZNcmE0dzdULWwxVjdxTWJUd2djYWJCN29nT3pfN25pSlpjUDAtMkpZMzFndXdGZUpualQ4bzkzN1U?oc=5",
-      "publishedAt": "2026-10-14T17:25:52.000Z",
-      "source": "Traders Union",
+      "title": "US lawmakers urge FAA review of planned Amazon drone hub near Boston",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQbjFVdnZadkQtYTFTc3ZBOGM3Zkw1d1pENjA3VEVkWWZnWk50bmF5bVVfZTBreVB3R045dDB6dVF6MFZGYnowMmlIWFlrTTNMSW16Xzd5MUpubzRBekd1VjVnRUl6azR6ZUNBX0pOajVCVXFJNDIxZ0JlSjhUbGhNdmFB?oc=5\" target=\"_blank\">US lawmakers urge FAA review of planned Amazon drone hub near Boston</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">mezha.net</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQbjFVdnZadkQtYTFTc3ZBOGM3Zkw1d1pENjA3VEVkWWZnWk50bmF5bVVfZTBreVB3R045dDB6dVF6MFZGYnowMmlIWFlrTTNMSW16Xzd5MUpubzRBekd1VjVnRUl6azR6ZUNBX0pOajVCVXFJNDIxZ0JlSjhUbGhNdmFB?oc=5\" target=\"_blank\">US lawmakers urge FAA review of planned Amazon drone hub near Boston</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">mezha.net</font>",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbjFVdnZadkQtYTFTc3ZBOGM3Zkw1d1pENjA3VEVkWWZnWk50bmF5bVVfZTBreVB3R045dDB6dVF6MFZGYnowMmlIWFlrTTNMSW16Xzd5MUpubzRBekd1VjVnRUl6azR6ZUNBX0pOajVCVXFJNDIxZ0JlSjhUbGhNdmFB?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbjFVdnZadkQtYTFTc3ZBOGM3Zkw1d1pENjA3VEVkWWZnWk50bmF5bVVfZTBreVB3R045dDB6dVF6MFZGYnowMmlIWFlrTTNMSW16Xzd5MUpubzRBekd1VjVnRUl6azR6ZUNBX0pOajVCVXFJNDIxZ0JlSjhUbGhNdmFB?oc=5",
+      "publishedAt": "2026-10-14T19:24:55.000Z",
+      "source": "mezha.net",
       "_feedRegion": "us",
       "_feedName": "FAA",
       "_scoring": {
@@ -1073,6 +1038,42 @@
             "catScore": 32
           },
           "policy": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 0,
+          "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "DroneClear Launches ChatGPT App to Help Travelers Navigate Thailand’s Drone Rules",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE4yOFluQnJBVVdzQkdZeERMbWF2REpFX2xHd3pESEdPd1RFa1lNaDc5c1R1cERtT0tHelRCaG9sLVRLOUxYSkVTVlZ3SXA2M3F2ZGZBYjZBQ2VRdW1jNWVWVW5nb1k5NFVnSENkUk1nS1ZFMnFJcDdRUmQzSmw?oc=5\" target=\"_blank\">DroneClear Launches ChatGPT App to Help Travelers Navigate Thailand’s Drone Rules</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dronelife</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE4yOFluQnJBVVdzQkdZeERMbWF2REpFX2xHd3pESEdPd1RFa1lNaDc5c1R1cERtT0tHelRCaG9sLVRLOUxYSkVTVlZ3SXA2M3F2ZGZBYjZBQ2VRdW1jNWVWVW5nb1k5NFVnSENkUk1nS1ZFMnFJcDdRUmQzSmw?oc=5\" target=\"_blank\">DroneClear Launches ChatGPT App to Help Travelers Navigate Thailand’s Drone Rules</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dronelife</font>",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4yOFluQnJBVVdzQkdZeERMbWF2REpFX2xHd3pESEdPd1RFa1lNaDc5c1R1cERtT0tHelRCaG9sLVRLOUxYSkVTVlZ3SXA2M3F2ZGZBYjZBQ2VRdW1jNWVWVW5nb1k5NFVnSENkUk1nS1ZFMnFJcDdRUmQzSmw?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4yOFluQnJBVVdzQkdZeERMbWF2REpFX2xHd3pESEdPd1RFa1lNaDc5c1R1cERtT0tHelRCaG9sLVRLOUxYSkVTVlZ3SXA2M3F2ZGZBYjZBQ2VRdW1jNWVWVW5nb1k5NFVnSENkUk1nS1ZFMnFJcDdRUmQzSmw?oc=5",
+      "publishedAt": "2026-10-09T15:43:56.000Z",
+      "source": "Dronelife",
+      "_feedRegion": "eu",
+      "_feedName": "EASA",
+      "_scoring": {
+        "score": 55,
+        "categories": [
+          "規制・政策",
+          "技術・製品"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
+          "technology": {
             "matches": 1,
             "catScore": 24
           },
