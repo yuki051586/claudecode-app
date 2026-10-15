@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T20:13:23.270Z",
+  "generatedAt": "2026-10-15T23:36:30.435Z",
   "rawCount": 670,
   "articles": [
     {
@@ -13,7 +13,7 @@
       "_feedRegion": "global",
       "_feedName": "Google News (Global)",
       "_scoring": {
-        "score": 79,
+        "score": 74,
         "categories": [
           "技術・製品",
           "市場・資金",
@@ -37,80 +37,7 @@
             "domain": "news.google.com",
             "multiplier": 0.8
           },
-          "freshness": 15,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "ロシアの高速ドローン急増に対抗…ウクライナと西側諸国、「次世代迎撃ドローン」開発を加速",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQdnEyTGF1T3ZibFdVYzN6cDM1OUtrb2paZ0YyWF9qQmo3ZnMzNG9scFVFRXliaGZlVjF6OWV0RW54MkdXd0dDRlFGODgwVG9GU2d2UkNWMnp0c0JZVVRXVUh4N0xOcnJ5SkxLQ3drN0hadGxfRkRaRC1YeG1yVlJTYVM4UjM5cXNJZVVDODMxVl9ZWThUSC1taW9pSjlBSXI4VWRNSzMyV1I1LVNLMEtHWkg5SVA?oc=5\" target=\"_blank\">ロシアの高速ドローン急増に対抗…ウクライナと西側諸国、「次世代迎撃ドローン」開発を加速</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider Japan</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQdnEyTGF1T3ZibFdVYzN6cDM1OUtrb2paZ0YyWF9qQmo3ZnMzNG9scFVFRXliaGZlVjF6OWV0RW54MkdXd0dDRlFGODgwVG9GU2d2UkNWMnp0c0JZVVRXVUh4N0xOcnJ5SkxLQ3drN0hadGxfRkRaRC1YeG1yVlJTYVM4UjM5cXNJZVVDODMxVl9ZWThUSC1taW9pSjlBSXI4VWRNSzMyV1I1LVNLMEtHWkg5SVA?oc=5\" target=\"_blank\">ロシアの高速ドローン急増に対抗…ウクライナと西側諸国、「次世代迎撃ドローン」開発を加速</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider Japan</font>",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdnEyTGF1T3ZibFdVYzN6cDM1OUtrb2paZ0YyWF9qQmo3ZnMzNG9scFVFRXliaGZlVjF6OWV0RW54MkdXd0dDRlFGODgwVG9GU2d2UkNWMnp0c0JZVVRXVUh4N0xOcnJ5SkxLQ3drN0hadGxfRkRaRC1YeG1yVlJTYVM4UjM5cXNJZVVDODMxVl9ZWThUSC1taW9pSjlBSXI4VWRNSzMyV1I1LVNLMEtHWkg5SVA?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdnEyTGF1T3ZibFdVYzN6cDM1OUtrb2paZ0YyWF9qQmo3ZnMzNG9scFVFRXliaGZlVjF6OWV0RW54MkdXd0dDRlFGODgwVG9GU2d2UkNWMnp0c0JZVVRXVUh4N0xOcnJ5SkxLQ3drN0hadGxfRkRaRC1YeG1yVlJTYVM4UjM5cXNJZVVDODMxVl9ZWThUSC1taW9pSjlBSXI4VWRNSzMyV1I1LVNLMEtHWkg5SVA?oc=5",
-      "publishedAt": "2026-10-15T10:00:00.000Z",
-      "source": "Business Insider Japan",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP)",
-      "_scoring": {
-        "score": 78,
-        "categories": [
-          "技術・製品",
-          "政策・インフラ"
-        ],
-        "breakdown": {
-          "required": true,
-          "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "policy": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 15,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "Electric Aircraft Onboard Sensors Market To 2035: Evtol Certification Wave Drives Demand - News and Statistics",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxOQzVvQnNNdEp1cEpIMWRGc0dBMjdFcXlOMlhFaFItOERxUTVCa1VSc2hJOWpZMmZCUThlMmZaN1pSQjZaaFp3Z0RnZFQzbDZMOFJ2S1M2bEJxV241UzFWbmFSWkMySjNlWGN6S1JwcE5IZlhuckl6d0JZejhoOEtpQ256QzNZb2Ywc01Qek1PQi1FdjM3Q3h5N0JhbU5VWlJXQVFFYUZJNHZrZnQ1cmFFZWZLOHJ6X3F4TDQ4RF9vWUFHaXZnTkgta3ZheXNVcjQ?oc=5\" target=\"_blank\">Electric Aircraft Onboard Sensors Market To 2035: Evtol Certification Wave Drives Demand - News and Statistics</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IndexBox</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxOQzVvQnNNdEp1cEpIMWRGc0dBMjdFcXlOMlhFaFItOERxUTVCa1VSc2hJOWpZMmZCUThlMmZaN1pSQjZaaFp3Z0RnZFQzbDZMOFJ2S1M2bEJxV241UzFWbmFSWkMySjNlWGN6S1JwcE5IZlhuckl6d0JZejhoOEtpQ256QzNZb2Ywc01Qek1PQi1FdjM3Q3h5N0JhbU5VWlJXQVFFYUZJNHZrZnQ1cmFFZWZLOHJ6X3F4TDQ4RF9vWUFHaXZnTkgta3ZheXNVcjQ?oc=5\" target=\"_blank\">Electric Aircraft Onboard Sensors Market To 2035: Evtol Certification Wave Drives Demand - News and Statistics</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IndexBox</font>",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOQzVvQnNNdEp1cEpIMWRGc0dBMjdFcXlOMlhFaFItOERxUTVCa1VSc2hJOWpZMmZCUThlMmZaN1pSQjZaaFp3Z0RnZFQzbDZMOFJ2S1M2bEJxV241UzFWbmFSWkMySjNlWGN6S1JwcE5IZlhuckl6d0JZejhoOEtpQ256QzNZb2Ywc01Qek1PQi1FdjM3Q3h5N0JhbU5VWlJXQVFFYUZJNHZrZnQ1cmFFZWZLOHJ6X3F4TDQ4RF9vWUFHaXZnTkgta3ZheXNVcjQ?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOQzVvQnNNdEp1cEpIMWRGc0dBMjdFcXlOMlhFaFItOERxUTVCa1VSc2hJOWpZMmZCUThlMmZaN1pSQjZaaFp3Z0RnZFQzbDZMOFJ2S1M2bEJxV241UzFWbmFSWkMySjNlWGN6S1JwcE5IZlhuckl6d0JZejhoOEtpQ256QzNZb2Ywc01Qek1PQi1FdjM3Q3h5N0JhbU5VWlJXQVFFYUZJNHZrZnQ1cmFFZWZLOHJ6X3F4TDQ4RF9vWUFHaXZnTkgta3ZheXNVcjQ?oc=5",
-      "publishedAt": "2026-10-15T19:26:03.000Z",
-      "source": "IndexBox",
-      "_feedRegion": "global",
-      "_feedName": "Google News (Global)",
-      "_scoring": {
-        "score": 75,
-        "categories": [
-          "規制・政策",
-          "技術・製品"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 1,
-            "catScore": 32
-          },
-          "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 20,
+          "freshness": 10,
           "titleBonus": 10
         },
         "pass": true
@@ -158,6 +85,43 @@
       }
     },
     {
+      "title": "ロシアの高速ドローン急増に対抗…ウクライナと西側諸国、「次世代迎撃ドローン」開発を加速",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQdnEyTGF1T3ZibFdVYzN6cDM1OUtrb2paZ0YyWF9qQmo3ZnMzNG9scFVFRXliaGZlVjF6OWV0RW54MkdXd0dDRlFGODgwVG9GU2d2UkNWMnp0c0JZVVRXVUh4N0xOcnJ5SkxLQ3drN0hadGxfRkRaRC1YeG1yVlJTYVM4UjM5cXNJZVVDODMxVl9ZWThUSC1taW9pSjlBSXI4VWRNSzMyV1I1LVNLMEtHWkg5SVA?oc=5\" target=\"_blank\">ロシアの高速ドローン急増に対抗…ウクライナと西側諸国、「次世代迎撃ドローン」開発を加速</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider Japan</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQdnEyTGF1T3ZibFdVYzN6cDM1OUtrb2paZ0YyWF9qQmo3ZnMzNG9scFVFRXliaGZlVjF6OWV0RW54MkdXd0dDRlFGODgwVG9GU2d2UkNWMnp0c0JZVVRXVUh4N0xOcnJ5SkxLQ3drN0hadGxfRkRaRC1YeG1yVlJTYVM4UjM5cXNJZVVDODMxVl9ZWThUSC1taW9pSjlBSXI4VWRNSzMyV1I1LVNLMEtHWkg5SVA?oc=5\" target=\"_blank\">ロシアの高速ドローン急増に対抗…ウクライナと西側諸国、「次世代迎撃ドローン」開発を加速</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider Japan</font>",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdnEyTGF1T3ZibFdVYzN6cDM1OUtrb2paZ0YyWF9qQmo3ZnMzNG9scFVFRXliaGZlVjF6OWV0RW54MkdXd0dDRlFGODgwVG9GU2d2UkNWMnp0c0JZVVRXVUh4N0xOcnJ5SkxLQ3drN0hadGxfRkRaRC1YeG1yVlJTYVM4UjM5cXNJZVVDODMxVl9ZWThUSC1taW9pSjlBSXI4VWRNSzMyV1I1LVNLMEtHWkg5SVA?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdnEyTGF1T3ZibFdVYzN6cDM1OUtrb2paZ0YyWF9qQmo3ZnMzNG9scFVFRXliaGZlVjF6OWV0RW54MkdXd0dDRlFGODgwVG9GU2d2UkNWMnp0c0JZVVRXVUh4N0xOcnJ5SkxLQ3drN0hadGxfRkRaRC1YeG1yVlJTYVM4UjM5cXNJZVVDODMxVl9ZWThUSC1taW9pSjlBSXI4VWRNSzMyV1I1LVNLMEtHWkg5SVA?oc=5",
+      "publishedAt": "2026-10-15T10:00:00.000Z",
+      "source": "Business Insider Japan",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP)",
+      "_scoring": {
+        "score": 73,
+        "categories": [
+          "技術・製品",
+          "政策・インフラ"
+        ],
+        "breakdown": {
+          "required": true,
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "policy": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 10,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
       "title": "Canadian UAVs DAA system supports BVLOS flights for Navy UAS",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNaHNDVjh4OHFTYjVuS0k4UUg2V3JmZ2tVdkFONlBFSTNWM3RuRUlKaVk4Z080Z2gtX2hfMzZfV0hQUGV6SXAzOG1HZVFYa2t5N0VLbVhZSFY4ak9hN3FqWnZtTFZvdFNUUTU0V2c5UUE3MUtlZ1ZFRk9rc1lfd083ZVVKNjhSaURuUXJTSkVRYVllOWFoclc4RE0zQnN5ay1sY01rVXprdUtHM29Eb1E?oc=5\" target=\"_blank\">Canadian UAVs DAA system supports BVLOS flights for Navy UAS</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNaHNDVjh4OHFTYjVuS0k4UUg2V3JmZ2tVdkFONlBFSTNWM3RuRUlKaVk4Z080Z2gtX2hfMzZfV0hQUGV6SXAzOG1HZVFYa2t5N0VLbVhZSFY4ak9hN3FqWnZtTFZvdFNUUTU0V2c5UUE3MUtlZ1ZFRk9rc1lfd083ZVVKNjhSaURuUXJTSkVRYVllOWFoclc4RE0zQnN5ay1sY01rVXprdUtHM29Eb1E?oc=5\" target=\"_blank\">Canadian UAVs DAA system supports BVLOS flights for Navy UAS</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
@@ -199,6 +163,42 @@
       }
     },
     {
+      "title": "nuWay Ag's Yoder Takes FAA Drone Suspension Over Deer and Sled Lifts",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQUm8wNTZpMl9acHdqRWxVLU85ZWtYSURCUERZWlRCTzBsN2dJMUUtM3lyRDZVVUNTYnFoVVFYdUVkS2dKZjBKanAzcGJBRWFQSXFRbnJyVGNiQy1naUhDa1RvaWNsUHA2RHB1c2gzRWpoUmxsUlBIa0E0YzRvZXE5YnlCN0w?oc=5\" target=\"_blank\">nuWay Ag's Yoder Takes FAA Drone Suspension Over Deer and Sled Lifts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DroneXL</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQUm8wNTZpMl9acHdqRWxVLU85ZWtYSURCUERZWlRCTzBsN2dJMUUtM3lyRDZVVUNTYnFoVVFYdUVkS2dKZjBKanAzcGJBRWFQSXFRbnJyVGNiQy1naUhDa1RvaWNsUHA2RHB1c2gzRWpoUmxsUlBIa0E0YzRvZXE5YnlCN0w?oc=5\" target=\"_blank\">nuWay Ag's Yoder Takes FAA Drone Suspension Over Deer and Sled Lifts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DroneXL</font>",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUm8wNTZpMl9acHdqRWxVLU85ZWtYSURCUERZWlRCTzBsN2dJMUUtM3lyRDZVVUNTYnFoVVFYdUVkS2dKZjBKanAzcGJBRWFQSXFRbnJyVGNiQy1naUhDa1RvaWNsUHA2RHB1c2gzRWpoUmxsUlBIa0E0YzRvZXE5YnlCN0w?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUm8wNTZpMl9acHdqRWxVLU85ZWtYSURCUERZWlRCTzBsN2dJMUUtM3lyRDZVVUNTYnFoVVFYdUVkS2dKZjBKanAzcGJBRWFQSXFRbnJyVGNiQy1naUhDa1RvaWNsUHA2RHB1c2gzRWpoUmxsUlBIa0E0YzRvZXE5YnlCN0w?oc=5",
+      "publishedAt": "2026-10-15T20:16:00.000Z",
+      "source": "DroneXL",
+      "_feedRegion": "us",
+      "_feedName": "FAA",
+      "_scoring": {
+        "score": 70,
+        "categories": [
+          "規制・政策",
+          "技術・製品"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 15,
+          "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
       "title": "Automated BVLOS Drone Surveys Take on Major Infrastructure Project in Australia",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE53cnR3UkhnUnRobjBwczlkZWhkaVhVWm9yV0lzMFRQSHVMX2xnWHVMNkpuWDY1YktmaFRrT1BMN1NpandEWjRzb002ek1QWGQ4Q1VjOUFJQXJ2Mmc1NHR4VGF6QVZuUUUwS1hZb1ZhU190dUUwNHMyT3AzSkM3Zw?oc=5\" target=\"_blank\">Automated BVLOS Drone Surveys Take on Major Infrastructure Project in Australia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dronelife</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE53cnR3UkhnUnRobjBwczlkZWhkaVhVWm9yV0lzMFRQSHVMX2xnWHVMNkpuWDY1YktmaFRrT1BMN1NpandEWjRzb002ek1QWGQ4Q1VjOUFJQXJ2Mmc1NHR4VGF6QVZuUUUwS1hZb1ZhU190dUUwNHMyT3AzSkM3Zw?oc=5\" target=\"_blank\">Automated BVLOS Drone Surveys Take on Major Infrastructure Project in Australia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dronelife</font>",
@@ -221,6 +221,42 @@
             "catScore": 32
           },
           "policy": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 15,
+          "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "Electric Aircraft Onboard Sensors Market To 2035: Evtol Certification Wave Drives Demand - News and Statistics",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxOQzVvQnNNdEp1cEpIMWRGc0dBMjdFcXlOMlhFaFItOERxUTVCa1VSc2hJOWpZMmZCUThlMmZaN1pSQjZaaFp3Z0RnZFQzbDZMOFJ2S1M2bEJxV241UzFWbmFSWkMySjNlWGN6S1JwcE5IZlhuckl6d0JZejhoOEtpQ256QzNZb2Ywc01Qek1PQi1FdjM3Q3h5N0JhbU5VWlJXQVFFYUZJNHZrZnQ1cmFFZWZLOHJ6X3F4TDQ4RF9vWUFHaXZnTkgta3ZheXNVcjQ?oc=5\" target=\"_blank\">Electric Aircraft Onboard Sensors Market To 2035: Evtol Certification Wave Drives Demand - News and Statistics</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IndexBox</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxOQzVvQnNNdEp1cEpIMWRGc0dBMjdFcXlOMlhFaFItOERxUTVCa1VSc2hJOWpZMmZCUThlMmZaN1pSQjZaaFp3Z0RnZFQzbDZMOFJ2S1M2bEJxV241UzFWbmFSWkMySjNlWGN6S1JwcE5IZlhuckl6d0JZejhoOEtpQ256QzNZb2Ywc01Qek1PQi1FdjM3Q3h5N0JhbU5VWlJXQVFFYUZJNHZrZnQ1cmFFZWZLOHJ6X3F4TDQ4RF9vWUFHaXZnTkgta3ZheXNVcjQ?oc=5\" target=\"_blank\">Electric Aircraft Onboard Sensors Market To 2035: Evtol Certification Wave Drives Demand - News and Statistics</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IndexBox</font>",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOQzVvQnNNdEp1cEpIMWRGc0dBMjdFcXlOMlhFaFItOERxUTVCa1VSc2hJOWpZMmZCUThlMmZaN1pSQjZaaFp3Z0RnZFQzbDZMOFJ2S1M2bEJxV241UzFWbmFSWkMySjNlWGN6S1JwcE5IZlhuckl6d0JZejhoOEtpQ256QzNZb2Ywc01Qek1PQi1FdjM3Q3h5N0JhbU5VWlJXQVFFYUZJNHZrZnQ1cmFFZWZLOHJ6X3F4TDQ4RF9vWUFHaXZnTkgta3ZheXNVcjQ?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOQzVvQnNNdEp1cEpIMWRGc0dBMjdFcXlOMlhFaFItOERxUTVCa1VSc2hJOWpZMmZCUThlMmZaN1pSQjZaaFp3Z0RnZFQzbDZMOFJ2S1M2bEJxV241UzFWbmFSWkMySjNlWGN6S1JwcE5IZlhuckl6d0JZejhoOEtpQ256QzNZb2Ywc01Qek1PQi1FdjM3Q3h5N0JhbU5VWlJXQVFFYUZJNHZrZnQ1cmFFZWZLOHJ6X3F4TDQ4RF9vWUFHaXZnTkgta3ZheXNVcjQ?oc=5",
+      "publishedAt": "2026-10-15T19:26:03.000Z",
+      "source": "IndexBox",
+      "_feedRegion": "global",
+      "_feedName": "Google News (Global)",
+      "_scoring": {
+        "score": 70,
+        "categories": [
+          "規制・政策",
+          "技術・製品"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
+          "technology": {
             "matches": 1,
             "catScore": 24
           },
@@ -265,6 +301,38 @@
             "multiplier": 0.8
           },
           "freshness": 0,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "eVTOL運航を関西各業界と推進、既存ヘリ発着場併用を調査、SkyDrive",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5JSE9kbFZRbl9PRHhvWExDMUQydVllb1lSb0ltRTdmTEF5TXM2NlU2VXBrQTBDSHR6MXk3UEhJZzJScnFuZk0xWWVFTGFWS05welJIWFBPdjk2a1JuWThpbW04TzcyNkE?oc=5\" target=\"_blank\">eVTOL運航を関西各業界と推進、既存ヘリ発着場併用を調査、SkyDrive</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LIGARE（リガーレ）</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5JSE9kbFZRbl9PRHhvWExDMUQydVllb1lSb0ltRTdmTEF5TXM2NlU2VXBrQTBDSHR6MXk3UEhJZzJScnFuZk0xWWVFTGFWS05welJIWFBPdjk2a1JuWThpbW04TzcyNkE?oc=5\" target=\"_blank\">eVTOL運航を関西各業界と推進、既存ヘリ発着場併用を調査、SkyDrive</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LIGARE（リガーレ）</font>",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5JSE9kbFZRbl9PRHhvWExDMUQydVllb1lSb0ltRTdmTEF5TXM2NlU2VXBrQTBDSHR6MXk3UEhJZzJScnFuZk0xWWVFTGFWS05welJIWFBPdjk2a1JuWThpbW04TzcyNkE?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5JSE9kbFZRbl9PRHhvWExDMUQydVllb1lSb0ltRTdmTEF5TXM2NlU2VXBrQTBDSHR6MXk3UEhJZzJScnFuZk0xWWVFTGFWS05welJIWFBPdjk2a1JuWThpbW04TzcyNkE?oc=5",
+      "publishedAt": "2026-10-15T23:32:25.000Z",
+      "source": "LIGARE（リガーレ）",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP 事業者/実装)",
+      "_scoring": {
+        "score": 67,
+        "categories": [
+          "事故・事件"
+        ],
+        "breakdown": {
+          "required": true,
+          "incident": {
+            "matches": 1,
+            "catScore": 28
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 20,
           "titleBonus": 10,
           "jpRegionBonus": 15
         },
@@ -344,42 +412,6 @@
           },
           "freshness": 0,
           "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "Skyportz To Test Full-Scale Vertiport Next Year",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZTZrdm5ZdGFiamxocWVwYkNBcnBxZ0VaOUQ2QjFzdXh0TE5XQWxlTzBlZkw3dDVadG1hZUhZMktaX2hEcVpnYjQ3TWRnMnFkSFh4NnhTaTdfQ3VKWVJNcExFVjVaMmlwWndxU0I2MnlXMnBKbl9wY1hkUzZwQXJnZ2tCRncxdEwza2JWZ2lQWVhxeGk3SGQ1N01EN21nSlZGcFhRSWp4TnQ3ZkRDODQ3Z2dwZjlPcmpt?oc=5\" target=\"_blank\">Skyportz To Test Full-Scale Vertiport Next Year</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aviation International News</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZTZrdm5ZdGFiamxocWVwYkNBcnBxZ0VaOUQ2QjFzdXh0TE5XQWxlTzBlZkw3dDVadG1hZUhZMktaX2hEcVpnYjQ3TWRnMnFkSFh4NnhTaTdfQ3VKWVJNcExFVjVaMmlwWndxU0I2MnlXMnBKbl9wY1hkUzZwQXJnZ2tCRncxdEwza2JWZ2lQWVhxeGk3SGQ1N01EN21nSlZGcFhRSWp4TnQ3ZkRDODQ3Z2dwZjlPcmpt?oc=5\" target=\"_blank\">Skyportz To Test Full-Scale Vertiport Next Year</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aviation International News</font>",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZTZrdm5ZdGFiamxocWVwYkNBcnBxZ0VaOUQ2QjFzdXh0TE5XQWxlTzBlZkw3dDVadG1hZUhZMktaX2hEcVpnYjQ3TWRnMnFkSFh4NnhTaTdfQ3VKWVJNcExFVjVaMmlwWndxU0I2MnlXMnBKbl9wY1hkUzZwQXJnZ2tCRncxdEwza2JWZ2lQWVhxeGk3SGQ1N01EN21nSlZGcFhRSWp4TnQ3ZkRDODQ3Z2dwZjlPcmpt?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZTZrdm5ZdGFiamxocWVwYkNBcnBxZ0VaOUQ2QjFzdXh0TE5XQWxlTzBlZkw3dDVadG1hZUhZMktaX2hEcVpnYjQ3TWRnMnFkSFh4NnhTaTdfQ3VKWVJNcExFVjVaMmlwWndxU0I2MnlXMnBKbl9wY1hkUzZwQXJnZ2tCRncxdEwza2JWZ2lQWVhxeGk3SGQ1N01EN21nSlZGcFhRSWp4TnQ3ZkRDODQ3Z2dwZjlPcmpt?oc=5",
-      "publishedAt": "2026-10-15T09:34:12.000Z",
-      "source": "Aviation International News",
-      "_feedRegion": "global",
-      "_feedName": "Google News (Global)",
-      "_scoring": {
-        "score": 65,
-        "categories": [
-          "市場・資金",
-          "政策・インフラ"
-        ],
-        "breakdown": {
-          "required": true,
-          "market": {
-            "matches": 1,
-            "catScore": 20
-          },
-          "policy": {
-            "matches": 3,
-            "catScore": 30
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 15,
-          "titleBonus": 10
         },
         "pass": true
       }
@@ -678,36 +710,36 @@
       }
     },
     {
-      "title": "Skapion launches counter drone swarm C-UAS system designed to engage 100 targets",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxPNmZKQ1NqYXZ2Wnd5RGx6bUU2cUFjbW1aQTFNNHFCaU5GM2E1a1RMSG52S3ZscFd1QWNLelVFcmtpTjdVTzBCQ3ozemRnNHNFZDRNVl91VWw0X0RhWGZxV05CcGVnNzNoQktybS1SVDVzYUw5QUp4d1VDbUluc2ZjbDE5b2UtTWJrbXM4UUNhN09jLVZjaGt0aEQwUHhNdG1tRV9YRWNZdDViN1hpRGJTU1l4RUdramNLWUluOTBLcjhyQ3BsMFNrRUN4MVB4ZnFqbTNuVFF0RzA0T0tUczVzUFBB?oc=5\" target=\"_blank\">Skapion launches counter drone swarm C-UAS system designed to engage 100 targets</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxPNmZKQ1NqYXZ2Wnd5RGx6bUU2cUFjbW1aQTFNNHFCaU5GM2E1a1RMSG52S3ZscFd1QWNLelVFcmtpTjdVTzBCQ3ozemRnNHNFZDRNVl91VWw0X0RhWGZxV05CcGVnNzNoQktybS1SVDVzYUw5QUp4d1VDbUluc2ZjbDE5b2UtTWJrbXM4UUNhN09jLVZjaGt0aEQwUHhNdG1tRV9YRWNZdDViN1hpRGJTU1l4RUdramNLWUluOTBLcjhyQ3BsMFNrRUN4MVB4ZnFqbTNuVFF0RzA0T0tUczVzUFBB?oc=5\" target=\"_blank\">Skapion launches counter drone swarm C-UAS system designed to engage 100 targets</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPNmZKQ1NqYXZ2Wnd5RGx6bUU2cUFjbW1aQTFNNHFCaU5GM2E1a1RMSG52S3ZscFd1QWNLelVFcmtpTjdVTzBCQ3ozemRnNHNFZDRNVl91VWw0X0RhWGZxV05CcGVnNzNoQktybS1SVDVzYUw5QUp4d1VDbUluc2ZjbDE5b2UtTWJrbXM4UUNhN09jLVZjaGt0aEQwUHhNdG1tRV9YRWNZdDViN1hpRGJTU1l4RUdramNLWUluOTBLcjhyQ3BsMFNrRUN4MVB4ZnFqbTNuVFF0RzA0T0tUczVzUFBB?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPNmZKQ1NqYXZ2Wnd5RGx6bUU2cUFjbW1aQTFNNHFCaU5GM2E1a1RMSG52S3ZscFd1QWNLelVFcmtpTjdVTzBCQ3ozemRnNHNFZDRNVl91VWw0X0RhWGZxV05CcGVnNzNoQktybS1SVDVzYUw5QUp4d1VDbUluc2ZjbDE5b2UtTWJrbXM4UUNhN09jLVZjaGt0aEQwUHhNdG1tRV9YRWNZdDViN1hpRGJTU1l4RUdramNLWUluOTBLcjhyQ3BsMFNrRUN4MVB4ZnFqbTNuVFF0RzA0T0tUczVzUFBB?oc=5",
-      "publishedAt": "2026-10-15T09:27:45.000Z",
-      "source": "Unmanned airspace",
+      "title": "Skyportz To Test Full-Scale Vertiport Next Year",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZTZrdm5ZdGFiamxocWVwYkNBcnBxZ0VaOUQ2QjFzdXh0TE5XQWxlTzBlZkw3dDVadG1hZUhZMktaX2hEcVpnYjQ3TWRnMnFkSFh4NnhTaTdfQ3VKWVJNcExFVjVaMmlwWndxU0I2MnlXMnBKbl9wY1hkUzZwQXJnZ2tCRncxdEwza2JWZ2lQWVhxeGk3SGQ1N01EN21nSlZGcFhRSWp4TnQ3ZkRDODQ3Z2dwZjlPcmpt?oc=5\" target=\"_blank\">Skyportz To Test Full-Scale Vertiport Next Year</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aviation International News</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZTZrdm5ZdGFiamxocWVwYkNBcnBxZ0VaOUQ2QjFzdXh0TE5XQWxlTzBlZkw3dDVadG1hZUhZMktaX2hEcVpnYjQ3TWRnMnFkSFh4NnhTaTdfQ3VKWVJNcExFVjVaMmlwWndxU0I2MnlXMnBKbl9wY1hkUzZwQXJnZ2tCRncxdEwza2JWZ2lQWVhxeGk3SGQ1N01EN21nSlZGcFhRSWp4TnQ3ZkRDODQ3Z2dwZjlPcmpt?oc=5\" target=\"_blank\">Skyportz To Test Full-Scale Vertiport Next Year</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aviation International News</font>",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZTZrdm5ZdGFiamxocWVwYkNBcnBxZ0VaOUQ2QjFzdXh0TE5XQWxlTzBlZkw3dDVadG1hZUhZMktaX2hEcVpnYjQ3TWRnMnFkSFh4NnhTaTdfQ3VKWVJNcExFVjVaMmlwWndxU0I2MnlXMnBKbl9wY1hkUzZwQXJnZ2tCRncxdEwza2JWZ2lQWVhxeGk3SGQ1N01EN21nSlZGcFhRSWp4TnQ3ZkRDODQ3Z2dwZjlPcmpt?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZTZrdm5ZdGFiamxocWVwYkNBcnBxZ0VaOUQ2QjFzdXh0TE5XQWxlTzBlZkw3dDVadG1hZUhZMktaX2hEcVpnYjQ3TWRnMnFkSFh4NnhTaTdfQ3VKWVJNcExFVjVaMmlwWndxU0I2MnlXMnBKbl9wY1hkUzZwQXJnZ2tCRncxdEwza2JWZ2lQWVhxeGk3SGQ1N01EN21nSlZGcFhRSWp4TnQ3ZkRDODQ3Z2dwZjlPcmpt?oc=5",
+      "publishedAt": "2026-10-15T09:34:12.000Z",
+      "source": "Aviation International News",
       "_feedRegion": "global",
       "_feedName": "Google News (Global)",
       "_scoring": {
         "score": 60,
         "categories": [
-          "技術・製品",
-          "市場・資金"
+          "市場・資金",
+          "政策・インフラ"
         ],
         "breakdown": {
           "required": true,
-          "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
           "market": {
             "matches": 1,
             "catScore": 20
+          },
+          "policy": {
+            "matches": 3,
+            "catScore": 30
           },
           "sourceTrust": {
             "domain": "news.google.com",
             "multiplier": 0.8
           },
-          "freshness": 15,
+          "freshness": 10,
           "titleBonus": 10
         },
         "pass": true
@@ -788,36 +820,33 @@
       }
     },
     {
-      "title": "CASA to continue broad-area BVLOS trial as long-term guidance is developed",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQY05od3loLTlNcFRyQ0h4RTA3ZW1iNXVKVXllMzBuQ1JJUEZtN0haalNVZW4xc3FwUG9kMXVyVm00Vk1FbzVsdkJzZDF0WHhoRlg4WUZKM1Q4MC1Uekl0ZWJjODU2UHA2QjFZMFFWcS1nYkhrWEJRLUNaRzlma0pVT3ZETUNibXByLUpYTnhZbHNUUXRxNG5KMlNrMFl1eE9qUW1FaTFKNHVKUlhRSDMwSVhrR0tCQ1MtUUVOdmIwLXI?oc=5\" target=\"_blank\">CASA to continue broad-area BVLOS trial as long-term guidance is developed</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQY05od3loLTlNcFRyQ0h4RTA3ZW1iNXVKVXllMzBuQ1JJUEZtN0haalNVZW4xc3FwUG9kMXVyVm00Vk1FbzVsdkJzZDF0WHhoRlg4WUZKM1Q4MC1Uekl0ZWJjODU2UHA2QjFZMFFWcS1nYkhrWEJRLUNaRzlma0pVT3ZETUNibXByLUpYTnhZbHNUUXRxNG5KMlNrMFl1eE9qUW1FaTFKNHVKUlhRSDMwSVhrR0tCQ1MtUUVOdmIwLXI?oc=5\" target=\"_blank\">CASA to continue broad-area BVLOS trial as long-term guidance is developed</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQY05od3loLTlNcFRyQ0h4RTA3ZW1iNXVKVXllMzBuQ1JJUEZtN0haalNVZW4xc3FwUG9kMXVyVm00Vk1FbzVsdkJzZDF0WHhoRlg4WUZKM1Q4MC1Uekl0ZWJjODU2UHA2QjFZMFFWcS1nYkhrWEJRLUNaRzlma0pVT3ZETUNibXByLUpYTnhZbHNUUXRxNG5KMlNrMFl1eE9qUW1FaTFKNHVKUlhRSDMwSVhrR0tCQ1MtUUVOdmIwLXI?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQY05od3loLTlNcFRyQ0h4RTA3ZW1iNXVKVXllMzBuQ1JJUEZtN0haalNVZW4xc3FwUG9kMXVyVm00Vk1FbzVsdkJzZDF0WHhoRlg4WUZKM1Q4MC1Uekl0ZWJjODU2UHA2QjFZMFFWcS1nYkhrWEJRLUNaRzlma0pVT3ZETUNibXByLUpYTnhZbHNUUXRxNG5KMlNrMFl1eE9qUW1FaTFKNHVKUlhRSDMwSVhrR0tCQ1MtUUVOdmIwLXI?oc=5",
-      "publishedAt": "2026-10-15T09:02:16.000Z",
-      "source": "Unmanned airspace",
-      "_feedRegion": "global",
-      "_feedName": "Google News (Global)",
+      "title": "台湾が軍事ドローン開発を本格化、すでに実践演習に活用も大量開発への課題",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE1TZnpod3UzUWFpRC04aERHYzhSRzZjcWcwOEN3WDh0cUt5bklNZGVxa0gxd2F5M3pRaGRuazhPakFicml4ekJMeXVuZWtEYzQzaEVB?oc=5\" target=\"_blank\">台湾が軍事ドローン開発を本格化、すでに実践演習に活用も大量開発への課題</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Wedge ONLINE</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE1TZnpod3UzUWFpRC04aERHYzhSRzZjcWcwOEN3WDh0cUt5bklNZGVxa0gxd2F5M3pRaGRuazhPakFicml4ekJMeXVuZWtEYzQzaEVB?oc=5\" target=\"_blank\">台湾が軍事ドローン開発を本格化、すでに実践演習に活用も大量開発への課題</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Wedge ONLINE</font>",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1TZnpod3UzUWFpRC04aERHYzhSRzZjcWcwOEN3WDh0cUt5bklNZGVxa0gxd2F5M3pRaGRuazhPakFicml4ekJMeXVuZWtEYzQzaEVB?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1TZnpod3UzUWFpRC04aERHYzhSRzZjcWcwOEN3WDh0cUt5bklNZGVxa0gxd2F5M3pRaGRuazhPakFicml4ekJMeXVuZWtEYzQzaEVB?oc=5",
+      "publishedAt": "2026-10-15T20:08:00.000Z",
+      "source": "Wedge ONLINE",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP)",
       "_scoring": {
-        "score": 57,
+        "score": 59,
         "categories": [
-          "規制・政策",
-          "市場・資金"
+          "技術・製品"
         ],
         "breakdown": {
           "required": true,
-          "regulation": {
+          "technology": {
             "matches": 1,
-            "catScore": 32
-          },
-          "market": {
-            "matches": 1,
-            "catScore": 20
+            "catScore": 24
           },
           "sourceTrust": {
             "domain": "news.google.com",
             "multiplier": 0.8
           },
-          "freshness": 15
+          "freshness": 15,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
         },
         "pass": true
       }
@@ -1039,26 +1068,26 @@
       }
     },
     {
-      "title": "Regulator urges drone and eVTOL noise testing to guide rules",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOVzRoZUxqT0g2RVhpQjJvdWU2Qlh3NnNra1VXWThsaEQ2aGY1X1J1akVqUHpTVTF2RENlSXZYQzR5aUdsbV9FMWdGSFdMLTIzTzRmclpqVXA3eTk1SkJ4V3lKeHo2NDF5blJXbkNodjd1aV84RFRBTmJUbDRCSWVRV0VhVFhhZEl0dUlSTWpYV1J0bzFqR2JhRGE2VzVGU05COWoybWRqQllIMW5USUt4eUNhN2Zva3M?oc=5\" target=\"_blank\">Regulator urges drone and eVTOL noise testing to guide rules</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aerospace Testing International</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOVzRoZUxqT0g2RVhpQjJvdWU2Qlh3NnNra1VXWThsaEQ2aGY1X1J1akVqUHpTVTF2RENlSXZYQzR5aUdsbV9FMWdGSFdMLTIzTzRmclpqVXA3eTk1SkJ4V3lKeHo2NDF5blJXbkNodjd1aV84RFRBTmJUbDRCSWVRV0VhVFhhZEl0dUlSTWpYV1J0bzFqR2JhRGE2VzVGU05COWoybWRqQllIMW5USUt4eUNhN2Zva3M?oc=5\" target=\"_blank\">Regulator urges drone and eVTOL noise testing to guide rules</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aerospace Testing International</font>",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVzRoZUxqT0g2RVhpQjJvdWU2Qlh3NnNra1VXWThsaEQ2aGY1X1J1akVqUHpTVTF2RENlSXZYQzR5aUdsbV9FMWdGSFdMLTIzTzRmclpqVXA3eTk1SkJ4V3lKeHo2NDF5blJXbkNodjd1aV84RFRBTmJUbDRCSWVRV0VhVFhhZEl0dUlSTWpYV1J0bzFqR2JhRGE2VzVGU05COWoybWRqQllIMW5USUt4eUNhN2Zva3M?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVzRoZUxqT0g2RVhpQjJvdWU2Qlh3NnNra1VXWThsaEQ2aGY1X1J1akVqUHpTVTF2RENlSXZYQzR5aUdsbV9FMWdGSFdMLTIzTzRmclpqVXA3eTk1SkJ4V3lKeHo2NDF5blJXbkNodjd1aV84RFRBTmJUbDRCSWVRV0VhVFhhZEl0dUlSTWpYV1J0bzFqR2JhRGE2VzVGU05COWoybWRqQllIMW5USUt4eUNhN2Zva3M?oc=5",
-      "publishedAt": "2026-10-13T11:26:40.000Z",
-      "source": "Aerospace Testing International",
+      "title": "Skapion launches counter drone swarm C-UAS system designed to engage 100 targets",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxPNmZKQ1NqYXZ2Wnd5RGx6bUU2cUFjbW1aQTFNNHFCaU5GM2E1a1RMSG52S3ZscFd1QWNLelVFcmtpTjdVTzBCQ3ozemRnNHNFZDRNVl91VWw0X0RhWGZxV05CcGVnNzNoQktybS1SVDVzYUw5QUp4d1VDbUluc2ZjbDE5b2UtTWJrbXM4UUNhN09jLVZjaGt0aEQwUHhNdG1tRV9YRWNZdDViN1hpRGJTU1l4RUdramNLWUluOTBLcjhyQ3BsMFNrRUN4MVB4ZnFqbTNuVFF0RzA0T0tUczVzUFBB?oc=5\" target=\"_blank\">Skapion launches counter drone swarm C-UAS system designed to engage 100 targets</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxPNmZKQ1NqYXZ2Wnd5RGx6bUU2cUFjbW1aQTFNNHFCaU5GM2E1a1RMSG52S3ZscFd1QWNLelVFcmtpTjdVTzBCQ3ozemRnNHNFZDRNVl91VWw0X0RhWGZxV05CcGVnNzNoQktybS1SVDVzYUw5QUp4d1VDbUluc2ZjbDE5b2UtTWJrbXM4UUNhN09jLVZjaGt0aEQwUHhNdG1tRV9YRWNZdDViN1hpRGJTU1l4RUdramNLWUluOTBLcjhyQ3BsMFNrRUN4MVB4ZnFqbTNuVFF0RzA0T0tUczVzUFBB?oc=5\" target=\"_blank\">Skapion launches counter drone swarm C-UAS system designed to engage 100 targets</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPNmZKQ1NqYXZ2Wnd5RGx6bUU2cUFjbW1aQTFNNHFCaU5GM2E1a1RMSG52S3ZscFd1QWNLelVFcmtpTjdVTzBCQ3ozemRnNHNFZDRNVl91VWw0X0RhWGZxV05CcGVnNzNoQktybS1SVDVzYUw5QUp4d1VDbUluc2ZjbDE5b2UtTWJrbXM4UUNhN09jLVZjaGt0aEQwUHhNdG1tRV9YRWNZdDViN1hpRGJTU1l4RUdramNLWUluOTBLcjhyQ3BsMFNrRUN4MVB4ZnFqbTNuVFF0RzA0T0tUczVzUFBB?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPNmZKQ1NqYXZ2Wnd5RGx6bUU2cUFjbW1aQTFNNHFCaU5GM2E1a1RMSG52S3ZscFd1QWNLelVFcmtpTjdVTzBCQ3ozemRnNHNFZDRNVl91VWw0X0RhWGZxV05CcGVnNzNoQktybS1SVDVzYUw5QUp4d1VDbUluc2ZjbDE5b2UtTWJrbXM4UUNhN09jLVZjaGt0aEQwUHhNdG1tRV9YRWNZdDViN1hpRGJTU1l4RUdramNLWUluOTBLcjhyQ3BsMFNrRUN4MVB4ZnFqbTNuVFF0RzA0T0tUczVzUFBB?oc=5",
+      "publishedAt": "2026-10-15T09:27:45.000Z",
+      "source": "Unmanned airspace",
       "_feedRegion": "global",
       "_feedName": "Google News (Global)",
       "_scoring": {
-        "score": 54,
+        "score": 55,
         "categories": [
-          "規制・政策",
+          "技術・製品",
           "市場・資金"
         ],
         "breakdown": {
           "required": true,
-          "regulation": {
+          "technology": {
             "matches": 1,
-            "catScore": 32
+            "catScore": 24
           },
           "market": {
             "matches": 1,
@@ -1068,40 +1097,8 @@
             "domain": "news.google.com",
             "multiplier": 0.8
           },
-          "freshness": 2,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "ドローン監視機器の世界市場（2026年～2032年）、市場規模（無線周波数（RF）アナライザ、光学センサー（カメラ）、レーダー、その他）・分析レポートを発表",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE1BNWkyaFhPLTdpV1psdXdVYnJ3V0V6N1ZVOF82OEdodk8tZ2tuQkFQUUtQaDFUeGZQQUNHanQ2ekZsM01QQXRpZWJiN3VJcUE?oc=5\" target=\"_blank\">ドローン監視機器の世界市場（2026年～2032年）、市場規模（無線周波数（RF）アナライザ、光学センサー（カメラ）、レーダー、その他）・分析レポートを発表</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">アットプレス</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE1BNWkyaFhPLTdpV1psdXdVYnJ3V0V6N1ZVOF82OEdodk8tZ2tuQkFQUUtQaDFUeGZQQUNHanQ2ekZsM01QQXRpZWJiN3VJcUE?oc=5\" target=\"_blank\">ドローン監視機器の世界市場（2026年～2032年）、市場規模（無線周波数（RF）アナライザ、光学センサー（カメラ）、レーダー、その他）・分析レポートを発表</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">アットプレス</font>",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1BNWkyaFhPLTdpV1psdXdVYnJ3V0V6N1ZVOF82OEdodk8tZ2tuQkFQUUtQaDFUeGZQQUNHanQ2ekZsM01QQXRpZWJiN3VJcUE?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1BNWkyaFhPLTdpV1psdXdVYnJ3V0V6N1ZVOF82OEdodk8tZ2tuQkFQUUtQaDFUeGZQQUNHanQ2ekZsM01QQXRpZWJiN3VJcUE?oc=5",
-      "publishedAt": "2026-10-15T07:30:00.000Z",
-      "source": "アットプレス",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP)",
-      "_scoring": {
-        "score": 54,
-        "categories": [
-          "政策・インフラ"
-        ],
-        "breakdown": {
-          "required": true,
-          "policy": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
           "freshness": 10,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
+          "titleBonus": 10
         },
         "pass": true
       }
