@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-17T12:48:59.141Z",
-  "rawCount": 686,
+  "generatedAt": "2026-10-17T16:13:47.625Z",
+  "rawCount": 689,
   "articles": [
     {
       "title": "Advanced Helicopter UAS for Industrial & Public Safety Applications",
@@ -38,6 +38,42 @@
             "multiplier": 0.8
           },
           "freshness": 5,
+          "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "FAA’s eVTOL Pilot Program Takes Flight across the U.S.",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQMGpvcUtuUmVTU3djV0w4NFRrbFo4aUJMWmNFSEFMX0M3aVZZeWNtS2FVakd1ZmxyU0hlYlhZNEFicXowd3J4ajh4UDhYdkNTb1V3TmdhSEdIT2pIbkgwUS16aHJnbmlKQUtpXzZ1emhHcDUtTWlDNzJEQWtpbklXSDVONEZHLS1xR3ByMEQzcHdfU3cydmJuc2ZtY3JndVcxYlUtM1hZODhtSG5iRURfSkN6bXlmWVk?oc=5\" target=\"_blank\">FAA’s eVTOL Pilot Program Takes Flight across the U.S.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aviation International News</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQMGpvcUtuUmVTU3djV0w4NFRrbFo4aUJMWmNFSEFMX0M3aVZZeWNtS2FVakd1ZmxyU0hlYlhZNEFicXowd3J4ajh4UDhYdkNTb1V3TmdhSEdIT2pIbkgwUS16aHJnbmlKQUtpXzZ1emhHcDUtTWlDNzJEQWtpbklXSDVONEZHLS1xR3ByMEQzcHdfU3cydmJuc2ZtY3JndVcxYlUtM1hZODhtSG5iRURfSkN6bXlmWVk?oc=5\" target=\"_blank\">FAA’s eVTOL Pilot Program Takes Flight across the U.S.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aviation International News</font>",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMGpvcUtuUmVTU3djV0w4NFRrbFo4aUJMWmNFSEFMX0M3aVZZeWNtS2FVakd1ZmxyU0hlYlhZNEFicXowd3J4ajh4UDhYdkNTb1V3TmdhSEdIT2pIbkgwUS16aHJnbmlKQUtpXzZ1emhHcDUtTWlDNzJEQWtpbklXSDVONEZHLS1xR3ByMEQzcHdfU3cydmJuc2ZtY3JndVcxYlUtM1hZODhtSG5iRURfSkN6bXlmWVk?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMGpvcUtuUmVTU3djV0w4NFRrbFo4aUJMWmNFSEFMX0M3aVZZeWNtS2FVakd1ZmxyU0hlYlhZNEFicXowd3J4ajh4UDhYdkNTb1V3TmdhSEdIT2pIbkgwUS16aHJnbmlKQUtpXzZ1emhHcDUtTWlDNzJEQWtpbklXSDVONEZHLS1xR3ByMEQzcHdfU3cydmJuc2ZtY3JndVcxYlUtM1hZODhtSG5iRURfSkN6bXlmWVk?oc=5",
+      "publishedAt": "2026-10-17T15:33:45.000Z",
+      "source": "Aviation International News",
+      "_feedRegion": "us",
+      "_feedName": "FAA",
+      "_scoring": {
+        "score": 75,
+        "categories": [
+          "規制・政策",
+          "技術・製品"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 20,
           "titleBonus": 10
         },
         "pass": true
@@ -117,47 +153,6 @@
           "freshness": 0,
           "titleBonus": 10,
           "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "SIG SAUER launches C-UAS electro-optic system at AUSA 2026",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQbUF5NVRJdkdOdTVQbXp4TkItSDRnR1hIamJ6U0pTYXZqUTVFODdEZnU0TGE0Uk1KYmRGSzY1SzRITERtMVo3azBfNm1FbUl5TG9MZDJFa0dBYk11VHczUUQ1U1pxcTkyc3lxNkZnanNKNENoYzE1Wm9YbmdqVGJYRG5Gb3Bxd0ZsZmlmWTRIWU1qdzJmQWVvdmNUcmtETVp5QXVvUVJqd21IMFJBTVRXQVhjQU5XWG9YUUQxeXdKSGNtTzgt?oc=5\" target=\"_blank\">SIG SAUER launches C-UAS electro-optic system at AUSA 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQbUF5NVRJdkdOdTVQbXp4TkItSDRnR1hIamJ6U0pTYXZqUTVFODdEZnU0TGE0Uk1KYmRGSzY1SzRITERtMVo3azBfNm1FbUl5TG9MZDJFa0dBYk11VHczUUQ1U1pxcTkyc3lxNkZnanNKNENoYzE1Wm9YbmdqVGJYRG5Gb3Bxd0ZsZmlmWTRIWU1qdzJmQWVvdmNUcmtETVp5QXVvUVJqd21IMFJBTVRXQVhjQU5XWG9YUUQxeXdKSGNtTzgt?oc=5\" target=\"_blank\">SIG SAUER launches C-UAS electro-optic system at AUSA 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbUF5NVRJdkdOdTVQbXp4TkItSDRnR1hIamJ6U0pTYXZqUTVFODdEZnU0TGE0Uk1KYmRGSzY1SzRITERtMVo3azBfNm1FbUl5TG9MZDJFa0dBYk11VHczUUQ1U1pxcTkyc3lxNkZnanNKNENoYzE1Wm9YbmdqVGJYRG5Gb3Bxd0ZsZmlmWTRIWU1qdzJmQWVvdmNUcmtETVp5QXVvUVJqd21IMFJBTVRXQVhjQU5XWG9YUUQxeXdKSGNtTzgt?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbUF5NVRJdkdOdTVQbXp4TkItSDRnR1hIamJ6U0pTYXZqUTVFODdEZnU0TGE0Uk1KYmRGSzY1SzRITERtMVo3azBfNm1FbUl5TG9MZDJFa0dBYk11VHczUUQ1U1pxcTkyc3lxNkZnanNKNENoYzE1Wm9YbmdqVGJYRG5Gb3Bxd0ZsZmlmWTRIWU1qdzJmQWVvdmNUcmtETVp5QXVvUVJqd21IMFJBTVRXQVhjQU5XWG9YUUQxeXdKSGNtTzgt?oc=5",
-      "publishedAt": "2026-10-15T10:50:25.000Z",
-      "source": "Unmanned airspace",
-      "_feedRegion": "global",
-      "_feedName": "Google News (Global)",
-      "_scoring": {
-        "score": 66,
-        "categories": [
-          "技術・製品",
-          "市場・資金",
-          "政策・インフラ"
-        ],
-        "breakdown": {
-          "required": true,
-          "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "market": {
-            "matches": 1,
-            "catScore": 20
-          },
-          "policy": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 2,
-          "titleBonus": 10
         },
         "pass": true
       }
@@ -782,42 +777,6 @@
       }
     },
     {
-      "title": "FAA Clarifies Drone Authorization Requirements for Airport Emergency Exercises",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNY3hlY2ctLXh6cVRqOGJiX0V1bG84TUhBY204SzVaSDQxdVhjNnlfbWhDY05jS1pYR2o3OG5Qajg5RzVEUU91NDc0YjRiYmd1NHcyOU0wajY4c3V4UFQxZzVkZmhXVW9jVGM2X0toT0JDMm1yTUFjeHVTaXE2S0lkaGJfY3NtenFndzMxSG53?oc=5\" target=\"_blank\">FAA Clarifies Drone Authorization Requirements for Airport Emergency Exercises</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dronelife</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNY3hlY2ctLXh6cVRqOGJiX0V1bG84TUhBY204SzVaSDQxdVhjNnlfbWhDY05jS1pYR2o3OG5Qajg5RzVEUU91NDc0YjRiYmd1NHcyOU0wajY4c3V4UFQxZzVkZmhXVW9jVGM2X0toT0JDMm1yTUFjeHVTaXE2S0lkaGJfY3NtenFndzMxSG53?oc=5\" target=\"_blank\">FAA Clarifies Drone Authorization Requirements for Airport Emergency Exercises</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dronelife</font>",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNY3hlY2ctLXh6cVRqOGJiX0V1bG84TUhBY204SzVaSDQxdVhjNnlfbWhDY05jS1pYR2o3OG5Qajg5RzVEUU91NDc0YjRiYmd1NHcyOU0wajY4c3V4UFQxZzVkZmhXVW9jVGM2X0toT0JDMm1yTUFjeHVTaXE2S0lkaGJfY3NtenFndzMxSG53?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNY3hlY2ctLXh6cVRqOGJiX0V1bG84TUhBY204SzVaSDQxdVhjNnlfbWhDY05jS1pYR2o3OG5Qajg5RzVEUU91NDc0YjRiYmd1NHcyOU0wajY4c3V4UFQxZzVkZmhXVW9jVGM2X0toT0JDMm1yTUFjeHVTaXE2S0lkaGJfY3NtenFndzMxSG53?oc=5",
-      "publishedAt": "2026-10-12T13:46:29.000Z",
-      "source": "Dronelife",
-      "_feedRegion": "us",
-      "_feedName": "FAA",
-      "_scoring": {
-        "score": 60,
-        "categories": [
-          "規制・政策",
-          "政策・インフラ"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 1,
-            "catScore": 32
-          },
-          "policy": {
-            "matches": 2,
-            "catScore": 30
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 0,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
       "title": "nuWay Ag's Yoder Takes FAA Drone Suspension Over Deer and Sled Lifts",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQUm8wNTZpMl9acHdqRWxVLU85ZWtYSURCUERZWlRCTzBsN2dJMUUtM3lyRDZVVUNTYnFoVVFYdUVkS2dKZjBKanAzcGJBRWFQSXFRbnJyVGNiQy1naUhDa1RvaWNsUHA2RHB1c2gzRWpoUmxsUlBIa0E0YzRvZXE5YnlCN0w?oc=5\" target=\"_blank\">nuWay Ag's Yoder Takes FAA Drone Suspension Over Deer and Sled Lifts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DroneXL</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQUm8wNTZpMl9acHdqRWxVLU85ZWtYSURCUERZWlRCTzBsN2dJMUUtM3lyRDZVVUNTYnFoVVFYdUVkS2dKZjBKanAzcGJBRWFQSXFRbnJyVGNiQy1naUhDa1RvaWNsUHA2RHB1c2gzRWpoUmxsUlBIa0E0YzRvZXE5YnlCN0w?oc=5\" target=\"_blank\">nuWay Ag's Yoder Takes FAA Drone Suspension Over Deer and Sled Lifts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DroneXL</font>",
@@ -854,15 +813,15 @@
       }
     },
     {
-      "title": "Automated BVLOS Drone Surveys Take on Major Infrastructure Project in Australia",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE53cnR3UkhnUnRobjBwczlkZWhkaVhVWm9yV0lzMFRQSHVMX2xnWHVMNkpuWDY1YktmaFRrT1BMN1NpandEWjRzb002ek1QWGQ4Q1VjOUFJQXJ2Mmc1NHR4VGF6QVZuUUUwS1hZb1ZhU190dUUwNHMyT3AzSkM3Zw?oc=5\" target=\"_blank\">Automated BVLOS Drone Surveys Take on Major Infrastructure Project in Australia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dronelife</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE53cnR3UkhnUnRobjBwczlkZWhkaVhVWm9yV0lzMFRQSHVMX2xnWHVMNkpuWDY1YktmaFRrT1BMN1NpandEWjRzb002ek1QWGQ4Q1VjOUFJQXJ2Mmc1NHR4VGF6QVZuUUUwS1hZb1ZhU190dUUwNHMyT3AzSkM3Zw?oc=5\" target=\"_blank\">Automated BVLOS Drone Surveys Take on Major Infrastructure Project in Australia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dronelife</font>",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE53cnR3UkhnUnRobjBwczlkZWhkaVhVWm9yV0lzMFRQSHVMX2xnWHVMNkpuWDY1YktmaFRrT1BMN1NpandEWjRzb002ek1QWGQ4Q1VjOUFJQXJ2Mmc1NHR4VGF6QVZuUUUwS1hZb1ZhU190dUUwNHMyT3AzSkM3Zw?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTE53cnR3UkhnUnRobjBwczlkZWhkaVhVWm9yV0lzMFRQSHVMX2xnWHVMNkpuWDY1YktmaFRrT1BMN1NpandEWjRzb002ek1QWGQ4Q1VjOUFJQXJ2Mmc1NHR4VGF6QVZuUUUwS1hZb1ZhU190dUUwNHMyT3AzSkM3Zw?oc=5",
-      "publishedAt": "2026-10-15T15:13:47.000Z",
+      "title": "FAA Clarifies Drone Authorization Requirements for Airport Emergency Exercises",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNY3hlY2ctLXh6cVRqOGJiX0V1bG84TUhBY204SzVaSDQxdVhjNnlfbWhDY05jS1pYR2o3OG5Qajg5RzVEUU91NDc0YjRiYmd1NHcyOU0wajY4c3V4UFQxZzVkZmhXVW9jVGM2X0toT0JDMm1yTUFjeHVTaXE2S0lkaGJfY3NtenFndzMxSG53?oc=5\" target=\"_blank\">FAA Clarifies Drone Authorization Requirements for Airport Emergency Exercises</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dronelife</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNY3hlY2ctLXh6cVRqOGJiX0V1bG84TUhBY204SzVaSDQxdVhjNnlfbWhDY05jS1pYR2o3OG5Qajg5RzVEUU91NDc0YjRiYmd1NHcyOU0wajY4c3V4UFQxZzVkZmhXVW9jVGM2X0toT0JDMm1yTUFjeHVTaXE2S0lkaGJfY3NtenFndzMxSG53?oc=5\" target=\"_blank\">FAA Clarifies Drone Authorization Requirements for Airport Emergency Exercises</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dronelife</font>",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNY3hlY2ctLXh6cVRqOGJiX0V1bG84TUhBY204SzVaSDQxdVhjNnlfbWhDY05jS1pYR2o3OG5Qajg5RzVEUU91NDc0YjRiYmd1NHcyOU0wajY4c3V4UFQxZzVkZmhXVW9jVGM2X0toT0JDMm1yTUFjeHVTaXE2S0lkaGJfY3NtenFndzMxSG53?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNY3hlY2ctLXh6cVRqOGJiX0V1bG84TUhBY204SzVaSDQxdVhjNnlfbWhDY05jS1pYR2o3OG5Qajg5RzVEUU91NDc0YjRiYmd1NHcyOU0wajY4c3V4UFQxZzVkZmhXVW9jVGM2X0toT0JDMm1yTUFjeHVTaXE2S0lkaGJfY3NtenFndzMxSG53?oc=5",
+      "publishedAt": "2026-10-12T13:46:29.000Z",
       "source": "Dronelife",
-      "_feedRegion": "global",
-      "_feedName": "Google News (Global)",
+      "_feedRegion": "us",
+      "_feedName": "FAA",
       "_scoring": {
         "score": 60,
         "categories": [
@@ -876,14 +835,14 @@
             "catScore": 32
           },
           "policy": {
-            "matches": 1,
-            "catScore": 24
+            "matches": 2,
+            "catScore": 30
           },
           "sourceTrust": {
             "domain": "news.google.com",
             "multiplier": 0.8
           },
-          "freshness": 5,
+          "freshness": 0,
           "titleBonus": 10
         },
         "pass": true
@@ -1000,22 +959,27 @@
       }
     },
     {
-      "title": "ウクライナ軍が大規模ドローン攻撃、モスクワのすべての空港が一時閉鎖",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE5NNFJ2d3dINzNSM2llMVlHb1hiVng4YjVIeklrSFp0MUpUQ2Zwd3k2ZUZ1YVJ5X0xwYW44aDRQeS1LbDlZck9ua3hpQzNySW1tejJBOXBHaWxjWWZaanMxR2d6bjJHTW5GOUQ1MUFrNC1JQ1NvT1Jkd1Zn?oc=5\" target=\"_blank\">ウクライナ軍が大規模ドローン攻撃、モスクワのすべての空港が一時閉鎖</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">テレ朝NEWS</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE5NNFJ2d3dINzNSM2llMVlHb1hiVng4YjVIeklrSFp0MUpUQ2Zwd3k2ZUZ1YVJ5X0xwYW44aDRQeS1LbDlZck9ua3hpQzNySW1tejJBOXBHaWxjWWZaanMxR2d6bjJHTW5GOUQ1MUFrNC1JQ1NvT1Jkd1Zn?oc=5\" target=\"_blank\">ウクライナ軍が大規模ドローン攻撃、モスクワのすべての空港が一時閉鎖</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">テレ朝NEWS</font>",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5NNFJ2d3dINzNSM2llMVlHb1hiVng4YjVIeklrSFp0MUpUQ2Zwd3k2ZUZ1YVJ5X0xwYW44aDRQeS1LbDlZck9ua3hpQzNySW1tejJBOXBHaWxjWWZaanMxR2d6bjJHTW5GOUQ1MUFrNC1JQ1NvT1Jkd1Zn?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5NNFJ2d3dINzNSM2llMVlHb1hiVng4YjVIeklrSFp0MUpUQ2Zwd3k2ZUZ1YVJ5X0xwYW44aDRQeS1LbDlZck9ua3hpQzNySW1tejJBOXBHaWxjWWZaanMxR2d6bjJHTW5GOUQ1MUFrNC1JQ1NvT1Jkd1Zn?oc=5",
-      "publishedAt": "2026-10-17T03:23:00.000Z",
-      "source": "テレ朝NEWS",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP)",
+      "title": "States Challenge FAA’s Nationwide Environmental Review for Drone Package Delivery",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNeURKMDhrY1dxbkRtZ1lLcjN4ekFKX1RVNjNxakNISS1PelNTZF9WOC00WTc0Zk1BbXkyemtxRGg2MERfMm1wWWRYSDVZWDFxNmFMLVpobUtsN01iYXhsQkhRUEZuc0t1ZEtVRXlJYTlMVGdIWnVVVTRraEk0U0QwSlo1R1BNN1p0OWU5SHl4TWYtM0VTMUNFMUFrNC1sZEFQenNLb1pZbWMwM0pyTEHSAbMBQVVfeXFMT0V0RFRQdzc5TS1WNm9hTHFoMmk1Rk9obk1jbDdZaWhuSExwX2RlbHFIMThPLXQzaTI4VVVwUGZNbWJmYWhMcGZNVWY4NGFaQXRMRHBjSXU0Sl9EY1ktY2dIRVlrQlZfallfazdiY1FEMkl5bU8tcEQxbEFEVEhyZmRmREIxMzBmUTBrWk9JMWx2YVc0dWhPa09mUjNUTGlTTl9ENTc0M05kdnlzdUl3V0oyYkk?oc=5\" target=\"_blank\">States Challenge FAA’s Nationwide Environmental Review for Drone Package Delivery</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The National Law Review</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNeURKMDhrY1dxbkRtZ1lLcjN4ekFKX1RVNjNxakNISS1PelNTZF9WOC00WTc0Zk1BbXkyemtxRGg2MERfMm1wWWRYSDVZWDFxNmFMLVpobUtsN01iYXhsQkhRUEZuc0t1ZEtVRXlJYTlMVGdIWnVVVTRraEk0U0QwSlo1R1BNN1p0OWU5SHl4TWYtM0VTMUNFMUFrNC1sZEFQenNLb1pZbWMwM0pyTEHSAbMBQVVfeXFMT0V0RFRQdzc5TS1WNm9hTHFoMmk1Rk9obk1jbDdZaWhuSExwX2RlbHFIMThPLXQzaTI4VVVwUGZNbWJmYWhMcGZNVWY4NGFaQXRMRHBjSXU0Sl9EY1ktY2dIRVlrQlZfallfazdiY1FEMkl5bU8tcEQxbEFEVEhyZmRmREIxMzBmUTBrWk9JMWx2YVc0dWhPa09mUjNUTGlTTl9ENTc0M05kdnlzdUl3V0oyYkk?oc=5\" target=\"_blank\">States Challenge FAA’s Nationwide Environmental Review for Drone Package Delivery</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The National Law Review</font>",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNeURKMDhrY1dxbkRtZ1lLcjN4ekFKX1RVNjNxakNISS1PelNTZF9WOC00WTc0Zk1BbXkyemtxRGg2MERfMm1wWWRYSDVZWDFxNmFMLVpobUtsN01iYXhsQkhRUEZuc0t1ZEtVRXlJYTlMVGdIWnVVVTRraEk0U0QwSlo1R1BNN1p0OWU5SHl4TWYtM0VTMUNFMUFrNC1sZEFQenNLb1pZbWMwM0pyTEHSAbMBQVVfeXFMT0V0RFRQdzc5TS1WNm9hTHFoMmk1Rk9obk1jbDdZaWhuSExwX2RlbHFIMThPLXQzaTI4VVVwUGZNbWJmYWhMcGZNVWY4NGFaQXRMRHBjSXU0Sl9EY1ktY2dIRVlrQlZfallfazdiY1FEMkl5bU8tcEQxbEFEVEhyZmRmREIxMzBmUTBrWk9JMWx2YVc0dWhPa09mUjNUTGlTTl9ENTc0M05kdnlzdUl3V0oyYkk?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNeURKMDhrY1dxbkRtZ1lLcjN4ekFKX1RVNjNxakNISS1PelNTZF9WOC00WTc0Zk1BbXkyemtxRGg2MERfMm1wWWRYSDVZWDFxNmFMLVpobUtsN01iYXhsQkhRUEZuc0t1ZEtVRXlJYTlMVGdIWnVVVTRraEk0U0QwSlo1R1BNN1p0OWU5SHl4TWYtM0VTMUNFMUFrNC1sZEFQenNLb1pZbWMwM0pyTEHSAbMBQVVfeXFMT0V0RFRQdzc5TS1WNm9hTHFoMmk1Rk9obk1jbDdZaWhuSExwX2RlbHFIMThPLXQzaTI4VVVwUGZNbWJmYWhMcGZNVWY4NGFaQXRMRHBjSXU0Sl9EY1ktY2dIRVlrQlZfallfazdiY1FEMkl5bU8tcEQxbEFEVEhyZmRmREIxMzBmUTBrWk9JMWx2YVc0dWhPa09mUjNUTGlTTl9ENTc0M05kdnlzdUl3V0oyYkk?oc=5",
+      "publishedAt": "2026-10-14T16:53:59.000Z",
+      "source": "The National Law Review",
+      "_feedRegion": "us",
+      "_feedName": "FAA",
       "_scoring": {
-        "score": 59,
+        "score": 57,
         "categories": [
+          "規制・政策",
           "政策・インフラ"
         ],
         "breakdown": {
           "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
           "policy": {
             "matches": 1,
             "catScore": 24
@@ -1024,30 +988,34 @@
             "domain": "news.google.com",
             "multiplier": 0.8
           },
-          "freshness": 15,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
+          "freshness": 2,
+          "titleBonus": 10
         },
         "pass": true
       }
     },
     {
-      "title": "【画像まとめ】ウクライナ軍が大規模ドローン攻撃、モスクワのすべての空港が一時閉鎖",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPcnpORTNHeTd3cERCMmttb251dGZxOEJDaTlKb1Y4U2VQdEtwZ3hzQWpRNzdXbVdpSHFiTTFQMTNjT2FsejFuYmhoLUhJcUE4akxDdXZJSWg3Mm12MUpteUU0NjV5TGh4Y1VPQ1UybWFKMGtvdEtfdmRtUGJpU0VDVm9MWQ?oc=5\" target=\"_blank\">【画像まとめ】ウクライナ軍が大規模ドローン攻撃、モスクワのすべての空港が一時閉鎖</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">テレ朝NEWS</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPcnpORTNHeTd3cERCMmttb251dGZxOEJDaTlKb1Y4U2VQdEtwZ3hzQWpRNzdXbVdpSHFiTTFQMTNjT2FsejFuYmhoLUhJcUE4akxDdXZJSWg3Mm12MUpteUU0NjV5TGh4Y1VPQ1UybWFKMGtvdEtfdmRtUGJpU0VDVm9MWQ?oc=5\" target=\"_blank\">【画像まとめ】ウクライナ軍が大規模ドローン攻撃、モスクワのすべての空港が一時閉鎖</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">テレ朝NEWS</font>",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPcnpORTNHeTd3cERCMmttb251dGZxOEJDaTlKb1Y4U2VQdEtwZ3hzQWpRNzdXbVdpSHFiTTFQMTNjT2FsejFuYmhoLUhJcUE4akxDdXZJSWg3Mm12MUpteUU0NjV5TGh4Y1VPQ1UybWFKMGtvdEtfdmRtUGJpU0VDVm9MWQ?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPcnpORTNHeTd3cERCMmttb251dGZxOEJDaTlKb1Y4U2VQdEtwZ3hzQWpRNzdXbVdpSHFiTTFQMTNjT2FsejFuYmhoLUhJcUE4akxDdXZJSWg3Mm12MUpteUU0NjV5TGh4Y1VPQ1UybWFKMGtvdEtfdmRtUGJpU0VDVm9MWQ?oc=5",
-      "publishedAt": "2026-10-17T03:23:00.000Z",
-      "source": "テレ朝NEWS",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP)",
+      "title": "Lawmakers Demand FAA Review of Amazon ($AMZN) Drone Delivery Hub",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQYzZkcXhvZGdFT2FnN1BoYS02aVdtNU1kOWFoaDk4Vl92YmdjLUkyc1E4Zi1HdG9WejlIZUNZTklUQi1MZ1FUeDgxNm5pWFp3b05fTXpEN29EOEdwZzUyb1Z5Q1lIN21ZMmFrdkxmdWpoeUVMLUs2TXdxYmdKaHZDbmRyMThPckxXbXUzOEt4UG9FSUVwai1adkM2b1FlYmd5Y3lQTkFn?oc=5\" target=\"_blank\">Lawmakers Demand FAA Review of Amazon ($AMZN) Drone Delivery Hub</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quiver Quantitative</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQYzZkcXhvZGdFT2FnN1BoYS02aVdtNU1kOWFoaDk4Vl92YmdjLUkyc1E4Zi1HdG9WejlIZUNZTklUQi1MZ1FUeDgxNm5pWFp3b05fTXpEN29EOEdwZzUyb1Z5Q1lIN21ZMmFrdkxmdWpoeUVMLUs2TXdxYmdKaHZDbmRyMThPckxXbXUzOEt4UG9FSUVwai1adkM2b1FlYmd5Y3lQTkFn?oc=5\" target=\"_blank\">Lawmakers Demand FAA Review of Amazon ($AMZN) Drone Delivery Hub</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quiver Quantitative</font>",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYzZkcXhvZGdFT2FnN1BoYS02aVdtNU1kOWFoaDk4Vl92YmdjLUkyc1E4Zi1HdG9WejlIZUNZTklUQi1MZ1FUeDgxNm5pWFp3b05fTXpEN29EOEdwZzUyb1Z5Q1lIN21ZMmFrdkxmdWpoeUVMLUs2TXdxYmdKaHZDbmRyMThPckxXbXUzOEt4UG9FSUVwai1adkM2b1FlYmd5Y3lQTkFn?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYzZkcXhvZGdFT2FnN1BoYS02aVdtNU1kOWFoaDk4Vl92YmdjLUkyc1E4Zi1HdG9WejlIZUNZTklUQi1MZ1FUeDgxNm5pWFp3b05fTXpEN29EOEdwZzUyb1Z5Q1lIN21ZMmFrdkxmdWpoeUVMLUs2TXdxYmdKaHZDbmRyMThPckxXbXUzOEt4UG9FSUVwai1adkM2b1FlYmd5Y3lQTkFn?oc=5",
+      "publishedAt": "2026-10-14T17:19:00.000Z",
+      "source": "Quiver Quantitative",
+      "_feedRegion": "us",
+      "_feedName": "FAA",
       "_scoring": {
-        "score": 59,
+        "score": 57,
         "categories": [
+          "規制・政策",
           "政策・インフラ"
         ],
         "breakdown": {
           "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
           "policy": {
             "matches": 1,
             "catScore": 24
@@ -1056,30 +1024,34 @@
             "domain": "news.google.com",
             "multiplier": 0.8
           },
-          "freshness": 15,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
+          "freshness": 2,
+          "titleBonus": 10
         },
         "pass": true
       }
     },
     {
-      "title": "ウクライナ軍が大規模ドローン攻撃、モスクワのすべての空港が一時閉鎖 (テレビ朝日系（ANN）)",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQT1h4eXV6dGF4MnFPVFNCVWdWVHpudV82S0hoc25EeW9oRWd6anFleXgxZy1SMXBwVlZjWnNMYUJPNGMzdk1id2NESUNFMDJEQV9Ea2I3VlA4dXd4elhUWVAzZGRNclNkWlh6Yzd0VTJGNVZMQkdqNzBqclRCVkRJZ01MQ2E1SWlxUTdubGRR?oc=5\" target=\"_blank\">ウクライナ軍が大規模ドローン攻撃、モスクワのすべての空港が一時閉鎖 (テレビ朝日系（ANN）)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQT1h4eXV6dGF4MnFPVFNCVWdWVHpudV82S0hoc25EeW9oRWd6anFleXgxZy1SMXBwVlZjWnNMYUJPNGMzdk1id2NESUNFMDJEQV9Ea2I3VlA4dXd4elhUWVAzZGRNclNkWlh6Yzd0VTJGNVZMQkdqNzBqclRCVkRJZ01MQ2E1SWlxUTdubGRR?oc=5\" target=\"_blank\">ウクライナ軍が大規模ドローン攻撃、モスクワのすべての空港が一時閉鎖 (テレビ朝日系（ANN）)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQT1h4eXV6dGF4MnFPVFNCVWdWVHpudV82S0hoc25EeW9oRWd6anFleXgxZy1SMXBwVlZjWnNMYUJPNGMzdk1id2NESUNFMDJEQV9Ea2I3VlA4dXd4elhUWVAzZGRNclNkWlh6Yzd0VTJGNVZMQkdqNzBqclRCVkRJZ01MQ2E1SWlxUTdubGRR?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQT1h4eXV6dGF4MnFPVFNCVWdWVHpudV82S0hoc25EeW9oRWd6anFleXgxZy1SMXBwVlZjWnNMYUJPNGMzdk1id2NESUNFMDJEQV9Ea2I3VlA4dXd4elhUWVAzZGRNclNkWlh6Yzd0VTJGNVZMQkdqNzBqclRCVkRJZ01MQ2E1SWlxUTdubGRR?oc=5",
-      "publishedAt": "2026-10-17T03:24:16.000Z",
-      "source": "Yahoo!ニュース",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP)",
+      "title": "Automated BVLOS Drone Surveys Take on Major Infrastructure Project in Australia",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE53cnR3UkhnUnRobjBwczlkZWhkaVhVWm9yV0lzMFRQSHVMX2xnWHVMNkpuWDY1YktmaFRrT1BMN1NpandEWjRzb002ek1QWGQ4Q1VjOUFJQXJ2Mmc1NHR4VGF6QVZuUUUwS1hZb1ZhU190dUUwNHMyT3AzSkM3Zw?oc=5\" target=\"_blank\">Automated BVLOS Drone Surveys Take on Major Infrastructure Project in Australia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dronelife</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE53cnR3UkhnUnRobjBwczlkZWhkaVhVWm9yV0lzMFRQSHVMX2xnWHVMNkpuWDY1YktmaFRrT1BMN1NpandEWjRzb002ek1QWGQ4Q1VjOUFJQXJ2Mmc1NHR4VGF6QVZuUUUwS1hZb1ZhU190dUUwNHMyT3AzSkM3Zw?oc=5\" target=\"_blank\">Automated BVLOS Drone Surveys Take on Major Infrastructure Project in Australia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dronelife</font>",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE53cnR3UkhnUnRobjBwczlkZWhkaVhVWm9yV0lzMFRQSHVMX2xnWHVMNkpuWDY1YktmaFRrT1BMN1NpandEWjRzb002ek1QWGQ4Q1VjOUFJQXJ2Mmc1NHR4VGF6QVZuUUUwS1hZb1ZhU190dUUwNHMyT3AzSkM3Zw?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTE53cnR3UkhnUnRobjBwczlkZWhkaVhVWm9yV0lzMFRQSHVMX2xnWHVMNkpuWDY1YktmaFRrT1BMN1NpandEWjRzb002ek1QWGQ4Q1VjOUFJQXJ2Mmc1NHR4VGF6QVZuUUUwS1hZb1ZhU190dUUwNHMyT3AzSkM3Zw?oc=5",
+      "publishedAt": "2026-10-15T15:13:47.000Z",
+      "source": "Dronelife",
+      "_feedRegion": "global",
+      "_feedName": "Google News (Global)",
       "_scoring": {
-        "score": 59,
+        "score": 57,
         "categories": [
+          "規制・政策",
           "政策・インフラ"
         ],
         "breakdown": {
           "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
           "policy": {
             "matches": 1,
             "catScore": 24
@@ -1088,8 +1060,43 @@
             "domain": "news.google.com",
             "multiplier": 0.8
           },
-          "freshness": 15,
-          "titleBonus": 10,
+          "freshness": 2,
+          "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "ブルーイノベーション、高水位下水道を「ELIOS 3」の3Dマッピング用LiDARで安全調査。八戸市の下水道点検実証",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE00SFZxdHMtaFVlczRSRGJWTHJ1WW9qcURLbHRhbHVRU1hyU21TcGFMM0ZDVzlIdmYxdVJCVG1sYWFsM2phOW8yNjUwRUNSdDJQbWp2bGZieEdtZ2s?oc=5\" target=\"_blank\">ブルーイノベーション、高水位下水道を「ELIOS 3」の3Dマッピング用LiDARで安全調査。八戸市の下水道点検実証</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DRONE.jp</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE00SFZxdHMtaFVlczRSRGJWTHJ1WW9qcURLbHRhbHVRU1hyU21TcGFMM0ZDVzlIdmYxdVJCVG1sYWFsM2phOW8yNjUwRUNSdDJQbWp2bGZieEdtZ2s?oc=5\" target=\"_blank\">ブルーイノベーション、高水位下水道を「ELIOS 3」の3Dマッピング用LiDARで安全調査。八戸市の下水道点検実証</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DRONE.jp</font>",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE00SFZxdHMtaFVlczRSRGJWTHJ1WW9qcURLbHRhbHVRU1hyU21TcGFMM0ZDVzlIdmYxdVJCVG1sYWFsM2phOW8yNjUwRUNSdDJQbWp2bGZieEdtZ2s?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE00SFZxdHMtaFVlczRSRGJWTHJ1WW9qcURLbHRhbHVRU1hyU21TcGFMM0ZDVzlIdmYxdVJCVG1sYWFsM2phOW8yNjUwRUNSdDJQbWp2bGZieEdtZ2s?oc=5",
+      "publishedAt": "2026-08-27T07:00:00.000Z",
+      "source": "DRONE.jp",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP ドローン専門)",
+      "_scoring": {
+        "score": 57,
+        "categories": [
+          "技術・製品",
+          "事故・事件"
+        ],
+        "breakdown": {
+          "required": true,
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "incident": {
+            "matches": 1,
+            "catScore": 28
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 0,
           "jpRegionBonus": 15
         },
         "pass": true
