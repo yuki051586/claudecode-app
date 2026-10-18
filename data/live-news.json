@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-18T17:55:15.463Z",
-  "rawCount": 694,
+  "generatedAt": "2026-10-18T20:22:18.871Z",
+  "rawCount": 692,
   "articles": [
     {
       "title": "Advanced Helicopter UAS for Industrial & Public Safety Applications",
@@ -236,20 +236,19 @@
       }
     },
     {
-      "title": "Prodrone、パーソルから資金調達を実施。人材採用・育成の強化で「国産ドローンの量産体制」構築を推進",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE8wb3VXVkRxYTBldlhaXzdYSHJHOG1KN2RaZ3dCUlVWOXF3SVl2VEg2dHY0Z2RBaHNNQkNHSnBYQzJ3MVhZMDFYLXY0cExqRlB1WVVRY2hDeUMtY1E?oc=5\" target=\"_blank\">Prodrone、パーソルから資金調達を実施。人材採用・育成の強化で「国産ドローンの量産体制」構築を推進</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DRONE.jp</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE8wb3VXVkRxYTBldlhaXzdYSHJHOG1KN2RaZ3dCUlVWOXF3SVl2VEg2dHY0Z2RBaHNNQkNHSnBYQzJ3MVhZMDFYLXY0cExqRlB1WVVRY2hDeUMtY1E?oc=5\" target=\"_blank\">Prodrone、パーソルから資金調達を実施。人材採用・育成の強化で「国産ドローンの量産体制」構築を推進</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DRONE.jp</font>",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8wb3VXVkRxYTBldlhaXzdYSHJHOG1KN2RaZ3dCUlVWOXF3SVl2VEg2dHY0Z2RBaHNNQkNHSnBYQzJ3MVhZMDFYLXY0cExqRlB1WVVRY2hDeUMtY1E?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8wb3VXVkRxYTBldlhaXzdYSHJHOG1KN2RaZ3dCUlVWOXF3SVl2VEg2dHY0Z2RBaHNNQkNHSnBYQzJ3MVhZMDFYLXY0cExqRlB1WVVRY2hDeUMtY1E?oc=5",
-      "publishedAt": "2026-09-02T07:00:00.000Z",
-      "source": "DRONE.jp",
+      "title": "次世代eVTOL、防衛需要が開発後押し 自律飛行型ハイブリッドに熱視線",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4zNmhCTGc2YnBMdEdqbTlzSUJmQ1JPQVh2N0pWSGFRVTlKZllDSklMSkp6U0pORW5EMDJvRE5IdUs2aXc5YTlyNGFuUTgxSjRvOGh4QS1ic0t2UmZ3dnU4LXlRT09Ba0U?oc=5\" target=\"_blank\">次世代eVTOL、防衛需要が開発後押し 自律飛行型ハイブリッドに熱視線</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日経クロステック</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4zNmhCTGc2YnBMdEdqbTlzSUJmQ1JPQVh2N0pWSGFRVTlKZllDSklMSkp6U0pORW5EMDJvRE5IdUs2aXc5YTlyNGFuUTgxSjRvOGh4QS1ic0t2UmZ3dnU4LXlRT09Ba0U?oc=5\" target=\"_blank\">次世代eVTOL、防衛需要が開発後押し 自律飛行型ハイブリッドに熱視線</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日経クロステック</font>",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4zNmhCTGc2YnBMdEdqbTlzSUJmQ1JPQVh2N0pWSGFRVTlKZllDSklMSkp6U0pORW5EMDJvRE5IdUs2aXc5YTlyNGFuUTgxSjRvOGh4QS1ic0t2UmZ3dnU4LXlRT09Ba0U?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4zNmhCTGc2YnBMdEdqbTlzSUJmQ1JPQVh2N0pWSGFRVTlKZllDSklMSkp6U0pORW5EMDJvRE5IdUs2aXc5YTlyNGFuUTgxSjRvOGh4QS1ic0t2UmZ3dnU4LXlRT09Ba0U?oc=5",
+      "publishedAt": "2026-10-18T20:02:00.000Z",
+      "source": "日経クロステック",
       "_feedRegion": "jp",
-      "_feedName": "Google News (JP ドローン専門)",
+      "_feedName": "Google News (JP)",
       "_scoring": {
         "score": 64,
         "categories": [
-          "技術・製品",
-          "市場・資金"
+          "技術・製品"
         ],
         "breakdown": {
           "required": true,
@@ -257,15 +256,11 @@
             "matches": 1,
             "catScore": 24
           },
-          "market": {
-            "matches": 2,
-            "catScore": 25
-          },
           "sourceTrust": {
             "domain": "news.google.com",
             "multiplier": 0.8
           },
-          "freshness": 0,
+          "freshness": 20,
           "titleBonus": 10,
           "jpRegionBonus": 15
         },
@@ -636,78 +631,6 @@
       }
     },
     {
-      "title": "nuWay Ag's Yoder Takes FAA Drone Suspension Over Deer and Sled Lifts",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQUm8wNTZpMl9acHdqRWxVLU85ZWtYSURCUERZWlRCTzBsN2dJMUUtM3lyRDZVVUNTYnFoVVFYdUVkS2dKZjBKanAzcGJBRWFQSXFRbnJyVGNiQy1naUhDa1RvaWNsUHA2RHB1c2gzRWpoUmxsUlBIa0E0YzRvZXE5YnlCN0w?oc=5\" target=\"_blank\">nuWay Ag's Yoder Takes FAA Drone Suspension Over Deer and Sled Lifts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DroneXL</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQUm8wNTZpMl9acHdqRWxVLU85ZWtYSURCUERZWlRCTzBsN2dJMUUtM3lyRDZVVUNTYnFoVVFYdUVkS2dKZjBKanAzcGJBRWFQSXFRbnJyVGNiQy1naUhDa1RvaWNsUHA2RHB1c2gzRWpoUmxsUlBIa0E0YzRvZXE5YnlCN0w?oc=5\" target=\"_blank\">nuWay Ag's Yoder Takes FAA Drone Suspension Over Deer and Sled Lifts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DroneXL</font>",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUm8wNTZpMl9acHdqRWxVLU85ZWtYSURCUERZWlRCTzBsN2dJMUUtM3lyRDZVVUNTYnFoVVFYdUVkS2dKZjBKanAzcGJBRWFQSXFRbnJyVGNiQy1naUhDa1RvaWNsUHA2RHB1c2gzRWpoUmxsUlBIa0E0YzRvZXE5YnlCN0w?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUm8wNTZpMl9acHdqRWxVLU85ZWtYSURCUERZWlRCTzBsN2dJMUUtM3lyRDZVVUNTYnFoVVFYdUVkS2dKZjBKanAzcGJBRWFQSXFRbnJyVGNiQy1naUhDa1RvaWNsUHA2RHB1c2gzRWpoUmxsUlBIa0E0YzRvZXE5YnlCN0w?oc=5",
-      "publishedAt": "2026-10-15T20:16:00.000Z",
-      "source": "DroneXL",
-      "_feedRegion": "us",
-      "_feedName": "FAA",
-      "_scoring": {
-        "score": 57,
-        "categories": [
-          "規制・政策",
-          "技術・製品"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 1,
-            "catScore": 32
-          },
-          "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 2,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "FAA bars unauthorized drones along US-Mexico border, citing security concerns",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSHp6X2ozTTdxd1F5T19PYTFQT2daeFoyOHJ1TnhkMjJSTTVUb2taS1dTN19KdFp5QTFSN1oxWkdwVFhzazk2VFExZVR6WU5JQ2M5Q0czOGtxaXVfcnFBZG5NZ1BpS3hsWENqRHN1VXN2RmhxUkdzb1pURlNlTnVYS0l6LTFtVElWeWFXYTYwazdxRzR1Ri1jN2VfYmpxcE9MRG5sMXUxYXBJVjJvU1BuTXQ1cFEwMUE2cW9sLUJXX0xCZm8yR24wUFhqRTlyZGdNX043YzVB?oc=5\" target=\"_blank\">FAA bars unauthorized drones along US-Mexico border, citing security concerns</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSHp6X2ozTTdxd1F5T19PYTFQT2daeFoyOHJ1TnhkMjJSTTVUb2taS1dTN19KdFp5QTFSN1oxWkdwVFhzazk2VFExZVR6WU5JQ2M5Q0czOGtxaXVfcnFBZG5NZ1BpS3hsWENqRHN1VXN2RmhxUkdzb1pURlNlTnVYS0l6LTFtVElWeWFXYTYwazdxRzR1Ri1jN2VfYmpxcE9MRG5sMXUxYXBJVjJvU1BuTXQ1cFEwMUE2cW9sLUJXX0xCZm8yR24wUFhqRTlyZGdNX043YzVB?oc=5\" target=\"_blank\">FAA bars unauthorized drones along US-Mexico border, citing security concerns</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSHp6X2ozTTdxd1F5T19PYTFQT2daeFoyOHJ1TnhkMjJSTTVUb2taS1dTN19KdFp5QTFSN1oxWkdwVFhzazk2VFExZVR6WU5JQ2M5Q0czOGtxaXVfcnFBZG5NZ1BpS3hsWENqRHN1VXN2RmhxUkdzb1pURlNlTnVYS0l6LTFtVElWeWFXYTYwazdxRzR1Ri1jN2VfYmpxcE9MRG5sMXUxYXBJVjJvU1BuTXQ1cFEwMUE2cW9sLUJXX0xCZm8yR24wUFhqRTlyZGdNX043YzVB?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSHp6X2ozTTdxd1F5T19PYTFQT2daeFoyOHJ1TnhkMjJSTTVUb2taS1dTN19KdFp5QTFSN1oxWkdwVFhzazk2VFExZVR6WU5JQ2M5Q0czOGtxaXVfcnFBZG5NZ1BpS3hsWENqRHN1VXN2RmhxUkdzb1pURlNlTnVYS0l6LTFtVElWeWFXYTYwazdxRzR1Ri1jN2VfYmpxcE9MRG5sMXUxYXBJVjJvU1BuTXQ1cFEwMUE2cW9sLUJXX0xCZm8yR24wUFhqRTlyZGdNX043YzVB?oc=5",
-      "publishedAt": "2026-10-16T19:12:47.000Z",
-      "source": "Reuters",
-      "_feedRegion": "us",
-      "_feedName": "FAA",
-      "_scoring": {
-        "score": 57,
-        "categories": [
-          "規制・政策",
-          "市場・資金"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 1,
-            "catScore": 32
-          },
-          "market": {
-            "matches": 1,
-            "catScore": 20
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 5,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
       "title": "FAA, Pentagon Announce Drone Restriction At U.S.-Mexico Border",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNUUc2LWM2a0tNSXh2YS0zbUIxOWtyYVFxbzhGLXhhRG1NR08yOTd6QmVlNVdkcHlSVFFyNkkzakVtdFNRUnJnREFkdWU0bm1aYWlHME1HZXZPRzJhcmg2RnZYYkt6R0NwNjRfQlJKWFFONmRLb3lySmlPNk8yUVh6ZmdGZ19VcDBQM2pqZ2hudUZXd3loVE1tT0xXcE5LZzh2UFlvVVhPNkw4RU5MX25BUXhJYWtXR00?oc=5\" target=\"_blank\">FAA, Pentagon Announce Drone Restriction At U.S.-Mexico Border</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aviation Week</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNUUc2LWM2a0tNSXh2YS0zbUIxOWtyYVFxbzhGLXhhRG1NR08yOTd6QmVlNVdkcHlSVFFyNkkzakVtdFNRUnJnREFkdWU0bm1aYWlHME1HZXZPRzJhcmg2RnZYYkt6R0NwNjRfQlJKWFFONmRLb3lySmlPNk8yUVh6ZmdGZ19VcDBQM2pqZ2hudUZXd3loVE1tT0xXcE5LZzh2UFlvVVhPNkw4RU5MX25BUXhJYWtXR00?oc=5\" target=\"_blank\">FAA, Pentagon Announce Drone Restriction At U.S.-Mexico Border</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aviation Week</font>",
@@ -780,15 +703,15 @@
       }
     },
     {
-      "title": "FAA Bans Drones Along Entire US-Mexico Border Until October 2027",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOV3UzWnJoZTZoQlhVUEM2ejZ3UmdvOVRscExfZnJTT1JJek9mRjlxQXNYZmNwZmNnYzN6NVBFc0V0OWlRbTlmY2JhbGlfUEJhWUYzZXJIRkZvczBWYVc1OFNhVjJTcjNqQ01mZjhneW9yVlQ4OE50LVdyRkRVWGNZUHJ3?oc=5\" target=\"_blank\">FAA Bans Drones Along Entire US-Mexico Border Until October 2027</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DroneXL</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOV3UzWnJoZTZoQlhVUEM2ejZ3UmdvOVRscExfZnJTT1JJek9mRjlxQXNYZmNwZmNnYzN6NVBFc0V0OWlRbTlmY2JhbGlfUEJhWUYzZXJIRkZvczBWYVc1OFNhVjJTcjNqQ01mZjhneW9yVlQ4OE50LVdyRkRVWGNZUHJ3?oc=5\" target=\"_blank\">FAA Bans Drones Along Entire US-Mexico Border Until October 2027</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DroneXL</font>",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOV3UzWnJoZTZoQlhVUEM2ejZ3UmdvOVRscExfZnJTT1JJek9mRjlxQXNYZmNwZmNnYzN6NVBFc0V0OWlRbTlmY2JhbGlfUEJhWUYzZXJIRkZvczBWYVc1OFNhVjJTcjNqQ01mZjhneW9yVlQ4OE50LVdyRkRVWGNZUHJ3?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOV3UzWnJoZTZoQlhVUEM2ejZ3UmdvOVRscExfZnJTT1JJek9mRjlxQXNYZmNwZmNnYzN6NVBFc0V0OWlRbTlmY2JhbGlfUEJhWUYzZXJIRkZvczBWYVc1OFNhVjJTcjNqQ01mZjhneW9yVlQ4OE50LVdyRkRVWGNZUHJ3?oc=5",
-      "publishedAt": "2026-10-16T18:55:00.000Z",
-      "source": "DroneXL",
-      "_feedRegion": "us",
-      "_feedName": "FAA",
+      "title": "Vertical Aerospace Signs Key Supplier Deals for Valo eVTOL Ahead of Certification",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxPakkyR1g3Vi1uRGc5b3dZNGlOdkhzLUFBa0V1SmFwVlkyek80NXdxaHlqODJaWjlPOFEtb2c4VTd3NGZFRmhMVmFReHlXVmN1akh2SUVMZjMyRm1pRlJfb3NuWFlDTjQ5azdjR2dobHh0QUhNYUEzVmJOOGJUSzRWVWVKdXRqN3NmU2dDdTkxZXdRc2gtVm43MzRFZHVSZXRjMlFXYWUyeWlJdndHMUU5bHJtTDRFblhiUDh2dlRlZTNkUVFVbEdJeTExX1phVVJBWmtzRlZOdVNlVS1OejZaMHpYUElHRTQzcXJCS2Q3QmxrcGNjaThQUU5Lay0?oc=5\" target=\"_blank\">Vertical Aerospace Signs Key Supplier Deals for Valo eVTOL Ahead of Certification</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Globe and Mail</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxPakkyR1g3Vi1uRGc5b3dZNGlOdkhzLUFBa0V1SmFwVlkyek80NXdxaHlqODJaWjlPOFEtb2c4VTd3NGZFRmhMVmFReHlXVmN1akh2SUVMZjMyRm1pRlJfb3NuWFlDTjQ5azdjR2dobHh0QUhNYUEzVmJOOGJUSzRWVWVKdXRqN3NmU2dDdTkxZXdRc2gtVm43MzRFZHVSZXRjMlFXYWUyeWlJdndHMUU5bHJtTDRFblhiUDh2dlRlZTNkUVFVbEdJeTExX1phVVJBWmtzRlZOdVNlVS1OejZaMHpYUElHRTQzcXJCS2Q3QmxrcGNjaThQUU5Lay0?oc=5\" target=\"_blank\">Vertical Aerospace Signs Key Supplier Deals for Valo eVTOL Ahead of Certification</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Globe and Mail</font>",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPakkyR1g3Vi1uRGc5b3dZNGlOdkhzLUFBa0V1SmFwVlkyek80NXdxaHlqODJaWjlPOFEtb2c4VTd3NGZFRmhMVmFReHlXVmN1akh2SUVMZjMyRm1pRlJfb3NuWFlDTjQ5azdjR2dobHh0QUhNYUEzVmJOOGJUSzRWVWVKdXRqN3NmU2dDdTkxZXdRc2gtVm43MzRFZHVSZXRjMlFXYWUyeWlJdndHMUU5bHJtTDRFblhiUDh2dlRlZTNkUVFVbEdJeTExX1phVVJBWmtzRlZOdVNlVS1OejZaMHpYUElHRTQzcXJCS2Q3QmxrcGNjaThQUU5Lay0?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPakkyR1g3Vi1uRGc5b3dZNGlOdkhzLUFBa0V1SmFwVlkyek80NXdxaHlqODJaWjlPOFEtb2c4VTd3NGZFRmhMVmFReHlXVmN1akh2SUVMZjMyRm1pRlJfb3NuWFlDTjQ5azdjR2dobHh0QUhNYUEzVmJOOGJUSzRWVWVKdXRqN3NmU2dDdTkxZXdRc2gtVm43MzRFZHVSZXRjMlFXYWUyeWlJdndHMUU5bHJtTDRFblhiUDh2dlRlZTNkUVFVbEdJeTExX1phVVJBWmtzRlZOdVNlVS1OejZaMHpYUElHRTQzcXJCS2Q3QmxrcGNjaThQUU5Lay0?oc=5",
+      "publishedAt": "2026-10-17T10:50:00.000Z",
+      "source": "The Globe and Mail",
+      "_feedRegion": "eu",
+      "_feedName": "EASA",
       "_scoring": {
         "score": 57,
         "categories": [
@@ -811,218 +734,6 @@
           },
           "freshness": 5,
           "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "FAA Imposes Drone Ban Along US‑Mexico Border Amid Cartel Threats",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE0yT2J0U1AwMVB3Z3JUcDN3WmE0ZXBCQmFaNHMwNlpSVExrQjg4MmsteTg1dC10c0xKXzh1a1RXdE5TRlkwcEhNZ2FZRGR6Q2JIWS1hOW01N0QzaFBDWmpUV1h3?oc=5\" target=\"_blank\">FAA Imposes Drone Ban Along US‑Mexico Border Amid Cartel Threats</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forth.News</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE0yT2J0U1AwMVB3Z3JUcDN3WmE0ZXBCQmFaNHMwNlpSVExrQjg4MmsteTg1dC10c0xKXzh1a1RXdE5TRlkwcEhNZ2FZRGR6Q2JIWS1hOW01N0QzaFBDWmpUV1h3?oc=5\" target=\"_blank\">FAA Imposes Drone Ban Along US‑Mexico Border Amid Cartel Threats</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forth.News</font>",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0yT2J0U1AwMVB3Z3JUcDN3WmE0ZXBCQmFaNHMwNlpSVExrQjg4MmsteTg1dC10c0xKXzh1a1RXdE5TRlkwcEhNZ2FZRGR6Q2JIWS1hOW01N0QzaFBDWmpUV1h3?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0yT2J0U1AwMVB3Z3JUcDN3WmE0ZXBCQmFaNHMwNlpSVExrQjg4MmsteTg1dC10c0xKXzh1a1RXdE5TRlkwcEhNZ2FZRGR6Q2JIWS1hOW01N0QzaFBDWmpUV1h3?oc=5",
-      "publishedAt": "2026-10-16T19:05:37.000Z",
-      "source": "Forth.News",
-      "_feedRegion": "us",
-      "_feedName": "FAA",
-      "_scoring": {
-        "score": 57,
-        "categories": [
-          "規制・政策",
-          "市場・資金"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 1,
-            "catScore": 32
-          },
-          "market": {
-            "matches": 1,
-            "catScore": 20
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 5,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "FAA bars unauthorized drones along US-Mexico border, citing security concerns - Belleville News-Democrat",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFBQRmozLWJYUHpOazNMU3JuLWZMUmdaT1ZMYjI1SWpNTHBUOEw3OFJ2OUVZeDFLZTdCaU13dlVTSnYwcG96alhRQ3lyTzlXVW1GN2hCQVp6REl6cF9uM3VUMEdsQ29oZURrWS1iR29PM3plTFRseklz?oc=5\" target=\"_blank\">FAA bars unauthorized drones along US-Mexico border, citing security concerns</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Belleville News-Democrat</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFBQRmozLWJYUHpOazNMU3JuLWZMUmdaT1ZMYjI1SWpNTHBUOEw3OFJ2OUVZeDFLZTdCaU13dlVTSnYwcG96alhRQ3lyTzlXVW1GN2hCQVp6REl6cF9uM3VUMEdsQ29oZURrWS1iR29PM3plTFRseklz?oc=5\" target=\"_blank\">FAA bars unauthorized drones along US-Mexico border, citing security concerns</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Belleville News-Democrat</font>",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBQRmozLWJYUHpOazNMU3JuLWZMUmdaT1ZMYjI1SWpNTHBUOEw3OFJ2OUVZeDFLZTdCaU13dlVTSnYwcG96alhRQ3lyTzlXVW1GN2hCQVp6REl6cF9uM3VUMEdsQ29oZURrWS1iR29PM3plTFRseklz?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBQRmozLWJYUHpOazNMU3JuLWZMUmdaT1ZMYjI1SWpNTHBUOEw3OFJ2OUVZeDFLZTdCaU13dlVTSnYwcG96alhRQ3lyTzlXVW1GN2hCQVp6REl6cF9uM3VUMEdsQ29oZURrWS1iR29PM3plTFRseklz?oc=5",
-      "publishedAt": "2026-10-16T18:50:00.000Z",
-      "source": "Belleville News-Democrat",
-      "_feedRegion": "us",
-      "_feedName": "FAA",
-      "_scoring": {
-        "score": 57,
-        "categories": [
-          "規制・政策",
-          "市場・資金"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 1,
-            "catScore": 32
-          },
-          "market": {
-            "matches": 1,
-            "catScore": 20
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 5,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "FAA bars unauthorized drone flights along U.S.-Mexico border over security concerns",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNd1BYZmM0eWtCeFJVVTBFVW5lSlhfV2tTa1dqSEdzRWxMd2xDQVozN1VrdG9YWVBTNFRjMU8tLTdpQi0yN01mZnVSVExNVVRqNmdqNDdfUkNEckxocWJzaDZXV1VaMjFoc1Z6VUV3cXZudGdSMU05RUdTMnJ2V1RFQ2VmZHp1Unc?oc=5\" target=\"_blank\">FAA bars unauthorized drone flights along U.S.-Mexico border over security concerns</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mezha.net</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNd1BYZmM0eWtCeFJVVTBFVW5lSlhfV2tTa1dqSEdzRWxMd2xDQVozN1VrdG9YWVBTNFRjMU8tLTdpQi0yN01mZnVSVExNVVRqNmdqNDdfUkNEckxocWJzaDZXV1VaMjFoc1Z6VUV3cXZudGdSMU05RUdTMnJ2V1RFQ2VmZHp1Unc?oc=5\" target=\"_blank\">FAA bars unauthorized drone flights along U.S.-Mexico border over security concerns</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mezha.net</font>",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNd1BYZmM0eWtCeFJVVTBFVW5lSlhfV2tTa1dqSEdzRWxMd2xDQVozN1VrdG9YWVBTNFRjMU8tLTdpQi0yN01mZnVSVExNVVRqNmdqNDdfUkNEckxocWJzaDZXV1VaMjFoc1Z6VUV3cXZudGdSMU05RUdTMnJ2V1RFQ2VmZHp1Unc?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNd1BYZmM0eWtCeFJVVTBFVW5lSlhfV2tTa1dqSEdzRWxMd2xDQVozN1VrdG9YWVBTNFRjMU8tLTdpQi0yN01mZnVSVExNVVRqNmdqNDdfUkNEckxocWJzaDZXV1VaMjFoc1Z6VUV3cXZudGdSMU05RUdTMnJ2V1RFQ2VmZHp1Unc?oc=5",
-      "publishedAt": "2026-10-16T20:13:23.000Z",
-      "source": "Mezha.net",
-      "_feedRegion": "us",
-      "_feedName": "FAA",
-      "_scoring": {
-        "score": 57,
-        "categories": [
-          "規制・政策",
-          "市場・資金"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 1,
-            "catScore": 32
-          },
-          "market": {
-            "matches": 1,
-            "catScore": 20
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 5,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "FAA Bars Unauthorized Drones Along US-Mexico Border Over Security Concerns",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPVFpKd0t6V3U3dWJGcjNaelYtUG1wLVp3dXBmS3FrMXNfb2JQYWxjZmstdmNDeHF6NWNBb1lYNDc5aV9CTkxpX0JzOG1COVMwNTlmUmQwV0FBSmlqUmpfbVlkT21JZ3g2U3lJZkppbjNtVHNEUlp2R1FSb0xuS2k2Zk5zT3E0MlROTHNvQ2NFeVRHTXJhNEFPdzBUVE9tdmJfSkNsMlU2bEgtSmlnSFRjUDVYWGZwdw?oc=5\" target=\"_blank\">FAA Bars Unauthorized Drones Along US-Mexico Border Over Security Concerns</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">cedarnews.net</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPVFpKd0t6V3U3dWJGcjNaelYtUG1wLVp3dXBmS3FrMXNfb2JQYWxjZmstdmNDeHF6NWNBb1lYNDc5aV9CTkxpX0JzOG1COVMwNTlmUmQwV0FBSmlqUmpfbVlkT21JZ3g2U3lJZkppbjNtVHNEUlp2R1FSb0xuS2k2Zk5zT3E0MlROTHNvQ2NFeVRHTXJhNEFPdzBUVE9tdmJfSkNsMlU2bEgtSmlnSFRjUDVYWGZwdw?oc=5\" target=\"_blank\">FAA Bars Unauthorized Drones Along US-Mexico Border Over Security Concerns</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">cedarnews.net</font>",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVFpKd0t6V3U3dWJGcjNaelYtUG1wLVp3dXBmS3FrMXNfb2JQYWxjZmstdmNDeHF6NWNBb1lYNDc5aV9CTkxpX0JzOG1COVMwNTlmUmQwV0FBSmlqUmpfbVlkT21JZ3g2U3lJZkppbjNtVHNEUlp2R1FSb0xuS2k2Zk5zT3E0MlROTHNvQ2NFeVRHTXJhNEFPdzBUVE9tdmJfSkNsMlU2bEgtSmlnSFRjUDVYWGZwdw?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVFpKd0t6V3U3dWJGcjNaelYtUG1wLVp3dXBmS3FrMXNfb2JQYWxjZmstdmNDeHF6NWNBb1lYNDc5aV9CTkxpX0JzOG1COVMwNTlmUmQwV0FBSmlqUmpfbVlkT21JZ3g2U3lJZkppbjNtVHNEUlp2R1FSb0xuS2k2Zk5zT3E0MlROTHNvQ2NFeVRHTXJhNEFPdzBUVE9tdmJfSkNsMlU2bEgtSmlnSFRjUDVYWGZwdw?oc=5",
-      "publishedAt": "2026-10-16T18:38:19.000Z",
-      "source": "cedarnews.net",
-      "_feedRegion": "us",
-      "_feedName": "FAA",
-      "_scoring": {
-        "score": 57,
-        "categories": [
-          "規制・政策",
-          "市場・資金"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 1,
-            "catScore": 32
-          },
-          "market": {
-            "matches": 1,
-            "catScore": 20
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 5,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "Electric Aircraft Onboard Sensors Market To 2035: Evtol Certification Wave Drives Demand - News and Statistics",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxOQzVvQnNNdEp1cEpIMWRGc0dBMjdFcXlOMlhFaFItOERxUTVCa1VSc2hJOWpZMmZCUThlMmZaN1pSQjZaaFp3Z0RnZFQzbDZMOFJ2S1M2bEJxV241UzFWbmFSWkMySjNlWGN6S1JwcE5IZlhuckl6d0JZejhoOEtpQ256QzNZb2Ywc01Qek1PQi1FdjM3Q3h5N0JhbU5VWlJXQVFFYUZJNHZrZnQ1cmFFZWZLOHJ6X3F4TDQ4RF9vWUFHaXZnTkgta3ZheXNVcjQ?oc=5\" target=\"_blank\">Electric Aircraft Onboard Sensors Market To 2035: Evtol Certification Wave Drives Demand - News and Statistics</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IndexBox</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxOQzVvQnNNdEp1cEpIMWRGc0dBMjdFcXlOMlhFaFItOERxUTVCa1VSc2hJOWpZMmZCUThlMmZaN1pSQjZaaFp3Z0RnZFQzbDZMOFJ2S1M2bEJxV241UzFWbmFSWkMySjNlWGN6S1JwcE5IZlhuckl6d0JZejhoOEtpQ256QzNZb2Ywc01Qek1PQi1FdjM3Q3h5N0JhbU5VWlJXQVFFYUZJNHZrZnQ1cmFFZWZLOHJ6X3F4TDQ4RF9vWUFHaXZnTkgta3ZheXNVcjQ?oc=5\" target=\"_blank\">Electric Aircraft Onboard Sensors Market To 2035: Evtol Certification Wave Drives Demand - News and Statistics</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IndexBox</font>",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOQzVvQnNNdEp1cEpIMWRGc0dBMjdFcXlOMlhFaFItOERxUTVCa1VSc2hJOWpZMmZCUThlMmZaN1pSQjZaaFp3Z0RnZFQzbDZMOFJ2S1M2bEJxV241UzFWbmFSWkMySjNlWGN6S1JwcE5IZlhuckl6d0JZejhoOEtpQ256QzNZb2Ywc01Qek1PQi1FdjM3Q3h5N0JhbU5VWlJXQVFFYUZJNHZrZnQ1cmFFZWZLOHJ6X3F4TDQ4RF9vWUFHaXZnTkgta3ZheXNVcjQ?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOQzVvQnNNdEp1cEpIMWRGc0dBMjdFcXlOMlhFaFItOERxUTVCa1VSc2hJOWpZMmZCUThlMmZaN1pSQjZaaFp3Z0RnZFQzbDZMOFJ2S1M2bEJxV241UzFWbmFSWkMySjNlWGN6S1JwcE5IZlhuckl6d0JZejhoOEtpQ256QzNZb2Ywc01Qek1PQi1FdjM3Q3h5N0JhbU5VWlJXQVFFYUZJNHZrZnQ1cmFFZWZLOHJ6X3F4TDQ4RF9vWUFHaXZnTkgta3ZheXNVcjQ?oc=5",
-      "publishedAt": "2026-10-15T19:26:03.000Z",
-      "source": "IndexBox",
-      "_feedRegion": "global",
-      "_feedName": "Google News (Global)",
-      "_scoring": {
-        "score": 57,
-        "categories": [
-          "規制・政策",
-          "技術・製品"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 1,
-            "catScore": 32
-          },
-          "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 2,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "海岸の漂着ごみをドローンで搬出 山形・遊佐町で実証調査",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Fb01CaEpVYlQxbmxhNFFhMGxrVVNZbWlqZEJyRVZLaVFpUmlNcE44UW96ajVBeEd0WXhoTnFxeklDUnZWbHB1LWZ6THlvVUxybjhNWWZxeG9OeDQ?oc=5\" target=\"_blank\">海岸の漂着ごみをドローンで搬出 山形・遊佐町で実証調査</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">河北新報オンライン</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Fb01CaEpVYlQxbmxhNFFhMGxrVVNZbWlqZEJyRVZLaVFpUmlNcE44UW96ajVBeEd0WXhoTnFxeklDUnZWbHB1LWZ6THlvVUxybjhNWWZxeG9OeDQ?oc=5\" target=\"_blank\">海岸の漂着ごみをドローンで搬出 山形・遊佐町で実証調査</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">河北新報オンライン</font>",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Fb01CaEpVYlQxbmxhNFFhMGxrVVNZbWlqZEJyRVZLaVFpUmlNcE44UW96ajVBeEd0WXhoTnFxeklDUnZWbHB1LWZ6THlvVUxybjhNWWZxeG9OeDQ?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Fb01CaEpVYlQxbmxhNFFhMGxrVVNZbWlqZEJyRVZLaVFpUmlNcE44UW96ajVBeEd0WXhoTnFxeklDUnZWbHB1LWZ6THlvVUxybjhNWWZxeG9OeDQ?oc=5",
-      "publishedAt": "2026-10-17T20:00:00.000Z",
-      "source": "河北新報オンライン",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP 政策/実証)",
-      "_scoring": {
-        "score": 57,
-        "categories": [
-          "事故・事件"
-        ],
-        "breakdown": {
-          "required": true,
-          "incident": {
-            "matches": 1,
-            "catScore": 28
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 10,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
         },
         "pass": true
       }
@@ -1086,6 +797,294 @@
             "catScore": 32
           },
           "policy": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 0,
+          "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "nuWay Ag's Yoder Takes FAA Drone Suspension Over Deer and Sled Lifts",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQUm8wNTZpMl9acHdqRWxVLU85ZWtYSURCUERZWlRCTzBsN2dJMUUtM3lyRDZVVUNTYnFoVVFYdUVkS2dKZjBKanAzcGJBRWFQSXFRbnJyVGNiQy1naUhDa1RvaWNsUHA2RHB1c2gzRWpoUmxsUlBIa0E0YzRvZXE5YnlCN0w?oc=5\" target=\"_blank\">nuWay Ag's Yoder Takes FAA Drone Suspension Over Deer and Sled Lifts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DroneXL</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQUm8wNTZpMl9acHdqRWxVLU85ZWtYSURCUERZWlRCTzBsN2dJMUUtM3lyRDZVVUNTYnFoVVFYdUVkS2dKZjBKanAzcGJBRWFQSXFRbnJyVGNiQy1naUhDa1RvaWNsUHA2RHB1c2gzRWpoUmxsUlBIa0E0YzRvZXE5YnlCN0w?oc=5\" target=\"_blank\">nuWay Ag's Yoder Takes FAA Drone Suspension Over Deer and Sled Lifts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DroneXL</font>",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUm8wNTZpMl9acHdqRWxVLU85ZWtYSURCUERZWlRCTzBsN2dJMUUtM3lyRDZVVUNTYnFoVVFYdUVkS2dKZjBKanAzcGJBRWFQSXFRbnJyVGNiQy1naUhDa1RvaWNsUHA2RHB1c2gzRWpoUmxsUlBIa0E0YzRvZXE5YnlCN0w?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUm8wNTZpMl9acHdqRWxVLU85ZWtYSURCUERZWlRCTzBsN2dJMUUtM3lyRDZVVUNTYnFoVVFYdUVkS2dKZjBKanAzcGJBRWFQSXFRbnJyVGNiQy1naUhDa1RvaWNsUHA2RHB1c2gzRWpoUmxsUlBIa0E0YzRvZXE5YnlCN0w?oc=5",
+      "publishedAt": "2026-10-15T20:16:00.000Z",
+      "source": "DroneXL",
+      "_feedRegion": "us",
+      "_feedName": "FAA",
+      "_scoring": {
+        "score": 55,
+        "categories": [
+          "規制・政策",
+          "技術・製品"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 0,
+          "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "Police drones near airports can now get faster FAA clearance",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE5jbG9aTU9nVEdET0l0MmRJZXRnMHcwamRTdU0tRkJNWW1QQ1c1cXdnMWg1VmZQYVJnakt5cG1JX25SMHZRYzc1STFGb1hzVWJ2Tkd6eWVZcWFZRlhzZXFZYWRIQ0k4V1MyUzVvcDNmc19RRk1GSDVB?oc=5\" target=\"_blank\">Police drones near airports can now get faster FAA clearance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DroneDJ</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE5jbG9aTU9nVEdET0l0MmRJZXRnMHcwamRTdU0tRkJNWW1QQ1c1cXdnMWg1VmZQYVJnakt5cG1JX25SMHZRYzc1STFGb1hzVWJ2Tkd6eWVZcWFZRlhzZXFZYWRIQ0k4V1MyUzVvcDNmc19RRk1GSDVB?oc=5\" target=\"_blank\">Police drones near airports can now get faster FAA clearance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DroneDJ</font>",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5jbG9aTU9nVEdET0l0MmRJZXRnMHcwamRTdU0tRkJNWW1QQ1c1cXdnMWg1VmZQYVJnakt5cG1JX25SMHZRYzc1STFGb1hzVWJ2Tkd6eWVZcWFZRlhzZXFZYWRIQ0k4V1MyUzVvcDNmc19RRk1GSDVB?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5jbG9aTU9nVEdET0l0MmRJZXRnMHcwamRTdU0tRkJNWW1QQ1c1cXdnMWg1VmZQYVJnakt5cG1JX25SMHZRYzc1STFGb1hzVWJ2Tkd6eWVZcWFZRlhzZXFZYWRIQ0k4V1MyUzVvcDNmc19RRk1GSDVB?oc=5",
+      "publishedAt": "2026-10-10T07:53:00.000Z",
+      "source": "DroneDJ",
+      "_feedRegion": "us",
+      "_feedName": "FAA",
+      "_scoring": {
+        "score": 55,
+        "categories": [
+          "規制・政策",
+          "政策・インフラ"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
+          "policy": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 0,
+          "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "Lawmakers Demand FAA Review of Amazon ($AMZN) Drone Delivery Hub",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQYzZkcXhvZGdFT2FnN1BoYS02aVdtNU1kOWFoaDk4Vl92YmdjLUkyc1E4Zi1HdG9WejlIZUNZTklUQi1MZ1FUeDgxNm5pWFp3b05fTXpEN29EOEdwZzUyb1Z5Q1lIN21ZMmFrdkxmdWpoeUVMLUs2TXdxYmdKaHZDbmRyMThPckxXbXUzOEt4UG9FSUVwai1adkM2b1FlYmd5Y3lQTkFn?oc=5\" target=\"_blank\">Lawmakers Demand FAA Review of Amazon ($AMZN) Drone Delivery Hub</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quiver Quantitative</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQYzZkcXhvZGdFT2FnN1BoYS02aVdtNU1kOWFoaDk4Vl92YmdjLUkyc1E4Zi1HdG9WejlIZUNZTklUQi1MZ1FUeDgxNm5pWFp3b05fTXpEN29EOEdwZzUyb1Z5Q1lIN21ZMmFrdkxmdWpoeUVMLUs2TXdxYmdKaHZDbmRyMThPckxXbXUzOEt4UG9FSUVwai1adkM2b1FlYmd5Y3lQTkFn?oc=5\" target=\"_blank\">Lawmakers Demand FAA Review of Amazon ($AMZN) Drone Delivery Hub</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quiver Quantitative</font>",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYzZkcXhvZGdFT2FnN1BoYS02aVdtNU1kOWFoaDk4Vl92YmdjLUkyc1E4Zi1HdG9WejlIZUNZTklUQi1MZ1FUeDgxNm5pWFp3b05fTXpEN29EOEdwZzUyb1Z5Q1lIN21ZMmFrdkxmdWpoeUVMLUs2TXdxYmdKaHZDbmRyMThPckxXbXUzOEt4UG9FSUVwai1adkM2b1FlYmd5Y3lQTkFn?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYzZkcXhvZGdFT2FnN1BoYS02aVdtNU1kOWFoaDk4Vl92YmdjLUkyc1E4Zi1HdG9WejlIZUNZTklUQi1MZ1FUeDgxNm5pWFp3b05fTXpEN29EOEdwZzUyb1Z5Q1lIN21ZMmFrdkxmdWpoeUVMLUs2TXdxYmdKaHZDbmRyMThPckxXbXUzOEt4UG9FSUVwai1adkM2b1FlYmd5Y3lQTkFn?oc=5",
+      "publishedAt": "2026-10-14T17:19:00.000Z",
+      "source": "Quiver Quantitative",
+      "_feedRegion": "us",
+      "_feedName": "FAA",
+      "_scoring": {
+        "score": 55,
+        "categories": [
+          "規制・政策",
+          "政策・インフラ"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
+          "policy": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 0,
+          "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "Federal officials request Amazon, FAA reconsider drone delivery",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPZHZfTlBTYjhpVkVCOHpqdVBsMUx1T3dZUE5pNWdxUzk0VjA3dHZoU3ZhTmkwM3A5SXpxVUxVR0Q5NTZTTHF3MUFOTWo0M1JsNUxyVVBlV19SeEE5U0ZseFhyUmtkQ3paYmw3TmlOdHJISVoxcVE5MVBSTERoRnl2QlRRZlp6RXJSc2lWY2tfT210Mmg2?oc=5\" target=\"_blank\">Federal officials request Amazon, FAA reconsider drone delivery</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPZHZfTlBTYjhpVkVCOHpqdVBsMUx1T3dZUE5pNWdxUzk0VjA3dHZoU3ZhTmkwM3A5SXpxVUxVR0Q5NTZTTHF3MUFOTWo0M1JsNUxyVVBlV19SeEE5U0ZseFhyUmtkQ3paYmw3TmlOdHJISVoxcVE5MVBSTERoRnl2QlRRZlp6RXJSc2lWY2tfT210Mmg2?oc=5\" target=\"_blank\">Federal officials request Amazon, FAA reconsider drone delivery</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZHZfTlBTYjhpVkVCOHpqdVBsMUx1T3dZUE5pNWdxUzk0VjA3dHZoU3ZhTmkwM3A5SXpxVUxVR0Q5NTZTTHF3MUFOTWo0M1JsNUxyVVBlV19SeEE5U0ZseFhyUmtkQ3paYmw3TmlOdHJISVoxcVE5MVBSTERoRnl2QlRRZlp6RXJSc2lWY2tfT210Mmg2?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZHZfTlBTYjhpVkVCOHpqdVBsMUx1T3dZUE5pNWdxUzk0VjA3dHZoU3ZhTmkwM3A5SXpxVUxVR0Q5NTZTTHF3MUFOTWo0M1JsNUxyVVBlV19SeEE5U0ZseFhyUmtkQ3paYmw3TmlOdHJISVoxcVE5MVBSTERoRnl2QlRRZlp6RXJSc2lWY2tfT210Mmg2?oc=5",
+      "publishedAt": "2026-10-14T09:07:56.000Z",
+      "source": "Yahoo",
+      "_feedRegion": "us",
+      "_feedName": "FAA",
+      "_scoring": {
+        "score": 55,
+        "categories": [
+          "規制・政策",
+          "政策・インフラ"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
+          "policy": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 0,
+          "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "DroneClear Launches ChatGPT App to Help Travelers Navigate Thailand’s Drone Rules",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE4yOFluQnJBVVdzQkdZeERMbWF2REpFX2xHd3pESEdPd1RFa1lNaDc5c1R1cERtT0tHelRCaG9sLVRLOUxYSkVTVlZ3SXA2M3F2ZGZBYjZBQ2VRdW1jNWVWVW5nb1k5NFVnSENkUk1nS1ZFMnFJcDdRUmQzSmw?oc=5\" target=\"_blank\">DroneClear Launches ChatGPT App to Help Travelers Navigate Thailand’s Drone Rules</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dronelife</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE4yOFluQnJBVVdzQkdZeERMbWF2REpFX2xHd3pESEdPd1RFa1lNaDc5c1R1cERtT0tHelRCaG9sLVRLOUxYSkVTVlZ3SXA2M3F2ZGZBYjZBQ2VRdW1jNWVWVW5nb1k5NFVnSENkUk1nS1ZFMnFJcDdRUmQzSmw?oc=5\" target=\"_blank\">DroneClear Launches ChatGPT App to Help Travelers Navigate Thailand’s Drone Rules</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dronelife</font>",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4yOFluQnJBVVdzQkdZeERMbWF2REpFX2xHd3pESEdPd1RFa1lNaDc5c1R1cERtT0tHelRCaG9sLVRLOUxYSkVTVlZ3SXA2M3F2ZGZBYjZBQ2VRdW1jNWVWVW5nb1k5NFVnSENkUk1nS1ZFMnFJcDdRUmQzSmw?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4yOFluQnJBVVdzQkdZeERMbWF2REpFX2xHd3pESEdPd1RFa1lNaDc5c1R1cERtT0tHelRCaG9sLVRLOUxYSkVTVlZ3SXA2M3F2ZGZBYjZBQ2VRdW1jNWVWVW5nb1k5NFVnSENkUk1nS1ZFMnFJcDdRUmQzSmw?oc=5",
+      "publishedAt": "2026-10-09T15:43:56.000Z",
+      "source": "Dronelife",
+      "_feedRegion": "eu",
+      "_feedName": "EASA",
+      "_scoring": {
+        "score": 55,
+        "categories": [
+          "規制・政策",
+          "技術・製品"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 0,
+          "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "Automated BVLOS Drone Surveys Take on Major Infrastructure Project in Australia",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE53cnR3UkhnUnRobjBwczlkZWhkaVhVWm9yV0lzMFRQSHVMX2xnWHVMNkpuWDY1YktmaFRrT1BMN1NpandEWjRzb002ek1QWGQ4Q1VjOUFJQXJ2Mmc1NHR4VGF6QVZuUUUwS1hZb1ZhU190dUUwNHMyT3AzSkM3Zw?oc=5\" target=\"_blank\">Automated BVLOS Drone Surveys Take on Major Infrastructure Project in Australia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dronelife</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE53cnR3UkhnUnRobjBwczlkZWhkaVhVWm9yV0lzMFRQSHVMX2xnWHVMNkpuWDY1YktmaFRrT1BMN1NpandEWjRzb002ek1QWGQ4Q1VjOUFJQXJ2Mmc1NHR4VGF6QVZuUUUwS1hZb1ZhU190dUUwNHMyT3AzSkM3Zw?oc=5\" target=\"_blank\">Automated BVLOS Drone Surveys Take on Major Infrastructure Project in Australia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dronelife</font>",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE53cnR3UkhnUnRobjBwczlkZWhkaVhVWm9yV0lzMFRQSHVMX2xnWHVMNkpuWDY1YktmaFRrT1BMN1NpandEWjRzb002ek1QWGQ4Q1VjOUFJQXJ2Mmc1NHR4VGF6QVZuUUUwS1hZb1ZhU190dUUwNHMyT3AzSkM3Zw?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTE53cnR3UkhnUnRobjBwczlkZWhkaVhVWm9yV0lzMFRQSHVMX2xnWHVMNkpuWDY1YktmaFRrT1BMN1NpandEWjRzb002ek1QWGQ4Q1VjOUFJQXJ2Mmc1NHR4VGF6QVZuUUUwS1hZb1ZhU190dUUwNHMyT3AzSkM3Zw?oc=5",
+      "publishedAt": "2026-10-15T15:13:47.000Z",
+      "source": "Dronelife",
+      "_feedRegion": "global",
+      "_feedName": "Google News (Global)",
+      "_scoring": {
+        "score": 55,
+        "categories": [
+          "規制・政策",
+          "政策・インフラ"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
+          "policy": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 0,
+          "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "Skyports Drone Services supports one of Australia’s largest transmission projects, HumeLink West, with automated BVLOS “drone-in-a-box” surveying",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxQdUdDZnJlMlRkNXU5cUI2RzFGajhuSmU0OWx4UHBZblkxTm9tVkNOdXhESnY5dzFaSTNsWi1PYnZ5VnZtQlprNTdEckwxRk0taFpyXzJXcy01Y0dYU3pkSUFIUDdXYkxhb3NwcHhHeW5GbmFnV29wMnM5djlTSnJpV3dPLUg4Wnk1Qk45YXNOQ25hNHpXNHJHZGVRUU1TTHg3T1FQWmxoSzlIdmFIZ2NDeHNaSWR6aFFsTktLVGx2ZE1ONlRYOExMZk15LUsxbjRoeGFZeEpqdnlrVGdoSGpwUEFVTkVsQnVqZ201QzFETVh0ZVBrSUkwWjBEMno?oc=5\" target=\"_blank\">Skyports Drone Services supports one of Australia’s largest transmission projects, HumeLink West, with automated BVLOS “drone-in-a-box” surveying</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AUVSI</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxQdUdDZnJlMlRkNXU5cUI2RzFGajhuSmU0OWx4UHBZblkxTm9tVkNOdXhESnY5dzFaSTNsWi1PYnZ5VnZtQlprNTdEckwxRk0taFpyXzJXcy01Y0dYU3pkSUFIUDdXYkxhb3NwcHhHeW5GbmFnV29wMnM5djlTSnJpV3dPLUg4Wnk1Qk45YXNOQ25hNHpXNHJHZGVRUU1TTHg3T1FQWmxoSzlIdmFIZ2NDeHNaSWR6aFFsTktLVGx2ZE1ONlRYOExMZk15LUsxbjRoeGFZeEpqdnlrVGdoSGpwUEFVTkVsQnVqZ201QzFETVh0ZVBrSUkwWjBEMno?oc=5\" target=\"_blank\">Skyports Drone Services supports one of Australia’s largest transmission projects, HumeLink West, with automated BVLOS “drone-in-a-box” surveying</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AUVSI</font>",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQdUdDZnJlMlRkNXU5cUI2RzFGajhuSmU0OWx4UHBZblkxTm9tVkNOdXhESnY5dzFaSTNsWi1PYnZ5VnZtQlprNTdEckwxRk0taFpyXzJXcy01Y0dYU3pkSUFIUDdXYkxhb3NwcHhHeW5GbmFnV29wMnM5djlTSnJpV3dPLUg4Wnk1Qk45YXNOQ25hNHpXNHJHZGVRUU1TTHg3T1FQWmxoSzlIdmFIZ2NDeHNaSWR6aFFsTktLVGx2ZE1ONlRYOExMZk15LUsxbjRoeGFZeEpqdnlrVGdoSGpwUEFVTkVsQnVqZ201QzFETVh0ZVBrSUkwWjBEMno?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQdUdDZnJlMlRkNXU5cUI2RzFGajhuSmU0OWx4UHBZblkxTm9tVkNOdXhESnY5dzFaSTNsWi1PYnZ5VnZtQlprNTdEckwxRk0taFpyXzJXcy01Y0dYU3pkSUFIUDdXYkxhb3NwcHhHeW5GbmFnV29wMnM5djlTSnJpV3dPLUg4Wnk1Qk45YXNOQ25hNHpXNHJHZGVRUU1TTHg3T1FQWmxoSzlIdmFIZ2NDeHNaSWR6aFFsTktLVGx2ZE1ONlRYOExMZk15LUsxbjRoeGFZeEpqdnlrVGdoSGpwUEFVTkVsQnVqZ201QzFETVh0ZVBrSUkwWjBEMno?oc=5",
+      "publishedAt": "2026-10-13T07:00:00.000Z",
+      "source": "AUVSI",
+      "_feedRegion": "global",
+      "_feedName": "Google News (Global)",
+      "_scoring": {
+        "score": 55,
+        "categories": [
+          "規制・政策",
+          "政策・インフラ"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
+          "policy": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 0,
+          "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "Electric Aircraft Onboard Sensors Market To 2035: Evtol Certification Wave Drives Demand - News and Statistics",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxOQzVvQnNNdEp1cEpIMWRGc0dBMjdFcXlOMlhFaFItOERxUTVCa1VSc2hJOWpZMmZCUThlMmZaN1pSQjZaaFp3Z0RnZFQzbDZMOFJ2S1M2bEJxV241UzFWbmFSWkMySjNlWGN6S1JwcE5IZlhuckl6d0JZejhoOEtpQ256QzNZb2Ywc01Qek1PQi1FdjM3Q3h5N0JhbU5VWlJXQVFFYUZJNHZrZnQ1cmFFZWZLOHJ6X3F4TDQ4RF9vWUFHaXZnTkgta3ZheXNVcjQ?oc=5\" target=\"_blank\">Electric Aircraft Onboard Sensors Market To 2035: Evtol Certification Wave Drives Demand - News and Statistics</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IndexBox</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxOQzVvQnNNdEp1cEpIMWRGc0dBMjdFcXlOMlhFaFItOERxUTVCa1VSc2hJOWpZMmZCUThlMmZaN1pSQjZaaFp3Z0RnZFQzbDZMOFJ2S1M2bEJxV241UzFWbmFSWkMySjNlWGN6S1JwcE5IZlhuckl6d0JZejhoOEtpQ256QzNZb2Ywc01Qek1PQi1FdjM3Q3h5N0JhbU5VWlJXQVFFYUZJNHZrZnQ1cmFFZWZLOHJ6X3F4TDQ4RF9vWUFHaXZnTkgta3ZheXNVcjQ?oc=5\" target=\"_blank\">Electric Aircraft Onboard Sensors Market To 2035: Evtol Certification Wave Drives Demand - News and Statistics</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IndexBox</font>",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOQzVvQnNNdEp1cEpIMWRGc0dBMjdFcXlOMlhFaFItOERxUTVCa1VSc2hJOWpZMmZCUThlMmZaN1pSQjZaaFp3Z0RnZFQzbDZMOFJ2S1M2bEJxV241UzFWbmFSWkMySjNlWGN6S1JwcE5IZlhuckl6d0JZejhoOEtpQ256QzNZb2Ywc01Qek1PQi1FdjM3Q3h5N0JhbU5VWlJXQVFFYUZJNHZrZnQ1cmFFZWZLOHJ6X3F4TDQ4RF9vWUFHaXZnTkgta3ZheXNVcjQ?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOQzVvQnNNdEp1cEpIMWRGc0dBMjdFcXlOMlhFaFItOERxUTVCa1VSc2hJOWpZMmZCUThlMmZaN1pSQjZaaFp3Z0RnZFQzbDZMOFJ2S1M2bEJxV241UzFWbmFSWkMySjNlWGN6S1JwcE5IZlhuckl6d0JZejhoOEtpQ256QzNZb2Ywc01Qek1PQi1FdjM3Q3h5N0JhbU5VWlJXQVFFYUZJNHZrZnQ1cmFFZWZLOHJ6X3F4TDQ4RF9vWUFHaXZnTkgta3ZheXNVcjQ?oc=5",
+      "publishedAt": "2026-10-15T19:26:03.000Z",
+      "source": "IndexBox",
+      "_feedRegion": "global",
+      "_feedName": "Google News (Global)",
+      "_scoring": {
+        "score": 55,
+        "categories": [
+          "規制・政策",
+          "技術・製品"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
+          "technology": {
             "matches": 1,
             "catScore": 24
           },
