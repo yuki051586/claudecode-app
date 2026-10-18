@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-18T05:35:32.654Z",
-  "rawCount": 699,
+  "generatedAt": "2026-10-18T10:41:55.486Z",
+  "rawCount": 703,
   "articles": [
     {
       "title": "Advanced Helicopter UAS for Industrial & Public Safety Applications",
@@ -80,6 +80,75 @@
           },
           "freshness": 0,
           "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "規制の十勝岳 ドローン計測 北大が実証実験",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VRGp4OEtjNGxFYTVhUUcyaDhlTG0xdDlQRGlKcGZpYnVNTWpFamxQMW9KZm0wVU1EQVlNYWxSU0JuT0xtYnJ5cnVlZDNNdTI1ZTFENzI1WVZLdw?oc=5\" target=\"_blank\">規制の十勝岳 ドローン計測 北大が実証実験</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">北海道新聞デジタル</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VRGp4OEtjNGxFYTVhUUcyaDhlTG0xdDlQRGlKcGZpYnVNTWpFamxQMW9KZm0wVU1EQVlNYWxSU0JuT0xtYnJ5cnVlZDNNdTI1ZTFENzI1WVZLdw?oc=5\" target=\"_blank\">規制の十勝岳 ドローン計測 北大が実証実験</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">北海道新聞デジタル</font>",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VRGp4OEtjNGxFYTVhUUcyaDhlTG0xdDlQRGlKcGZpYnVNTWpFamxQMW9KZm0wVU1EQVlNYWxSU0JuT0xtYnJ5cnVlZDNNdTI1ZTFENzI1WVZLdw?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VRGp4OEtjNGxFYTVhUUcyaDhlTG0xdDlQRGlKcGZpYnVNTWpFamxQMW9KZm0wVU1EQVlNYWxSU0JuT0xtYnJ5cnVlZDNNdTI1ZTFENzI1WVZLdw?oc=5",
+      "publishedAt": "2026-09-26T07:00:00.000Z",
+      "source": "北海道新聞デジタル",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP 政策/実証)",
+      "_scoring": {
+        "score": 70,
+        "categories": [
+          "規制・政策",
+          "技術・製品"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 0,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "熊本地震の「地表地震断層」を専門家がドローンなどで調査",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE9JZlZXYUNnNTJ2NmlXN2U5c3dscXRvTGQ0Z1V0MDM4SWY0ZkJ1ZGxPREJTVjlSQXhzdWdVcG9rUTZEYW5BbmFsS21jYXFsd19seHNHSm5rTXBUMXJyX1dB?oc=5\" target=\"_blank\">熊本地震の「地表地震断層」を専門家がドローンなどで調査</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NHKニュース</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE9JZlZXYUNnNTJ2NmlXN2U5c3dscXRvTGQ0Z1V0MDM4SWY0ZkJ1ZGxPREJTVjlSQXhzdWdVcG9rUTZEYW5BbmFsS21jYXFsd19seHNHSm5rTXBUMXJyX1dB?oc=5\" target=\"_blank\">熊本地震の「地表地震断層」を専門家がドローンなどで調査</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NHKニュース</font>",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9JZlZXYUNnNTJ2NmlXN2U5c3dscXRvTGQ0Z1V0MDM4SWY0ZkJ1ZGxPREJTVjlSQXhzdWdVcG9rUTZEYW5BbmFsS21jYXFsd19seHNHSm5rTXBUMXJyX1dB?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9JZlZXYUNnNTJ2NmlXN2U5c3dscXRvTGQ0Z1V0MDM4SWY0ZkJ1ZGxPREJTVjlSQXhzdWdVcG9rUTZEYW5BbmFsS21jYXFsd19seHNHSm5rTXBUMXJyX1dB?oc=5",
+      "publishedAt": "2026-10-18T09:25:56.000Z",
+      "source": "NHKニュース",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP)",
+      "_scoring": {
+        "score": 67,
+        "categories": [
+          "事故・事件"
+        ],
+        "breakdown": {
+          "required": true,
+          "incident": {
+            "matches": 1,
+            "catScore": 28
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 20,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
         },
         "pass": true
       }
@@ -235,116 +304,6 @@
       }
     },
     {
-      "title": "ロシアの高速ドローン急増に対抗…ウクライナと西側諸国、「次世代迎撃ドローン」開発を加速",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQdnEyTGF1T3ZibFdVYzN6cDM1OUtrb2paZ0YyWF9qQmo3ZnMzNG9scFVFRXliaGZlVjF6OWV0RW54MkdXd0dDRlFGODgwVG9GU2d2UkNWMnp0c0JZVVRXVUh4N0xOcnJ5SkxLQ3drN0hadGxfRkRaRC1YeG1yVlJTYVM4UjM5cXNJZVVDODMxVl9ZWThUSC1taW9pSjlBSXI4VWRNSzMyV1I1LVNLMEtHWkg5SVA?oc=5\" target=\"_blank\">ロシアの高速ドローン急増に対抗…ウクライナと西側諸国、「次世代迎撃ドローン」開発を加速</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider Japan</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQdnEyTGF1T3ZibFdVYzN6cDM1OUtrb2paZ0YyWF9qQmo3ZnMzNG9scFVFRXliaGZlVjF6OWV0RW54MkdXd0dDRlFGODgwVG9GU2d2UkNWMnp0c0JZVVRXVUh4N0xOcnJ5SkxLQ3drN0hadGxfRkRaRC1YeG1yVlJTYVM4UjM5cXNJZVVDODMxVl9ZWThUSC1taW9pSjlBSXI4VWRNSzMyV1I1LVNLMEtHWkg5SVA?oc=5\" target=\"_blank\">ロシアの高速ドローン急増に対抗…ウクライナと西側諸国、「次世代迎撃ドローン」開発を加速</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider Japan</font>",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdnEyTGF1T3ZibFdVYzN6cDM1OUtrb2paZ0YyWF9qQmo3ZnMzNG9scFVFRXliaGZlVjF6OWV0RW54MkdXd0dDRlFGODgwVG9GU2d2UkNWMnp0c0JZVVRXVUh4N0xOcnJ5SkxLQ3drN0hadGxfRkRaRC1YeG1yVlJTYVM4UjM5cXNJZVVDODMxVl9ZWThUSC1taW9pSjlBSXI4VWRNSzMyV1I1LVNLMEtHWkg5SVA?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdnEyTGF1T3ZibFdVYzN6cDM1OUtrb2paZ0YyWF9qQmo3ZnMzNG9scFVFRXliaGZlVjF6OWV0RW54MkdXd0dDRlFGODgwVG9GU2d2UkNWMnp0c0JZVVRXVUh4N0xOcnJ5SkxLQ3drN0hadGxfRkRaRC1YeG1yVlJTYVM4UjM5cXNJZVVDODMxVl9ZWThUSC1taW9pSjlBSXI4VWRNSzMyV1I1LVNLMEtHWkg5SVA?oc=5",
-      "publishedAt": "2026-10-15T10:00:00.000Z",
-      "source": "Business Insider Japan",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP)",
-      "_scoring": {
-        "score": 65,
-        "categories": [
-          "技術・製品",
-          "政策・インフラ"
-        ],
-        "breakdown": {
-          "required": true,
-          "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "policy": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 2,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "Phantom Defense acquires Karakurt and integrates net launchers into C-UAS range",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxNS1liRTdTSGdaUUVIT0tZSEZrUndNd3JQV0Z0RDhhRWt2QU9qcC0ybkhPOU9ZTE1YZ2M5TWFtYm50N090bDBxUGc0UTVvQk4yOGxUdThFTE0tbVlJXzlFNllZTjJmTFRGNTNUczVpamxmbEZieUY2RVJIVVJWV3NYMGx3VUIydE54VnBLazVhQm5qa0l0NHljUU5xTzlYTEduc2ZpSDRfUWtLSWJBcjlSTmVpaTREVWdSeXpfWVFsaWVDT0ticFNZSzBTalJvclI5eWRRbHRPV2NIUWdlc2pfNA?oc=5\" target=\"_blank\">Phantom Defense acquires Karakurt and integrates net launchers into C-UAS range</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxNS1liRTdTSGdaUUVIT0tZSEZrUndNd3JQV0Z0RDhhRWt2QU9qcC0ybkhPOU9ZTE1YZ2M5TWFtYm50N090bDBxUGc0UTVvQk4yOGxUdThFTE0tbVlJXzlFNllZTjJmTFRGNTNUczVpamxmbEZieUY2RVJIVVJWV3NYMGx3VUIydE54VnBLazVhQm5qa0l0NHljUU5xTzlYTEduc2ZpSDRfUWtLSWJBcjlSTmVpaTREVWdSeXpfWVFsaWVDT0ticFNZSzBTalJvclI5eWRRbHRPV2NIUWdlc2pfNA?oc=5\" target=\"_blank\">Phantom Defense acquires Karakurt and integrates net launchers into C-UAS range</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNS1liRTdTSGdaUUVIT0tZSEZrUndNd3JQV0Z0RDhhRWt2QU9qcC0ybkhPOU9ZTE1YZ2M5TWFtYm50N090bDBxUGc0UTVvQk4yOGxUdThFTE0tbVlJXzlFNllZTjJmTFRGNTNUczVpamxmbEZieUY2RVJIVVJWV3NYMGx3VUIydE54VnBLazVhQm5qa0l0NHljUU5xTzlYTEduc2ZpSDRfUWtLSWJBcjlSTmVpaTREVWdSeXpfWVFsaWVDT0ticFNZSzBTalJvclI5eWRRbHRPV2NIUWdlc2pfNA?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNS1liRTdTSGdaUUVIT0tZSEZrUndNd3JQV0Z0RDhhRWt2QU9qcC0ybkhPOU9ZTE1YZ2M5TWFtYm50N090bDBxUGc0UTVvQk4yOGxUdThFTE0tbVlJXzlFNllZTjJmTFRGNTNUczVpamxmbEZieUY2RVJIVVJWV3NYMGx3VUIydE54VnBLazVhQm5qa0l0NHljUU5xTzlYTEduc2ZpSDRfUWtLSWJBcjlSTmVpaTREVWdSeXpfWVFsaWVDT0ticFNZSzBTalJvclI5eWRRbHRPV2NIUWdlc2pfNA?oc=5",
-      "publishedAt": "2026-10-13T10:12:17.000Z",
-      "source": "Unmanned airspace",
-      "_feedRegion": "global",
-      "_feedName": "Google News (Global)",
-      "_scoring": {
-        "score": 64,
-        "categories": [
-          "技術・製品",
-          "市場・資金",
-          "政策・インフラ"
-        ],
-        "breakdown": {
-          "required": true,
-          "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "market": {
-            "matches": 1,
-            "catScore": 20
-          },
-          "policy": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 0,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "３００機がキビタンを描く 檜枝岐村の夜空彩るドローンショー＜福島県檜枝岐村＞：ニュース",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE51a1RpdUpSX0NhOVJzSVh1MmEzb3lXbG1mUUpPb1Etb21WLVdmMFJKZ3BENDFlOUhqMHFUTmdWVXRYUGZwTnIyZXB2U0lnWFRvQUZLMkFycjFuNXI1V1dVMFp6dnJpUFJ6UUlucElrLVdrTHFfQm1iclZR?oc=5\" target=\"_blank\">３００機がキビタンを描く 檜枝岐村の夜空彩るドローンショー＜福島県檜枝岐村＞：ニュース</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FTV 福島テレビ</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE51a1RpdUpSX0NhOVJzSVh1MmEzb3lXbG1mUUpPb1Etb21WLVdmMFJKZ3BENDFlOUhqMHFUTmdWVXRYUGZwTnIyZXB2U0lnWFRvQUZLMkFycjFuNXI1V1dVMFp6dnJpUFJ6UUlucElrLVdrTHFfQm1iclZR?oc=5\" target=\"_blank\">３００機がキビタンを描く 檜枝岐村の夜空彩るドローンショー＜福島県檜枝岐村＞：ニュース</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FTV 福島テレビ</font>",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE51a1RpdUpSX0NhOVJzSVh1MmEzb3lXbG1mUUpPb1Etb21WLVdmMFJKZ3BENDFlOUhqMHFUTmdWVXRYUGZwTnIyZXB2U0lnWFRvQUZLMkFycjFuNXI1V1dVMFp6dnJpUFJ6UUlucElrLVdrTHFfQm1iclZR?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiekFVX3lxTE51a1RpdUpSX0NhOVJzSVh1MmEzb3lXbG1mUUpPb1Etb21WLVdmMFJKZ3BENDFlOUhqMHFUTmdWVXRYUGZwTnIyZXB2U0lnWFRvQUZLMkFycjFuNXI1V1dVMFp6dnJpUFJ6UUlucElrLVdrTHFfQm1iclZR?oc=5",
-      "publishedAt": "2026-10-18T03:45:00.000Z",
-      "source": "FTV 福島テレビ",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP)",
-      "_scoring": {
-        "score": 64,
-        "categories": [
-          "技術・製品"
-        ],
-        "breakdown": {
-          "required": true,
-          "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 20,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
       "title": "Prodrone、パーソルから資金調達を実施。人材採用・育成の強化で「国産ドローンの量産体制」構築を推進",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE8wb3VXVkRxYTBldlhaXzdYSHJHOG1KN2RaZ3dCUlVWOXF3SVl2VEg2dHY0Z2RBaHNNQkNHSnBYQzJ3MVhZMDFYLXY0cExqRlB1WVVRY2hDeUMtY1E?oc=5\" target=\"_blank\">Prodrone、パーソルから資金調達を実施。人材採用・育成の強化で「国産ドローンの量産体制」構築を推進</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DRONE.jp</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE8wb3VXVkRxYTBldlhaXzdYSHJHOG1KN2RaZ3dCUlVWOXF3SVl2VEg2dHY0Z2RBaHNNQkNHSnBYQzJ3MVhZMDFYLXY0cExqRlB1WVVRY2hDeUMtY1E?oc=5\" target=\"_blank\">Prodrone、パーソルから資金調達を実施。人材採用・育成の強化で「国産ドローンの量産体制」構築を推進</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DRONE.jp</font>",
@@ -369,6 +328,43 @@
           "market": {
             "matches": 2,
             "catScore": 25
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 0,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "ロシアの高速ドローン急増に対抗…ウクライナと西側諸国、「次世代迎撃ドローン」開発を加速",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQdnEyTGF1T3ZibFdVYzN6cDM1OUtrb2paZ0YyWF9qQmo3ZnMzNG9scFVFRXliaGZlVjF6OWV0RW54MkdXd0dDRlFGODgwVG9GU2d2UkNWMnp0c0JZVVRXVUh4N0xOcnJ5SkxLQ3drN0hadGxfRkRaRC1YeG1yVlJTYVM4UjM5cXNJZVVDODMxVl9ZWThUSC1taW9pSjlBSXI4VWRNSzMyV1I1LVNLMEtHWkg5SVA?oc=5\" target=\"_blank\">ロシアの高速ドローン急増に対抗…ウクライナと西側諸国、「次世代迎撃ドローン」開発を加速</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider Japan</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQdnEyTGF1T3ZibFdVYzN6cDM1OUtrb2paZ0YyWF9qQmo3ZnMzNG9scFVFRXliaGZlVjF6OWV0RW54MkdXd0dDRlFGODgwVG9GU2d2UkNWMnp0c0JZVVRXVUh4N0xOcnJ5SkxLQ3drN0hadGxfRkRaRC1YeG1yVlJTYVM4UjM5cXNJZVVDODMxVl9ZWThUSC1taW9pSjlBSXI4VWRNSzMyV1I1LVNLMEtHWkg5SVA?oc=5\" target=\"_blank\">ロシアの高速ドローン急増に対抗…ウクライナと西側諸国、「次世代迎撃ドローン」開発を加速</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider Japan</font>",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdnEyTGF1T3ZibFdVYzN6cDM1OUtrb2paZ0YyWF9qQmo3ZnMzNG9scFVFRXliaGZlVjF6OWV0RW54MkdXd0dDRlFGODgwVG9GU2d2UkNWMnp0c0JZVVRXVUh4N0xOcnJ5SkxLQ3drN0hadGxfRkRaRC1YeG1yVlJTYVM4UjM5cXNJZVVDODMxVl9ZWThUSC1taW9pSjlBSXI4VWRNSzMyV1I1LVNLMEtHWkg5SVA?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdnEyTGF1T3ZibFdVYzN6cDM1OUtrb2paZ0YyWF9qQmo3ZnMzNG9scFVFRXliaGZlVjF6OWV0RW54MkdXd0dDRlFGODgwVG9GU2d2UkNWMnp0c0JZVVRXVUh4N0xOcnJ5SkxLQ3drN0hadGxfRkRaRC1YeG1yVlJTYVM4UjM5cXNJZVVDODMxVl9ZWThUSC1taW9pSjlBSXI4VWRNSzMyV1I1LVNLMEtHWkg5SVA?oc=5",
+      "publishedAt": "2026-10-15T10:00:00.000Z",
+      "source": "Business Insider Japan",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP)",
+      "_scoring": {
+        "score": 63,
+        "categories": [
+          "技術・製品",
+          "政策・インフラ"
+        ],
+        "breakdown": {
+          "required": true,
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "policy": {
+            "matches": 1,
+            "catScore": 24
           },
           "sourceTrust": {
             "domain": "news.google.com",
@@ -530,38 +526,6 @@
       }
     },
     {
-      "title": "海岸の漂着ごみをドローンで搬出 山形・遊佐町で実証調査",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Fb01CaEpVYlQxbmxhNFFhMGxrVVNZbWlqZEJyRVZLaVFpUmlNcE44UW96ajVBeEd0WXhoTnFxeklDUnZWbHB1LWZ6THlvVUxybjhNWWZxeG9OeDQ?oc=5\" target=\"_blank\">海岸の漂着ごみをドローンで搬出 山形・遊佐町で実証調査</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">河北新報オンライン</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Fb01CaEpVYlQxbmxhNFFhMGxrVVNZbWlqZEJyRVZLaVFpUmlNcE44UW96ajVBeEd0WXhoTnFxeklDUnZWbHB1LWZ6THlvVUxybjhNWWZxeG9OeDQ?oc=5\" target=\"_blank\">海岸の漂着ごみをドローンで搬出 山形・遊佐町で実証調査</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">河北新報オンライン</font>",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Fb01CaEpVYlQxbmxhNFFhMGxrVVNZbWlqZEJyRVZLaVFpUmlNcE44UW96ajVBeEd0WXhoTnFxeklDUnZWbHB1LWZ6THlvVUxybjhNWWZxeG9OeDQ?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Fb01CaEpVYlQxbmxhNFFhMGxrVVNZbWlqZEJyRVZLaVFpUmlNcE44UW96ajVBeEd0WXhoTnFxeklDUnZWbHB1LWZ6THlvVUxybjhNWWZxeG9OeDQ?oc=5",
-      "publishedAt": "2026-10-17T20:00:00.000Z",
-      "source": "河北新報オンライン",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP 政策/実証)",
-      "_scoring": {
-        "score": 62,
-        "categories": [
-          "事故・事件"
-        ],
-        "breakdown": {
-          "required": true,
-          "incident": {
-            "matches": 1,
-            "catScore": 28
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 15,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
       "title": "米ロウズ、ノースカロライナ州でドローン配送の実証実験を開始——ウィングとドアダッシュと提携、株価は2％下落",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE1hdFRSbUZfLTFpMjN5cjBLeFBRYXNVc3VuUS1xR0JWYmZwNHY1UlJ2aUpadWkyblFuY0g3Y3RrTElPc3VJOFlKYTJJMnZVRlhENldZQTFvNEV1QkVwRkNQbU5ZTWdiQ190dlQ5d0lpLWtwb2Ra?oc=5\" target=\"_blank\">米ロウズ、ノースカロライナ州でドローン配送の実証実験を開始——ウィングとドアダッシュと提携、株価は2％下落</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BigGo ファイナンス</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE1hdFRSbUZfLTFpMjN5cjBLeFBRYXNVc3VuUS1xR0JWYmZwNHY1UlJ2aUpadWkyblFuY0g3Y3RrTElPc3VJOFlKYTJJMnZVRlhENldZQTFvNEV1QkVwRkNQbU5ZTWdiQ190dlQ5d0lpLWtwb2Ra?oc=5\" target=\"_blank\">米ロウズ、ノースカロライナ州でドローン配送の実証実験を開始——ウィングとドアダッシュと提携、株価は2％下落</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BigGo ファイナンス</font>",
@@ -629,6 +593,38 @@
             "multiplier": 0.8
           },
           "freshness": 0,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "３００機がキビタンを描く 檜枝岐村の夜空彩るドローンショー＜福島県檜枝岐村＞：ニュース",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE51a1RpdUpSX0NhOVJzSVh1MmEzb3lXbG1mUUpPb1Etb21WLVdmMFJKZ3BENDFlOUhqMHFUTmdWVXRYUGZwTnIyZXB2U0lnWFRvQUZLMkFycjFuNXI1V1dVMFp6dnJpUFJ6UUlucElrLVdrTHFfQm1iclZR?oc=5\" target=\"_blank\">３００機がキビタンを描く 檜枝岐村の夜空彩るドローンショー＜福島県檜枝岐村＞：ニュース</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FTV 福島テレビ</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE51a1RpdUpSX0NhOVJzSVh1MmEzb3lXbG1mUUpPb1Etb21WLVdmMFJKZ3BENDFlOUhqMHFUTmdWVXRYUGZwTnIyZXB2U0lnWFRvQUZLMkFycjFuNXI1V1dVMFp6dnJpUFJ6UUlucElrLVdrTHFfQm1iclZR?oc=5\" target=\"_blank\">３００機がキビタンを描く 檜枝岐村の夜空彩るドローンショー＜福島県檜枝岐村＞：ニュース</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FTV 福島テレビ</font>",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE51a1RpdUpSX0NhOVJzSVh1MmEzb3lXbG1mUUpPb1Etb21WLVdmMFJKZ3BENDFlOUhqMHFUTmdWVXRYUGZwTnIyZXB2U0lnWFRvQUZLMkFycjFuNXI1V1dVMFp6dnJpUFJ6UUlucElrLVdrTHFfQm1iclZR?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiekFVX3lxTE51a1RpdUpSX0NhOVJzSVh1MmEzb3lXbG1mUUpPb1Etb21WLVdmMFJKZ3BENDFlOUhqMHFUTmdWVXRYUGZwTnIyZXB2U0lnWFRvQUZLMkFycjFuNXI1V1dVMFp6dnJpUFJ6UUlucElrLVdrTHFfQm1iclZR?oc=5",
+      "publishedAt": "2026-10-18T03:45:00.000Z",
+      "source": "FTV 福島テレビ",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP)",
+      "_scoring": {
+        "score": 59,
+        "categories": [
+          "技術・製品"
+        ],
+        "breakdown": {
+          "required": true,
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 15,
           "titleBonus": 10,
           "jpRegionBonus": 15
         },
@@ -1032,6 +1028,38 @@
       }
     },
     {
+      "title": "海岸の漂着ごみをドローンで搬出 山形・遊佐町で実証調査",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Fb01CaEpVYlQxbmxhNFFhMGxrVVNZbWlqZEJyRVZLaVFpUmlNcE44UW96ajVBeEd0WXhoTnFxeklDUnZWbHB1LWZ6THlvVUxybjhNWWZxeG9OeDQ?oc=5\" target=\"_blank\">海岸の漂着ごみをドローンで搬出 山形・遊佐町で実証調査</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">河北新報オンライン</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Fb01CaEpVYlQxbmxhNFFhMGxrVVNZbWlqZEJyRVZLaVFpUmlNcE44UW96ajVBeEd0WXhoTnFxeklDUnZWbHB1LWZ6THlvVUxybjhNWWZxeG9OeDQ?oc=5\" target=\"_blank\">海岸の漂着ごみをドローンで搬出 山形・遊佐町で実証調査</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">河北新報オンライン</font>",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Fb01CaEpVYlQxbmxhNFFhMGxrVVNZbWlqZEJyRVZLaVFpUmlNcE44UW96ajVBeEd0WXhoTnFxeklDUnZWbHB1LWZ6THlvVUxybjhNWWZxeG9OeDQ?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Fb01CaEpVYlQxbmxhNFFhMGxrVVNZbWlqZEJyRVZLaVFpUmlNcE44UW96ajVBeEd0WXhoTnFxeklDUnZWbHB1LWZ6THlvVUxybjhNWWZxeG9OeDQ?oc=5",
+      "publishedAt": "2026-10-17T20:00:00.000Z",
+      "source": "河北新報オンライン",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP 政策/実証)",
+      "_scoring": {
+        "score": 57,
+        "categories": [
+          "事故・事件"
+        ],
+        "breakdown": {
+          "required": true,
+          "incident": {
+            "matches": 1,
+            "catScore": 28
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 10,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
       "title": "ブルーイノベーション、高水位下水道を「ELIOS 3」の3Dマッピング用LiDARで安全調査。八戸市の下水道点検実証",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE00SFZxdHMtaFVlczRSRGJWTHJ1WW9qcURLbHRhbHVRU1hyU21TcGFMM0ZDVzlIdmYxdVJCVG1sYWFsM2phOW8yNjUwRUNSdDJQbWp2bGZieEdtZ2s?oc=5\" target=\"_blank\">ブルーイノベーション、高水位下水道を「ELIOS 3」の3Dマッピング用LiDARで安全調査。八戸市の下水道点検実証</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DRONE.jp</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE00SFZxdHMtaFVlczRSRGJWTHJ1WW9qcURLbHRhbHVRU1hyU21TcGFMM0ZDVzlIdmYxdVJCVG1sYWFsM2phOW8yNjUwRUNSdDJQbWp2bGZieEdtZ2s?oc=5\" target=\"_blank\">ブルーイノベーション、高水位下水道を「ELIOS 3」の3Dマッピング用LiDARで安全調査。八戸市の下水道点検実証</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DRONE.jp</font>",
@@ -1062,38 +1090,6 @@
             "multiplier": 0.8
           },
           "freshness": 0,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "米連邦航空局、米墨国境沿いの無許可ドローン飛行を禁止 執筆 - Investing.com",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE1sU0FWQzZENzdqVy1jaG52c0t0VFdVQ1h3SGNPUlAwVm52dE1tVzFiNjFqeFlHZjdCYVYyVVNJTUVtbXpaUFRUS2RGaU96SjByQzJ4Q1oxNHN2X0VWdFdPMmtrNjdLa1gxQmgwa2ZWRlZrUFBPemJz?oc=5\" target=\"_blank\">米連邦航空局、米墨国境沿いの無許可ドローン飛行を禁止 執筆</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE1sU0FWQzZENzdqVy1jaG52c0t0VFdVQ1h3SGNPUlAwVm52dE1tVzFiNjFqeFlHZjdCYVYyVVNJTUVtbXpaUFRUS2RGaU96SjByQzJ4Q1oxNHN2X0VWdFdPMmtrNjdLa1gxQmgwa2ZWRlZrUFBPemJz?oc=5\" target=\"_blank\">米連邦航空局、米墨国境沿いの無許可ドローン飛行を禁止 執筆</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース</font>",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1sU0FWQzZENzdqVy1jaG52c0t0VFdVQ1h3SGNPUlAwVm52dE1tVzFiNjFqeFlHZjdCYVYyVVNJTUVtbXpaUFRUS2RGaU96SjByQzJ4Q1oxNHN2X0VWdFdPMmtrNjdLa1gxQmgwa2ZWRlZrUFBPemJz?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1sU0FWQzZENzdqVy1jaG52c0t0VFdVQ1h3SGNPUlAwVm52dE1tVzFiNjFqeFlHZjdCYVYyVVNJTUVtbXpaUFRUS2RGaU96SjByQzJ4Q1oxNHN2X0VWdFdPMmtrNjdLa1gxQmgwa2ZWRlZrUFBPemJz?oc=5",
-      "publishedAt": "2026-10-16T17:17:00.000Z",
-      "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP 政策/実証)",
-      "_scoring": {
-        "score": 56,
-        "categories": [
-          "規制・政策"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 1,
-            "catScore": 32
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 5,
-          "titleBonus": 10,
           "jpRegionBonus": 15
         },
         "pass": true
