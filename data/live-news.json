@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-18T10:41:55.486Z",
-  "rawCount": 703,
+  "generatedAt": "2026-10-18T14:23:09.114Z",
+  "rawCount": 699,
   "articles": [
     {
       "title": "Advanced Helicopter UAS for Industrial & Public Safety Applications",
@@ -13,7 +13,7 @@
       "_feedRegion": "global",
       "_feedName": "Google News (Global)",
       "_scoring": {
-        "score": 76,
+        "score": 73,
         "categories": [
           "技術・製品",
           "事故・事件",
@@ -37,7 +37,7 @@
             "domain": "news.google.com",
             "multiplier": 0.8
           },
-          "freshness": 5,
+          "freshness": 2,
           "titleBonus": 10
         },
         "pass": true
@@ -122,38 +122,6 @@
       }
     },
     {
-      "title": "熊本地震の「地表地震断層」を専門家がドローンなどで調査",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE9JZlZXYUNnNTJ2NmlXN2U5c3dscXRvTGQ0Z1V0MDM4SWY0ZkJ1ZGxPREJTVjlSQXhzdWdVcG9rUTZEYW5BbmFsS21jYXFsd19seHNHSm5rTXBUMXJyX1dB?oc=5\" target=\"_blank\">熊本地震の「地表地震断層」を専門家がドローンなどで調査</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NHKニュース</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE9JZlZXYUNnNTJ2NmlXN2U5c3dscXRvTGQ0Z1V0MDM4SWY0ZkJ1ZGxPREJTVjlSQXhzdWdVcG9rUTZEYW5BbmFsS21jYXFsd19seHNHSm5rTXBUMXJyX1dB?oc=5\" target=\"_blank\">熊本地震の「地表地震断層」を専門家がドローンなどで調査</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NHKニュース</font>",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9JZlZXYUNnNTJ2NmlXN2U5c3dscXRvTGQ0Z1V0MDM4SWY0ZkJ1ZGxPREJTVjlSQXhzdWdVcG9rUTZEYW5BbmFsS21jYXFsd19seHNHSm5rTXBUMXJyX1dB?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9JZlZXYUNnNTJ2NmlXN2U5c3dscXRvTGQ0Z1V0MDM4SWY0ZkJ1ZGxPREJTVjlSQXhzdWdVcG9rUTZEYW5BbmFsS21jYXFsd19seHNHSm5rTXBUMXJyX1dB?oc=5",
-      "publishedAt": "2026-10-18T09:25:56.000Z",
-      "source": "NHKニュース",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP)",
-      "_scoring": {
-        "score": 67,
-        "categories": [
-          "事故・事件"
-        ],
-        "breakdown": {
-          "required": true,
-          "incident": {
-            "matches": 1,
-            "catScore": 28
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 20,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
       "title": "NTTインフラネット、尾道市の下水道管路施設でドローン・3D計測システムを活用した調査を実施",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE00MGJVVVIyM0h5anNHR2J4eUtNLVNPVE9qeDJLTzE5TXB3Yzlqa2xIOTB5cWFONTMySlJkYld5Zkl5UzFVeENhUE1QMzBoRHNuMlE2LWJVNGZtdzRMRkZUR2VjcXF2UGhCRlE?oc=5\" target=\"_blank\">NTTインフラネット、尾道市の下水道管路施設でドローン・3D計測システムを活用した調査を実施</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ドローンジャーナル</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE00MGJVVVIyM0h5anNHR2J4eUtNLVNPVE9qeDJLTzE5TXB3Yzlqa2xIOTB5cWFONTMySlJkYld5Zkl5UzFVeENhUE1QMzBoRHNuMlE2LWJVNGZtdzRMRkZUR2VjcXF2UGhCRlE?oc=5\" target=\"_blank\">NTTインフラネット、尾道市の下水道管路施設でドローン・3D計測システムを活用した調査を実施</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ドローンジャーナル</font>",
@@ -186,47 +154,6 @@
           "freshness": 0,
           "titleBonus": 10,
           "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "SIG SAUER launches C-UAS electro-optic system at AUSA 2026",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQbUF5NVRJdkdOdTVQbXp4TkItSDRnR1hIamJ6U0pTYXZqUTVFODdEZnU0TGE0Uk1KYmRGSzY1SzRITERtMVo3azBfNm1FbUl5TG9MZDJFa0dBYk11VHczUUQ1U1pxcTkyc3lxNkZnanNKNENoYzE1Wm9YbmdqVGJYRG5Gb3Bxd0ZsZmlmWTRIWU1qdzJmQWVvdmNUcmtETVp5QXVvUVJqd21IMFJBTVRXQVhjQU5XWG9YUUQxeXdKSGNtTzgt?oc=5\" target=\"_blank\">SIG SAUER launches C-UAS electro-optic system at AUSA 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQbUF5NVRJdkdOdTVQbXp4TkItSDRnR1hIamJ6U0pTYXZqUTVFODdEZnU0TGE0Uk1KYmRGSzY1SzRITERtMVo3azBfNm1FbUl5TG9MZDJFa0dBYk11VHczUUQ1U1pxcTkyc3lxNkZnanNKNENoYzE1Wm9YbmdqVGJYRG5Gb3Bxd0ZsZmlmWTRIWU1qdzJmQWVvdmNUcmtETVp5QXVvUVJqd21IMFJBTVRXQVhjQU5XWG9YUUQxeXdKSGNtTzgt?oc=5\" target=\"_blank\">SIG SAUER launches C-UAS electro-optic system at AUSA 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbUF5NVRJdkdOdTVQbXp4TkItSDRnR1hIamJ6U0pTYXZqUTVFODdEZnU0TGE0Uk1KYmRGSzY1SzRITERtMVo3azBfNm1FbUl5TG9MZDJFa0dBYk11VHczUUQ1U1pxcTkyc3lxNkZnanNKNENoYzE1Wm9YbmdqVGJYRG5Gb3Bxd0ZsZmlmWTRIWU1qdzJmQWVvdmNUcmtETVp5QXVvUVJqd21IMFJBTVRXQVhjQU5XWG9YUUQxeXdKSGNtTzgt?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbUF5NVRJdkdOdTVQbXp4TkItSDRnR1hIamJ6U0pTYXZqUTVFODdEZnU0TGE0Uk1KYmRGSzY1SzRITERtMVo3azBfNm1FbUl5TG9MZDJFa0dBYk11VHczUUQ1U1pxcTkyc3lxNkZnanNKNENoYzE1Wm9YbmdqVGJYRG5Gb3Bxd0ZsZmlmWTRIWU1qdzJmQWVvdmNUcmtETVp5QXVvUVJqd21IMFJBTVRXQVhjQU5XWG9YUUQxeXdKSGNtTzgt?oc=5",
-      "publishedAt": "2026-10-15T10:50:25.000Z",
-      "source": "Unmanned airspace",
-      "_feedRegion": "global",
-      "_feedName": "Google News (Global)",
-      "_scoring": {
-        "score": 66,
-        "categories": [
-          "技術・製品",
-          "市場・資金",
-          "政策・インフラ"
-        ],
-        "breakdown": {
-          "required": true,
-          "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "market": {
-            "matches": 1,
-            "catScore": 20
-          },
-          "policy": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 2,
-          "titleBonus": 10
         },
         "pass": true
       }
@@ -298,6 +225,47 @@
             "multiplier": 0.8
           },
           "freshness": 10,
+          "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "SIG SAUER launches C-UAS electro-optic system at AUSA 2026",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQbUF5NVRJdkdOdTVQbXp4TkItSDRnR1hIamJ6U0pTYXZqUTVFODdEZnU0TGE0Uk1KYmRGSzY1SzRITERtMVo3azBfNm1FbUl5TG9MZDJFa0dBYk11VHczUUQ1U1pxcTkyc3lxNkZnanNKNENoYzE1Wm9YbmdqVGJYRG5Gb3Bxd0ZsZmlmWTRIWU1qdzJmQWVvdmNUcmtETVp5QXVvUVJqd21IMFJBTVRXQVhjQU5XWG9YUUQxeXdKSGNtTzgt?oc=5\" target=\"_blank\">SIG SAUER launches C-UAS electro-optic system at AUSA 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQbUF5NVRJdkdOdTVQbXp4TkItSDRnR1hIamJ6U0pTYXZqUTVFODdEZnU0TGE0Uk1KYmRGSzY1SzRITERtMVo3azBfNm1FbUl5TG9MZDJFa0dBYk11VHczUUQ1U1pxcTkyc3lxNkZnanNKNENoYzE1Wm9YbmdqVGJYRG5Gb3Bxd0ZsZmlmWTRIWU1qdzJmQWVvdmNUcmtETVp5QXVvUVJqd21IMFJBTVRXQVhjQU5XWG9YUUQxeXdKSGNtTzgt?oc=5\" target=\"_blank\">SIG SAUER launches C-UAS electro-optic system at AUSA 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbUF5NVRJdkdOdTVQbXp4TkItSDRnR1hIamJ6U0pTYXZqUTVFODdEZnU0TGE0Uk1KYmRGSzY1SzRITERtMVo3azBfNm1FbUl5TG9MZDJFa0dBYk11VHczUUQ1U1pxcTkyc3lxNkZnanNKNENoYzE1Wm9YbmdqVGJYRG5Gb3Bxd0ZsZmlmWTRIWU1qdzJmQWVvdmNUcmtETVp5QXVvUVJqd21IMFJBTVRXQVhjQU5XWG9YUUQxeXdKSGNtTzgt?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbUF5NVRJdkdOdTVQbXp4TkItSDRnR1hIamJ6U0pTYXZqUTVFODdEZnU0TGE0Uk1KYmRGSzY1SzRITERtMVo3azBfNm1FbUl5TG9MZDJFa0dBYk11VHczUUQ1U1pxcTkyc3lxNkZnanNKNENoYzE1Wm9YbmdqVGJYRG5Gb3Bxd0ZsZmlmWTRIWU1qdzJmQWVvdmNUcmtETVp5QXVvUVJqd21IMFJBTVRXQVhjQU5XWG9YUUQxeXdKSGNtTzgt?oc=5",
+      "publishedAt": "2026-10-15T10:50:25.000Z",
+      "source": "Unmanned airspace",
+      "_feedRegion": "global",
+      "_feedName": "Google News (Global)",
+      "_scoring": {
+        "score": 64,
+        "categories": [
+          "技術・製品",
+          "市場・資金",
+          "政策・インフラ"
+        ],
+        "breakdown": {
+          "required": true,
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "market": {
+            "matches": 1,
+            "catScore": 20
+          },
+          "policy": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 0,
           "titleBonus": 10
         },
         "pass": true
@@ -521,6 +489,74 @@
           "freshness": 0,
           "titleBonus": 10,
           "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "熊本地震の「地表地震断層」を専門家がドローンなどで調査",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE9JZlZXYUNnNTJ2NmlXN2U5c3dscXRvTGQ0Z1V0MDM4SWY0ZkJ1ZGxPREJTVjlSQXhzdWdVcG9rUTZEYW5BbmFsS21jYXFsd19seHNHSm5rTXBUMXJyX1dB?oc=5\" target=\"_blank\">熊本地震の「地表地震断層」を専門家がドローンなどで調査</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NHKニュース</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE9JZlZXYUNnNTJ2NmlXN2U5c3dscXRvTGQ0Z1V0MDM4SWY0ZkJ1ZGxPREJTVjlSQXhzdWdVcG9rUTZEYW5BbmFsS21jYXFsd19seHNHSm5rTXBUMXJyX1dB?oc=5\" target=\"_blank\">熊本地震の「地表地震断層」を専門家がドローンなどで調査</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NHKニュース</font>",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9JZlZXYUNnNTJ2NmlXN2U5c3dscXRvTGQ0Z1V0MDM4SWY0ZkJ1ZGxPREJTVjlSQXhzdWdVcG9rUTZEYW5BbmFsS21jYXFsd19seHNHSm5rTXBUMXJyX1dB?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9JZlZXYUNnNTJ2NmlXN2U5c3dscXRvTGQ0Z1V0MDM4SWY0ZkJ1ZGxPREJTVjlSQXhzdWdVcG9rUTZEYW5BbmFsS21jYXFsd19seHNHSm5rTXBUMXJyX1dB?oc=5",
+      "publishedAt": "2026-10-18T09:25:56.000Z",
+      "source": "NHKニュース",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP)",
+      "_scoring": {
+        "score": 62,
+        "categories": [
+          "事故・事件"
+        ],
+        "breakdown": {
+          "required": true,
+          "incident": {
+            "matches": 1,
+            "catScore": 28
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 15,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "Drive Ohio launches pioneering digital network plan for drone, eVTOL comms and airspace management",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxNOTNOVmFnNmZRc3pCcGN3a0g1OXFwRTl6VXFpUEJtcnAzSXM2RGVXRGRlRkVXbklDbmdpOEcyVm15LTZTakVfbzM4UjlGd19pMk5tRTg3UGplN1RaVUQ5WHpNekZ5NUpWR1ZvNW9jQmxTQjc2d3BlUE41UTZtTGo2R1JvTW9leGt3ZVVsQUJNc0FBeVRJZ2hmRHM4ZU9wMnJXaDJEZkVwbzNZSk03RDVTZDNIM00wa3EwSE12T1BIRUVZSmZMN2dTMFNVQ190NUFOMF8tcEc5YXdBd3MzQjM0?oc=5\" target=\"_blank\">Drive Ohio launches pioneering digital network plan for drone, eVTOL comms and airspace management</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxNOTNOVmFnNmZRc3pCcGN3a0g1OXFwRTl6VXFpUEJtcnAzSXM2RGVXRGRlRkVXbklDbmdpOEcyVm15LTZTakVfbzM4UjlGd19pMk5tRTg3UGplN1RaVUQ5WHpNekZ5NUpWR1ZvNW9jQmxTQjc2d3BlUE41UTZtTGo2R1JvTW9leGt3ZVVsQUJNc0FBeVRJZ2hmRHM4ZU9wMnJXaDJEZkVwbzNZSk03RDVTZDNIM00wa3EwSE12T1BIRUVZSmZMN2dTMFNVQ190NUFOMF8tcEc5YXdBd3MzQjM0?oc=5\" target=\"_blank\">Drive Ohio launches pioneering digital network plan for drone, eVTOL comms and airspace management</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNOTNOVmFnNmZRc3pCcGN3a0g1OXFwRTl6VXFpUEJtcnAzSXM2RGVXRGRlRkVXbklDbmdpOEcyVm15LTZTakVfbzM4UjlGd19pMk5tRTg3UGplN1RaVUQ5WHpNekZ5NUpWR1ZvNW9jQmxTQjc2d3BlUE41UTZtTGo2R1JvTW9leGt3ZVVsQUJNc0FBeVRJZ2hmRHM4ZU9wMnJXaDJEZkVwbzNZSk03RDVTZDNIM00wa3EwSE12T1BIRUVZSmZMN2dTMFNVQ190NUFOMF8tcEc5YXdBd3MzQjM0?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNOTNOVmFnNmZRc3pCcGN3a0g1OXFwRTl6VXFpUEJtcnAzSXM2RGVXRGRlRkVXbklDbmdpOEcyVm15LTZTakVfbzM4UjlGd19pMk5tRTg3UGplN1RaVUQ5WHpNekZ5NUpWR1ZvNW9jQmxTQjc2d3BlUE41UTZtTGo2R1JvTW9leGt3ZVVsQUJNc0FBeVRJZ2hmRHM4ZU9wMnJXaDJEZkVwbzNZSk03RDVTZDNIM00wa3EwSE12T1BIRUVZSmZMN2dTMFNVQ190NUFOMF8tcEc5YXdBd3MzQjM0?oc=5",
+      "publishedAt": "2026-10-18T10:46:24.000Z",
+      "source": "Unmanned airspace",
+      "_feedRegion": "global",
+      "_feedName": "Google News (Global)",
+      "_scoring": {
+        "score": 60,
+        "categories": [
+          "技術・製品",
+          "市場・資金"
+        ],
+        "breakdown": {
+          "required": true,
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "market": {
+            "matches": 1,
+            "catScore": 20
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 15,
+          "titleBonus": 10
         },
         "pass": true
       }
@@ -1054,42 +1090,6 @@
           },
           "freshness": 10,
           "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "ブルーイノベーション、高水位下水道を「ELIOS 3」の3Dマッピング用LiDARで安全調査。八戸市の下水道点検実証",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE00SFZxdHMtaFVlczRSRGJWTHJ1WW9qcURLbHRhbHVRU1hyU21TcGFMM0ZDVzlIdmYxdVJCVG1sYWFsM2phOW8yNjUwRUNSdDJQbWp2bGZieEdtZ2s?oc=5\" target=\"_blank\">ブルーイノベーション、高水位下水道を「ELIOS 3」の3Dマッピング用LiDARで安全調査。八戸市の下水道点検実証</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DRONE.jp</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE00SFZxdHMtaFVlczRSRGJWTHJ1WW9qcURLbHRhbHVRU1hyU21TcGFMM0ZDVzlIdmYxdVJCVG1sYWFsM2phOW8yNjUwRUNSdDJQbWp2bGZieEdtZ2s?oc=5\" target=\"_blank\">ブルーイノベーション、高水位下水道を「ELIOS 3」の3Dマッピング用LiDARで安全調査。八戸市の下水道点検実証</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DRONE.jp</font>",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE00SFZxdHMtaFVlczRSRGJWTHJ1WW9qcURLbHRhbHVRU1hyU21TcGFMM0ZDVzlIdmYxdVJCVG1sYWFsM2phOW8yNjUwRUNSdDJQbWp2bGZieEdtZ2s?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE00SFZxdHMtaFVlczRSRGJWTHJ1WW9qcURLbHRhbHVRU1hyU21TcGFMM0ZDVzlIdmYxdVJCVG1sYWFsM2phOW8yNjUwRUNSdDJQbWp2bGZieEdtZ2s?oc=5",
-      "publishedAt": "2026-08-27T07:00:00.000Z",
-      "source": "DRONE.jp",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP ドローン専門)",
-      "_scoring": {
-        "score": 57,
-        "categories": [
-          "技術・製品",
-          "事故・事件"
-        ],
-        "breakdown": {
-          "required": true,
-          "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "incident": {
-            "matches": 1,
-            "catScore": 28
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 0,
           "jpRegionBonus": 15
         },
         "pass": true
