@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-23T04:08:24.564Z",
-  "rawCount": 721,
+  "generatedAt": "2026-10-23T09:49:34.137Z",
+  "rawCount": 719,
   "articles": [
     {
       "title": "Signature Aviation and UrbanV formally launch US vertiport joint venture",
@@ -13,7 +13,7 @@
       "_feedRegion": "global",
       "_feedName": "Google News (Global)",
       "_scoring": {
-        "score": 88,
+        "score": 83,
         "categories": [
           "技術・製品",
           "市場・資金",
@@ -37,7 +37,7 @@
             "domain": "news.google.com",
             "multiplier": 0.8
           },
-          "freshness": 15,
+          "freshness": 10,
           "titleBonus": 10
         },
         "pass": true
@@ -54,7 +54,7 @@
       "_feedRegion": "jp",
       "_feedName": "Google News (JP ドローン専門)",
       "_scoring": {
-        "score": 80,
+        "score": 75,
         "categories": [
           "規制・政策",
           "技術・製品"
@@ -73,8 +73,44 @@
             "domain": "news.google.com",
             "multiplier": 0.8
           },
-          "freshness": 20,
+          "freshness": 15,
           "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "BETA secures FAA approval for eVTOL aircraft flights",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOTDBCdGtIUklHWjhULWoyajMyT1FYanBwQy0tYVBfaGY3NGZaU0ZHcDc0bVJfa2JIVVVVZV8wOHZKS2dUMmZFaUdYeEJ3dDAtQ3N6T3VhZDNFeFh3WGxhdEc4TlNqYTBpb3Ixcmc0ZnRhdGd0WmRjbUY4OEtXVjR2T1A0ajV5VzlXYjN6US1ibTF4cldzMzVRZ0VpNy1GRi04V0V5RQ?oc=5\" target=\"_blank\">BETA secures FAA approval for eVTOL aircraft flights</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aerospace Manufacturing and Design</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOTDBCdGtIUklHWjhULWoyajMyT1FYanBwQy0tYVBfaGY3NGZaU0ZHcDc0bVJfa2JIVVVVZV8wOHZKS2dUMmZFaUdYeEJ3dDAtQ3N6T3VhZDNFeFh3WGxhdEc4TlNqYTBpb3Ixcmc0ZnRhdGd0WmRjbUY4OEtXVjR2T1A0ajV5VzlXYjN6US1ibTF4cldzMzVRZ0VpNy1GRi04V0V5RQ?oc=5\" target=\"_blank\">BETA secures FAA approval for eVTOL aircraft flights</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aerospace Manufacturing and Design</font>",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTDBCdGtIUklHWjhULWoyajMyT1FYanBwQy0tYVBfaGY3NGZaU0ZHcDc0bVJfa2JIVVVVZV8wOHZKS2dUMmZFaUdYeEJ3dDAtQ3N6T3VhZDNFeFh3WGxhdEc4TlNqYTBpb3Ixcmc0ZnRhdGd0WmRjbUY4OEtXVjR2T1A0ajV5VzlXYjN6US1ibTF4cldzMzVRZ0VpNy1GRi04V0V5RQ?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTDBCdGtIUklHWjhULWoyajMyT1FYanBwQy0tYVBfaGY3NGZaU0ZHcDc0bVJfa2JIVVVVZV8wOHZKS2dUMmZFaUdYeEJ3dDAtQ3N6T3VhZDNFeFh3WGxhdEc4TlNqYTBpb3Ixcmc0ZnRhdGd0WmRjbUY4OEtXVjR2T1A0ajV5VzlXYjN6US1ibTF4cldzMzVRZ0VpNy1GRi04V0V5RQ?oc=5",
+      "publishedAt": "2026-10-23T07:00:00.000Z",
+      "source": "Aerospace Manufacturing and Design",
+      "_feedRegion": "us",
+      "_feedName": "FAA",
+      "_scoring": {
+        "score": 72,
+        "categories": [
+          "規制・政策",
+          "市場・資金"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
+          "market": {
+            "matches": 1,
+            "catScore": 20
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 20,
+          "titleBonus": 10
         },
         "pass": true
       }
@@ -116,6 +152,47 @@
       }
     },
     {
+      "title": "Canadian UAVs DAA system supports BVLOS flights for Navy UAS",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNaHNDVjh4OHFTYjVuS0k4UUg2V3JmZ2tVdkFONlBFSTNWM3RuRUlKaVk4Z080Z2gtX2hfMzZfV0hQUGV6SXAzOG1HZVFYa2t5N0VLbVhZSFY4ak9hN3FqWnZtTFZvdFNUUTU0V2c5UUE3MUtlZ1ZFRk9rc1lfd083ZVVKNjhSaURuUXJTSkVRYVllOWFoclc4RE0zQnN5ay1sY01rVXprdUtHM29Eb1E?oc=5\" target=\"_blank\">Canadian UAVs DAA system supports BVLOS flights for Navy UAS</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNaHNDVjh4OHFTYjVuS0k4UUg2V3JmZ2tVdkFONlBFSTNWM3RuRUlKaVk4Z080Z2gtX2hfMzZfV0hQUGV6SXAzOG1HZVFYa2t5N0VLbVhZSFY4ak9hN3FqWnZtTFZvdFNUUTU0V2c5UUE3MUtlZ1ZFRk9rc1lfd083ZVVKNjhSaURuUXJTSkVRYVllOWFoclc4RE0zQnN5ay1sY01rVXprdUtHM29Eb1E?oc=5\" target=\"_blank\">Canadian UAVs DAA system supports BVLOS flights for Navy UAS</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaHNDVjh4OHFTYjVuS0k4UUg2V3JmZ2tVdkFONlBFSTNWM3RuRUlKaVk4Z080Z2gtX2hfMzZfV0hQUGV6SXAzOG1HZVFYa2t5N0VLbVhZSFY4ak9hN3FqWnZtTFZvdFNUUTU0V2c5UUE3MUtlZ1ZFRk9rc1lfd083ZVVKNjhSaURuUXJTSkVRYVllOWFoclc4RE0zQnN5ay1sY01rVXprdUtHM29Eb1E?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaHNDVjh4OHFTYjVuS0k4UUg2V3JmZ2tVdkFONlBFSTNWM3RuRUlKaVk4Z080Z2gtX2hfMzZfV0hQUGV6SXAzOG1HZVFYa2t5N0VLbVhZSFY4ak9hN3FqWnZtTFZvdFNUUTU0V2c5UUE3MUtlZ1ZFRk9rc1lfd083ZVVKNjhSaURuUXJTSkVRYVllOWFoclc4RE0zQnN5ay1sY01rVXprdUtHM29Eb1E?oc=5",
+      "publishedAt": "2026-10-12T09:04:32.000Z",
+      "source": "Unmanned airspace",
+      "_feedRegion": "eu",
+      "_feedName": "EASA",
+      "_scoring": {
+        "score": 71,
+        "categories": [
+          "規制・政策",
+          "技術・製品",
+          "市場・資金"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "market": {
+            "matches": 1,
+            "catScore": 20
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 0,
+          "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
       "title": "NEXT DELIVERYら3社、臨海部でレベル4見据えた「タワマン付帯型ドローン配送」を実証へ",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE1MUWdjaHlGMGstcVAwdFNRSEJJczNlLWxaSUZ0bVl3R1VoSjRnQ3dyUDktSjBCTmJyVlFxeEFlT3duQVo2MmlySVZ0QVd1V3hVeEdoQ29zbEFOWmM?oc=5\" target=\"_blank\">NEXT DELIVERYら3社、臨海部でレベル4見据えた「タワマン付帯型ドローン配送」を実証へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DRONE.jp</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE1MUWdjaHlGMGstcVAwdFNRSEJJczNlLWxaSUZ0bVl3R1VoSjRnQ3dyUDktSjBCTmJyVlFxeEFlT3duQVo2MmlySVZ0QVd1V3hVeEdoQ29zbEFOWmM?oc=5\" target=\"_blank\">NEXT DELIVERYら3社、臨海部でレベル4見据えた「タワマン付帯型ドローン配送」を実証へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DRONE.jp</font>",
@@ -148,42 +225,6 @@
           "freshness": 0,
           "titleBonus": 10,
           "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "AIR KS Offers Grant Funding to Advance UAS and BVLOS Operations in Kansas",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQWEpDMjhsanE0ZHp3Vkx6THRkX3IwWjIzc0tUSjJRLTN0a3FhZFdGcmM3bzcwdU5udTdRaS1JYnBRZGg3Z3FSZHQzUV9RdV82b2k4VEttS3BLWDJKUWlJUHcwZzZrU3NMVFdLVjJOQ2VxaTdBRUk5VVJWTmd4TWNycDJKeGJSazMxQ3l5aFVteVVjeWlvM1UtV3R0WEgtYUdKdEJyM3cwaUN3aFk2ZHpwU2YzUQ?oc=5\" target=\"_blank\">AIR KS Offers Grant Funding to Advance UAS and BVLOS Operations in Kansas</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kansas Department of Commerce (.gov)</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQWEpDMjhsanE0ZHp3Vkx6THRkX3IwWjIzc0tUSjJRLTN0a3FhZFdGcmM3bzcwdU5udTdRaS1JYnBRZGg3Z3FSZHQzUV9RdV82b2k4VEttS3BLWDJKUWlJUHcwZzZrU3NMVFdLVjJOQ2VxaTdBRUk5VVJWTmd4TWNycDJKeGJSazMxQ3l5aFVteVVjeWlvM1UtV3R0WEgtYUdKdEJyM3cwaUN3aFk2ZHpwU2YzUQ?oc=5\" target=\"_blank\">AIR KS Offers Grant Funding to Advance UAS and BVLOS Operations in Kansas</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kansas Department of Commerce (.gov)</font>",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWEpDMjhsanE0ZHp3Vkx6THRkX3IwWjIzc0tUSjJRLTN0a3FhZFdGcmM3bzcwdU5udTdRaS1JYnBRZGg3Z3FSZHQzUV9RdV82b2k4VEttS3BLWDJKUWlJUHcwZzZrU3NMVFdLVjJOQ2VxaTdBRUk5VVJWTmd4TWNycDJKeGJSazMxQ3l5aFVteVVjeWlvM1UtV3R0WEgtYUdKdEJyM3cwaUN3aFk2ZHpwU2YzUQ?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWEpDMjhsanE0ZHp3Vkx6THRkX3IwWjIzc0tUSjJRLTN0a3FhZFdGcmM3bzcwdU5udTdRaS1JYnBRZGg3Z3FSZHQzUV9RdV82b2k4VEttS3BLWDJKUWlJUHcwZzZrU3NMVFdLVjJOQ2VxaTdBRUk5VVJWTmd4TWNycDJKeGJSazMxQ3l5aFVteVVjeWlvM1UtV3R0WEgtYUdKdEJyM3cwaUN3aFk2ZHpwU2YzUQ?oc=5",
-      "publishedAt": "2026-10-22T16:38:26.000Z",
-      "source": "Kansas Department of Commerce (.gov)",
-      "_feedRegion": "global",
-      "_feedName": "Google News (Global)",
-      "_scoring": {
-        "score": 67,
-        "categories": [
-          "規制・政策",
-          "市場・資金"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 1,
-            "catScore": 32
-          },
-          "market": {
-            "matches": 1,
-            "catScore": 20
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 15,
-          "titleBonus": 10
         },
         "pass": true
       }
@@ -255,75 +296,6 @@
             "multiplier": 0.8
           },
           "freshness": 0,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "島のインフラ保守点検にドローン活用…船で往復２時間かけて歩き回って目視→離れた営業所で映像を確認、課題は",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE45NHlWX3lqMERfcVpEVW9xVDRrcTVxV0pPUUh1VDJOSlkwTWM3NE85eHE2cGJWZVVBaGxXc2V6RVRKVmo0cmwzcTJPeXBMQ3E4aHFaLTBKQXJPdlE4dHF3MTZzMm1YUV9vem1XV2JRazU3WmY1aDBibEttOURNNUE?oc=5\" target=\"_blank\">島のインフラ保守点検にドローン活用…船で往復２時間かけて歩き回って目視→離れた営業所で映像を確認、課題は</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE45NHlWX3lqMERfcVpEVW9xVDRrcTVxV0pPUUh1VDJOSlkwTWM3NE85eHE2cGJWZVVBaGxXc2V6RVRKVmo0cmwzcTJPeXBMQ3E4aHFaLTBKQXJPdlE4dHF3MTZzMm1YUV9vem1XV2JRazU3WmY1aDBibEttOURNNUE?oc=5\" target=\"_blank\">島のインフラ保守点検にドローン活用…船で往復２時間かけて歩き回って目視→離れた営業所で映像を確認、課題は</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE45NHlWX3lqMERfcVpEVW9xVDRrcTVxV0pPUUh1VDJOSlkwTWM3NE85eHE2cGJWZVVBaGxXc2V6RVRKVmo0cmwzcTJPeXBMQ3E4aHFaLTBKQXJPdlE4dHF3MTZzMm1YUV9vem1XV2JRazU3WmY1aDBibEttOURNNUE?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE45NHlWX3lqMERfcVpEVW9xVDRrcTVxV0pPUUh1VDJOSlkwTWM3NE85eHE2cGJWZVVBaGxXc2V6RVRKVmo0cmwzcTJPeXBMQ3E4aHFaLTBKQXJPdlE4dHF3MTZzMm1YUV9vem1XV2JRazU3WmY1aDBibEttOURNNUE?oc=5",
-      "publishedAt": "2026-10-23T01:33:49.000Z",
-      "source": "Yahoo!ニュース",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP)",
-      "_scoring": {
-        "score": 64,
-        "categories": [
-          "政策・インフラ"
-        ],
-        "breakdown": {
-          "required": true,
-          "policy": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 20,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "Prodrone、パーソルから資金調達を実施。人材採用・育成の強化で「国産ドローンの量産体制」構築を推進",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE8wb3VXVkRxYTBldlhaXzdYSHJHOG1KN2RaZ3dCUlVWOXF3SVl2VEg2dHY0Z2RBaHNNQkNHSnBYQzJ3MVhZMDFYLXY0cExqRlB1WVVRY2hDeUMtY1E?oc=5\" target=\"_blank\">Prodrone、パーソルから資金調達を実施。人材採用・育成の強化で「国産ドローンの量産体制」構築を推進</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DRONE.jp</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE8wb3VXVkRxYTBldlhaXzdYSHJHOG1KN2RaZ3dCUlVWOXF3SVl2VEg2dHY0Z2RBaHNNQkNHSnBYQzJ3MVhZMDFYLXY0cExqRlB1WVVRY2hDeUMtY1E?oc=5\" target=\"_blank\">Prodrone、パーソルから資金調達を実施。人材採用・育成の強化で「国産ドローンの量産体制」構築を推進</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DRONE.jp</font>",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8wb3VXVkRxYTBldlhaXzdYSHJHOG1KN2RaZ3dCUlVWOXF3SVl2VEg2dHY0Z2RBaHNNQkNHSnBYQzJ3MVhZMDFYLXY0cExqRlB1WVVRY2hDeUMtY1E?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8wb3VXVkRxYTBldlhaXzdYSHJHOG1KN2RaZ3dCUlVWOXF3SVl2VEg2dHY0Z2RBaHNNQkNHSnBYQzJ3MVhZMDFYLXY0cExqRlB1WVVRY2hDeUMtY1E?oc=5",
-      "publishedAt": "2026-09-02T07:00:00.000Z",
-      "source": "DRONE.jp",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP ドローン専門)",
-      "_scoring": {
-        "score": 64,
-        "categories": [
-          "技術・製品",
-          "市場・資金"
-        ],
-        "breakdown": {
-          "required": true,
-          "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "market": {
-            "matches": 2,
-            "catScore": 25
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 0,
-          "titleBonus": 10,
           "jpRegionBonus": 15
         },
         "pass": true
@@ -478,6 +450,42 @@
       }
     },
     {
+      "title": "AIR KS Offers Grant Funding to Advance UAS and BVLOS Operations in Kansas",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQWEpDMjhsanE0ZHp3Vkx6THRkX3IwWjIzc0tUSjJRLTN0a3FhZFdGcmM3bzcwdU5udTdRaS1JYnBRZGg3Z3FSZHQzUV9RdV82b2k4VEttS3BLWDJKUWlJUHcwZzZrU3NMVFdLVjJOQ2VxaTdBRUk5VVJWTmd4TWNycDJKeGJSazMxQ3l5aFVteVVjeWlvM1UtV3R0WEgtYUdKdEJyM3cwaUN3aFk2ZHpwU2YzUQ?oc=5\" target=\"_blank\">AIR KS Offers Grant Funding to Advance UAS and BVLOS Operations in Kansas</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kansas Department of Commerce (.gov)</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQWEpDMjhsanE0ZHp3Vkx6THRkX3IwWjIzc0tUSjJRLTN0a3FhZFdGcmM3bzcwdU5udTdRaS1JYnBRZGg3Z3FSZHQzUV9RdV82b2k4VEttS3BLWDJKUWlJUHcwZzZrU3NMVFdLVjJOQ2VxaTdBRUk5VVJWTmd4TWNycDJKeGJSazMxQ3l5aFVteVVjeWlvM1UtV3R0WEgtYUdKdEJyM3cwaUN3aFk2ZHpwU2YzUQ?oc=5\" target=\"_blank\">AIR KS Offers Grant Funding to Advance UAS and BVLOS Operations in Kansas</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kansas Department of Commerce (.gov)</font>",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWEpDMjhsanE0ZHp3Vkx6THRkX3IwWjIzc0tUSjJRLTN0a3FhZFdGcmM3bzcwdU5udTdRaS1JYnBRZGg3Z3FSZHQzUV9RdV82b2k4VEttS3BLWDJKUWlJUHcwZzZrU3NMVFdLVjJOQ2VxaTdBRUk5VVJWTmd4TWNycDJKeGJSazMxQ3l5aFVteVVjeWlvM1UtV3R0WEgtYUdKdEJyM3cwaUN3aFk2ZHpwU2YzUQ?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWEpDMjhsanE0ZHp3Vkx6THRkX3IwWjIzc0tUSjJRLTN0a3FhZFdGcmM3bzcwdU5udTdRaS1JYnBRZGg3Z3FSZHQzUV9RdV82b2k4VEttS3BLWDJKUWlJUHcwZzZrU3NMVFdLVjJOQ2VxaTdBRUk5VVJWTmd4TWNycDJKeGJSazMxQ3l5aFVteVVjeWlvM1UtV3R0WEgtYUdKdEJyM3cwaUN3aFk2ZHpwU2YzUQ?oc=5",
+      "publishedAt": "2026-10-22T16:38:26.000Z",
+      "source": "Kansas Department of Commerce (.gov)",
+      "_feedRegion": "global",
+      "_feedName": "Google News (Global)",
+      "_scoring": {
+        "score": 62,
+        "categories": [
+          "規制・政策",
+          "市場・資金"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
+          "market": {
+            "matches": 1,
+            "catScore": 20
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 10,
+          "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
       "title": "ドローン測量・インフラ点検・建設DX向け産業用ドローン無料セミナーを9月25日（金）徳島で開催。DJI Matrice 400・Matrice 4シリーズ・Dock 3を実演紹介。：山陽新聞デジタル｜さんデジ",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE01ZlVIR2ZrMkdYNjlWSjd5NDJYSXhrWnNqdUxzSl9rdndSdjktaVhNWUtTcHlrc3ZSQ0F3WFRNT0I0bHVkaEphcjd2Ry1HSUdMMzNySV9JQ3BLYkhyRHFpQms2Szl2VDg?oc=5\" target=\"_blank\">ドローン測量・インフラ点検・建設DX向け産業用ドローン無料セミナーを9月25日（金）徳島で開催。DJI Matrice 400・Matrice 4シリーズ・Dock 3を実演紹介。：山陽新聞デジタル｜さんデジ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">山陽新聞</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE01ZlVIR2ZrMkdYNjlWSjd5NDJYSXhrWnNqdUxzSl9rdndSdjktaVhNWUtTcHlrc3ZSQ0F3WFRNT0I0bHVkaEphcjd2Ry1HSUdMMzNySV9JQ3BLYkhyRHFpQms2Szl2VDg?oc=5\" target=\"_blank\">ドローン測量・インフラ点検・建設DX向け産業用ドローン無料セミナーを9月25日（金）徳島で開催。DJI Matrice 400・Matrice 4シリーズ・Dock 3を実演紹介。：山陽新聞デジタル｜さんデジ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">山陽新聞</font>",
@@ -515,6 +523,70 @@
       }
     },
     {
+      "title": "エアロネクストと大和ハウス工業、東京都の都心タワマン向けドローン配送事業に採択",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFA2REpDeUtMbkJHdzRKRDczUENoaVJoWmVCS0tJb0s1X2VoaThickhhZmZINEloemJQVDVSa1ZDdG9HcWVhZWdTQjB2RjJKbjIyZGtlal8wRk1DUGZBQkpUYmpld1lxaVhEYmZzT1FQbDRMcHdNODl4Mw?oc=5\" target=\"_blank\">エアロネクストと大和ハウス工業、東京都の都心タワマン向けドローン配送事業に採択</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ドローンジャーナル</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFA2REpDeUtMbkJHdzRKRDczUENoaVJoWmVCS0tJb0s1X2VoaThickhhZmZINEloemJQVDVSa1ZDdG9HcWVhZWdTQjB2RjJKbjIyZGtlal8wRk1DUGZBQkpUYmpld1lxaVhEYmZzT1FQbDRMcHdNODl4Mw?oc=5\" target=\"_blank\">エアロネクストと大和ハウス工業、東京都の都心タワマン向けドローン配送事業に採択</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ドローンジャーナル</font>",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA2REpDeUtMbkJHdzRKRDczUENoaVJoWmVCS0tJb0s1X2VoaThickhhZmZINEloemJQVDVSa1ZDdG9HcWVhZWdTQjB2RjJKbjIyZGtlal8wRk1DUGZBQkpUYmpld1lxaVhEYmZzT1FQbDRMcHdNODl4Mw?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA2REpDeUtMbkJHdzRKRDczUENoaVJoWmVCS0tJb0s1X2VoaThickhhZmZINEloemJQVDVSa1ZDdG9HcWVhZWdTQjB2RjJKbjIyZGtlal8wRk1DUGZBQkpUYmpld1lxaVhEYmZzT1FQbDRMcHdNODl4Mw?oc=5",
+      "publishedAt": "2026-10-23T04:20:26.000Z",
+      "source": "ドローンジャーナル",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP 経済メディア)",
+      "_scoring": {
+        "score": 59,
+        "categories": [
+          "技術・製品"
+        ],
+        "breakdown": {
+          "required": true,
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 15,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "島のインフラ保守点検にドローン活用…船で往復２時間かけて歩き回って目視→離れた営業所で映像を確認、課題は",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOczAwWEkySjRzTHVYU1Nod1Y0eGNuaHJJVnd2WWtrM3VFUk9kNDhtMFlIQWF0M21CNElTSXF6MFZIaDRGOVZYNmVDeHpBWDE0YV9xeTg0V21UenBtd29zelMwY21YR1dfcXhHaFdETzZEZ0xzVWRyR2hFUS1VLXc1ZVJraExxLVhld2s1cnpn?oc=5\" target=\"_blank\">島のインフラ保守点検にドローン活用…船で往復２時間かけて歩き回って目視→離れた営業所で映像を確認、課題は</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOczAwWEkySjRzTHVYU1Nod1Y0eGNuaHJJVnd2WWtrM3VFUk9kNDhtMFlIQWF0M21CNElTSXF6MFZIaDRGOVZYNmVDeHpBWDE0YV9xeTg0V21UenBtd29zelMwY21YR1dfcXhHaFdETzZEZ0xzVWRyR2hFUS1VLXc1ZVJraExxLVhld2s1cnpn?oc=5\" target=\"_blank\">島のインフラ保守点検にドローン活用…船で往復２時間かけて歩き回って目視→離れた営業所で映像を確認、課題は</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOczAwWEkySjRzTHVYU1Nod1Y0eGNuaHJJVnd2WWtrM3VFUk9kNDhtMFlIQWF0M21CNElTSXF6MFZIaDRGOVZYNmVDeHpBWDE0YV9xeTg0V21UenBtd29zelMwY21YR1dfcXhHaFdETzZEZ0xzVWRyR2hFUS1VLXc1ZVJraExxLVhld2s1cnpn?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOczAwWEkySjRzTHVYU1Nod1Y0eGNuaHJJVnd2WWtrM3VFUk9kNDhtMFlIQWF0M21CNElTSXF6MFZIaDRGOVZYNmVDeHpBWDE0YV9xeTg0V21UenBtd29zelMwY21YR1dfcXhHaFdETzZEZ0xzVWRyR2hFUS1VLXc1ZVJraExxLVhld2s1cnpn?oc=5",
+      "publishedAt": "2026-10-23T02:35:51.000Z",
+      "source": "Yahoo!ニュース",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP 事業者/実装)",
+      "_scoring": {
+        "score": 59,
+        "categories": [
+          "政策・インフラ"
+        ],
+        "breakdown": {
+          "required": true,
+          "policy": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 15,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
       "title": "The Drone Radio Show: FAA Part 2209, Protecting Critical Infrastructure with SkySafe's Melissa Swisher",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOLXFGRXl0WmU4MlBtWkVndDdNVDU5Z21UeXQ4VWFqcnVkNWpPY0pUV21Rb0dZdG1BaFM5S1k0VGdRS1JYTy1tbHA4NHZJUDBYZ3hWdHJrRWdNb0JTdEVucFQ5bUVJcTBrWmN6Q2hERUVXQkg3UjNieGdXMzN4a3oyeDMzYkxiWms?oc=5\" target=\"_blank\">The Drone Radio Show: FAA Part 2209, Protecting Critical Infrastructure with SkySafe's Melissa Swisher</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dronelife</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOLXFGRXl0WmU4MlBtWkVndDdNVDU5Z21UeXQ4VWFqcnVkNWpPY0pUV21Rb0dZdG1BaFM5S1k0VGdRS1JYTy1tbHA4NHZJUDBYZ3hWdHJrRWdNb0JTdEVucFQ5bUVJcTBrWmN6Q2hERUVXQkg3UjNieGdXMzN4a3oyeDMzYkxiWms?oc=5\" target=\"_blank\">The Drone Radio Show: FAA Part 2209, Protecting Critical Infrastructure with SkySafe's Melissa Swisher</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dronelife</font>",
@@ -545,37 +617,6 @@
             "multiplier": 0.8
           },
           "freshness": 2,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "FAA Grants BETA Technologies First Ever Certification for ALIA A250 Electric VTOL Aircraft",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxOaTVkVi1hcXp3Nm1pcERQcEpySTlHYzdMRkFSUHUxc2hjbzlSdFFTS0Q4eENPTnc0NzFtX1d3R1lZVlhLZW5KQ0ltMzhWMF96c2NxWldwU0YteDFDTURwLUptZU1DT2xTYjRYM2lxUlpoVlU4bk56TUtoVHJCNS1rcWlqcXlTdzI1Y0p1T2dNakpCdEdYc24wZVh1ZWtncGNVX2hrUFJPTUhlSmVPSFZmUllpeHdoRU1KQkp5ZGRWX2lDYnlVZTUzVHdnc1dvSFHSAc8BQVVfeXFMTmk1ZFYtYXF6dzZtaXBEUHBKckk5R2M3TEZBUlB1MXNoY285UnRRU0tEOHhDT053NDcxbV9Xd0dZWVZYS2VuSkNJbTM4VjBfenNjcVpXcFNGLXgxQ01EcC1KbWVNQ09sU2I0WDNpcVJaaFZVOG5Oek1LaFRyQjUta3FpanF5U3cyNWNKdU9nTWpKQnRHWHNuMGVYdWVrZ3BjVV9oa1BST01IZUplT0hWZlJZaXh3aEVNSkJKeWRkVl9pQ2J5VWU1M1R3Z3NXb0hR?oc=5\" target=\"_blank\">FAA Grants BETA Technologies First Ever Certification for ALIA A250 Electric VTOL Aircraft</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Inkorr</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxOaTVkVi1hcXp3Nm1pcERQcEpySTlHYzdMRkFSUHUxc2hjbzlSdFFTS0Q4eENPTnc0NzFtX1d3R1lZVlhLZW5KQ0ltMzhWMF96c2NxWldwU0YteDFDTURwLUptZU1DT2xTYjRYM2lxUlpoVlU4bk56TUtoVHJCNS1rcWlqcXlTdzI1Y0p1T2dNakpCdEdYc24wZVh1ZWtncGNVX2hrUFJPTUhlSmVPSFZmUllpeHdoRU1KQkp5ZGRWX2lDYnlVZTUzVHdnc1dvSFHSAc8BQVVfeXFMTmk1ZFYtYXF6dzZtaXBEUHBKckk5R2M3TEZBUlB1MXNoY285UnRRU0tEOHhDT053NDcxbV9Xd0dZWVZYS2VuSkNJbTM4VjBfenNjcVpXcFNGLXgxQ01EcC1KbWVNQ09sU2I0WDNpcVJaaFZVOG5Oek1LaFRyQjUta3FpanF5U3cyNWNKdU9nTWpKQnRHWHNuMGVYdWVrZ3BjVV9oa1BST01IZUplT0hWZlJZaXh3aEVNSkJKeWRkVl9pQ2J5VWU1M1R3Z3NXb0hR?oc=5\" target=\"_blank\">FAA Grants BETA Technologies First Ever Certification for ALIA A250 Electric VTOL Aircraft</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Inkorr</font>",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOaTVkVi1hcXp3Nm1pcERQcEpySTlHYzdMRkFSUHUxc2hjbzlSdFFTS0Q4eENPTnc0NzFtX1d3R1lZVlhLZW5KQ0ltMzhWMF96c2NxWldwU0YteDFDTURwLUptZU1DT2xTYjRYM2lxUlpoVlU4bk56TUtoVHJCNS1rcWlqcXlTdzI1Y0p1T2dNakpCdEdYc24wZVh1ZWtncGNVX2hrUFJPTUhlSmVPSFZmUllpeHdoRU1KQkp5ZGRWX2lDYnlVZTUzVHdnc1dvSFHSAc8BQVVfeXFMTmk1ZFYtYXF6dzZtaXBEUHBKckk5R2M3TEZBUlB1MXNoY285UnRRU0tEOHhDT053NDcxbV9Xd0dZWVZYS2VuSkNJbTM4VjBfenNjcVpXcFNGLXgxQ01EcC1KbWVNQ09sU2I0WDNpcVJaaFZVOG5Oek1LaFRyQjUta3FpanF5U3cyNWNKdU9nTWpKQnRHWHNuMGVYdWVrZ3BjVV9oa1BST01IZUplT0hWZlJZaXh3aEVNSkJKeWRkVl9pQ2J5VWU1M1R3Z3NXb0hR?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOaTVkVi1hcXp3Nm1pcERQcEpySTlHYzdMRkFSUHUxc2hjbzlSdFFTS0Q4eENPTnc0NzFtX1d3R1lZVlhLZW5KQ0ltMzhWMF96c2NxWldwU0YteDFDTURwLUptZU1DT2xTYjRYM2lxUlpoVlU4bk56TUtoVHJCNS1rcWlqcXlTdzI1Y0p1T2dNakpCdEdYc24wZVh1ZWtncGNVX2hrUFJPTUhlSmVPSFZmUllpeHdoRU1KQkp5ZGRWX2lDYnlVZTUzVHdnc1dvSFHSAc8BQVVfeXFMTmk1ZFYtYXF6dzZtaXBEUHBKckk5R2M3TEZBUlB1MXNoY285UnRRU0tEOHhDT053NDcxbV9Xd0dZWVZYS2VuSkNJbTM4VjBfenNjcVpXcFNGLXgxQ01EcC1KbWVNQ09sU2I0WDNpcVJaaFZVOG5Oek1LaFRyQjUta3FpanF5U3cyNWNKdU9nTWpKQnRHWHNuMGVYdWVrZ3BjVV9oa1BST01IZUplT0hWZlJZaXh3aEVNSkJKeWRkVl9pQ2J5VWU1M1R3Z3NXb0hR?oc=5",
-      "publishedAt": "2026-10-22T17:01:13.000Z",
-      "source": "Inkorr",
-      "_feedRegion": "us",
-      "_feedName": "FAA",
-      "_scoring": {
-        "score": 57,
-        "categories": [
-          "規制・政策"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 2,
-            "catScore": 40
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 15,
           "titleBonus": 10
         },
         "pass": true
@@ -1040,42 +1081,6 @@
             "multiplier": 0.8
           },
           "freshness": 0,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "Europe weighs critical infrastructure operators C-UAS powers",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNY3pZcklZQVVkV1VJSUh0NFdzTVdNSWwtMnh0Z2FZMl9XZUgtQnp5NzllRXdwRjNzcWZuYUV3SEZndC1fb3JQc3MwUXVlRkE4OGctUVNhbUt4MlozdWc3cFNWSThuMnpMd2tTeE9SQ3ZwSld5bWpkOWdXcTV4bk9TeElCZllSMi1q?oc=5\" target=\"_blank\">Europe weighs critical infrastructure operators C-UAS powers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aerospace Global News</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNY3pZcklZQVVkV1VJSUh0NFdzTVdNSWwtMnh0Z2FZMl9XZUgtQnp5NzllRXdwRjNzcWZuYUV3SEZndC1fb3JQc3MwUXVlRkE4OGctUVNhbUt4MlozdWc3cFNWSThuMnpMd2tTeE9SQ3ZwSld5bWpkOWdXcTV4bk9TeElCZllSMi1q?oc=5\" target=\"_blank\">Europe weighs critical infrastructure operators C-UAS powers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aerospace Global News</font>",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNY3pZcklZQVVkV1VJSUh0NFdzTVdNSWwtMnh0Z2FZMl9XZUgtQnp5NzllRXdwRjNzcWZuYUV3SEZndC1fb3JQc3MwUXVlRkE4OGctUVNhbUt4MlozdWc3cFNWSThuMnpMd2tTeE9SQ3ZwSld5bWpkOWdXcTV4bk9TeElCZllSMi1q?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNY3pZcklZQVVkV1VJSUh0NFdzTVdNSWwtMnh0Z2FZMl9XZUgtQnp5NzllRXdwRjNzcWZuYUV3SEZndC1fb3JQc3MwUXVlRkE4OGctUVNhbUt4MlozdWc3cFNWSThuMnpMd2tTeE9SQ3ZwSld5bWpkOWdXcTV4bk9TeElCZllSMi1q?oc=5",
-      "publishedAt": "2026-10-22T10:27:00.000Z",
-      "source": "Aerospace Global News",
-      "_feedRegion": "global",
-      "_feedName": "Google News (Global)",
-      "_scoring": {
-        "score": 55,
-        "categories": [
-          "市場・資金",
-          "政策・インフラ"
-        ],
-        "breakdown": {
-          "required": true,
-          "market": {
-            "matches": 1,
-            "catScore": 20
-          },
-          "policy": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 10,
           "titleBonus": 10
         },
         "pass": true
