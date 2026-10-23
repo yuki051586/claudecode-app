@@ -1,7 +1,48 @@
 {
-  "generatedAt": "2026-10-23T14:47:15.871Z",
+  "generatedAt": "2026-10-23T18:58:00.566Z",
   "rawCount": 719,
   "articles": [
+    {
+      "title": "FAA Releases Draft Design Standards for Vertiports and Vertical Flight Facilities",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9VZXZ2aGRFMDVCbGl1MWRJLXhNV3hvdG5tRDFWVWc1bFJ4N0NGTzczcmFvcDFkOGdzM1pLVDVKRWlySGdXLUJKSWFsbGRtbmZpUmhqMDJfbkNHWlRUOG41S05ZcWFYYmpaTkc3a3FfcXUwZC1LYmwxMg?oc=5\" target=\"_blank\">FAA Releases Draft Design Standards for Vertiports and Vertical Flight Facilities</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dronelife</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9VZXZ2aGRFMDVCbGl1MWRJLXhNV3hvdG5tRDFWVWc1bFJ4N0NGTzczcmFvcDFkOGdzM1pLVDVKRWlySGdXLUJKSWFsbGRtbmZpUmhqMDJfbkNHWlRUOG41S05ZcWFYYmpaTkc3a3FfcXUwZC1LYmwxMg?oc=5\" target=\"_blank\">FAA Releases Draft Design Standards for Vertiports and Vertical Flight Facilities</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dronelife</font>",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9VZXZ2aGRFMDVCbGl1MWRJLXhNV3hvdG5tRDFWVWc1bFJ4N0NGTzczcmFvcDFkOGdzM1pLVDVKRWlySGdXLUJKSWFsbGRtbmZpUmhqMDJfbkNHWlRUOG41S05ZcWFYYmpaTkc3a3FfcXUwZC1LYmwxMg?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9VZXZ2aGRFMDVCbGl1MWRJLXhNV3hvdG5tRDFWVWc1bFJ4N0NGTzczcmFvcDFkOGdzM1pLVDVKRWlySGdXLUJKSWFsbGRtbmZpUmhqMDJfbkNHWlRUOG41S05ZcWFYYmpaTkc3a3FfcXUwZC1LYmwxMg?oc=5",
+      "publishedAt": "2026-10-23T15:00:00.000Z",
+      "source": "Dronelife",
+      "_feedRegion": "us",
+      "_feedName": "FAA",
+      "_scoring": {
+        "score": 86,
+        "categories": [
+          "規制・政策",
+          "市場・資金",
+          "政策・インフラ"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
+          "market": {
+            "matches": 1,
+            "catScore": 20
+          },
+          "policy": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 15,
+          "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
     {
       "title": "Signature Aviation and UrbanV formally launch US vertiport joint venture",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdVNqSGVnY0lfNVdOSy1jTW45aWs4am5IelhqUk4yXzN4aEFSYzM1ODkzRml1SDVKNE11ZVlnOGU5amh0NTlaSzlqVDYzNjNoUWw0TWYtakJyMXFtN3dlR1QzTDhXNXlkSTl5bmRTVzNiVktZMjE5bkdBbXVNQ25qN25TR0JuUG5YVlp5NkhzZUtqa2ZwRUtDcmhZamxFd1U1NE1hTmdhSjNMRGh1WVdjVTB6cml6ZG5DMzRTNVhMMXRqN1M0b3lUWTUzVy1FT0Z6aHg4?oc=5\" target=\"_blank\">Signature Aviation and UrbanV formally launch US vertiport joint venture</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Airport International</font>",
@@ -13,7 +54,7 @@
       "_feedRegion": "global",
       "_feedName": "Google News (Global)",
       "_scoring": {
-        "score": 83,
+        "score": 78,
         "categories": [
           "技術・製品",
           "市場・資金",
@@ -37,7 +78,7 @@
             "domain": "news.google.com",
             "multiplier": 0.8
           },
-          "freshness": 10,
+          "freshness": 5,
           "titleBonus": 10
         },
         "pass": true
@@ -109,6 +150,42 @@
           "market": {
             "matches": 2,
             "catScore": 25
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 15,
+          "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "Air taxi company expands across Texas, aiming to cut down commute times to airports",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOdS1ZTWJkWlFUV010M2RZOXU1dmJDOEN0emZma1F3eDBOcGg2bGU0YmlOZE0yaUZCYm9JU2lEN0YzVEhFVmpFU2dmdVdBZzJNVWNNYk1nZjVpLXZfSWp2OEdnZ0U3TjVURklXVm9jd1lWMW9ZdkpWSi1TQUpoZjhjUGFlYVRsTGxqSnpIOE15TjFldHRkMlV5TUYyU0FCZWJqYjQyMGN3d1NNbnpYR0ROYTJJY1AxT210LWVCUEhmTWRZT1lNMDhOVlB5RVc?oc=5\" target=\"_blank\">Air taxi company expands across Texas, aiming to cut down commute times to airports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WFAA</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOdS1ZTWJkWlFUV010M2RZOXU1dmJDOEN0emZma1F3eDBOcGg2bGU0YmlOZE0yaUZCYm9JU2lEN0YzVEhFVmpFU2dmdVdBZzJNVWNNYk1nZjVpLXZfSWp2OEdnZ0U3TjVURklXVm9jd1lWMW9ZdkpWSi1TQUpoZjhjUGFlYVRsTGxqSnpIOE15TjFldHRkMlV5TUYyU0FCZWJqYjQyMGN3d1NNbnpYR0ROYTJJY1AxT210LWVCUEhmTWRZT1lNMDhOVlB5RVc?oc=5\" target=\"_blank\">Air taxi company expands across Texas, aiming to cut down commute times to airports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WFAA</font>",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdS1ZTWJkWlFUV010M2RZOXU1dmJDOEN0emZma1F3eDBOcGg2bGU0YmlOZE0yaUZCYm9JU2lEN0YzVEhFVmpFU2dmdVdBZzJNVWNNYk1nZjVpLXZfSWp2OEdnZ0U3TjVURklXVm9jd1lWMW9ZdkpWSi1TQUpoZjhjUGFlYVRsTGxqSnpIOE15TjFldHRkMlV5TUYyU0FCZWJqYjQyMGN3d1NNbnpYR0ROYTJJY1AxT210LWVCUEhmTWRZT1lNMDhOVlB5RVc?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdS1ZTWJkWlFUV010M2RZOXU1dmJDOEN0emZma1F3eDBOcGg2bGU0YmlOZE0yaUZCYm9JU2lEN0YzVEhFVmpFU2dmdVdBZzJNVWNNYk1nZjVpLXZfSWp2OEdnZ0U3TjVURklXVm9jd1lWMW9ZdkpWSi1TQUpoZjhjUGFlYVRsTGxqSnpIOE15TjFldHRkMlV5TUYyU0FCZWJqYjQyMGN3d1NNbnpYR0ROYTJJY1AxT210LWVCUEhmTWRZT1lNMDhOVlB5RVc?oc=5",
+      "publishedAt": "2026-10-23T14:45:00.000Z",
+      "source": "WFAA",
+      "_feedRegion": "global",
+      "_feedName": "Google News (Global)",
+      "_scoring": {
+        "score": 70,
+        "categories": [
+          "規制・政策",
+          "政策・インフラ"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
+          "policy": {
+            "matches": 1,
+            "catScore": 24
           },
           "sourceTrust": {
             "domain": "news.google.com",
@@ -203,6 +280,42 @@
       "source": "Aerospace Manufacturing and Design",
       "_feedRegion": "us",
       "_feedName": "FAA",
+      "_scoring": {
+        "score": 67,
+        "categories": [
+          "規制・政策",
+          "市場・資金"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
+          "market": {
+            "matches": 1,
+            "catScore": 20
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 15,
+          "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "Kansas Opens $2 Million Grant for BVLOS Drone Operations",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE5sUWxvXzFOYm9tZWFGa3VLejV0Q3VxYU5MWmtLS01fbWRjSWJlN3RqaHNELVZoZHJrbnBGVWJEVHcxTjVlakQ1SE1Uc3o1RDBwQXdFTnJqem41SURkdzlEZkltcUFSVWd0NHFmZXU4QjVBVVY1dE4tWUYxSQ?oc=5\" target=\"_blank\">Kansas Opens $2 Million Grant for BVLOS Drone Operations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AVweb</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE5sUWxvXzFOYm9tZWFGa3VLejV0Q3VxYU5MWmtLS01fbWRjSWJlN3RqaHNELVZoZHJrbnBGVWJEVHcxTjVlakQ1SE1Uc3o1RDBwQXdFTnJqem41SURkdzlEZkltcUFSVWd0NHFmZXU4QjVBVVY1dE4tWUYxSQ?oc=5\" target=\"_blank\">Kansas Opens $2 Million Grant for BVLOS Drone Operations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AVweb</font>",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5sUWxvXzFOYm9tZWFGa3VLejV0Q3VxYU5MWmtLS01fbWRjSWJlN3RqaHNELVZoZHJrbnBGVWJEVHcxTjVlakQ1SE1Uc3o1RDBwQXdFTnJqem41SURkdzlEZkltcUFSVWd0NHFmZXU4QjVBVVY1dE4tWUYxSQ?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5sUWxvXzFOYm9tZWFGa3VLejV0Q3VxYU5MWmtLS01fbWRjSWJlN3RqaHNELVZoZHJrbnBGVWJEVHcxTjVlakQ1SE1Uc3o1RDBwQXdFTnJqem41SURkdzlEZkltcUFSVWd0NHFmZXU4QjVBVVY1dE4tWUYxSQ?oc=5",
+      "publishedAt": "2026-10-23T15:56:07.000Z",
+      "source": "AVweb",
+      "_feedRegion": "global",
+      "_feedName": "Google News (Global)",
       "_scoring": {
         "score": 67,
         "categories": [
@@ -332,43 +445,6 @@
             "multiplier": 0.8
           },
           "freshness": 0,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "Prodrone、パーソルから資金調達を実施。人材採用・育成の強化で「国産ドローンの量産体制」構築を推進",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE8wb3VXVkRxYTBldlhaXzdYSHJHOG1KN2RaZ3dCUlVWOXF3SVl2VEg2dHY0Z2RBaHNNQkNHSnBYQzJ3MVhZMDFYLXY0cExqRlB1WVVRY2hDeUMtY1E?oc=5\" target=\"_blank\">Prodrone、パーソルから資金調達を実施。人材採用・育成の強化で「国産ドローンの量産体制」構築を推進</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DRONE.jp</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE8wb3VXVkRxYTBldlhaXzdYSHJHOG1KN2RaZ3dCUlVWOXF3SVl2VEg2dHY0Z2RBaHNNQkNHSnBYQzJ3MVhZMDFYLXY0cExqRlB1WVVRY2hDeUMtY1E?oc=5\" target=\"_blank\">Prodrone、パーソルから資金調達を実施。人材採用・育成の強化で「国産ドローンの量産体制」構築を推進</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DRONE.jp</font>",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8wb3VXVkRxYTBldlhaXzdYSHJHOG1KN2RaZ3dCUlVWOXF3SVl2VEg2dHY0Z2RBaHNNQkNHSnBYQzJ3MVhZMDFYLXY0cExqRlB1WVVRY2hDeUMtY1E?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8wb3VXVkRxYTBldlhaXzdYSHJHOG1KN2RaZ3dCUlVWOXF3SVl2VEg2dHY0Z2RBaHNNQkNHSnBYQzJ3MVhZMDFYLXY0cExqRlB1WVVRY2hDeUMtY1E?oc=5",
-      "publishedAt": "2026-09-02T07:00:00.000Z",
-      "source": "DRONE.jp",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP ドローン専門)",
-      "_scoring": {
-        "score": 64,
-        "categories": [
-          "技術・製品",
-          "市場・資金"
-        ],
-        "breakdown": {
-          "required": true,
-          "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "market": {
-            "matches": 2,
-            "catScore": 25
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 0,
-          "titleBonus": 10,
           "jpRegionBonus": 15
         },
         "pass": true
@@ -523,36 +599,31 @@
       }
     },
     {
-      "title": "AIR KS Offers Grant Funding to Advance UAS and BVLOS Operations in Kansas",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQWEpDMjhsanE0ZHp3Vkx6THRkX3IwWjIzc0tUSjJRLTN0a3FhZFdGcmM3bzcwdU5udTdRaS1JYnBRZGg3Z3FSZHQzUV9RdV82b2k4VEttS3BLWDJKUWlJUHcwZzZrU3NMVFdLVjJOQ2VxaTdBRUk5VVJWTmd4TWNycDJKeGJSazMxQ3l5aFVteVVjeWlvM1UtV3R0WEgtYUdKdEJyM3cwaUN3aFk2ZHpwU2YzUQ?oc=5\" target=\"_blank\">AIR KS Offers Grant Funding to Advance UAS and BVLOS Operations in Kansas</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kansas Department of Commerce (.gov)</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQWEpDMjhsanE0ZHp3Vkx6THRkX3IwWjIzc0tUSjJRLTN0a3FhZFdGcmM3bzcwdU5udTdRaS1JYnBRZGg3Z3FSZHQzUV9RdV82b2k4VEttS3BLWDJKUWlJUHcwZzZrU3NMVFdLVjJOQ2VxaTdBRUk5VVJWTmd4TWNycDJKeGJSazMxQ3l5aFVteVVjeWlvM1UtV3R0WEgtYUdKdEJyM3cwaUN3aFk2ZHpwU2YzUQ?oc=5\" target=\"_blank\">AIR KS Offers Grant Funding to Advance UAS and BVLOS Operations in Kansas</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kansas Department of Commerce (.gov)</font>",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWEpDMjhsanE0ZHp3Vkx6THRkX3IwWjIzc0tUSjJRLTN0a3FhZFdGcmM3bzcwdU5udTdRaS1JYnBRZGg3Z3FSZHQzUV9RdV82b2k4VEttS3BLWDJKUWlJUHcwZzZrU3NMVFdLVjJOQ2VxaTdBRUk5VVJWTmd4TWNycDJKeGJSazMxQ3l5aFVteVVjeWlvM1UtV3R0WEgtYUdKdEJyM3cwaUN3aFk2ZHpwU2YzUQ?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWEpDMjhsanE0ZHp3Vkx6THRkX3IwWjIzc0tUSjJRLTN0a3FhZFdGcmM3bzcwdU5udTdRaS1JYnBRZGg3Z3FSZHQzUV9RdV82b2k4VEttS3BLWDJKUWlJUHcwZzZrU3NMVFdLVjJOQ2VxaTdBRUk5VVJWTmd4TWNycDJKeGJSazMxQ3l5aFVteVVjeWlvM1UtV3R0WEgtYUdKdEJyM3cwaUN3aFk2ZHpwU2YzUQ?oc=5",
-      "publishedAt": "2026-10-22T16:38:26.000Z",
-      "source": "Kansas Department of Commerce (.gov)",
-      "_feedRegion": "global",
-      "_feedName": "Google News (Global)",
+      "title": "Drone workshop to prepare participants for FAA Part 107 Certification",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxPRXlIQ0Q4eFdneVdXSFo2bmxNTUw4ZHY1UDR4R0otUlExV0VNMkxuYk9MMkNhdEFLLXprMmtMN3lKQ3lCZ2k1Ulg2WkhXanlud0h2MWJiR3FBcElFWVE0cGxCbkF3OFVoVHFHSTNMVjRqMjhVUmtUQ3NFUnAyZTBpbXIzd1c0QmVsVnhWRklMODA3Z2QxNWJMYjRfODU4cURoUEw0ZVB0ZWc1TmZIdm1nZHZnOGFqOGxud1pULS02MnZrQzhLeDhkQ2FtZk85eDZnWndMQ2pHdFg0dw?oc=5\" target=\"_blank\">Drone workshop to prepare participants for FAA Part 107 Certification</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Farm Forum</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxPRXlIQ0Q4eFdneVdXSFo2bmxNTUw4ZHY1UDR4R0otUlExV0VNMkxuYk9MMkNhdEFLLXprMmtMN3lKQ3lCZ2k1Ulg2WkhXanlud0h2MWJiR3FBcElFWVE0cGxCbkF3OFVoVHFHSTNMVjRqMjhVUmtUQ3NFUnAyZTBpbXIzd1c0QmVsVnhWRklMODA3Z2QxNWJMYjRfODU4cURoUEw0ZVB0ZWc1TmZIdm1nZHZnOGFqOGxud1pULS02MnZrQzhLeDhkQ2FtZk85eDZnWndMQ2pHdFg0dw?oc=5\" target=\"_blank\">Drone workshop to prepare participants for FAA Part 107 Certification</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Farm Forum</font>",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPRXlIQ0Q4eFdneVdXSFo2bmxNTUw4ZHY1UDR4R0otUlExV0VNMkxuYk9MMkNhdEFLLXprMmtMN3lKQ3lCZ2k1Ulg2WkhXanlud0h2MWJiR3FBcElFWVE0cGxCbkF3OFVoVHFHSTNMVjRqMjhVUmtUQ3NFUnAyZTBpbXIzd1c0QmVsVnhWRklMODA3Z2QxNWJMYjRfODU4cURoUEw0ZVB0ZWc1TmZIdm1nZHZnOGFqOGxud1pULS02MnZrQzhLeDhkQ2FtZk85eDZnWndMQ2pHdFg0dw?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPRXlIQ0Q4eFdneVdXSFo2bmxNTUw4ZHY1UDR4R0otUlExV0VNMkxuYk9MMkNhdEFLLXprMmtMN3lKQ3lCZ2k1Ulg2WkhXanlud0h2MWJiR3FBcElFWVE0cGxCbkF3OFVoVHFHSTNMVjRqMjhVUmtUQ3NFUnAyZTBpbXIzd1c0QmVsVnhWRklMODA3Z2QxNWJMYjRfODU4cURoUEw0ZVB0ZWc1TmZIdm1nZHZnOGFqOGxud1pULS02MnZrQzhLeDhkQ2FtZk85eDZnWndMQ2pHdFg0dw?oc=5",
+      "publishedAt": "2026-10-23T17:45:00.000Z",
+      "source": "Farm Forum",
+      "_feedRegion": "us",
+      "_feedName": "FAA",
       "_scoring": {
         "score": 62,
         "categories": [
-          "規制・政策",
-          "市場・資金"
+          "規制・政策"
         ],
         "breakdown": {
           "required": true,
           "regulation": {
-            "matches": 1,
-            "catScore": 32
-          },
-          "market": {
-            "matches": 1,
-            "catScore": 20
+            "matches": 3,
+            "catScore": 40
           },
           "sourceTrust": {
             "domain": "news.google.com",
             "multiplier": 0.8
           },
-          "freshness": 10,
+          "freshness": 20,
           "titleBonus": 10
         },
         "pass": true
@@ -596,20 +667,20 @@
       }
     },
     {
-      "title": "The Drone Radio Show: FAA Part 2209, Protecting Critical Infrastructure with SkySafe's Melissa Swisher",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOLXFGRXl0WmU4MlBtWkVndDdNVDU5Z21UeXQ4VWFqcnVkNWpPY0pUV21Rb0dZdG1BaFM5S1k0VGdRS1JYTy1tbHA4NHZJUDBYZ3hWdHJrRWdNb0JTdEVucFQ5bUVJcTBrWmN6Q2hERUVXQkg3UjNieGdXMzN4a3oyeDMzYkxiWms?oc=5\" target=\"_blank\">The Drone Radio Show: FAA Part 2209, Protecting Critical Infrastructure with SkySafe's Melissa Swisher</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dronelife</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOLXFGRXl0WmU4MlBtWkVndDdNVDU5Z21UeXQ4VWFqcnVkNWpPY0pUV21Rb0dZdG1BaFM5S1k0VGdRS1JYTy1tbHA4NHZJUDBYZ3hWdHJrRWdNb0JTdEVucFQ5bUVJcTBrWmN6Q2hERUVXQkg3UjNieGdXMzN4a3oyeDMzYkxiWms?oc=5\" target=\"_blank\">The Drone Radio Show: FAA Part 2209, Protecting Critical Infrastructure with SkySafe's Melissa Swisher</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dronelife</font>",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOLXFGRXl0WmU4MlBtWkVndDdNVDU5Z21UeXQ4VWFqcnVkNWpPY0pUV21Rb0dZdG1BaFM5S1k0VGdRS1JYTy1tbHA4NHZJUDBYZ3hWdHJrRWdNb0JTdEVucFQ5bUVJcTBrWmN6Q2hERUVXQkg3UjNieGdXMzN4a3oyeDMzYkxiWms?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOLXFGRXl0WmU4MlBtWkVndDdNVDU5Z21UeXQ4VWFqcnVkNWpPY0pUV21Rb0dZdG1BaFM5S1k0VGdRS1JYTy1tbHA4NHZJUDBYZ3hWdHJrRWdNb0JTdEVucFQ5bUVJcTBrWmN6Q2hERUVXQkg3UjNieGdXMzN4a3oyeDMzYkxiWms?oc=5",
-      "publishedAt": "2026-10-20T17:30:18.000Z",
-      "source": "Dronelife",
-      "_feedRegion": "us",
-      "_feedName": "FAA",
+      "title": "AIR KS Offers Grant Funding to Advance UAS and BVLOS Operations in Kansas",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQWEpDMjhsanE0ZHp3Vkx6THRkX3IwWjIzc0tUSjJRLTN0a3FhZFdGcmM3bzcwdU5udTdRaS1JYnBRZGg3Z3FSZHQzUV9RdV82b2k4VEttS3BLWDJKUWlJUHcwZzZrU3NMVFdLVjJOQ2VxaTdBRUk5VVJWTmd4TWNycDJKeGJSazMxQ3l5aFVteVVjeWlvM1UtV3R0WEgtYUdKdEJyM3cwaUN3aFk2ZHpwU2YzUQ?oc=5\" target=\"_blank\">AIR KS Offers Grant Funding to Advance UAS and BVLOS Operations in Kansas</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kansas Department of Commerce (.gov)</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQWEpDMjhsanE0ZHp3Vkx6THRkX3IwWjIzc0tUSjJRLTN0a3FhZFdGcmM3bzcwdU5udTdRaS1JYnBRZGg3Z3FSZHQzUV9RdV82b2k4VEttS3BLWDJKUWlJUHcwZzZrU3NMVFdLVjJOQ2VxaTdBRUk5VVJWTmd4TWNycDJKeGJSazMxQ3l5aFVteVVjeWlvM1UtV3R0WEgtYUdKdEJyM3cwaUN3aFk2ZHpwU2YzUQ?oc=5\" target=\"_blank\">AIR KS Offers Grant Funding to Advance UAS and BVLOS Operations in Kansas</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kansas Department of Commerce (.gov)</font>",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWEpDMjhsanE0ZHp3Vkx6THRkX3IwWjIzc0tUSjJRLTN0a3FhZFdGcmM3bzcwdU5udTdRaS1JYnBRZGg3Z3FSZHQzUV9RdV82b2k4VEttS3BLWDJKUWlJUHcwZzZrU3NMVFdLVjJOQ2VxaTdBRUk5VVJWTmd4TWNycDJKeGJSazMxQ3l5aFVteVVjeWlvM1UtV3R0WEgtYUdKdEJyM3cwaUN3aFk2ZHpwU2YzUQ?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWEpDMjhsanE0ZHp3Vkx6THRkX3IwWjIzc0tUSjJRLTN0a3FhZFdGcmM3bzcwdU5udTdRaS1JYnBRZGg3Z3FSZHQzUV9RdV82b2k4VEttS3BLWDJKUWlJUHcwZzZrU3NMVFdLVjJOQ2VxaTdBRUk5VVJWTmd4TWNycDJKeGJSazMxQ3l5aFVteVVjeWlvM1UtV3R0WEgtYUdKdEJyM3cwaUN3aFk2ZHpwU2YzUQ?oc=5",
+      "publishedAt": "2026-10-22T16:38:26.000Z",
+      "source": "Kansas Department of Commerce (.gov)",
+      "_feedRegion": "global",
+      "_feedName": "Google News (Global)",
       "_scoring": {
         "score": 57,
         "categories": [
           "規制・政策",
-          "政策・インフラ"
+          "市場・資金"
         ],
         "breakdown": {
           "required": true,
@@ -617,15 +688,15 @@
             "matches": 1,
             "catScore": 32
           },
-          "policy": {
+          "market": {
             "matches": 1,
-            "catScore": 24
+            "catScore": 20
           },
           "sourceTrust": {
             "domain": "news.google.com",
             "multiplier": 0.8
           },
-          "freshness": 2,
+          "freshness": 5,
           "titleBonus": 10
         },
         "pass": true
@@ -669,7 +740,7 @@
       "content": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQUm8wNTZpMl9acHdqRWxVLU85ZWtYSURCUERZWlRCTzBsN2dJMUUtM3lyRDZVVUNTYnFoVVFYdUVkS2dKZjBKanAzcGJBRWFQSXFRbnJyVGNiQy1naUhDa1RvaWNsUHA2RHB1c2gzRWpoUmxsUlBIa0E0YzRvZXE5YnlCN0w?oc=5\" target=\"_blank\">nuWay Ag's Yoder Takes FAA Drone Suspension Over Deer and Sled Lifts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DroneXL</font>",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUm8wNTZpMl9acHdqRWxVLU85ZWtYSURCUERZWlRCTzBsN2dJMUUtM3lyRDZVVUNTYnFoVVFYdUVkS2dKZjBKanAzcGJBRWFQSXFRbnJyVGNiQy1naUhDa1RvaWNsUHA2RHB1c2gzRWpoUmxsUlBIa0E0YzRvZXE5YnlCN0w?oc=5",
       "googleNewsUrl": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUm8wNTZpMl9acHdqRWxVLU85ZWtYSURCUERZWlRCTzBsN2dJMUUtM3lyRDZVVUNTYnFoVVFYdUVkS2dKZjBKanAzcGJBRWFQSXFRbnJyVGNiQy1naUhDa1RvaWNsUHA2RHB1c2gzRWpoUmxsUlBIa0E0YzRvZXE5YnlCN0w?oc=5",
-      "publishedAt": "2026-10-15T20:16:00.000Z",
+      "publishedAt": "2026-10-15T07:00:00.000Z",
       "source": "DroneXL",
       "_feedRegion": "us",
       "_feedName": "FAA",
@@ -722,6 +793,42 @@
             "catScore": 32
           },
           "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 0,
+          "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "The Drone Radio Show: FAA Part 2209, Protecting Critical Infrastructure with SkySafe's Melissa Swisher",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOLXFGRXl0WmU4MlBtWkVndDdNVDU5Z21UeXQ4VWFqcnVkNWpPY0pUV21Rb0dZdG1BaFM5S1k0VGdRS1JYTy1tbHA4NHZJUDBYZ3hWdHJrRWdNb0JTdEVucFQ5bUVJcTBrWmN6Q2hERUVXQkg3UjNieGdXMzN4a3oyeDMzYkxiWms?oc=5\" target=\"_blank\">The Drone Radio Show: FAA Part 2209, Protecting Critical Infrastructure with SkySafe's Melissa Swisher</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dronelife</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOLXFGRXl0WmU4MlBtWkVndDdNVDU5Z21UeXQ4VWFqcnVkNWpPY0pUV21Rb0dZdG1BaFM5S1k0VGdRS1JYTy1tbHA4NHZJUDBYZ3hWdHJrRWdNb0JTdEVucFQ5bUVJcTBrWmN6Q2hERUVXQkg3UjNieGdXMzN4a3oyeDMzYkxiWms?oc=5\" target=\"_blank\">The Drone Radio Show: FAA Part 2209, Protecting Critical Infrastructure with SkySafe's Melissa Swisher</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dronelife</font>",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOLXFGRXl0WmU4MlBtWkVndDdNVDU5Z21UeXQ4VWFqcnVkNWpPY0pUV21Rb0dZdG1BaFM5S1k0VGdRS1JYTy1tbHA4NHZJUDBYZ3hWdHJrRWdNb0JTdEVucFQ5bUVJcTBrWmN6Q2hERUVXQkg3UjNieGdXMzN4a3oyeDMzYkxiWms?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOLXFGRXl0WmU4MlBtWkVndDdNVDU5Z21UeXQ4VWFqcnVkNWpPY0pUV21Rb0dZdG1BaFM5S1k0VGdRS1JYTy1tbHA4NHZJUDBYZ3hWdHJrRWdNb0JTdEVucFQ5bUVJcTBrWmN6Q2hERUVXQkg3UjNieGdXMzN4a3oyeDMzYkxiWms?oc=5",
+      "publishedAt": "2026-10-20T17:30:18.000Z",
+      "source": "Dronelife",
+      "_feedRegion": "us",
+      "_feedName": "FAA",
+      "_scoring": {
+        "score": 55,
+        "categories": [
+          "規制・政策",
+          "政策・インフラ"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
+          "policy": {
             "matches": 1,
             "catScore": 24
           },
@@ -921,7 +1028,7 @@
       "content": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQYzZkcXhvZGdFT2FnN1BoYS02aVdtNU1kOWFoaDk4Vl92YmdjLUkyc1E4Zi1HdG9WejlIZUNZTklUQi1MZ1FUeDgxNm5pWFp3b05fTXpEN29EOEdwZzUyb1Z5Q1lIN21ZMmFrdkxmdWpoeUVMLUs2TXdxYmdKaHZDbmRyMThPckxXbXUzOEt4UG9FSUVwai1adkM2b1FlYmd5Y3lQTkFn?oc=5\" target=\"_blank\">Lawmakers Demand FAA Review of Amazon ($AMZN) Drone Delivery Hub</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quiver Quantitative</font>",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYzZkcXhvZGdFT2FnN1BoYS02aVdtNU1kOWFoaDk4Vl92YmdjLUkyc1E4Zi1HdG9WejlIZUNZTklUQi1MZ1FUeDgxNm5pWFp3b05fTXpEN29EOEdwZzUyb1Z5Q1lIN21ZMmFrdkxmdWpoeUVMLUs2TXdxYmdKaHZDbmRyMThPckxXbXUzOEt4UG9FSUVwai1adkM2b1FlYmd5Y3lQTkFn?oc=5",
       "googleNewsUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYzZkcXhvZGdFT2FnN1BoYS02aVdtNU1kOWFoaDk4Vl92YmdjLUkyc1E4Zi1HdG9WejlIZUNZTklUQi1MZ1FUeDgxNm5pWFp3b05fTXpEN29EOEdwZzUyb1Z5Q1lIN21ZMmFrdkxmdWpoeUVMLUs2TXdxYmdKaHZDbmRyMThPckxXbXUzOEt4UG9FSUVwai1adkM2b1FlYmd5Y3lQTkFn?oc=5",
-      "publishedAt": "2026-10-14T17:19:00.000Z",
+      "publishedAt": "2026-10-14T07:00:00.000Z",
       "source": "Quiver Quantitative",
       "_feedRegion": "us",
       "_feedName": "FAA",
@@ -983,110 +1090,6 @@
           },
           "freshness": 0,
           "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "DroneClear Launches ChatGPT App to Help Travelers Navigate Thailand’s Drone Rules",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE4yOFluQnJBVVdzQkdZeERMbWF2REpFX2xHd3pESEdPd1RFa1lNaDc5c1R1cERtT0tHelRCaG9sLVRLOUxYSkVTVlZ3SXA2M3F2ZGZBYjZBQ2VRdW1jNWVWVW5nb1k5NFVnSENkUk1nS1ZFMnFJcDdRUmQzSmw?oc=5\" target=\"_blank\">DroneClear Launches ChatGPT App to Help Travelers Navigate Thailand’s Drone Rules</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dronelife</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE4yOFluQnJBVVdzQkdZeERMbWF2REpFX2xHd3pESEdPd1RFa1lNaDc5c1R1cERtT0tHelRCaG9sLVRLOUxYSkVTVlZ3SXA2M3F2ZGZBYjZBQ2VRdW1jNWVWVW5nb1k5NFVnSENkUk1nS1ZFMnFJcDdRUmQzSmw?oc=5\" target=\"_blank\">DroneClear Launches ChatGPT App to Help Travelers Navigate Thailand’s Drone Rules</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dronelife</font>",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4yOFluQnJBVVdzQkdZeERMbWF2REpFX2xHd3pESEdPd1RFa1lNaDc5c1R1cERtT0tHelRCaG9sLVRLOUxYSkVTVlZ3SXA2M3F2ZGZBYjZBQ2VRdW1jNWVWVW5nb1k5NFVnSENkUk1nS1ZFMnFJcDdRUmQzSmw?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4yOFluQnJBVVdzQkdZeERMbWF2REpFX2xHd3pESEdPd1RFa1lNaDc5c1R1cERtT0tHelRCaG9sLVRLOUxYSkVTVlZ3SXA2M3F2ZGZBYjZBQ2VRdW1jNWVWVW5nb1k5NFVnSENkUk1nS1ZFMnFJcDdRUmQzSmw?oc=5",
-      "publishedAt": "2026-10-09T15:43:56.000Z",
-      "source": "Dronelife",
-      "_feedRegion": "eu",
-      "_feedName": "EASA",
-      "_scoring": {
-        "score": 55,
-        "categories": [
-          "規制・政策",
-          "技術・製品"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 1,
-            "catScore": 32
-          },
-          "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 0,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "Opinion: Flydubai Cockpit Allegation, EASA Saudi Airspace Bulletin and Leipzig Drone Strike Raise Questions of Aviation Security Accountability - Avi-Go",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE00c3FUcjI4cW9RNXRqckZxZDg5SDkyNFZQR2NyTzlWWXlqWFRWWDdsY2ZNMWZ5MFRKaE1GWVVtSGVMNWhTZzIyNno4UnZXU1I2T1doT0VvLTZQSHNJTHNGZ19lcHFxZmpseDdwb3lyNFFtM28?oc=5\" target=\"_blank\">Opinion: Flydubai Cockpit Allegation, EASA Saudi Airspace Bulletin and Leipzig Drone Strike Raise Questions of Aviation Security Accountability</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Avi-Go</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE00c3FUcjI4cW9RNXRqckZxZDg5SDkyNFZQR2NyTzlWWXlqWFRWWDdsY2ZNMWZ5MFRKaE1GWVVtSGVMNWhTZzIyNno4UnZXU1I2T1doT0VvLTZQSHNJTHNGZ19lcHFxZmpseDdwb3lyNFFtM28?oc=5\" target=\"_blank\">Opinion: Flydubai Cockpit Allegation, EASA Saudi Airspace Bulletin and Leipzig Drone Strike Raise Questions of Aviation Security Accountability</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Avi-Go</font>",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE00c3FUcjI4cW9RNXRqckZxZDg5SDkyNFZQR2NyTzlWWXlqWFRWWDdsY2ZNMWZ5MFRKaE1GWVVtSGVMNWhTZzIyNno4UnZXU1I2T1doT0VvLTZQSHNJTHNGZ19lcHFxZmpseDdwb3lyNFFtM28?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE00c3FUcjI4cW9RNXRqckZxZDg5SDkyNFZQR2NyTzlWWXlqWFRWWDdsY2ZNMWZ5MFRKaE1GWVVtSGVMNWhTZzIyNno4UnZXU1I2T1doT0VvLTZQSHNJTHNGZ19lcHFxZmpseDdwb3lyNFFtM28?oc=5",
-      "publishedAt": "2026-10-21T13:38:12.000Z",
-      "source": "Avi-Go",
-      "_feedRegion": "eu",
-      "_feedName": "EASA",
-      "_scoring": {
-        "score": 54,
-        "categories": [
-          "規制・政策",
-          "市場・資金"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 1,
-            "catScore": 32
-          },
-          "market": {
-            "matches": 1,
-            "catScore": 20
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 2,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "島のインフラ保守点検にドローン活用…船で往復２時間かけて歩き回って目視→離れた営業所で映像を確認、課題は",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOczAwWEkySjRzTHVYU1Nod1Y0eGNuaHJJVnd2WWtrM3VFUk9kNDhtMFlIQWF0M21CNElTSXF6MFZIaDRGOVZYNmVDeHpBWDE0YV9xeTg0V21UenBtd29zelMwY21YR1dfcXhHaFdETzZEZ0xzVWRyR2hFUS1VLXc1ZVJraExxLVhld2s1cnpn?oc=5\" target=\"_blank\">島のインフラ保守点検にドローン活用…船で往復２時間かけて歩き回って目視→離れた営業所で映像を確認、課題は</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOczAwWEkySjRzTHVYU1Nod1Y0eGNuaHJJVnd2WWtrM3VFUk9kNDhtMFlIQWF0M21CNElTSXF6MFZIaDRGOVZYNmVDeHpBWDE0YV9xeTg0V21UenBtd29zelMwY21YR1dfcXhHaFdETzZEZ0xzVWRyR2hFUS1VLXc1ZVJraExxLVhld2s1cnpn?oc=5\" target=\"_blank\">島のインフラ保守点検にドローン活用…船で往復２時間かけて歩き回って目視→離れた営業所で映像を確認、課題は</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOczAwWEkySjRzTHVYU1Nod1Y0eGNuaHJJVnd2WWtrM3VFUk9kNDhtMFlIQWF0M21CNElTSXF6MFZIaDRGOVZYNmVDeHpBWDE0YV9xeTg0V21UenBtd29zelMwY21YR1dfcXhHaFdETzZEZ0xzVWRyR2hFUS1VLXc1ZVJraExxLVhld2s1cnpn?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOczAwWEkySjRzTHVYU1Nod1Y0eGNuaHJJVnd2WWtrM3VFUk9kNDhtMFlIQWF0M21CNElTSXF6MFZIaDRGOVZYNmVDeHpBWDE0YV9xeTg0V21UenBtd29zelMwY21YR1dfcXhHaFdETzZEZ0xzVWRyR2hFUS1VLXc1ZVJraExxLVhld2s1cnpn?oc=5",
-      "publishedAt": "2026-10-23T02:35:51.000Z",
-      "source": "Yahoo!ニュース",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP 事業者/実装)",
-      "_scoring": {
-        "score": 54,
-        "categories": [
-          "政策・インフラ"
-        ],
-        "breakdown": {
-          "required": true,
-          "policy": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 10,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
         },
         "pass": true
       }
