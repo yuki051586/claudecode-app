@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T09:49:34.137Z",
+  "generatedAt": "2026-10-23T14:47:15.871Z",
   "rawCount": 719,
   "articles": [
     {
@@ -32,114 +32,6 @@
           "policy": {
             "matches": 2,
             "catScore": 30
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 10,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "ティアフォーとミュンヘン工科大、NVIDIA HyperionとAutowareを統合。DRIVE AGX Thor搭載で自動運転レベル4開発を加速",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE9yY2c3d3U3RTV6XzlyX3B3SkNHYUc2ZGJ3NEttR1ZIODNKQmtqWnJqU084Q3Bza0ZZei05WTc2TG1MdzBCYjNhUTFqSEUtNmlOU3BPeG03NkIxRUk?oc=5\" target=\"_blank\">ティアフォーとミュンヘン工科大、NVIDIA HyperionとAutowareを統合。DRIVE AGX Thor搭載で自動運転レベル4開発を加速</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DRONE.jp</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE9yY2c3d3U3RTV6XzlyX3B3SkNHYUc2ZGJ3NEttR1ZIODNKQmtqWnJqU084Q3Bza0ZZei05WTc2TG1MdzBCYjNhUTFqSEUtNmlOU3BPeG03NkIxRUk?oc=5\" target=\"_blank\">ティアフォーとミュンヘン工科大、NVIDIA HyperionとAutowareを統合。DRIVE AGX Thor搭載で自動運転レベル4開発を加速</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DRONE.jp</font>",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9yY2c3d3U3RTV6XzlyX3B3SkNHYUc2ZGJ3NEttR1ZIODNKQmtqWnJqU084Q3Bza0ZZei05WTc2TG1MdzBCYjNhUTFqSEUtNmlOU3BPeG03NkIxRUk?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9yY2c3d3U3RTV6XzlyX3B3SkNHYUc2ZGJ3NEttR1ZIODNKQmtqWnJqU084Q3Bza0ZZei05WTc2TG1MdzBCYjNhUTFqSEUtNmlOU3BPeG03NkIxRUk?oc=5",
-      "publishedAt": "2026-10-23T01:34:15.000Z",
-      "source": "DRONE.jp",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP ドローン専門)",
-      "_scoring": {
-        "score": 75,
-        "categories": [
-          "規制・政策",
-          "技術・製品"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 1,
-            "catScore": 32
-          },
-          "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 15,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "BETA secures FAA approval for eVTOL aircraft flights",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOTDBCdGtIUklHWjhULWoyajMyT1FYanBwQy0tYVBfaGY3NGZaU0ZHcDc0bVJfa2JIVVVVZV8wOHZKS2dUMmZFaUdYeEJ3dDAtQ3N6T3VhZDNFeFh3WGxhdEc4TlNqYTBpb3Ixcmc0ZnRhdGd0WmRjbUY4OEtXVjR2T1A0ajV5VzlXYjN6US1ibTF4cldzMzVRZ0VpNy1GRi04V0V5RQ?oc=5\" target=\"_blank\">BETA secures FAA approval for eVTOL aircraft flights</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aerospace Manufacturing and Design</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOTDBCdGtIUklHWjhULWoyajMyT1FYanBwQy0tYVBfaGY3NGZaU0ZHcDc0bVJfa2JIVVVVZV8wOHZKS2dUMmZFaUdYeEJ3dDAtQ3N6T3VhZDNFeFh3WGxhdEc4TlNqYTBpb3Ixcmc0ZnRhdGd0WmRjbUY4OEtXVjR2T1A0ajV5VzlXYjN6US1ibTF4cldzMzVRZ0VpNy1GRi04V0V5RQ?oc=5\" target=\"_blank\">BETA secures FAA approval for eVTOL aircraft flights</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aerospace Manufacturing and Design</font>",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTDBCdGtIUklHWjhULWoyajMyT1FYanBwQy0tYVBfaGY3NGZaU0ZHcDc0bVJfa2JIVVVVZV8wOHZKS2dUMmZFaUdYeEJ3dDAtQ3N6T3VhZDNFeFh3WGxhdEc4TlNqYTBpb3Ixcmc0ZnRhdGd0WmRjbUY4OEtXVjR2T1A0ajV5VzlXYjN6US1ibTF4cldzMzVRZ0VpNy1GRi04V0V5RQ?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTDBCdGtIUklHWjhULWoyajMyT1FYanBwQy0tYVBfaGY3NGZaU0ZHcDc0bVJfa2JIVVVVZV8wOHZKS2dUMmZFaUdYeEJ3dDAtQ3N6T3VhZDNFeFh3WGxhdEc4TlNqYTBpb3Ixcmc0ZnRhdGd0WmRjbUY4OEtXVjR2T1A0ajV5VzlXYjN6US1ibTF4cldzMzVRZ0VpNy1GRi04V0V5RQ?oc=5",
-      "publishedAt": "2026-10-23T07:00:00.000Z",
-      "source": "Aerospace Manufacturing and Design",
-      "_feedRegion": "us",
-      "_feedName": "FAA",
-      "_scoring": {
-        "score": 72,
-        "categories": [
-          "規制・政策",
-          "市場・資金"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 1,
-            "catScore": 32
-          },
-          "market": {
-            "matches": 1,
-            "catScore": 20
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 20,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "FAA Issues Special Airworthiness Market Survey Certificate For EVTOL Aircraft",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPaVlCYXNNWk1ZQjM5X0ZFd3FFU3BMdDROSHozQUZIYndZbFEtSDVWeUd2aENnLVplN0Y4YzVrczBudms3VTdmRnpZNXlRbHAtQ0lxaEYzVGpacGRDR2d2THpvOWRPbHp3LUtmWUdhTWpFeWlXSWxxWTBvd1VUcFNBS2NEcVVKX0RicmNSb0p1ZFdXWVFEd1kwX2I1R0kyakl2anFxOGttYUkzNmFkZmVBZkdvQ2laYjhQZXc?oc=5\" target=\"_blank\">FAA Issues Special Airworthiness Market Survey Certificate For EVTOL Aircraft</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RTTNews</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPaVlCYXNNWk1ZQjM5X0ZFd3FFU3BMdDROSHozQUZIYndZbFEtSDVWeUd2aENnLVplN0Y4YzVrczBudms3VTdmRnpZNXlRbHAtQ0lxaEYzVGpacGRDR2d2THpvOWRPbHp3LUtmWUdhTWpFeWlXSWxxWTBvd1VUcFNBS2NEcVVKX0RicmNSb0p1ZFdXWVFEd1kwX2I1R0kyakl2anFxOGttYUkzNmFkZmVBZkdvQ2laYjhQZXc?oc=5\" target=\"_blank\">FAA Issues Special Airworthiness Market Survey Certificate For EVTOL Aircraft</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RTTNews</font>",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaVlCYXNNWk1ZQjM5X0ZFd3FFU3BMdDROSHozQUZIYndZbFEtSDVWeUd2aENnLVplN0Y4YzVrczBudms3VTdmRnpZNXlRbHAtQ0lxaEYzVGpacGRDR2d2THpvOWRPbHp3LUtmWUdhTWpFeWlXSWxxWTBvd1VUcFNBS2NEcVVKX0RicmNSb0p1ZFdXWVFEd1kwX2I1R0kyakl2anFxOGttYUkzNmFkZmVBZkdvQ2laYjhQZXc?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaVlCYXNNWk1ZQjM5X0ZFd3FFU3BMdDROSHozQUZIYndZbFEtSDVWeUd2aENnLVplN0Y4YzVrczBudms3VTdmRnpZNXlRbHAtQ0lxaEYzVGpacGRDR2d2THpvOWRPbHp3LUtmWUdhTWpFeWlXSWxxWTBvd1VUcFNBS2NEcVVKX0RicmNSb0p1ZFdXWVFEd1kwX2I1R0kyakl2anFxOGttYUkzNmFkZmVBZkdvQ2laYjhQZXc?oc=5",
-      "publishedAt": "2026-10-22T11:49:00.000Z",
-      "source": "RTTNews",
-      "_feedRegion": "us",
-      "_feedName": "FAA",
-      "_scoring": {
-        "score": 71,
-        "categories": [
-          "規制・政策",
-          "技術・製品"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 2,
-            "catScore": 40
-          },
-          "technology": {
-            "matches": 1,
-            "catScore": 24
           },
           "sourceTrust": {
             "domain": "news.google.com",
@@ -193,6 +85,42 @@
       }
     },
     {
+      "title": "Kansas announces USD2M investment to boost UAS and BVLOS expansion",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQSVEwZVpXWExLSXNVSUhDUUdBNW9OZUJBV1BlRXlVNWRSWlVUM3VjUzZWWnFtODlFSFJXSC04MUlKdFlBLVhDY3BoUnhrYkJxQzVKOEpzTzJndHA1UzdwVHZabkdCT3V5N2g4SkFZNTFRWkdXYUh5T3d0REdJdEpoVGpIN0J1UVhLajZYOTJjUXNsVnUtbFBpQzFtbDdEUVhvY2FUYm5RQy1Na2JKYUhmWGZkbnBldw?oc=5\" target=\"_blank\">Kansas announces USD2M investment to boost UAS and BVLOS expansion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQSVEwZVpXWExLSXNVSUhDUUdBNW9OZUJBV1BlRXlVNWRSWlVUM3VjUzZWWnFtODlFSFJXSC04MUlKdFlBLVhDY3BoUnhrYkJxQzVKOEpzTzJndHA1UzdwVHZabkdCT3V5N2g4SkFZNTFRWkdXYUh5T3d0REdJdEpoVGpIN0J1UVhLajZYOTJjUXNsVnUtbFBpQzFtbDdEUVhvY2FUYm5RQy1Na2JKYUhmWGZkbnBldw?oc=5\" target=\"_blank\">Kansas announces USD2M investment to boost UAS and BVLOS expansion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSVEwZVpXWExLSXNVSUhDUUdBNW9OZUJBV1BlRXlVNWRSWlVUM3VjUzZWWnFtODlFSFJXSC04MUlKdFlBLVhDY3BoUnhrYkJxQzVKOEpzTzJndHA1UzdwVHZabkdCT3V5N2g4SkFZNTFRWkdXYUh5T3d0REdJdEpoVGpIN0J1UVhLajZYOTJjUXNsVnUtbFBpQzFtbDdEUVhvY2FUYm5RQy1Na2JKYUhmWGZkbnBldw?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSVEwZVpXWExLSXNVSUhDUUdBNW9OZUJBV1BlRXlVNWRSWlVUM3VjUzZWWnFtODlFSFJXSC04MUlKdFlBLVhDY3BoUnhrYkJxQzVKOEpzTzJndHA1UzdwVHZabkdCT3V5N2g4SkFZNTFRWkdXYUh5T3d0REdJdEpoVGpIN0J1UVhLajZYOTJjUXNsVnUtbFBpQzFtbDdEUVhvY2FUYm5RQy1Na2JKYUhmWGZkbnBldw?oc=5",
+      "publishedAt": "2026-10-23T10:28:47.000Z",
+      "source": "Unmanned airspace",
+      "_feedRegion": "global",
+      "_feedName": "Google News (Global)",
+      "_scoring": {
+        "score": 71,
+        "categories": [
+          "規制・政策",
+          "市場・資金"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
+          "market": {
+            "matches": 2,
+            "catScore": 25
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 15,
+          "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
       "title": "NEXT DELIVERYら3社、臨海部でレベル4見据えた「タワマン付帯型ドローン配送」を実証へ",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE1MUWdjaHlGMGstcVAwdFNRSEJJczNlLWxaSUZ0bVl3R1VoSjRnQ3dyUDktSjBCTmJyVlFxeEFlT3duQVo2MmlySVZ0QVd1V3hVeEdoQ29zbEFOWmM?oc=5\" target=\"_blank\">NEXT DELIVERYら3社、臨海部でレベル4見据えた「タワマン付帯型ドローン配送」を実証へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DRONE.jp</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE1MUWdjaHlGMGstcVAwdFNRSEJJczNlLWxaSUZ0bVl3R1VoSjRnQ3dyUDktSjBCTmJyVlFxeEFlT3duQVo2MmlySVZ0QVd1V3hVeEdoQ29zbEFOWmM?oc=5\" target=\"_blank\">NEXT DELIVERYら3社、臨海部でレベル4見据えた「タワマン付帯型ドローン配送」を実証へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DRONE.jp</font>",
@@ -230,6 +158,78 @@
       }
     },
     {
+      "title": "ティアフォーとミュンヘン工科大、NVIDIA HyperionとAutowareを統合。DRIVE AGX Thor搭載で自動運転レベル4開発を加速",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE9yY2c3d3U3RTV6XzlyX3B3SkNHYUc2ZGJ3NEttR1ZIODNKQmtqWnJqU084Q3Bza0ZZei05WTc2TG1MdzBCYjNhUTFqSEUtNmlOU3BPeG03NkIxRUk?oc=5\" target=\"_blank\">ティアフォーとミュンヘン工科大、NVIDIA HyperionとAutowareを統合。DRIVE AGX Thor搭載で自動運転レベル4開発を加速</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DRONE.jp</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE9yY2c3d3U3RTV6XzlyX3B3SkNHYUc2ZGJ3NEttR1ZIODNKQmtqWnJqU084Q3Bza0ZZei05WTc2TG1MdzBCYjNhUTFqSEUtNmlOU3BPeG03NkIxRUk?oc=5\" target=\"_blank\">ティアフォーとミュンヘン工科大、NVIDIA HyperionとAutowareを統合。DRIVE AGX Thor搭載で自動運転レベル4開発を加速</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DRONE.jp</font>",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9yY2c3d3U3RTV6XzlyX3B3SkNHYUc2ZGJ3NEttR1ZIODNKQmtqWnJqU084Q3Bza0ZZei05WTc2TG1MdzBCYjNhUTFqSEUtNmlOU3BPeG03NkIxRUk?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9yY2c3d3U3RTV6XzlyX3B3SkNHYUc2ZGJ3NEttR1ZIODNKQmtqWnJqU084Q3Bza0ZZei05WTc2TG1MdzBCYjNhUTFqSEUtNmlOU3BPeG03NkIxRUk?oc=5",
+      "publishedAt": "2026-10-23T01:34:15.000Z",
+      "source": "DRONE.jp",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP ドローン専門)",
+      "_scoring": {
+        "score": 70,
+        "categories": [
+          "規制・政策",
+          "技術・製品"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "BETA secures FAA approval for eVTOL aircraft flights",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOTDBCdGtIUklHWjhULWoyajMyT1FYanBwQy0tYVBfaGY3NGZaU0ZHcDc0bVJfa2JIVVVVZV8wOHZKS2dUMmZFaUdYeEJ3dDAtQ3N6T3VhZDNFeFh3WGxhdEc4TlNqYTBpb3Ixcmc0ZnRhdGd0WmRjbUY4OEtXVjR2T1A0ajV5VzlXYjN6US1ibTF4cldzMzVRZ0VpNy1GRi04V0V5RQ?oc=5\" target=\"_blank\">BETA secures FAA approval for eVTOL aircraft flights</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aerospace Manufacturing and Design</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOTDBCdGtIUklHWjhULWoyajMyT1FYanBwQy0tYVBfaGY3NGZaU0ZHcDc0bVJfa2JIVVVVZV8wOHZKS2dUMmZFaUdYeEJ3dDAtQ3N6T3VhZDNFeFh3WGxhdEc4TlNqYTBpb3Ixcmc0ZnRhdGd0WmRjbUY4OEtXVjR2T1A0ajV5VzlXYjN6US1ibTF4cldzMzVRZ0VpNy1GRi04V0V5RQ?oc=5\" target=\"_blank\">BETA secures FAA approval for eVTOL aircraft flights</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aerospace Manufacturing and Design</font>",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTDBCdGtIUklHWjhULWoyajMyT1FYanBwQy0tYVBfaGY3NGZaU0ZHcDc0bVJfa2JIVVVVZV8wOHZKS2dUMmZFaUdYeEJ3dDAtQ3N6T3VhZDNFeFh3WGxhdEc4TlNqYTBpb3Ixcmc0ZnRhdGd0WmRjbUY4OEtXVjR2T1A0ajV5VzlXYjN6US1ibTF4cldzMzVRZ0VpNy1GRi04V0V5RQ?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTDBCdGtIUklHWjhULWoyajMyT1FYanBwQy0tYVBfaGY3NGZaU0ZHcDc0bVJfa2JIVVVVZV8wOHZKS2dUMmZFaUdYeEJ3dDAtQ3N6T3VhZDNFeFh3WGxhdEc4TlNqYTBpb3Ixcmc0ZnRhdGd0WmRjbUY4OEtXVjR2T1A0ajV5VzlXYjN6US1ibTF4cldzMzVRZ0VpNy1GRi04V0V5RQ?oc=5",
+      "publishedAt": "2026-10-23T07:00:00.000Z",
+      "source": "Aerospace Manufacturing and Design",
+      "_feedRegion": "us",
+      "_feedName": "FAA",
+      "_scoring": {
+        "score": 67,
+        "categories": [
+          "規制・政策",
+          "市場・資金"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
+          "market": {
+            "matches": 1,
+            "catScore": 20
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 15,
+          "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
       "title": "First Breach drone prototype hits FAA Part 107 speed limit; exec presenting at LD Micro",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxOMTByeFJ0SFA2VUMwS2lGeFBvd3V0NFVSTnRtMWhhREVReFh6OEhwSU11Wnl4WG5OUzE4MHowRGlPSGxnTkp2dndLdGhvZHJLdm9wNm9RTDB3QjZwYURKNVRyY0RjcVBzTW1UYkhkcXdJVkhIbGwwY2FrZnVFbV9hMDNFa2drdTFIV2gwWlJhdElZWmxDeWJnWERJMlo0TU11WkdoMHRVQkpPOUxtX3p1WUVpRHBOTDRkeU9kZ09zMzJXcWFoQVlVbVE1aFVMdzhtemIzNjh1ODBBUFY4WUY0RVNR?oc=5\" target=\"_blank\">First Breach drone prototype hits FAA Part 107 speed limit; exec presenting at LD Micro</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxOMTByeFJ0SFA2VUMwS2lGeFBvd3V0NFVSTnRtMWhhREVReFh6OEhwSU11Wnl4WG5OUzE4MHowRGlPSGxnTkp2dndLdGhvZHJLdm9wNm9RTDB3QjZwYURKNVRyY0RjcVBzTW1UYkhkcXdJVkhIbGwwY2FrZnVFbV9hMDNFa2drdTFIV2gwWlJhdElZWmxDeWJnWERJMlo0TU11WkdoMHRVQkpPOUxtX3p1WUVpRHBOTDRkeU9kZ09zMzJXcWFoQVlVbVE1aFVMdzhtemIzNjh1ODBBUFY4WUY0RVNR?oc=5\" target=\"_blank\">First Breach drone prototype hits FAA Part 107 speed limit; exec presenting at LD Micro</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
@@ -237,6 +237,42 @@
       "googleNewsUrl": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOMTByeFJ0SFA2VUMwS2lGeFBvd3V0NFVSTnRtMWhhREVReFh6OEhwSU11Wnl4WG5OUzE4MHowRGlPSGxnTkp2dndLdGhvZHJLdm9wNm9RTDB3QjZwYURKNVRyY0RjcVBzTW1UYkhkcXdJVkhIbGwwY2FrZnVFbV9hMDNFa2drdTFIV2gwWlJhdElZWmxDeWJnWERJMlo0TU11WkdoMHRVQkpPOUxtX3p1WUVpRHBOTDRkeU9kZ09zMzJXcWFoQVlVbVE1aFVMdzhtemIzNjh1ODBBUFY4WUY0RVNR?oc=5",
       "publishedAt": "2026-10-21T21:03:00.000Z",
       "source": "TradingView",
+      "_feedRegion": "us",
+      "_feedName": "FAA",
+      "_scoring": {
+        "score": 66,
+        "categories": [
+          "規制・政策",
+          "技術・製品"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 2,
+            "catScore": 40
+          },
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 5,
+          "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "FAA Issues Special Airworthiness Market Survey Certificate For EVTOL Aircraft",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPaVlCYXNNWk1ZQjM5X0ZFd3FFU3BMdDROSHozQUZIYndZbFEtSDVWeUd2aENnLVplN0Y4YzVrczBudms3VTdmRnpZNXlRbHAtQ0lxaEYzVGpacGRDR2d2THpvOWRPbHp3LUtmWUdhTWpFeWlXSWxxWTBvd1VUcFNBS2NEcVVKX0RicmNSb0p1ZFdXWVFEd1kwX2I1R0kyakl2anFxOGttYUkzNmFkZmVBZkdvQ2laYjhQZXc?oc=5\" target=\"_blank\">FAA Issues Special Airworthiness Market Survey Certificate For EVTOL Aircraft</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RTTNews</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPaVlCYXNNWk1ZQjM5X0ZFd3FFU3BMdDROSHozQUZIYndZbFEtSDVWeUd2aENnLVplN0Y4YzVrczBudms3VTdmRnpZNXlRbHAtQ0lxaEYzVGpacGRDR2d2THpvOWRPbHp3LUtmWUdhTWpFeWlXSWxxWTBvd1VUcFNBS2NEcVVKX0RicmNSb0p1ZFdXWVFEd1kwX2I1R0kyakl2anFxOGttYUkzNmFkZmVBZkdvQ2laYjhQZXc?oc=5\" target=\"_blank\">FAA Issues Special Airworthiness Market Survey Certificate For EVTOL Aircraft</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RTTNews</font>",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaVlCYXNNWk1ZQjM5X0ZFd3FFU3BMdDROSHozQUZIYndZbFEtSDVWeUd2aENnLVplN0Y4YzVrczBudms3VTdmRnpZNXlRbHAtQ0lxaEYzVGpacGRDR2d2THpvOWRPbHp3LUtmWUdhTWpFeWlXSWxxWTBvd1VUcFNBS2NEcVVKX0RicmNSb0p1ZFdXWVFEd1kwX2I1R0kyakl2anFxOGttYUkzNmFkZmVBZkdvQ2laYjhQZXc?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaVlCYXNNWk1ZQjM5X0ZFd3FFU3BMdDROSHozQUZIYndZbFEtSDVWeUd2aENnLVplN0Y4YzVrczBudms3VTdmRnpZNXlRbHAtQ0lxaEYzVGpacGRDR2d2THpvOWRPbHp3LUtmWUdhTWpFeWlXSWxxWTBvd1VUcFNBS2NEcVVKX0RicmNSb0p1ZFdXWVFEd1kwX2I1R0kyakl2anFxOGttYUkzNmFkZmVBZkdvQ2laYjhQZXc?oc=5",
+      "publishedAt": "2026-10-22T11:49:00.000Z",
+      "source": "RTTNews",
       "_feedRegion": "us",
       "_feedName": "FAA",
       "_scoring": {
@@ -296,6 +332,43 @@
             "multiplier": 0.8
           },
           "freshness": 0,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "Prodrone、パーソルから資金調達を実施。人材採用・育成の強化で「国産ドローンの量産体制」構築を推進",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE8wb3VXVkRxYTBldlhaXzdYSHJHOG1KN2RaZ3dCUlVWOXF3SVl2VEg2dHY0Z2RBaHNNQkNHSnBYQzJ3MVhZMDFYLXY0cExqRlB1WVVRY2hDeUMtY1E?oc=5\" target=\"_blank\">Prodrone、パーソルから資金調達を実施。人材採用・育成の強化で「国産ドローンの量産体制」構築を推進</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DRONE.jp</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE8wb3VXVkRxYTBldlhaXzdYSHJHOG1KN2RaZ3dCUlVWOXF3SVl2VEg2dHY0Z2RBaHNNQkNHSnBYQzJ3MVhZMDFYLXY0cExqRlB1WVVRY2hDeUMtY1E?oc=5\" target=\"_blank\">Prodrone、パーソルから資金調達を実施。人材採用・育成の強化で「国産ドローンの量産体制」構築を推進</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DRONE.jp</font>",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8wb3VXVkRxYTBldlhaXzdYSHJHOG1KN2RaZ3dCUlVWOXF3SVl2VEg2dHY0Z2RBaHNNQkNHSnBYQzJ3MVhZMDFYLXY0cExqRlB1WVVRY2hDeUMtY1E?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8wb3VXVkRxYTBldlhaXzdYSHJHOG1KN2RaZ3dCUlVWOXF3SVl2VEg2dHY0Z2RBaHNNQkNHSnBYQzJ3MVhZMDFYLXY0cExqRlB1WVVRY2hDeUMtY1E?oc=5",
+      "publishedAt": "2026-09-02T07:00:00.000Z",
+      "source": "DRONE.jp",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP ドローン専門)",
+      "_scoring": {
+        "score": 64,
+        "categories": [
+          "技術・製品",
+          "市場・資金"
+        ],
+        "breakdown": {
+          "required": true,
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "market": {
+            "matches": 2,
+            "catScore": 25
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 0,
+          "titleBonus": 10,
           "jpRegionBonus": 15
         },
         "pass": true
@@ -523,70 +596,6 @@
       }
     },
     {
-      "title": "エアロネクストと大和ハウス工業、東京都の都心タワマン向けドローン配送事業に採択",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFA2REpDeUtMbkJHdzRKRDczUENoaVJoWmVCS0tJb0s1X2VoaThickhhZmZINEloemJQVDVSa1ZDdG9HcWVhZWdTQjB2RjJKbjIyZGtlal8wRk1DUGZBQkpUYmpld1lxaVhEYmZzT1FQbDRMcHdNODl4Mw?oc=5\" target=\"_blank\">エアロネクストと大和ハウス工業、東京都の都心タワマン向けドローン配送事業に採択</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ドローンジャーナル</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFA2REpDeUtMbkJHdzRKRDczUENoaVJoWmVCS0tJb0s1X2VoaThickhhZmZINEloemJQVDVSa1ZDdG9HcWVhZWdTQjB2RjJKbjIyZGtlal8wRk1DUGZBQkpUYmpld1lxaVhEYmZzT1FQbDRMcHdNODl4Mw?oc=5\" target=\"_blank\">エアロネクストと大和ハウス工業、東京都の都心タワマン向けドローン配送事業に採択</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ドローンジャーナル</font>",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA2REpDeUtMbkJHdzRKRDczUENoaVJoWmVCS0tJb0s1X2VoaThickhhZmZINEloemJQVDVSa1ZDdG9HcWVhZWdTQjB2RjJKbjIyZGtlal8wRk1DUGZBQkpUYmpld1lxaVhEYmZzT1FQbDRMcHdNODl4Mw?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA2REpDeUtMbkJHdzRKRDczUENoaVJoWmVCS0tJb0s1X2VoaThickhhZmZINEloemJQVDVSa1ZDdG9HcWVhZWdTQjB2RjJKbjIyZGtlal8wRk1DUGZBQkpUYmpld1lxaVhEYmZzT1FQbDRMcHdNODl4Mw?oc=5",
-      "publishedAt": "2026-10-23T04:20:26.000Z",
-      "source": "ドローンジャーナル",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP 経済メディア)",
-      "_scoring": {
-        "score": 59,
-        "categories": [
-          "技術・製品"
-        ],
-        "breakdown": {
-          "required": true,
-          "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 15,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "島のインフラ保守点検にドローン活用…船で往復２時間かけて歩き回って目視→離れた営業所で映像を確認、課題は",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOczAwWEkySjRzTHVYU1Nod1Y0eGNuaHJJVnd2WWtrM3VFUk9kNDhtMFlIQWF0M21CNElTSXF6MFZIaDRGOVZYNmVDeHpBWDE0YV9xeTg0V21UenBtd29zelMwY21YR1dfcXhHaFdETzZEZ0xzVWRyR2hFUS1VLXc1ZVJraExxLVhld2s1cnpn?oc=5\" target=\"_blank\">島のインフラ保守点検にドローン活用…船で往復２時間かけて歩き回って目視→離れた営業所で映像を確認、課題は</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOczAwWEkySjRzTHVYU1Nod1Y0eGNuaHJJVnd2WWtrM3VFUk9kNDhtMFlIQWF0M21CNElTSXF6MFZIaDRGOVZYNmVDeHpBWDE0YV9xeTg0V21UenBtd29zelMwY21YR1dfcXhHaFdETzZEZ0xzVWRyR2hFUS1VLXc1ZVJraExxLVhld2s1cnpn?oc=5\" target=\"_blank\">島のインフラ保守点検にドローン活用…船で往復２時間かけて歩き回って目視→離れた営業所で映像を確認、課題は</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOczAwWEkySjRzTHVYU1Nod1Y0eGNuaHJJVnd2WWtrM3VFUk9kNDhtMFlIQWF0M21CNElTSXF6MFZIaDRGOVZYNmVDeHpBWDE0YV9xeTg0V21UenBtd29zelMwY21YR1dfcXhHaFdETzZEZ0xzVWRyR2hFUS1VLXc1ZVJraExxLVhld2s1cnpn?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOczAwWEkySjRzTHVYU1Nod1Y0eGNuaHJJVnd2WWtrM3VFUk9kNDhtMFlIQWF0M21CNElTSXF6MFZIaDRGOVZYNmVDeHpBWDE0YV9xeTg0V21UenBtd29zelMwY21YR1dfcXhHaFdETzZEZ0xzVWRyR2hFUS1VLXc1ZVJraExxLVhld2s1cnpn?oc=5",
-      "publishedAt": "2026-10-23T02:35:51.000Z",
-      "source": "Yahoo!ニュース",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP 事業者/実装)",
-      "_scoring": {
-        "score": 59,
-        "categories": [
-          "政策・インフラ"
-        ],
-        "breakdown": {
-          "required": true,
-          "policy": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 15,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
       "title": "The Drone Radio Show: FAA Part 2209, Protecting Critical Infrastructure with SkySafe's Melissa Swisher",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOLXFGRXl0WmU4MlBtWkVndDdNVDU5Z21UeXQ4VWFqcnVkNWpPY0pUV21Rb0dZdG1BaFM5S1k0VGdRS1JYTy1tbHA4NHZJUDBYZ3hWdHJrRWdNb0JTdEVucFQ5bUVJcTBrWmN6Q2hERUVXQkg3UjNieGdXMzN4a3oyeDMzYkxiWms?oc=5\" target=\"_blank\">The Drone Radio Show: FAA Part 2209, Protecting Critical Infrastructure with SkySafe's Melissa Swisher</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dronelife</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOLXFGRXl0WmU4MlBtWkVndDdNVDU5Z21UeXQ4VWFqcnVkNWpPY0pUV21Rb0dZdG1BaFM5S1k0VGdRS1JYTy1tbHA4NHZJUDBYZ3hWdHJrRWdNb0JTdEVucFQ5bUVJcTBrWmN6Q2hERUVXQkg3UjNieGdXMzN4a3oyeDMzYkxiWms?oc=5\" target=\"_blank\">The Drone Radio Show: FAA Part 2209, Protecting Critical Infrastructure with SkySafe's Melissa Swisher</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dronelife</font>",
@@ -618,78 +627,6 @@
           },
           "freshness": 2,
           "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "Opinion: Flydubai Cockpit Allegation, EASA Saudi Airspace Bulletin and Leipzig Drone Strike Raise Questions of Aviation Security Accountability - Avi-Go",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE00c3FUcjI4cW9RNXRqckZxZDg5SDkyNFZQR2NyTzlWWXlqWFRWWDdsY2ZNMWZ5MFRKaE1GWVVtSGVMNWhTZzIyNno4UnZXU1I2T1doT0VvLTZQSHNJTHNGZ19lcHFxZmpseDdwb3lyNFFtM28?oc=5\" target=\"_blank\">Opinion: Flydubai Cockpit Allegation, EASA Saudi Airspace Bulletin and Leipzig Drone Strike Raise Questions of Aviation Security Accountability</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Avi-Go</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE00c3FUcjI4cW9RNXRqckZxZDg5SDkyNFZQR2NyTzlWWXlqWFRWWDdsY2ZNMWZ5MFRKaE1GWVVtSGVMNWhTZzIyNno4UnZXU1I2T1doT0VvLTZQSHNJTHNGZ19lcHFxZmpseDdwb3lyNFFtM28?oc=5\" target=\"_blank\">Opinion: Flydubai Cockpit Allegation, EASA Saudi Airspace Bulletin and Leipzig Drone Strike Raise Questions of Aviation Security Accountability</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Avi-Go</font>",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE00c3FUcjI4cW9RNXRqckZxZDg5SDkyNFZQR2NyTzlWWXlqWFRWWDdsY2ZNMWZ5MFRKaE1GWVVtSGVMNWhTZzIyNno4UnZXU1I2T1doT0VvLTZQSHNJTHNGZ19lcHFxZmpseDdwb3lyNFFtM28?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE00c3FUcjI4cW9RNXRqckZxZDg5SDkyNFZQR2NyTzlWWXlqWFRWWDdsY2ZNMWZ5MFRKaE1GWVVtSGVMNWhTZzIyNno4UnZXU1I2T1doT0VvLTZQSHNJTHNGZ19lcHFxZmpseDdwb3lyNFFtM28?oc=5",
-      "publishedAt": "2026-10-21T13:38:12.000Z",
-      "source": "Avi-Go",
-      "_feedRegion": "eu",
-      "_feedName": "EASA",
-      "_scoring": {
-        "score": 57,
-        "categories": [
-          "規制・政策",
-          "市場・資金"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 1,
-            "catScore": 32
-          },
-          "market": {
-            "matches": 1,
-            "catScore": 20
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 5,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "ブルーイノベーション、高水位下水道を「ELIOS 3」の3Dマッピング用LiDARで安全調査。八戸市の下水道点検実証",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE00SFZxdHMtaFVlczRSRGJWTHJ1WW9qcURLbHRhbHVRU1hyU21TcGFMM0ZDVzlIdmYxdVJCVG1sYWFsM2phOW8yNjUwRUNSdDJQbWp2bGZieEdtZ2s?oc=5\" target=\"_blank\">ブルーイノベーション、高水位下水道を「ELIOS 3」の3Dマッピング用LiDARで安全調査。八戸市の下水道点検実証</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DRONE.jp</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE00SFZxdHMtaFVlczRSRGJWTHJ1WW9qcURLbHRhbHVRU1hyU21TcGFMM0ZDVzlIdmYxdVJCVG1sYWFsM2phOW8yNjUwRUNSdDJQbWp2bGZieEdtZ2s?oc=5\" target=\"_blank\">ブルーイノベーション、高水位下水道を「ELIOS 3」の3Dマッピング用LiDARで安全調査。八戸市の下水道点検実証</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DRONE.jp</font>",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE00SFZxdHMtaFVlczRSRGJWTHJ1WW9qcURLbHRhbHVRU1hyU21TcGFMM0ZDVzlIdmYxdVJCVG1sYWFsM2phOW8yNjUwRUNSdDJQbWp2bGZieEdtZ2s?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE00SFZxdHMtaFVlczRSRGJWTHJ1WW9qcURLbHRhbHVRU1hyU21TcGFMM0ZDVzlIdmYxdVJCVG1sYWFsM2phOW8yNjUwRUNSdDJQbWp2bGZieEdtZ2s?oc=5",
-      "publishedAt": "2026-08-27T07:00:00.000Z",
-      "source": "DRONE.jp",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP ドローン専門)",
-      "_scoring": {
-        "score": 57,
-        "categories": [
-          "技術・製品",
-          "事故・事件"
-        ],
-        "breakdown": {
-          "required": true,
-          "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "incident": {
-            "matches": 1,
-            "catScore": 28
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 0,
-          "jpRegionBonus": 15
         },
         "pass": true
       }
@@ -1082,6 +1019,74 @@
           },
           "freshness": 0,
           "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "Opinion: Flydubai Cockpit Allegation, EASA Saudi Airspace Bulletin and Leipzig Drone Strike Raise Questions of Aviation Security Accountability - Avi-Go",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE00c3FUcjI4cW9RNXRqckZxZDg5SDkyNFZQR2NyTzlWWXlqWFRWWDdsY2ZNMWZ5MFRKaE1GWVVtSGVMNWhTZzIyNno4UnZXU1I2T1doT0VvLTZQSHNJTHNGZ19lcHFxZmpseDdwb3lyNFFtM28?oc=5\" target=\"_blank\">Opinion: Flydubai Cockpit Allegation, EASA Saudi Airspace Bulletin and Leipzig Drone Strike Raise Questions of Aviation Security Accountability</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Avi-Go</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE00c3FUcjI4cW9RNXRqckZxZDg5SDkyNFZQR2NyTzlWWXlqWFRWWDdsY2ZNMWZ5MFRKaE1GWVVtSGVMNWhTZzIyNno4UnZXU1I2T1doT0VvLTZQSHNJTHNGZ19lcHFxZmpseDdwb3lyNFFtM28?oc=5\" target=\"_blank\">Opinion: Flydubai Cockpit Allegation, EASA Saudi Airspace Bulletin and Leipzig Drone Strike Raise Questions of Aviation Security Accountability</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Avi-Go</font>",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE00c3FUcjI4cW9RNXRqckZxZDg5SDkyNFZQR2NyTzlWWXlqWFRWWDdsY2ZNMWZ5MFRKaE1GWVVtSGVMNWhTZzIyNno4UnZXU1I2T1doT0VvLTZQSHNJTHNGZ19lcHFxZmpseDdwb3lyNFFtM28?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE00c3FUcjI4cW9RNXRqckZxZDg5SDkyNFZQR2NyTzlWWXlqWFRWWDdsY2ZNMWZ5MFRKaE1GWVVtSGVMNWhTZzIyNno4UnZXU1I2T1doT0VvLTZQSHNJTHNGZ19lcHFxZmpseDdwb3lyNFFtM28?oc=5",
+      "publishedAt": "2026-10-21T13:38:12.000Z",
+      "source": "Avi-Go",
+      "_feedRegion": "eu",
+      "_feedName": "EASA",
+      "_scoring": {
+        "score": 54,
+        "categories": [
+          "規制・政策",
+          "市場・資金"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
+          "market": {
+            "matches": 1,
+            "catScore": 20
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 2,
+          "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "島のインフラ保守点検にドローン活用…船で往復２時間かけて歩き回って目視→離れた営業所で映像を確認、課題は",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOczAwWEkySjRzTHVYU1Nod1Y0eGNuaHJJVnd2WWtrM3VFUk9kNDhtMFlIQWF0M21CNElTSXF6MFZIaDRGOVZYNmVDeHpBWDE0YV9xeTg0V21UenBtd29zelMwY21YR1dfcXhHaFdETzZEZ0xzVWRyR2hFUS1VLXc1ZVJraExxLVhld2s1cnpn?oc=5\" target=\"_blank\">島のインフラ保守点検にドローン活用…船で往復２時間かけて歩き回って目視→離れた営業所で映像を確認、課題は</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOczAwWEkySjRzTHVYU1Nod1Y0eGNuaHJJVnd2WWtrM3VFUk9kNDhtMFlIQWF0M21CNElTSXF6MFZIaDRGOVZYNmVDeHpBWDE0YV9xeTg0V21UenBtd29zelMwY21YR1dfcXhHaFdETzZEZ0xzVWRyR2hFUS1VLXc1ZVJraExxLVhld2s1cnpn?oc=5\" target=\"_blank\">島のインフラ保守点検にドローン活用…船で往復２時間かけて歩き回って目視→離れた営業所で映像を確認、課題は</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOczAwWEkySjRzTHVYU1Nod1Y0eGNuaHJJVnd2WWtrM3VFUk9kNDhtMFlIQWF0M21CNElTSXF6MFZIaDRGOVZYNmVDeHpBWDE0YV9xeTg0V21UenBtd29zelMwY21YR1dfcXhHaFdETzZEZ0xzVWRyR2hFUS1VLXc1ZVJraExxLVhld2s1cnpn?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOczAwWEkySjRzTHVYU1Nod1Y0eGNuaHJJVnd2WWtrM3VFUk9kNDhtMFlIQWF0M21CNElTSXF6MFZIaDRGOVZYNmVDeHpBWDE0YV9xeTg0V21UenBtd29zelMwY21YR1dfcXhHaFdETzZEZ0xzVWRyR2hFUS1VLXc1ZVJraExxLVhld2s1cnpn?oc=5",
+      "publishedAt": "2026-10-23T02:35:51.000Z",
+      "source": "Yahoo!ニュース",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP 事業者/実装)",
+      "_scoring": {
+        "score": 54,
+        "categories": [
+          "政策・インフラ"
+        ],
+        "breakdown": {
+          "required": true,
+          "policy": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 10,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
         },
         "pass": true
       }
