@@ -1,48 +1,7 @@
 {
-  "generatedAt": "2026-10-25T23:58:27.651Z",
-  "rawCount": 706,
+  "generatedAt": "2026-10-26T04:31:34.233Z",
+  "rawCount": 678,
   "articles": [
-    {
-      "title": "US Airspace Restrictions: Prohibited Zones Cover Capital, Military Sites, Disney Parks as FAA Proposes Drone Limits on Critical Infrastructure - Avi-Go",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE1uZ1doQmZLNDc5VC1laWRVVDJ4emxvSTBfZGVTZzZDZ29jVC0tVWZKQm4zdElhNDRVenY0ZlJ2M0I2YWZCX3ByV3l6NFpYZDhNMmFFVzJCWlZpNjZIdkNtVHZwTkVNendjYnhkYjZLVWpWM1U?oc=5\" target=\"_blank\">US Airspace Restrictions: Prohibited Zones Cover Capital, Military Sites, Disney Parks as FAA Proposes Drone Limits on Critical Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Avi-Go</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE1uZ1doQmZLNDc5VC1laWRVVDJ4emxvSTBfZGVTZzZDZ29jVC0tVWZKQm4zdElhNDRVenY0ZlJ2M0I2YWZCX3ByV3l6NFpYZDhNMmFFVzJCWlZpNjZIdkNtVHZwTkVNendjYnhkYjZLVWpWM1U?oc=5\" target=\"_blank\">US Airspace Restrictions: Prohibited Zones Cover Capital, Military Sites, Disney Parks as FAA Proposes Drone Limits on Critical Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Avi-Go</font>",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1uZ1doQmZLNDc5VC1laWRVVDJ4emxvSTBfZGVTZzZDZ29jVC0tVWZKQm4zdElhNDRVenY0ZlJ2M0I2YWZCX3ByV3l6NFpYZDhNMmFFVzJCWlZpNjZIdkNtVHZwTkVNendjYnhkYjZLVWpWM1U?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1uZ1doQmZLNDc5VC1laWRVVDJ4emxvSTBfZGVTZzZDZ29jVC0tVWZKQm4zdElhNDRVenY0ZlJ2M0I2YWZCX3ByV3l6NFpYZDhNMmFFVzJCWlZpNjZIdkNtVHZwTkVNendjYnhkYjZLVWpWM1U?oc=5",
-      "publishedAt": "2026-10-12T23:08:01.000Z",
-      "source": "Avi-Go",
-      "_feedRegion": "us",
-      "_feedName": "FAA",
-      "_scoring": {
-        "score": 76,
-        "categories": [
-          "規制・政策",
-          "市場・資金",
-          "政策・インフラ"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 1,
-            "catScore": 32
-          },
-          "market": {
-            "matches": 1,
-            "catScore": 20
-          },
-          "policy": {
-            "matches": 2,
-            "catScore": 30
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 0,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
     {
       "title": "FAA Releases Draft Design Standards for Vertiports and Vertical Flight Facilities",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9VZXZ2aGRFMDVCbGl1MWRJLXhNV3hvdG5tRDFWVWc1bFJ4N0NGTzczcmFvcDFkOGdzM1pLVDVKRWlySGdXLUJKSWFsbGRtbmZpUmhqMDJfbkNHWlRUOG41S05ZcWFYYmpaTkc3a3FfcXUwZC1LYmwxMg?oc=5\" target=\"_blank\">FAA Releases Draft Design Standards for Vertiports and Vertical Flight Facilities</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dronelife</font>",
@@ -92,8 +51,8 @@
       "googleNewsUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbmp1emo5YkJqRHFhcDlHSi0wbXZIaGRkdlFXSVM2d1ZIQWkwd1p4TVYwUHFPV25wemptd3dvTHZiUm1iZlZkYmRmaV9FYmNnUTVNWWdtVC1MSzNVQWNtLVBwdjdPdlVSRmpHcDl3blo4WXpNMWd0RmM3UHV5dEVKaFZkX3JFVXY1NHctdmdlZFdwTm1uSm9jOXpjRm93QlBDTDByR2FKTkg?oc=5",
       "publishedAt": "2026-10-23T18:36:38.000Z",
       "source": "Aviation Week",
-      "_feedRegion": "us",
-      "_feedName": "FAA",
+      "_feedRegion": "global",
+      "_feedName": "Google News (Global)",
       "_scoring": {
         "score": 73,
         "categories": [
@@ -120,6 +79,47 @@
             "multiplier": 0.8
           },
           "freshness": 2,
+          "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "Signature Aviation and UrbanV formally launch US vertiport joint venture",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdVNqSGVnY0lfNVdOSy1jTW45aWs4am5IelhqUk4yXzN4aEFSYzM1ODkzRml1SDVKNE11ZVlnOGU5amh0NTlaSzlqVDYzNjNoUWw0TWYtakJyMXFtN3dlR1QzTDhXNXlkSTl5bmRTVzNiVktZMjE5bkdBbXVNQ25qN25TR0JuUG5YVlp5NkhzZUtqa2ZwRUtDcmhZamxFd1U1NE1hTmdhSjNMRGh1WVdjVTB6cml6ZG5DMzRTNVhMMXRqN1M0b3lUWTUzVy1FT0Z6aHg4?oc=5\" target=\"_blank\">Signature Aviation and UrbanV formally launch US vertiport joint venture</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Airport International</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdVNqSGVnY0lfNVdOSy1jTW45aWs4am5IelhqUk4yXzN4aEFSYzM1ODkzRml1SDVKNE11ZVlnOGU5amh0NTlaSzlqVDYzNjNoUWw0TWYtakJyMXFtN3dlR1QzTDhXNXlkSTl5bmRTVzNiVktZMjE5bkdBbXVNQ25qN25TR0JuUG5YVlp5NkhzZUtqa2ZwRUtDcmhZamxFd1U1NE1hTmdhSjNMRGh1WVdjVTB6cml6ZG5DMzRTNVhMMXRqN1M0b3lUWTUzVy1FT0Z6aHg4?oc=5\" target=\"_blank\">Signature Aviation and UrbanV formally launch US vertiport joint venture</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Airport International</font>",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdVNqSGVnY0lfNVdOSy1jTW45aWs4am5IelhqUk4yXzN4aEFSYzM1ODkzRml1SDVKNE11ZVlnOGU5amh0NTlaSzlqVDYzNjNoUWw0TWYtakJyMXFtN3dlR1QzTDhXNXlkSTl5bmRTVzNiVktZMjE5bkdBbXVNQ25qN25TR0JuUG5YVlp5NkhzZUtqa2ZwRUtDcmhZamxFd1U1NE1hTmdhSjNMRGh1WVdjVTB6cml6ZG5DMzRTNVhMMXRqN1M0b3lUWTUzVy1FT0Z6aHg4?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdVNqSGVnY0lfNVdOSy1jTW45aWs4am5IelhqUk4yXzN4aEFSYzM1ODkzRml1SDVKNE11ZVlnOGU5amh0NTlaSzlqVDYzNjNoUWw0TWYtakJyMXFtN3dlR1QzTDhXNXlkSTl5bmRTVzNiVktZMjE5bkdBbXVNQ25qN25TR0JuUG5YVlp5NkhzZUtqa2ZwRUtDcmhZamxFd1U1NE1hTmdhSjNMRGh1WVdjVTB6cml6ZG5DMzRTNVhMMXRqN1M0b3lUWTUzVy1FT0Z6aHg4?oc=5",
+      "publishedAt": "2026-10-22T17:37:10.000Z",
+      "source": "Business Airport International",
+      "_feedRegion": "global",
+      "_feedName": "Google News (Global)",
+      "_scoring": {
+        "score": 73,
+        "categories": [
+          "技術・製品",
+          "市場・資金",
+          "政策・インフラ"
+        ],
+        "breakdown": {
+          "required": true,
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "market": {
+            "matches": 2,
+            "catScore": 25
+          },
+          "policy": {
+            "matches": 2,
+            "catScore": 30
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 0,
           "titleBonus": 10
         },
         "pass": true
@@ -240,13 +240,13 @@
       }
     },
     {
-      "title": "サウジ、リヤド空港再開初日にフーシ派攻撃…「ミサイル・ドローン撃墜」（中央日報日本語版）",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBXVlYxenB1b2llbVFZbUpQeUpxa2JVdktxSkZNMlU2UGZTTGtSN0d2T0M1VHR0YTM2dmNXR3E3elFHc1dVYlBERmhNaGlLQnB3RkU1dTJCTmFaV25tZjlSWGQ1anBIM0M1MjRpSGltWHFEMHNhWG5LSm1PMHZ4TjQ?oc=5\" target=\"_blank\">サウジ、リヤド空港再開初日にフーシ派攻撃…「ミサイル・ドローン撃墜」（中央日報日本語版）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBXVlYxenB1b2llbVFZbUpQeUpxa2JVdktxSkZNMlU2UGZTTGtSN0d2T0M1VHR0YTM2dmNXR3E3elFHc1dVYlBERmhNaGlLQnB3RkU1dTJCTmFaV25tZjlSWGQ1anBIM0M1MjRpSGltWHFEMHNhWG5LSm1PMHZ4TjQ?oc=5\" target=\"_blank\">サウジ、リヤド空港再開初日にフーシ派攻撃…「ミサイル・ドローン撃墜」（中央日報日本語版）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBXVlYxenB1b2llbVFZbUpQeUpxa2JVdktxSkZNMlU2UGZTTGtSN0d2T0M1VHR0YTM2dmNXR3E3elFHc1dVYlBERmhNaGlLQnB3RkU1dTJCTmFaV25tZjlSWGQ1anBIM0M1MjRpSGltWHFEMHNhWG5LSm1PMHZ4TjQ?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBXVlYxenB1b2llbVFZbUpQeUpxa2JVdktxSkZNMlU2UGZTTGtSN0d2T0M1VHR0YTM2dmNXR3E3elFHc1dVYlBERmhNaGlLQnB3RkU1dTJCTmFaV25tZjlSWGQ1anBIM0M1MjRpSGltWHFEMHNhWG5LSm1PMHZ4TjQ?oc=5",
-      "publishedAt": "2026-10-25T22:22:20.000Z",
-      "source": "Yahoo!ニュース",
+      "title": "【特集】空飛ぶクルマを関西の新たな交通インフラに、三菱UFJ銀行が異業種連携で商用化を検討",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE1NdS0xRVdXLWtacTdaY1RZTWZTOWplS2ZzRmdoSm1rVWIyWFQzcjVvdGNjbC13R2FYWlJZbUNyaUZEbkNnM2RGVDkxYXpEVmVKUVdHT0loNTJiQ3IwdEEtZVJ6N1c4WFh0UFRuQmZR?oc=5\" target=\"_blank\">【特集】空飛ぶクルマを関西の新たな交通インフラに、三菱UFJ銀行が異業種連携で商用化を検討</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ドローンジャーナル</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE1NdS0xRVdXLWtacTdaY1RZTWZTOWplS2ZzRmdoSm1rVWIyWFQzcjVvdGNjbC13R2FYWlJZbUNyaUZEbkNnM2RGVDkxYXpEVmVKUVdHT0loNTJiQ3IwdEEtZVJ6N1c4WFh0UFRuQmZR?oc=5\" target=\"_blank\">【特集】空飛ぶクルマを関西の新たな交通インフラに、三菱UFJ銀行が異業種連携で商用化を検討</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ドローンジャーナル</font>",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1NdS0xRVdXLWtacTdaY1RZTWZTOWplS2ZzRmdoSm1rVWIyWFQzcjVvdGNjbC13R2FYWlJZbUNyaUZEbkNnM2RGVDkxYXpEVmVKUVdHT0loNTJiQ3IwdEEtZVJ6N1c4WFh0UFRuQmZR?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1NdS0xRVdXLWtacTdaY1RZTWZTOWplS2ZzRmdoSm1rVWIyWFQzcjVvdGNjbC13R2FYWlJZbUNyaUZEbkNnM2RGVDkxYXpEVmVKUVdHT0loNTJiQ3IwdEEtZVJ6N1c4WFh0UFRuQmZR?oc=5",
+      "publishedAt": "2026-10-26T03:26:14.000Z",
+      "source": "ドローンジャーナル",
       "_feedRegion": "jp",
       "_feedName": "Google News (JP)",
       "_scoring": {
@@ -257,6 +257,38 @@
         "breakdown": {
           "required": true,
           "policy": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 20,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "双葉電子工業、水上ドローン開発の炎重工をグループ会社化",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFBwc3Nxdk9McTA5Y1JNcFhNVTdQb2M2VWxPbUMxbDh1X1FoRTV3SmxwamNVb2VYU3hzYUhRTm44T0ppUFpDb2kxTDN4d09BM2ttYU1PSWh0ekMzaEUzYmQxbnhjTG9ZenhFR3c?oc=5\" target=\"_blank\">双葉電子工業、水上ドローン開発の炎重工をグループ会社化</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ドローンジャーナル</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFBwc3Nxdk9McTA5Y1JNcFhNVTdQb2M2VWxPbUMxbDh1X1FoRTV3SmxwamNVb2VYU3hzYUhRTm44T0ppUFpDb2kxTDN4d09BM2ttYU1PSWh0ekMzaEUzYmQxbnhjTG9ZenhFR3c?oc=5\" target=\"_blank\">双葉電子工業、水上ドローン開発の炎重工をグループ会社化</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ドローンジャーナル</font>",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBwc3Nxdk9McTA5Y1JNcFhNVTdQb2M2VWxPbUMxbDh1X1FoRTV3SmxwamNVb2VYU3hzYUhRTm44T0ppUFpDb2kxTDN4d09BM2ttYU1PSWh0ekMzaEUzYmQxbnhjTG9ZenhFR3c?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBwc3Nxdk9McTA5Y1JNcFhNVTdQb2M2VWxPbUMxbDh1X1FoRTV3SmxwamNVb2VYU3hzYUhRTm44T0ppUFpDb2kxTDN4d09BM2ttYU1PSWh0ekMzaEUzYmQxbnhjTG9ZenhFR3c?oc=5",
+      "publishedAt": "2026-10-26T03:27:07.000Z",
+      "source": "ドローンジャーナル",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP)",
+      "_scoring": {
+        "score": 64,
+        "categories": [
+          "技術・製品"
+        ],
+        "breakdown": {
+          "required": true,
+          "technology": {
             "matches": 1,
             "catScore": 24
           },
@@ -493,120 +525,12 @@
       }
     },
     {
-      "title": "New FAA Border TFRs Restrict El Paso Drone Operators, Including Commercial Flights - Avi-Go",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE45azBVbEUwS2M4STdrT0pLZDB6LVRiOE02b2hyNDVtRmV5T1lrUm9mLWU1NGFVSFpaUE1sTXlsUmhpU0JfSWozMU5VQnA3eDg4N08zNFZXaFliUDdxM2V4ck9yWDBuQU83ZXZONnJqa2ZjM00?oc=5\" target=\"_blank\">New FAA Border TFRs Restrict El Paso Drone Operators, Including Commercial Flights</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Avi-Go</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE45azBVbEUwS2M4STdrT0pLZDB6LVRiOE02b2hyNDVtRmV5T1lrUm9mLWU1NGFVSFpaUE1sTXlsUmhpU0JfSWozMU5VQnA3eDg4N08zNFZXaFliUDdxM2V4ck9yWDBuQU83ZXZONnJqa2ZjM00?oc=5\" target=\"_blank\">New FAA Border TFRs Restrict El Paso Drone Operators, Including Commercial Flights</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Avi-Go</font>",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE45azBVbEUwS2M4STdrT0pLZDB6LVRiOE02b2hyNDVtRmV5T1lrUm9mLWU1NGFVSFpaUE1sTXlsUmhpU0JfSWozMU5VQnA3eDg4N08zNFZXaFliUDdxM2V4ck9yWDBuQU83ZXZONnJqa2ZjM00?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE45azBVbEUwS2M4STdrT0pLZDB6LVRiOE02b2hyNDVtRmV5T1lrUm9mLWU1NGFVSFpaUE1sTXlsUmhpU0JfSWozMU5VQnA3eDg4N08zNFZXaFliUDdxM2V4ck9yWDBuQU83ZXZONnJqa2ZjM00?oc=5",
-      "publishedAt": "2026-10-25T10:51:46.000Z",
-      "source": "Avi-Go",
-      "_feedRegion": "us",
-      "_feedName": "FAA",
-      "_scoring": {
-        "score": 62,
-        "categories": [
-          "規制・政策",
-          "市場・資金"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 1,
-            "catScore": 32
-          },
-          "market": {
-            "matches": 1,
-            "catScore": 20
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 10,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "ティアフォーとミュンヘン工科大、NVIDIA HyperionとAutowareを統合。DRIVE AGX Thor搭載で自動運転レベル4開発を加速",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE9yY2c3d3U3RTV6XzlyX3B3SkNHYUc2ZGJ3NEttR1ZIODNKQmtqWnJqU084Q3Bza0ZZei05WTc2TG1MdzBCYjNhUTFqSEUtNmlOU3BPeG03NkIxRUk?oc=5\" target=\"_blank\">ティアフォーとミュンヘン工科大、NVIDIA HyperionとAutowareを統合。DRIVE AGX Thor搭載で自動運転レベル4開発を加速</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DRONE.jp</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE9yY2c3d3U3RTV6XzlyX3B3SkNHYUc2ZGJ3NEttR1ZIODNKQmtqWnJqU084Q3Bza0ZZei05WTc2TG1MdzBCYjNhUTFqSEUtNmlOU3BPeG03NkIxRUk?oc=5\" target=\"_blank\">ティアフォーとミュンヘン工科大、NVIDIA HyperionとAutowareを統合。DRIVE AGX Thor搭載で自動運転レベル4開発を加速</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DRONE.jp</font>",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9yY2c3d3U3RTV6XzlyX3B3SkNHYUc2ZGJ3NEttR1ZIODNKQmtqWnJqU084Q3Bza0ZZei05WTc2TG1MdzBCYjNhUTFqSEUtNmlOU3BPeG03NkIxRUk?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9yY2c3d3U3RTV6XzlyX3B3SkNHYUc2ZGJ3NEttR1ZIODNKQmtqWnJqU084Q3Bza0ZZei05WTc2TG1MdzBCYjNhUTFqSEUtNmlOU3BPeG03NkIxRUk?oc=5",
-      "publishedAt": "2026-10-23T01:34:15.000Z",
-      "source": "DRONE.jp",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP ドローン専門)",
-      "_scoring": {
-        "score": 62,
-        "categories": [
-          "規制・政策",
-          "技術・製品"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 1,
-            "catScore": 32
-          },
-          "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 2,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "First Breach drone prototype hits FAA Part 107 speed limit; exec presenting at LD Micro",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxOMTByeFJ0SFA2VUMwS2lGeFBvd3V0NFVSTnRtMWhhREVReFh6OEhwSU11Wnl4WG5OUzE4MHowRGlPSGxnTkp2dndLdGhvZHJLdm9wNm9RTDB3QjZwYURKNVRyY0RjcVBzTW1UYkhkcXdJVkhIbGwwY2FrZnVFbV9hMDNFa2drdTFIV2gwWlJhdElZWmxDeWJnWERJMlo0TU11WkdoMHRVQkpPOUxtX3p1WUVpRHBOTDRkeU9kZ09zMzJXcWFoQVlVbVE1aFVMdzhtemIzNjh1ODBBUFY4WUY0RVNR?oc=5\" target=\"_blank\">First Breach drone prototype hits FAA Part 107 speed limit; exec presenting at LD Micro</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxOMTByeFJ0SFA2VUMwS2lGeFBvd3V0NFVSTnRtMWhhREVReFh6OEhwSU11Wnl4WG5OUzE4MHowRGlPSGxnTkp2dndLdGhvZHJLdm9wNm9RTDB3QjZwYURKNVRyY0RjcVBzTW1UYkhkcXdJVkhIbGwwY2FrZnVFbV9hMDNFa2drdTFIV2gwWlJhdElZWmxDeWJnWERJMlo0TU11WkdoMHRVQkpPOUxtX3p1WUVpRHBOTDRkeU9kZ09zMzJXcWFoQVlVbVE1aFVMdzhtemIzNjh1ODBBUFY4WUY0RVNR?oc=5\" target=\"_blank\">First Breach drone prototype hits FAA Part 107 speed limit; exec presenting at LD Micro</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOMTByeFJ0SFA2VUMwS2lGeFBvd3V0NFVSTnRtMWhhREVReFh6OEhwSU11Wnl4WG5OUzE4MHowRGlPSGxnTkp2dndLdGhvZHJLdm9wNm9RTDB3QjZwYURKNVRyY0RjcVBzTW1UYkhkcXdJVkhIbGwwY2FrZnVFbV9hMDNFa2drdTFIV2gwWlJhdElZWmxDeWJnWERJMlo0TU11WkdoMHRVQkpPOUxtX3p1WUVpRHBOTDRkeU9kZ09zMzJXcWFoQVlVbVE1aFVMdzhtemIzNjh1ODBBUFY4WUY0RVNR?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOMTByeFJ0SFA2VUMwS2lGeFBvd3V0NFVSTnRtMWhhREVReFh6OEhwSU11Wnl4WG5OUzE4MHowRGlPSGxnTkp2dndLdGhvZHJLdm9wNm9RTDB3QjZwYURKNVRyY0RjcVBzTW1UYkhkcXdJVkhIbGwwY2FrZnVFbV9hMDNFa2drdTFIV2gwWlJhdElZWmxDeWJnWERJMlo0TU11WkdoMHRVQkpPOUxtX3p1WUVpRHBOTDRkeU9kZ09zMzJXcWFoQVlVbVE1aFVMdzhtemIzNjh1ODBBUFY4WUY0RVNR?oc=5",
-      "publishedAt": "2026-10-21T21:03:00.000Z",
-      "source": "TradingView",
-      "_feedRegion": "us",
-      "_feedName": "FAA",
-      "_scoring": {
-        "score": 61,
-        "categories": [
-          "規制・政策",
-          "技術・製品"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 2,
-            "catScore": 40
-          },
-          "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 0,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
       "title": "Grand Teton Butte in Deleted DJ Drone Video Sits in Airport Airspace",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPdkwtMDJtY2ZmcFhkcE9qVWs1ZzF0Z1hLWi1aU0czQ0pLYXRrREpFTXhuODlEZy0zMVZ2NmhRSWppQWc5dGxzODlXcDR2RGpKWWJzZ3RYbVlPbGNuZVB1OWNzM0NacU9vcU5FYm5fNDdCOWUyazdwWUJheEUtbXdHM0NDbjRCYWlwd2JfUXYzTUJOOWpF?oc=5\" target=\"_blank\">Grand Teton Butte in Deleted DJ Drone Video Sits in Airport Airspace</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DroneXL</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPdkwtMDJtY2ZmcFhkcE9qVWs1ZzF0Z1hLWi1aU0czQ0pLYXRrREpFTXhuODlEZy0zMVZ2NmhRSWppQWc5dGxzODlXcDR2RGpKWWJzZ3RYbVlPbGNuZVB1OWNzM0NacU9vcU5FYm5fNDdCOWUyazdwWUJheEUtbXdHM0NDbjRCYWlwd2JfUXYzTUJOOWpF?oc=5\" target=\"_blank\">Grand Teton Butte in Deleted DJ Drone Video Sits in Airport Airspace</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DroneXL</font>",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdkwtMDJtY2ZmcFhkcE9qVWs1ZzF0Z1hLWi1aU0czQ0pLYXRrREpFTXhuODlEZy0zMVZ2NmhRSWppQWc5dGxzODlXcDR2RGpKWWJzZ3RYbVlPbGNuZVB1OWNzM0NacU9vcU5FYm5fNDdCOWUyazdwWUJheEUtbXdHM0NDbjRCYWlwd2JfUXYzTUJOOWpF?oc=5",
       "googleNewsUrl": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdkwtMDJtY2ZmcFhkcE9qVWs1ZzF0Z1hLWi1aU0czQ0pLYXRrREpFTXhuODlEZy0zMVZ2NmhRSWppQWc5dGxzODlXcDR2RGpKWWJzZ3RYbVlPbGNuZVB1OWNzM0NacU9vcU5FYm5fNDdCOWUyazdwWUJheEUtbXdHM0NDbjRCYWlwd2JfUXYzTUJOOWpF?oc=5",
-      "publishedAt": "2026-10-25T18:31:53.000Z",
+      "publishedAt": "2026-10-25T19:20:00.000Z",
       "source": "DroneXL",
       "_feedRegion": "us",
       "_feedName": "FAA",
@@ -631,6 +555,78 @@
             "multiplier": 0.8
           },
           "freshness": 15,
+          "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "ティアフォーとミュンヘン工科大、NVIDIA HyperionとAutowareを統合。DRIVE AGX Thor搭載で自動運転レベル4開発を加速",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE9yY2c3d3U3RTV6XzlyX3B3SkNHYUc2ZGJ3NEttR1ZIODNKQmtqWnJqU084Q3Bza0ZZei05WTc2TG1MdzBCYjNhUTFqSEUtNmlOU3BPeG03NkIxRUk?oc=5\" target=\"_blank\">ティアフォーとミュンヘン工科大、NVIDIA HyperionとAutowareを統合。DRIVE AGX Thor搭載で自動運転レベル4開発を加速</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DRONE.jp</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE9yY2c3d3U3RTV6XzlyX3B3SkNHYUc2ZGJ3NEttR1ZIODNKQmtqWnJqU084Q3Bza0ZZei05WTc2TG1MdzBCYjNhUTFqSEUtNmlOU3BPeG03NkIxRUk?oc=5\" target=\"_blank\">ティアフォーとミュンヘン工科大、NVIDIA HyperionとAutowareを統合。DRIVE AGX Thor搭載で自動運転レベル4開発を加速</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DRONE.jp</font>",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9yY2c3d3U3RTV6XzlyX3B3SkNHYUc2ZGJ3NEttR1ZIODNKQmtqWnJqU084Q3Bza0ZZei05WTc2TG1MdzBCYjNhUTFqSEUtNmlOU3BPeG03NkIxRUk?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9yY2c3d3U3RTV6XzlyX3B3SkNHYUc2ZGJ3NEttR1ZIODNKQmtqWnJqU084Q3Bza0ZZei05WTc2TG1MdzBCYjNhUTFqSEUtNmlOU3BPeG03NkIxRUk?oc=5",
+      "publishedAt": "2026-10-23T01:34:15.000Z",
+      "source": "DRONE.jp",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP ドローン専門)",
+      "_scoring": {
+        "score": 60,
+        "categories": [
+          "規制・政策",
+          "技術・製品"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 0,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "Kansas announces USD2M investment to boost UAS and BVLOS expansion",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQSVEwZVpXWExLSXNVSUhDUUdBNW9OZUJBV1BlRXlVNWRSWlVUM3VjUzZWWnFtODlFSFJXSC04MUlKdFlBLVhDY3BoUnhrYkJxQzVKOEpzTzJndHA1UzdwVHZabkdCT3V5N2g4SkFZNTFRWkdXYUh5T3d0REdJdEpoVGpIN0J1UVhLajZYOTJjUXNsVnUtbFBpQzFtbDdEUVhvY2FUYm5RQy1Na2JKYUhmWGZkbnBldw?oc=5\" target=\"_blank\">Kansas announces USD2M investment to boost UAS and BVLOS expansion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQSVEwZVpXWExLSXNVSUhDUUdBNW9OZUJBV1BlRXlVNWRSWlVUM3VjUzZWWnFtODlFSFJXSC04MUlKdFlBLVhDY3BoUnhrYkJxQzVKOEpzTzJndHA1UzdwVHZabkdCT3V5N2g4SkFZNTFRWkdXYUh5T3d0REdJdEpoVGpIN0J1UVhLajZYOTJjUXNsVnUtbFBpQzFtbDdEUVhvY2FUYm5RQy1Na2JKYUhmWGZkbnBldw?oc=5\" target=\"_blank\">Kansas announces USD2M investment to boost UAS and BVLOS expansion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSVEwZVpXWExLSXNVSUhDUUdBNW9OZUJBV1BlRXlVNWRSWlVUM3VjUzZWWnFtODlFSFJXSC04MUlKdFlBLVhDY3BoUnhrYkJxQzVKOEpzTzJndHA1UzdwVHZabkdCT3V5N2g4SkFZNTFRWkdXYUh5T3d0REdJdEpoVGpIN0J1UVhLajZYOTJjUXNsVnUtbFBpQzFtbDdEUVhvY2FUYm5RQy1Na2JKYUhmWGZkbnBldw?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSVEwZVpXWExLSXNVSUhDUUdBNW9OZUJBV1BlRXlVNWRSWlVUM3VjUzZWWnFtODlFSFJXSC04MUlKdFlBLVhDY3BoUnhrYkJxQzVKOEpzTzJndHA1UzdwVHZabkdCT3V5N2g4SkFZNTFRWkdXYUh5T3d0REdJdEpoVGpIN0J1UVhLajZYOTJjUXNsVnUtbFBpQzFtbDdEUVhvY2FUYm5RQy1Na2JKYUhmWGZkbnBldw?oc=5",
+      "publishedAt": "2026-10-23T10:28:47.000Z",
+      "source": "Unmanned airspace",
+      "_feedRegion": "global",
+      "_feedName": "Google News (Global)",
+      "_scoring": {
+        "score": 58,
+        "categories": [
+          "規制・政策",
+          "市場・資金"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
+          "market": {
+            "matches": 2,
+            "catScore": 25
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 2,
           "titleBonus": 10
         },
         "pass": true
@@ -925,78 +921,6 @@
       }
     },
     {
-      "title": "Federal officials request Amazon, FAA reconsider drone delivery",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQRFhTcUMzMXJtUDNaYVNsN2RtOFRsMzAyUTltRTF1OXg0Y0JwbVZZd1BnMERmcUhwVmpRUDVTYUR5Z2lIS29zX0tQVFFBRTBaLU9sVFRDOTE3S1NXTURtZTFndk12UEdWeU56NDM0TzRMSkpHOU5lSFdKd3JaekZUWktHSG40eWVVQW5aX1V0bVhCUzIwazN3RXA4QWxLc2lUZ3BQUjh3UTJNMTk2SUJXNFZoV09fdTRIaW4tNWRoTllaYUFYc0JpSy1R?oc=5\" target=\"_blank\">Federal officials request Amazon, FAA reconsider drone delivery</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Worcester Telegram</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQRFhTcUMzMXJtUDNaYVNsN2RtOFRsMzAyUTltRTF1OXg0Y0JwbVZZd1BnMERmcUhwVmpRUDVTYUR5Z2lIS29zX0tQVFFBRTBaLU9sVFRDOTE3S1NXTURtZTFndk12UEdWeU56NDM0TzRMSkpHOU5lSFdKd3JaekZUWktHSG40eWVVQW5aX1V0bVhCUzIwazN3RXA4QWxLc2lUZ3BQUjh3UTJNMTk2SUJXNFZoV09fdTRIaW4tNWRoTllaYUFYc0JpSy1R?oc=5\" target=\"_blank\">Federal officials request Amazon, FAA reconsider drone delivery</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Worcester Telegram</font>",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRFhTcUMzMXJtUDNaYVNsN2RtOFRsMzAyUTltRTF1OXg0Y0JwbVZZd1BnMERmcUhwVmpRUDVTYUR5Z2lIS29zX0tQVFFBRTBaLU9sVFRDOTE3S1NXTURtZTFndk12UEdWeU56NDM0TzRMSkpHOU5lSFdKd3JaekZUWktHSG40eWVVQW5aX1V0bVhCUzIwazN3RXA4QWxLc2lUZ3BQUjh3UTJNMTk2SUJXNFZoV09fdTRIaW4tNWRoTllaYUFYc0JpSy1R?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRFhTcUMzMXJtUDNaYVNsN2RtOFRsMzAyUTltRTF1OXg0Y0JwbVZZd1BnMERmcUhwVmpRUDVTYUR5Z2lIS29zX0tQVFFBRTBaLU9sVFRDOTE3S1NXTURtZTFndk12UEdWeU56NDM0TzRMSkpHOU5lSFdKd3JaekZUWktHSG40eWVVQW5aX1V0bVhCUzIwazN3RXA4QWxLc2lUZ3BQUjh3UTJNMTk2SUJXNFZoV09fdTRIaW4tNWRoTllaYUFYc0JpSy1R?oc=5",
-      "publishedAt": "2026-10-14T07:00:00.000Z",
-      "source": "Worcester Telegram",
-      "_feedRegion": "us",
-      "_feedName": "FAA",
-      "_scoring": {
-        "score": 55,
-        "categories": [
-          "規制・政策",
-          "政策・インフラ"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 1,
-            "catScore": 32
-          },
-          "policy": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 0,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "Multistate Coalition Asks Second Circuit to Set Aside FAA's Nationwide Environmental Review for Drone Package Delivery - Avi-Go",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE9yNUZrYXRlaUVtQVNUNHZRdldvZGR4d3FLOHY0SzF6TnVFZy1XU1MtTk1GZVhhaF9QNUlpcDlUb19JXzIycjNMRDhVUTNCaHNFdzI3QTFyQTF2N2QxTUtFejRWUEpIZGZWRVRQckhtcHBoakE?oc=5\" target=\"_blank\">Multistate Coalition Asks Second Circuit to Set Aside FAA's Nationwide Environmental Review for Drone Package Delivery</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Avi-Go</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE9yNUZrYXRlaUVtQVNUNHZRdldvZGR4d3FLOHY0SzF6TnVFZy1XU1MtTk1GZVhhaF9QNUlpcDlUb19JXzIycjNMRDhVUTNCaHNFdzI3QTFyQTF2N2QxTUtFejRWUEpIZGZWRVRQckhtcHBoakE?oc=5\" target=\"_blank\">Multistate Coalition Asks Second Circuit to Set Aside FAA's Nationwide Environmental Review for Drone Package Delivery</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Avi-Go</font>",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9yNUZrYXRlaUVtQVNUNHZRdldvZGR4d3FLOHY0SzF6TnVFZy1XU1MtTk1GZVhhaF9QNUlpcDlUb19JXzIycjNMRDhVUTNCaHNFdzI3QTFyQTF2N2QxTUtFejRWUEpIZGZWRVRQckhtcHBoakE?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9yNUZrYXRlaUVtQVNUNHZRdldvZGR4d3FLOHY0SzF6TnVFZy1XU1MtTk1GZVhhaF9QNUlpcDlUb19JXzIycjNMRDhVUTNCaHNFdzI3QTFyQTF2N2QxTUtFejRWUEpIZGZWRVRQckhtcHBoakE?oc=5",
-      "publishedAt": "2026-10-14T11:17:11.000Z",
-      "source": "Avi-Go",
-      "_feedRegion": "us",
-      "_feedName": "FAA",
-      "_scoring": {
-        "score": 55,
-        "categories": [
-          "規制・政策",
-          "政策・インフラ"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 1,
-            "catScore": 32
-          },
-          "policy": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 0,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
       "title": "Lawmakers Demand FAA Review of Amazon ($AMZN) Drone Delivery Hub",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQYzZkcXhvZGdFT2FnN1BoYS02aVdtNU1kOWFoaDk4Vl92YmdjLUkyc1E4Zi1HdG9WejlIZUNZTklUQi1MZ1FUeDgxNm5pWFp3b05fTXpEN29EOEdwZzUyb1Z5Q1lIN21ZMmFrdkxmdWpoeUVMLUs2TXdxYmdKaHZDbmRyMThPckxXbXUzOEt4UG9FSUVwai1adkM2b1FlYmd5Y3lQTkFn?oc=5\" target=\"_blank\">Lawmakers Demand FAA Review of Amazon ($AMZN) Drone Delivery Hub</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quiver Quantitative</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQYzZkcXhvZGdFT2FnN1BoYS02aVdtNU1kOWFoaDk4Vl92YmdjLUkyc1E4Zi1HdG9WejlIZUNZTklUQi1MZ1FUeDgxNm5pWFp3b05fTXpEN29EOEdwZzUyb1Z5Q1lIN21ZMmFrdkxmdWpoeUVMLUs2TXdxYmdKaHZDbmRyMThPckxXbXUzOEt4UG9FSUVwai1adkM2b1FlYmd5Y3lQTkFn?oc=5\" target=\"_blank\">Lawmakers Demand FAA Review of Amazon ($AMZN) Drone Delivery Hub</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quiver Quantitative</font>",
@@ -1004,42 +928,6 @@
       "googleNewsUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYzZkcXhvZGdFT2FnN1BoYS02aVdtNU1kOWFoaDk4Vl92YmdjLUkyc1E4Zi1HdG9WejlIZUNZTklUQi1MZ1FUeDgxNm5pWFp3b05fTXpEN29EOEdwZzUyb1Z5Q1lIN21ZMmFrdkxmdWpoeUVMLUs2TXdxYmdKaHZDbmRyMThPckxXbXUzOEt4UG9FSUVwai1adkM2b1FlYmd5Y3lQTkFn?oc=5",
       "publishedAt": "2026-10-14T07:00:00.000Z",
       "source": "Quiver Quantitative",
-      "_feedRegion": "us",
-      "_feedName": "FAA",
-      "_scoring": {
-        "score": 55,
-        "categories": [
-          "規制・政策",
-          "政策・インフラ"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 1,
-            "catScore": 32
-          },
-          "policy": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 0,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "Is DoorDash (DASH) A Bargain After FAA Approval For Its Drone Delivery Program?",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVm9TZXc2bG9RUjZlbUw0ZUpwRW14eFFzcnNRME1MaC1nSDl4R0t1aWRnZ1N1VTRVMTRnUHBETkxZUGMxajdKclEzU0FCeEI0WVMtXzhzUGVJaUtJSnByeUpwRWFYQWljWjNTOTZLVVlRcUtOMlZKM1Rrdmd5VVJreTY1ZTRDSktULXdkeUJpUDNXMWRpQnFnSzdnbTdsUUZWUzNGQkRwQWl6R2J2ZGJEek83QzJBTlFIeXNMd3lySnlUaWVOd3RPNWN0Z1VSa1Zx0gHWAUFVX3lxTE5PZkpWT3VhWVJHckVzOERwUk1qZG9wYndZa25FUlpYSGJXMXRHODRVYmxCQVZHRTNhUER0UnptVThNME9nMEtaaVJnQ28tUHZWY2RKel9NRmwxM0k5cHBOOHJjOFlpanJQaU1qQ2o2Y1o0aWw3OEM3MHd3aE9UTjBlOU5qZTkzVWhrU2Z4X3V2RU9ZZ0pmb1pma2hoUEIwSWFWLWNRUVE5bmJuR21mdnF2WlFYeGtkek9MTTVaOWp5Z1dyNS1QWExqYlFkTTJDSVpJWFU4S0E?oc=5\" target=\"_blank\">Is DoorDash (DASH) A Bargain After FAA Approval For Its Drone Delivery Program?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Simply Wall Street</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVm9TZXc2bG9RUjZlbUw0ZUpwRW14eFFzcnNRME1MaC1nSDl4R0t1aWRnZ1N1VTRVMTRnUHBETkxZUGMxajdKclEzU0FCeEI0WVMtXzhzUGVJaUtJSnByeUpwRWFYQWljWjNTOTZLVVlRcUtOMlZKM1Rrdmd5VVJreTY1ZTRDSktULXdkeUJpUDNXMWRpQnFnSzdnbTdsUUZWUzNGQkRwQWl6R2J2ZGJEek83QzJBTlFIeXNMd3lySnlUaWVOd3RPNWN0Z1VSa1Zx0gHWAUFVX3lxTE5PZkpWT3VhWVJHckVzOERwUk1qZG9wYndZa25FUlpYSGJXMXRHODRVYmxCQVZHRTNhUER0UnptVThNME9nMEtaaVJnQ28tUHZWY2RKel9NRmwxM0k5cHBOOHJjOFlpanJQaU1qQ2o2Y1o0aWw3OEM3MHd3aE9UTjBlOU5qZTkzVWhrU2Z4X3V2RU9ZZ0pmb1pma2hoUEIwSWFWLWNRUVE5bmJuR21mdnF2WlFYeGtkek9MTTVaOWp5Z1dyNS1QWExqYlFkTTJDSVpJWFU4S0E?oc=5\" target=\"_blank\">Is DoorDash (DASH) A Bargain After FAA Approval For Its Drone Delivery Program?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Simply Wall Street</font>",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVm9TZXc2bG9RUjZlbUw0ZUpwRW14eFFzcnNRME1MaC1nSDl4R0t1aWRnZ1N1VTRVMTRnUHBETkxZUGMxajdKclEzU0FCeEI0WVMtXzhzUGVJaUtJSnByeUpwRWFYQWljWjNTOTZLVVlRcUtOMlZKM1Rrdmd5VVJreTY1ZTRDSktULXdkeUJpUDNXMWRpQnFnSzdnbTdsUUZWUzNGQkRwQWl6R2J2ZGJEek83QzJBTlFIeXNMd3lySnlUaWVOd3RPNWN0Z1VSa1Zx0gHWAUFVX3lxTE5PZkpWT3VhWVJHckVzOERwUk1qZG9wYndZa25FUlpYSGJXMXRHODRVYmxCQVZHRTNhUER0UnptVThNME9nMEtaaVJnQ28tUHZWY2RKel9NRmwxM0k5cHBOOHJjOFlpanJQaU1qQ2o2Y1o0aWw3OEM3MHd3aE9UTjBlOU5qZTkzVWhrU2Z4X3V2RU9ZZ0pmb1pma2hoUEIwSWFWLWNRUVE5bmJuR21mdnF2WlFYeGtkek9MTTVaOWp5Z1dyNS1QWExqYlFkTTJDSVpJWFU4S0E?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVm9TZXc2bG9RUjZlbUw0ZUpwRW14eFFzcnNRME1MaC1nSDl4R0t1aWRnZ1N1VTRVMTRnUHBETkxZUGMxajdKclEzU0FCeEI0WVMtXzhzUGVJaUtJSnByeUpwRWFYQWljWjNTOTZLVVlRcUtOMlZKM1Rrdmd5VVJreTY1ZTRDSktULXdkeUJpUDNXMWRpQnFnSzdnbTdsUUZWUzNGQkRwQWl6R2J2ZGJEek83QzJBTlFIeXNMd3lySnlUaWVOd3RPNWN0Z1VSa1Zx0gHWAUFVX3lxTE5PZkpWT3VhWVJHckVzOERwUk1qZG9wYndZa25FUlpYSGJXMXRHODRVYmxCQVZHRTNhUER0UnptVThNME9nMEtaaVJnQ28tUHZWY2RKel9NRmwxM0k5cHBOOHJjOFlpanJQaU1qQ2o2Y1o0aWw3OEM3MHd3aE9UTjBlOU5qZTkzVWhrU2Z4X3V2RU9ZZ0pmb1pma2hoUEIwSWFWLWNRUVE5bmJuR21mdnF2WlFYeGtkek9MTTVaOWp5Z1dyNS1QWExqYlFkTTJDSVpJWFU4S0E?oc=5",
-      "publishedAt": "2026-10-20T01:49:31.000Z",
-      "source": "Simply Wall Street",
       "_feedRegion": "us",
       "_feedName": "FAA",
       "_scoring": {
@@ -1099,6 +987,114 @@
             "multiplier": 0.8
           },
           "freshness": 2,
+          "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "Kansas Opens $2 Million Grant for BVLOS Drone Operations",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE5sUWxvXzFOYm9tZWFGa3VLejV0Q3VxYU5MWmtLS01fbWRjSWJlN3RqaHNELVZoZHJrbnBGVWJEVHcxTjVlakQ1SE1Uc3o1RDBwQXdFTnJqem41SURkdzlEZkltcUFSVWd0NHFmZXU4QjVBVVY1dE4tWUYxSQ?oc=5\" target=\"_blank\">Kansas Opens $2 Million Grant for BVLOS Drone Operations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AVweb</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE5sUWxvXzFOYm9tZWFGa3VLejV0Q3VxYU5MWmtLS01fbWRjSWJlN3RqaHNELVZoZHJrbnBGVWJEVHcxTjVlakQ1SE1Uc3o1RDBwQXdFTnJqem41SURkdzlEZkltcUFSVWd0NHFmZXU4QjVBVVY1dE4tWUYxSQ?oc=5\" target=\"_blank\">Kansas Opens $2 Million Grant for BVLOS Drone Operations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AVweb</font>",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5sUWxvXzFOYm9tZWFGa3VLejV0Q3VxYU5MWmtLS01fbWRjSWJlN3RqaHNELVZoZHJrbnBGVWJEVHcxTjVlakQ1SE1Uc3o1RDBwQXdFTnJqem41SURkdzlEZkltcUFSVWd0NHFmZXU4QjVBVVY1dE4tWUYxSQ?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5sUWxvXzFOYm9tZWFGa3VLejV0Q3VxYU5MWmtLS01fbWRjSWJlN3RqaHNELVZoZHJrbnBGVWJEVHcxTjVlakQ1SE1Uc3o1RDBwQXdFTnJqem41SURkdzlEZkltcUFSVWd0NHFmZXU4QjVBVVY1dE4tWUYxSQ?oc=5",
+      "publishedAt": "2026-10-23T15:56:07.000Z",
+      "source": "AVweb",
+      "_feedRegion": "global",
+      "_feedName": "Google News (Global)",
+      "_scoring": {
+        "score": 54,
+        "categories": [
+          "規制・政策",
+          "市場・資金"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
+          "market": {
+            "matches": 1,
+            "catScore": 20
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 2,
+          "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "FAA bars unauthorized drones along US-Mexico border, citing security concerns",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSHp6X2ozTTdxd1F5T19PYTFQT2daeFoyOHJ1TnhkMjJSTTVUb2taS1dTN19KdFp5QTFSN1oxWkdwVFhzazk2VFExZVR6WU5JQ2M5Q0czOGtxaXVfcnFBZG5NZ1BpS3hsWENqRHN1VXN2RmhxUkdzb1pURlNlTnVYS0l6LTFtVElWeWFXYTYwazdxRzR1Ri1jN2VfYmpxcE9MRG5sMXUxYXBJVjJvU1BuTXQ1cFEwMUE2cW9sLUJXX0xCZm8yR24wUFhqRTlyZGdNX043YzVB?oc=5\" target=\"_blank\">FAA bars unauthorized drones along US-Mexico border, citing security concerns</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSHp6X2ozTTdxd1F5T19PYTFQT2daeFoyOHJ1TnhkMjJSTTVUb2taS1dTN19KdFp5QTFSN1oxWkdwVFhzazk2VFExZVR6WU5JQ2M5Q0czOGtxaXVfcnFBZG5NZ1BpS3hsWENqRHN1VXN2RmhxUkdzb1pURlNlTnVYS0l6LTFtVElWeWFXYTYwazdxRzR1Ri1jN2VfYmpxcE9MRG5sMXUxYXBJVjJvU1BuTXQ1cFEwMUE2cW9sLUJXX0xCZm8yR24wUFhqRTlyZGdNX043YzVB?oc=5\" target=\"_blank\">FAA bars unauthorized drones along US-Mexico border, citing security concerns</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSHp6X2ozTTdxd1F5T19PYTFQT2daeFoyOHJ1TnhkMjJSTTVUb2taS1dTN19KdFp5QTFSN1oxWkdwVFhzazk2VFExZVR6WU5JQ2M5Q0czOGtxaXVfcnFBZG5NZ1BpS3hsWENqRHN1VXN2RmhxUkdzb1pURlNlTnVYS0l6LTFtVElWeWFXYTYwazdxRzR1Ri1jN2VfYmpxcE9MRG5sMXUxYXBJVjJvU1BuTXQ1cFEwMUE2cW9sLUJXX0xCZm8yR24wUFhqRTlyZGdNX043YzVB?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSHp6X2ozTTdxd1F5T19PYTFQT2daeFoyOHJ1TnhkMjJSTTVUb2taS1dTN19KdFp5QTFSN1oxWkdwVFhzazk2VFExZVR6WU5JQ2M5Q0czOGtxaXVfcnFBZG5NZ1BpS3hsWENqRHN1VXN2RmhxUkdzb1pURlNlTnVYS0l6LTFtVElWeWFXYTYwazdxRzR1Ri1jN2VfYmpxcE9MRG5sMXUxYXBJVjJvU1BuTXQ1cFEwMUE2cW9sLUJXX0xCZm8yR24wUFhqRTlyZGdNX043YzVB?oc=5",
+      "publishedAt": "2026-10-16T07:00:00.000Z",
+      "source": "Reuters",
+      "_feedRegion": "us",
+      "_feedName": "FAA",
+      "_scoring": {
+        "score": 52,
+        "categories": [
+          "規制・政策",
+          "市場・資金"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
+          "market": {
+            "matches": 1,
+            "catScore": 20
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 0,
+          "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "FAA, Pentagon Announce Drone Restriction At U.S.-Mexico Border",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNUUc2LWM2a0tNSXh2YS0zbUIxOWtyYVFxbzhGLXhhRG1NR08yOTd6QmVlNVdkcHlSVFFyNkkzakVtdFNRUnJnREFkdWU0bm1aYWlHME1HZXZPRzJhcmg2RnZYYkt6R0NwNjRfQlJKWFFONmRLb3lySmlPNk8yUVh6ZmdGZ19VcDBQM2pqZ2hudUZXd3loVE1tT0xXcE5LZzh2UFlvVVhPNkw4RU5MX25BUXhJYWtXR00?oc=5\" target=\"_blank\">FAA, Pentagon Announce Drone Restriction At U.S.-Mexico Border</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aviation Week</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNUUc2LWM2a0tNSXh2YS0zbUIxOWtyYVFxbzhGLXhhRG1NR08yOTd6QmVlNVdkcHlSVFFyNkkzakVtdFNRUnJnREFkdWU0bm1aYWlHME1HZXZPRzJhcmg2RnZYYkt6R0NwNjRfQlJKWFFONmRLb3lySmlPNk8yUVh6ZmdGZ19VcDBQM2pqZ2hudUZXd3loVE1tT0xXcE5LZzh2UFlvVVhPNkw4RU5MX25BUXhJYWtXR00?oc=5\" target=\"_blank\">FAA, Pentagon Announce Drone Restriction At U.S.-Mexico Border</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aviation Week</font>",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUUc2LWM2a0tNSXh2YS0zbUIxOWtyYVFxbzhGLXhhRG1NR08yOTd6QmVlNVdkcHlSVFFyNkkzakVtdFNRUnJnREFkdWU0bm1aYWlHME1HZXZPRzJhcmg2RnZYYkt6R0NwNjRfQlJKWFFONmRLb3lySmlPNk8yUVh6ZmdGZ19VcDBQM2pqZ2hudUZXd3loVE1tT0xXcE5LZzh2UFlvVVhPNkw4RU5MX25BUXhJYWtXR00?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUUc2LWM2a0tNSXh2YS0zbUIxOWtyYVFxbzhGLXhhRG1NR08yOTd6QmVlNVdkcHlSVFFyNkkzakVtdFNRUnJnREFkdWU0bm1aYWlHME1HZXZPRzJhcmg2RnZYYkt6R0NwNjRfQlJKWFFONmRLb3lySmlPNk8yUVh6ZmdGZ19VcDBQM2pqZ2hudUZXd3loVE1tT0xXcE5LZzh2UFlvVVhPNkw4RU5MX25BUXhJYWtXR00?oc=5",
+      "publishedAt": "2026-10-16T07:00:00.000Z",
+      "source": "Aviation Week",
+      "_feedRegion": "us",
+      "_feedName": "FAA",
+      "_scoring": {
+        "score": 52,
+        "categories": [
+          "規制・政策",
+          "市場・資金"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
+          "market": {
+            "matches": 1,
+            "catScore": 20
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 0,
           "titleBonus": 10
         },
         "pass": true
