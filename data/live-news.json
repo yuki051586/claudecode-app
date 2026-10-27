@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-27T19:56:53.314Z",
-  "rawCount": 604,
+  "generatedAt": "2026-10-27T23:41:11.245Z",
+  "rawCount": 621,
   "articles": [
     {
       "title": "How do UAS fare in EASA’s annual safety review?",
@@ -281,6 +281,38 @@
       }
     },
     {
+      "title": "双葉電子工業、国産水上ドローン開発の炎重工をグループ化 空と水を横断する無人システムで水域DXを推進",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTFBReEhKOUdORFVFZjNsbEZDcUhDN19pWkhRLUt4SFNfWFpGcXRUT2dQZnJDUlB4bWhQTzBNU3F2dlU5bGVNUFIxSGhBVDlIcGlqRzJWdw?oc=5\" target=\"_blank\">双葉電子工業、国産水上ドローン開発の炎重工をグループ化 空と水を横断する無人システムで水域DXを推進</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LIGARE（リガーレ）</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTFBReEhKOUdORFVFZjNsbEZDcUhDN19pWkhRLUt4SFNfWFpGcXRUT2dQZnJDUlB4bWhQTzBNU3F2dlU5bGVNUFIxSGhBVDlIcGlqRzJWdw?oc=5\" target=\"_blank\">双葉電子工業、国産水上ドローン開発の炎重工をグループ化 空と水を横断する無人システムで水域DXを推進</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LIGARE（リガーレ）</font>",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBReEhKOUdORFVFZjNsbEZDcUhDN19pWkhRLUt4SFNfWFpGcXRUT2dQZnJDUlB4bWhQTzBNU3F2dlU5bGVNUFIxSGhBVDlIcGlqRzJWdw?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBReEhKOUdORFVFZjNsbEZDcUhDN19pWkhRLUt4SFNfWFpGcXRUT2dQZnJDUlB4bWhQTzBNU3F2dlU5bGVNUFIxSGhBVDlIcGlqRzJWdw?oc=5",
+      "publishedAt": "2026-10-27T23:31:00.000Z",
+      "source": "LIGARE（リガーレ）",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP 政策/実証)",
+      "_scoring": {
+        "score": 64,
+        "categories": [
+          "技術・製品"
+        ],
+        "breakdown": {
+          "required": true,
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 20,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
       "title": "Coast Guard Eyes Potential $100M Follow-On MR-UAS Contract",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPZkpqSlZ1d2RIWFZiZUlLdzN5RzVaZGd4czdtclI1dThjZ2VPXzhwWnZJRC1PZHM3YVBhRFVaMHc4VUwzU0tfUXVORC03YUYtS2pKU0RmY1BJSy1yc3l3U2NBZlZ1bGtXNVNET0tTODc5U09VZDFDYjBzZ3ByemJFRTgtZ2kzWldrTDB0QTU1a3RWaTRTQ0VR?oc=5\" target=\"_blank\">Coast Guard Eyes Potential $100M Follow-On MR-UAS Contract</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GovCon Wire</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPZkpqSlZ1d2RIWFZiZUlLdzN5RzVaZGd4czdtclI1dThjZ2VPXzhwWnZJRC1PZHM3YVBhRFVaMHc4VUwzU0tfUXVORC03YUYtS2pKU0RmY1BJSy1yc3l3U2NBZlZ1bGtXNVNET0tTODc5U09VZDFDYjBzZ3ByemJFRTgtZ2kzWldrTDB0QTU1a3RWaTRTQ0VR?oc=5\" target=\"_blank\">Coast Guard Eyes Potential $100M Follow-On MR-UAS Contract</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GovCon Wire</font>",
@@ -291,7 +323,7 @@
       "_feedRegion": "global",
       "_feedName": "Google News (Global)",
       "_scoring": {
-        "score": 67,
+        "score": 62,
         "categories": [
           "規制・政策",
           "市場・資金"
@@ -310,240 +342,44 @@
             "domain": "news.google.com",
             "multiplier": 0.8
           },
-          "freshness": 15,
+          "freshness": 10,
           "titleBonus": 10
         },
         "pass": true
       }
     },
     {
-      "title": "長野・天龍村、災害時のドローン輸送航路整備",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiSkFVX3lxTE1DY1k4TWZlNjlsQWtmMnY2VUxYbzdKN2R1dXVBM0E4dU5tbmpvOWlPT3llNDJXYksxVkVTYWRyMEpOSm5LYi15NnF3?oc=5\" target=\"_blank\">長野・天龍村、災害時のドローン輸送航路整備</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LOGISTICS TODAY</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiSkFVX3lxTE1DY1k4TWZlNjlsQWtmMnY2VUxYbzdKN2R1dXVBM0E4dU5tbmpvOWlPT3llNDJXYksxVkVTYWRyMEpOSm5LYi15NnF3?oc=5\" target=\"_blank\">長野・天龍村、災害時のドローン輸送航路整備</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LOGISTICS TODAY</font>",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1DY1k4TWZlNjlsQWtmMnY2VUxYbzdKN2R1dXVBM0E4dU5tbmpvOWlPT3llNDJXYksxVkVTYWRyMEpOSm5LYi15NnF3?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1DY1k4TWZlNjlsQWtmMnY2VUxYbzdKN2R1dXVBM0E4dU5tbmpvOWlPT3llNDJXYksxVkVTYWRyMEpOSm5LYi15NnF3?oc=5",
-      "publishedAt": "2026-10-27T17:37:10.000Z",
-      "source": "LOGISTICS TODAY",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP)",
-      "_scoring": {
-        "score": 64,
-        "categories": [
-          "政策・インフラ"
-        ],
-        "breakdown": {
-          "required": true,
-          "policy": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 20,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "相次ぐイノシシ目撃 棚田荒らす被害も 安芸太田町でドローン調査（HOME広島ホームテレビ）",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1mZDZIMGxMQUtrZEQ1ZHY1VVlHUU1SZWhkd2UtWjZTU0QtbWxITy1xd01FRzJNbHgydFFEWWRhNmYySGZSR3I2dlBPeThONnZ5SHl2MkVmNVVQZEFqVUNuaHNKd2JYcUtlVDFNdWR4M3ItU1pwdEVVZ3UzNUtFVWs?oc=5\" target=\"_blank\">相次ぐイノシシ目撃 棚田荒らす被害も 安芸太田町でドローン調査（HOME広島ホームテレビ）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1mZDZIMGxMQUtrZEQ1ZHY1VVlHUU1SZWhkd2UtWjZTU0QtbWxITy1xd01FRzJNbHgydFFEWWRhNmYySGZSR3I2dlBPeThONnZ5SHl2MkVmNVVQZEFqVUNuaHNKd2JYcUtlVDFNdWR4M3ItU1pwdEVVZ3UzNUtFVWs?oc=5\" target=\"_blank\">相次ぐイノシシ目撃 棚田荒らす被害も 安芸太田町でドローン調査（HOME広島ホームテレビ）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1mZDZIMGxMQUtrZEQ1ZHY1VVlHUU1SZWhkd2UtWjZTU0QtbWxITy1xd01FRzJNbHgydFFEWWRhNmYySGZSR3I2dlBPeThONnZ5SHl2MkVmNVVQZEFqVUNuaHNKd2JYcUtlVDFNdWR4M3ItU1pwdEVVZ3UzNUtFVWs?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1mZDZIMGxMQUtrZEQ1ZHY1VVlHUU1SZWhkd2UtWjZTU0QtbWxITy1xd01FRzJNbHgydFFEWWRhNmYySGZSR3I2dlBPeThONnZ5SHl2MkVmNVVQZEFqVUNuaHNKd2JYcUtlVDFNdWR4M3ItU1pwdEVVZ3UzNUtFVWs?oc=5",
-      "publishedAt": "2026-10-27T09:33:46.000Z",
-      "source": "Yahoo!ニュース",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP)",
-      "_scoring": {
-        "score": 62,
-        "categories": [
-          "事故・事件"
-        ],
-        "breakdown": {
-          "required": true,
-          "incident": {
-            "matches": 1,
-            "catScore": 28
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 15,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "相次ぐイノシシ目撃 棚田荒らす被害も 安芸太田町でドローン調査",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE90VkdmRm1Qd3Z6MENWbUFxMmUyZG4wWGVsQXd0TXRERWlrZUItX1dnMjFrWk5va0s3R1VxMnlmX05hVV9aT1Bja3R5Q2hBSGRkc2VuUHVWUGpTejh4aDlhdXJBTkhGSjlrTlVfZTdkTQ?oc=5\" target=\"_blank\">相次ぐイノシシ目撃 棚田荒らす被害も 安芸太田町でドローン調査</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">HOME広島ホームテレビ</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE90VkdmRm1Qd3Z6MENWbUFxMmUyZG4wWGVsQXd0TXRERWlrZUItX1dnMjFrWk5va0s3R1VxMnlmX05hVV9aT1Bja3R5Q2hBSGRkc2VuUHVWUGpTejh4aDlhdXJBTkhGSjlrTlVfZTdkTQ?oc=5\" target=\"_blank\">相次ぐイノシシ目撃 棚田荒らす被害も 安芸太田町でドローン調査</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">HOME広島ホームテレビ</font>",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE90VkdmRm1Qd3Z6MENWbUFxMmUyZG4wWGVsQXd0TXRERWlrZUItX1dnMjFrWk5va0s3R1VxMnlmX05hVV9aT1Bja3R5Q2hBSGRkc2VuUHVWUGpTejh4aDlhdXJBTkhGSjlrTlVfZTdkTQ?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTE90VkdmRm1Qd3Z6MENWbUFxMmUyZG4wWGVsQXd0TXRERWlrZUItX1dnMjFrWk5va0s3R1VxMnlmX05hVV9aT1Bja3R5Q2hBSGRkc2VuUHVWUGpTejh4aDlhdXJBTkhGSjlrTlVfZTdkTQ?oc=5",
-      "publishedAt": "2026-10-27T09:33:00.000Z",
-      "source": "HOME広島ホームテレビ",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP)",
-      "_scoring": {
-        "score": 62,
-        "categories": [
-          "事故・事件"
-        ],
-        "breakdown": {
-          "required": true,
-          "incident": {
-            "matches": 1,
-            "catScore": 28
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 15,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "福井県、ドローン物流候補地の調査委託先募集",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiSkFVX3lxTFBRZFZOTHFxaTJvcWpXLTRkQTdHMGRMM3hyYlpRTzIybklfVVQ4Y0FxcHkzMGRZUGwzUVA1VllmcHVfWnpWZ2IzZnpn?oc=5\" target=\"_blank\">福井県、ドローン物流候補地の調査委託先募集</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LOGISTICS TODAY</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiSkFVX3lxTFBRZFZOTHFxaTJvcWpXLTRkQTdHMGRMM3hyYlpRTzIybklfVVQ4Y0FxcHkzMGRZUGwzUVA1VllmcHVfWnpWZ2IzZnpn?oc=5\" target=\"_blank\">福井県、ドローン物流候補地の調査委託先募集</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LOGISTICS TODAY</font>",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBRZFZOTHFxaTJvcWpXLTRkQTdHMGRMM3hyYlpRTzIybklfVVQ4Y0FxcHkzMGRZUGwzUVA1VllmcHVfWnpWZ2IzZnpn?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBRZFZOTHFxaTJvcWpXLTRkQTdHMGRMM3hyYlpRTzIybklfVVQ4Y0FxcHkzMGRZUGwzUVA1VllmcHVfWnpWZ2IzZnpn?oc=5",
-      "publishedAt": "2026-10-27T08:52:26.000Z",
-      "source": "LOGISTICS TODAY",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP)",
-      "_scoring": {
-        "score": 62,
-        "categories": [
-          "事故・事件"
-        ],
-        "breakdown": {
-          "required": true,
-          "incident": {
-            "matches": 1,
-            "catScore": 28
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 15,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "Dept. of Defense shoots down Customs and Border Protection drone near El Paso: Officials - ABC News",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNNkdLX050c0RoUVl0VzRRZjVLcE94Nm1NTEx5SzRXNm83VFE4NnhTajhheUE2dk9KbS1Oa05QT3BPZVV4a0FJZm93cFhsbjFNSmxjN1dJNVQ2OTFxMWwwQnNESzcxSzV2aVFOOTJNTG5La2VTZzJjTW1DTGdjU0xmZy00SDlJbURSOElQeHZvS2UtbXdlSzdFME9Hc0fSAaIBQVVfeXFMTnpnVVk4cXV6LUxQT0EwNW9ST0QzQzZJM0hnMUxSTTBEMGZPMXdKOU4zRlQtbDZRbWU5ajFCM1Nhdl9YMlZubUk0cGNUcExGTk9xcHIyNXZqeVRXcmRKNUhTR3ZNUWplWmkzRk84YmljX0M0TFZlVENGY1l2TXRiZGVRTXJrck82ek1iZkVkaWZpXzNLQ24ydEo5cmhTeWFvXzNB?oc=5\" target=\"_blank\">Dept. of Defense shoots down Customs and Border Protection drone near El Paso: Officials</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC News - Breaking News, Latest News and Videos</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNNkdLX050c0RoUVl0VzRRZjVLcE94Nm1NTEx5SzRXNm83VFE4NnhTajhheUE2dk9KbS1Oa05QT3BPZVV4a0FJZm93cFhsbjFNSmxjN1dJNVQ2OTFxMWwwQnNESzcxSzV2aVFOOTJNTG5La2VTZzJjTW1DTGdjU0xmZy00SDlJbURSOElQeHZvS2UtbXdlSzdFME9Hc0fSAaIBQVVfeXFMTnpnVVk4cXV6LUxQT0EwNW9ST0QzQzZJM0hnMUxSTTBEMGZPMXdKOU4zRlQtbDZRbWU5ajFCM1Nhdl9YMlZubUk0cGNUcExGTk9xcHIyNXZqeVRXcmRKNUhTR3ZNUWplWmkzRk84YmljX0M0TFZlVENGY1l2TXRiZGVRTXJrck82ek1iZkVkaWZpXzNLQ24ydEo5cmhTeWFvXzNB?oc=5\" target=\"_blank\">Dept. of Defense shoots down Customs and Border Protection drone near El Paso: Officials</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC News - Breaking News, Latest News and Videos</font>",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNkdLX050c0RoUVl0VzRRZjVLcE94Nm1NTEx5SzRXNm83VFE4NnhTajhheUE2dk9KbS1Oa05QT3BPZVV4a0FJZm93cFhsbjFNSmxjN1dJNVQ2OTFxMWwwQnNESzcxSzV2aVFOOTJNTG5La2VTZzJjTW1DTGdjU0xmZy00SDlJbURSOElQeHZvS2UtbXdlSzdFME9Hc0fSAaIBQVVfeXFMTnpnVVk4cXV6LUxQT0EwNW9ST0QzQzZJM0hnMUxSTTBEMGZPMXdKOU4zRlQtbDZRbWU5ajFCM1Nhdl9YMlZubUk0cGNUcExGTk9xcHIyNXZqeVRXcmRKNUhTR3ZNUWplWmkzRk84YmljX0M0TFZlVENGY1l2TXRiZGVRTXJrck82ek1iZkVkaWZpXzNLQ24ydEo5cmhTeWFvXzNB?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNkdLX050c0RoUVl0VzRRZjVLcE94Nm1NTEx5SzRXNm83VFE4NnhTajhheUE2dk9KbS1Oa05QT3BPZVV4a0FJZm93cFhsbjFNSmxjN1dJNVQ2OTFxMWwwQnNESzcxSzV2aVFOOTJNTG5La2VTZzJjTW1DTGdjU0xmZy00SDlJbURSOElQeHZvS2UtbXdlSzdFME9Hc0fSAaIBQVVfeXFMTnpnVVk4cXV6LUxQT0EwNW9ST0QzQzZJM0hnMUxSTTBEMGZPMXdKOU4zRlQtbDZRbWU5ajFCM1Nhdl9YMlZubUk0cGNUcExGTk9xcHIyNXZqeVRXcmRKNUhTR3ZNUWplWmkzRk84YmljX0M0TFZlVENGY1l2TXRiZGVRTXJrck82ek1iZkVkaWZpXzNLQ24ydEo5cmhTeWFvXzNB?oc=5",
-      "publishedAt": "2026-10-27T08:48:11.000Z",
-      "source": "ABC News - Breaking News, Latest News and Videos",
+      "title": "First Breach drone prototype hits FAA Part 107 speed limit; exec presenting at LD Micro",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxOMTByeFJ0SFA2VUMwS2lGeFBvd3V0NFVSTnRtMWhhREVReFh6OEhwSU11Wnl4WG5OUzE4MHowRGlPSGxnTkp2dndLdGhvZHJLdm9wNm9RTDB3QjZwYURKNVRyY0RjcVBzTW1UYkhkcXdJVkhIbGwwY2FrZnVFbV9hMDNFa2drdTFIV2gwWlJhdElZWmxDeWJnWERJMlo0TU11WkdoMHRVQkpPOUxtX3p1WUVpRHBOTDRkeU9kZ09zMzJXcWFoQVlVbVE1aFVMdzhtemIzNjh1ODBBUFY4WUY0RVNR?oc=5\" target=\"_blank\">First Breach drone prototype hits FAA Part 107 speed limit; exec presenting at LD Micro</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxOMTByeFJ0SFA2VUMwS2lGeFBvd3V0NFVSTnRtMWhhREVReFh6OEhwSU11Wnl4WG5OUzE4MHowRGlPSGxnTkp2dndLdGhvZHJLdm9wNm9RTDB3QjZwYURKNVRyY0RjcVBzTW1UYkhkcXdJVkhIbGwwY2FrZnVFbV9hMDNFa2drdTFIV2gwWlJhdElZWmxDeWJnWERJMlo0TU11WkdoMHRVQkpPOUxtX3p1WUVpRHBOTDRkeU9kZ09zMzJXcWFoQVlVbVE1aFVMdzhtemIzNjh1ODBBUFY4WUY0RVNR?oc=5\" target=\"_blank\">First Breach drone prototype hits FAA Part 107 speed limit; exec presenting at LD Micro</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOMTByeFJ0SFA2VUMwS2lGeFBvd3V0NFVSTnRtMWhhREVReFh6OEhwSU11Wnl4WG5OUzE4MHowRGlPSGxnTkp2dndLdGhvZHJLdm9wNm9RTDB3QjZwYURKNVRyY0RjcVBzTW1UYkhkcXdJVkhIbGwwY2FrZnVFbV9hMDNFa2drdTFIV2gwWlJhdElZWmxDeWJnWERJMlo0TU11WkdoMHRVQkpPOUxtX3p1WUVpRHBOTDRkeU9kZ09zMzJXcWFoQVlVbVE1aFVMdzhtemIzNjh1ODBBUFY4WUY0RVNR?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOMTByeFJ0SFA2VUMwS2lGeFBvd3V0NFVSTnRtMWhhREVReFh6OEhwSU11Wnl4WG5OUzE4MHowRGlPSGxnTkp2dndLdGhvZHJLdm9wNm9RTDB3QjZwYURKNVRyY0RjcVBzTW1UYkhkcXdJVkhIbGwwY2FrZnVFbV9hMDNFa2drdTFIV2gwWlJhdElZWmxDeWJnWERJMlo0TU11WkdoMHRVQkpPOUxtX3p1WUVpRHBOTDRkeU9kZ09zMzJXcWFoQVlVbVE1aFVMdzhtemIzNjh1ODBBUFY4WUY0RVNR?oc=5",
+      "publishedAt": "2026-10-21T21:03:00.000Z",
+      "source": "TradingView",
       "_feedRegion": "us",
       "_feedName": "FAA",
       "_scoring": {
-        "score": 60,
+        "score": 61,
         "categories": [
-          "市場・資金",
-          "政策・インフラ"
+          "規制・政策",
+          "技術・製品"
         ],
         "breakdown": {
           "required": true,
-          "market": {
-            "matches": 1,
-            "catScore": 20
+          "regulation": {
+            "matches": 2,
+            "catScore": 40
           },
-          "policy": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 15,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "Helsing launches autonomous Contra air defence/C-UAS system to mitigate high speed drone swarms",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxOdHl0WmVFVHZXLWxvYUNfTGdOWFZUUk83UnBZSldRNEYxWmdqZFU0ZU5rMkFkdHdSMTdyWklaQm55a3FNbU9kSFhlVXNLTnFzZVRuS0ZQVWFiaEZyZHRxai1ick9ZTWRrYzVLbDRuakMybExGalJuVnMtcVJIZnFUWXpXeUpiUTc0TmJnR292enE4M1FOakxvb1Z1ODZkWGZVVGxIbTNvZGtXUWhyaU9GaTRZR2FMUlZIS3Z1d3d2blZfa2tXQjVhazB3WDNOZlNnYkRad0tkUXpfbTYtZGFOeUxaR0tvbFR6SDZUSDczU0s2NEFXakE?oc=5\" target=\"_blank\">Helsing launches autonomous Contra air defence/C-UAS system to mitigate high speed drone swarms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxOdHl0WmVFVHZXLWxvYUNfTGdOWFZUUk83UnBZSldRNEYxWmdqZFU0ZU5rMkFkdHdSMTdyWklaQm55a3FNbU9kSFhlVXNLTnFzZVRuS0ZQVWFiaEZyZHRxai1ick9ZTWRrYzVLbDRuakMybExGalJuVnMtcVJIZnFUWXpXeUpiUTc0TmJnR292enE4M1FOakxvb1Z1ODZkWGZVVGxIbTNvZGtXUWhyaU9GaTRZR2FMUlZIS3Z1d3d2blZfa2tXQjVhazB3WDNOZlNnYkRad0tkUXpfbTYtZGFOeUxaR0tvbFR6SDZUSDczU0s2NEFXakE?oc=5\" target=\"_blank\">Helsing launches autonomous Contra air defence/C-UAS system to mitigate high speed drone swarms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOdHl0WmVFVHZXLWxvYUNfTGdOWFZUUk83UnBZSldRNEYxWmdqZFU0ZU5rMkFkdHdSMTdyWklaQm55a3FNbU9kSFhlVXNLTnFzZVRuS0ZQVWFiaEZyZHRxai1ick9ZTWRrYzVLbDRuakMybExGalJuVnMtcVJIZnFUWXpXeUpiUTc0TmJnR292enE4M1FOakxvb1Z1ODZkWGZVVGxIbTNvZGtXUWhyaU9GaTRZR2FMUlZIS3Z1d3d2blZfa2tXQjVhazB3WDNOZlNnYkRad0tkUXpfbTYtZGFOeUxaR0tvbFR6SDZUSDczU0s2NEFXakE?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOdHl0WmVFVHZXLWxvYUNfTGdOWFZUUk83UnBZSldRNEYxWmdqZFU0ZU5rMkFkdHdSMTdyWklaQm55a3FNbU9kSFhlVXNLTnFzZVRuS0ZQVWFiaEZyZHRxai1ick9ZTWRrYzVLbDRuakMybExGalJuVnMtcVJIZnFUWXpXeUpiUTc0TmJnR292enE4M1FOakxvb1Z1ODZkWGZVVGxIbTNvZGtXUWhyaU9GaTRZR2FMUlZIS3Z1d3d2blZfa2tXQjVhazB3WDNOZlNnYkRad0tkUXpfbTYtZGFOeUxaR0tvbFR6SDZUSDczU0s2NEFXakE?oc=5",
-      "publishedAt": "2026-10-27T10:23:52.000Z",
-      "source": "Unmanned airspace",
-      "_feedRegion": "eu",
-      "_feedName": "EASA",
-      "_scoring": {
-        "score": 60,
-        "categories": [
-          "技術・製品",
-          "市場・資金"
-        ],
-        "breakdown": {
-          "required": true,
           "technology": {
             "matches": 1,
             "catScore": 24
           },
-          "market": {
-            "matches": 1,
-            "catScore": 20
-          },
           "sourceTrust": {
             "domain": "news.google.com",
             "multiplier": 0.8
           },
-          "freshness": 15,
+          "freshness": 0,
           "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "エアロエントリーとバウンダリ行政書士法人が業務提携しドローン事業を支援強化",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9idl95S3dvZjJDRU1UZ3RXdDB0dWFNS2Jzc09mbkNvc19uY0RYa0NFc3BmV2FFaFU0VUZSUnhSWTQzNU9kQm5URF9QLTRDWm9WajdRVXI0UjlCdURUZndOTnZQckJIS1RHY0xCVTZkUms?oc=5\" target=\"_blank\">エアロエントリーとバウンダリ行政書士法人が業務提携しドローン事業を支援強化</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ニュースメディアVOIX</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9idl95S3dvZjJDRU1UZ3RXdDB0dWFNS2Jzc09mbkNvc19uY0RYa0NFc3BmV2FFaFU0VUZSUnhSWTQzNU9kQm5URF9QLTRDWm9WajdRVXI0UjlCdURUZndOTnZQckJIS1RHY0xCVTZkUms?oc=5\" target=\"_blank\">エアロエントリーとバウンダリ行政書士法人が業務提携しドローン事業を支援強化</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ニュースメディアVOIX</font>",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9idl95S3dvZjJDRU1UZ3RXdDB0dWFNS2Jzc09mbkNvc19uY0RYa0NFc3BmV2FFaFU0VUZSUnhSWTQzNU9kQm5URF9QLTRDWm9WajdRVXI0UjlCdURUZndOTnZQckJIS1RHY0xCVTZkUms?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9idl95S3dvZjJDRU1UZ3RXdDB0dWFNS2Jzc09mbkNvc19uY0RYa0NFc3BmV2FFaFU0VUZSUnhSWTQzNU9kQm5URF9QLTRDWm9WajdRVXI0UjlCdURUZndOTnZQckJIS1RHY0xCVTZkUms?oc=5",
-      "publishedAt": "2026-10-27T09:22:29.000Z",
-      "source": "ニュースメディアVOIX",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP 政策/実証)",
-      "_scoring": {
-        "score": 60,
-        "categories": [
-          "市場・資金"
-        ],
-        "breakdown": {
-          "required": true,
-          "market": {
-            "matches": 2,
-            "catScore": 25
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 15,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
         },
         "pass": true
       }
@@ -585,13 +421,13 @@
       }
     },
     {
-      "title": "長野・天龍村、孤立集落に備え「ドローン防災ルート」整備へ レベル3.5で物資輸送実証",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE92UW1QeE9sbEd5T1Z2MFBidWU1WUtTQmJsUzVBemkzcVJydFFrc0dGcE8tNmkxNS04Wm1sM2JzVGV6QzU5d1VOanlVUWp4MTB3QVFWYUxSMkV1UVJwb2tzZw?oc=5\" target=\"_blank\">長野・天龍村、孤立集落に備え「ドローン防災ルート」整備へ レベル3.5で物資輸送実証</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">電波タイムズ</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE92UW1QeE9sbEd5T1Z2MFBidWU1WUtTQmJsUzVBemkzcVJydFFrc0dGcE8tNmkxNS04Wm1sM2JzVGV6QzU5d1VOanlVUWp4MTB3QVFWYUxSMkV1UVJwb2tzZw?oc=5\" target=\"_blank\">長野・天龍村、孤立集落に備え「ドローン防災ルート」整備へ レベル3.5で物資輸送実証</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">電波タイムズ</font>",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE92UW1QeE9sbEd5T1Z2MFBidWU1WUtTQmJsUzVBemkzcVJydFFrc0dGcE8tNmkxNS04Wm1sM2JzVGV6QzU5d1VOanlVUWp4MTB3QVFWYUxSMkV1UVJwb2tzZw?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE92UW1QeE9sbEd5T1Z2MFBidWU1WUtTQmJsUzVBemkzcVJydFFrc0dGcE8tNmkxNS04Wm1sM2JzVGV6QzU5d1VOanlVUWp4MTB3QVFWYUxSMkV1UVJwb2tzZw?oc=5",
-      "publishedAt": "2026-10-27T09:07:12.000Z",
-      "source": "電波タイムズ",
+      "title": "長野・天龍村、災害時のドローン輸送航路整備",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiSkFVX3lxTE1DY1k4TWZlNjlsQWtmMnY2VUxYbzdKN2R1dXVBM0E4dU5tbmpvOWlPT3llNDJXYksxVkVTYWRyMEpOSm5LYi15NnF3?oc=5\" target=\"_blank\">長野・天龍村、災害時のドローン輸送航路整備</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LOGISTICS TODAY</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiSkFVX3lxTE1DY1k4TWZlNjlsQWtmMnY2VUxYbzdKN2R1dXVBM0E4dU5tbmpvOWlPT3llNDJXYksxVkVTYWRyMEpOSm5LYi15NnF3?oc=5\" target=\"_blank\">長野・天龍村、災害時のドローン輸送航路整備</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LOGISTICS TODAY</font>",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1DY1k4TWZlNjlsQWtmMnY2VUxYbzdKN2R1dXVBM0E4dU5tbmpvOWlPT3llNDJXYksxVkVTYWRyMEpOSm5LYi15NnF3?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1DY1k4TWZlNjlsQWtmMnY2VUxYbzdKN2R1dXVBM0E4dU5tbmpvOWlPT3llNDJXYksxVkVTYWRyMEpOSm5LYi15NnF3?oc=5",
+      "publishedAt": "2026-10-27T17:37:10.000Z",
+      "source": "LOGISTICS TODAY",
       "_feedRegion": "jp",
       "_feedName": "Google News (JP)",
       "_scoring": {
@@ -653,98 +489,31 @@
       }
     },
     {
-      "title": "FAA sets high bar for commercial air taxi flights under eVTOL pilot programme",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOal80dlZEZWc1MlhLZ19UZWtMNU1EUkx3YXN1aTlrZk1lcGlZeWMwTVdUT0RzNDRLblptcnJURHN1dWRIU1J1Rm5RY1VkT2hyTzhaVVh5Vm4tNzFOTFZWdWdsb3VSeXB3UUNPc192UENaWWxjdVREU3ZqME1fN1daLWpSaTE4N2RJU1BnU19RNVM5a1d6d0Z0QkNzZnZOalhhTTBWZk94WGNQVzVRd2EyOVc2Vjk4VzVnOTh0VVZDNlhfbXlx?oc=5\" target=\"_blank\">FAA sets high bar for commercial air taxi flights under eVTOL pilot programme</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FlightGlobal</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOal80dlZEZWc1MlhLZ19UZWtMNU1EUkx3YXN1aTlrZk1lcGlZeWMwTVdUT0RzNDRLblptcnJURHN1dWRIU1J1Rm5RY1VkT2hyTzhaVVh5Vm4tNzFOTFZWdWdsb3VSeXB3UUNPc192UENaWWxjdVREU3ZqME1fN1daLWpSaTE4N2RJU1BnU19RNVM5a1d6d0Z0QkNzZnZOalhhTTBWZk94WGNQVzVRd2EyOVc2Vjk4VzVnOTh0VVZDNlhfbXlx?oc=5\" target=\"_blank\">FAA sets high bar for commercial air taxi flights under eVTOL pilot programme</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FlightGlobal</font>",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOal80dlZEZWc1MlhLZ19UZWtMNU1EUkx3YXN1aTlrZk1lcGlZeWMwTVdUT0RzNDRLblptcnJURHN1dWRIU1J1Rm5RY1VkT2hyTzhaVVh5Vm4tNzFOTFZWdWdsb3VSeXB3UUNPc192UENaWWxjdVREU3ZqME1fN1daLWpSaTE4N2RJU1BnU19RNVM5a1d6d0Z0QkNzZnZOalhhTTBWZk94WGNQVzVRd2EyOVc2Vjk4VzVnOTh0VVZDNlhfbXlx?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOal80dlZEZWc1MlhLZ19UZWtMNU1EUkx3YXN1aTlrZk1lcGlZeWMwTVdUT0RzNDRLblptcnJURHN1dWRIU1J1Rm5RY1VkT2hyTzhaVVh5Vm4tNzFOTFZWdWdsb3VSeXB3UUNPc192UENaWWxjdVREU3ZqME1fN1daLWpSaTE4N2RJU1BnU19RNVM5a1d6d0Z0QkNzZnZOalhhTTBWZk94WGNQVzVRd2EyOVc2Vjk4VzVnOTh0VVZDNlhfbXlx?oc=5",
-      "publishedAt": "2026-10-27T17:26:28.000Z",
-      "source": "FlightGlobal",
-      "_feedRegion": "us",
-      "_feedName": "FAA",
-      "_scoring": {
-        "score": 56,
-        "categories": [
-          "規制・政策"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 1,
-            "catScore": 32
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 20,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "Kansas announces USD2M investment to boost UAS and BVLOS expansion",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQSVEwZVpXWExLSXNVSUhDUUdBNW9OZUJBV1BlRXlVNWRSWlVUM3VjUzZWWnFtODlFSFJXSC04MUlKdFlBLVhDY3BoUnhrYkJxQzVKOEpzTzJndHA1UzdwVHZabkdCT3V5N2g4SkFZNTFRWkdXYUh5T3d0REdJdEpoVGpIN0J1UVhLajZYOTJjUXNsVnUtbFBpQzFtbDdEUVhvY2FUYm5RQy1Na2JKYUhmWGZkbnBldw?oc=5\" target=\"_blank\">Kansas announces USD2M investment to boost UAS and BVLOS expansion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQSVEwZVpXWExLSXNVSUhDUUdBNW9OZUJBV1BlRXlVNWRSWlVUM3VjUzZWWnFtODlFSFJXSC04MUlKdFlBLVhDY3BoUnhrYkJxQzVKOEpzTzJndHA1UzdwVHZabkdCT3V5N2g4SkFZNTFRWkdXYUh5T3d0REdJdEpoVGpIN0J1UVhLajZYOTJjUXNsVnUtbFBpQzFtbDdEUVhvY2FUYm5RQy1Na2JKYUhmWGZkbnBldw?oc=5\" target=\"_blank\">Kansas announces USD2M investment to boost UAS and BVLOS expansion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSVEwZVpXWExLSXNVSUhDUUdBNW9OZUJBV1BlRXlVNWRSWlVUM3VjUzZWWnFtODlFSFJXSC04MUlKdFlBLVhDY3BoUnhrYkJxQzVKOEpzTzJndHA1UzdwVHZabkdCT3V5N2g4SkFZNTFRWkdXYUh5T3d0REdJdEpoVGpIN0J1UVhLajZYOTJjUXNsVnUtbFBpQzFtbDdEUVhvY2FUYm5RQy1Na2JKYUhmWGZkbnBldw?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSVEwZVpXWExLSXNVSUhDUUdBNW9OZUJBV1BlRXlVNWRSWlVUM3VjUzZWWnFtODlFSFJXSC04MUlKdFlBLVhDY3BoUnhrYkJxQzVKOEpzTzJndHA1UzdwVHZabkdCT3V5N2g4SkFZNTFRWkdXYUh5T3d0REdJdEpoVGpIN0J1UVhLajZYOTJjUXNsVnUtbFBpQzFtbDdEUVhvY2FUYm5RQy1Na2JKYUhmWGZkbnBldw?oc=5",
-      "publishedAt": "2026-10-23T10:28:47.000Z",
-      "source": "Unmanned airspace",
-      "_feedRegion": "global",
-      "_feedName": "Google News (Global)",
-      "_scoring": {
-        "score": 56,
-        "categories": [
-          "規制・政策",
-          "市場・資金"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 1,
-            "catScore": 32
-          },
-          "market": {
-            "matches": 2,
-            "catScore": 25
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 0,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "2027年にローソン商品を空からお届け！KDDIと米Wingが日本国内でのドローン配送で提携",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE9BZkZhU3dmMkJhNlZHOEtVMlJwMXRoamtKS1Q5Q2h5MWlhYmN2ZWpPLXZnMEpkUXR5eDhnV1lwaHRDeFVyeV9JY1EzY0w?oc=5\" target=\"_blank\">2027年にローソン商品を空からお届け！KDDIと米Wingが日本国内でのドローン配送で提携</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DXマガジン</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE9BZkZhU3dmMkJhNlZHOEtVMlJwMXRoamtKS1Q5Q2h5MWlhYmN2ZWpPLXZnMEpkUXR5eDhnV1lwaHRDeFVyeV9JY1EzY0w?oc=5\" target=\"_blank\">2027年にローソン商品を空からお届け！KDDIと米Wingが日本国内でのドローン配送で提携</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DXマガジン</font>",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9BZkZhU3dmMkJhNlZHOEtVMlJwMXRoamtKS1Q5Q2h5MWlhYmN2ZWpPLXZnMEpkUXR5eDhnV1lwaHRDeFVyeV9JY1EzY0w?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9BZkZhU3dmMkJhNlZHOEtVMlJwMXRoamtKS1Q5Q2h5MWlhYmN2ZWpPLXZnMEpkUXR5eDhnV1lwaHRDeFVyeV9JY1EzY0w?oc=5",
-      "publishedAt": "2026-10-27T09:25:15.000Z",
-      "source": "DXマガジン",
+      "title": "相次ぐイノシシ目撃 棚田荒らす被害も 安芸太田町でドローン調査（HOME広島ホームテレビ）",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1mZDZIMGxMQUtrZEQ1ZHY1VVlHUU1SZWhkd2UtWjZTU0QtbWxITy1xd01FRzJNbHgydFFEWWRhNmYySGZSR3I2dlBPeThONnZ5SHl2MkVmNVVQZEFqVUNuaHNKd2JYcUtlVDFNdWR4M3ItU1pwdEVVZ3UzNUtFVWs?oc=5\" target=\"_blank\">相次ぐイノシシ目撃 棚田荒らす被害も 安芸太田町でドローン調査（HOME広島ホームテレビ）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1mZDZIMGxMQUtrZEQ1ZHY1VVlHUU1SZWhkd2UtWjZTU0QtbWxITy1xd01FRzJNbHgydFFEWWRhNmYySGZSR3I2dlBPeThONnZ5SHl2MkVmNVVQZEFqVUNuaHNKd2JYcUtlVDFNdWR4M3ItU1pwdEVVZ3UzNUtFVWs?oc=5\" target=\"_blank\">相次ぐイノシシ目撃 棚田荒らす被害も 安芸太田町でドローン調査（HOME広島ホームテレビ）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1mZDZIMGxMQUtrZEQ1ZHY1VVlHUU1SZWhkd2UtWjZTU0QtbWxITy1xd01FRzJNbHgydFFEWWRhNmYySGZSR3I2dlBPeThONnZ5SHl2MkVmNVVQZEFqVUNuaHNKd2JYcUtlVDFNdWR4M3ItU1pwdEVVZ3UzNUtFVWs?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1mZDZIMGxMQUtrZEQ1ZHY1VVlHUU1SZWhkd2UtWjZTU0QtbWxITy1xd01FRzJNbHgydFFEWWRhNmYySGZSR3I2dlBPeThONnZ5SHl2MkVmNVVQZEFqVUNuaHNKd2JYcUtlVDFNdWR4M3ItU1pwdEVVZ3UzNUtFVWs?oc=5",
+      "publishedAt": "2026-10-27T09:33:46.000Z",
+      "source": "Yahoo!ニュース",
       "_feedRegion": "jp",
-      "_feedName": "Google News (JP 政策/実証)",
+      "_feedName": "Google News (JP)",
       "_scoring": {
-        "score": 56,
+        "score": 57,
         "categories": [
-          "市場・資金"
+          "事故・事件"
         ],
         "breakdown": {
           "required": true,
-          "market": {
+          "incident": {
             "matches": 1,
-            "catScore": 20
+            "catScore": 28
           },
           "sourceTrust": {
             "domain": "news.google.com",
             "multiplier": 0.8
           },
-          "freshness": 15,
+          "freshness": 10,
           "titleBonus": 10,
           "jpRegionBonus": 15
         },
@@ -752,31 +521,63 @@
       }
     },
     {
-      "title": "KDDIとWing、ドローン配送で地域課題解決へ向けた提携の実現",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFB2Yl84TGQ3c0NJd1RqenFTYkRiU21FNDRhVFEzUjBrYmk5LVZIY0ZnMnBQbWZ0UE94OG1MTjNWUmVKOFhYYnlGZ2ppRnJ0M1Q3S2xmUTIzdWtXUGszY3JpS0xDQUFmWGtzbjFtTU5hWTl6YW82aTU4?oc=5\" target=\"_blank\">KDDIとWing、ドローン配送で地域課題解決へ向けた提携の実現</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ニュースメディアVOIX</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFB2Yl84TGQ3c0NJd1RqenFTYkRiU21FNDRhVFEzUjBrYmk5LVZIY0ZnMnBQbWZ0UE94OG1MTjNWUmVKOFhYYnlGZ2ppRnJ0M1Q3S2xmUTIzdWtXUGszY3JpS0xDQUFmWGtzbjFtTU5hWTl6YW82aTU4?oc=5\" target=\"_blank\">KDDIとWing、ドローン配送で地域課題解決へ向けた提携の実現</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ニュースメディアVOIX</font>",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB2Yl84TGQ3c0NJd1RqenFTYkRiU21FNDRhVFEzUjBrYmk5LVZIY0ZnMnBQbWZ0UE94OG1MTjNWUmVKOFhYYnlGZ2ppRnJ0M1Q3S2xmUTIzdWtXUGszY3JpS0xDQUFmWGtzbjFtTU5hWTl6YW82aTU4?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB2Yl84TGQ3c0NJd1RqenFTYkRiU21FNDRhVFEzUjBrYmk5LVZIY0ZnMnBQbWZ0UE94OG1MTjNWUmVKOFhYYnlGZ2ppRnJ0M1Q3S2xmUTIzdWtXUGszY3JpS0xDQUFmWGtzbjFtTU5hWTl6YW82aTU4?oc=5",
-      "publishedAt": "2026-10-27T09:02:38.000Z",
-      "source": "ニュースメディアVOIX",
+      "title": "相次ぐイノシシ目撃 棚田荒らす被害も 安芸太田町でドローン調査",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE90VkdmRm1Qd3Z6MENWbUFxMmUyZG4wWGVsQXd0TXRERWlrZUItX1dnMjFrWk5va0s3R1VxMnlmX05hVV9aT1Bja3R5Q2hBSGRkc2VuUHVWUGpTejh4aDlhdXJBTkhGSjlrTlVfZTdkTQ?oc=5\" target=\"_blank\">相次ぐイノシシ目撃 棚田荒らす被害も 安芸太田町でドローン調査</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">HOME広島ホームテレビ</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE90VkdmRm1Qd3Z6MENWbUFxMmUyZG4wWGVsQXd0TXRERWlrZUItX1dnMjFrWk5va0s3R1VxMnlmX05hVV9aT1Bja3R5Q2hBSGRkc2VuUHVWUGpTejh4aDlhdXJBTkhGSjlrTlVfZTdkTQ?oc=5\" target=\"_blank\">相次ぐイノシシ目撃 棚田荒らす被害も 安芸太田町でドローン調査</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">HOME広島ホームテレビ</font>",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE90VkdmRm1Qd3Z6MENWbUFxMmUyZG4wWGVsQXd0TXRERWlrZUItX1dnMjFrWk5va0s3R1VxMnlmX05hVV9aT1Bja3R5Q2hBSGRkc2VuUHVWUGpTejh4aDlhdXJBTkhGSjlrTlVfZTdkTQ?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTE90VkdmRm1Qd3Z6MENWbUFxMmUyZG4wWGVsQXd0TXRERWlrZUItX1dnMjFrWk5va0s3R1VxMnlmX05hVV9aT1Bja3R5Q2hBSGRkc2VuUHVWUGpTejh4aDlhdXJBTkhGSjlrTlVfZTdkTQ?oc=5",
+      "publishedAt": "2026-10-27T09:33:00.000Z",
+      "source": "HOME広島ホームテレビ",
       "_feedRegion": "jp",
-      "_feedName": "Google News (JP 政策/実証)",
+      "_feedName": "Google News (JP)",
       "_scoring": {
-        "score": 56,
+        "score": 57,
         "categories": [
-          "市場・資金"
+          "事故・事件"
         ],
         "breakdown": {
           "required": true,
-          "market": {
+          "incident": {
             "matches": 1,
-            "catScore": 20
+            "catScore": 28
           },
           "sourceTrust": {
             "domain": "news.google.com",
             "multiplier": 0.8
           },
-          "freshness": 15,
+          "freshness": 10,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "福井県、ドローン物流候補地の調査委託先募集",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiSkFVX3lxTFBRZFZOTHFxaTJvcWpXLTRkQTdHMGRMM3hyYlpRTzIybklfVVQ4Y0FxcHkzMGRZUGwzUVA1VllmcHVfWnpWZ2IzZnpn?oc=5\" target=\"_blank\">福井県、ドローン物流候補地の調査委託先募集</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LOGISTICS TODAY</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiSkFVX3lxTFBRZFZOTHFxaTJvcWpXLTRkQTdHMGRMM3hyYlpRTzIybklfVVQ4Y0FxcHkzMGRZUGwzUVA1VllmcHVfWnpWZ2IzZnpn?oc=5\" target=\"_blank\">福井県、ドローン物流候補地の調査委託先募集</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LOGISTICS TODAY</font>",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBRZFZOTHFxaTJvcWpXLTRkQTdHMGRMM3hyYlpRTzIybklfVVQ4Y0FxcHkzMGRZUGwzUVA1VllmcHVfWnpWZ2IzZnpn?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBRZFZOTHFxaTJvcWpXLTRkQTdHMGRMM3hyYlpRTzIybklfVVQ4Y0FxcHkzMGRZUGwzUVA1VllmcHVfWnpWZ2IzZnpn?oc=5",
+      "publishedAt": "2026-10-27T08:52:26.000Z",
+      "source": "LOGISTICS TODAY",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP)",
+      "_scoring": {
+        "score": 57,
+        "categories": [
+          "事故・事件"
+        ],
+        "breakdown": {
+          "required": true,
+          "incident": {
+            "matches": 1,
+            "catScore": 28
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 10,
           "titleBonus": 10,
           "jpRegionBonus": 15
         },
@@ -791,6 +592,38 @@
       "googleNewsUrl": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE52M2R4TnpMZHVURFhEcEZuZWZZTFFVaHZRMWoySk43cGNld3l1aDVTSzVUWFBqeDNONXRhWkNBWlh0SFhaaFRoSXhkMXg2dU0wSktB?oc=5",
       "publishedAt": "2026-10-27T12:03:08.000Z",
       "source": "AMP[アンプ]",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP 事業者/実装)",
+      "_scoring": {
+        "score": 56,
+        "categories": [
+          "市場・資金"
+        ],
+        "breakdown": {
+          "required": true,
+          "market": {
+            "matches": 1,
+            "catScore": 20
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 15,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "ローソン商品 ドローン配送 ＫＤＤＩ 来年にも 米会社と提携 順次全国導入",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5nTVl3eC1HX0xyRk9WcmwxdlcxdzZyUmtTTXJkbm16Sk9SbERrZmc5M1pQZUFhNWZETlp2amk0Ylg2QTI4THo4VUJUajJ6b2V5M1l6MVJQUW9xdlBLRWFUVU1KNA?oc=5\" target=\"_blank\">ローソン商品 ドローン配送 ＫＤＤＩ 来年にも 米会社と提携 順次全国導入</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">読売新聞</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5nTVl3eC1HX0xyRk9WcmwxdlcxdzZyUmtTTXJkbm16Sk9SbERrZmc5M1pQZUFhNWZETlp2amk0Ylg2QTI4THo4VUJUajJ6b2V5M1l6MVJQUW9xdlBLRWFUVU1KNA?oc=5\" target=\"_blank\">ローソン商品 ドローン配送 ＫＤＤＩ 来年にも 米会社と提携 順次全国導入</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">読売新聞</font>",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5nTVl3eC1HX0xyRk9WcmwxdlcxdzZyUmtTTXJkbm16Sk9SbERrZmc5M1pQZUFhNWZETlp2amk0Ylg2QTI4THo4VUJUajJ6b2V5M1l6MVJQUW9xdlBLRWFUVU1KNA?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5nTVl3eC1HX0xyRk9WcmwxdlcxdzZyUmtTTXJkbm16Sk9SbERrZmc5M1pQZUFhNWZETlp2amk0Ylg2QTI4THo4VUJUajJ6b2V5M1l6MVJQUW9xdlBLRWFUVU1KNA?oc=5",
+      "publishedAt": "2026-10-27T20:00:00.000Z",
+      "source": "読売新聞",
       "_feedRegion": "jp",
       "_feedName": "Google News (JP 事業者/実装)",
       "_scoring": {
@@ -846,6 +679,42 @@
             "multiplier": 0.8
           },
           "freshness": 0,
+          "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "Dept. of Defense shoots down Customs and Border Protection drone near El Paso: Officials - ABC News",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNNkdLX050c0RoUVl0VzRRZjVLcE94Nm1NTEx5SzRXNm83VFE4NnhTajhheUE2dk9KbS1Oa05QT3BPZVV4a0FJZm93cFhsbjFNSmxjN1dJNVQ2OTFxMWwwQnNESzcxSzV2aVFOOTJNTG5La2VTZzJjTW1DTGdjU0xmZy00SDlJbURSOElQeHZvS2UtbXdlSzdFME9Hc0fSAaIBQVVfeXFMTnpnVVk4cXV6LUxQT0EwNW9ST0QzQzZJM0hnMUxSTTBEMGZPMXdKOU4zRlQtbDZRbWU5ajFCM1Nhdl9YMlZubUk0cGNUcExGTk9xcHIyNXZqeVRXcmRKNUhTR3ZNUWplWmkzRk84YmljX0M0TFZlVENGY1l2TXRiZGVRTXJrck82ek1iZkVkaWZpXzNLQ24ydEo5cmhTeWFvXzNB?oc=5\" target=\"_blank\">Dept. of Defense shoots down Customs and Border Protection drone near El Paso: Officials</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC News - Breaking News, Latest News and Videos</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNNkdLX050c0RoUVl0VzRRZjVLcE94Nm1NTEx5SzRXNm83VFE4NnhTajhheUE2dk9KbS1Oa05QT3BPZVV4a0FJZm93cFhsbjFNSmxjN1dJNVQ2OTFxMWwwQnNESzcxSzV2aVFOOTJNTG5La2VTZzJjTW1DTGdjU0xmZy00SDlJbURSOElQeHZvS2UtbXdlSzdFME9Hc0fSAaIBQVVfeXFMTnpnVVk4cXV6LUxQT0EwNW9ST0QzQzZJM0hnMUxSTTBEMGZPMXdKOU4zRlQtbDZRbWU5ajFCM1Nhdl9YMlZubUk0cGNUcExGTk9xcHIyNXZqeVRXcmRKNUhTR3ZNUWplWmkzRk84YmljX0M0TFZlVENGY1l2TXRiZGVRTXJrck82ek1iZkVkaWZpXzNLQ24ydEo5cmhTeWFvXzNB?oc=5\" target=\"_blank\">Dept. of Defense shoots down Customs and Border Protection drone near El Paso: Officials</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC News - Breaking News, Latest News and Videos</font>",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNkdLX050c0RoUVl0VzRRZjVLcE94Nm1NTEx5SzRXNm83VFE4NnhTajhheUE2dk9KbS1Oa05QT3BPZVV4a0FJZm93cFhsbjFNSmxjN1dJNVQ2OTFxMWwwQnNESzcxSzV2aVFOOTJNTG5La2VTZzJjTW1DTGdjU0xmZy00SDlJbURSOElQeHZvS2UtbXdlSzdFME9Hc0fSAaIBQVVfeXFMTnpnVVk4cXV6LUxQT0EwNW9ST0QzQzZJM0hnMUxSTTBEMGZPMXdKOU4zRlQtbDZRbWU5ajFCM1Nhdl9YMlZubUk0cGNUcExGTk9xcHIyNXZqeVRXcmRKNUhTR3ZNUWplWmkzRk84YmljX0M0TFZlVENGY1l2TXRiZGVRTXJrck82ek1iZkVkaWZpXzNLQ24ydEo5cmhTeWFvXzNB?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNkdLX050c0RoUVl0VzRRZjVLcE94Nm1NTEx5SzRXNm83VFE4NnhTajhheUE2dk9KbS1Oa05QT3BPZVV4a0FJZm93cFhsbjFNSmxjN1dJNVQ2OTFxMWwwQnNESzcxSzV2aVFOOTJNTG5La2VTZzJjTW1DTGdjU0xmZy00SDlJbURSOElQeHZvS2UtbXdlSzdFME9Hc0fSAaIBQVVfeXFMTnpnVVk4cXV6LUxQT0EwNW9ST0QzQzZJM0hnMUxSTTBEMGZPMXdKOU4zRlQtbDZRbWU5ajFCM1Nhdl9YMlZubUk0cGNUcExGTk9xcHIyNXZqeVRXcmRKNUhTR3ZNUWplWmkzRk84YmljX0M0TFZlVENGY1l2TXRiZGVRTXJrck82ek1iZkVkaWZpXzNLQ24ydEo5cmhTeWFvXzNB?oc=5",
+      "publishedAt": "2026-10-27T08:48:11.000Z",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "_feedRegion": "us",
+      "_feedName": "FAA",
+      "_scoring": {
+        "score": 55,
+        "categories": [
+          "市場・資金",
+          "政策・インフラ"
+        ],
+        "breakdown": {
+          "required": true,
+          "market": {
+            "matches": 1,
+            "catScore": 20
+          },
+          "policy": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 10,
           "titleBonus": 10
         },
         "pass": true
@@ -996,6 +865,42 @@
       }
     },
     {
+      "title": "Federal officials request Amazon, FAA reconsider drone delivery",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQRFhTcUMzMXJtUDNaYVNsN2RtOFRsMzAyUTltRTF1OXg0Y0JwbVZZd1BnMERmcUhwVmpRUDVTYUR5Z2lIS29zX0tQVFFBRTBaLU9sVFRDOTE3S1NXTURtZTFndk12UEdWeU56NDM0TzRMSkpHOU5lSFdKd3JaekZUWktHSG40eWVVQW5aX1V0bVhCUzIwazN3RXA4QWxLc2lUZ3BQUjh3UTJNMTk2SUJXNFZoV09fdTRIaW4tNWRoTllaYUFYc0JpSy1R?oc=5\" target=\"_blank\">Federal officials request Amazon, FAA reconsider drone delivery</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Worcester Telegram</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQRFhTcUMzMXJtUDNaYVNsN2RtOFRsMzAyUTltRTF1OXg0Y0JwbVZZd1BnMERmcUhwVmpRUDVTYUR5Z2lIS29zX0tQVFFBRTBaLU9sVFRDOTE3S1NXTURtZTFndk12UEdWeU56NDM0TzRMSkpHOU5lSFdKd3JaekZUWktHSG40eWVVQW5aX1V0bVhCUzIwazN3RXA4QWxLc2lUZ3BQUjh3UTJNMTk2SUJXNFZoV09fdTRIaW4tNWRoTllaYUFYc0JpSy1R?oc=5\" target=\"_blank\">Federal officials request Amazon, FAA reconsider drone delivery</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Worcester Telegram</font>",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRFhTcUMzMXJtUDNaYVNsN2RtOFRsMzAyUTltRTF1OXg0Y0JwbVZZd1BnMERmcUhwVmpRUDVTYUR5Z2lIS29zX0tQVFFBRTBaLU9sVFRDOTE3S1NXTURtZTFndk12UEdWeU56NDM0TzRMSkpHOU5lSFdKd3JaekZUWktHSG40eWVVQW5aX1V0bVhCUzIwazN3RXA4QWxLc2lUZ3BQUjh3UTJNMTk2SUJXNFZoV09fdTRIaW4tNWRoTllaYUFYc0JpSy1R?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRFhTcUMzMXJtUDNaYVNsN2RtOFRsMzAyUTltRTF1OXg0Y0JwbVZZd1BnMERmcUhwVmpRUDVTYUR5Z2lIS29zX0tQVFFBRTBaLU9sVFRDOTE3S1NXTURtZTFndk12UEdWeU56NDM0TzRMSkpHOU5lSFdKd3JaekZUWktHSG40eWVVQW5aX1V0bVhCUzIwazN3RXA4QWxLc2lUZ3BQUjh3UTJNMTk2SUJXNFZoV09fdTRIaW4tNWRoTllaYUFYc0JpSy1R?oc=5",
+      "publishedAt": "2026-10-14T07:00:00.000Z",
+      "source": "Worcester Telegram",
+      "_feedRegion": "us",
+      "_feedName": "FAA",
+      "_scoring": {
+        "score": 55,
+        "categories": [
+          "規制・政策",
+          "政策・インフラ"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
+          "policy": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 0,
+          "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
       "title": "Lawmakers Demand FAA Review of Amazon ($AMZN) Drone Delivery Hub",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQYzZkcXhvZGdFT2FnN1BoYS02aVdtNU1kOWFoaDk4Vl92YmdjLUkyc1E4Zi1HdG9WejlIZUNZTklUQi1MZ1FUeDgxNm5pWFp3b05fTXpEN29EOEdwZzUyb1Z5Q1lIN21ZMmFrdkxmdWpoeUVMLUs2TXdxYmdKaHZDbmRyMThPckxXbXUzOEt4UG9FSUVwai1adkM2b1FlYmd5Y3lQTkFn?oc=5\" target=\"_blank\">Lawmakers Demand FAA Review of Amazon ($AMZN) Drone Delivery Hub</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quiver Quantitative</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQYzZkcXhvZGdFT2FnN1BoYS02aVdtNU1kOWFoaDk4Vl92YmdjLUkyc1E4Zi1HdG9WejlIZUNZTklUQi1MZ1FUeDgxNm5pWFp3b05fTXpEN29EOEdwZzUyb1Z5Q1lIN21ZMmFrdkxmdWpoeUVMLUs2TXdxYmdKaHZDbmRyMThPckxXbXUzOEt4UG9FSUVwai1adkM2b1FlYmd5Y3lQTkFn?oc=5\" target=\"_blank\">Lawmakers Demand FAA Review of Amazon ($AMZN) Drone Delivery Hub</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quiver Quantitative</font>",
@@ -1005,6 +910,114 @@
       "source": "Quiver Quantitative",
       "_feedRegion": "us",
       "_feedName": "FAA",
+      "_scoring": {
+        "score": 55,
+        "categories": [
+          "規制・政策",
+          "政策・インフラ"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
+          "policy": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 0,
+          "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "Is DoorDash (DASH) A Bargain After FAA Approval For Its Drone Delivery Program?",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVm9TZXc2bG9RUjZlbUw0ZUpwRW14eFFzcnNRME1MaC1nSDl4R0t1aWRnZ1N1VTRVMTRnUHBETkxZUGMxajdKclEzU0FCeEI0WVMtXzhzUGVJaUtJSnByeUpwRWFYQWljWjNTOTZLVVlRcUtOMlZKM1Rrdmd5VVJreTY1ZTRDSktULXdkeUJpUDNXMWRpQnFnSzdnbTdsUUZWUzNGQkRwQWl6R2J2ZGJEek83QzJBTlFIeXNMd3lySnlUaWVOd3RPNWN0Z1VSa1Zx0gHWAUFVX3lxTE5PZkpWT3VhWVJHckVzOERwUk1qZG9wYndZa25FUlpYSGJXMXRHODRVYmxCQVZHRTNhUER0UnptVThNME9nMEtaaVJnQ28tUHZWY2RKel9NRmwxM0k5cHBOOHJjOFlpanJQaU1qQ2o2Y1o0aWw3OEM3MHd3aE9UTjBlOU5qZTkzVWhrU2Z4X3V2RU9ZZ0pmb1pma2hoUEIwSWFWLWNRUVE5bmJuR21mdnF2WlFYeGtkek9MTTVaOWp5Z1dyNS1QWExqYlFkTTJDSVpJWFU4S0E?oc=5\" target=\"_blank\">Is DoorDash (DASH) A Bargain After FAA Approval For Its Drone Delivery Program?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Simply Wall Street</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVm9TZXc2bG9RUjZlbUw0ZUpwRW14eFFzcnNRME1MaC1nSDl4R0t1aWRnZ1N1VTRVMTRnUHBETkxZUGMxajdKclEzU0FCeEI0WVMtXzhzUGVJaUtJSnByeUpwRWFYQWljWjNTOTZLVVlRcUtOMlZKM1Rrdmd5VVJreTY1ZTRDSktULXdkeUJpUDNXMWRpQnFnSzdnbTdsUUZWUzNGQkRwQWl6R2J2ZGJEek83QzJBTlFIeXNMd3lySnlUaWVOd3RPNWN0Z1VSa1Zx0gHWAUFVX3lxTE5PZkpWT3VhWVJHckVzOERwUk1qZG9wYndZa25FUlpYSGJXMXRHODRVYmxCQVZHRTNhUER0UnptVThNME9nMEtaaVJnQ28tUHZWY2RKel9NRmwxM0k5cHBOOHJjOFlpanJQaU1qQ2o2Y1o0aWw3OEM3MHd3aE9UTjBlOU5qZTkzVWhrU2Z4X3V2RU9ZZ0pmb1pma2hoUEIwSWFWLWNRUVE5bmJuR21mdnF2WlFYeGtkek9MTTVaOWp5Z1dyNS1QWExqYlFkTTJDSVpJWFU4S0E?oc=5\" target=\"_blank\">Is DoorDash (DASH) A Bargain After FAA Approval For Its Drone Delivery Program?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Simply Wall Street</font>",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVm9TZXc2bG9RUjZlbUw0ZUpwRW14eFFzcnNRME1MaC1nSDl4R0t1aWRnZ1N1VTRVMTRnUHBETkxZUGMxajdKclEzU0FCeEI0WVMtXzhzUGVJaUtJSnByeUpwRWFYQWljWjNTOTZLVVlRcUtOMlZKM1Rrdmd5VVJreTY1ZTRDSktULXdkeUJpUDNXMWRpQnFnSzdnbTdsUUZWUzNGQkRwQWl6R2J2ZGJEek83QzJBTlFIeXNMd3lySnlUaWVOd3RPNWN0Z1VSa1Zx0gHWAUFVX3lxTE5PZkpWT3VhWVJHckVzOERwUk1qZG9wYndZa25FUlpYSGJXMXRHODRVYmxCQVZHRTNhUER0UnptVThNME9nMEtaaVJnQ28tUHZWY2RKel9NRmwxM0k5cHBOOHJjOFlpanJQaU1qQ2o2Y1o0aWw3OEM3MHd3aE9UTjBlOU5qZTkzVWhrU2Z4X3V2RU9ZZ0pmb1pma2hoUEIwSWFWLWNRUVE5bmJuR21mdnF2WlFYeGtkek9MTTVaOWp5Z1dyNS1QWExqYlFkTTJDSVpJWFU4S0E?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVm9TZXc2bG9RUjZlbUw0ZUpwRW14eFFzcnNRME1MaC1nSDl4R0t1aWRnZ1N1VTRVMTRnUHBETkxZUGMxajdKclEzU0FCeEI0WVMtXzhzUGVJaUtJSnByeUpwRWFYQWljWjNTOTZLVVlRcUtOMlZKM1Rrdmd5VVJreTY1ZTRDSktULXdkeUJpUDNXMWRpQnFnSzdnbTdsUUZWUzNGQkRwQWl6R2J2ZGJEek83QzJBTlFIeXNMd3lySnlUaWVOd3RPNWN0Z1VSa1Zx0gHWAUFVX3lxTE5PZkpWT3VhWVJHckVzOERwUk1qZG9wYndZa25FUlpYSGJXMXRHODRVYmxCQVZHRTNhUER0UnptVThNME9nMEtaaVJnQ28tUHZWY2RKel9NRmwxM0k5cHBOOHJjOFlpanJQaU1qQ2o2Y1o0aWw3OEM3MHd3aE9UTjBlOU5qZTkzVWhrU2Z4X3V2RU9ZZ0pmb1pma2hoUEIwSWFWLWNRUVE5bmJuR21mdnF2WlFYeGtkek9MTTVaOWp5Z1dyNS1QWExqYlFkTTJDSVpJWFU4S0E?oc=5",
+      "publishedAt": "2026-10-20T01:49:31.000Z",
+      "source": "Simply Wall Street",
+      "_feedRegion": "us",
+      "_feedName": "FAA",
+      "_scoring": {
+        "score": 55,
+        "categories": [
+          "規制・政策",
+          "政策・インフラ"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
+          "policy": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 0,
+          "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "Helsing launches autonomous Contra air defence/C-UAS system to mitigate high speed drone swarms",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxOdHl0WmVFVHZXLWxvYUNfTGdOWFZUUk83UnBZSldRNEYxWmdqZFU0ZU5rMkFkdHdSMTdyWklaQm55a3FNbU9kSFhlVXNLTnFzZVRuS0ZQVWFiaEZyZHRxai1ick9ZTWRrYzVLbDRuakMybExGalJuVnMtcVJIZnFUWXpXeUpiUTc0TmJnR292enE4M1FOakxvb1Z1ODZkWGZVVGxIbTNvZGtXUWhyaU9GaTRZR2FMUlZIS3Z1d3d2blZfa2tXQjVhazB3WDNOZlNnYkRad0tkUXpfbTYtZGFOeUxaR0tvbFR6SDZUSDczU0s2NEFXakE?oc=5\" target=\"_blank\">Helsing launches autonomous Contra air defence/C-UAS system to mitigate high speed drone swarms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxOdHl0WmVFVHZXLWxvYUNfTGdOWFZUUk83UnBZSldRNEYxWmdqZFU0ZU5rMkFkdHdSMTdyWklaQm55a3FNbU9kSFhlVXNLTnFzZVRuS0ZQVWFiaEZyZHRxai1ick9ZTWRrYzVLbDRuakMybExGalJuVnMtcVJIZnFUWXpXeUpiUTc0TmJnR292enE4M1FOakxvb1Z1ODZkWGZVVGxIbTNvZGtXUWhyaU9GaTRZR2FMUlZIS3Z1d3d2blZfa2tXQjVhazB3WDNOZlNnYkRad0tkUXpfbTYtZGFOeUxaR0tvbFR6SDZUSDczU0s2NEFXakE?oc=5\" target=\"_blank\">Helsing launches autonomous Contra air defence/C-UAS system to mitigate high speed drone swarms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOdHl0WmVFVHZXLWxvYUNfTGdOWFZUUk83UnBZSldRNEYxWmdqZFU0ZU5rMkFkdHdSMTdyWklaQm55a3FNbU9kSFhlVXNLTnFzZVRuS0ZQVWFiaEZyZHRxai1ick9ZTWRrYzVLbDRuakMybExGalJuVnMtcVJIZnFUWXpXeUpiUTc0TmJnR292enE4M1FOakxvb1Z1ODZkWGZVVGxIbTNvZGtXUWhyaU9GaTRZR2FMUlZIS3Z1d3d2blZfa2tXQjVhazB3WDNOZlNnYkRad0tkUXpfbTYtZGFOeUxaR0tvbFR6SDZUSDczU0s2NEFXakE?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOdHl0WmVFVHZXLWxvYUNfTGdOWFZUUk83UnBZSldRNEYxWmdqZFU0ZU5rMkFkdHdSMTdyWklaQm55a3FNbU9kSFhlVXNLTnFzZVRuS0ZQVWFiaEZyZHRxai1ick9ZTWRrYzVLbDRuakMybExGalJuVnMtcVJIZnFUWXpXeUpiUTc0TmJnR292enE4M1FOakxvb1Z1ODZkWGZVVGxIbTNvZGtXUWhyaU9GaTRZR2FMUlZIS3Z1d3d2blZfa2tXQjVhazB3WDNOZlNnYkRad0tkUXpfbTYtZGFOeUxaR0tvbFR6SDZUSDczU0s2NEFXakE?oc=5",
+      "publishedAt": "2026-10-27T10:23:52.000Z",
+      "source": "Unmanned airspace",
+      "_feedRegion": "eu",
+      "_feedName": "EASA",
+      "_scoring": {
+        "score": 55,
+        "categories": [
+          "技術・製品",
+          "市場・資金"
+        ],
+        "breakdown": {
+          "required": true,
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "market": {
+            "matches": 1,
+            "catScore": 20
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 10,
+          "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "Canada Raises Saudi Arabia Travel Advisory to 'Avoid Non-Essential Travel' After Missile and Drone Attacks on Airports - Avi-Go",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE1IXzN4dUp4Y3RhUDZaTU9MWlJUZUx5WkQzUVFHN1R1Z01kcGNHdmEzdGQ2aXFvNFpSZkdRaTZkQnh0c0hiamt0ellJNndsb3dYYkp2M1BWSXVoaFNteFUxRzdWalRZSGo5amZwUWdLTmZEZk0?oc=5\" target=\"_blank\">Canada Raises Saudi Arabia Travel Advisory to 'Avoid Non-Essential Travel' After Missile and Drone Attacks on Airports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Avi-Go</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE1IXzN4dUp4Y3RhUDZaTU9MWlJUZUx5WkQzUVFHN1R1Z01kcGNHdmEzdGQ2aXFvNFpSZkdRaTZkQnh0c0hiamt0ellJNndsb3dYYkp2M1BWSXVoaFNteFUxRzdWalRZSGo5amZwUWdLTmZEZk0?oc=5\" target=\"_blank\">Canada Raises Saudi Arabia Travel Advisory to 'Avoid Non-Essential Travel' After Missile and Drone Attacks on Airports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Avi-Go</font>",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1IXzN4dUp4Y3RhUDZaTU9MWlJUZUx5WkQzUVFHN1R1Z01kcGNHdmEzdGQ2aXFvNFpSZkdRaTZkQnh0c0hiamt0ellJNndsb3dYYkp2M1BWSXVoaFNteFUxRzdWalRZSGo5amZwUWdLTmZEZk0?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1IXzN4dUp4Y3RhUDZaTU9MWlJUZUx5WkQzUVFHN1R1Z01kcGNHdmEzdGQ2aXFvNFpSZkdRaTZkQnh0c0hiamt0ellJNndsb3dYYkp2M1BWSXVoaFNteFUxRzdWalRZSGo5amZwUWdLTmZEZk0?oc=5",
+      "publishedAt": "2026-10-23T05:01:01.000Z",
+      "source": "Avi-Go",
+      "_feedRegion": "eu",
+      "_feedName": "EASA",
       "_scoring": {
         "score": 55,
         "categories": [
