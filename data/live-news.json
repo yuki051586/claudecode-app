@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-30T18:28:59.222Z",
-  "rawCount": 619,
+  "generatedAt": "2026-10-30T22:51:58.357Z",
+  "rawCount": 668,
   "articles": [
     {
       "title": "Wisk Opens Its Hollister Vertiport as the FAA Rewrites Pad Rules",
@@ -13,7 +13,7 @@
       "_feedRegion": "us",
       "_feedName": "FAA",
       "_scoring": {
-        "score": 97,
+        "score": 92,
         "categories": [
           "規制・政策",
           "市場・資金",
@@ -37,7 +37,7 @@
             "domain": "news.google.com",
             "multiplier": 0.8
           },
-          "freshness": 20,
+          "freshness": 15,
           "titleBonus": 10
         },
         "pass": true
@@ -163,6 +163,43 @@
       }
     },
     {
+      "title": "テラドローン子会社のUnifly、ドミニカ共和国の空港向けUTM案件を受注 ～当社グループ初、中南米における国家規模のUTM整備に向けて、主要2空港から導入開始",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiQ0FVX3lxTE0yM09sbzZZcW02WnhxZ2xuQ3B2bU8ySWRzUWUzZTRwN3ZhaEpKTjlLbTNFTWtsRm1OTklBZmIyaGhLM3c?oc=5\" target=\"_blank\">テラドローン子会社のUnifly、ドミニカ共和国の空港向けUTM案件を受注 ～当社グループ初、中南米における国家規模のUTM整備に向けて、主要2空港から導入開始</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Terra Drone株式会社</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiQ0FVX3lxTE0yM09sbzZZcW02WnhxZ2xuQ3B2bU8ySWRzUWUzZTRwN3ZhaEpKTjlLbTNFTWtsRm1OTklBZmIyaGhLM3c?oc=5\" target=\"_blank\">テラドローン子会社のUnifly、ドミニカ共和国の空港向けUTM案件を受注 ～当社グループ初、中南米における国家規模のUTM整備に向けて、主要2空港から導入開始</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Terra Drone株式会社</font>",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE0yM09sbzZZcW02WnhxZ2xuQ3B2bU8ySWRzUWUzZTRwN3ZhaEpKTjlLbTNFTWtsRm1OTklBZmIyaGhLM3c?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE0yM09sbzZZcW02WnhxZ2xuQ3B2bU8ySWRzUWUzZTRwN3ZhaEpKTjlLbTNFTWtsRm1OTklBZmIyaGhLM3c?oc=5",
+      "publishedAt": "2026-10-29T03:11:34.000Z",
+      "source": "Terra Drone株式会社",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP)",
+      "_scoring": {
+        "score": 73,
+        "categories": [
+          "技術・製品",
+          "政策・インフラ"
+        ],
+        "breakdown": {
+          "required": true,
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "policy": {
+            "matches": 2,
+            "catScore": 30
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 5,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
       "title": "FAA Releases Draft Design Standards for Vertiports and Vertical Flight Facilities",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9VZXZ2aGRFMDVCbGl1MWRJLXhNV3hvdG5tRDFWVWc1bFJ4N0NGTzczcmFvcDFkOGdzM1pLVDVKRWlySGdXLUJKSWFsbGRtbmZpUmhqMDJfbkNHWlRUOG41S05ZcWFYYmpaTkc3a3FfcXUwZC1LYmwxMg?oc=5\" target=\"_blank\">FAA Releases Draft Design Standards for Vertiports and Vertical Flight Facilities</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dronelife</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9VZXZ2aGRFMDVCbGl1MWRJLXhNV3hvdG5tRDFWVWc1bFJ4N0NGTzczcmFvcDFkOGdzM1pLVDVKRWlySGdXLUJKSWFsbGRtbmZpUmhqMDJfbkNHWlRUOG41S05ZcWFYYmpaTkc3a3FfcXUwZC1LYmwxMg?oc=5\" target=\"_blank\">FAA Releases Draft Design Standards for Vertiports and Vertical Flight Facilities</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dronelife</font>",
@@ -233,47 +270,6 @@
           "market": {
             "matches": 1,
             "catScore": 20
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 0,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "FAA Issues Draft Of Final Guidance On Vertiport Design",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbmp1emo5YkJqRHFhcDlHSi0wbXZIaGRkdlFXSVM2d1ZIQWkwd1p4TVYwUHFPV25wemptd3dvTHZiUm1iZlZkYmRmaV9FYmNnUTVNWWdtVC1MSzNVQWNtLVBwdjdPdlVSRmpHcDl3blo4WXpNMWd0RmM3UHV5dEVKaFZkX3JFVXY1NHctdmdlZFdwTm1uSm9jOXpjRm93QlBDTDByR2FKTkg?oc=5\" target=\"_blank\">FAA Issues Draft Of Final Guidance On Vertiport Design</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aviation Week</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbmp1emo5YkJqRHFhcDlHSi0wbXZIaGRkdlFXSVM2d1ZIQWkwd1p4TVYwUHFPV25wemptd3dvTHZiUm1iZlZkYmRmaV9FYmNnUTVNWWdtVC1MSzNVQWNtLVBwdjdPdlVSRmpHcDl3blo4WXpNMWd0RmM3UHV5dEVKaFZkX3JFVXY1NHctdmdlZFdwTm1uSm9jOXpjRm93QlBDTDByR2FKTkg?oc=5\" target=\"_blank\">FAA Issues Draft Of Final Guidance On Vertiport Design</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aviation Week</font>",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbmp1emo5YkJqRHFhcDlHSi0wbXZIaGRkdlFXSVM2d1ZIQWkwd1p4TVYwUHFPV25wemptd3dvTHZiUm1iZlZkYmRmaV9FYmNnUTVNWWdtVC1MSzNVQWNtLVBwdjdPdlVSRmpHcDl3blo4WXpNMWd0RmM3UHV5dEVKaFZkX3JFVXY1NHctdmdlZFdwTm1uSm9jOXpjRm93QlBDTDByR2FKTkg?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbmp1emo5YkJqRHFhcDlHSi0wbXZIaGRkdlFXSVM2d1ZIQWkwd1p4TVYwUHFPV25wemptd3dvTHZiUm1iZlZkYmRmaV9FYmNnUTVNWWdtVC1MSzNVQWNtLVBwdjdPdlVSRmpHcDl3blo4WXpNMWd0RmM3UHV5dEVKaFZkX3JFVXY1NHctdmdlZFdwTm1uSm9jOXpjRm93QlBDTDByR2FKTkg?oc=5",
-      "publishedAt": "2026-10-23T18:36:38.000Z",
-      "source": "Aviation Week",
-      "_feedRegion": "global",
-      "_feedName": "Google News (Global)",
-      "_scoring": {
-        "score": 71,
-        "categories": [
-          "規制・政策",
-          "市場・資金",
-          "政策・インフラ"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 1,
-            "catScore": 32
-          },
-          "market": {
-            "matches": 1,
-            "catScore": 20
-          },
-          "policy": {
-            "matches": 1,
-            "catScore": 24
           },
           "sourceTrust": {
             "domain": "news.google.com",
@@ -543,37 +539,6 @@
       }
     },
     {
-      "title": "FAA Issues First eVTOL Special Airworthiness Certificate",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQdUw4S0FuR0Y4UUNXamNnVUw2VTJyN2hObjBQaHAwMnhBUVhOT2JwQzdYdXJDM3V1aTd5bjFmVzBZdVJ1NTJuTkVtZGpjUTRrV2M2aHNncjcyUE8yVWoxNllWZlZYb3ZYYnYyVGdOMk9LZ3liT19IR1ZhRHE1X0V1cUhmV1o5T2ROa0xjRjkzTjdhdlU0bW8zWjEwd1JHZzA?oc=5\" target=\"_blank\">FAA Issues First eVTOL Special Airworthiness Certificate</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AASHTO Journal</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQdUw4S0FuR0Y4UUNXamNnVUw2VTJyN2hObjBQaHAwMnhBUVhOT2JwQzdYdXJDM3V1aTd5bjFmVzBZdVJ1NTJuTkVtZGpjUTRrV2M2aHNncjcyUE8yVWoxNllWZlZYb3ZYYnYyVGdOMk9LZ3liT19IR1ZhRHE1X0V1cUhmV1o5T2ROa0xjRjkzTjdhdlU0bW8zWjEwd1JHZzA?oc=5\" target=\"_blank\">FAA Issues First eVTOL Special Airworthiness Certificate</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AASHTO Journal</font>",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdUw4S0FuR0Y4UUNXamNnVUw2VTJyN2hObjBQaHAwMnhBUVhOT2JwQzdYdXJDM3V1aTd5bjFmVzBZdVJ1NTJuTkVtZGpjUTRrV2M2aHNncjcyUE8yVWoxNllWZlZYb3ZYYnYyVGdOMk9LZ3liT19IR1ZhRHE1X0V1cUhmV1o5T2ROa0xjRjkzTjdhdlU0bW8zWjEwd1JHZzA?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdUw4S0FuR0Y4UUNXamNnVUw2VTJyN2hObjBQaHAwMnhBUVhOT2JwQzdYdXJDM3V1aTd5bjFmVzBZdVJ1NTJuTkVtZGpjUTRrV2M2aHNncjcyUE8yVWoxNllWZlZYb3ZYYnYyVGdOMk9LZ3liT19IR1ZhRHE1X0V1cUhmV1o5T2ROa0xjRjkzTjdhdlU0bW8zWjEwd1JHZzA?oc=5",
-      "publishedAt": "2026-10-30T17:26:02.000Z",
-      "source": "AASHTO Journal",
-      "_feedRegion": "us",
-      "_feedName": "FAA",
-      "_scoring": {
-        "score": 62,
-        "categories": [
-          "規制・政策"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 2,
-            "catScore": 40
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 20,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
       "title": "First Breach drone prototype hits FAA Part 107 speed limit; exec presenting at LD Micro",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxOMTByeFJ0SFA2VUMwS2lGeFBvd3V0NFVSTnRtMWhhREVReFh6OEhwSU11Wnl4WG5OUzE4MHowRGlPSGxnTkp2dndLdGhvZHJLdm9wNm9RTDB3QjZwYURKNVRyY0RjcVBzTW1UYkhkcXdJVkhIbGwwY2FrZnVFbV9hMDNFa2drdTFIV2gwWlJhdElZWmxDeWJnWERJMlo0TU11WkdoMHRVQkpPOUxtX3p1WUVpRHBOTDRkeU9kZ09zMzJXcWFoQVlVbVE1aFVMdzhtemIzNjh1ODBBUFY4WUY0RVNR?oc=5\" target=\"_blank\">First Breach drone prototype hits FAA Part 107 speed limit; exec presenting at LD Micro</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxOMTByeFJ0SFA2VUMwS2lGeFBvd3V0NFVSTnRtMWhhREVReFh6OEhwSU11Wnl4WG5OUzE4MHowRGlPSGxnTkp2dndLdGhvZHJLdm9wNm9RTDB3QjZwYURKNVRyY0RjcVBzTW1UYkhkcXdJVkhIbGwwY2FrZnVFbV9hMDNFa2drdTFIV2gwWlJhdElZWmxDeWJnWERJMlo0TU11WkdoMHRVQkpPOUxtX3p1WUVpRHBOTDRkeU9kZ09zMzJXcWFoQVlVbVE1aFVMdzhtemIzNjh1ODBBUFY4WUY0RVNR?oc=5\" target=\"_blank\">First Breach drone prototype hits FAA Part 107 speed limit; exec presenting at LD Micro</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
@@ -682,28 +647,28 @@
       }
     },
     {
-      "title": "Archer Aviation, ITA Airways plan electric air taxis in Italy",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZFZGdDkzUEFQcXBRUEJhVzZMSGZqX0x1SENabk5tUndfUjJ0eVJ5dmRNdmJVNHlaQzkzRzFzOHRidVdKeFc0aVNSdnFSQUd4ZkxNc0xYS0JDMzd6VUltYTYzekdNRm9pbWRNVTZHVWh4OGQ4aVhwT3pXV3VJbjI0UjVVSVJ4YmRCSmp2c0QxNnBOd2g5S1R1cThOTXIxY0hJUWJLSWVzVTZfbUhTRW5CdHhzN01oa3pRalZHVVgwYU90NXJxemFoSw?oc=5\" target=\"_blank\">Archer Aviation, ITA Airways plan electric air taxis in Italy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Military Aerospace</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZFZGdDkzUEFQcXBRUEJhVzZMSGZqX0x1SENabk5tUndfUjJ0eVJ5dmRNdmJVNHlaQzkzRzFzOHRidVdKeFc0aVNSdnFSQUd4ZkxNc0xYS0JDMzd6VUltYTYzekdNRm9pbWRNVTZHVWh4OGQ4aVhwT3pXV3VJbjI0UjVVSVJ4YmRCSmp2c0QxNnBOd2g5S1R1cThOTXIxY0hJUWJLSWVzVTZfbUhTRW5CdHhzN01oa3pRalZHVVgwYU90NXJxemFoSw?oc=5\" target=\"_blank\">Archer Aviation, ITA Airways plan electric air taxis in Italy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Military Aerospace</font>",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZFZGdDkzUEFQcXBRUEJhVzZMSGZqX0x1SENabk5tUndfUjJ0eVJ5dmRNdmJVNHlaQzkzRzFzOHRidVdKeFc0aVNSdnFSQUd4ZkxNc0xYS0JDMzd6VUltYTYzekdNRm9pbWRNVTZHVWh4OGQ4aVhwT3pXV3VJbjI0UjVVSVJ4YmRCSmp2c0QxNnBOd2g5S1R1cThOTXIxY0hJUWJLSWVzVTZfbUhTRW5CdHhzN01oa3pRalZHVVgwYU90NXJxemFoSw?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZFZGdDkzUEFQcXBRUEJhVzZMSGZqX0x1SENabk5tUndfUjJ0eVJ5dmRNdmJVNHlaQzkzRzFzOHRidVdKeFc0aVNSdnFSQUd4ZkxNc0xYS0JDMzd6VUltYTYzekdNRm9pbWRNVTZHVWh4OGQ4aVhwT3pXV3VJbjI0UjVVSVJ4YmRCSmp2c0QxNnBOd2g5S1R1cThOTXIxY0hJUWJLSWVzVTZfbUhTRW5CdHhzN01oa3pRalZHVVgwYU90NXJxemFoSw?oc=5",
-      "publishedAt": "2026-10-30T07:35:30.000Z",
-      "source": "Military Aerospace",
-      "_feedRegion": "global",
-      "_feedName": "Google News (Global)",
+      "title": "ティアフォーとミュンヘン工科大、NVIDIA HyperionとAutowareを統合。DRIVE AGX Thor搭載で自動運転レベル4開発を加速",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE9yY2c3d3U3RTV6XzlyX3B3SkNHYUc2ZGJ3NEttR1ZIODNKQmtqWnJqU084Q3Bza0ZZei05WTc2TG1MdzBCYjNhUTFqSEUtNmlOU3BPeG03NkIxRUk?oc=5\" target=\"_blank\">ティアフォーとミュンヘン工科大、NVIDIA HyperionとAutowareを統合。DRIVE AGX Thor搭載で自動運転レベル4開発を加速</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DRONE.jp</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE9yY2c3d3U3RTV6XzlyX3B3SkNHYUc2ZGJ3NEttR1ZIODNKQmtqWnJqU084Q3Bza0ZZei05WTc2TG1MdzBCYjNhUTFqSEUtNmlOU3BPeG03NkIxRUk?oc=5\" target=\"_blank\">ティアフォーとミュンヘン工科大、NVIDIA HyperionとAutowareを統合。DRIVE AGX Thor搭載で自動運転レベル4開発を加速</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DRONE.jp</font>",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9yY2c3d3U3RTV6XzlyX3B3SkNHYUc2ZGJ3NEttR1ZIODNKQmtqWnJqU084Q3Bza0ZZei05WTc2TG1MdzBCYjNhUTFqSEUtNmlOU3BPeG03NkIxRUk?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9yY2c3d3U3RTV6XzlyX3B3SkNHYUc2ZGJ3NEttR1ZIODNKQmtqWnJqU084Q3Bza0ZZei05WTc2TG1MdzBCYjNhUTFqSEUtNmlOU3BPeG03NkIxRUk?oc=5",
+      "publishedAt": "2026-10-23T01:34:15.000Z",
+      "source": "DRONE.jp",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP ドローン専門)",
       "_scoring": {
         "score": 60,
         "categories": [
-          "市場・資金",
-          "政策・インフラ"
+          "規制・政策",
+          "技術・製品"
         ],
         "breakdown": {
           "required": true,
-          "market": {
+          "regulation": {
             "matches": 1,
-            "catScore": 20
+            "catScore": 32
           },
-          "policy": {
+          "technology": {
             "matches": 1,
             "catScore": 24
           },
@@ -711,8 +676,8 @@
             "domain": "news.google.com",
             "multiplier": 0.8
           },
-          "freshness": 15,
-          "titleBonus": 10
+          "freshness": 0,
+          "jpRegionBonus": 15
         },
         "pass": true
       }
@@ -754,33 +719,32 @@
       }
     },
     {
-      "title": "ドローン使い捜索…赤外線カメラで生存者確認も スペイン列車追突事故（2026年10月29日掲載）｜日テレNEWS NNN",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPRlFmTTFXdHNyOWZ3Qnh6RUdFZlJFV0w1VUVnUkRRTF9yYTBfVjBVSVo4T1locW5XQnVidjQ1T3pOMGd5NE02X1BTNDJBeEdCVG12RF9xQ3hrWUpvQlFyLWQzUnp6ZGY0THVmMTViQ19sWlY5R3Q1N1pnX1dXWlpONk5tYTI?oc=5\" target=\"_blank\">ドローン使い捜索…赤外線カメラで生存者確認も スペイン列車追突事故（2026年10月29日掲載）｜日テレNEWS NNN</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日テレNEWS NNN</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPRlFmTTFXdHNyOWZ3Qnh6RUdFZlJFV0w1VUVnUkRRTF9yYTBfVjBVSVo4T1locW5XQnVidjQ1T3pOMGd5NE02X1BTNDJBeEdCVG12RF9xQ3hrWUpvQlFyLWQzUnp6ZGY0THVmMTViQ19sWlY5R3Q1N1pnX1dXWlpONk5tYTI?oc=5\" target=\"_blank\">ドローン使い捜索…赤外線カメラで生存者確認も スペイン列車追突事故（2026年10月29日掲載）｜日テレNEWS NNN</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日テレNEWS NNN</font>",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRlFmTTFXdHNyOWZ3Qnh6RUdFZlJFV0w1VUVnUkRRTF9yYTBfVjBVSVo4T1locW5XQnVidjQ1T3pOMGd5NE02X1BTNDJBeEdCVG12RF9xQ3hrWUpvQlFyLWQzUnp6ZGY0THVmMTViQ19sWlY5R3Q1N1pnX1dXWlpONk5tYTI?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRlFmTTFXdHNyOWZ3Qnh6RUdFZlJFV0w1VUVnUkRRTF9yYTBfVjBVSVo4T1locW5XQnVidjQ1T3pOMGd5NE02X1BTNDJBeEdCVG12RF9xQ3hrWUpvQlFyLWQzUnp6ZGY0THVmMTViQ19sWlY5R3Q1N1pnX1dXWlpONk5tYTI?oc=5",
-      "publishedAt": "2026-10-29T22:05:00.000Z",
-      "source": "日テレNEWS NNN",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP)",
+      "title": "FAA Issues First eVTOL Special Airworthiness Certificate",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQdUw4S0FuR0Y4UUNXamNnVUw2VTJyN2hObjBQaHAwMnhBUVhOT2JwQzdYdXJDM3V1aTd5bjFmVzBZdVJ1NTJuTkVtZGpjUTRrV2M2aHNncjcyUE8yVWoxNllWZlZYb3ZYYnYyVGdOMk9LZ3liT19IR1ZhRHE1X0V1cUhmV1o5T2ROa0xjRjkzTjdhdlU0bW8zWjEwd1JHZzA?oc=5\" target=\"_blank\">FAA Issues First eVTOL Special Airworthiness Certificate</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AASHTO Journal</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQdUw4S0FuR0Y4UUNXamNnVUw2VTJyN2hObjBQaHAwMnhBUVhOT2JwQzdYdXJDM3V1aTd5bjFmVzBZdVJ1NTJuTkVtZGpjUTRrV2M2aHNncjcyUE8yVWoxNllWZlZYb3ZYYnYyVGdOMk9LZ3liT19IR1ZhRHE1X0V1cUhmV1o5T2ROa0xjRjkzTjdhdlU0bW8zWjEwd1JHZzA?oc=5\" target=\"_blank\">FAA Issues First eVTOL Special Airworthiness Certificate</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AASHTO Journal</font>",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdUw4S0FuR0Y4UUNXamNnVUw2VTJyN2hObjBQaHAwMnhBUVhOT2JwQzdYdXJDM3V1aTd5bjFmVzBZdVJ1NTJuTkVtZGpjUTRrV2M2aHNncjcyUE8yVWoxNllWZlZYb3ZYYnYyVGdOMk9LZ3liT19IR1ZhRHE1X0V1cUhmV1o5T2ROa0xjRjkzTjdhdlU0bW8zWjEwd1JHZzA?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdUw4S0FuR0Y4UUNXamNnVUw2VTJyN2hObjBQaHAwMnhBUVhOT2JwQzdYdXJDM3V1aTd5bjFmVzBZdVJ1NTJuTkVtZGpjUTRrV2M2aHNncjcyUE8yVWoxNllWZlZYb3ZYYnYyVGdOMk9LZ3liT19IR1ZhRHE1X0V1cUhmV1o5T2ROa0xjRjkzTjdhdlU0bW8zWjEwd1JHZzA?oc=5",
+      "publishedAt": "2026-10-30T17:26:02.000Z",
+      "source": "AASHTO Journal",
+      "_feedRegion": "us",
+      "_feedName": "FAA",
       "_scoring": {
         "score": 57,
         "categories": [
-          "事故・事件"
+          "規制・政策"
         ],
         "breakdown": {
           "required": true,
-          "incident": {
-            "matches": 1,
-            "catScore": 28
+          "regulation": {
+            "matches": 2,
+            "catScore": 40
           },
           "sourceTrust": {
             "domain": "news.google.com",
             "multiplier": 0.8
           },
-          "freshness": 10,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
+          "freshness": 15,
+          "titleBonus": 10
         },
         "pass": true
       }
@@ -930,22 +894,27 @@
       }
     },
     {
-      "title": "ドローンをレーザーで次々と撃破…トルコが公開した「未来の兵器」の驚くべき映像（ニューズウィーク日本版）",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFB1ZkdEV1NxSnkzUC1YMU5KeXZNZ0VUVFJrNkNyOUFiSHNYWm9JZWhIeV9qR0NMUnZpMkZtdVMxTkVwM0pzVmhPbmo1dDd5M1hnX3VxRFZ5SVF2cTFSQW1YY2szYU1MMzhMdmcwMWxwdnpCeG1KMU1QMFAxN2dOdE0?oc=5\" target=\"_blank\">ドローンをレーザーで次々と撃破…トルコが公開した「未来の兵器」の驚くべき映像（ニューズウィーク日本版）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFB1ZkdEV1NxSnkzUC1YMU5KeXZNZ0VUVFJrNkNyOUFiSHNYWm9JZWhIeV9qR0NMUnZpMkZtdVMxTkVwM0pzVmhPbmo1dDd5M1hnX3VxRFZ5SVF2cTFSQW1YY2szYU1MMzhMdmcwMWxwdnpCeG1KMU1QMFAxN2dOdE0?oc=5\" target=\"_blank\">ドローンをレーザーで次々と撃破…トルコが公開した「未来の兵器」の驚くべき映像（ニューズウィーク日本版）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB1ZkdEV1NxSnkzUC1YMU5KeXZNZ0VUVFJrNkNyOUFiSHNYWm9JZWhIeV9qR0NMUnZpMkZtdVMxTkVwM0pzVmhPbmo1dDd5M1hnX3VxRFZ5SVF2cTFSQW1YY2szYU1MMzhMdmcwMWxwdnpCeG1KMU1QMFAxN2dOdE0?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB1ZkdEV1NxSnkzUC1YMU5KeXZNZ0VUVFJrNkNyOUFiSHNYWm9JZWhIeV9qR0NMUnZpMkZtdVMxTkVwM0pzVmhPbmo1dDd5M1hnX3VxRFZ5SVF2cTFSQW1YY2szYU1MMzhMdmcwMWxwdnpCeG1KMU1QMFAxN2dOdE0?oc=5",
-      "publishedAt": "2026-10-29T21:51:00.000Z",
-      "source": "Yahoo!ニュース",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP)",
+      "title": "Archer Aviation, ITA Airways plan electric air taxis in Italy",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZFZGdDkzUEFQcXBRUEJhVzZMSGZqX0x1SENabk5tUndfUjJ0eVJ5dmRNdmJVNHlaQzkzRzFzOHRidVdKeFc0aVNSdnFSQUd4ZkxNc0xYS0JDMzd6VUltYTYzekdNRm9pbWRNVTZHVWh4OGQ4aVhwT3pXV3VJbjI0UjVVSVJ4YmRCSmp2c0QxNnBOd2g5S1R1cThOTXIxY0hJUWJLSWVzVTZfbUhTRW5CdHhzN01oa3pRalZHVVgwYU90NXJxemFoSw?oc=5\" target=\"_blank\">Archer Aviation, ITA Airways plan electric air taxis in Italy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Military Aerospace</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZFZGdDkzUEFQcXBRUEJhVzZMSGZqX0x1SENabk5tUndfUjJ0eVJ5dmRNdmJVNHlaQzkzRzFzOHRidVdKeFc0aVNSdnFSQUd4ZkxNc0xYS0JDMzd6VUltYTYzekdNRm9pbWRNVTZHVWh4OGQ4aVhwT3pXV3VJbjI0UjVVSVJ4YmRCSmp2c0QxNnBOd2g5S1R1cThOTXIxY0hJUWJLSWVzVTZfbUhTRW5CdHhzN01oa3pRalZHVVgwYU90NXJxemFoSw?oc=5\" target=\"_blank\">Archer Aviation, ITA Airways plan electric air taxis in Italy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Military Aerospace</font>",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZFZGdDkzUEFQcXBRUEJhVzZMSGZqX0x1SENabk5tUndfUjJ0eVJ5dmRNdmJVNHlaQzkzRzFzOHRidVdKeFc0aVNSdnFSQUd4ZkxNc0xYS0JDMzd6VUltYTYzekdNRm9pbWRNVTZHVWh4OGQ4aVhwT3pXV3VJbjI0UjVVSVJ4YmRCSmp2c0QxNnBOd2g5S1R1cThOTXIxY0hJUWJLSWVzVTZfbUhTRW5CdHhzN01oa3pRalZHVVgwYU90NXJxemFoSw?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZFZGdDkzUEFQcXBRUEJhVzZMSGZqX0x1SENabk5tUndfUjJ0eVJ5dmRNdmJVNHlaQzkzRzFzOHRidVdKeFc0aVNSdnFSQUd4ZkxNc0xYS0JDMzd6VUltYTYzekdNRm9pbWRNVTZHVWh4OGQ4aVhwT3pXV3VJbjI0UjVVSVJ4YmRCSmp2c0QxNnBOd2g5S1R1cThOTXIxY0hJUWJLSWVzVTZfbUhTRW5CdHhzN01oa3pRalZHVVgwYU90NXJxemFoSw?oc=5",
+      "publishedAt": "2026-10-30T07:35:30.000Z",
+      "source": "Military Aerospace",
+      "_feedRegion": "global",
+      "_feedName": "Google News (Global)",
       "_scoring": {
-        "score": 54,
+        "score": 55,
         "categories": [
+          "市場・資金",
           "政策・インフラ"
         ],
         "breakdown": {
           "required": true,
+          "market": {
+            "matches": 1,
+            "catScore": 20
+          },
           "policy": {
             "matches": 1,
             "catScore": 24
@@ -955,72 +924,7 @@
             "multiplier": 0.8
           },
           "freshness": 10,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "物流ドローンでクマ発見→別機が駆けつけ対応 実用化に向け藤里町で実証実験",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE0tYjk3QXhFYlVGTl85cWgzazRVTXJHOEdDN3E1a2hCNUZ5UXE0dmJWY1lrQ0MtMTYtbTJPd0poWV8wMkM0dDJhYnVFT1RnVjhHSXJSLThfQ0gxQmVsLWN0ZmlB?oc=5\" target=\"_blank\">物流ドローンでクマ発見→別機が駆けつけ対応 実用化に向け藤里町で実証実験</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">秋田魁新報電子版</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE0tYjk3QXhFYlVGTl85cWgzazRVTXJHOEdDN3E1a2hCNUZ5UXE0dmJWY1lrQ0MtMTYtbTJPd0poWV8wMkM0dDJhYnVFT1RnVjhHSXJSLThfQ0gxQmVsLWN0ZmlB?oc=5\" target=\"_blank\">物流ドローンでクマ発見→別機が駆けつけ対応 実用化に向け藤里町で実証実験</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">秋田魁新報電子版</font>",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0tYjk3QXhFYlVGTl85cWgzazRVTXJHOEdDN3E1a2hCNUZ5UXE0dmJWY1lrQ0MtMTYtbTJPd0poWV8wMkM0dDJhYnVFT1RnVjhHSXJSLThfQ0gxQmVsLWN0ZmlB?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0tYjk3QXhFYlVGTl85cWgzazRVTXJHOEdDN3E1a2hCNUZ5UXE0dmJWY1lrQ0MtMTYtbTJPd0poWV8wMkM0dDJhYnVFT1RnVjhHSXJSLThfQ0gxQmVsLWN0ZmlB?oc=5",
-      "publishedAt": "2026-10-29T22:00:00.000Z",
-      "source": "秋田魁新報電子版",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP)",
-      "_scoring": {
-        "score": 54,
-        "categories": [
-          "技術・製品"
-        ],
-        "breakdown": {
-          "required": true,
-          "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 10,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "北朝鮮がドローンやミサイルを試射 金正恩氏、軍事用AI開発の加速要求",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE1IaTN3Zldyc0luUzVwTDdSXy1RX1ZpV1ZhTFkwbWNHMWJmT0hKTEJVdDk3TjRmUkRJSXYwVGNueU9tVVFUeHRpX1d0N1NLRjNRM0HSAVRBVV95cUxOdEdFSjhEX1ZUZWZHWW8xQVlHWHdJVWdtcVNZZDI4eG1nODZMVWRkTW1Yd3lHMldkeXdXaVFybVpfNWFNYWhaQTluYmpHWVFQQVBLal8?oc=5\" target=\"_blank\">北朝鮮がドローンやミサイルを試射 金正恩氏、軍事用AI開発の加速要求</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AFPBB News</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE1IaTN3Zldyc0luUzVwTDdSXy1RX1ZpV1ZhTFkwbWNHMWJmT0hKTEJVdDk3TjRmUkRJSXYwVGNueU9tVVFUeHRpX1d0N1NLRjNRM0HSAVRBVV95cUxOdEdFSjhEX1ZUZWZHWW8xQVlHWHdJVWdtcVNZZDI4eG1nODZMVWRkTW1Yd3lHMldkeXdXaVFybVpfNWFNYWhaQTluYmpHWVFQQVBLal8?oc=5\" target=\"_blank\">北朝鮮がドローンやミサイルを試射 金正恩氏、軍事用AI開発の加速要求</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AFPBB News</font>",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1IaTN3Zldyc0luUzVwTDdSXy1RX1ZpV1ZhTFkwbWNHMWJmT0hKTEJVdDk3TjRmUkRJSXYwVGNueU9tVVFUeHRpX1d0N1NLRjNRM0HSAVRBVV95cUxOdEdFSjhEX1ZUZWZHWW8xQVlHWHdJVWdtcVNZZDI4eG1nODZMVWRkTW1Yd3lHMldkeXdXaVFybVpfNWFNYWhaQTluYmpHWVFQQVBLal8?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1IaTN3Zldyc0luUzVwTDdSXy1RX1ZpV1ZhTFkwbWNHMWJmT0hKTEJVdDk3TjRmUkRJSXYwVGNueU9tVVFUeHRpX1d0N1NLRjNRM0HSAVRBVV95cUxOdEdFSjhEX1ZUZWZHWW8xQVlHWHdJVWdtcVNZZDI4eG1nODZMVWRkTW1Yd3lHMldkeXdXaVFybVpfNWFNYWhaQTluYmpHWVFQQVBLal8?oc=5",
-      "publishedAt": "2026-10-30T05:44:00.000Z",
-      "source": "AFPBB News",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP)",
-      "_scoring": {
-        "score": 54,
-        "categories": [
-          "技術・製品"
-        ],
-        "breakdown": {
-          "required": true,
-          "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 10,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
+          "titleBonus": 10
         },
         "pass": true
       }
@@ -1088,6 +992,105 @@
             "multiplier": 0.8
           },
           "freshness": 0,
+          "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "Opinion: Flydubai Cockpit Allegation, EASA Saudi Airspace Bulletin and Leipzig Drone Strike Raise Questions of Aviation Security Accountability - Avi-Go",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE00c3FUcjI4cW9RNXRqckZxZDg5SDkyNFZQR2NyTzlWWXlqWFRWWDdsY2ZNMWZ5MFRKaE1GWVVtSGVMNWhTZzIyNno4UnZXU1I2T1doT0VvLTZQSHNJTHNGZ19lcHFxZmpseDdwb3lyNFFtM28?oc=5\" target=\"_blank\">Opinion: Flydubai Cockpit Allegation, EASA Saudi Airspace Bulletin and Leipzig Drone Strike Raise Questions of Aviation Security Accountability</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Avi-Go</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE00c3FUcjI4cW9RNXRqckZxZDg5SDkyNFZQR2NyTzlWWXlqWFRWWDdsY2ZNMWZ5MFRKaE1GWVVtSGVMNWhTZzIyNno4UnZXU1I2T1doT0VvLTZQSHNJTHNGZ19lcHFxZmpseDdwb3lyNFFtM28?oc=5\" target=\"_blank\">Opinion: Flydubai Cockpit Allegation, EASA Saudi Airspace Bulletin and Leipzig Drone Strike Raise Questions of Aviation Security Accountability</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Avi-Go</font>",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE00c3FUcjI4cW9RNXRqckZxZDg5SDkyNFZQR2NyTzlWWXlqWFRWWDdsY2ZNMWZ5MFRKaE1GWVVtSGVMNWhTZzIyNno4UnZXU1I2T1doT0VvLTZQSHNJTHNGZ19lcHFxZmpseDdwb3lyNFFtM28?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE00c3FUcjI4cW9RNXRqckZxZDg5SDkyNFZQR2NyTzlWWXlqWFRWWDdsY2ZNMWZ5MFRKaE1GWVVtSGVMNWhTZzIyNno4UnZXU1I2T1doT0VvLTZQSHNJTHNGZ19lcHFxZmpseDdwb3lyNFFtM28?oc=5",
+      "publishedAt": "2026-10-21T13:38:12.000Z",
+      "source": "Avi-Go",
+      "_feedRegion": "eu",
+      "_feedName": "EASA",
+      "_scoring": {
+        "score": 52,
+        "categories": [
+          "規制・政策",
+          "市場・資金"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
+          "market": {
+            "matches": 1,
+            "catScore": 20
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 0,
+          "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "ドローン使い捜索…赤外線カメラで生存者確認も スペイン列車追突事故（2026年10月29日掲載）｜日テレNEWS NNN",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPRlFmTTFXdHNyOWZ3Qnh6RUdFZlJFV0w1VUVnUkRRTF9yYTBfVjBVSVo4T1locW5XQnVidjQ1T3pOMGd5NE02X1BTNDJBeEdCVG12RF9xQ3hrWUpvQlFyLWQzUnp6ZGY0THVmMTViQ19sWlY5R3Q1N1pnX1dXWlpONk5tYTI?oc=5\" target=\"_blank\">ドローン使い捜索…赤外線カメラで生存者確認も スペイン列車追突事故（2026年10月29日掲載）｜日テレNEWS NNN</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日テレNEWS NNN</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPRlFmTTFXdHNyOWZ3Qnh6RUdFZlJFV0w1VUVnUkRRTF9yYTBfVjBVSVo4T1locW5XQnVidjQ1T3pOMGd5NE02X1BTNDJBeEdCVG12RF9xQ3hrWUpvQlFyLWQzUnp6ZGY0THVmMTViQ19sWlY5R3Q1N1pnX1dXWlpONk5tYTI?oc=5\" target=\"_blank\">ドローン使い捜索…赤外線カメラで生存者確認も スペイン列車追突事故（2026年10月29日掲載）｜日テレNEWS NNN</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日テレNEWS NNN</font>",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRlFmTTFXdHNyOWZ3Qnh6RUdFZlJFV0w1VUVnUkRRTF9yYTBfVjBVSVo4T1locW5XQnVidjQ1T3pOMGd5NE02X1BTNDJBeEdCVG12RF9xQ3hrWUpvQlFyLWQzUnp6ZGY0THVmMTViQ19sWlY5R3Q1N1pnX1dXWlpONk5tYTI?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRlFmTTFXdHNyOWZ3Qnh6RUdFZlJFV0w1VUVnUkRRTF9yYTBfVjBVSVo4T1locW5XQnVidjQ1T3pOMGd5NE02X1BTNDJBeEdCVG12RF9xQ3hrWUpvQlFyLWQzUnp6ZGY0THVmMTViQ19sWlY5R3Q1N1pnX1dXWlpONk5tYTI?oc=5",
+      "publishedAt": "2026-10-29T22:05:00.000Z",
+      "source": "日テレNEWS NNN",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP)",
+      "_scoring": {
+        "score": 52,
+        "categories": [
+          "事故・事件"
+        ],
+        "breakdown": {
+          "required": true,
+          "incident": {
+            "matches": 1,
+            "catScore": 28
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 5,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "FAA: Florida Takes the Lead in Advanced Air Mobility",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPeUhNZUxQLU9HTXpZTEVKVEIwT0dhVVpUejFnSVFIQTJZcmpxclRlU3JySUQ3Z2V1Q2VHUFJfN2tZS1FpQjF1Nk1CMVVYWWhHTU4xLURURkJWd3pEZDdUSndmOHdsaVNvRFZHMUtuR1Bra2NMeThpREpubFRNTDAyVS0tZ0RSWmpVUXE5RDVKdWctYnFLLU9pR0p6UWstc0E?oc=5\" target=\"_blank\">FAA: Florida Takes the Lead in Advanced Air Mobility</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">95.7 WDAE</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPeUhNZUxQLU9HTXpZTEVKVEIwT0dhVVpUejFnSVFIQTJZcmpxclRlU3JySUQ3Z2V1Q2VHUFJfN2tZS1FpQjF1Nk1CMVVYWWhHTU4xLURURkJWd3pEZDdUSndmOHdsaVNvRFZHMUtuR1Bra2NMeThpREpubFRNTDAyVS0tZ0RSWmpVUXE5RDVKdWctYnFLLU9pR0p6UWstc0E?oc=5\" target=\"_blank\">FAA: Florida Takes the Lead in Advanced Air Mobility</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">95.7 WDAE</font>",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeUhNZUxQLU9HTXpZTEVKVEIwT0dhVVpUejFnSVFIQTJZcmpxclRlU3JySUQ3Z2V1Q2VHUFJfN2tZS1FpQjF1Nk1CMVVYWWhHTU4xLURURkJWd3pEZDdUSndmOHdsaVNvRFZHMUtuR1Bra2NMeThpREpubFRNTDAyVS0tZ0RSWmpVUXE5RDVKdWctYnFLLU9pR0p6UWstc0E?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeUhNZUxQLU9HTXpZTEVKVEIwT0dhVVpUejFnSVFIQTJZcmpxclRlU3JySUQ3Z2V1Q2VHUFJfN2tZS1FpQjF1Nk1CMVVYWWhHTU4xLURURkJWd3pEZDdUSndmOHdsaVNvRFZHMUtuR1Bra2NMeThpREpubFRNTDAyVS0tZ0RSWmpVUXE5RDVKdWctYnFLLU9pR0p6UWstc0E?oc=5",
+      "publishedAt": "2026-10-30T15:16:00.000Z",
+      "source": "95.7 WDAE",
+      "_feedRegion": "us",
+      "_feedName": "FAA",
+      "_scoring": {
+        "score": 51,
+        "categories": [
+          "規制・政策"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 15,
           "titleBonus": 10
         },
         "pass": true
