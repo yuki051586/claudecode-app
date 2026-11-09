@@ -1,7 +1,53 @@
 {
-  "generatedAt": "2026-11-08T21:00:01.704Z",
-  "rawCount": 524,
+  "generatedAt": "2026-11-09T00:46:21.771Z",
+  "rawCount": 512,
   "articles": [
+    {
+      "title": "Indiana Launches FAA‑Designated Drone Test Site, Boosts Apprenticeships and Infrastructure Funding",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5jQVhIZWRGREh6dXFLYmg2M29GdkpFZjZQd2dTQzdaRE5IUHFFU3pUeDJFMl9RMklRNTVzekU0YmJhREQ5QS1KT2pDYTdBV1Z2YWVKbUc4OE9TY1VwOFJhejVB?oc=5\" target=\"_blank\">Indiana Launches FAA‑Designated Drone Test Site, Boosts Apprenticeships and Infrastructure Funding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forth.News</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5jQVhIZWRGREh6dXFLYmg2M29GdkpFZjZQd2dTQzdaRE5IUHFFU3pUeDJFMl9RMklRNTVzekU0YmJhREQ5QS1KT2pDYTdBV1Z2YWVKbUc4OE9TY1VwOFJhejVB?oc=5\" target=\"_blank\">Indiana Launches FAA‑Designated Drone Test Site, Boosts Apprenticeships and Infrastructure Funding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forth.News</font>",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5jQVhIZWRGREh6dXFLYmg2M29GdkpFZjZQd2dTQzdaRE5IUHFFU3pUeDJFMl9RMklRNTVzekU0YmJhREQ5QS1KT2pDYTdBV1Z2YWVKbUc4OE9TY1VwOFJhejVB?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5jQVhIZWRGREh6dXFLYmg2M29GdkpFZjZQd2dTQzdaRE5IUHFFU3pUeDJFMl9RMklRNTVzekU0YmJhREQ5QS1KT2pDYTdBV1Z2YWVKbUc4OE9TY1VwOFJhejVB?oc=5",
+      "publishedAt": "2026-10-30T06:54:02.000Z",
+      "source": "Forth.News",
+      "_feedRegion": "us",
+      "_feedName": "FAA",
+      "_scoring": {
+        "score": 90,
+        "categories": [
+          "規制・政策",
+          "技術・製品",
+          "市場・資金",
+          "政策・インフラ"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "market": {
+            "matches": 1,
+            "catScore": 20
+          },
+          "policy": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 0,
+          "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
     {
       "title": "遠隔で基地からドローン 広域災害の調査効率化実験で国交省、和歌山（紀伊民報）",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5OME01cG5kR2dQRE1Da3p5QXhIazQzSEZGbzBwM0NEVC1tcUxMemhCU1ZUYXBtdmtiSGluS0V3MkVBN2QwT2swalptRk5lMzZqNFpZeTc5Z2VkeC1BYndaREZ3bGJhTFl1UDNzM1lUQThWY0drU1V5ZFh3YXpwZjQ?oc=5\" target=\"_blank\">遠隔で基地からドローン 広域災害の調査効率化実験で国交省、和歌山（紀伊民報）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
@@ -10,43 +56,6 @@
       "googleNewsUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5OME01cG5kR2dQRE1Da3p5QXhIazQzSEZGbzBwM0NEVC1tcUxMemhCU1ZUYXBtdmtiSGluS0V3MkVBN2QwT2swalptRk5lMzZqNFpZeTc5Z2VkeC1BYndaREZ3bGJhTFl1UDNzM1lUQThWY0drU1V5ZFh3YXpwZjQ?oc=5",
       "publishedAt": "2026-11-06T07:25:51.000Z",
       "source": "Yahoo!ニュース",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP)",
-      "_scoring": {
-        "score": 75,
-        "categories": [
-          "規制・政策",
-          "事故・事件"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 1,
-            "catScore": 32
-          },
-          "incident": {
-            "matches": 1,
-            "catScore": 28
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 2,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "遠隔で基地からドローン 広域災害の調査効率化実験で国交省、和歌山",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE14TndHZnhrZUhzc1ByMnc2MnZGNjlycUJoOHRmcDVGTnZuV3VFQ0VUY1g4Z01HYWtJaFY3VXNKZkhZTzQ5dGFSSHA5Yw?oc=5\" target=\"_blank\">遠隔で基地からドローン 広域災害の調査効率化実験で国交省、和歌山</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">47NEWS</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE14TndHZnhrZUhzc1ByMnc2MnZGNjlycUJoOHRmcDVGTnZuV3VFQ0VUY1g4Z01HYWtJaFY3VXNKZkhZTzQ5dGFSSHA5Yw?oc=5\" target=\"_blank\">遠隔で基地からドローン 広域災害の調査効率化実験で国交省、和歌山</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">47NEWS</font>",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE14TndHZnhrZUhzc1ByMnc2MnZGNjlycUJoOHRmcDVGTnZuV3VFQ0VUY1g4Z01HYWtJaFY3VXNKZkhZTzQ5dGFSSHA5Yw?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE14TndHZnhrZUhzc1ByMnc2MnZGNjlycUJoOHRmcDVGTnZuV3VFQ0VUY1g4Z01HYWtJaFY3VXNKZkhZTzQ5dGFSSHA5Yw?oc=5",
-      "publishedAt": "2026-11-06T05:30:00.000Z",
-      "source": "47NEWS",
       "_feedRegion": "jp",
       "_feedName": "Google News (JP)",
       "_scoring": {
@@ -387,6 +396,42 @@
       }
     },
     {
+      "title": "EHang Advances in eVTOL Aerial Emergency Response, Partnering with Huantian International Air Rescue to Explore Innovative Air-Ground Integrated Aviation Rescue Solutions",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE1la0tUYVVwV2pIbnhWX3owZ0NJd21RRUppNks4MUxJc0Z2a1hKTnBWUXJjWDJ3eUt4WF9qR19Pand5NjNmRGFwdThxU2c?oc=5\" target=\"_blank\">EHang Advances in eVTOL Aerial Emergency Response, Partnering with Huantian International Air Rescue to Explore Innovative Air-Ground Integrated Aviation Rescue Solutions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">EHang</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE1la0tUYVVwV2pIbnhWX3owZ0NJd21RRUppNks4MUxJc0Z2a1hKTnBWUXJjWDJ3eUt4WF9qR19Pand5NjNmRGFwdThxU2c?oc=5\" target=\"_blank\">EHang Advances in eVTOL Aerial Emergency Response, Partnering with Huantian International Air Rescue to Explore Innovative Air-Ground Integrated Aviation Rescue Solutions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">EHang</font>",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1la0tUYVVwV2pIbnhWX3owZ0NJd21RRUppNks4MUxJc0Z2a1hKTnBWUXJjWDJ3eUt4WF9qR19Pand5NjNmRGFwdThxU2c?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1la0tUYVVwV2pIbnhWX3owZ0NJd21RRUppNks4MUxJc0Z2a1hKTnBWUXJjWDJ3eUt4WF9qR19Pand5NjNmRGFwdThxU2c?oc=5",
+      "publishedAt": "2026-11-08T01:32:52.000Z",
+      "source": "EHang",
+      "_feedRegion": "global",
+      "_feedName": "Google News (Global)",
+      "_scoring": {
+        "score": 65,
+        "categories": [
+          "規制・政策",
+          "政策・インフラ"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
+          "policy": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 10,
+          "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
       "title": "EASA Annual Safety Review Counts 39 Drone Accidents and Serious Incidents in 2025",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQNlVaNl9JMVFvSXRKczFjSXltQ21uRHZVYXN0Q1RZTzQ0Q0Z5T3FZZW10QzFHOVN0UlV6ZW1fd0ZRYzlnZG1GMzY5R0ZtYVVNSEE2VWtBaGo2SXpCVEFxcXd4U2pxLVRBa01JcUt3V0VCeEt2WTU3QmJ5cEVVaS1qdVVxeTZwaVE?oc=5\" target=\"_blank\">EASA Annual Safety Review Counts 39 Drone Accidents and Serious Incidents in 2025</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Commercial UAV News</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQNlVaNl9JMVFvSXRKczFjSXltQ21uRHZVYXN0Q1RZTzQ0Q0Z5T3FZZW10QzFHOVN0UlV6ZW1fd0ZRYzlnZG1GMzY5R0ZtYVVNSEE2VWtBaGo2SXpCVEFxcXd4U2pxLVRBa01JcUt3V0VCeEt2WTU3QmJ5cEVVaS1qdVVxeTZwaVE?oc=5\" target=\"_blank\">EASA Annual Safety Review Counts 39 Drone Accidents and Serious Incidents in 2025</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Commercial UAV News</font>",
@@ -464,13 +509,13 @@
       }
     },
     {
-      "title": "松江市でドライバー不足解消を目指すトラック共同配送×ドローン配送の実証実験を実施 - エアロネクスト-NEXT DELIVERY",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTFBqdDcwVjZDOGJFRjJsMHFXekFDbW5RNjcyRV9rOVU0YVdQMjJEd1VkOTdCS045X3M1dDY1LXhGdUgydEdGWUEtSWxhQ2l3Sk5KcmFEZ3g0VU8?oc=5\" target=\"_blank\">松江市でドライバー不足解消を目指すトラック共同配送×ドローン配送の実証実験を実施</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">エアロネクスト-NEXT DELIVERY</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTFBqdDcwVjZDOGJFRjJsMHFXekFDbW5RNjcyRV9rOVU0YVdQMjJEd1VkOTdCS045X3M1dDY1LXhGdUgydEdGWUEtSWxhQ2l3Sk5KcmFEZ3g0VU8?oc=5\" target=\"_blank\">松江市でドライバー不足解消を目指すトラック共同配送×ドローン配送の実証実験を実施</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">エアロネクスト-NEXT DELIVERY</font>",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBqdDcwVjZDOGJFRjJsMHFXekFDbW5RNjcyRV9rOVU0YVdQMjJEd1VkOTdCS045X3M1dDY1LXhGdUgydEdGWUEtSWxhQ2l3Sk5KcmFEZ3g0VU8?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBqdDcwVjZDOGJFRjJsMHFXekFDbW5RNjcyRV9rOVU0YVdQMjJEd1VkOTdCS045X3M1dDY1LXhGdUgydEdGWUEtSWxhQ2l3Sk5KcmFEZ3g0VU8?oc=5",
-      "publishedAt": "2026-11-02T02:00:00.000Z",
-      "source": "エアロネクスト-NEXT DELIVERY",
+      "title": "和歌山 那智勝浦町で長距離飛行ドローンの実証実験",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE9CX1VKM2NTd2E2RHJWdU1yQUhVZHFoaXNoeEN5dFVmYlpCU2NfS3lDYVFFTDJpMTB2UFplenhUaGFqNnZPT01TQ3R4eldOd2x4Yk5MOTB0MGdobmdUTkhR?oc=5\" target=\"_blank\">和歌山 那智勝浦町で長距離飛行ドローンの実証実験</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NHKニュース</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE9CX1VKM2NTd2E2RHJWdU1yQUhVZHFoaXNoeEN5dFVmYlpCU2NfS3lDYVFFTDJpMTB2UFplenhUaGFqNnZPT01TQ3R4eldOd2x4Yk5MOTB0MGdobmdUTkhR?oc=5\" target=\"_blank\">和歌山 那智勝浦町で長距離飛行ドローンの実証実験</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NHKニュース</font>",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9CX1VKM2NTd2E2RHJWdU1yQUhVZHFoaXNoeEN5dFVmYlpCU2NfS3lDYVFFTDJpMTB2UFplenhUaGFqNnZPT01TQ3R4eldOd2x4Yk5MOTB0MGdobmdUTkhR?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9CX1VKM2NTd2E2RHJWdU1yQUhVZHFoaXNoeEN5dFVmYlpCU2NfS3lDYVFFTDJpMTB2UFplenhUaGFqNnZPT01TQ3R4eldOd2x4Yk5MOTB0MGdobmdUTkhR?oc=5",
+      "publishedAt": "2026-11-05T10:08:44.000Z",
+      "source": "NHKニュース",
       "_feedRegion": "jp",
       "_feedName": "Google News (JP)",
       "_scoring": {
@@ -501,15 +546,15 @@
       }
     },
     {
-      "title": "和歌山 那智勝浦町で長距離飛行ドローンの実証実験",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE9CX1VKM2NTd2E2RHJWdU1yQUhVZHFoaXNoeEN5dFVmYlpCU2NfS3lDYVFFTDJpMTB2UFplenhUaGFqNnZPT01TQ3R4eldOd2x4Yk5MOTB0MGdobmdUTkhR?oc=5\" target=\"_blank\">和歌山 那智勝浦町で長距離飛行ドローンの実証実験</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NHKニュース</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE9CX1VKM2NTd2E2RHJWdU1yQUhVZHFoaXNoeEN5dFVmYlpCU2NfS3lDYVFFTDJpMTB2UFplenhUaGFqNnZPT01TQ3R4eldOd2x4Yk5MOTB0MGdobmdUTkhR?oc=5\" target=\"_blank\">和歌山 那智勝浦町で長距離飛行ドローンの実証実験</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NHKニュース</font>",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9CX1VKM2NTd2E2RHJWdU1yQUhVZHFoaXNoeEN5dFVmYlpCU2NfS3lDYVFFTDJpMTB2UFplenhUaGFqNnZPT01TQ3R4eldOd2x4Yk5MOTB0MGdobmdUTkhR?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9CX1VKM2NTd2E2RHJWdU1yQUhVZHFoaXNoeEN5dFVmYlpCU2NfS3lDYVFFTDJpMTB2UFplenhUaGFqNnZPT01TQ3R4eldOd2x4Yk5MOTB0MGdobmdUTkhR?oc=5",
-      "publishedAt": "2026-11-05T10:08:44.000Z",
-      "source": "NHKニュース",
+      "title": "松江市でドライバー不足解消を目指すトラック共同配送×ドローン配送の実証実験を実施 - エアロネクスト-NEXT DELIVERY",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTFBqdDcwVjZDOGJFRjJsMHFXekFDbW5RNjcyRV9rOVU0YVdQMjJEd1VkOTdCS045X3M1dDY1LXhGdUgydEdGWUEtSWxhQ2l3Sk5KcmFEZ3g0VU8?oc=5\" target=\"_blank\">松江市でドライバー不足解消を目指すトラック共同配送×ドローン配送の実証実験を実施</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">エアロネクスト-NEXT DELIVERY</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTFBqdDcwVjZDOGJFRjJsMHFXekFDbW5RNjcyRV9rOVU0YVdQMjJEd1VkOTdCS045X3M1dDY1LXhGdUgydEdGWUEtSWxhQ2l3Sk5KcmFEZ3g0VU8?oc=5\" target=\"_blank\">松江市でドライバー不足解消を目指すトラック共同配送×ドローン配送の実証実験を実施</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">エアロネクスト-NEXT DELIVERY</font>",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBqdDcwVjZDOGJFRjJsMHFXekFDbW5RNjcyRV9rOVU0YVdQMjJEd1VkOTdCS045X3M1dDY1LXhGdUgydEdGWUEtSWxhQ2l3Sk5KcmFEZ3g0VU8?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBqdDcwVjZDOGJFRjJsMHFXekFDbW5RNjcyRV9rOVU0YVdQMjJEd1VkOTdCS045X3M1dDY1LXhGdUgydEdGWUEtSWxhQ2l3Sk5KcmFEZ3g0VU8?oc=5",
+      "publishedAt": "2026-11-02T02:00:00.000Z",
+      "source": "エアロネクスト-NEXT DELIVERY",
       "_feedRegion": "jp",
-      "_feedName": "Google News (JP)",
+      "_feedName": "Google News (JP 事業者/実装)",
       "_scoring": {
         "score": 63,
         "categories": [
@@ -725,6 +770,42 @@
       "googleNewsUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1WWmlBaGVBQjVMQ3FXX2NWN1RrSlRFb3A2UVozenFtOGlzeGRSc3kwQmRQcUdiY1N5aS0xMHlrUktJU3JUZjhNZXJEMmU0RERRX05obF8zLWo4cFBMYXBBNzAwdktMd3MzcnVuXzRDUWVXUjA?oc=5",
       "publishedAt": "2026-11-04T02:22:34.000Z",
       "source": "Avi-Go",
+      "_feedRegion": "global",
+      "_feedName": "Google News (Global)",
+      "_scoring": {
+        "score": 55,
+        "categories": [
+          "規制・政策",
+          "政策・インフラ"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
+          "policy": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 0,
+          "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "Windracers ULTRA achieves first autonomous BVLOS flight in Indiana Drone Corridor",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNWTNWempTODZZRGpVSFdHa3RqYlVzOVdQVmpxVW44eWVkc1JiYWZuVXlUZXFybVpWOXNnWEFVSnpMYUFtQzJEQ1dKTzcxUzNWbXh6Zk9jX0tDbERhMUpnaEZEZnN5MEhHODZpTXFIclNiUXE3WlVjdXV6OUhvVV9YdklBWTlEZjJiSXVsLUVmY3huUQ?oc=5\" target=\"_blank\">Windracers ULTRA achieves first autonomous BVLOS flight in Indiana Drone Corridor</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ADS Advance</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNWTNWempTODZZRGpVSFdHa3RqYlVzOVdQVmpxVW44eWVkc1JiYWZuVXlUZXFybVpWOXNnWEFVSnpMYUFtQzJEQ1dKTzcxUzNWbXh6Zk9jX0tDbERhMUpnaEZEZnN5MEhHODZpTXFIclNiUXE3WlVjdXV6OUhvVV9YdklBWTlEZjJiSXVsLUVmY3huUQ?oc=5\" target=\"_blank\">Windracers ULTRA achieves first autonomous BVLOS flight in Indiana Drone Corridor</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ADS Advance</font>",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWTNWempTODZZRGpVSFdHa3RqYlVzOVdQVmpxVW44eWVkc1JiYWZuVXlUZXFybVpWOXNnWEFVSnpMYUFtQzJEQ1dKTzcxUzNWbXh6Zk9jX0tDbERhMUpnaEZEZnN5MEhHODZpTXFIclNiUXE3WlVjdXV6OUhvVV9YdklBWTlEZjJiSXVsLUVmY3huUQ?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWTNWempTODZZRGpVSFdHa3RqYlVzOVdQVmpxVW44eWVkc1JiYWZuVXlUZXFybVpWOXNnWEFVSnpMYUFtQzJEQ1dKTzcxUzNWbXh6Zk9jX0tDbERhMUpnaEZEZnN5MEhHODZpTXFIclNiUXE3WlVjdXV6OUhvVV9YdklBWTlEZjJiSXVsLUVmY3huUQ?oc=5",
+      "publishedAt": "2026-11-04T16:48:00.000Z",
+      "source": "ADS Advance",
       "_feedRegion": "global",
       "_feedName": "Google News (Global)",
       "_scoring": {
@@ -1027,78 +1108,6 @@
             "multiplier": 0.8
           },
           "freshness": 2,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "Oshkosh steps into large UAS space with new Grid Aero partnership",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxONERXTUhyQUxILVBrZUQ2M25rQzlsb2IxWVNCMFRKSk1ObmFJTV9naTdna3gzMFROWUx0NzZjNHBFdnpzdG9UNU4xVDdsSDY0VHljejhRX05xcHphNGtfQTZVWG9iaDZuQ2dOaks3LWZITzFhbkd0eHpUdndTZmFIRnZPR3ItemU3TVVCejRCa3hPU3pCVW5MSEtSY3RmT0hhYXphZHZn?oc=5\" target=\"_blank\">Oshkosh steps into large UAS space with new Grid Aero partnership</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Breaking Defense</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxONERXTUhyQUxILVBrZUQ2M25rQzlsb2IxWVNCMFRKSk1ObmFJTV9naTdna3gzMFROWUx0NzZjNHBFdnpzdG9UNU4xVDdsSDY0VHljejhRX05xcHphNGtfQTZVWG9iaDZuQ2dOaks3LWZITzFhbkd0eHpUdndTZmFIRnZPR3ItemU3TVVCejRCa3hPU3pCVW5MSEtSY3RmT0hhYXphZHZn?oc=5\" target=\"_blank\">Oshkosh steps into large UAS space with new Grid Aero partnership</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Breaking Defense</font>",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONERXTUhyQUxILVBrZUQ2M25rQzlsb2IxWVNCMFRKSk1ObmFJTV9naTdna3gzMFROWUx0NzZjNHBFdnpzdG9UNU4xVDdsSDY0VHljejhRX05xcHphNGtfQTZVWG9iaDZuQ2dOaks3LWZITzFhbkd0eHpUdndTZmFIRnZPR3ItemU3TVVCejRCa3hPU3pCVW5MSEtSY3RmT0hhYXphZHZn?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONERXTUhyQUxILVBrZUQ2M25rQzlsb2IxWVNCMFRKSk1ObmFJTV9naTdna3gzMFROWUx0NzZjNHBFdnpzdG9UNU4xVDdsSDY0VHljejhRX05xcHphNGtfQTZVWG9iaDZuQ2dOaks3LWZITzFhbkd0eHpUdndTZmFIRnZPR3ItemU3TVVCejRCa3hPU3pCVW5MSEtSY3RmT0hhYXphZHZn?oc=5",
-      "publishedAt": "2026-11-02T14:29:57.000Z",
-      "source": "Breaking Defense",
-      "_feedRegion": "global",
-      "_feedName": "Google News (Global)",
-      "_scoring": {
-        "score": 49,
-        "categories": [
-          "市場・資金",
-          "政策・インフラ"
-        ],
-        "breakdown": {
-          "required": true,
-          "market": {
-            "matches": 2,
-            "catScore": 25
-          },
-          "policy": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 0,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "Ondas Secures Multi-Million-Dollar Counter-UAS Contracts in Europe and Asia, Accelerating Global Expansion in Aerial Defense",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOc1BoLUk5SDRaWUZNeGFyVVFyOUd3NTBrX3ltNHpDeUtDOFQtUVY1VVplckZMU1hxNHcxVkw0UHQ0REJZS1MwSGVFMzl0UXFIeV9XaUdsTklpN2NQdnExQlpBOElKRDhyMzhfVU1RODZOaWFCVG5aOGp3aGR4QTE2YUJSR1EwRXliOGV6cXREdDNvdExlaHp3WmE0YzFoV0tIOW9wcGh4OGlYdw?oc=5\" target=\"_blank\">Ondas Secures Multi-Million-Dollar Counter-UAS Contracts in Europe and Asia, Accelerating Global Expansion in Aerial Defense</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ondas inc.</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOc1BoLUk5SDRaWUZNeGFyVVFyOUd3NTBrX3ltNHpDeUtDOFQtUVY1VVplckZMU1hxNHcxVkw0UHQ0REJZS1MwSGVFMzl0UXFIeV9XaUdsTklpN2NQdnExQlpBOElKRDhyMzhfVU1RODZOaWFCVG5aOGp3aGR4QTE2YUJSR1EwRXliOGV6cXREdDNvdExlaHp3WmE0YzFoV0tIOW9wcGh4OGlYdw?oc=5\" target=\"_blank\">Ondas Secures Multi-Million-Dollar Counter-UAS Contracts in Europe and Asia, Accelerating Global Expansion in Aerial Defense</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ondas inc.</font>",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOc1BoLUk5SDRaWUZNeGFyVVFyOUd3NTBrX3ltNHpDeUtDOFQtUVY1VVplckZMU1hxNHcxVkw0UHQ0REJZS1MwSGVFMzl0UXFIeV9XaUdsTklpN2NQdnExQlpBOElKRDhyMzhfVU1RODZOaWFCVG5aOGp3aGR4QTE2YUJSR1EwRXliOGV6cXREdDNvdExlaHp3WmE0YzFoV0tIOW9wcGh4OGlYdw?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOc1BoLUk5SDRaWUZNeGFyVVFyOUd3NTBrX3ltNHpDeUtDOFQtUVY1VVplckZMU1hxNHcxVkw0UHQ0REJZS1MwSGVFMzl0UXFIeV9XaUdsTklpN2NQdnExQlpBOElKRDhyMzhfVU1RODZOaWFCVG5aOGp3aGR4QTE2YUJSR1EwRXliOGV6cXREdDNvdExlaHp3WmE0YzFoV0tIOW9wcGh4OGlYdw?oc=5",
-      "publishedAt": "2026-11-04T13:33:25.000Z",
-      "source": "Ondas inc.",
-      "_feedRegion": "global",
-      "_feedName": "Google News (Global)",
-      "_scoring": {
-        "score": 49,
-        "categories": [
-          "市場・資金",
-          "政策・インフラ"
-        ],
-        "breakdown": {
-          "required": true,
-          "market": {
-            "matches": 2,
-            "catScore": 25
-          },
-          "policy": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 0,
           "titleBonus": 10
         },
         "pass": true
