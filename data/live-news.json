@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-12T02:46:04.103Z",
-  "rawCount": 562,
+  "generatedAt": "2026-11-12T10:47:43.455Z",
+  "rawCount": 553,
   "articles": [
     {
       "title": "FAA Touts 2.2 Million UTM Drone Flights at AUVSI. Part 108 Still Waits",
@@ -81,6 +81,43 @@
       }
     },
     {
+      "title": "ROBOZが韓国DRTと提携、国産ドローン開発へ。日本の営業力・現場力と、DRTの機体・ソフトウェア開発技術を融合",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE0xdlA4ZVhKeGFURGlLMjBvQ0hUNjVOV1dEY0RvbHMwV1RDcmY5ODJTYm80anJrdVZ0ZlUwUnB6cVdlRjRxUEUtR3N6aFZwNkstb2dOSEpHclE0M3M?oc=5\" target=\"_blank\">ROBOZが韓国DRTと提携、国産ドローン開発へ。日本の営業力・現場力と、DRTの機体・ソフトウェア開発技術を融合</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DRONE.jp</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE0xdlA4ZVhKeGFURGlLMjBvQ0hUNjVOV1dEY0RvbHMwV1RDcmY5ODJTYm80anJrdVZ0ZlUwUnB6cVdlRjRxUEUtR3N6aFZwNkstb2dOSEpHclE0M3M?oc=5\" target=\"_blank\">ROBOZが韓国DRTと提携、国産ドローン開発へ。日本の営業力・現場力と、DRTの機体・ソフトウェア開発技術を融合</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DRONE.jp</font>",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0xdlA4ZVhKeGFURGlLMjBvQ0hUNjVOV1dEY0RvbHMwV1RDcmY5ODJTYm80anJrdVZ0ZlUwUnB6cVdlRjRxUEUtR3N6aFZwNkstb2dOSEpHclE0M3M?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0xdlA4ZVhKeGFURGlLMjBvQ0hUNjVOV1dEY0RvbHMwV1RDcmY5ODJTYm80anJrdVZ0ZlUwUnB6cVdlRjRxUEUtR3N6aFZwNkstb2dOSEpHclE0M3M?oc=5",
+      "publishedAt": "2026-11-12T05:54:23.000Z",
+      "source": "DRONE.jp",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP)",
+      "_scoring": {
+        "score": 75,
+        "categories": [
+          "技術・製品",
+          "市場・資金"
+        ],
+        "breakdown": {
+          "required": true,
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "market": {
+            "matches": 1,
+            "catScore": 20
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 15,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
       "title": "The FAA is Helping Design Vertiports. But Who Will Change the Batteries?",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOTktKZXN4TkF0eVotb3JhcmRkaGhrSXJDMl9JMUhNRUF2VlVuZWMza2xqYTNaOUJ3YmdCQ2Rkay1YaFRfX2hhTXBJWUN5c0RzMVpvazNaNWcteGhTVlBzVTdXb3YySGc5bTg1WUVTNVlvSUl2cU1fNDVfdjMyR3BMNk1RM0FLazEzQ1lzVDlMcw?oc=5\" target=\"_blank\">The FAA is Helping Design Vertiports. But Who Will Change the Batteries?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Commercial UAV News</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOTktKZXN4TkF0eVotb3JhcmRkaGhrSXJDMl9JMUhNRUF2VlVuZWMza2xqYTNaOUJ3YmdCQ2Rkay1YaFRfX2hhTXBJWUN5c0RzMVpvazNaNWcteGhTVlBzVTdXb3YySGc5bTg1WUVTNVlvSUl2cU1fNDVfdjMyR3BMNk1RM0FLazEzQ1lzVDlMcw?oc=5\" target=\"_blank\">The FAA is Helping Design Vertiports. But Who Will Change the Batteries?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Commercial UAV News</font>",
@@ -122,80 +159,6 @@
       }
     },
     {
-      "title": "スカイマティクスとエアロネクスト、国産ドローンとGEOINTプラットフォームを活用したソリューションの共同開発・社会実装に向け業務提携",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE50NUw4MUtPS0ZtRjFwanJtRzlyVF95dVBMcDFIQkowV1BVY3JLRUlCdTNDMlc5OU5YMWNXQk9BU2ZPbXJFRFE0bzZDNTYxVmUzQkZCajdfbGo4T1puN1dCSXJrWVJ4X3Y3WGc?oc=5\" target=\"_blank\">スカイマティクスとエアロネクスト、国産ドローンとGEOINTプラットフォームを活用したソリューションの共同開発・社会実装に向け業務提携</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR TIMES</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE50NUw4MUtPS0ZtRjFwanJtRzlyVF95dVBMcDFIQkowV1BVY3JLRUlCdTNDMlc5OU5YMWNXQk9BU2ZPbXJFRFE0bzZDNTYxVmUzQkZCajdfbGo4T1puN1dCSXJrWVJ4X3Y3WGc?oc=5\" target=\"_blank\">スカイマティクスとエアロネクスト、国産ドローンとGEOINTプラットフォームを活用したソリューションの共同開発・社会実装に向け業務提携</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR TIMES</font>",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE50NUw4MUtPS0ZtRjFwanJtRzlyVF95dVBMcDFIQkowV1BVY3JLRUlCdTNDMlc5OU5YMWNXQk9BU2ZPbXJFRFE0bzZDNTYxVmUzQkZCajdfbGo4T1puN1dCSXJrWVJ4X3Y3WGc?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE50NUw4MUtPS0ZtRjFwanJtRzlyVF95dVBMcDFIQkowV1BVY3JLRUlCdTNDMlc5OU5YMWNXQk9BU2ZPbXJFRFE0bzZDNTYxVmUzQkZCajdfbGo4T1puN1dCSXJrWVJ4X3Y3WGc?oc=5",
-      "publishedAt": "2026-11-10T04:00:02.000Z",
-      "source": "PR TIMES",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP 政策/実証)",
-      "_scoring": {
-        "score": 69,
-        "categories": [
-          "技術・製品",
-          "市場・資金"
-        ],
-        "breakdown": {
-          "required": true,
-          "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "market": {
-            "matches": 2,
-            "catScore": 25
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 5,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "エアロネクストとスカイマティクスが国産ドローンとGEOINTプラットフォームで新たなソリューションを共同開発する戦略的業務提携",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE1IVTFNRXI1ME9NLVJ1dGRIT0hZU3hMdjdCOFdibnEtNUZVSjMzYndhTHBYQU5fSmFWeHVyeGRCdGxYTUJIOWtVbVBaWDZLekdmWlBKNEdpT3p5ZVJhUElnWGZ1RWZzTDRTNGdSVzBXUGNNRDlD?oc=5\" target=\"_blank\">エアロネクストとスカイマティクスが国産ドローンとGEOINTプラットフォームで新たなソリューションを共同開発する戦略的業務提携</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ニュースメディアVOIX</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE1IVTFNRXI1ME9NLVJ1dGRIT0hZU3hMdjdCOFdibnEtNUZVSjMzYndhTHBYQU5fSmFWeHVyeGRCdGxYTUJIOWtVbVBaWDZLekdmWlBKNEdpT3p5ZVJhUElnWGZ1RWZzTDRTNGdSVzBXUGNNRDlD?oc=5\" target=\"_blank\">エアロネクストとスカイマティクスが国産ドローンとGEOINTプラットフォームで新たなソリューションを共同開発する戦略的業務提携</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ニュースメディアVOIX</font>",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1IVTFNRXI1ME9NLVJ1dGRIT0hZU3hMdjdCOFdibnEtNUZVSjMzYndhTHBYQU5fSmFWeHVyeGRCdGxYTUJIOWtVbVBaWDZLekdmWlBKNEdpT3p5ZVJhUElnWGZ1RWZzTDRTNGdSVzBXUGNNRDlD?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1IVTFNRXI1ME9NLVJ1dGRIT0hZU3hMdjdCOFdibnEtNUZVSjMzYndhTHBYQU5fSmFWeHVyeGRCdGxYTUJIOWtVbVBaWDZLekdmWlBKNEdpT3p5ZVJhUElnWGZ1RWZzTDRTNGdSVzBXUGNNRDlD?oc=5",
-      "publishedAt": "2026-11-10T09:36:58.000Z",
-      "source": "ニュースメディアVOIX",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP 政策/実証)",
-      "_scoring": {
-        "score": 69,
-        "categories": [
-          "技術・製品",
-          "市場・資金"
-        ],
-        "breakdown": {
-          "required": true,
-          "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "market": {
-            "matches": 2,
-            "catScore": 25
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 5,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
       "title": "FAA authorizes long-range BVLOS ops for uncrewed VTOL craft",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRUQyQl9tWE0tX0FhLWl0VkFYNjREU0J5TGFoQ3JqVjBkNjBQQmFiWXhNQlBTLW9yMTJyN1EtQ1lNMUJrdUg3eWNzQWJwLWNqZm4tM3E3cE9XeGRtcXByWF83R2hGNER6R2FKUllwbFJwLTN5YVdJcE5qRlVOZVNKdlZxU3QyZXR1OThicUg2VTNTdzk4YTRheG4tLTRfNVJLcFl4MENYM19nUQ?oc=5\" target=\"_blank\">FAA authorizes long-range BVLOS ops for uncrewed VTOL craft</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Military Embedded Systems</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRUQyQl9tWE0tX0FhLWl0VkFYNjREU0J5TGFoQ3JqVjBkNjBQQmFiWXhNQlBTLW9yMTJyN1EtQ1lNMUJrdUg3eWNzQWJwLWNqZm4tM3E3cE9XeGRtcXByWF83R2hGNER6R2FKUllwbFJwLTN5YVdJcE5qRlVOZVNKdlZxU3QyZXR1OThicUg2VTNTdzk4YTRheG4tLTRfNVJLcFl4MENYM19nUQ?oc=5\" target=\"_blank\">FAA authorizes long-range BVLOS ops for uncrewed VTOL craft</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Military Embedded Systems</font>",
@@ -232,17 +195,17 @@
       }
     },
     {
-      "title": "スカイマティクスとエアロネクストが提携 国産ドローンと空間データ基盤を統合開発へ",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiR0FVX3lxTE5yUkY4WV9zRUpiMUF4S1ZHZnZTX2FoVjBuN2pGSFNrdDZyeG81V3J5WFNSQ2tGVkx0MEUwRW5KOHlhMUZhN1Bn?oc=5\" target=\"_blank\">スカイマティクスとエアロネクストが提携 国産ドローンと空間データ基盤を統合開発へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dellows News</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiR0FVX3lxTE5yUkY4WV9zRUpiMUF4S1ZHZnZTX2FoVjBuN2pGSFNrdDZyeG81V3J5WFNSQ2tGVkx0MEUwRW5KOHlhMUZhN1Bn?oc=5\" target=\"_blank\">スカイマティクスとエアロネクストが提携 国産ドローンと空間データ基盤を統合開発へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dellows News</font>",
-      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5yUkY4WV9zRUpiMUF4S1ZHZnZTX2FoVjBuN2pGSFNrdDZyeG81V3J5WFNSQ2tGVkx0MEUwRW5KOHlhMUZhN1Bn?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5yUkY4WV9zRUpiMUF4S1ZHZnZTX2FoVjBuN2pGSFNrdDZyeG81V3J5WFNSQ2tGVkx0MEUwRW5KOHlhMUZhN1Bn?oc=5",
-      "publishedAt": "2026-11-10T05:40:40.000Z",
-      "source": "Dellows News",
+      "title": "スカイマティクスとエアロネクスト、国産ドローンとGEOINTプラットフォームを活用したソリューションの共同開発・社会実装に向け業務提携",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE50NUw4MUtPS0ZtRjFwanJtRzlyVF95dVBMcDFIQkowV1BVY3JLRUlCdTNDMlc5OU5YMWNXQk9BU2ZPbXJFRFE0bzZDNTYxVmUzQkZCajdfbGo4T1puN1dCSXJrWVJ4X3Y3WGc?oc=5\" target=\"_blank\">スカイマティクスとエアロネクスト、国産ドローンとGEOINTプラットフォームを活用したソリューションの共同開発・社会実装に向け業務提携</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR TIMES</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE50NUw4MUtPS0ZtRjFwanJtRzlyVF95dVBMcDFIQkowV1BVY3JLRUlCdTNDMlc5OU5YMWNXQk9BU2ZPbXJFRFE0bzZDNTYxVmUzQkZCajdfbGo4T1puN1dCSXJrWVJ4X3Y3WGc?oc=5\" target=\"_blank\">スカイマティクスとエアロネクスト、国産ドローンとGEOINTプラットフォームを活用したソリューションの共同開発・社会実装に向け業務提携</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR TIMES</font>",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE50NUw4MUtPS0ZtRjFwanJtRzlyVF95dVBMcDFIQkowV1BVY3JLRUlCdTNDMlc5OU5YMWNXQk9BU2ZPbXJFRFE0bzZDNTYxVmUzQkZCajdfbGo4T1puN1dCSXJrWVJ4X3Y3WGc?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE50NUw4MUtPS0ZtRjFwanJtRzlyVF95dVBMcDFIQkowV1BVY3JLRUlCdTNDMlc5OU5YMWNXQk9BU2ZPbXJFRFE0bzZDNTYxVmUzQkZCajdfbGo4T1puN1dCSXJrWVJ4X3Y3WGc?oc=5",
+      "publishedAt": "2026-11-10T04:00:02.000Z",
+      "source": "PR TIMES",
       "_feedRegion": "jp",
       "_feedName": "Google News (JP 政策/実証)",
       "_scoring": {
-        "score": 65,
+        "score": 66,
         "categories": [
           "技術・製品",
           "市場・資金"
@@ -254,14 +217,83 @@
             "catScore": 24
           },
           "market": {
-            "matches": 1,
-            "catScore": 20
+            "matches": 2,
+            "catScore": 25
           },
           "sourceTrust": {
             "domain": "news.google.com",
             "multiplier": 0.8
           },
-          "freshness": 5,
+          "freshness": 2,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "エアロネクストとスカイマティクスが国産ドローンとGEOINTプラットフォームで新たなソリューションを共同開発する戦略的業務提携",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE1IVTFNRXI1ME9NLVJ1dGRIT0hZU3hMdjdCOFdibnEtNUZVSjMzYndhTHBYQU5fSmFWeHVyeGRCdGxYTUJIOWtVbVBaWDZLekdmWlBKNEdpT3p5ZVJhUElnWGZ1RWZzTDRTNGdSVzBXUGNNRDlD?oc=5\" target=\"_blank\">エアロネクストとスカイマティクスが国産ドローンとGEOINTプラットフォームで新たなソリューションを共同開発する戦略的業務提携</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ニュースメディアVOIX</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE1IVTFNRXI1ME9NLVJ1dGRIT0hZU3hMdjdCOFdibnEtNUZVSjMzYndhTHBYQU5fSmFWeHVyeGRCdGxYTUJIOWtVbVBaWDZLekdmWlBKNEdpT3p5ZVJhUElnWGZ1RWZzTDRTNGdSVzBXUGNNRDlD?oc=5\" target=\"_blank\">エアロネクストとスカイマティクスが国産ドローンとGEOINTプラットフォームで新たなソリューションを共同開発する戦略的業務提携</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ニュースメディアVOIX</font>",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1IVTFNRXI1ME9NLVJ1dGRIT0hZU3hMdjdCOFdibnEtNUZVSjMzYndhTHBYQU5fSmFWeHVyeGRCdGxYTUJIOWtVbVBaWDZLekdmWlBKNEdpT3p5ZVJhUElnWGZ1RWZzTDRTNGdSVzBXUGNNRDlD?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1IVTFNRXI1ME9NLVJ1dGRIT0hZU3hMdjdCOFdibnEtNUZVSjMzYndhTHBYQU5fSmFWeHVyeGRCdGxYTUJIOWtVbVBaWDZLekdmWlBKNEdpT3p5ZVJhUElnWGZ1RWZzTDRTNGdSVzBXUGNNRDlD?oc=5",
+      "publishedAt": "2026-11-10T09:36:58.000Z",
+      "source": "ニュースメディアVOIX",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP 政策/実証)",
+      "_scoring": {
+        "score": 66,
+        "categories": [
+          "技術・製品",
+          "市場・資金"
+        ],
+        "breakdown": {
+          "required": true,
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "market": {
+            "matches": 2,
+            "catScore": 25
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 2,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "KLab、ドローン技術企業トラジェクトリーと業務提携 (2026年11月12日掲載)",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1iZjlJVXNOdHdFTUpnWWVyVE5HaDVUTG1YR2dQN2dob0FmaDM3V1V6c2ZzMTFXeGxqRGlGRTNUQ2Jwd3pCLW9VZ2FJTXNqQ1oxTWFudUptM3FTaGhRdnJ4QUtR?oc=5\" target=\"_blank\">KLab、ドローン技術企業トラジェクトリーと業務提携 (2026年11月12日掲載)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ライブドアニュース</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1iZjlJVXNOdHdFTUpnWWVyVE5HaDVUTG1YR2dQN2dob0FmaDM3V1V6c2ZzMTFXeGxqRGlGRTNUQ2Jwd3pCLW9VZ2FJTXNqQ1oxTWFudUptM3FTaGhRdnJ4QUtR?oc=5\" target=\"_blank\">KLab、ドローン技術企業トラジェクトリーと業務提携 (2026年11月12日掲載)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ライブドアニュース</font>",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1iZjlJVXNOdHdFTUpnWWVyVE5HaDVUTG1YR2dQN2dob0FmaDM3V1V6c2ZzMTFXeGxqRGlGRTNUQ2Jwd3pCLW9VZ2FJTXNqQ1oxTWFudUptM3FTaGhRdnJ4QUtR?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1iZjlJVXNOdHdFTUpnWWVyVE5HaDVUTG1YR2dQN2dob0FmaDM3V1V6c2ZzMTFXeGxqRGlGRTNUQ2Jwd3pCLW9VZ2FJTXNqQ1oxTWFudUptM3FTaGhRdnJ4QUtR?oc=5",
+      "publishedAt": "2026-11-12T09:23:29.000Z",
+      "source": "ライブドアニュース",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP 政策/実証)",
+      "_scoring": {
+        "score": 65,
+        "categories": [
+          "市場・資金"
+        ],
+        "breakdown": {
+          "required": true,
+          "market": {
+            "matches": 2,
+            "catScore": 25
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 20,
           "titleBonus": 10,
           "jpRegionBonus": 15
         },
@@ -305,12 +337,86 @@
       }
     },
     {
+      "title": "チェンジホールディングス他4社は秋田県より受託した「クマ対策ドローン実証事業」の実証実験を実施 - エアロネクスト-NEXT DELIVERY",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5MNGNsM1hZbFo5SVNvVHRhVDltRHZTUzRkMWpmRWhtc2FLQ3Z2RDZJYjV0ZjlHYmFfNXE4VXIwemd3UVo0VG1UMElGb0U0SHh3dS16OHFKbUVTdmpTWjJDWElB?oc=5\" target=\"_blank\">チェンジホールディングス他4社は秋田県より受託した「クマ対策ドローン実証事業」の実証実験を実施</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">エアロネクスト-NEXT DELIVERY</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5MNGNsM1hZbFo5SVNvVHRhVDltRHZTUzRkMWpmRWhtc2FLQ3Z2RDZJYjV0ZjlHYmFfNXE4VXIwemd3UVo0VG1UMElGb0U0SHh3dS16OHFKbUVTdmpTWjJDWElB?oc=5\" target=\"_blank\">チェンジホールディングス他4社は秋田県より受託した「クマ対策ドローン実証事業」の実証実験を実施</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">エアロネクスト-NEXT DELIVERY</font>",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5MNGNsM1hZbFo5SVNvVHRhVDltRHZTUzRkMWpmRWhtc2FLQ3Z2RDZJYjV0ZjlHYmFfNXE4VXIwemd3UVo0VG1UMElGb0U0SHh3dS16OHFKbUVTdmpTWjJDWElB?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5MNGNsM1hZbFo5SVNvVHRhVDltRHZTUzRkMWpmRWhtc2FLQ3Z2RDZJYjV0ZjlHYmFfNXE4VXIwemd3UVo0VG1UMElGb0U0SHh3dS16OHFKbUVTdmpTWjJDWElB?oc=5",
+      "publishedAt": "2026-10-30T05:30:00.000Z",
+      "source": "エアロネクスト-NEXT DELIVERY",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP 政策/実証)",
+      "_scoring": {
+        "score": 63,
+        "categories": [
+          "技術・製品",
+          "政策・インフラ"
+        ],
+        "breakdown": {
+          "required": true,
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "policy": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 0,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "スカイマティクスとエアロネクストが提携 国産ドローンと空間データ基盤を統合開発へ",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiR0FVX3lxTE5yUkY4WV9zRUpiMUF4S1ZHZnZTX2FoVjBuN2pGSFNrdDZyeG81V3J5WFNSQ2tGVkx0MEUwRW5KOHlhMUZhN1Bn?oc=5\" target=\"_blank\">スカイマティクスとエアロネクストが提携 国産ドローンと空間データ基盤を統合開発へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dellows News</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiR0FVX3lxTE5yUkY4WV9zRUpiMUF4S1ZHZnZTX2FoVjBuN2pGSFNrdDZyeG81V3J5WFNSQ2tGVkx0MEUwRW5KOHlhMUZhN1Bn?oc=5\" target=\"_blank\">スカイマティクスとエアロネクストが提携 国産ドローンと空間データ基盤を統合開発へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dellows News</font>",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5yUkY4WV9zRUpiMUF4S1ZHZnZTX2FoVjBuN2pGSFNrdDZyeG81V3J5WFNSQ2tGVkx0MEUwRW5KOHlhMUZhN1Bn?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5yUkY4WV9zRUpiMUF4S1ZHZnZTX2FoVjBuN2pGSFNrdDZyeG81V3J5WFNSQ2tGVkx0MEUwRW5KOHlhMUZhN1Bn?oc=5",
+      "publishedAt": "2026-11-10T05:40:40.000Z",
+      "source": "Dellows News",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP 政策/実証)",
+      "_scoring": {
+        "score": 62,
+        "categories": [
+          "技術・製品",
+          "市場・資金"
+        ],
+        "breakdown": {
+          "required": true,
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "market": {
+            "matches": 1,
+            "catScore": 20
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 2,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
       "title": "Airborne-Innovation 11.10.26: Wisk Vertiport, NASA X-70 Fractal, Eve Air-FlyBIS - Aero-News Network",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPUUduaWRPOGZWaURjQk9ZcDg0aXE0OE1NZkY4REpGc2VHdC12cm1CTkdFdkc1TkVLN0V4cmpxTTk4LXFZTFFsZ3Z6MXBUUEZNWWdwR2J1clhIV1B4bDVmeEhTSzFpMHhtMWROMkVISm5reEdJTE9zQzA2ZVhoVWJobGNLTEtzN1JoNjdZQVNkSWFlejF3akFr?oc=5\" target=\"_blank\">Airborne-Innovation 11.10.26: Wisk Vertiport, NASA X-70 Fractal, Eve Air-FlyBIS</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aero-News Network</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPUUduaWRPOGZWaURjQk9ZcDg0aXE0OE1NZkY4REpGc2VHdC12cm1CTkdFdkc1TkVLN0V4cmpxTTk4LXFZTFFsZ3Z6MXBUUEZNWWdwR2J1clhIV1B4bDVmeEhTSzFpMHhtMWROMkVISm5reEdJTE9zQzA2ZVhoVWJobGNLTEtzN1JoNjdZQVNkSWFlejF3akFr?oc=5\" target=\"_blank\">Airborne-Innovation 11.10.26: Wisk Vertiport, NASA X-70 Fractal, Eve Air-FlyBIS</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aero-News Network</font>",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUUduaWRPOGZWaURjQk9ZcDg0aXE0OE1NZkY4REpGc2VHdC12cm1CTkdFdkc1TkVLN0V4cmpxTTk4LXFZTFFsZ3Z6MXBUUEZNWWdwR2J1clhIV1B4bDVmeEhTSzFpMHhtMWROMkVISm5reEdJTE9zQzA2ZVhoVWJobGNLTEtzN1JoNjdZQVNkSWFlejF3akFr?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUUduaWRPOGZWaURjQk9ZcDg0aXE0OE1NZkY4REpGc2VHdC12cm1CTkdFdkc1TkVLN0V4cmpxTTk4LXFZTFFsZ3Z6MXBUUEZNWWdwR2J1clhIV1B4bDVmeEhTSzFpMHhtMWROMkVISm5reEdJTE9zQzA2ZVhoVWJobGNLTEtzN1JoNjdZQVNkSWFlejF3akFr?oc=5",
-      "publishedAt": "2026-11-11T05:04:16.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOSThLNG9tLWFsc1pFMkpFaWx3YmJfSE1KR25OSzVlUi1SRjVIdDVVT21CakZSYTUySzdRYjVfX3ByLUlzVHVEZGhzTFp2bWJCMGVVTWZ3cXJDbThOaVJ0TUJOQ0VqdVdCV0lLWDB1dVZrUjFzbmttRXVXbDV3bWJLR0JuVlMydnZibWpzZkpoaHBRS05Td3RlUmJZNmdWdXBHc0E?oc=5\" target=\"_blank\">Airborne-Innovation 11.10.26: Wisk Vertiport, NASA X-70 Fractal, Eve Air-FlyBIS</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aero-News Network</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOSThLNG9tLWFsc1pFMkpFaWx3YmJfSE1KR25OSzVlUi1SRjVIdDVVT21CakZSYTUySzdRYjVfX3ByLUlzVHVEZGhzTFp2bWJCMGVVTWZ3cXJDbThOaVJ0TUJOQ0VqdVdCV0lLWDB1dVZrUjFzbmttRXVXbDV3bWJLR0JuVlMydnZibWpzZkpoaHBRS05Td3RlUmJZNmdWdXBHc0E?oc=5\" target=\"_blank\">Airborne-Innovation 11.10.26: Wisk Vertiport, NASA X-70 Fractal, Eve Air-FlyBIS</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aero-News Network</font>",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSThLNG9tLWFsc1pFMkpFaWx3YmJfSE1KR25OSzVlUi1SRjVIdDVVT21CakZSYTUySzdRYjVfX3ByLUlzVHVEZGhzTFp2bWJCMGVVTWZ3cXJDbThOaVJ0TUJOQ0VqdVdCV0lLWDB1dVZrUjFzbmttRXVXbDV3bWJLR0JuVlMydnZibWpzZkpoaHBRS05Td3RlUmJZNmdWdXBHc0E?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSThLNG9tLWFsc1pFMkpFaWx3YmJfSE1KR25OSzVlUi1SRjVIdDVVT21CakZSYTUySzdRYjVfX3ByLUlzVHVEZGhzTFp2bWJCMGVVTWZ3cXJDbThOaVJ0TUJOQ0VqdVdCV0lLWDB1dVZrUjFzbmttRXVXbDV3bWJLR0JuVlMydnZibWpzZkpoaHBRS05Td3RlUmJZNmdWdXBHc0E?oc=5",
+      "publishedAt": "2026-11-11T20:28:31.000Z",
       "source": "Aero-News Network",
       "_feedRegion": "global",
       "_feedName": "Google News (Global)",
@@ -341,13 +447,109 @@
       }
     },
     {
-      "title": "千葉市／水上・水中ドローン実証実験フィールド提供開始／市内の下水道施設や港湾で",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiR0FVX3lxTE1UYWdCWkdUMHNSLWFiWnprMkNhOHQ3WFBoVnlDZWdYQWhpNm82bXlSRk9wREg0MzhLcnl0X3lvV2JOOVpHbnNJ?oc=5\" target=\"_blank\">千葉市／水上・水中ドローン実証実験フィールド提供開始／市内の下水道施設や港湾で</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日刊建設工業新聞</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiR0FVX3lxTE1UYWdCWkdUMHNSLWFiWnprMkNhOHQ3WFBoVnlDZWdYQWhpNm82bXlSRk9wREg0MzhLcnl0X3lvV2JOOVpHbnNJ?oc=5\" target=\"_blank\">千葉市／水上・水中ドローン実証実験フィールド提供開始／市内の下水道施設や港湾で</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日刊建設工業新聞</font>",
-      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1UYWdCWkdUMHNSLWFiWnprMkNhOHQ3WFBoVnlDZWdYQWhpNm82bXlSRk9wREg0MzhLcnl0X3lvV2JOOVpHbnNJ?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1UYWdCWkdUMHNSLWFiWnprMkNhOHQ3WFBoVnlDZWdYQWhpNm82bXlSRk9wREg0MzhLcnl0X3lvV2JOOVpHbnNJ?oc=5",
-      "publishedAt": "2026-11-11T21:01:58.000Z",
-      "source": "日刊建設工業新聞",
+      "title": "KLab、ドローン技術企業トラジェクトリーと業務提携 | KLab株式会社のプレスリリース",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9Eb2xXZEF5V2RiYjloZGxObzcxNUNPVGJwM3d2OUlVS0xENU52WG9ya3Y5U0doX0MtZ05vcjd3dTVzcFZFWDYydWhoV3hXQW0tWkRmclpvX2kzeWdSUklBd09oS3BXa3gtcGc?oc=5\" target=\"_blank\">KLab、ドローン技術企業トラジェクトリーと業務提携 | KLab株式会社のプレスリリース</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR TIMES</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9Eb2xXZEF5V2RiYjloZGxObzcxNUNPVGJwM3d2OUlVS0xENU52WG9ya3Y5U0doX0MtZ05vcjd3dTVzcFZFWDYydWhoV3hXQW0tWkRmclpvX2kzeWdSUklBd09oS3BXa3gtcGc?oc=5\" target=\"_blank\">KLab、ドローン技術企業トラジェクトリーと業務提携 | KLab株式会社のプレスリリース</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR TIMES</font>",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Eb2xXZEF5V2RiYjloZGxObzcxNUNPVGJwM3d2OUlVS0xENU52WG9ya3Y5U0doX0MtZ05vcjd3dTVzcFZFWDYydWhoV3hXQW0tWkRmclpvX2kzeWdSUklBd09oS3BXa3gtcGc?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Eb2xXZEF5V2RiYjloZGxObzcxNUNPVGJwM3d2OUlVS0xENU52WG9ya3Y5U0doX0MtZ05vcjd3dTVzcFZFWDYydWhoV3hXQW0tWkRmclpvX2kzeWdSUklBd09oS3BXa3gtcGc?oc=5",
+      "publishedAt": "2026-11-12T06:30:01.000Z",
+      "source": "PR TIMES",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP 政策/実証)",
+      "_scoring": {
+        "score": 60,
+        "categories": [
+          "市場・資金"
+        ],
+        "breakdown": {
+          "required": true,
+          "market": {
+            "matches": 2,
+            "catScore": 25
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 15,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "ＫＬａｂ[3656]：KLab、ドローン技術企業トラジェクトリーと業務提携 2026年11月12日(適時開示) ：日経会社情報DIGITAL",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOTGc1MTEtYi1oUl9QdFlHRklmd1pMUWh3dklOT2F0V1NTSzM3akV4VUx5NjZPVVFqMFhsYTFOaFFwWDhGWGU2N3Y4aDlRVkFpMVhBb3Q1YVZpUjNaTzdVOFZMa0JCNjBSb0N3Q2tmd093b1BPazJmc1phOXhEV2hvVlVVZFdxeEZJZ3h0clRucHlyWjl1cmFEUVVfQ2c4TV9XSTA4eDFybnprYWc0Y29KaExhclpUSkNmRjhueXVaT2ItMDMydUt5OW95TkI?oc=5\" target=\"_blank\">ＫＬａｂ[3656]：KLab、ドローン技術企業トラジェクトリーと業務提携 2026年11月12日(適時開示) ：日経会社情報DIGITAL</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOTGc1MTEtYi1oUl9QdFlHRklmd1pMUWh3dklOT2F0V1NTSzM3akV4VUx5NjZPVVFqMFhsYTFOaFFwWDhGWGU2N3Y4aDlRVkFpMVhBb3Q1YVZpUjNaTzdVOFZMa0JCNjBSb0N3Q2tmd093b1BPazJmc1phOXhEV2hvVlVVZFdxeEZJZ3h0clRucHlyWjl1cmFEUVVfQ2c4TV9XSTA4eDFybnprYWc0Y29KaExhclpUSkNmRjhueXVaT2ItMDMydUt5OW95TkI?oc=5\" target=\"_blank\">ＫＬａｂ[3656]：KLab、ドローン技術企業トラジェクトリーと業務提携 2026年11月12日(適時開示) ：日経会社情報DIGITAL</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOTGc1MTEtYi1oUl9QdFlHRklmd1pMUWh3dklOT2F0V1NTSzM3akV4VUx5NjZPVVFqMFhsYTFOaFFwWDhGWGU2N3Y4aDlRVkFpMVhBb3Q1YVZpUjNaTzdVOFZMa0JCNjBSb0N3Q2tmd093b1BPazJmc1phOXhEV2hvVlVVZFdxeEZJZ3h0clRucHlyWjl1cmFEUVVfQ2c4TV9XSTA4eDFybnprYWc0Y29KaExhclpUSkNmRjhueXVaT2ItMDMydUt5OW95TkI?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOTGc1MTEtYi1oUl9QdFlHRklmd1pMUWh3dklOT2F0V1NTSzM3akV4VUx5NjZPVVFqMFhsYTFOaFFwWDhGWGU2N3Y4aDlRVkFpMVhBb3Q1YVZpUjNaTzdVOFZMa0JCNjBSb0N3Q2tmd093b1BPazJmc1phOXhEV2hvVlVVZFdxeEZJZ3h0clRucHlyWjl1cmFEUVVfQ2c4TV9XSTA4eDFybnprYWc0Y29KaExhclpUSkNmRjhueXVaT2ItMDMydUt5OW95TkI?oc=5",
+      "publishedAt": "2026-11-12T06:30:00.000Z",
+      "source": "日本経済新聞",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP 経済メディア)",
+      "_scoring": {
+        "score": 60,
+        "categories": [
+          "市場・資金"
+        ],
+        "breakdown": {
+          "required": true,
+          "market": {
+            "matches": 2,
+            "catScore": 25
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 15,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "中国初の商用レベル中小型完全太陽光発電ドローン、初飛行に成功",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1mbDlSOWduZXJTcTRtaXlEM2swb08zV1VXTUhTU3NlaFpxZF9OUnp0Z3dSRklucTVDM2lvUndvSTBUV2t6YndoWkg5ZzRpMWNyN2Q1U0pVZUZjNXhuT29xbmtxQ2RkOWs?oc=5\" target=\"_blank\">中国初の商用レベル中小型完全太陽光発電ドローン、初飛行に成功</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">人民網日本語版</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1mbDlSOWduZXJTcTRtaXlEM2swb08zV1VXTUhTU3NlaFpxZF9OUnp0Z3dSRklucTVDM2lvUndvSTBUV2t6YndoWkg5ZzRpMWNyN2Q1U0pVZUZjNXhuT29xbmtxQ2RkOWs?oc=5\" target=\"_blank\">中国初の商用レベル中小型完全太陽光発電ドローン、初飛行に成功</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">人民網日本語版</font>",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1mbDlSOWduZXJTcTRtaXlEM2swb08zV1VXTUhTU3NlaFpxZF9OUnp0Z3dSRklucTVDM2lvUndvSTBUV2t6YndoWkg5ZzRpMWNyN2Q1U0pVZUZjNXhuT29xbmtxQ2RkOWs?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1mbDlSOWduZXJTcTRtaXlEM2swb08zV1VXTUhTU3NlaFpxZF9OUnp0Z3dSRklucTVDM2lvUndvSTBUV2t6YndoWkg5ZzRpMWNyN2Q1U0pVZUZjNXhuT29xbmtxQ2RkOWs?oc=5",
+      "publishedAt": "2026-11-12T07:45:00.000Z",
+      "source": "人民網日本語版",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP)",
+      "_scoring": {
+        "score": 59,
+        "categories": [
+          "技術・製品"
+        ],
+        "breakdown": {
+          "required": true,
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 15,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "韓国産無人機、1週間連続飛行に成功…垂直離着陸機も開発へ（中央日報日本語版）",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE41cWpIdXVISFI1aXBkYk1VaWtsc1E4T1NHcWVFcWFiNXEzNDg1VzFFdHM1aXpZRUVEcWZoWWRpS2ZJcGE1MnFCSkNPX2VXSEhXVUt2U2M0UVNUNVNTbjh1N2xFTFREY2cxdm9GMkNqUDR3ZzRzTmZSV25jak1tTW8?oc=5\" target=\"_blank\">韓国産無人機、1週間連続飛行に成功…垂直離着陸機も開発へ（中央日報日本語版）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE41cWpIdXVISFI1aXBkYk1VaWtsc1E4T1NHcWVFcWFiNXEzNDg1VzFFdHM1aXpZRUVEcWZoWWRpS2ZJcGE1MnFCSkNPX2VXSEhXVUt2U2M0UVNUNVNTbjh1N2xFTFREY2cxdm9GMkNqUDR3ZzRzTmZSV25jak1tTW8?oc=5\" target=\"_blank\">韓国産無人機、1週間連続飛行に成功…垂直離着陸機も開発へ（中央日報日本語版）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE41cWpIdXVISFI1aXBkYk1VaWtsc1E4T1NHcWVFcWFiNXEzNDg1VzFFdHM1aXpZRUVEcWZoWWRpS2ZJcGE1MnFCSkNPX2VXSEhXVUt2U2M0UVNUNVNTbjh1N2xFTFREY2cxdm9GMkNqUDR3ZzRzTmZSV25jak1tTW8?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE41cWpIdXVISFI1aXBkYk1VaWtsc1E4T1NHcWVFcWFiNXEzNDg1VzFFdHM1aXpZRUVEcWZoWWRpS2ZJcGE1MnFCSkNPX2VXSEhXVUt2U2M0UVNUNVNTbjh1N2xFTFREY2cxdm9GMkNqUDR3ZzRzTmZSV25jak1tTW8?oc=5",
+      "publishedAt": "2026-11-12T03:02:44.000Z",
+      "source": "Yahoo!ニュース",
       "_feedRegion": "jp",
       "_feedName": "Google News (JP)",
       "_scoring": {
@@ -404,101 +606,6 @@
           },
           "freshness": 0,
           "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "Skyways Gets FAA OK for Gulf Drone Flight From Louisiana",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQTmZCNEdpUzFiamhqWU5nX0ZacHlUdGRRZ0ExTjRzQzB3UGRqTGNSWFBQal95MEVYSlBlNEhaQmV1ZG1udGhkNWIyTWRaZnlYSzV0YTdBOTlmUXJubEI2QmVjUkVZYkh2OVA1NjI4NDBQQ2I3UFhiQjdHS05xSXhURTFYTEl6Q0R2M1pPX3pkZmRYWHp2dDZ3R2xCQkJWTWJMci12U0Q1U3JqY3Vpb2ptSDRpQXZ3VjQ?oc=5\" target=\"_blank\">Skyways Gets FAA OK for Gulf Drone Flight From Louisiana</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hoodline</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQTmZCNEdpUzFiamhqWU5nX0ZacHlUdGRRZ0ExTjRzQzB3UGRqTGNSWFBQal95MEVYSlBlNEhaQmV1ZG1udGhkNWIyTWRaZnlYSzV0YTdBOTlmUXJubEI2QmVjUkVZYkh2OVA1NjI4NDBQQ2I3UFhiQjdHS05xSXhURTFYTEl6Q0R2M1pPX3pkZmRYWHp2dDZ3R2xCQkJWTWJMci12U0Q1U3JqY3Vpb2ptSDRpQXZ3VjQ?oc=5\" target=\"_blank\">Skyways Gets FAA OK for Gulf Drone Flight From Louisiana</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hoodline</font>",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTmZCNEdpUzFiamhqWU5nX0ZacHlUdGRRZ0ExTjRzQzB3UGRqTGNSWFBQal95MEVYSlBlNEhaQmV1ZG1udGhkNWIyTWRaZnlYSzV0YTdBOTlmUXJubEI2QmVjUkVZYkh2OVA1NjI4NDBQQ2I3UFhiQjdHS05xSXhURTFYTEl6Q0R2M1pPX3pkZmRYWHp2dDZ3R2xCQkJWTWJMci12U0Q1U3JqY3Vpb2ptSDRpQXZ3VjQ?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTmZCNEdpUzFiamhqWU5nX0ZacHlUdGRRZ0ExTjRzQzB3UGRqTGNSWFBQal95MEVYSlBlNEhaQmV1ZG1udGhkNWIyTWRaZnlYSzV0YTdBOTlmUXJubEI2QmVjUkVZYkh2OVA1NjI4NDBQQ2I3UFhiQjdHS05xSXhURTFYTEl6Q0R2M1pPX3pkZmRYWHp2dDZ3R2xCQkJWTWJMci12U0Q1U3JqY3Vpb2ptSDRpQXZ3VjQ?oc=5",
-      "publishedAt": "2026-11-11T23:55:47.000Z",
-      "source": "Hoodline",
-      "_feedRegion": "us",
-      "_feedName": "FAA",
-      "_scoring": {
-        "score": 56,
-        "categories": [
-          "規制・政策"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 1,
-            "catScore": 32
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 20,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "洋上物流にドローン新航路、米FAAが特別承認",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiSkFVX3lxTFBCYWFaZVRsY2JjQnhkYlhZYnZJM0lfRHRRNjFzYmVWN2Z6SUVpUTQxaDlHMC1teDBDV01RRWNQVkxzNGNIRjJFYTBn?oc=5\" target=\"_blank\">洋上物流にドローン新航路、米FAAが特別承認</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LOGISTICS TODAY</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiSkFVX3lxTFBCYWFaZVRsY2JjQnhkYlhZYnZJM0lfRHRRNjFzYmVWN2Z6SUVpUTQxaDlHMC1teDBDV01RRWNQVkxzNGNIRjJFYTBn?oc=5\" target=\"_blank\">洋上物流にドローン新航路、米FAAが特別承認</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LOGISTICS TODAY</font>",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBCYWFaZVRsY2JjQnhkYlhZYnZJM0lfRHRRNjFzYmVWN2Z6SUVpUTQxaDlHMC1teDBDV01RRWNQVkxzNGNIRjJFYTBn?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBCYWFaZVRsY2JjQnhkYlhZYnZJM0lfRHRRNjFzYmVWN2Z6SUVpUTQxaDlHMC1teDBDV01RRWNQVkxzNGNIRjJFYTBn?oc=5",
-      "publishedAt": "2026-11-10T20:59:04.000Z",
-      "source": "LOGISTICS TODAY",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP)",
-      "_scoring": {
-        "score": 56,
-        "categories": [
-          "規制・政策"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 1,
-            "catScore": 32
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 5,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "ドローン攻撃備え土地規制 法案衆院審議入り",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1hcU5QaTBrRnNreU1ZZEpuYlVJUW80WThRd0hkR2N2aDlkcWk0di03LU9UX0FQUkEwTlNpdUpBZm5pZDkxV0lIUXJqOEJPOHRGLXdUZmE2dExIXzBURlE?oc=5\" target=\"_blank\">ドローン攻撃備え土地規制 法案衆院審議入り</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">沖縄タイムス社</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1hcU5QaTBrRnNreU1ZZEpuYlVJUW80WThRd0hkR2N2aDlkcWk0di03LU9UX0FQUkEwTlNpdUpBZm5pZDkxV0lIUXJqOEJPOHRGLXdUZmE2dExIXzBURlE?oc=5\" target=\"_blank\">ドローン攻撃備え土地規制 法案衆院審議入り</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">沖縄タイムス社</font>",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1hcU5QaTBrRnNreU1ZZEpuYlVJUW80WThRd0hkR2N2aDlkcWk0di03LU9UX0FQUkEwTlNpdUpBZm5pZDkxV0lIUXJqOEJPOHRGLXdUZmE2dExIXzBURlE?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1hcU5QaTBrRnNreU1ZZEpuYlVJUW80WThRd0hkR2N2aDlkcWk0di03LU9UX0FQUkEwTlNpdUpBZm5pZDkxV0lIUXJqOEJPOHRGLXdUZmE2dExIXzBURlE?oc=5",
-      "publishedAt": "2026-11-10T08:48:17.000Z",
-      "source": "沖縄タイムス社",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP)",
-      "_scoring": {
-        "score": 56,
-        "categories": [
-          "規制・政策"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 1,
-            "catScore": 32
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 5,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
         },
         "pass": true
       }
@@ -576,6 +683,78 @@
       }
     },
     {
+      "title": "FAA Publishes Draft AC 150/5390-4 on Vertical Flight Infrastructure; Opinion Piece Asks Who Will Be Authorized to Swap eVTOL Batteries - Avi-Go",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE13bV9JeGJYNnhaVV9ReGxpM1I0azh3R1h0bGJDaXY2QmVzOWNnVk51U3RwWk1XcjNQeEtzMi1vV0p5SWZEUkNkQ3dyZ0hlVG5ubFdPZGFGVzZacFk3cFo3WElRQVdVcFZIcUE4QjVBamptTDA?oc=5\" target=\"_blank\">FAA Publishes Draft AC 150/5390-4 on Vertical Flight Infrastructure; Opinion Piece Asks Who Will Be Authorized to Swap eVTOL Batteries</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Avi-Go</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE13bV9JeGJYNnhaVV9ReGxpM1I0azh3R1h0bGJDaXY2QmVzOWNnVk51U3RwWk1XcjNQeEtzMi1vV0p5SWZEUkNkQ3dyZ0hlVG5ubFdPZGFGVzZacFk3cFo3WElRQVdVcFZIcUE4QjVBamptTDA?oc=5\" target=\"_blank\">FAA Publishes Draft AC 150/5390-4 on Vertical Flight Infrastructure; Opinion Piece Asks Who Will Be Authorized to Swap eVTOL Batteries</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Avi-Go</font>",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE13bV9JeGJYNnhaVV9ReGxpM1I0azh3R1h0bGJDaXY2QmVzOWNnVk51U3RwWk1XcjNQeEtzMi1vV0p5SWZEUkNkQ3dyZ0hlVG5ubFdPZGFGVzZacFk3cFo3WElRQVdVcFZIcUE4QjVBamptTDA?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE13bV9JeGJYNnhaVV9ReGxpM1I0azh3R1h0bGJDaXY2QmVzOWNnVk51U3RwWk1XcjNQeEtzMi1vV0p5SWZEUkNkQ3dyZ0hlVG5ubFdPZGFGVzZacFk3cFo3WElRQVdVcFZIcUE4QjVBamptTDA?oc=5",
+      "publishedAt": "2026-10-30T19:07:23.000Z",
+      "source": "Avi-Go",
+      "_feedRegion": "us",
+      "_feedName": "FAA",
+      "_scoring": {
+        "score": 55,
+        "categories": [
+          "規制・政策",
+          "政策・インフラ"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
+          "policy": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 0,
+          "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "Part 103 eVTOL: The 254-Pound Battery Rule",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNRWJ1RnJ3S29MbHg4TDRXQWdJTVZzQWUwOFBmN1d3UFBtdGVleFU0bHN0V1E3cEU1YkJNUzVCa2NsbmpPZkRGeXlEWmp0dFVSZ0ZlVHJxNzRyTmwzZ29lbUtKeUpSbUNsZFV1QnZ4VVB4N1dqS1h6cXg0dVB6RDAyMS1QUlMweGs0UEVhcnAyTQ?oc=5\" target=\"_blank\">Part 103 eVTOL: The 254-Pound Battery Rule</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MiGFlug</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNRWJ1RnJ3S29MbHg4TDRXQWdJTVZzQWUwOFBmN1d3UFBtdGVleFU0bHN0V1E3cEU1YkJNUzVCa2NsbmpPZkRGeXlEWmp0dFVSZ0ZlVHJxNzRyTmwzZ29lbUtKeUpSbUNsZFV1QnZ4VVB4N1dqS1h6cXg0dVB6RDAyMS1QUlMweGs0UEVhcnAyTQ?oc=5\" target=\"_blank\">Part 103 eVTOL: The 254-Pound Battery Rule</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MiGFlug</font>",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRWJ1RnJ3S29MbHg4TDRXQWdJTVZzQWUwOFBmN1d3UFBtdGVleFU0bHN0V1E3cEU1YkJNUzVCa2NsbmpPZkRGeXlEWmp0dFVSZ0ZlVHJxNzRyTmwzZ29lbUtKeUpSbUNsZFV1QnZ4VVB4N1dqS1h6cXg0dVB6RDAyMS1QUlMweGs0UEVhcnAyTQ?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRWJ1RnJ3S29MbHg4TDRXQWdJTVZzQWUwOFBmN1d3UFBtdGVleFU0bHN0V1E3cEU1YkJNUzVCa2NsbmpPZkRGeXlEWmp0dFVSZ0ZlVHJxNzRyTmwzZ29lbUtKeUpSbUNsZFV1QnZ4VVB4N1dqS1h6cXg0dVB6RDAyMS1QUlMweGs0UEVhcnAyTQ?oc=5",
+      "publishedAt": "2026-11-08T15:31:43.000Z",
+      "source": "MiGFlug",
+      "_feedRegion": "global",
+      "_feedName": "Google News (Global)",
+      "_scoring": {
+        "score": 55,
+        "categories": [
+          "規制・政策",
+          "技術・製品"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 0,
+          "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
       "title": "Autonomous Drone Completes First Indiana Corridor BVLOS Flight",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYkxZSkhDY0psYzVGMXRTbld4ank4MHh6TGRQUWhvXzlMV0J6bzR4QTluWm94eWJhZHRIamFMdFo2UFRXanhocTIzQURIMmtDTVBsNGR0N0pJZEhzamYtejNSRl9ibmNJLVY4eVVjMnZ6UlNHLS1yUWRzc1dQZ2hUdWRYckEzcDh4YnVEMXBvNFVFcXBWRWFyT3F1RHYxSkVQQ1RCRUROZVpIdw?oc=5\" target=\"_blank\">Autonomous Drone Completes First Indiana Corridor BVLOS Flight</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">General Aviation News</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYkxZSkhDY0psYzVGMXRTbld4ank4MHh6TGRQUWhvXzlMV0J6bzR4QTluWm94eWJhZHRIamFMdFo2UFRXanhocTIzQURIMmtDTVBsNGR0N0pJZEhzamYtejNSRl9ibmNJLVY4eVVjMnZ6UlNHLS1yUWRzc1dQZ2hUdWRYckEzcDh4YnVEMXBvNFVFcXBWRWFyT3F1RHYxSkVQQ1RCRUROZVpIdw?oc=5\" target=\"_blank\">Autonomous Drone Completes First Indiana Corridor BVLOS Flight</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">General Aviation News</font>",
@@ -606,42 +785,6 @@
             "multiplier": 0.8
           },
           "freshness": 0,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "Allen Control Systems launches directed-energy division focused on counter-drone technologies",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxPd2p5UFFORjhzcThDUTVPX1k5VDZwTVZhOTE3QlQ0V2FJWEZGR3VLT1p0OV9FYUhuRW91dXdHYzlXcmxSYjBLelp2UEdIdnA3bXdmaHRrSTAwX3daMTZaQmc2dEszX3NSbF9NY3hxQTU3THBQenFxRlFkUFJURjhDcm9mdVdrdklMZ3pkZkZpUEMxOEJxSVR2ejg4UTRQcjF4RDFLTmdyZHlNem5QQW1aM0tHenZJRWtORjJVdkUwUkV6N2htaFJRNzVlUF9JRXJ2R2dUQ3Z6VlBYNmdkYjk0b2NZeHNxTVItSWFUUXJHamdOWVk?oc=5\" target=\"_blank\">Allen Control Systems launches directed-energy division focused on counter-drone technologies</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxPd2p5UFFORjhzcThDUTVPX1k5VDZwTVZhOTE3QlQ0V2FJWEZGR3VLT1p0OV9FYUhuRW91dXdHYzlXcmxSYjBLelp2UEdIdnA3bXdmaHRrSTAwX3daMTZaQmc2dEszX3NSbF9NY3hxQTU3THBQenFxRlFkUFJURjhDcm9mdVdrdklMZ3pkZkZpUEMxOEJxSVR2ejg4UTRQcjF4RDFLTmdyZHlNem5QQW1aM0tHenZJRWtORjJVdkUwUkV6N2htaFJRNzVlUF9JRXJ2R2dUQ3Z6VlBYNmdkYjk0b2NZeHNxTVItSWFUUXJHamdOWVk?oc=5\" target=\"_blank\">Allen Control Systems launches directed-energy division focused on counter-drone technologies</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPd2p5UFFORjhzcThDUTVPX1k5VDZwTVZhOTE3QlQ0V2FJWEZGR3VLT1p0OV9FYUhuRW91dXdHYzlXcmxSYjBLelp2UEdIdnA3bXdmaHRrSTAwX3daMTZaQmc2dEszX3NSbF9NY3hxQTU3THBQenFxRlFkUFJURjhDcm9mdVdrdklMZ3pkZkZpUEMxOEJxSVR2ejg4UTRQcjF4RDFLTmdyZHlNem5QQW1aM0tHenZJRWtORjJVdkUwUkV6N2htaFJRNzVlUF9JRXJ2R2dUQ3Z6VlBYNmdkYjk0b2NZeHNxTVItSWFUUXJHamdOWVk?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPd2p5UFFORjhzcThDUTVPX1k5VDZwTVZhOTE3QlQ0V2FJWEZGR3VLT1p0OV9FYUhuRW91dXdHYzlXcmxSYjBLelp2UEdIdnA3bXdmaHRrSTAwX3daMTZaQmc2dEszX3NSbF9NY3hxQTU3THBQenFxRlFkUFJURjhDcm9mdVdrdklMZ3pkZkZpUEMxOEJxSVR2ejg4UTRQcjF4RDFLTmdyZHlNem5QQW1aM0tHenZJRWtORjJVdkUwUkV6N2htaFJRNzVlUF9JRXJ2R2dUQ3Z6VlBYNmdkYjk0b2NZeHNxTVItSWFUUXJHamdOWVk?oc=5",
-      "publishedAt": "2026-11-11T09:30:28.000Z",
-      "source": "Unmanned airspace",
-      "_feedRegion": "global",
-      "_feedName": "Google News (Global)",
-      "_scoring": {
-        "score": 55,
-        "categories": [
-          "技術・製品",
-          "市場・資金"
-        ],
-        "breakdown": {
-          "required": true,
-          "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "market": {
-            "matches": 1,
-            "catScore": 20
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 10,
           "titleBonus": 10
         },
         "pass": true
@@ -684,38 +827,6 @@
       }
     },
     {
-      "title": "エアロネクスト、国産ドローン基盤で業務提携締結",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiSkFVX3lxTFBHdmV0U3F2S2pMNGxmUnphRWhaRzRVNkkyMjROaDg1YTE0a3ZjRXRJSEZkdlVrcmVOLW8zdzdGbnZUWENJVF94UklR?oc=5\" target=\"_blank\">エアロネクスト、国産ドローン基盤で業務提携締結</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LOGISTICS TODAY</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiSkFVX3lxTFBHdmV0U3F2S2pMNGxmUnphRWhaRzRVNkkyMjROaDg1YTE0a3ZjRXRJSEZkdlVrcmVOLW8zdzdGbnZUWENJVF94UklR?oc=5\" target=\"_blank\">エアロネクスト、国産ドローン基盤で業務提携締結</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LOGISTICS TODAY</font>",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBHdmV0U3F2S2pMNGxmUnphRWhaRzRVNkkyMjROaDg1YTE0a3ZjRXRJSEZkdlVrcmVOLW8zdzdGbnZUWENJVF94UklR?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBHdmV0U3F2S2pMNGxmUnphRWhaRzRVNkkyMjROaDg1YTE0a3ZjRXRJSEZkdlVrcmVOLW8zdzdGbnZUWENJVF94UklR?oc=5",
-      "publishedAt": "2026-11-11T09:24:44.000Z",
-      "source": "LOGISTICS TODAY",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP)",
-      "_scoring": {
-        "score": 55,
-        "categories": [
-          "市場・資金"
-        ],
-        "breakdown": {
-          "required": true,
-          "market": {
-            "matches": 2,
-            "catScore": 25
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 10,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
       "title": "FAA authorises Skyways to fly drones over Gulf of Mexico",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYzNUNG9mYkxPbGdiQkJDM3BVbVhSaUZ3LWh4RnVfTWpaMGZZTkRqQ0NLVmZtUGxlak1ZeTEyVWpLMktYakJtWExMcFVTaDlTUXFnSlpsVUxJalc2b3JjTFVPcVB5M3F4dEJkQ0FGaU93OVViSnlQT0MwSDNpMDMxYVRCZGIxUnZkZ2w4M3JINFlvaXJlWHZFdlZhU2hnVEQ0eERQVy1sUVU?oc=5\" target=\"_blank\">FAA authorises Skyways to fly drones over Gulf of Mexico</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYzNUNG9mYkxPbGdiQkJDM3BVbVhSaUZ3LWh4RnVfTWpaMGZZTkRqQ0NLVmZtUGxlak1ZeTEyVWpLMktYakJtWExMcFVTaDlTUXFnSlpsVUxJalc2b3JjTFVPcVB5M3F4dEJkQ0FGaU93OVViSnlQT0MwSDNpMDMxYVRCZGIxUnZkZ2w4M3JINFlvaXJlWHZFdlZhU2hnVEQ0eERQVy1sUVU?oc=5\" target=\"_blank\">FAA authorises Skyways to fly drones over Gulf of Mexico</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
@@ -752,175 +863,15 @@
       }
     },
     {
-      "title": "高齢者にドローン配食計画 ２８年実用化へ実証実験",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE1wZmstc3JEZDZvbjJjdkl4aUtMaUsxOWJGd2p5ekczb3lmd3RhNzdMdmhDcFpLUFpjOVl4V2NjV0tzWk00TzNKVmFiWUJtT2dOZXl5ZVZrNm9TODE2NE1tNFhDUXJYaS1QM3ZhZ1Jn?oc=5\" target=\"_blank\">高齢者にドローン配食計画 ２８年実用化へ実証実験</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WAM NET</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE1wZmstc3JEZDZvbjJjdkl4aUtMaUsxOWJGd2p5ekczb3lmd3RhNzdMdmhDcFpLUFpjOVl4V2NjV0tzWk00TzNKVmFiWUJtT2dOZXl5ZVZrNm9TODE2NE1tNFhDUXJYaS1QM3ZhZ1Jn?oc=5\" target=\"_blank\">高齢者にドローン配食計画 ２８年実用化へ実証実験</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WAM NET</font>",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1wZmstc3JEZDZvbjJjdkl4aUtMaUsxOWJGd2p5ekczb3lmd3RhNzdMdmhDcFpLUFpjOVl4V2NjV0tzWk00TzNKVmFiWUJtT2dOZXl5ZVZrNm9TODE2NE1tNFhDUXJYaS1QM3ZhZ1Jn?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1wZmstc3JEZDZvbjJjdkl4aUtMaUsxOWJGd2p5ekczb3lmd3RhNzdMdmhDcFpLUFpjOVl4V2NjV0tzWk00TzNKVmFiWUJtT2dOZXl5ZVZrNm9TODE2NE1tNFhDUXJYaS1QM3ZhZ1Jn?oc=5",
-      "publishedAt": "2026-11-10T08:02:16.000Z",
-      "source": "WAM NET",
+      "title": "千葉市／水上・水中ドローン実証実験フィールド提供開始／市内の下水道施設や港湾で",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiR0FVX3lxTE1UYWdCWkdUMHNSLWFiWnprMkNhOHQ3WFBoVnlDZWdYQWhpNm82bXlSRk9wREg0MzhLcnl0X3lvV2JOOVpHbnNJ?oc=5\" target=\"_blank\">千葉市／水上・水中ドローン実証実験フィールド提供開始／市内の下水道施設や港湾で</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日刊建設工業新聞</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiR0FVX3lxTE1UYWdCWkdUMHNSLWFiWnprMkNhOHQ3WFBoVnlDZWdYQWhpNm82bXlSRk9wREg0MzhLcnl0X3lvV2JOOVpHbnNJ?oc=5\" target=\"_blank\">千葉市／水上・水中ドローン実証実験フィールド提供開始／市内の下水道施設や港湾で</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日刊建設工業新聞</font>",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1UYWdCWkdUMHNSLWFiWnprMkNhOHQ3WFBoVnlDZWdYQWhpNm82bXlSRk9wREg0MzhLcnl0X3lvV2JOOVpHbnNJ?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1UYWdCWkdUMHNSLWFiWnprMkNhOHQ3WFBoVnlDZWdYQWhpNm82bXlSRk9wREg0MzhLcnl0X3lvV2JOOVpHbnNJ?oc=5",
+      "publishedAt": "2026-11-11T21:01:58.000Z",
+      "source": "日刊建設工業新聞",
       "_feedRegion": "jp",
       "_feedName": "Google News (JP)",
-      "_scoring": {
-        "score": 54,
-        "categories": [
-          "技術・製品"
-        ],
-        "breakdown": {
-          "required": true,
-          "technology": {
-            "matches": 2,
-            "catScore": 30
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 5,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "山形県鶴岡市で、地元配食事業者のお弁当を物流ドローンで届ける実証実験を実施",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE5RR2VaSVV1Q1RmRXVZOExLMlo5d1o5dHN6OVRjeEtFVFVockZrcXJOYUpyRUZzX2J2dDdQb1Y3cWFVUVhHN0JqV0VHMGNPbTEzMWw3MmZnUVBXVENVbThVSkFNX1VxSy0yMlE?oc=5\" target=\"_blank\">山形県鶴岡市で、地元配食事業者のお弁当を物流ドローンで届ける実証実験を実施</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR TIMES</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE5RR2VaSVV1Q1RmRXVZOExLMlo5d1o5dHN6OVRjeEtFVFVockZrcXJOYUpyRUZzX2J2dDdQb1Y3cWFVUVhHN0JqV0VHMGNPbTEzMWw3MmZnUVBXVENVbThVSkFNX1VxSy0yMlE?oc=5\" target=\"_blank\">山形県鶴岡市で、地元配食事業者のお弁当を物流ドローンで届ける実証実験を実施</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR TIMES</font>",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5RR2VaSVV1Q1RmRXVZOExLMlo5d1o5dHN6OVRjeEtFVFVockZrcXJOYUpyRUZzX2J2dDdQb1Y3cWFVUVhHN0JqV0VHMGNPbTEzMWw3MmZnUVBXVENVbThVSkFNX1VxSy0yMlE?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5RR2VaSVV1Q1RmRXVZOExLMlo5d1o5dHN6OVRjeEtFVFVockZrcXJOYUpyRUZzX2J2dDdQb1Y3cWFVUVhHN0JqV0VHMGNPbTEzMWw3MmZnUVBXVENVbThVSkFNX1VxSy0yMlE?oc=5",
-      "publishedAt": "2026-11-11T06:00:24.000Z",
-      "source": "PR TIMES",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP 政策/実証)",
-      "_scoring": {
-        "score": 54,
-        "categories": [
-          "技術・製品"
-        ],
-        "breakdown": {
-          "required": true,
-          "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 10,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "山形県鶴岡市で、富士産業グループの株式会社ベストが製造したお弁当を物流ドローンで届ける実証実験を実施",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE5DdERPNl8zalF5UmR3cVZnNlJGZ3JrOHdET1NmOTVkRnRoWWtNUktxR2toTzFSQW96WnhYaFVMNm82WDlaRldUcnFnczlnTzY3TXEyZ2tCNjJKaGJPTXRmQW9wZFVSYXU5Snc?oc=5\" target=\"_blank\">山形県鶴岡市で、富士産業グループの株式会社ベストが製造したお弁当を物流ドローンで届ける実証実験を実施</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR TIMES</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE5DdERPNl8zalF5UmR3cVZnNlJGZ3JrOHdET1NmOTVkRnRoWWtNUktxR2toTzFSQW96WnhYaFVMNm82WDlaRldUcnFnczlnTzY3TXEyZ2tCNjJKaGJPTXRmQW9wZFVSYXU5Snc?oc=5\" target=\"_blank\">山形県鶴岡市で、富士産業グループの株式会社ベストが製造したお弁当を物流ドローンで届ける実証実験を実施</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR TIMES</font>",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5DdERPNl8zalF5UmR3cVZnNlJGZ3JrOHdET1NmOTVkRnRoWWtNUktxR2toTzFSQW96WnhYaFVMNm82WDlaRldUcnFnczlnTzY3TXEyZ2tCNjJKaGJPTXRmQW9wZFVSYXU5Snc?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5DdERPNl8zalF5UmR3cVZnNlJGZ3JrOHdET1NmOTVkRnRoWWtNUktxR2toTzFSQW96WnhYaFVMNm82WDlaRldUcnFnczlnTzY3TXEyZ2tCNjJKaGJPTXRmQW9wZFVSYXU5Snc?oc=5",
-      "publishedAt": "2026-11-11T06:00:49.000Z",
-      "source": "PR TIMES",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP 政策/実証)",
-      "_scoring": {
-        "score": 54,
-        "categories": [
-          "技術・製品"
-        ],
-        "breakdown": {
-          "required": true,
-          "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 10,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "鶴岡市で実施されたドローンによる配食サービスの実証実験の成果と未来展望",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE5mbjFMaDdaSTVhVzBuX0ZuMTZtQUZrWTRZZFNSdVZfNnBjUmRzZHpwYTlZTFYtYWRuM0hENUJNOUg0bjd1R0N6ZVMwWDFyM2s1cEVlejBCcFVWejRXYnFha0ZsdGR3YW42UklKaw?oc=5\" target=\"_blank\">鶴岡市で実施されたドローンによる配食サービスの実証実験の成果と未来展望</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ニュースメディアVOIX</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE5mbjFMaDdaSTVhVzBuX0ZuMTZtQUZrWTRZZFNSdVZfNnBjUmRzZHpwYTlZTFYtYWRuM0hENUJNOUg0bjd1R0N6ZVMwWDFyM2s1cEVlejBCcFVWejRXYnFha0ZsdGR3YW42UklKaw?oc=5\" target=\"_blank\">鶴岡市で実施されたドローンによる配食サービスの実証実験の成果と未来展望</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ニュースメディアVOIX</font>",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5mbjFMaDdaSTVhVzBuX0ZuMTZtQUZrWTRZZFNSdVZfNnBjUmRzZHpwYTlZTFYtYWRuM0hENUJNOUg0bjd1R0N6ZVMwWDFyM2s1cEVlejBCcFVWejRXYnFha0ZsdGR3YW42UklKaw?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5mbjFMaDdaSTVhVzBuX0ZuMTZtQUZrWTRZZFNSdVZfNnBjUmRzZHpwYTlZTFYtYWRuM0hENUJNOUg0bjd1R0N6ZVMwWDFyM2s1cEVlejBCcFVWejRXYnFha0ZsdGR3YW42UklKaw?oc=5",
-      "publishedAt": "2026-11-11T08:35:05.000Z",
-      "source": "ニュースメディアVOIX",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP 政策/実証)",
-      "_scoring": {
-        "score": 54,
-        "categories": [
-          "技術・製品"
-        ],
-        "breakdown": {
-          "required": true,
-          "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 10,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "富士産業や鶴岡市など、ドローンによる高齢者向け配食サービスの実証実験を実施",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiR0FVX3lxTFBZcWcxM0dMSTBtZTZadzhsR3Z3OWd2S0lveGx2Q2YxbVBWaUZfQmt5UUM3WUJQQmVscE5GNF9TZVlEOGdDUEVj?oc=5\" target=\"_blank\">富士産業や鶴岡市など、ドローンによる高齢者向け配食サービスの実証実験を実施</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dellows News</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiR0FVX3lxTFBZcWcxM0dMSTBtZTZadzhsR3Z3OWd2S0lveGx2Q2YxbVBWaUZfQmt5UUM3WUJQQmVscE5GNF9TZVlEOGdDUEVj?oc=5\" target=\"_blank\">富士産業や鶴岡市など、ドローンによる高齢者向け配食サービスの実証実験を実施</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dellows News</font>",
-      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBZcWcxM0dMSTBtZTZadzhsR3Z3OWd2S0lveGx2Q2YxbVBWaUZfQmt5UUM3WUJQQmVscE5GNF9TZVlEOGdDUEVj?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBZcWcxM0dMSTBtZTZadzhsR3Z3OWd2S0lveGx2Q2YxbVBWaUZfQmt5UUM3WUJQQmVscE5GNF9TZVlEOGdDUEVj?oc=5",
-      "publishedAt": "2026-11-11T07:41:16.000Z",
-      "source": "Dellows News",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP 政策/実証)",
-      "_scoring": {
-        "score": 54,
-        "categories": [
-          "技術・製品"
-        ],
-        "breakdown": {
-          "required": true,
-          "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 10,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "富士産業や鶴岡市など、山形県鶴岡市でドローンによる配食サービスの実証実験を実施",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiR0FVX3lxTE9Va2NBQXpkU2JiMWF4ZmgydVNVc19lLVJIVWFCQzJKR0NXSlJvUkYtY2QtRzFmaUJaVTNLbERxVXFRZllwSjFV?oc=5\" target=\"_blank\">富士産業や鶴岡市など、山形県鶴岡市でドローンによる配食サービスの実証実験を実施</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dellows News</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiR0FVX3lxTE9Va2NBQXpkU2JiMWF4ZmgydVNVc19lLVJIVWFCQzJKR0NXSlJvUkYtY2QtRzFmaUJaVTNLbERxVXFRZllwSjFV?oc=5\" target=\"_blank\">富士産業や鶴岡市など、山形県鶴岡市でドローンによる配食サービスの実証実験を実施</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dellows News</font>",
-      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9Va2NBQXpkU2JiMWF4ZmgydVNVc19lLVJIVWFCQzJKR0NXSlJvUkYtY2QtRzFmaUJaVTNLbERxVXFRZllwSjFV?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9Va2NBQXpkU2JiMWF4ZmgydVNVc19lLVJIVWFCQzJKR0NXSlJvUkYtY2QtRzFmaUJaVTNLbERxVXFRZllwSjFV?oc=5",
-      "publishedAt": "2026-11-11T07:41:16.000Z",
-      "source": "Dellows News",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP 政策/実証)",
       "_scoring": {
         "score": 54,
         "categories": [
@@ -1016,6 +967,38 @@
       }
     },
     {
+      "title": "ドローン攻撃備え土地規制 法案衆院審議入り",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1hcU5QaTBrRnNreU1ZZEpuYlVJUW80WThRd0hkR2N2aDlkcWk0di03LU9UX0FQUkEwTlNpdUpBZm5pZDkxV0lIUXJqOEJPOHRGLXdUZmE2dExIXzBURlE?oc=5\" target=\"_blank\">ドローン攻撃備え土地規制 法案衆院審議入り</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">沖縄タイムス社</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1hcU5QaTBrRnNreU1ZZEpuYlVJUW80WThRd0hkR2N2aDlkcWk0di03LU9UX0FQUkEwTlNpdUpBZm5pZDkxV0lIUXJqOEJPOHRGLXdUZmE2dExIXzBURlE?oc=5\" target=\"_blank\">ドローン攻撃備え土地規制 法案衆院審議入り</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">沖縄タイムス社</font>",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1hcU5QaTBrRnNreU1ZZEpuYlVJUW80WThRd0hkR2N2aDlkcWk0di03LU9UX0FQUkEwTlNpdUpBZm5pZDkxV0lIUXJqOEJPOHRGLXdUZmE2dExIXzBURlE?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1hcU5QaTBrRnNreU1ZZEpuYlVJUW80WThRd0hkR2N2aDlkcWk0di03LU9UX0FQUkEwTlNpdUpBZm5pZDkxV0lIUXJqOEJPOHRGLXdUZmE2dExIXzBURlE?oc=5",
+      "publishedAt": "2026-11-10T08:48:17.000Z",
+      "source": "沖縄タイムス社",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP)",
+      "_scoring": {
+        "score": 53,
+        "categories": [
+          "規制・政策"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 2,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
       "title": "Skyways、長距離の沖合ドローン運航でFAAの免除承認を取得",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOb0p3VGFrUnJaYXRYZWF2a0U5NF82WmJhTDlxSW1LQ2ExZ29ac3ZlNEpCVWk2SkJ1R2o5OVE4eTYtWV9yMU1QWTNveTVOVFFvMXVOUDVvOWtmNHY2LXpOSDVsdVc0Snh6TXl6ZzRhbGpuZkdQaFBCNlVGV2tmUmZPSi1SYkVFNk5ZY2ZvYldjRnNNNXZPZWlz?oc=5\" target=\"_blank\">Skyways、長距離の沖合ドローン運航でFAAの免除承認を取得</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unite.AI</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOb0p3VGFrUnJaYXRYZWF2a0U5NF82WmJhTDlxSW1LQ2ExZ29ac3ZlNEpCVWk2SkJ1R2o5OVE4eTYtWV9yMU1QWTNveTVOVFFvMXVOUDVvOWtmNHY2LXpOSDVsdVc0Snh6TXl6ZzRhbGpuZkdQaFBCNlVGV2tmUmZPSi1SYkVFNk5ZY2ZvYldjRnNNNXZPZWlz?oc=5\" target=\"_blank\">Skyways、長距離の沖合ドローン運航でFAAの免除承認を取得</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unite.AI</font>",
@@ -1043,6 +1026,42 @@
           "freshness": 2,
           "titleBonus": 10,
           "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "FAA Bars Unauthorized Drone Flights Within One Nautical Mile of U.S.-Mexico Border; Officials Say Violators Could Be Shot Down - Avi-Go",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE1PVTVLNmRnQ0stVFVRVWZhX2VFWVVEcUFjR1VzTVpfWVhKeXdXVC1GdkRxc2xvNE1oZkZkRnpBZUhuTVBPQ1lQR2N2aHdJS3FGSWU1bG9aZklXMVNEMDU3V2JTenEwUjBjdEE4MGdIdXAxaFk?oc=5\" target=\"_blank\">FAA Bars Unauthorized Drone Flights Within One Nautical Mile of U.S.-Mexico Border; Officials Say Violators Could Be Shot Down</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Avi-Go</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE1PVTVLNmRnQ0stVFVRVWZhX2VFWVVEcUFjR1VzTVpfWVhKeXdXVC1GdkRxc2xvNE1oZkZkRnpBZUhuTVBPQ1lQR2N2aHdJS3FGSWU1bG9aZklXMVNEMDU3V2JTenEwUjBjdEE4MGdIdXAxaFk?oc=5\" target=\"_blank\">FAA Bars Unauthorized Drone Flights Within One Nautical Mile of U.S.-Mexico Border; Officials Say Violators Could Be Shot Down</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Avi-Go</font>",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1PVTVLNmRnQ0stVFVRVWZhX2VFWVVEcUFjR1VzTVpfWVhKeXdXVC1GdkRxc2xvNE1oZkZkRnpBZUhuTVBPQ1lQR2N2aHdJS3FGSWU1bG9aZklXMVNEMDU3V2JTenEwUjBjdEE4MGdIdXAxaFk?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1PVTVLNmRnQ0stVFVRVWZhX2VFWVVEcUFjR1VzTVpfWVhKeXdXVC1GdkRxc2xvNE1oZkZkRnpBZUhuTVBPQ1lQR2N2aHdJS3FGSWU1bG9aZklXMVNEMDU3V2JTenEwUjBjdEE4MGdIdXAxaFk?oc=5",
+      "publishedAt": "2026-10-30T01:26:28.000Z",
+      "source": "Avi-Go",
+      "_feedRegion": "us",
+      "_feedName": "FAA",
+      "_scoring": {
+        "score": 52,
+        "categories": [
+          "規制・政策",
+          "市場・資金"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
+          "market": {
+            "matches": 1,
+            "catScore": 20
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 0,
+          "titleBonus": 10
         },
         "pass": true
       }
