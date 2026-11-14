@@ -1,48 +1,7 @@
 {
-  "generatedAt": "2026-11-14T16:30:20.177Z",
-  "rawCount": 524,
+  "generatedAt": "2026-11-14T21:13:17.569Z",
+  "rawCount": 514,
   "articles": [
-    {
-      "title": "Windracers ULTRA flies BVLOS in Indiana’s new drone corridor",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQNnJtVEY2bl9Va0N0NTBDT2FsM1ZWS0pyMTFwS0JOZjZ0UVJQSVZBZWNCa29NQUVBbGdNRUVfaHZLUGNZUFRhN2t1V0taeXZkT2cyd1pkRmdGdEp0TVg2ejZFTV85UzNJWUtGMU15Z2NzdHhLaHE1S3JWdHpreXVVaGZVaklza3RFWGI4cGZUMDhoS1NHZ01kekt5UjduSXdvTm1pc3ZPaURTd3ND?oc=5\" target=\"_blank\">Windracers ULTRA flies BVLOS in Indiana’s new drone corridor</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQNnJtVEY2bl9Va0N0NTBDT2FsM1ZWS0pyMTFwS0JOZjZ0UVJQSVZBZWNCa29NQUVBbGdNRUVfaHZLUGNZUFRhN2t1V0taeXZkT2cyd1pkRmdGdEp0TVg2ejZFTV85UzNJWUtGMU15Z2NzdHhLaHE1S3JWdHpreXVVaGZVaklza3RFWGI4cGZUMDhoS1NHZ01kekt5UjduSXdvTm1pc3ZPaURTd3ND?oc=5\" target=\"_blank\">Windracers ULTRA flies BVLOS in Indiana’s new drone corridor</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNnJtVEY2bl9Va0N0NTBDT2FsM1ZWS0pyMTFwS0JOZjZ0UVJQSVZBZWNCa29NQUVBbGdNRUVfaHZLUGNZUFRhN2t1V0taeXZkT2cyd1pkRmdGdEp0TVg2ejZFTV85UzNJWUtGMU15Z2NzdHhLaHE1S3JWdHpreXVVaGZVaklza3RFWGI4cGZUMDhoS1NHZ01kekt5UjduSXdvTm1pc3ZPaURTd3ND?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNnJtVEY2bl9Va0N0NTBDT2FsM1ZWS0pyMTFwS0JOZjZ0UVJQSVZBZWNCa29NQUVBbGdNRUVfaHZLUGNZUFRhN2t1V0taeXZkT2cyd1pkRmdGdEp0TVg2ejZFTV85UzNJWUtGMU15Z2NzdHhLaHE1S3JWdHpreXVVaGZVaklza3RFWGI4cGZUMDhoS1NHZ01kekt5UjduSXdvTm1pc3ZPaURTd3ND?oc=5",
-      "publishedAt": "2026-11-03T17:39:45.000Z",
-      "source": "Unmanned airspace",
-      "_feedRegion": "eu",
-      "_feedName": "EASA",
-      "_scoring": {
-        "score": 71,
-        "categories": [
-          "規制・政策",
-          "市場・資金",
-          "政策・インフラ"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 1,
-            "catScore": 32
-          },
-          "market": {
-            "matches": 1,
-            "catScore": 20
-          },
-          "policy": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 0,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
     {
       "title": "ドローン×AIでインフラ維持管理を高度化、ブルーイノベーションとElithが業務提携",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE5BU3N3aU9CVmw5dEVJdU11emYzc0s4TlhxZ2JOUmhDWmExcm93R3ZrVU1NcWJlVmU5YndDNTVRa1RiVkVpdE1mUEtBT2dOVWxuMDdsZXJKZUN3UUl4VThKM05PX1ZZYXBIeWRiRA?oc=5\" target=\"_blank\">ドローン×AIでインフラ維持管理を高度化、ブルーイノベーションとElithが業務提携</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ITmedia</font>",
@@ -76,42 +35,6 @@
           "freshness": 5,
           "titleBonus": 10,
           "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "European Union “to provide C-UAS support to Nigeria”",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPc3dIbjFCZDJuMmU2eFFPdG1JMVJOYlNzUmUtMXFoUV9oWE5kaE10SmdrbWFzc0FfbVI3SENiSGhBbTZKUzVOWEdFbDBnUmpjYkdqaWJ5UThadG53UGFFSy1XdXdLWUNqaUxKU3dqQ0paeUVkXzl5TDhBUFd6dXZDRUJiWDQyUXZJNzZ0RE44RGUyZlhZVnZBV0dVRFZzTUVkWmJ5Tm9FTkpJenJMUnk2bnVobkxOSGFxeXc?oc=5\" target=\"_blank\">European Union “to provide C-UAS support to Nigeria”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPc3dIbjFCZDJuMmU2eFFPdG1JMVJOYlNzUmUtMXFoUV9oWE5kaE10SmdrbWFzc0FfbVI3SENiSGhBbTZKUzVOWEdFbDBnUmpjYkdqaWJ5UThadG53UGFFSy1XdXdLWUNqaUxKU3dqQ0paeUVkXzl5TDhBUFd6dXZDRUJiWDQyUXZJNzZ0RE44RGUyZlhZVnZBV0dVRFZzTUVkWmJ5Tm9FTkpJenJMUnk2bnVobkxOSGFxeXc?oc=5\" target=\"_blank\">European Union “to provide C-UAS support to Nigeria”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPc3dIbjFCZDJuMmU2eFFPdG1JMVJOYlNzUmUtMXFoUV9oWE5kaE10SmdrbWFzc0FfbVI3SENiSGhBbTZKUzVOWEdFbDBnUmpjYkdqaWJ5UThadG53UGFFSy1XdXdLWUNqaUxKU3dqQ0paeUVkXzl5TDhBUFd6dXZDRUJiWDQyUXZJNzZ0RE44RGUyZlhZVnZBV0dVRFZzTUVkWmJ5Tm9FTkpJenJMUnk2bnVobkxOSGFxeXc?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPc3dIbjFCZDJuMmU2eFFPdG1JMVJOYlNzUmUtMXFoUV9oWE5kaE10SmdrbWFzc0FfbVI3SENiSGhBbTZKUzVOWEdFbDBnUmpjYkdqaWJ5UThadG53UGFFSy1XdXdLWUNqaUxKU3dqQ0paeUVkXzl5TDhBUFd6dXZDRUJiWDQyUXZJNzZ0RE44RGUyZlhZVnZBV0dVRFZzTUVkWmJ5Tm9FTkpJenJMUnk2bnVobkxOSGFxeXc?oc=5",
-      "publishedAt": "2026-11-14T13:42:17.000Z",
-      "source": "Unmanned airspace",
-      "_feedRegion": "global",
-      "_feedName": "Google News (Global)",
-      "_scoring": {
-        "score": 65,
-        "categories": [
-          "技術・製品",
-          "市場・資金"
-        ],
-        "breakdown": {
-          "required": true,
-          "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "market": {
-            "matches": 1,
-            "catScore": 20
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 20,
-          "titleBonus": 10
         },
         "pass": true
       }
@@ -368,6 +291,42 @@
             "multiplier": 0.8
           },
           "freshness": 0,
+          "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "European Union “to provide C-UAS support to Nigeria”",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPc3dIbjFCZDJuMmU2eFFPdG1JMVJOYlNzUmUtMXFoUV9oWE5kaE10SmdrbWFzc0FfbVI3SENiSGhBbTZKUzVOWEdFbDBnUmpjYkdqaWJ5UThadG53UGFFSy1XdXdLWUNqaUxKU3dqQ0paeUVkXzl5TDhBUFd6dXZDRUJiWDQyUXZJNzZ0RE44RGUyZlhZVnZBV0dVRFZzTUVkWmJ5Tm9FTkpJenJMUnk2bnVobkxOSGFxeXc?oc=5\" target=\"_blank\">European Union “to provide C-UAS support to Nigeria”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPc3dIbjFCZDJuMmU2eFFPdG1JMVJOYlNzUmUtMXFoUV9oWE5kaE10SmdrbWFzc0FfbVI3SENiSGhBbTZKUzVOWEdFbDBnUmpjYkdqaWJ5UThadG53UGFFSy1XdXdLWUNqaUxKU3dqQ0paeUVkXzl5TDhBUFd6dXZDRUJiWDQyUXZJNzZ0RE44RGUyZlhZVnZBV0dVRFZzTUVkWmJ5Tm9FTkpJenJMUnk2bnVobkxOSGFxeXc?oc=5\" target=\"_blank\">European Union “to provide C-UAS support to Nigeria”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned airspace</font>",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPc3dIbjFCZDJuMmU2eFFPdG1JMVJOYlNzUmUtMXFoUV9oWE5kaE10SmdrbWFzc0FfbVI3SENiSGhBbTZKUzVOWEdFbDBnUmpjYkdqaWJ5UThadG53UGFFSy1XdXdLWUNqaUxKU3dqQ0paeUVkXzl5TDhBUFd6dXZDRUJiWDQyUXZJNzZ0RE44RGUyZlhZVnZBV0dVRFZzTUVkWmJ5Tm9FTkpJenJMUnk2bnVobkxOSGFxeXc?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPc3dIbjFCZDJuMmU2eFFPdG1JMVJOYlNzUmUtMXFoUV9oWE5kaE10SmdrbWFzc0FfbVI3SENiSGhBbTZKUzVOWEdFbDBnUmpjYkdqaWJ5UThadG53UGFFSy1XdXdLWUNqaUxKU3dqQ0paeUVkXzl5TDhBUFd6dXZDRUJiWDQyUXZJNzZ0RE44RGUyZlhZVnZBV0dVRFZzTUVkWmJ5Tm9FTkpJenJMUnk2bnVobkxOSGFxeXc?oc=5",
+      "publishedAt": "2026-11-14T13:42:17.000Z",
+      "source": "Unmanned airspace",
+      "_feedRegion": "global",
+      "_feedName": "Google News (Global)",
+      "_scoring": {
+        "score": 60,
+        "categories": [
+          "技術・製品",
+          "市場・資金"
+        ],
+        "breakdown": {
+          "required": true,
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "market": {
+            "matches": 1,
+            "catScore": 20
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 15,
           "titleBonus": 10
         },
         "pass": true
@@ -726,85 +685,13 @@
       }
     },
     {
-      "title": "Ondas Reports 16-Fold Revenue Growth as Defense Drone Business Expands",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBQc2tYVExyZTlPWG1OVF9FY3BxOG5OZ3M0eGdKcl9lLXJkbDk4RDZSdDBYcmJXRGRxLUtIN3JxUHpwNWVLeDZ0anpEWE43amJ2TGZVdFlRT0pJZHg1dzZPTjIzblJxREswdUZqUUFuRURqNlo1b1pKOUJpbVB0M00?oc=5\" target=\"_blank\">Ondas Reports 16-Fold Revenue Growth as Defense Drone Business Expands</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dronelife</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBQc2tYVExyZTlPWG1OVF9FY3BxOG5OZ3M0eGdKcl9lLXJkbDk4RDZSdDBYcmJXRGRxLUtIN3JxUHpwNWVLeDZ0anpEWE43amJ2TGZVdFlRT0pJZHg1dzZPTjIzblJxREswdUZqUUFuRURqNlo1b1pKOUJpbVB0M00?oc=5\" target=\"_blank\">Ondas Reports 16-Fold Revenue Growth as Defense Drone Business Expands</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dronelife</font>",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBQc2tYVExyZTlPWG1OVF9FY3BxOG5OZ3M0eGdKcl9lLXJkbDk4RDZSdDBYcmJXRGRxLUtIN3JxUHpwNWVLeDZ0anpEWE43amJ2TGZVdFlRT0pJZHg1dzZPTjIzblJxREswdUZqUUFuRURqNlo1b1pKOUJpbVB0M00?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBQc2tYVExyZTlPWG1OVF9FY3BxOG5OZ3M0eGdKcl9lLXJkbDk4RDZSdDBYcmJXRGRxLUtIN3JxUHpwNWVLeDZ0anpEWE43amJ2TGZVdFlRT0pJZHg1dzZPTjIzblJxREswdUZqUUFuRURqNlo1b1pKOUJpbVB0M00?oc=5",
-      "publishedAt": "2026-11-13T16:38:07.000Z",
-      "source": "Dronelife",
-      "_feedRegion": "global",
-      "_feedName": "Google News (Global)",
-      "_scoring": {
-        "score": 55,
-        "categories": [
-          "市場・資金",
-          "政策・インフラ"
-        ],
-        "breakdown": {
-          "required": true,
-          "market": {
-            "matches": 1,
-            "catScore": 20
-          },
-          "policy": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 10,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "Vertical Aerospace Becomes First eVTOL Developer to Achieve AS9100 Aerospace Quality Certification - News-Press NOW",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMirgJBVV95cUxNcHB0RlM0My1oczZJVUM0ajlDYTJQSXNlWVVBMnVBcko3b0tRS3l4Q3BIcEJHb2NBVWhFVjR1U1hYZktjNE02S0YydTRQSGYwYmVJYk1yc3RwR3h3NFVLSUZncmF3RnRkTmEzd3pPc1VwRDRZNEhIUGpWOEZZMUFwVUJEUzZhMHo3Y29qS1l6QVEtckN6eS1VZ3gxSzF3TVNKTjNYWjRZUkpZMFlTUEFTNWRQTE01eHBzclQ1LS1Hb2NRZzJrdjN5SjVwck9KOHcyM2xqLU1mWmVIWmpyTHdGTFozbVoyRHlJQ2hIbl9sNDFVNURFQXQxZDhETXZCYW1kM3RzMHBCNG5qTUZtVXN5bHV3cHlHZTlCM2c3blZNMzdMYVZmQXlvdjVEeTNrQQ?oc=5\" target=\"_blank\">Vertical Aerospace Becomes First eVTOL Developer to Achieve AS9100 Aerospace Quality Certification</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">News-Press NOW</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMirgJBVV95cUxNcHB0RlM0My1oczZJVUM0ajlDYTJQSXNlWVVBMnVBcko3b0tRS3l4Q3BIcEJHb2NBVWhFVjR1U1hYZktjNE02S0YydTRQSGYwYmVJYk1yc3RwR3h3NFVLSUZncmF3RnRkTmEzd3pPc1VwRDRZNEhIUGpWOEZZMUFwVUJEUzZhMHo3Y29qS1l6QVEtckN6eS1VZ3gxSzF3TVNKTjNYWjRZUkpZMFlTUEFTNWRQTE01eHBzclQ1LS1Hb2NRZzJrdjN5SjVwck9KOHcyM2xqLU1mWmVIWmpyTHdGTFozbVoyRHlJQ2hIbl9sNDFVNURFQXQxZDhETXZCYW1kM3RzMHBCNG5qTUZtVXN5bHV3cHlHZTlCM2c3blZNMzdMYVZmQXlvdjVEeTNrQQ?oc=5\" target=\"_blank\">Vertical Aerospace Becomes First eVTOL Developer to Achieve AS9100 Aerospace Quality Certification</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">News-Press NOW</font>",
-      "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNcHB0RlM0My1oczZJVUM0ajlDYTJQSXNlWVVBMnVBcko3b0tRS3l4Q3BIcEJHb2NBVWhFVjR1U1hYZktjNE02S0YydTRQSGYwYmVJYk1yc3RwR3h3NFVLSUZncmF3RnRkTmEzd3pPc1VwRDRZNEhIUGpWOEZZMUFwVUJEUzZhMHo3Y29qS1l6QVEtckN6eS1VZ3gxSzF3TVNKTjNYWjRZUkpZMFlTUEFTNWRQTE01eHBzclQ1LS1Hb2NRZzJrdjN5SjVwck9KOHcyM2xqLU1mWmVIWmpyTHdGTFozbVoyRHlJQ2hIbl9sNDFVNURFQXQxZDhETXZCYW1kM3RzMHBCNG5qTUZtVXN5bHV3cHlHZTlCM2c3blZNMzdMYVZmQXlvdjVEeTNrQQ?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNcHB0RlM0My1oczZJVUM0ajlDYTJQSXNlWVVBMnVBcko3b0tRS3l4Q3BIcEJHb2NBVWhFVjR1U1hYZktjNE02S0YydTRQSGYwYmVJYk1yc3RwR3h3NFVLSUZncmF3RnRkTmEzd3pPc1VwRDRZNEhIUGpWOEZZMUFwVUJEUzZhMHo3Y29qS1l6QVEtckN6eS1VZ3gxSzF3TVNKTjNYWjRZUkpZMFlTUEFTNWRQTE01eHBzclQ1LS1Hb2NRZzJrdjN5SjVwck9KOHcyM2xqLU1mWmVIWmpyTHdGTFozbVoyRHlJQ2hIbl9sNDFVNURFQXQxZDhETXZCYW1kM3RzMHBCNG5qTUZtVXN5bHV3cHlHZTlCM2c3blZNMzdMYVZmQXlvdjVEeTNrQQ?oc=5",
-      "publishedAt": "2026-11-12T11:56:34.000Z",
-      "source": "News-Press NOW",
-      "_feedRegion": "global",
-      "_feedName": "Google News (Global)",
-      "_scoring": {
-        "score": 54,
-        "categories": [
-          "規制・政策",
-          "市場・資金"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 1,
-            "catScore": 32
-          },
-          "market": {
-            "matches": 1,
-            "catScore": 20
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 2,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "Vertical Aerospace claims AS9100 quality certification among eVTOL firms",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOSWlsbjRyNlJmV2tLVkg2QVdCcHlUWkpiU21rckJ0dHp0NTRPSU5xV0FkNGctN1dNUk5oV1VPN2N4OVRUYWstQU5pSXZOOWxBQzN4T0tLY0dkbUZaakdUYWxFZ1ZkWERNM3dKNmd0M3pBT3RvRi1RLXNNZGdQcEp5ejNucjcxWGlZbWd5cHduQnVpMHhXTjRpVG1kZmQxSlVvbUN2QnhJQlZzTFF0NEN4cWZwV1lOeEg0VFdqVDlmc2NGYk5Gd1dDTDkxaw?oc=5\" target=\"_blank\">Vertical Aerospace claims AS9100 quality certification among eVTOL firms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">StreetInsider</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOSWlsbjRyNlJmV2tLVkg2QVdCcHlUWkpiU21rckJ0dHp0NTRPSU5xV0FkNGctN1dNUk5oV1VPN2N4OVRUYWstQU5pSXZOOWxBQzN4T0tLY0dkbUZaakdUYWxFZ1ZkWERNM3dKNmd0M3pBT3RvRi1RLXNNZGdQcEp5ejNucjcxWGlZbWd5cHduQnVpMHhXTjRpVG1kZmQxSlVvbUN2QnhJQlZzTFF0NEN4cWZwV1lOeEg0VFdqVDlmc2NGYk5Gd1dDTDkxaw?oc=5\" target=\"_blank\">Vertical Aerospace claims AS9100 quality certification among eVTOL firms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">StreetInsider</font>",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSWlsbjRyNlJmV2tLVkg2QVdCcHlUWkpiU21rckJ0dHp0NTRPSU5xV0FkNGctN1dNUk5oV1VPN2N4OVRUYWstQU5pSXZOOWxBQzN4T0tLY0dkbUZaakdUYWxFZ1ZkWERNM3dKNmd0M3pBT3RvRi1RLXNNZGdQcEp5ejNucjcxWGlZbWd5cHduQnVpMHhXTjRpVG1kZmQxSlVvbUN2QnhJQlZzTFF0NEN4cWZwV1lOeEg0VFdqVDlmc2NGYk5Gd1dDTDkxaw?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSWlsbjRyNlJmV2tLVkg2QVdCcHlUWkpiU21rckJ0dHp0NTRPSU5xV0FkNGctN1dNUk5oV1VPN2N4OVRUYWstQU5pSXZOOWxBQzN4T0tLY0dkbUZaakdUYWxFZ1ZkWERNM3dKNmd0M3pBT3RvRi1RLXNNZGdQcEp5ejNucjcxWGlZbWd5cHduQnVpMHhXTjRpVG1kZmQxSlVvbUN2QnhJQlZzTFF0NEN4cWZwV1lOeEg0VFdqVDlmc2NGYk5Gd1dDTDkxaw?oc=5",
-      "publishedAt": "2026-11-12T12:00:04.000Z",
-      "source": "StreetInsider",
+      "title": "Vertical Aerospace Becomes First eVTOL Developer to Achieve AS9100 Aerospace Quality Certification",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPNzExMGlVX3pwTFBiaHpsZ2Q1T29aUHpfLUphblhiMW1yZW1Eb0hhYVBseW1INXBqTUpWc1cweFpPRTAyV0JyQUQtQXpWMmRwSnRydF9mWHAwNG56akFMVWJHX0I1ZExfQjl2QWxiT1JaSFIzME1wRDBjX2RIS0FhcFN0YjlrdHVzZ3lJYURaY3ZDcXRTWm5YSl95T2wwY29m?oc=5\" target=\"_blank\">Vertical Aerospace Becomes First eVTOL Developer to Achieve AS9100 Aerospace Quality Certification</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPNzExMGlVX3pwTFBiaHpsZ2Q1T29aUHpfLUphblhiMW1yZW1Eb0hhYVBseW1INXBqTUpWc1cweFpPRTAyV0JyQUQtQXpWMmRwSnRydF9mWHAwNG56akFMVWJHX0I1ZExfQjl2QWxiT1JaSFIzME1wRDBjX2RIS0FhcFN0YjlrdHVzZ3lJYURaY3ZDcXRTWm5YSl95T2wwY29m?oc=5\" target=\"_blank\">Vertical Aerospace Becomes First eVTOL Developer to Achieve AS9100 Aerospace Quality Certification</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNzExMGlVX3pwTFBiaHpsZ2Q1T29aUHpfLUphblhiMW1yZW1Eb0hhYVBseW1INXBqTUpWc1cweFpPRTAyV0JyQUQtQXpWMmRwSnRydF9mWHAwNG56akFMVWJHX0I1ZExfQjl2QWxiT1JaSFIzME1wRDBjX2RIS0FhcFN0YjlrdHVzZ3lJYURaY3ZDcXRTWm5YSl95T2wwY29m?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNzExMGlVX3pwTFBiaHpsZ2Q1T29aUHpfLUphblhiMW1yZW1Eb0hhYVBseW1INXBqTUpWc1cweFpPRTAyV0JyQUQtQXpWMmRwSnRydF9mWHAwNG56akFMVWJHX0I1ZExfQjl2QWxiT1JaSFIzME1wRDBjX2RIS0FhcFN0YjlrdHVzZ3lJYURaY3ZDcXRTWm5YSl95T2wwY29m?oc=5",
+      "publishedAt": "2026-11-12T11:56:00.000Z",
+      "source": "Yahoo Finance",
       "_feedRegion": "global",
       "_feedName": "Google News (Global)",
       "_scoring": {
@@ -938,42 +825,6 @@
       }
     },
     {
-      "title": "Airborne-Innovation 11.10.26: Wisk Vertiport, NASA X-70 Fractal, Eve Air-FlyBIS - Aero-News Network",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPUUduaWRPOGZWaURjQk9ZcDg0aXE0OE1NZkY4REpGc2VHdC12cm1CTkdFdkc1TkVLN0V4cmpxTTk4LXFZTFFsZ3Z6MXBUUEZNWWdwR2J1clhIV1B4bDVmeEhTSzFpMHhtMWROMkVISm5reEdJTE9zQzA2ZVhoVWJobGNLTEtzN1JoNjdZQVNkSWFlejF3akFr?oc=5\" target=\"_blank\">Airborne-Innovation 11.10.26: Wisk Vertiport, NASA X-70 Fractal, Eve Air-FlyBIS</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aero-News Network</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPUUduaWRPOGZWaURjQk9ZcDg0aXE0OE1NZkY4REpGc2VHdC12cm1CTkdFdkc1TkVLN0V4cmpxTTk4LXFZTFFsZ3Z6MXBUUEZNWWdwR2J1clhIV1B4bDVmeEhTSzFpMHhtMWROMkVISm5reEdJTE9zQzA2ZVhoVWJobGNLTEtzN1JoNjdZQVNkSWFlejF3akFr?oc=5\" target=\"_blank\">Airborne-Innovation 11.10.26: Wisk Vertiport, NASA X-70 Fractal, Eve Air-FlyBIS</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aero-News Network</font>",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUUduaWRPOGZWaURjQk9ZcDg0aXE0OE1NZkY4REpGc2VHdC12cm1CTkdFdkc1TkVLN0V4cmpxTTk4LXFZTFFsZ3Z6MXBUUEZNWWdwR2J1clhIV1B4bDVmeEhTSzFpMHhtMWROMkVISm5reEdJTE9zQzA2ZVhoVWJobGNLTEtzN1JoNjdZQVNkSWFlejF3akFr?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUUduaWRPOGZWaURjQk9ZcDg0aXE0OE1NZkY4REpGc2VHdC12cm1CTkdFdkc1TkVLN0V4cmpxTTk4LXFZTFFsZ3Z6MXBUUEZNWWdwR2J1clhIV1B4bDVmeEhTSzFpMHhtMWROMkVISm5reEdJTE9zQzA2ZVhoVWJobGNLTEtzN1JoNjdZQVNkSWFlejF3akFr?oc=5",
-      "publishedAt": "2026-11-11T20:28:31.000Z",
-      "source": "Aero-News Network",
-      "_feedRegion": "global",
-      "_feedName": "Google News (Global)",
-      "_scoring": {
-        "score": 52,
-        "categories": [
-          "市場・資金",
-          "政策・インフラ"
-        ],
-        "breakdown": {
-          "required": true,
-          "market": {
-            "matches": 1,
-            "catScore": 20
-          },
-          "policy": {
-            "matches": 2,
-            "catScore": 30
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 2,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
       "title": "軍用ドローンに中国製チップ テック企業の経営者夫妻を国家安全法違反で起訴／台湾（中央社フォーカス台湾）",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBPMFVERlhIeFZvZXY2bUlOTm5EVVo5dG9McEM1bTNET1diZmFibzFZcXRHYTRKVXZRdERmX1ZHSlVKN1ZZQ1Y4TDJFM2V6VkVPWjBKME04N1Y0Qm1OcHU4eVFSNG1MWEwwYnVLUXJZeEZ3UU1CQkhJR3I5bmFxNEE?oc=5\" target=\"_blank\">軍用ドローンに中国製チップ テック企業の経営者夫妻を国家安全法違反で起訴／台湾（中央社フォーカス台湾）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBPMFVERlhIeFZvZXY2bUlOTm5EVVo5dG9McEM1bTNET1diZmFibzFZcXRHYTRKVXZRdERmX1ZHSlVKN1ZZQ1Y4TDJFM2V6VkVPWjBKME04N1Y0Qm1OcHU4eVFSNG1MWEwwYnVLUXJZeEZ3UU1CQkhJR3I5bmFxNEE?oc=5\" target=\"_blank\">軍用ドローンに中国製チップ テック企業の経営者夫妻を国家安全法違反で起訴／台湾（中央社フォーカス台湾）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
@@ -1069,6 +920,142 @@
           },
           "freshness": 5,
           "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "Airborne-Innovation 11.10.26: Wisk Vertiport, NASA X-70 Fractal, Eve Air-FlyBIS - Aero-News Network",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPUUduaWRPOGZWaURjQk9ZcDg0aXE0OE1NZkY4REpGc2VHdC12cm1CTkdFdkc1TkVLN0V4cmpxTTk4LXFZTFFsZ3Z6MXBUUEZNWWdwR2J1clhIV1B4bDVmeEhTSzFpMHhtMWROMkVISm5reEdJTE9zQzA2ZVhoVWJobGNLTEtzN1JoNjdZQVNkSWFlejF3akFr?oc=5\" target=\"_blank\">Airborne-Innovation 11.10.26: Wisk Vertiport, NASA X-70 Fractal, Eve Air-FlyBIS</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aero-News Network</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPUUduaWRPOGZWaURjQk9ZcDg0aXE0OE1NZkY4REpGc2VHdC12cm1CTkdFdkc1TkVLN0V4cmpxTTk4LXFZTFFsZ3Z6MXBUUEZNWWdwR2J1clhIV1B4bDVmeEhTSzFpMHhtMWROMkVISm5reEdJTE9zQzA2ZVhoVWJobGNLTEtzN1JoNjdZQVNkSWFlejF3akFr?oc=5\" target=\"_blank\">Airborne-Innovation 11.10.26: Wisk Vertiport, NASA X-70 Fractal, Eve Air-FlyBIS</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aero-News Network</font>",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUUduaWRPOGZWaURjQk9ZcDg0aXE0OE1NZkY4REpGc2VHdC12cm1CTkdFdkc1TkVLN0V4cmpxTTk4LXFZTFFsZ3Z6MXBUUEZNWWdwR2J1clhIV1B4bDVmeEhTSzFpMHhtMWROMkVISm5reEdJTE9zQzA2ZVhoVWJobGNLTEtzN1JoNjdZQVNkSWFlejF3akFr?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUUduaWRPOGZWaURjQk9ZcDg0aXE0OE1NZkY4REpGc2VHdC12cm1CTkdFdkc1TkVLN0V4cmpxTTk4LXFZTFFsZ3Z6MXBUUEZNWWdwR2J1clhIV1B4bDVmeEhTSzFpMHhtMWROMkVISm5reEdJTE9zQzA2ZVhoVWJobGNLTEtzN1JoNjdZQVNkSWFlejF3akFr?oc=5",
+      "publishedAt": "2026-11-11T20:28:31.000Z",
+      "source": "Aero-News Network",
+      "_feedRegion": "global",
+      "_feedName": "Google News (Global)",
+      "_scoring": {
+        "score": 50,
+        "categories": [
+          "市場・資金",
+          "政策・インフラ"
+        ],
+        "breakdown": {
+          "required": true,
+          "market": {
+            "matches": 1,
+            "catScore": 20
+          },
+          "policy": {
+            "matches": 2,
+            "catScore": 30
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 0,
+          "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "Ondas Reports 16-Fold Revenue Growth as Defense Drone Business Expands",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBQc2tYVExyZTlPWG1OVF9FY3BxOG5OZ3M0eGdKcl9lLXJkbDk4RDZSdDBYcmJXRGRxLUtIN3JxUHpwNWVLeDZ0anpEWE43amJ2TGZVdFlRT0pJZHg1dzZPTjIzblJxREswdUZqUUFuRURqNlo1b1pKOUJpbVB0M00?oc=5\" target=\"_blank\">Ondas Reports 16-Fold Revenue Growth as Defense Drone Business Expands</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dronelife</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBQc2tYVExyZTlPWG1OVF9FY3BxOG5OZ3M0eGdKcl9lLXJkbDk4RDZSdDBYcmJXRGRxLUtIN3JxUHpwNWVLeDZ0anpEWE43amJ2TGZVdFlRT0pJZHg1dzZPTjIzblJxREswdUZqUUFuRURqNlo1b1pKOUJpbVB0M00?oc=5\" target=\"_blank\">Ondas Reports 16-Fold Revenue Growth as Defense Drone Business Expands</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dronelife</font>",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBQc2tYVExyZTlPWG1OVF9FY3BxOG5OZ3M0eGdKcl9lLXJkbDk4RDZSdDBYcmJXRGRxLUtIN3JxUHpwNWVLeDZ0anpEWE43amJ2TGZVdFlRT0pJZHg1dzZPTjIzblJxREswdUZqUUFuRURqNlo1b1pKOUJpbVB0M00?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBQc2tYVExyZTlPWG1OVF9FY3BxOG5OZ3M0eGdKcl9lLXJkbDk4RDZSdDBYcmJXRGRxLUtIN3JxUHpwNWVLeDZ0anpEWE43amJ2TGZVdFlRT0pJZHg1dzZPTjIzblJxREswdUZqUUFuRURqNlo1b1pKOUJpbVB0M00?oc=5",
+      "publishedAt": "2026-11-13T16:38:07.000Z",
+      "source": "Dronelife",
+      "_feedRegion": "global",
+      "_feedName": "Google News (Global)",
+      "_scoring": {
+        "score": 50,
+        "categories": [
+          "市場・資金",
+          "政策・インフラ"
+        ],
+        "breakdown": {
+          "required": true,
+          "market": {
+            "matches": 1,
+            "catScore": 20
+          },
+          "policy": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 5,
+          "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "ロシアが簡素な迎撃ドローン「ソーコル-I」を投入 戦場に適応した低コスト・量産型か",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE9lOXFXaVZNcko4Q3VyekdkYjI3b1hxOHlldW84bkxzUGc4OWwyelEtb2ZsdUcxRXBWS0ppMlVkaVZXZHdVa2NtLV8zLXdUelE2RGVjWjRmQTVGQQ?oc=5\" target=\"_blank\">ロシアが簡素な迎撃ドローン「ソーコル-I」を投入 戦場に適応した低コスト・量産型か</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes JAPAN</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE9lOXFXaVZNcko4Q3VyekdkYjI3b1hxOHlldW84bkxzUGc4OWwyelEtb2ZsdUcxRXBWS0ppMlVkaVZXZHdVa2NtLV8zLXdUelE2RGVjWjRmQTVGQQ?oc=5\" target=\"_blank\">ロシアが簡素な迎撃ドローン「ソーコル-I」を投入 戦場に適応した低コスト・量産型か</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes JAPAN</font>",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9lOXFXaVZNcko4Q3VyekdkYjI3b1hxOHlldW84bkxzUGc4OWwyelEtb2ZsdUcxRXBWS0ppMlVkaVZXZHdVa2NtLV8zLXdUelE2RGVjWjRmQTVGQQ?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9lOXFXaVZNcko4Q3VyekdkYjI3b1hxOHlldW84bkxzUGc4OWwyelEtb2ZsdUcxRXBWS0ppMlVkaVZXZHdVa2NtLV8zLXdUelE2RGVjWjRmQTVGQQ?oc=5",
+      "publishedAt": "2026-11-12T23:30:00.000Z",
+      "source": "Forbes JAPAN",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP)",
+      "_scoring": {
+        "score": 49,
+        "categories": [
+          "技術・製品"
+        ],
+        "breakdown": {
+          "required": true,
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 5,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "NSi真岡、茂木でドローン遠隔運用を実演",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiSkFVX3lxTFBSdHhSUS1wTEdOdGtRdENiVFlEMDBpWkQ4ZWxMbFNCTjRURF9qVHVUamhUeU1qWWpiaWZCZVh1VXRHaHdoSDNyWVBB?oc=5\" target=\"_blank\">NSi真岡、茂木でドローン遠隔運用を実演</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LOGISTICS TODAY</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiSkFVX3lxTFBSdHhSUS1wTEdOdGtRdENiVFlEMDBpWkQ4ZWxMbFNCTjRURF9qVHVUamhUeU1qWWpiaWZCZVh1VXRHaHdoSDNyWVBB?oc=5\" target=\"_blank\">NSi真岡、茂木でドローン遠隔運用を実演</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LOGISTICS TODAY</font>",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBSdHhSUS1wTEdOdGtRdENiVFlEMDBpWkQ4ZWxMbFNCTjRURF9qVHVUamhUeU1qWWpiaWZCZVh1VXRHaHdoSDNyWVBB?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBSdHhSUS1wTEdOdGtRdENiVFlEMDBpWkQ4ZWxMbFNCTjRURF9qVHVUamhUeU1qWWpiaWZCZVh1VXRHaHdoSDNyWVBB?oc=5",
+      "publishedAt": "2026-11-13T06:10:24.000Z",
+      "source": "LOGISTICS TODAY",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP)",
+      "_scoring": {
+        "score": 49,
+        "categories": [
+          "政策・インフラ"
+        ],
+        "breakdown": {
+          "required": true,
+          "policy": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 5,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
         },
         "pass": true
       }
