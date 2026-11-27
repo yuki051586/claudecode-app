@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-27T07:40:14.111Z",
-  "rawCount": 696,
+  "generatedAt": "2026-11-27T17:58:07.751Z",
+  "rawCount": 653,
   "articles": [
     {
       "title": "Amazon delivery drone crashes into Huntington Woods garage, FAA investigating",
@@ -13,7 +13,7 @@
       "_feedRegion": "us",
       "_feedName": "FAA",
       "_scoring": {
-        "score": 101,
+        "score": 98,
         "categories": [
           "規制・政策",
           "技術・製品",
@@ -42,7 +42,48 @@
             "domain": "news.google.com",
             "multiplier": 0.8
           },
-          "freshness": 5,
+          "freshness": 2,
+          "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "Shampoo Delivery Ends With an Amazon Drone Crashing Into a Neighbor’s Garage—and an FAA Probe",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxONi02aVVYY002N1RRTk9PTExxdzk4Yk5BU2lEYTlYYWxEd0ZsRUtsemRxajNLRVhCa09ORmxKZkFhWjJRY3dfaHZmdHFDekdtTWJCNFppX2hKRjNGY1lDcHBPRGN0YU1oa3F1WHRBSXl1MjBveHh1VGdQMTNNeXRkNDFNRWhUbzRyS2oyU2R2a2NGT0RlRHBRcHNVQXZTVkphX3YxVy1BcGRuVHNTdFI5Y1VMS2ptVXp4QUN4dlRvZw?oc=5\" target=\"_blank\">Shampoo Delivery Ends With an Amazon Drone Crashing Into a Neighbor’s Garage—and an FAA Probe</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MotorBiscuit</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxONi02aVVYY002N1RRTk9PTExxdzk4Yk5BU2lEYTlYYWxEd0ZsRUtsemRxajNLRVhCa09ORmxKZkFhWjJRY3dfaHZmdHFDekdtTWJCNFppX2hKRjNGY1lDcHBPRGN0YU1oa3F1WHRBSXl1MjBveHh1VGdQMTNNeXRkNDFNRWhUbzRyS2oyU2R2a2NGT0RlRHBRcHNVQXZTVkphX3YxVy1BcGRuVHNTdFI5Y1VMS2ptVXp4QUN4dlRvZw?oc=5\" target=\"_blank\">Shampoo Delivery Ends With an Amazon Drone Crashing Into a Neighbor’s Garage—and an FAA Probe</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MotorBiscuit</font>",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONi02aVVYY002N1RRTk9PTExxdzk4Yk5BU2lEYTlYYWxEd0ZsRUtsemRxajNLRVhCa09ORmxKZkFhWjJRY3dfaHZmdHFDekdtTWJCNFppX2hKRjNGY1lDcHBPRGN0YU1oa3F1WHRBSXl1MjBveHh1VGdQMTNNeXRkNDFNRWhUbzRyS2oyU2R2a2NGT0RlRHBRcHNVQXZTVkphX3YxVy1BcGRuVHNTdFI5Y1VMS2ptVXp4QUN4dlRvZw?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONi02aVVYY002N1RRTk9PTExxdzk4Yk5BU2lEYTlYYWxEd0ZsRUtsemRxajNLRVhCa09ORmxKZkFhWjJRY3dfaHZmdHFDekdtTWJCNFppX2hKRjNGY1lDcHBPRGN0YU1oa3F1WHRBSXl1MjBveHh1VGdQMTNNeXRkNDFNRWhUbzRyS2oyU2R2a2NGT0RlRHBRcHNVQXZTVkphX3YxVy1BcGRuVHNTdFI5Y1VMS2ptVXp4QUN4dlRvZw?oc=5",
+      "publishedAt": "2026-11-27T14:31:10.000Z",
+      "source": "MotorBiscuit",
+      "_feedRegion": "us",
+      "_feedName": "FAA",
+      "_scoring": {
+        "score": 92,
+        "categories": [
+          "規制・政策",
+          "事故・事件",
+          "政策・インフラ"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
+          "incident": {
+            "matches": 1,
+            "catScore": 28
+          },
+          "policy": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 15,
           "titleBonus": 10
         },
         "pass": true
@@ -84,47 +125,6 @@
             "multiplier": 0.8
           },
           "freshness": 5,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "FAA Posts Draft AC 150/5390-4 Vertiport Design Standard; Comments Open Until January 11, 2027 - Avi-Go",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE54c20wUjNMR2dkMGM0V0E2eWRLTDFwYWZ0aG4yaC16MXlRNE94MzJUS1BCSUVCZXBzSGFUV3cycUhIODhOTDdPdEJEc2FkcC0tWXptd2I1RnN1bTloRldVQ1NRek56TDkxamRKZHVDQk5PN2c?oc=5\" target=\"_blank\">FAA Posts Draft AC 150/5390-4 Vertiport Design Standard; Comments Open Until January 11, 2027</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Avi-Go</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE54c20wUjNMR2dkMGM0V0E2eWRLTDFwYWZ0aG4yaC16MXlRNE94MzJUS1BCSUVCZXBzSGFUV3cycUhIODhOTDdPdEJEc2FkcC0tWXptd2I1RnN1bTloRldVQ1NRek56TDkxamRKZHVDQk5PN2c?oc=5\" target=\"_blank\">FAA Posts Draft AC 150/5390-4 Vertiport Design Standard; Comments Open Until January 11, 2027</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Avi-Go</font>",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE54c20wUjNMR2dkMGM0V0E2eWRLTDFwYWZ0aG4yaC16MXlRNE94MzJUS1BCSUVCZXBzSGFUV3cycUhIODhOTDdPdEJEc2FkcC0tWXptd2I1RnN1bTloRldVQ1NRek56TDkxamRKZHVDQk5PN2c?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE54c20wUjNMR2dkMGM0V0E2eWRLTDFwYWZ0aG4yaC16MXlRNE94MzJUS1BCSUVCZXBzSGFUV3cycUhIODhOTDdPdEJEc2FkcC0tWXptd2I1RnN1bTloRldVQ1NRek56TDkxamRKZHVDQk5PN2c?oc=5",
-      "publishedAt": "2026-11-26T22:42:13.000Z",
-      "source": "Avi-Go",
-      "_feedRegion": "global",
-      "_feedName": "Google News (Global)",
-      "_scoring": {
-        "score": 86,
-        "categories": [
-          "規制・政策",
-          "市場・資金",
-          "政策・インフラ"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 1,
-            "catScore": 32
-          },
-          "market": {
-            "matches": 1,
-            "catScore": 20
-          },
-          "policy": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 15,
           "titleBonus": 10
         },
         "pass": true
@@ -213,6 +213,47 @@
       }
     },
     {
+      "title": "FAA Posts Draft AC 150/5390-4 Vertiport Design Standard; Comments Open Until January 11, 2027 - Avi-Go",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE54c20wUjNMR2dkMGM0V0E2eWRLTDFwYWZ0aG4yaC16MXlRNE94MzJUS1BCSUVCZXBzSGFUV3cycUhIODhOTDdPdEJEc2FkcC0tWXptd2I1RnN1bTloRldVQ1NRek56TDkxamRKZHVDQk5PN2c?oc=5\" target=\"_blank\">FAA Posts Draft AC 150/5390-4 Vertiport Design Standard; Comments Open Until January 11, 2027</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Avi-Go</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE54c20wUjNMR2dkMGM0V0E2eWRLTDFwYWZ0aG4yaC16MXlRNE94MzJUS1BCSUVCZXBzSGFUV3cycUhIODhOTDdPdEJEc2FkcC0tWXptd2I1RnN1bTloRldVQ1NRek56TDkxamRKZHVDQk5PN2c?oc=5\" target=\"_blank\">FAA Posts Draft AC 150/5390-4 Vertiport Design Standard; Comments Open Until January 11, 2027</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Avi-Go</font>",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE54c20wUjNMR2dkMGM0V0E2eWRLTDFwYWZ0aG4yaC16MXlRNE94MzJUS1BCSUVCZXBzSGFUV3cycUhIODhOTDdPdEJEc2FkcC0tWXptd2I1RnN1bTloRldVQ1NRek56TDkxamRKZHVDQk5PN2c?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE54c20wUjNMR2dkMGM0V0E2eWRLTDFwYWZ0aG4yaC16MXlRNE94MzJUS1BCSUVCZXBzSGFUV3cycUhIODhOTDdPdEJEc2FkcC0tWXptd2I1RnN1bTloRldVQ1NRek56TDkxamRKZHVDQk5PN2c?oc=5",
+      "publishedAt": "2026-11-26T22:42:13.000Z",
+      "source": "Avi-Go",
+      "_feedRegion": "global",
+      "_feedName": "Google News (Global)",
+      "_scoring": {
+        "score": 81,
+        "categories": [
+          "規制・政策",
+          "市場・資金",
+          "政策・インフラ"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
+          "market": {
+            "matches": 1,
+            "catScore": 20
+          },
+          "policy": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 10,
+          "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
       "title": "FAA Investigates Amazon Drone Crash That Hits Cable and Crashes Into Garage After Shampoo Delivery",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOQWlTYkpnZ3pEMk00eVZvV1JHY25vVXZWbEF5QW1SeDdqRU8xT0didlJaR3cxSkhQaGw5RV81Q1ZVQnlMOEF4bmFSVUZmZFZ6eVBoc3dMNUI0V3BBS1Vvb010U0tkRk9pWEhvUEh4RExYNWgyMEV5YXVHOUVCYTNSTktTNXQ3UE1CbXhzNWtZeXo?oc=5\" target=\"_blank\">FAA Investigates Amazon Drone Crash That Hits Cable and Crashes Into Garage After Shampoo Delivery</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">www.techtimes.co.uk</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOQWlTYkpnZ3pEMk00eVZvV1JHY25vVXZWbEF5QW1SeDdqRU8xT0didlJaR3cxSkhQaGw5RV81Q1ZVQnlMOEF4bmFSVUZmZFZ6eVBoc3dMNUI0V3BBS1Vvb010U0tkRk9pWEhvUEh4RExYNWgyMEV5YXVHOUVCYTNSTktTNXQ3UE1CbXhzNWtZeXo?oc=5\" target=\"_blank\">FAA Investigates Amazon Drone Crash That Hits Cable and Crashes Into Garage After Shampoo Delivery</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">www.techtimes.co.uk</font>",
@@ -223,7 +264,7 @@
       "_feedRegion": "us",
       "_feedName": "FAA",
       "_scoring": {
-        "score": 82,
+        "score": 79,
         "categories": [
           "規制・政策",
           "事故・事件",
@@ -247,7 +288,7 @@
             "domain": "news.google.com",
             "multiplier": 0.8
           },
-          "freshness": 5,
+          "freshness": 2,
           "titleBonus": 10
         },
         "pass": true
@@ -264,7 +305,7 @@
       "_feedRegion": "us",
       "_feedName": "FAA",
       "_scoring": {
-        "score": 79,
+        "score": 77,
         "categories": [
           "規制・政策",
           "事故・事件",
@@ -288,7 +329,7 @@
             "domain": "news.google.com",
             "multiplier": 0.8
           },
-          "freshness": 2,
+          "freshness": 0,
           "titleBonus": 10
         },
         "pass": true
@@ -305,7 +346,7 @@
       "_feedRegion": "us",
       "_feedName": "FAA",
       "_scoring": {
-        "score": 79,
+        "score": 77,
         "categories": [
           "規制・政策",
           "事故・事件",
@@ -329,7 +370,48 @@
             "domain": "news.google.com",
             "multiplier": 0.8
           },
-          "freshness": 2,
+          "freshness": 0,
+          "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "FAA probes Amazon delivery drone crash in Michigan near Detroit (AMZN:NASDAQ)",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOeFVtMWpScDBVZnhzMnVXQWNmcmlWRGtSSUVIeWhvRXloUGVSdE1vSE9lTUNlbVBJR1JtYjhPaVRSeHNOV093NDg0aF9vQ3lPTTdFYmpidm5zbURJNmtFNUJFN1ZISllDeFFBemQ3ZXhDQUhsTFdNYXo5aE9ONTVOVV8zT1M3OHhNZXd5Mm1qRG8xajNPbHNjRGRGVHNmbnFnX0F3?oc=5\" target=\"_blank\">FAA probes Amazon delivery drone crash in Michigan near Detroit (AMZN:NASDAQ)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOeFVtMWpScDBVZnhzMnVXQWNmcmlWRGtSSUVIeWhvRXloUGVSdE1vSE9lTUNlbVBJR1JtYjhPaVRSeHNOV093NDg0aF9vQ3lPTTdFYmpidm5zbURJNmtFNUJFN1ZISllDeFFBemQ3ZXhDQUhsTFdNYXo5aE9ONTVOVV8zT1M3OHhNZXd5Mm1qRG8xajNPbHNjRGRGVHNmbnFnX0F3?oc=5\" target=\"_blank\">FAA probes Amazon delivery drone crash in Michigan near Detroit (AMZN:NASDAQ)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeFVtMWpScDBVZnhzMnVXQWNmcmlWRGtSSUVIeWhvRXloUGVSdE1vSE9lTUNlbVBJR1JtYjhPaVRSeHNOV093NDg0aF9vQ3lPTTdFYmpidm5zbURJNmtFNUJFN1ZISllDeFFBemQ3ZXhDQUhsTFdNYXo5aE9ONTVOVV8zT1M3OHhNZXd5Mm1qRG8xajNPbHNjRGRGVHNmbnFnX0F3?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeFVtMWpScDBVZnhzMnVXQWNmcmlWRGtSSUVIeWhvRXloUGVSdE1vSE9lTUNlbVBJR1JtYjhPaVRSeHNOV093NDg0aF9vQ3lPTTdFYmpidm5zbURJNmtFNUJFN1ZISllDeFFBemQ3ZXhDQUhsTFdNYXo5aE9ONTVOVV8zT1M3OHhNZXd5Mm1qRG8xajNPbHNjRGRGVHNmbnFnX0F3?oc=5",
+      "publishedAt": "2026-11-24T05:50:36.000Z",
+      "source": "Seeking Alpha",
+      "_feedRegion": "us",
+      "_feedName": "FAA",
+      "_scoring": {
+        "score": 77,
+        "categories": [
+          "規制・政策",
+          "事故・事件",
+          "政策・インフラ"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
+          "incident": {
+            "matches": 1,
+            "catScore": 28
+          },
+          "policy": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 0,
           "titleBonus": 10
         },
         "pass": true
@@ -346,7 +428,7 @@
       "_feedRegion": "us",
       "_feedName": "FAA",
       "_scoring": {
-        "score": 79,
+        "score": 77,
         "categories": [
           "規制・政策",
           "事故・事件",
@@ -370,7 +452,89 @@
             "domain": "news.google.com",
             "multiplier": 0.8
           },
-          "freshness": 2,
+          "freshness": 0,
+          "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "FAA Advances AAM Integration With eIPP Demonstration Flights, Certification Steps, New Primer and Draft Vertiport Circular - Avi-Go",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE1Lb3ViMWd3Y3ZXTDNEOG1IWEtwLTh3MVh5YV9SQklFRlFpWm5qemlERXBKdVhsSVp1cjEtbEhyR2dMUG1CSUc0blhXNUJRSW1GR3Itc2pDUkhwV19lUEptOWVETFNvczNOdWtORWkxYzJJdjA?oc=5\" target=\"_blank\">FAA Advances AAM Integration With eIPP Demonstration Flights, Certification Steps, New Primer and Draft Vertiport Circular</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Avi-Go</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE1Lb3ViMWd3Y3ZXTDNEOG1IWEtwLTh3MVh5YV9SQklFRlFpWm5qemlERXBKdVhsSVp1cjEtbEhyR2dMUG1CSUc0blhXNUJRSW1GR3Itc2pDUkhwV19lUEptOWVETFNvczNOdWtORWkxYzJJdjA?oc=5\" target=\"_blank\">FAA Advances AAM Integration With eIPP Demonstration Flights, Certification Steps, New Primer and Draft Vertiport Circular</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Avi-Go</font>",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1Lb3ViMWd3Y3ZXTDNEOG1IWEtwLTh3MVh5YV9SQklFRlFpWm5qemlERXBKdVhsSVp1cjEtbEhyR2dMUG1CSUc0blhXNUJRSW1GR3Itc2pDUkhwV19lUEptOWVETFNvczNOdWtORWkxYzJJdjA?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1Lb3ViMWd3Y3ZXTDNEOG1IWEtwLTh3MVh5YV9SQklFRlFpWm5qemlERXBKdVhsSVp1cjEtbEhyR2dMUG1CSUc0blhXNUJRSW1GR3Itc2pDUkhwV19lUEptOWVETFNvczNOdWtORWkxYzJJdjA?oc=5",
+      "publishedAt": "2026-11-20T10:50:04.000Z",
+      "source": "Avi-Go",
+      "_feedRegion": "us",
+      "_feedName": "FAA",
+      "_scoring": {
+        "score": 77,
+        "categories": [
+          "規制・政策",
+          "市場・資金",
+          "政策・インフラ"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 2,
+            "catScore": 40
+          },
+          "market": {
+            "matches": 1,
+            "catScore": 20
+          },
+          "policy": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 0,
+          "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "U.S. Transportation Secretary Duffy Flies Jetson ONE Personal eVTOL at NASA's Kennedy Space Center; Aircraft Stays Under FAA Part 103 Ultralight Rule - Avi-Go",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE0wQlJ4NlFydjRfQmdWaDhFWXFtaEY0QXQtaUZwR0dkQk1OdGlSR05aUUNFQ255WjlnemE0QWRzcnNsZG1kN1F5b3VqWnQyR0FVcDNSaE5fWUdYQ05Vd1lrQlE5cVJJWVRqTE0xZkRfNFFhaTA?oc=5\" target=\"_blank\">U.S. Transportation Secretary Duffy Flies Jetson ONE Personal eVTOL at NASA's Kennedy Space Center; Aircraft Stays Under FAA Part 103 Ultralight Rule</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Avi-Go</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE0wQlJ4NlFydjRfQmdWaDhFWXFtaEY0QXQtaUZwR0dkQk1OdGlSR05aUUNFQ255WjlnemE0QWRzcnNsZG1kN1F5b3VqWnQyR0FVcDNSaE5fWUdYQ05Vd1lrQlE5cVJJWVRqTE0xZkRfNFFhaTA?oc=5\" target=\"_blank\">U.S. Transportation Secretary Duffy Flies Jetson ONE Personal eVTOL at NASA's Kennedy Space Center; Aircraft Stays Under FAA Part 103 Ultralight Rule</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Avi-Go</font>",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0wQlJ4NlFydjRfQmdWaDhFWXFtaEY0QXQtaUZwR0dkQk1OdGlSR05aUUNFQ255WjlnemE0QWRzcnNsZG1kN1F5b3VqWnQyR0FVcDNSaE5fWUdYQ05Vd1lrQlE5cVJJWVRqTE0xZkRfNFFhaTA?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0wQlJ4NlFydjRfQmdWaDhFWXFtaEY0QXQtaUZwR0dkQk1OdGlSR05aUUNFQ255WjlnemE0QWRzcnNsZG1kN1F5b3VqWnQyR0FVcDNSaE5fWUdYQ05Vd1lrQlE5cVJJWVRqTE0xZkRfNFFhaTA?oc=5",
+      "publishedAt": "2026-11-17T08:00:00.000Z",
+      "source": "Avi-Go",
+      "_feedRegion": "us",
+      "_feedName": "FAA",
+      "_scoring": {
+        "score": 77,
+        "categories": [
+          "規制・政策",
+          "市場・資金",
+          "政策・インフラ"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 2,
+            "catScore": 40
+          },
+          "market": {
+            "matches": 1,
+            "catScore": 20
+          },
+          "policy": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 0,
           "titleBonus": 10
         },
         "pass": true
@@ -384,120 +548,6 @@
       "googleNewsUrl": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWEt5bUVrQnJweDJ5VWtEZE82cHdjeFRzaGRtTW9DLXBiUmJtTndPbXRfdUVaRUc1dWozWlhEWG1WdjJ3N2t0YzBkVkdqMW9oSF94QWY2Q2JwUXREUHVBVVdkYWowMHo4bXByMFFxVm5KTEZwWmxScHJzekR3OHpGUA?oc=5",
       "publishedAt": "2026-11-24T12:33:42.000Z",
       "source": "Quartz",
-      "_feedRegion": "us",
-      "_feedName": "FAA",
-      "_scoring": {
-        "score": 79,
-        "categories": [
-          "規制・政策",
-          "事故・事件",
-          "政策・インフラ"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 1,
-            "catScore": 32
-          },
-          "incident": {
-            "matches": 1,
-            "catScore": 28
-          },
-          "policy": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 2,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "空飛ぶクルマ「SKYDRIVE」を開発する株式会社SkyDriveがGMOインターネットグループから資金調達を実施",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTFBSMGVkRDNVV2JPaXpHTGRqaDBVbnJZaDlmNWI4UlFOUm1VZW9kb0cza1pGTlBvLW1GZVlfSVJqMlY0Wk1WLXFQSUtjdzd3ZzQ?oc=5\" target=\"_blank\">空飛ぶクルマ「SKYDRIVE」を開発する株式会社SkyDriveがGMOインターネットグループから資金調達を実施</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">STARTUP LOG</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTFBSMGVkRDNVV2JPaXpHTGRqaDBVbnJZaDlmNWI4UlFOUm1VZW9kb0cza1pGTlBvLW1GZVlfSVJqMlY0Wk1WLXFQSUtjdzd3ZzQ?oc=5\" target=\"_blank\">空飛ぶクルマ「SKYDRIVE」を開発する株式会社SkyDriveがGMOインターネットグループから資金調達を実施</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">STARTUP LOG</font>",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBSMGVkRDNVV2JPaXpHTGRqaDBVbnJZaDlmNWI4UlFOUm1VZW9kb0cza1pGTlBvLW1GZVlfSVJqMlY0Wk1WLXFQSUtjdzd3ZzQ?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBSMGVkRDNVV2JPaXpHTGRqaDBVbnJZaDlmNWI4UlFOUm1VZW9kb0cza1pGTlBvLW1GZVlfSVJqMlY0Wk1WLXFQSUtjdzd3ZzQ?oc=5",
-      "publishedAt": "2026-11-27T00:24:47.000Z",
-      "source": "STARTUP LOG",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP 事業者/実装)",
-      "_scoring": {
-        "score": 79,
-        "categories": [
-          "技術・製品",
-          "市場・資金"
-        ],
-        "breakdown": {
-          "required": true,
-          "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "market": {
-            "matches": 2,
-            "catScore": 25
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 15,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "FAA investigating Amazon drone crash in Michigan, explained",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxQSzZqMGNnSzdILW5QaWtEYmVfNVJVeEhUMnlMeGE4am9SUm1WbUt1bEwxU2I3Tk5RbFI0eVhXTThOU01sODIwZUtabDAtMXN2LVFGVmpMdm5fWVhwSFd5VC1GR3NrUWxBekM1MHhUX3JTM0F0SkZmX1ZCVDNOZ0tTZldnUlFmNUR2X0JhWU1wb2lZN0ZBLXhicmZfM0JfeEVldkJHaWIxWjhHOW1XSV9mTjRKT1FZci1oTVlMZVhLTTZHeU4xTG9hV0FySG1lak55aE1jaEtlMmtaeVdwWmpya042dG5sdVdiVDVGSA?oc=5\" target=\"_blank\">FAA investigating Amazon drone crash in Michigan, explained</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Mary Sue</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxQSzZqMGNnSzdILW5QaWtEYmVfNVJVeEhUMnlMeGE4am9SUm1WbUt1bEwxU2I3Tk5RbFI0eVhXTThOU01sODIwZUtabDAtMXN2LVFGVmpMdm5fWVhwSFd5VC1GR3NrUWxBekM1MHhUX3JTM0F0SkZmX1ZCVDNOZ0tTZldnUlFmNUR2X0JhWU1wb2lZN0ZBLXhicmZfM0JfeEVldkJHaWIxWjhHOW1XSV9mTjRKT1FZci1oTVlMZVhLTTZHeU4xTG9hV0FySG1lak55aE1jaEtlMmtaeVdwWmpya042dG5sdVdiVDVGSA?oc=5\" target=\"_blank\">FAA investigating Amazon drone crash in Michigan, explained</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Mary Sue</font>",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQSzZqMGNnSzdILW5QaWtEYmVfNVJVeEhUMnlMeGE4am9SUm1WbUt1bEwxU2I3Tk5RbFI0eVhXTThOU01sODIwZUtabDAtMXN2LVFGVmpMdm5fWVhwSFd5VC1GR3NrUWxBekM1MHhUX3JTM0F0SkZmX1ZCVDNOZ0tTZldnUlFmNUR2X0JhWU1wb2lZN0ZBLXhicmZfM0JfeEVldkJHaWIxWjhHOW1XSV9mTjRKT1FZci1oTVlMZVhLTTZHeU4xTG9hV0FySG1lak55aE1jaEtlMmtaeVdwWmpya042dG5sdVdiVDVGSA?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQSzZqMGNnSzdILW5QaWtEYmVfNVJVeEhUMnlMeGE4am9SUm1WbUt1bEwxU2I3Tk5RbFI0eVhXTThOU01sODIwZUtabDAtMXN2LVFGVmpMdm5fWVhwSFd5VC1GR3NrUWxBekM1MHhUX3JTM0F0SkZmX1ZCVDNOZ0tTZldnUlFmNUR2X0JhWU1wb2lZN0ZBLXhicmZfM0JfeEVldkJHaWIxWjhHOW1XSV9mTjRKT1FZci1oTVlMZVhLTTZHeU4xTG9hV0FySG1lak55aE1jaEtlMmtaeVdwWmpya042dG5sdVdiVDVGSA?oc=5",
-      "publishedAt": "2026-11-27T07:15:00.000Z",
-      "source": "The Mary Sue",
-      "_feedRegion": "us",
-      "_feedName": "FAA",
-      "_scoring": {
-        "score": 78,
-        "categories": [
-          "規制・政策",
-          "事故・事件"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 1,
-            "catScore": 32
-          },
-          "incident": {
-            "matches": 1,
-            "catScore": 28
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 20,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "FAA probes Amazon delivery drone crash in Michigan near Detroit (AMZN:NASDAQ)",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOeFVtMWpScDBVZnhzMnVXQWNmcmlWRGtSSUVIeWhvRXloUGVSdE1vSE9lTUNlbVBJR1JtYjhPaVRSeHNOV093NDg0aF9vQ3lPTTdFYmpidm5zbURJNmtFNUJFN1ZISllDeFFBemQ3ZXhDQUhsTFdNYXo5aE9ONTVOVV8zT1M3OHhNZXd5Mm1qRG8xajNPbHNjRGRGVHNmbnFnX0F3?oc=5\" target=\"_blank\">FAA probes Amazon delivery drone crash in Michigan near Detroit (AMZN:NASDAQ)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOeFVtMWpScDBVZnhzMnVXQWNmcmlWRGtSSUVIeWhvRXloUGVSdE1vSE9lTUNlbVBJR1JtYjhPaVRSeHNOV093NDg0aF9vQ3lPTTdFYmpidm5zbURJNmtFNUJFN1ZISllDeFFBemQ3ZXhDQUhsTFdNYXo5aE9ONTVOVV8zT1M3OHhNZXd5Mm1qRG8xajNPbHNjRGRGVHNmbnFnX0F3?oc=5\" target=\"_blank\">FAA probes Amazon delivery drone crash in Michigan near Detroit (AMZN:NASDAQ)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeFVtMWpScDBVZnhzMnVXQWNmcmlWRGtSSUVIeWhvRXloUGVSdE1vSE9lTUNlbVBJR1JtYjhPaVRSeHNOV093NDg0aF9vQ3lPTTdFYmpidm5zbURJNmtFNUJFN1ZISllDeFFBemQ3ZXhDQUhsTFdNYXo5aE9ONTVOVV8zT1M3OHhNZXd5Mm1qRG8xajNPbHNjRGRGVHNmbnFnX0F3?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeFVtMWpScDBVZnhzMnVXQWNmcmlWRGtSSUVIeWhvRXloUGVSdE1vSE9lTUNlbVBJR1JtYjhPaVRSeHNOV093NDg0aF9vQ3lPTTdFYmpidm5zbURJNmtFNUJFN1ZISllDeFFBemQ3ZXhDQUhsTFdNYXo5aE9ONTVOVV8zT1M3OHhNZXd5Mm1qRG8xajNPbHNjRGRGVHNmbnFnX0F3?oc=5",
-      "publishedAt": "2026-11-24T05:50:36.000Z",
-      "source": "Seeking Alpha",
       "_feedRegion": "us",
       "_feedName": "FAA",
       "_scoring": {
@@ -573,6 +623,47 @@
       }
     },
     {
+      "title": "FAA investigating Amazon delivery drone crash into garage",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNRHBLczVtZExCbFl3dUhLZjBGOFNjUFlCYjNTaDNtYUpPdmxncnEtX3BRSlBuQWU1LUhSaHYxdEpNRVlmbG1RemhoYXQxNF9rR1dBZTRxQ3JrN25idm5heXE3UWZaTlptbzBCLUVVUkJtb2dsMGk0YzBHMmRoeDY3QnpRTVlkdHJVLUZvTGxyb2d5V3ZtLUZGNk1qTHlzNG9TR0RfU1o3am40SGotZU9vag?oc=5\" target=\"_blank\">FAA investigating Amazon delivery drone crash into garage</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KVUE</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNRHBLczVtZExCbFl3dUhLZjBGOFNjUFlCYjNTaDNtYUpPdmxncnEtX3BRSlBuQWU1LUhSaHYxdEpNRVlmbG1RemhoYXQxNF9rR1dBZTRxQ3JrN25idm5heXE3UWZaTlptbzBCLUVVUkJtb2dsMGk0YzBHMmRoeDY3QnpRTVlkdHJVLUZvTGxyb2d5V3ZtLUZGNk1qTHlzNG9TR0RfU1o3am40SGotZU9vag?oc=5\" target=\"_blank\">FAA investigating Amazon delivery drone crash into garage</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KVUE</font>",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRHBLczVtZExCbFl3dUhLZjBGOFNjUFlCYjNTaDNtYUpPdmxncnEtX3BRSlBuQWU1LUhSaHYxdEpNRVlmbG1RemhoYXQxNF9rR1dBZTRxQ3JrN25idm5heXE3UWZaTlptbzBCLUVVUkJtb2dsMGk0YzBHMmRoeDY3QnpRTVlkdHJVLUZvTGxyb2d5V3ZtLUZGNk1qTHlzNG9TR0RfU1o3am40SGotZU9vag?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRHBLczVtZExCbFl3dUhLZjBGOFNjUFlCYjNTaDNtYUpPdmxncnEtX3BRSlBuQWU1LUhSaHYxdEpNRVlmbG1RemhoYXQxNF9rR1dBZTRxQ3JrN25idm5heXE3UWZaTlptbzBCLUVVUkJtb2dsMGk0YzBHMmRoeDY3QnpRTVlkdHJVLUZvTGxyb2d5V3ZtLUZGNk1qTHlzNG9TR0RfU1o3am40SGotZU9vag?oc=5",
+      "publishedAt": "2026-11-24T17:56:56.000Z",
+      "source": "KVUE",
+      "_feedRegion": "us",
+      "_feedName": "FAA",
+      "_scoring": {
+        "score": 77,
+        "categories": [
+          "規制・政策",
+          "事故・事件",
+          "政策・インフラ"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
+          "incident": {
+            "matches": 1,
+            "catScore": 28
+          },
+          "policy": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 0,
+          "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
       "title": "FAA Investigates Amazon (AMZN) Drone Crash in Michigan Amid Ongoing Delivery Innovations",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOXp6el9VVk1UaGNCV014aDdXNFVtbEpjNG5ZOHh2cnhDc29pWDR0TFdnYW94NEwyVjZ1di1BYjF5ZXg5NjhkMjBGVHYyQWN5b0NDVWFQY3FGbFRxVEdHSDJDcnB6cVNWOTY3b0hwUkdjMWE1Y1d3YzVDYVVPVmgtdzBYV1ZSUnZweUdTRnJKNFV1blg1Y285YTRYWlhWZlpxWkJ1SHREMGpzUEZaRlBKQ2pZY2VYZmlOZUlUelFMODFSQXM?oc=5\" target=\"_blank\">FAA Investigates Amazon (AMZN) Drone Crash in Michigan Amid Ongoing Delivery Innovations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GuruFocus</font>",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOXp6el9VVk1UaGNCV014aDdXNFVtbEpjNG5ZOHh2cnhDc29pWDR0TFdnYW94NEwyVjZ1di1BYjF5ZXg5NjhkMjBGVHYyQWN5b0NDVWFQY3FGbFRxVEdHSDJDcnB6cVNWOTY3b0hwUkdjMWE1Y1d3YzVDYVVPVmgtdzBYV1ZSUnZweUdTRnJKNFV1blg1Y285YTRYWlhWZlpxWkJ1SHREMGpzUEZaRlBKQ2pZY2VYZmlOZUlUelFMODFSQXM?oc=5\" target=\"_blank\">FAA Investigates Amazon (AMZN) Drone Crash in Michigan Amid Ongoing Delivery Innovations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GuruFocus</font>",
@@ -598,88 +689,6 @@
           "incident": {
             "matches": 1,
             "catScore": 28
-          },
-          "policy": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 0,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "Amazon Delivery Drone Crashes Into Garage After Hitting Cable in Michigan, FAA Investigates",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbjRha2dZRVN6TmNSc3NmcGRvbUY1VmdveXRLVjNEeHI1YW1LQkhiVDNnQWRlcVdTNmJSZ1h5Y1FGVDJHTzVzV3FzeXN2NnJDaDRDdVp3QlZUbXFqOS05M2htS2k2Skt1T2FGZkpickczWUl2RFlvMGt5WGpTNnk5Y2Q1ZHBwQ1A0Y1N2bHFXak5ydUVhSkxfR3ltVTJoSXpvQUFTdHlHb1ZsZXB2d0tTY193bWxfV3dW?oc=5\" target=\"_blank\">Amazon Delivery Drone Crashes Into Garage After Hitting Cable in Michigan, FAA Investigates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SSBCrack</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbjRha2dZRVN6TmNSc3NmcGRvbUY1VmdveXRLVjNEeHI1YW1LQkhiVDNnQWRlcVdTNmJSZ1h5Y1FGVDJHTzVzV3FzeXN2NnJDaDRDdVp3QlZUbXFqOS05M2htS2k2Skt1T2FGZkpickczWUl2RFlvMGt5WGpTNnk5Y2Q1ZHBwQ1A0Y1N2bHFXak5ydUVhSkxfR3ltVTJoSXpvQUFTdHlHb1ZsZXB2d0tTY193bWxfV3dW?oc=5\" target=\"_blank\">Amazon Delivery Drone Crashes Into Garage After Hitting Cable in Michigan, FAA Investigates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SSBCrack</font>",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbjRha2dZRVN6TmNSc3NmcGRvbUY1VmdveXRLVjNEeHI1YW1LQkhiVDNnQWRlcVdTNmJSZ1h5Y1FGVDJHTzVzV3FzeXN2NnJDaDRDdVp3QlZUbXFqOS05M2htS2k2Skt1T2FGZkpickczWUl2RFlvMGt5WGpTNnk5Y2Q1ZHBwQ1A0Y1N2bHFXak5ydUVhSkxfR3ltVTJoSXpvQUFTdHlHb1ZsZXB2d0tTY193bWxfV3dW?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbjRha2dZRVN6TmNSc3NmcGRvbUY1VmdveXRLVjNEeHI1YW1LQkhiVDNnQWRlcVdTNmJSZ1h5Y1FGVDJHTzVzV3FzeXN2NnJDaDRDdVp3QlZUbXFqOS05M2htS2k2Skt1T2FGZkpickczWUl2RFlvMGt5WGpTNnk5Y2Q1ZHBwQ1A0Y1N2bHFXak5ydUVhSkxfR3ltVTJoSXpvQUFTdHlHb1ZsZXB2d0tTY193bWxfV3dW?oc=5",
-      "publishedAt": "2026-11-24T04:10:15.000Z",
-      "source": "SSBCrack",
-      "_feedRegion": "us",
-      "_feedName": "FAA",
-      "_scoring": {
-        "score": 77,
-        "categories": [
-          "規制・政策",
-          "事故・事件",
-          "政策・インフラ"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 1,
-            "catScore": 32
-          },
-          "incident": {
-            "matches": 1,
-            "catScore": 28
-          },
-          "policy": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 0,
-          "titleBonus": 10
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "FAA Advances AAM Integration With eIPP Demonstration Flights, Certification Steps, New Primer and Draft Vertiport Circular - Avi-Go",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE1Lb3ViMWd3Y3ZXTDNEOG1IWEtwLTh3MVh5YV9SQklFRlFpWm5qemlERXBKdVhsSVp1cjEtbEhyR2dMUG1CSUc0blhXNUJRSW1GR3Itc2pDUkhwV19lUEptOWVETFNvczNOdWtORWkxYzJJdjA?oc=5\" target=\"_blank\">FAA Advances AAM Integration With eIPP Demonstration Flights, Certification Steps, New Primer and Draft Vertiport Circular</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Avi-Go</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE1Lb3ViMWd3Y3ZXTDNEOG1IWEtwLTh3MVh5YV9SQklFRlFpWm5qemlERXBKdVhsSVp1cjEtbEhyR2dMUG1CSUc0blhXNUJRSW1GR3Itc2pDUkhwV19lUEptOWVETFNvczNOdWtORWkxYzJJdjA?oc=5\" target=\"_blank\">FAA Advances AAM Integration With eIPP Demonstration Flights, Certification Steps, New Primer and Draft Vertiport Circular</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Avi-Go</font>",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1Lb3ViMWd3Y3ZXTDNEOG1IWEtwLTh3MVh5YV9SQklFRlFpWm5qemlERXBKdVhsSVp1cjEtbEhyR2dMUG1CSUc0blhXNUJRSW1GR3Itc2pDUkhwV19lUEptOWVETFNvczNOdWtORWkxYzJJdjA?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1Lb3ViMWd3Y3ZXTDNEOG1IWEtwLTh3MVh5YV9SQklFRlFpWm5qemlERXBKdVhsSVp1cjEtbEhyR2dMUG1CSUc0blhXNUJRSW1GR3Itc2pDUkhwV19lUEptOWVETFNvczNOdWtORWkxYzJJdjA?oc=5",
-      "publishedAt": "2026-11-20T10:50:04.000Z",
-      "source": "Avi-Go",
-      "_feedRegion": "global",
-      "_feedName": "Google News (Global)",
-      "_scoring": {
-        "score": 77,
-        "categories": [
-          "規制・政策",
-          "市場・資金",
-          "政策・インフラ"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 2,
-            "catScore": 40
-          },
-          "market": {
-            "matches": 1,
-            "catScore": 20
           },
           "policy": {
             "matches": 1,
@@ -778,20 +787,20 @@
       }
     },
     {
-      "title": "航空灯火をドローンで点検 釧路空港で実証実験を公開（動画）",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE02REM1OGU4OVYyVTV1OFFacVRxa2lRaUh4aGg4a3A0czlaMHFNcVF5d2JuamlQbkxHQzgtYTB5TVJBZ0ZWRzdhTFp0LWRneFJjX2s0Ml9pTGh1UlNuVVowd0t0amlYbjR4Y3c?oc=5\" target=\"_blank\">航空灯火をドローンで点検 釧路空港で実証実験を公開（動画）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">北海道新聞デジタル</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE02REM1OGU4OVYyVTV1OFFacVRxa2lRaUh4aGg4a3A0czlaMHFNcVF5d2JuamlQbkxHQzgtYTB5TVJBZ0ZWRzdhTFp0LWRneFJjX2s0Ml9pTGh1UlNuVVowd0t0amlYbjR4Y3c?oc=5\" target=\"_blank\">航空灯火をドローンで点検 釧路空港で実証実験を公開（動画）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">北海道新聞デジタル</font>",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE02REM1OGU4OVYyVTV1OFFacVRxa2lRaUh4aGg4a3A0czlaMHFNcVF5d2JuamlQbkxHQzgtYTB5TVJBZ0ZWRzdhTFp0LWRneFJjX2s0Ml9pTGh1UlNuVVowd0t0amlYbjR4Y3c?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE02REM1OGU4OVYyVTV1OFFacVRxa2lRaUh4aGg4a3A0czlaMHFNcVF5d2JuamlQbkxHQzgtYTB5TVJBZ0ZWRzdhTFp0LWRneFJjX2s0Ml9pTGh1UlNuVVowd0t0amlYbjR4Y3c?oc=5",
-      "publishedAt": "2026-11-26T09:52:00.000Z",
-      "source": "北海道新聞デジタル",
+      "title": "ドローンショーの企画・運営を手がける株式会社レッドクリフとソフトウェア開発事業を展開するアステリア株式会社がロボットソリューション事業で資本業務提携を締結",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTFBQUndzVGpQQVN5TWpTWnQ1RENibXlYZmpyQ1ZxV3A4dWVRWDB1VkFJNVpnYmRBdTZwM0RtbGJIWnJsZ3dEbTA1b05UU1JVMVk?oc=5\" target=\"_blank\">ドローンショーの企画・運営を手がける株式会社レッドクリフとソフトウェア開発事業を展開するアステリア株式会社がロボットソリューション事業で資本業務提携を締結</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">STARTUP LOG</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTFBQUndzVGpQQVN5TWpTWnQ1RENibXlYZmpyQ1ZxV3A4dWVRWDB1VkFJNVpnYmRBdTZwM0RtbGJIWnJsZ3dEbTA1b05UU1JVMVk?oc=5\" target=\"_blank\">ドローンショーの企画・運営を手がける株式会社レッドクリフとソフトウェア開発事業を展開するアステリア株式会社がロボットソリューション事業で資本業務提携を締結</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">STARTUP LOG</font>",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBQUndzVGpQQVN5TWpTWnQ1RENibXlYZmpyQ1ZxV3A4dWVRWDB1VkFJNVpnYmRBdTZwM0RtbGJIWnJsZ3dEbTA1b05UU1JVMVk?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBQUndzVGpQQVN5TWpTWnQ1RENibXlYZmpyQ1ZxV3A4dWVRWDB1VkFJNVpnYmRBdTZwM0RtbGJIWnJsZ3dEbTA1b05UU1JVMVk?oc=5",
+      "publishedAt": "2026-11-27T04:46:29.000Z",
+      "source": "STARTUP LOG",
       "_feedRegion": "jp",
-      "_feedName": "Google News (JP 政策/実証)",
+      "_feedName": "Google News (JP)",
       "_scoring": {
-        "score": 73,
+        "score": 74,
         "categories": [
           "技術・製品",
-          "政策・インフラ"
+          "市場・資金"
         ],
         "breakdown": {
           "required": true,
@@ -799,9 +808,9 @@
             "matches": 1,
             "catScore": 24
           },
-          "policy": {
-            "matches": 1,
-            "catScore": 24
+          "market": {
+            "matches": 2,
+            "catScore": 25
           },
           "sourceTrust": {
             "domain": "news.google.com",
@@ -810,6 +819,79 @@
           "freshness": 10,
           "titleBonus": 10,
           "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "空飛ぶクルマ「SKYDRIVE」を開発する株式会社SkyDriveがGMOインターネットグループから資金調達を実施",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTFBSMGVkRDNVV2JPaXpHTGRqaDBVbnJZaDlmNWI4UlFOUm1VZW9kb0cza1pGTlBvLW1GZVlfSVJqMlY0Wk1WLXFQSUtjdzd3ZzQ?oc=5\" target=\"_blank\">空飛ぶクルマ「SKYDRIVE」を開発する株式会社SkyDriveがGMOインターネットグループから資金調達を実施</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">STARTUP LOG</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTFBSMGVkRDNVV2JPaXpHTGRqaDBVbnJZaDlmNWI4UlFOUm1VZW9kb0cza1pGTlBvLW1GZVlfSVJqMlY0Wk1WLXFQSUtjdzd3ZzQ?oc=5\" target=\"_blank\">空飛ぶクルマ「SKYDRIVE」を開発する株式会社SkyDriveがGMOインターネットグループから資金調達を実施</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">STARTUP LOG</font>",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBSMGVkRDNVV2JPaXpHTGRqaDBVbnJZaDlmNWI4UlFOUm1VZW9kb0cza1pGTlBvLW1GZVlfSVJqMlY0Wk1WLXFQSUtjdzd3ZzQ?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBSMGVkRDNVV2JPaXpHTGRqaDBVbnJZaDlmNWI4UlFOUm1VZW9kb0cza1pGTlBvLW1GZVlfSVJqMlY0Wk1WLXFQSUtjdzd3ZzQ?oc=5",
+      "publishedAt": "2026-11-27T00:24:47.000Z",
+      "source": "STARTUP LOG",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP 事業者/実装)",
+      "_scoring": {
+        "score": 74,
+        "categories": [
+          "技術・製品",
+          "市場・資金"
+        ],
+        "breakdown": {
+          "required": true,
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "market": {
+            "matches": 2,
+            "catScore": 25
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 10,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "FAA investigating Amazon drone crash in Michigan, explained",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxQSzZqMGNnSzdILW5QaWtEYmVfNVJVeEhUMnlMeGE4am9SUm1WbUt1bEwxU2I3Tk5RbFI0eVhXTThOU01sODIwZUtabDAtMXN2LVFGVmpMdm5fWVhwSFd5VC1GR3NrUWxBekM1MHhUX3JTM0F0SkZmX1ZCVDNOZ0tTZldnUlFmNUR2X0JhWU1wb2lZN0ZBLXhicmZfM0JfeEVldkJHaWIxWjhHOW1XSV9mTjRKT1FZci1oTVlMZVhLTTZHeU4xTG9hV0FySG1lak55aE1jaEtlMmtaeVdwWmpya042dG5sdVdiVDVGSA?oc=5\" target=\"_blank\">FAA investigating Amazon drone crash in Michigan, explained</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Mary Sue</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxQSzZqMGNnSzdILW5QaWtEYmVfNVJVeEhUMnlMeGE4am9SUm1WbUt1bEwxU2I3Tk5RbFI0eVhXTThOU01sODIwZUtabDAtMXN2LVFGVmpMdm5fWVhwSFd5VC1GR3NrUWxBekM1MHhUX3JTM0F0SkZmX1ZCVDNOZ0tTZldnUlFmNUR2X0JhWU1wb2lZN0ZBLXhicmZfM0JfeEVldkJHaWIxWjhHOW1XSV9mTjRKT1FZci1oTVlMZVhLTTZHeU4xTG9hV0FySG1lak55aE1jaEtlMmtaeVdwWmpya042dG5sdVdiVDVGSA?oc=5\" target=\"_blank\">FAA investigating Amazon drone crash in Michigan, explained</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Mary Sue</font>",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQSzZqMGNnSzdILW5QaWtEYmVfNVJVeEhUMnlMeGE4am9SUm1WbUt1bEwxU2I3Tk5RbFI0eVhXTThOU01sODIwZUtabDAtMXN2LVFGVmpMdm5fWVhwSFd5VC1GR3NrUWxBekM1MHhUX3JTM0F0SkZmX1ZCVDNOZ0tTZldnUlFmNUR2X0JhWU1wb2lZN0ZBLXhicmZfM0JfeEVldkJHaWIxWjhHOW1XSV9mTjRKT1FZci1oTVlMZVhLTTZHeU4xTG9hV0FySG1lak55aE1jaEtlMmtaeVdwWmpya042dG5sdVdiVDVGSA?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQSzZqMGNnSzdILW5QaWtEYmVfNVJVeEhUMnlMeGE4am9SUm1WbUt1bEwxU2I3Tk5RbFI0eVhXTThOU01sODIwZUtabDAtMXN2LVFGVmpMdm5fWVhwSFd5VC1GR3NrUWxBekM1MHhUX3JTM0F0SkZmX1ZCVDNOZ0tTZldnUlFmNUR2X0JhWU1wb2lZN0ZBLXhicmZfM0JfeEVldkJHaWIxWjhHOW1XSV9mTjRKT1FZci1oTVlMZVhLTTZHeU4xTG9hV0FySG1lak55aE1jaEtlMmtaeVdwWmpya042dG5sdVdiVDVGSA?oc=5",
+      "publishedAt": "2026-11-27T07:15:00.000Z",
+      "source": "The Mary Sue",
+      "_feedRegion": "us",
+      "_feedName": "FAA",
+      "_scoring": {
+        "score": 73,
+        "categories": [
+          "規制・政策",
+          "事故・事件"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
+          "incident": {
+            "matches": 1,
+            "catScore": 28
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 15,
+          "titleBonus": 10
         },
         "pass": true
       }
@@ -839,80 +921,6 @@
           "incident": {
             "matches": 1,
             "catScore": 28
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 0,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "Prodrone、18.4億円のシリーズD調達完了。デュアルユース技術開発と国産ドローン量産を加速",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFAtU0l0ejQ0MjVIMUl3VGs2MnF5RF9vZkJLcGh3M0xuU0NUZ3BDRUhrOFNPY2JfOFU0cmtCTHdVdUk3S3NBWUlJNTQtMkExd3JNWHAtSWQyMEJqYnM?oc=5\" target=\"_blank\">Prodrone、18.4億円のシリーズD調達完了。デュアルユース技術開発と国産ドローン量産を加速</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DRONE.jp</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFAtU0l0ejQ0MjVIMUl3VGs2MnF5RF9vZkJLcGh3M0xuU0NUZ3BDRUhrOFNPY2JfOFU0cmtCTHdVdUk3S3NBWUlJNTQtMkExd3JNWHAtSWQyMEJqYnM?oc=5\" target=\"_blank\">Prodrone、18.4億円のシリーズD調達完了。デュアルユース技術開発と国産ドローン量産を加速</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DRONE.jp</font>",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAtU0l0ejQ0MjVIMUl3VGs2MnF5RF9vZkJLcGh3M0xuU0NUZ3BDRUhrOFNPY2JfOFU0cmtCTHdVdUk3S3NBWUlJNTQtMkExd3JNWHAtSWQyMEJqYnM?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAtU0l0ejQ0MjVIMUl3VGs2MnF5RF9vZkJLcGh3M0xuU0NUZ3BDRUhrOFNPY2JfOFU0cmtCTHdVdUk3S3NBWUlJNTQtMkExd3JNWHAtSWQyMEJqYnM?oc=5",
-      "publishedAt": "2026-11-24T08:47:30.000Z",
-      "source": "DRONE.jp",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP ドローン専門)",
-      "_scoring": {
-        "score": 71,
-        "categories": [
-          "技術・製品",
-          "市場・資金"
-        ],
-        "breakdown": {
-          "required": true,
-          "technology": {
-            "matches": 2,
-            "catScore": 30
-          },
-          "market": {
-            "matches": 2,
-            "catScore": 25
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 2,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "eve autonomyとブリヂストン、レベル4の自動運転技術と次世代タイヤ「AirFree」の組み合わせによる価値検証を推進",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5NZ01DQ2U0eVdmMldmbWxHWW10MnZpdXFJRUo3MGlMYm4yRWlPVFFQQWFoeklyV3BPdGlwVlVLZmhmZlJnOFBEazJHejlZQkhiTmJkZVR6b1pRclU?oc=5\" target=\"_blank\">eve autonomyとブリヂストン、レベル4の自動運転技術と次世代タイヤ「AirFree」の組み合わせによる価値検証を推進</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DRONE.jp</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5NZ01DQ2U0eVdmMldmbWxHWW10MnZpdXFJRUo3MGlMYm4yRWlPVFFQQWFoeklyV3BPdGlwVlVLZmhmZlJnOFBEazJHejlZQkhiTmJkZVR6b1pRclU?oc=5\" target=\"_blank\">eve autonomyとブリヂストン、レベル4の自動運転技術と次世代タイヤ「AirFree」の組み合わせによる価値検証を推進</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DRONE.jp</font>",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5NZ01DQ2U0eVdmMldmbWxHWW10MnZpdXFJRUo3MGlMYm4yRWlPVFFQQWFoeklyV3BPdGlwVlVLZmhmZlJnOFBEazJHejlZQkhiTmJkZVR6b1pRclU?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5NZ01DQ2U0eVdmMldmbWxHWW10MnZpdXFJRUo3MGlMYm4yRWlPVFFQQWFoeklyV3BPdGlwVlVLZmhmZlJnOFBEazJHejlZQkhiTmJkZVR6b1pRclU?oc=5",
-      "publishedAt": "2026-10-30T07:00:00.000Z",
-      "source": "DRONE.jp",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP ドローン専門)",
-      "_scoring": {
-        "score": 70,
-        "categories": [
-          "規制・政策",
-          "技術・製品"
-        ],
-        "breakdown": {
-          "required": true,
-          "regulation": {
-            "matches": 1,
-            "catScore": 32
-          },
-          "technology": {
-            "matches": 1,
-            "catScore": 24
           },
           "sourceTrust": {
             "domain": "news.google.com",
@@ -967,31 +975,36 @@
       }
     },
     {
-      "title": "九電ドローン、イオン熊本の爆発事故調査／測量データなど取得 –",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE53cUpaTWJ1a2FJQXBpMmNLbTJMM0ZjbmRzcGlHTE9BUXZ1bVRsZXl5bjl5Mnh2NXp2ZVVjZkxiX2FFcTN5YmVUVTh5Z1hmSFR2WHFQblZsdw?oc=5\" target=\"_blank\">九電ドローン、イオン熊本の爆発事故調査／測量データなど取得 –</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">電気新聞ウェブサイト</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE53cUpaTWJ1a2FJQXBpMmNLbTJMM0ZjbmRzcGlHTE9BUXZ1bVRsZXl5bjl5Mnh2NXp2ZVVjZkxiX2FFcTN5YmVUVTh5Z1hmSFR2WHFQblZsdw?oc=5\" target=\"_blank\">九電ドローン、イオン熊本の爆発事故調査／測量データなど取得 –</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">電気新聞ウェブサイト</font>",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE53cUpaTWJ1a2FJQXBpMmNLbTJMM0ZjbmRzcGlHTE9BUXZ1bVRsZXl5bjl5Mnh2NXp2ZVVjZkxiX2FFcTN5YmVUVTh5Z1hmSFR2WHFQblZsdw?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE53cUpaTWJ1a2FJQXBpMmNLbTJMM0ZjbmRzcGlHTE9BUXZ1bVRsZXl5bjl5Mnh2NXp2ZVVjZkxiX2FFcTN5YmVUVTh5Z1hmSFR2WHFQblZsdw?oc=5",
-      "publishedAt": "2026-11-26T21:00:19.000Z",
-      "source": "電気新聞ウェブサイト",
+      "title": "Prodrone、18.4億円のシリーズD調達完了。デュアルユース技術開発と国産ドローン量産を加速",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFAtU0l0ejQ0MjVIMUl3VGs2MnF5RF9vZkJLcGh3M0xuU0NUZ3BDRUhrOFNPY2JfOFU0cmtCTHdVdUk3S3NBWUlJNTQtMkExd3JNWHAtSWQyMEJqYnM?oc=5\" target=\"_blank\">Prodrone、18.4億円のシリーズD調達完了。デュアルユース技術開発と国産ドローン量産を加速</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DRONE.jp</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFAtU0l0ejQ0MjVIMUl3VGs2MnF5RF9vZkJLcGh3M0xuU0NUZ3BDRUhrOFNPY2JfOFU0cmtCTHdVdUk3S3NBWUlJNTQtMkExd3JNWHAtSWQyMEJqYnM?oc=5\" target=\"_blank\">Prodrone、18.4億円のシリーズD調達完了。デュアルユース技術開発と国産ドローン量産を加速</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DRONE.jp</font>",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAtU0l0ejQ0MjVIMUl3VGs2MnF5RF9vZkJLcGh3M0xuU0NUZ3BDRUhrOFNPY2JfOFU0cmtCTHdVdUk3S3NBWUlJNTQtMkExd3JNWHAtSWQyMEJqYnM?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAtU0l0ejQ0MjVIMUl3VGs2MnF5RF9vZkJLcGh3M0xuU0NUZ3BDRUhrOFNPY2JfOFU0cmtCTHdVdUk3S3NBWUlJNTQtMkExd3JNWHAtSWQyMEJqYnM?oc=5",
+      "publishedAt": "2026-11-24T08:47:30.000Z",
+      "source": "DRONE.jp",
       "_feedRegion": "jp",
-      "_feedName": "Google News (JP 事業者/実装)",
+      "_feedName": "Google News (JP ドローン専門)",
       "_scoring": {
-        "score": 68,
+        "score": 69,
         "categories": [
-          "事故・事件"
+          "技術・製品",
+          "市場・資金"
         ],
         "breakdown": {
           "required": true,
-          "incident": {
+          "technology": {
             "matches": 2,
-            "catScore": 35
+            "catScore": 30
+          },
+          "market": {
+            "matches": 2,
+            "catScore": 25
           },
           "sourceTrust": {
             "domain": "news.google.com",
             "multiplier": 0.8
           },
-          "freshness": 15,
+          "freshness": 0,
           "titleBonus": 10,
           "jpRegionBonus": 15
         },
@@ -999,17 +1012,17 @@
       }
     },
     {
-      "title": "Amazon Drone Crash in Michigan Draws FAA Investigation",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWEd6SG14WWs4NHlaQkFJdW1tRjRMeXVfcUpReW5KdXlRUXNPQV9VZXlvVFVtZE44emJraWpJemYzR2VLblVPOUUzblkyZFA1S3p2RTA1Z2pyRkFmRzdocTgzejhZWmRwZ0Vhd0llQ3lmTjY5YUtvaUFTTkdQa2t6RFl5M25nNWlDRnRPSnNwbWtncWlJbVhvdG5EVGdkeVM1XzNBbkI4QlR4aFU?oc=5\" target=\"_blank\">Amazon Drone Crash in Michigan Draws FAA Investigation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">marketscreener.com</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWEd6SG14WWs4NHlaQkFJdW1tRjRMeXVfcUpReW5KdXlRUXNPQV9VZXlvVFVtZE44emJraWpJemYzR2VLblVPOUUzblkyZFA1S3p2RTA1Z2pyRkFmRzdocTgzejhZWmRwZ0Vhd0llQ3lmTjY5YUtvaUFTTkdQa2t6RFl5M25nNWlDRnRPSnNwbWtncWlJbVhvdG5EVGdkeVM1XzNBbkI4QlR4aFU?oc=5\" target=\"_blank\">Amazon Drone Crash in Michigan Draws FAA Investigation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">marketscreener.com</font>",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWEd6SG14WWs4NHlaQkFJdW1tRjRMeXVfcUpReW5KdXlRUXNPQV9VZXlvVFVtZE44emJraWpJemYzR2VLblVPOUUzblkyZFA1S3p2RTA1Z2pyRkFmRzdocTgzejhZWmRwZ0Vhd0llQ3lmTjY5YUtvaUFTTkdQa2t6RFl5M25nNWlDRnRPSnNwbWtncWlJbVhvdG5EVGdkeVM1XzNBbkI4QlR4aFU?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWEd6SG14WWs4NHlaQkFJdW1tRjRMeXVfcUpReW5KdXlRUXNPQV9VZXlvVFVtZE44emJraWpJemYzR2VLblVPOUUzblkyZFA1S3p2RTA1Z2pyRkFmRzdocTgzejhZWmRwZ0Vhd0llQ3lmTjY5YUtvaUFTTkdQa2t6RFl5M25nNWlDRnRPSnNwbWtncWlJbVhvdG5EVGdkeVM1XzNBbkI4QlR4aFU?oc=5",
-      "publishedAt": "2026-11-24T10:02:24.000Z",
-      "source": "marketscreener.com",
+      "title": "Amazon drone’s shampoo drop-off ends in garage crash and FAA probe, Gizmodo reports",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiREFVX3lxTE1vbG5Da3dIY3J4bzBZZkNmY1p5TGZiM084dC1WRGpuT0hMQUo2SnVGc1dHMm9CMGg5T2lOZjgwdnVWYXl4?oc=5\" target=\"_blank\">Amazon drone’s shampoo drop-off ends in garage crash and FAA probe, Gizmodo reports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Digg</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiREFVX3lxTE1vbG5Da3dIY3J4bzBZZkNmY1p5TGZiM084dC1WRGpuT0hMQUo2SnVGc1dHMm9CMGg5T2lOZjgwdnVWYXl4?oc=5\" target=\"_blank\">Amazon drone’s shampoo drop-off ends in garage crash and FAA probe, Gizmodo reports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Digg</font>",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1vbG5Da3dIY3J4bzBZZkNmY1p5TGZiM084dC1WRGpuT0hMQUo2SnVGc1dHMm9CMGg5T2lOZjgwdnVWYXl4?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1vbG5Da3dIY3J4bzBZZkNmY1p5TGZiM084dC1WRGpuT0hMQUo2SnVGc1dHMm9CMGg5T2lOZjgwdnVWYXl4?oc=5",
+      "publishedAt": "2026-11-27T04:23:43.000Z",
+      "source": "Digg",
       "_feedRegion": "us",
       "_feedName": "FAA",
       "_scoring": {
-        "score": 66,
+        "score": 68,
         "categories": [
           "規制・政策",
           "事故・事件"
@@ -1021,15 +1034,52 @@
             "catScore": 32
           },
           "incident": {
-            "matches": 2,
-            "catScore": 35
+            "matches": 1,
+            "catScore": 28
           },
           "sourceTrust": {
             "domain": "news.google.com",
             "multiplier": 0.8
           },
-          "freshness": 2,
+          "freshness": 10,
           "titleBonus": 10
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "航空灯火をドローンで点検 釧路空港で実証実験を公開（動画）",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE02REM1OGU4OVYyVTV1OFFacVRxa2lRaUh4aGg4a3A0czlaMHFNcVF5d2JuamlQbkxHQzgtYTB5TVJBZ0ZWRzdhTFp0LWRneFJjX2s0Ml9pTGh1UlNuVVowd0t0amlYbjR4Y3c?oc=5\" target=\"_blank\">航空灯火をドローンで点検 釧路空港で実証実験を公開（動画）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">北海道新聞デジタル</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE02REM1OGU4OVYyVTV1OFFacVRxa2lRaUh4aGg4a3A0czlaMHFNcVF5d2JuamlQbkxHQzgtYTB5TVJBZ0ZWRzdhTFp0LWRneFJjX2s0Ml9pTGh1UlNuVVowd0t0amlYbjR4Y3c?oc=5\" target=\"_blank\">航空灯火をドローンで点検 釧路空港で実証実験を公開（動画）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">北海道新聞デジタル</font>",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE02REM1OGU4OVYyVTV1OFFacVRxa2lRaUh4aGg4a3A0czlaMHFNcVF5d2JuamlQbkxHQzgtYTB5TVJBZ0ZWRzdhTFp0LWRneFJjX2s0Ml9pTGh1UlNuVVowd0t0amlYbjR4Y3c?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE02REM1OGU4OVYyVTV1OFFacVRxa2lRaUh4aGg4a3A0czlaMHFNcVF5d2JuamlQbkxHQzgtYTB5TVJBZ0ZWRzdhTFp0LWRneFJjX2s0Ml9pTGh1UlNuVVowd0t0amlYbjR4Y3c?oc=5",
+      "publishedAt": "2026-11-26T09:52:00.000Z",
+      "source": "北海道新聞デジタル",
+      "_feedRegion": "jp",
+      "_feedName": "Google News (JP 政策/実証)",
+      "_scoring": {
+        "score": 68,
+        "categories": [
+          "技術・製品",
+          "政策・インフラ"
+        ],
+        "breakdown": {
+          "required": true,
+          "technology": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "policy": {
+            "matches": 1,
+            "catScore": 24
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 5,
+          "titleBonus": 10,
+          "jpRegionBonus": 15
         },
         "pass": true
       }
@@ -1072,96 +1122,27 @@
       }
     },
     {
-      "title": "ドローン×AIでインフラ維持管理を高度化、ブルーイノベーションとElithが業務提携",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE5BU3N3aU9CVmw5dEVJdU11emYzc0s4TlhxZ2JOUmhDWmExcm93R3ZrVU1NcWJlVmU5YndDNTVRa1RiVkVpdE1mUEtBT2dOVWxuMDdsZXJKZUN3UUl4VThKM05PX1ZZYXBIeWRiRA?oc=5\" target=\"_blank\">ドローン×AIでインフラ維持管理を高度化、ブルーイノベーションとElithが業務提携</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ITmedia</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE5BU3N3aU9CVmw5dEVJdU11emYzc0s4TlhxZ2JOUmhDWmExcm93R3ZrVU1NcWJlVmU5YndDNTVRa1RiVkVpdE1mUEtBT2dOVWxuMDdsZXJKZUN3UUl4VThKM05PX1ZZYXBIeWRiRA?oc=5\" target=\"_blank\">ドローン×AIでインフラ維持管理を高度化、ブルーイノベーションとElithが業務提携</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ITmedia</font>",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5BU3N3aU9CVmw5dEVJdU11emYzc0s4TlhxZ2JOUmhDWmExcm93R3ZrVU1NcWJlVmU5YndDNTVRa1RiVkVpdE1mUEtBT2dOVWxuMDdsZXJKZUN3UUl4VThKM05PX1ZZYXBIeWRiRA?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5BU3N3aU9CVmw5dEVJdU11emYzc0s4TlhxZ2JOUmhDWmExcm93R3ZrVU1NcWJlVmU5YndDNTVRa1RiVkVpdE1mUEtBT2dOVWxuMDdsZXJKZUN3UUl4VThKM05PX1ZZYXBIeWRiRA?oc=5",
-      "publishedAt": "2026-11-13T08:00:00.000Z",
-      "source": "ITmedia",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP 政策/実証)",
-      "_scoring": {
-        "score": 64,
-        "categories": [
-          "市場・資金",
-          "政策・インフラ"
-        ],
-        "breakdown": {
-          "required": true,
-          "market": {
-            "matches": 2,
-            "catScore": 25
-          },
-          "policy": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 0,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "ROBOZが韓国DRTと戦略的業務提携、日本市場向けドローン共同開発へ",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE1Rektjc3ZxZWlhaG02ZkN1QTBxNmMzQTVGWW5ERXM1VHVoaE9rZWVSQ1BmZDZFWU1Lc0dUNFpiX3IxekpaSzlpYkEzblpnM3JJOWFaTlZrdk9mLWFSYVJkcUZQRkNCdVJrbWc?oc=5\" target=\"_blank\">ROBOZが韓国DRTと戦略的業務提携、日本市場向けドローン共同開発へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ドローンジャーナル</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE1Rektjc3ZxZWlhaG02ZkN1QTBxNmMzQTVGWW5ERXM1VHVoaE9rZWVSQ1BmZDZFWU1Lc0dUNFpiX3IxekpaSzlpYkEzblpnM3JJOWFaTlZrdk9mLWFSYVJkcUZQRkNCdVJrbWc?oc=5\" target=\"_blank\">ROBOZが韓国DRTと戦略的業務提携、日本市場向けドローン共同開発へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ドローンジャーナル</font>",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Rektjc3ZxZWlhaG02ZkN1QTBxNmMzQTVGWW5ERXM1VHVoaE9rZWVSQ1BmZDZFWU1Lc0dUNFpiX3IxekpaSzlpYkEzblpnM3JJOWFaTlZrdk9mLWFSYVJkcUZQRkNCdVJrbWc?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Rektjc3ZxZWlhaG02ZkN1QTBxNmMzQTVGWW5ERXM1VHVoaE9rZWVSQ1BmZDZFWU1Lc0dUNFpiX3IxekpaSzlpYkEzblpnM3JJOWFaTlZrdk9mLWFSYVJkcUZQRkNCdVJrbWc?oc=5",
-      "publishedAt": "2026-11-16T08:00:00.000Z",
+      "title": "大和インフラロボティクスの自律点検ロボット「サソリ」、国交省SBIRに採択",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1NdlJJeDAwSDNsV3UzVzA2TDV3RlhHM3EwSW5BcHhtemkzMm5NY3IwcnNmNHIzMUItV1ZxX0t5SjRma0VZNE9jOU5hNjRmRDJ6d08zTWc2aU82cUxOUS1HU1lEUFdXbDhuRGJVUmowQ3Ayeks2cjFyNg?oc=5\" target=\"_blank\">大和インフラロボティクスの自律点検ロボット「サソリ」、国交省SBIRに採択</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ドローンジャーナル</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1NdlJJeDAwSDNsV3UzVzA2TDV3RlhHM3EwSW5BcHhtemkzMm5NY3IwcnNmNHIzMUItV1ZxX0t5SjRma0VZNE9jOU5hNjRmRDJ6d08zTWc2aU82cUxOUS1HU1lEUFdXbDhuRGJVUmowQ3Ayeks2cjFyNg?oc=5\" target=\"_blank\">大和インフラロボティクスの自律点検ロボット「サソリ」、国交省SBIRに採択</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ドローンジャーナル</font>",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1NdlJJeDAwSDNsV3UzVzA2TDV3RlhHM3EwSW5BcHhtemkzMm5NY3IwcnNmNHIzMUItV1ZxX0t5SjRma0VZNE9jOU5hNjRmRDJ6d08zTWc2aU82cUxOUS1HU1lEUFdXbDhuRGJVUmowQ3Ayeks2cjFyNg?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1NdlJJeDAwSDNsV3UzVzA2TDV3RlhHM3EwSW5BcHhtemkzMm5NY3IwcnNmNHIzMUItV1ZxX0t5SjRma0VZNE9jOU5hNjRmRDJ6d08zTWc2aU82cUxOUS1HU1lEUFdXbDhuRGJVUmowQ3Ayeks2cjFyNg?oc=5",
+      "publishedAt": "2026-11-26T02:04:45.000Z",
       "source": "ドローンジャーナル",
       "_feedRegion": "jp",
-      "_feedName": "Google News (JP 政策/実証)",
+      "_feedName": "Google News (JP 経済メディア)",
       "_scoring": {
-        "score": 64,
+        "score": 65,
         "categories": [
-          "技術・製品",
-          "市場・資金"
-        ],
-        "breakdown": {
-          "required": true,
-          "technology": {
-            "matches": 1,
-            "catScore": 24
-          },
-          "market": {
-            "matches": 2,
-            "catScore": 25
-          },
-          "sourceTrust": {
-            "domain": "news.google.com",
-            "multiplier": 0.8
-          },
-          "freshness": 0,
-          "titleBonus": 10,
-          "jpRegionBonus": 15
-        },
-        "pass": true
-      }
-    },
-    {
-      "title": "SkyDrive、韓国を代表するヘリコプター運航会社HeliKorea社および空飛ぶクルマの運航会社Verty社と空飛ぶクルマの運航・整備・教育体制の構築に向けたMoUを締結",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE44aGt2NzhwYVRETXVWa2swQ0dkTk5iTDYwOFZDbEptNURuZm1WbHQzZGk4QW9vZW5hanhxSldhc3VZckQ5Tlpjc1hGNnJUR0NscTk3YnhhcHZlOFVKLXdHdUQycThqcUVSMzZMY1pXdjNFQQ?oc=5\" target=\"_blank\">SkyDrive、韓国を代表するヘリコプター運航会社HeliKorea社および空飛ぶクルマの運航会社Verty社と空飛ぶクルマの運航・整備・教育体制の構築に向けたMoUを締結</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Infoseek</font>",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE44aGt2NzhwYVRETXVWa2swQ0dkTk5iTDYwOFZDbEptNURuZm1WbHQzZGk4QW9vZW5hanhxSldhc3VZckQ5Tlpjc1hGNnJUR0NscTk3YnhhcHZlOFVKLXdHdUQycThqcUVSMzZMY1pXdjNFQQ?oc=5\" target=\"_blank\">SkyDrive、韓国を代表するヘリコプター運航会社HeliKorea社および空飛ぶクルマの運航会社Verty社と空飛ぶクルマの運航・整備・教育体制の構築に向けたMoUを締結</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Infoseek</font>",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE44aGt2NzhwYVRETXVWa2swQ0dkTk5iTDYwOFZDbEptNURuZm1WbHQzZGk4QW9vZW5hanhxSldhc3VZckQ5Tlpjc1hGNnJUR0NscTk3YnhhcHZlOFVKLXdHdUQycThqcUVSMzZMY1pXdjNFQQ?oc=5",
-      "googleNewsUrl": "https://news.google.com/rss/articles/CBMickFVX3lxTE44aGt2NzhwYVRETXVWa2swQ0dkTk5iTDYwOFZDbEptNURuZm1WbHQzZGk4QW9vZW5hanhxSldhc3VZckQ5Tlpjc1hGNnJUR0NscTk3YnhhcHZlOFVKLXdHdUQycThqcUVSMzZMY1pXdjNFQQ?oc=5",
-      "publishedAt": "2026-11-27T04:45:25.000Z",
-      "source": "Infoseek",
-      "_feedRegion": "jp",
-      "_feedName": "Google News (JP 事業者/実装)",
-      "_scoring": {
-        "score": 64,
-        "categories": [
+          "規制・政策",
           "政策・インフラ"
         ],
         "breakdown": {
           "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
           "policy": {
             "matches": 1,
             "catScore": 24
@@ -1170,9 +1151,44 @@
             "domain": "news.google.com",
             "multiplier": 0.8
           },
-          "freshness": 20,
-          "titleBonus": 10,
+          "freshness": 5,
           "jpRegionBonus": 15
+        },
+        "pass": true
+      }
+    },
+    {
+      "title": "Amazon Drone Crash in Michigan Draws FAA Investigation",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWEd6SG14WWs4NHlaQkFJdW1tRjRMeXVfcUpReW5KdXlRUXNPQV9VZXlvVFVtZE44emJraWpJemYzR2VLblVPOUUzblkyZFA1S3p2RTA1Z2pyRkFmRzdocTgzejhZWmRwZ0Vhd0llQ3lmTjY5YUtvaUFTTkdQa2t6RFl5M25nNWlDRnRPSnNwbWtncWlJbVhvdG5EVGdkeVM1XzNBbkI4QlR4aFU?oc=5\" target=\"_blank\">Amazon Drone Crash in Michigan Draws FAA Investigation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">marketscreener.com</font>",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWEd6SG14WWs4NHlaQkFJdW1tRjRMeXVfcUpReW5KdXlRUXNPQV9VZXlvVFVtZE44emJraWpJemYzR2VLblVPOUUzblkyZFA1S3p2RTA1Z2pyRkFmRzdocTgzejhZWmRwZ0Vhd0llQ3lmTjY5YUtvaUFTTkdQa2t6RFl5M25nNWlDRnRPSnNwbWtncWlJbVhvdG5EVGdkeVM1XzNBbkI4QlR4aFU?oc=5\" target=\"_blank\">Amazon Drone Crash in Michigan Draws FAA Investigation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">marketscreener.com</font>",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWEd6SG14WWs4NHlaQkFJdW1tRjRMeXVfcUpReW5KdXlRUXNPQV9VZXlvVFVtZE44emJraWpJemYzR2VLblVPOUUzblkyZFA1S3p2RTA1Z2pyRkFmRzdocTgzejhZWmRwZ0Vhd0llQ3lmTjY5YUtvaUFTTkdQa2t6RFl5M25nNWlDRnRPSnNwbWtncWlJbVhvdG5EVGdkeVM1XzNBbkI4QlR4aFU?oc=5",
+      "googleNewsUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWEd6SG14WWs4NHlaQkFJdW1tRjRMeXVfcUpReW5KdXlRUXNPQV9VZXlvVFVtZE44emJraWpJemYzR2VLblVPOUUzblkyZFA1S3p2RTA1Z2pyRkFmRzdocTgzejhZWmRwZ0Vhd0llQ3lmTjY5YUtvaUFTTkdQa2t6RFl5M25nNWlDRnRPSnNwbWtncWlJbVhvdG5EVGdkeVM1XzNBbkI4QlR4aFU?oc=5",
+      "publishedAt": "2026-11-24T10:02:24.000Z",
+      "source": "marketscreener.com",
+      "_feedRegion": "us",
+      "_feedName": "FAA",
+      "_scoring": {
+        "score": 64,
+        "categories": [
+          "規制・政策",
+          "事故・事件"
+        ],
+        "breakdown": {
+          "required": true,
+          "regulation": {
+            "matches": 1,
+            "catScore": 32
+          },
+          "incident": {
+            "matches": 2,
+            "catScore": 35
+          },
+          "sourceTrust": {
+            "domain": "news.google.com",
+            "multiplier": 0.8
+          },
+          "freshness": 0,
+          "titleBonus": 10
         },
         "pass": true
       }
